@@ -1207,5 +1207,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h51",
+    "slug": "autochrome",
+    "name_en": "Autochrome",
+    "name_zh": "奥托克罗姆",
+    "description_en": "Lumière autochrome plate: potato-starch dyed grain mosaic, muted pointillist color, warm amber glass-plate veil.",
+    "description_zh": "卢米埃尔奥托克罗姆：淀粉颗粒彩网、低饱和点彩、暖琥珀玻璃底片罩。",
+    "source": "hermes-explore",
+    "image": "styles/94-autochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h52",
+    "slug": "chromolithograph",
+    "name_en": "Chromolithograph",
+    "name_zh": "彩色石印",
+    "description_en": "Multi-stone color lithography: opaque overprinted inks, slight plate misregister, crayon-on-stone grain, cream paper.",
+    "description_zh": "多石彩色石印：不透明叠墨、轻微套印偏移、蜡笔石纹、乳色纸。",
+    "source": "hermes-explore",
+    "image": "styles/95-chromolithograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h53",
+    "slug": "maki-e",
+    "name_en": "Maki-e",
+    "name_zh": "莳绘",
+    "description_en": "Sprinkled-metal urushi: gold and silver powder in wet lacquer, togidashi polish, black lacquer ground.",
+    "description_zh": "莳绘漆艺：金银粉洒入湿漆、研出抛光、黑漆地。",
+    "source": "hermes-explore",
+    "image": "styles/96-maki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h54",
+    "slug": "bromoil",
+    "name_en": "Bromoil",
+    "name_zh": "溴油",
+    "description_en": "Pictorialist bromoil: bleached gelatin inked with greasy litho inks, brush-inked highlights, warm brown-black grain.",
+    "description_zh": "画意溴油印相：漂白明胶着油墨、笔刷提亮、暖棕黑颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/97-bromoil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h55",
+    "slug": "chigiri-e",
+    "name_en": "Chigiri-e",
+    "name_zh": "撕纸画",
+    "description_en": "Torn-washi collage painting: deckle fiber edges, layered colored paper, sparse sumi accents; not papercut.",
+    "description_zh": "撕纸画：和纸毛边、色纸叠层、疏淡墨线；非剪纸。",
+    "source": "hermes-explore",
+    "image": "styles/98-chigiri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

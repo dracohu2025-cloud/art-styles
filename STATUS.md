@@ -148,6 +148,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 93, PNG count 93. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 11 (exactly 5, h51–h55)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en          | name_zh       | image                           |
+|-----|------------------|---------------|---------------------------------|
+| h51 | Autochrome       | 奥托克罗姆    | styles/94-autochrome.png        |
+| h52 | Chromolithograph | 彩色石印      | styles/95-chromolithograph.png  |
+| h53 | Maki-e           | 莳绘          | styles/96-maki-e.png            |
+| h54 | Bromoil          | 溴油          | styles/97-bromoil.png           |
+| h55 | Chigiri-e        | 撕纸画        | styles/98-chigiri-e.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 98, PNG count 98. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
