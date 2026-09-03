@@ -3092,5 +3092,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h196",
+    "slug": "khokhloma",
+    "name_en": "Khokhloma",
+    "name_zh": "霍赫洛玛",
+    "description_en": "Russian folk lacquer: black ground, vermillion, gold berry-and-leaf scrolls, travka strokes.",
+    "description_zh": "俄罗斯民间漆绘：黑地、朱红、金色浆果卷草与草叶笔。",
+    "source": "hermes-explore",
+    "image": "styles/239-khokhloma.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h197",
+    "slug": "palekh",
+    "name_en": "Palekh",
+    "name_zh": "帕列赫",
+    "description_en": "Palekh lacquer miniature: jet ground, jewel tempera, hair-thin gold contours on papier-mâché.",
+    "description_zh": "帕列赫漆微型画：黑地、宝石蛋彩、发丝金线勾勒纸浆胎。",
+    "source": "hermes-explore",
+    "image": "styles/240-palekh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h198",
+    "slug": "oribe",
+    "name_en": "Oribe",
+    "name_zh": "织部",
+    "description_en": "Oribe ware: copper-green glaze pools, iron-brown underglaze drawing on rustic stoneware.",
+    "description_zh": "织部烧：铜绿釉积、铁褐釉下绘、粗陶质地。",
+    "source": "hermes-explore",
+    "image": "styles/241-oribe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h199",
+    "slug": "pichwai",
+    "name_en": "Pichwai",
+    "name_zh": "皮切瓦伊",
+    "description_en": "Nathdwara cloth painting: mineral pigments, lotus-pond ornament, gold highlights on cotton.",
+    "description_zh": "纳特瓦拉布画：矿物颜料、莲池纹饰、棉布金彩。",
+    "source": "hermes-explore",
+    "image": "styles/242-pichwai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h200",
+    "slug": "wycinanki",
+    "name_en": "Wycinanki",
+    "name_zh": "维齐南基",
+    "description_en": "Polish folk paper-cut: layered scissor edges, bilateral florals, rooster medallions, hard color planes.",
+    "description_zh": "波兰民间剪纸：层叠刀口、左右对称花卉、公鸡团花、硬色块。",
+    "source": "hermes-explore",
+    "image": "styles/243-wycinanki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

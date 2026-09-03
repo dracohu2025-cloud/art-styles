@@ -554,6 +554,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 238, PNG count 238. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 40 (exactly 5, h196–h200)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en   | name_zh     | image                       |
+|------|-----------|-------------|-----------------------------|
+| h196 | Khokhloma | 霍赫洛玛    | styles/239-khokhloma.png    |
+| h197 | Palekh    | 帕列赫      | styles/240-palekh.png       |
+| h198 | Oribe     | 织部        | styles/241-oribe.png        |
+| h199 | Pichwai   | 皮切瓦伊    | styles/242-pichwai.png      |
+| h200 | Wycinanki | 维齐南基    | styles/243-wycinanki.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 243, PNG count 243. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
