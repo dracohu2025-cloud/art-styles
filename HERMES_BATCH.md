@@ -13,6 +13,9 @@ You are expanding the Style Atlas gallery at `/workspace/art-styles` (GitHub Pag
 5. **Read `styles/styles.json` first.** Do not duplicate any existing `name_en`, `name_zh`, `slug`, or `id`.
 6. Generate images with Hermes **image_gen** using model **gpt-image-2-medium**.
 7. Youthful original characters only. **No IP lookalikes, no porn, no politics.**
+   - **Gender mix target ≈ 6 female : 1 male** (visual appeal favors female OC).
+   - Default each 5-style batch to **5 female**. At most **1 male** per batch, and only when the live catalog’s male share is clearly under ~1/7.
+   - Never ship a male-majority batch. Prefer cute/beautiful youthful female OC as the default subject vehicle for the style.
 8. Save images under `public/styles/` (e.g. `NN-slug.png`). Append entries to `styles/styles.json` with `"source": "hermes-explore"`.
 9. Keep the gallery UI **flat** — do **not** add creative/diverge filters or category tabs.
 10. After all 5 are in catalog + images on disk:

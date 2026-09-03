@@ -9,3 +9,8 @@ This gallery is **style-first**. Characters are not locked.
 - English name primary (`name_en`), Chinese secondary (`name_zh`)
 
 Imports skip anything named REJECT and anything under `strips/`.
+
+## Gender mix
+
+Target gallery ratio ≈ **6 female : 1 male**. Female OC carry stronger visual appeal here; male OC are occasional accents only. Hermes batches should default to female subjects.
+
