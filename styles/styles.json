@@ -2312,5 +2312,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h136",
+    "slug": "trompe-loeil",
+    "name_en": "Trompe-l'œil",
+    "name_zh": "视错觉绘画",
+    "description_en": "Trompe-l'œil: illusionistic panel painting that fools the eye with painted niches, peeling paper, cast shadows and tactile stone; not photoreal CGI, not collage, not cubism, not plain oil portrait.",
+    "description_zh": "视错觉绘画：以画成的壁龛、卷边纸、投影与石材触感欺骗眼睛；非写实三维渲染、非拼贴、非立体派、非普通油画肖像。",
+    "source": "hermes-explore",
+    "image": "styles/179-trompe-loeil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h137",
+    "slug": "palladium-print",
+    "name_en": "Palladium Print",
+    "name_zh": "钯盐印相",
+    "description_en": "Palladium print (palladiotype): warm olive-gray metallic midtones on matte paper tooth, long scale without carbon blacks; not platinum-only platinotype, not silver gelatin, not cyanotype, not Van Dyke brown.",
+    "description_zh": "钯盐印相：哑光纸齿上偏暖橄榄灰金属中间调、长阶调而无炭黑；非纯铂盐、非银盐明胶、非蓝晒、非范戴克棕印。",
+    "source": "hermes-explore",
+    "image": "styles/180-palladium-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h138",
+    "slug": "nerikomi",
+    "name_en": "Nerikomi",
+    "name_zh": "练込",
+    "description_en": "Nerikomi: pictorial field from laminated colored clays, agateware striations and cane-sliced floral cross-sections with clay-body seams; not a ceramic figurine object, not polymer clay, not ebru, not wood intarsia.",
+    "description_zh": "练込：层叠色泥成像，玛瑙纹与切片花纹泥棒断面、泥体接缝可见；非陶瓷人偶物件、非聚合物黏土、非水拓、非嵌木细工。",
+    "source": "hermes-explore",
+    "image": "styles/181-nerikomi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h139",
+    "slug": "tempera-grassa",
+    "name_en": "Tempera Grassa",
+    "name_zh": "油性蛋彩",
+    "description_en": "Tempera grassa: egg-oil emulsion, satin fusion faster than oil and softer than pure egg tempera hatching, luminous local color without heavy impasto; not egg tempera, not oil glazing, not gouache, not acrylic.",
+    "description_zh": "油性蛋彩：蛋油乳液，比油画干得快、比纯蛋彩细笔更融合，缎面本地色而无厚堆；非蛋彩细笔、非透明罩染、非水粉、非丙烯。",
+    "source": "hermes-explore",
+    "image": "styles/182-tempera-grassa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h140",
+    "slug": "millefiori",
+    "name_en": "Millefiori",
+    "name_zh": "千花玻璃",
+    "description_en": "Millefiori: kiln-fused sliced glass murrine canes as a pictorial field, transparent and opaque discs with glass edges and bubbles; not stained-glass leading, not ceramic mosaic, not polymer clay, not kaleidoscope photo.",
+    "description_zh": "千花玻璃：窑融切片千花玻璃棒作为画面，透与不透圆片、玻璃边与气泡可见；非铅条彩绘玻璃、非陶瓷马赛克、非聚合物黏土、非万花筒照片。",
+    "source": "hermes-explore",
+    "image": "styles/183-millefiori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -386,6 +386,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 178, PNG count 178. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 28 (exactly 5, h136–h140)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh     | image                            |
+|------|-----------------|-------------|----------------------------------|
+| h136 | Trompe-l'œil    | 视错觉绘画  | styles/179-trompe-loeil.png      |
+| h137 | Palladium Print | 钯盐印相    | styles/180-palladium-print.png   |
+| h138 | Nerikomi        | 练込        | styles/181-nerikomi.png          |
+| h139 | Tempera Grassa  | 油性蛋彩    | styles/182-tempera-grassa.png    |
+| h140 | Millefiori      | 千花玻璃    | styles/183-millefiori.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 183, PNG count 183. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
