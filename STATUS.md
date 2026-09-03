@@ -190,6 +190,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 108, PNG count 108. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 14 (exactly 5, h66–h70)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en       | name_zh     | image                          |
+|-----|---------------|-------------|--------------------------------|
+| h66 | Kalamkari     | 卡拉姆卡里  | styles/109-kalamkari.png       |
+| h67 | Plique-à-jour | 镂空珐琅    | styles/110-plique-a-jour.png   |
+| h68 | Decalcomania  | 移画法      | styles/111-decalcomania.png    |
+| h69 | Platinotype   | 铂盐印相    | styles/112-platinotype.png     |
+| h70 | Chine-collé   | 薄纸拼贴版  | styles/113-chine-colle.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 113, PNG count 113. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

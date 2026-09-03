@@ -1402,5 +1402,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h66",
+    "slug": "kalamkari",
+    "name_en": "Kalamkari",
+    "name_zh": "卡拉姆卡里",
+    "description_en": "Hand-drawn Indian textile: iron-mordant kalam outlines, vegetable madder-indigo-myrobalan dyes, floral vine borders on cotton; not batik, not ukiyo-e.",
+    "description_zh": "卡拉姆卡里：铁媒竹笔勾线、植物茜红靛蓝诃子黄、棉布藤蔓边饰；非蜡染、非浮世绘。",
+    "source": "hermes-explore",
+    "image": "styles/109-kalamkari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h67",
+    "slug": "plique-a-jour",
+    "name_en": "Plique-à-jour",
+    "name_zh": "镂空珐琅",
+    "description_en": "Open-backed translucent enamel: light through vitreous cells, gold filigree cloisons, jewel glow; not stained glass, not cloisonnism painting.",
+    "description_zh": "镂空珐琅：无底透光釉室、金丝掐丝、宝石通透；非彩绘玻璃、非景泰蓝主义绘画。",
+    "source": "hermes-explore",
+    "image": "styles/110-plique-a-jour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h68",
+    "slug": "decalcomania",
+    "name_en": "Decalcomania",
+    "name_zh": "移画法",
+    "description_en": "Surrealist paint-pull: pigment pressed and peeled, Rorschach blots, feathery transfer ridges; not watercolor wash, not fumage.",
+    "description_zh": "移画法：夹压揭开颜料、墨渍对称、羽毛状转印肌理；非水彩晕染、非烟熏绘。",
+    "source": "hermes-explore",
+    "image": "styles/111-decalcomania.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h69",
+    "slug": "platinotype",
+    "name_en": "Platinotype",
+    "name_zh": "铂盐印相",
+    "description_en": "Platinum-palladium print: matte paper, luminous greys, warm-neutral midtones, contact-print bite; not daguerreotype, not tintype, not albumen.",
+    "description_zh": "铂盐印相：哑光纸、铂灰高光、暖中性中间调、接触印相锐度；非达盖尔银版、非铁版、非蛋白印相。",
+    "source": "hermes-explore",
+    "image": "styles/112-platinotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h70",
+    "slug": "chine-colle",
+    "name_en": "Chine-collé",
+    "name_zh": "薄纸拼贴版",
+    "description_en": "Intaglio with laminated tissue: gampi/China paper patches, plate emboss, colored collé under etched line; not chigiri-e, not letterpress.",
+    "description_zh": "薄纸拼贴版：雁皮薄纸压合、凹版压痕、色纸衬于蚀刻线；非撕纸画、非凸版压印。",
+    "source": "hermes-explore",
+    "image": "styles/113-chine-colle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
