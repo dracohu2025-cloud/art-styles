@@ -2897,5 +2897,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h181",
+    "slug": "iznik",
+    "name_en": "Iznik",
+    "name_zh": "伊兹尼克",
+    "description_en": "Iznik: Ottoman underglaze on white tin glaze in cobalt, turquoise, emerald, and bole red with black contours and saz-leaf arabesques, ceramic craquelure; not azulejo, not sometsuke, not majolica, not cuerda seca, not cloisonné.",
+    "description_zh": "伊兹尼克：白锡釉上钴蓝、青绿、翠绿与铁红釉下彩，黑线与萨兹叶卷草，釉面开片；非阿兹勒霍、非染付、非马约利卡、非干绳彩釉、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/224-iznik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h182",
+    "slug": "scagliola",
+    "name_en": "Scagliola",
+    "name_zh": "仿石石膏嵌",
+    "description_en": "Scagliola: polished pigmented gypsum inlay imitating marble and hard-stone compartments, wax sheen and hairline joints; not pietra dura, not intarsia, not marquetry, not mosaic, not fresco.",
+    "description_zh": "仿石石膏嵌：着色石膏镶嵌仿大理石与硬石分格，蜡光与接缝细线；非硬石镶嵌、非嵌木、非细木镶嵌、非马赛克、非湿壁画。",
+    "source": "hermes-explore",
+    "image": "styles/225-scagliola.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h183",
+    "slug": "bandhani",
+    "name_en": "Bandhani",
+    "name_zh": "班达尼",
+    "description_en": "Bandhani: tied-resist cloth of tiny undyed dots and puckered rings in indigo, turmeric, and madder; not shibori, not batik, not ikat, not ajrakh, not katazome.",
+    "description_zh": "班达尼：扎防染密点与皱环，靛蓝、姜黄与茜红；非绞缬、非蜡染、非经扎染、非阿吉拉赫、非型染。",
+    "source": "hermes-explore",
+    "image": "styles/226-bandhani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h184",
+    "slug": "carbro",
+    "name_en": "Carbro",
+    "name_zh": "碳溴印相",
+    "description_en": "Carbro: three-color carbon-bromide pigment transfer, matte paper tooth, slight register fringing, creamy highlights; not dye transfer, not monochrome carbon print, not cibachrome, not autochrome, not gum bichromate.",
+    "description_zh": "碳溴印相：三色碳溴色素转印，哑光纸齿、轻微套色偏移、乳色高光；非染料转印、非单色碳印、非西巴克罗姆、非奥托克罗姆、非树胶重铬酸盐。",
+    "source": "hermes-explore",
+    "image": "styles/227-carbro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h185",
+    "slug": "velatura",
+    "name_en": "Velatura",
+    "name_zh": "薄纱罩染",
+    "description_en": "Velatura: thin semi-opaque oil veils over dried underpaint, milky optical haze and under-hue shining through; not transparent oil glazing, not scumbling alone, not sfumato, not alla prima, not gouache wash.",
+    "description_zh": "薄纱罩染：半透明油彩薄纱覆于干透底色，乳雾光学与底色透出；非透明罩染、非单纯干擦、非烟雾法、非直接画法、非水粉湿画。",
+    "source": "hermes-explore",
+    "image": "styles/228-velatura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

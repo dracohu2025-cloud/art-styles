@@ -512,6 +512,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 223, PNG count 223. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 37 (exactly 5, h181–h185)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en   | name_zh       | image                       |
+|------|-----------|---------------|-----------------------------|
+| h181 | Iznik     | 伊兹尼克      | styles/224-iznik.png        |
+| h182 | Scagliola | 仿石石膏嵌    | styles/225-scagliola.png    |
+| h183 | Bandhani  | 班达尼        | styles/226-bandhani.png     |
+| h184 | Carbro    | 碳溴印相      | styles/227-carbro.png       |
+| h185 | Velatura  | 薄纱罩染      | styles/228-velatura.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 228, PNG count 228. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
