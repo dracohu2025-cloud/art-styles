@@ -1727,5 +1727,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h91",
+    "slug": "tenebrism",
+    "name_en": "Tenebrism",
+    "name_zh": "暗色主义",
+    "description_en": "Caravaggesque tenebrism: a single hard shaft of light carving form from pitch-black umber; not generic chiaroscuro, not void black-ground illust, not cinematic rim light.",
+    "description_zh": "暗色主义：一束硬光从近黑中凿出形体；非普通明暗法、非黑底插画、非电影轮廓光。",
+    "source": "hermes-explore",
+    "image": "styles/134-tenebrism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h92",
+    "slug": "hatsuboku",
+    "name_en": "Hatsuboku",
+    "name_zh": "泼墨",
+    "description_en": "Splashed-ink on xuan: explosive blooms, runbacks and controlled accidents; not xieyi lyric brush, not mogu boneless color, not suminagashi marbling.",
+    "description_zh": "泼墨：宣纸上的墨瀑、回渗与受控偶然；非写意笔意、非没骨设色、非墨流大理石纹。",
+    "source": "hermes-explore",
+    "image": "styles/135-hatsuboku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h93",
+    "slug": "mokume-gane",
+    "name_en": "Mokume-gane",
+    "name_zh": "木目金",
+    "description_en": "Laminated copper-gold-silver forged into wood-grain metal strata; not wood photography, not damascus as weapon, not marquetry.",
+    "description_zh": "木目金：铜金银叠锻成木纹金属层；非木纹摄影、非大马士革兵器、非细木镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/136-mokume-gane.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h94",
+    "slug": "tsuishu",
+    "name_en": "Tsuishu",
+    "name_zh": "堆朱",
+    "description_en": "Carved cinnabar lacquer in stacked vermillion urushi relief; not cloisonné wires, not maki-e sprinkled gold, not chinkin gold-fill incising.",
+    "description_zh": "堆朱：多层朱红漆剔刻浮雕；非掐丝珐琅、非莳绘洒金、非沉金填金阴刻。",
+    "source": "hermes-explore",
+    "image": "styles/137-tsuishu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h95",
+    "slug": "repousse",
+    "name_en": "Repoussé",
+    "name_zh": "锤揲",
+    "description_en": "Hammered sheet metal raised from the reverse into relief, planishing facets and punch texture; not line engraving, not mokume-gane grain, not cast sculpture.",
+    "description_zh": "锤揲：从背面锤起薄金属浮雕、锤痕与錾点；非线刻铜版、非木目金纹理、非浇铸雕塑。",
+    "source": "hermes-explore",
+    "image": "styles/138-repousse.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

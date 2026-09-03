@@ -260,6 +260,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 133, PNG count 133. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 19 (exactly 5, h91–h95)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en     | name_zh   | image                        |
+|-----|-------------|-----------|------------------------------|
+| h91 | Tenebrism   | 暗色主义  | styles/134-tenebrism.png     |
+| h92 | Hatsuboku   | 泼墨      | styles/135-hatsuboku.png     |
+| h93 | Mokume-gane | 木目金    | styles/136-mokume-gane.png   |
+| h94 | Tsuishu     | 堆朱      | styles/137-tsuishu.png       |
+| h95 | Repoussé    | 锤揲      | styles/138-repousse.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 138, PNG count 138. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
