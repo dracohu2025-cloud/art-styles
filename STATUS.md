@@ -246,6 +246,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 128, PNG count 128. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 18 (exactly 5, h86–h90)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en            | name_zh     | image                             |
+|-----|--------------------|-------------|-----------------------------------|
+| h86 | Anthotype          | 花汁印相    | styles/129-anthotype.png          |
+| h87 | Aizome             | 蓝染        | styles/130-aizome.png             |
+| h88 | Verre Églomisé     | 反绘金箔    | styles/131-verre-eglomise.png     |
+| h89 | Kesi               | 缂丝        | styles/132-kesi.png               |
+| h90 | Viscosity Printing | 粘度套印    | styles/133-viscosity-printing.png |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 133, PNG count 133. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

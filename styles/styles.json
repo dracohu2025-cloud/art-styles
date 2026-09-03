@@ -1662,5 +1662,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h86",
+    "slug": "anthotype",
+    "name_en": "Anthotype",
+    "name_zh": "花汁印相",
+    "description_en": "Sun-faded plant-juice photographic print: chlorophyll, berry, and turmeric dyes on paper; not cyanotype blue, not gum bichromate, not salt-print sepia.",
+    "description_zh": "花汁印相：植物汁液日光晒印、叶绿素与姜黄淡染、低反差纸纹；非蓝晒、非树胶重铬酸盐、非盐纸。",
+    "source": "hermes-explore",
+    "image": "styles/129-anthotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h87",
+    "slug": "aizome",
+    "name_en": "Aizome",
+    "name_zh": "蓝染",
+    "description_en": "Japanese indigo vat dye: layered blues, white resist reserves, cloth tooth; not shibori crinkle, not ikat warp, not batik wax, not katazome stencil.",
+    "description_zh": "蓝染：多层靛蓝浸染、留白防染、布纹齿感；非绞缬褶皱、非经扎染、非蜡染龟裂、非型染浆防。",
+    "source": "hermes-explore",
+    "image": "styles/130-aizome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h88",
+    "slug": "verre-eglomise",
+    "name_en": "Verre Églomisé",
+    "name_zh": "反绘金箔",
+    "description_en": "Reverse-gilded glass: gold/silver leaf engraved behind glass with black asphaltum field; not stained glass, not kirikane, not maki-e, not cloisonné.",
+    "description_zh": "反绘金箔：玻璃背面贴金银箔再阴刻、黑漆底、镜面反光；非彩绘玻璃、非截金、非莳绘、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/131-verre-eglomise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h89",
+    "slug": "kesi",
+    "name_en": "Kesi",
+    "name_zh": "缂丝",
+    "description_en": "Chinese slit-tapestry silk weave: weft-faced color blocks, vertical slits, woven sheen; not embroidery, not yuzen, not kalamkari.",
+    "description_zh": "缂丝：通经断纬、色块竖缝、丝织光泽；非刺绣针脚、非友禅、非卡拉姆卡里。",
+    "source": "hermes-explore",
+    "image": "styles/132-kesi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h90",
+    "slug": "viscosity-printing",
+    "name_en": "Viscosity Printing",
+    "name_zh": "粘度套印",
+    "description_en": "Hayter simultaneous intaglio: lean and fat inks of different tack from one plate, overlapping translucent hues; not risograph, not screen overlay, not rainbow-roll litho.",
+    "description_zh": "粘度套印：同一凹版以不同油性油墨一次叠印、半透明色层；非孔版套印、非丝网叠印、非彩虹石印。",
+    "source": "hermes-explore",
+    "image": "styles/133-viscosity-printing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
