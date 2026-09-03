@@ -134,6 +134,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 88, PNG count 88. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 10 (exactly 5, h46–h50)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en           | name_zh   | image                            |
+|-----|-------------------|-----------|----------------------------------|
+| h46 | Frottage          | 拓印擦绘  | styles/89-frottage.png           |
+| h47 | Katazome          | 型染      | styles/90-katazome.png           |
+| h48 | Letterpress       | 凸版压印  | styles/91-letterpress.png        |
+| h49 | Stipple Engraving | 点刻铜版  | styles/92-stipple-engraving.png  |
+| h50 | Colored Pencil    | 彩铅      | styles/93-colored-pencil.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 93, PNG count 93. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

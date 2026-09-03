@@ -1142,5 +1142,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h46",
+    "slug": "frottage",
+    "name_en": "Frottage",
+    "name_zh": "拓印擦绘",
+    "description_en": "Rubbed graphite and crayon over relief textures; wood grain and stone transfer as the look.",
+    "description_zh": "石墨与蜡笔拓擦浮雕纹理；木纹石纹转印作为主导画风。",
+    "source": "hermes-explore",
+    "image": "styles/89-frottage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h47",
+    "slug": "katazome",
+    "name_en": "Katazome",
+    "name_zh": "型染",
+    "description_en": "Rice-paste stencil resist on hemp: indigo-persimmon dye, katagami rims, cloth weave.",
+    "description_zh": "型纸防染：靛蓝与柿涩、型纸硬边、麻布织纹可见。",
+    "source": "hermes-explore",
+    "image": "styles/90-katazome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h48",
+    "slug": "letterpress",
+    "name_en": "Letterpress",
+    "name_zh": "凸版压印",
+    "description_en": "Relief impression into cotton paper: ink squash, tactile bite, limited spot inks.",
+    "description_zh": "凸版压入棉纸：油墨外溢、纸面咬痕、限色专色。",
+    "source": "hermes-explore",
+    "image": "styles/91-letterpress.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h49",
+    "slug": "stipple-engraving",
+    "name_en": "Stipple Engraving",
+    "name_zh": "点刻铜版",
+    "description_en": "Copper-plate stipple: image from graver dots and flicks, velvety dotted tone, plate mark.",
+    "description_zh": "铜版点刻：点与剔刀构成形体，绒面网点调子与版痕。",
+    "source": "hermes-explore",
+    "image": "styles/92-stipple-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h50",
+    "slug": "colored-pencil",
+    "name_en": "Colored Pencil",
+    "name_zh": "彩铅",
+    "description_en": "Layered wax-pigment pencils on toothy paper: directional hatch, burnish, paper tooth in lights.",
+    "description_zh": "蜡质彩铅叠层：定向排线、压光密色、亮部露纸齿。",
+    "source": "hermes-explore",
+    "image": "styles/93-colored-pencil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
