@@ -14,7 +14,8 @@ Imports skip anything named REJECT and anything under `strips/`.
 
 Target gallery ratio ≈ **6 female : 1 male**. Female OC carry stronger visual appeal here; male OC are occasional accents only. Hermes batches should default to female subjects.
 
-## Character vibe
+## Character vibe vs style
 
-Subject vehicle should feel like Draco's X AIGC refs: **anime, youthful, pretty, lively, cute female OC**. Bright, approachable, energetic — not solemn, gloomy, tragic, or stiff. Style technique carries the variety; the girl stays charming.
+- **Character (subject):** prefer youthful, pretty, lively, cute female OC — anime charm, approachable energy.
+- **Style (technique):** fully free to explore. Do not water down dark/experimental styles to force “cute aesthetics.” Put the bright girl into any technique (neon void, mezzotint, scratchboard, etc.).
 
