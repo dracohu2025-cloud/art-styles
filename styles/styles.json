@@ -2637,5 +2637,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h161",
+    "slug": "mokulito",
+    "name_en": "Mokulito",
+    "name_zh": "木石版画",
+    "description_en": "Mokulito: greasy litho crayon and tusche printed from plywood so wood grain ghosts through the tone; not stone lithograph, not woodcut, not wood engraving, not drypoint.",
+    "description_zh": "木石版画：在胶合板上用油性蜡笔与油墨水绘制再转印，木纹透入调子；非石印石版、非木面木刻、非木口木刻、非干刻。",
+    "source": "hermes-explore",
+    "image": "styles/204-mokulito.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h162",
+    "slug": "cibachrome",
+    "name_en": "Cibachrome",
+    "name_zh": "西巴克罗姆",
+    "description_en": "Cibachrome: dye-bleach azo color on high-gloss polyester, extreme Dmax and hyper-chroma; not dye transfer, not autochrome, not gelatin silver, not chromogenic C-print.",
+    "description_zh": "西巴克罗姆：偶氮染料漂白法高光聚酯彩印，极深黑与超饱和；非染料转印、非奥托克罗姆、非明胶银盐、非成色彩扩。",
+    "source": "hermes-explore",
+    "image": "styles/205-cibachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h163",
+    "slug": "tsujigahana",
+    "name_en": "Tsujigahana",
+    "name_zh": "辻花染",
+    "description_en": "Tsujigahana: shibori-reserved blotches plus ink drawing and gold leaf on silk; not yuzen, not katazome, not bingata, not plain shibori, not batik.",
+    "description_zh": "辻花染：绞缬留白晕斑加墨绘与金箔于丝绸；非友禅、非型染、非红型、非单纯绞缬、非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/206-tsujigahana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h164",
+    "slug": "stumpwork",
+    "name_en": "Stumpwork",
+    "name_zh": "垫绣",
+    "description_en": "Stumpwork: padded satin stitch, wired slips and needlelace in raised silk relief on linen; not flat embroidery, not or nué, not sashiko, not needle felt.",
+    "description_zh": "垫绣：填充缎绣、金属丝脱卸花瓣与针织蕾丝的立体丝线浮雕；非平面刺绣、非晕金绣、非刺子绣、非羊毛毡。",
+    "source": "hermes-explore",
+    "image": "styles/207-stumpwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h165",
+    "slug": "toile-de-jouy",
+    "name_en": "Toile de Jouy",
+    "name_zh": "茹伊印花",
+    "description_en": "Toile de Jouy: monochrome copperplate pastoral line printed on cream cotton, fabric weave visible; not etching-on-paper, not letterpress, not chromolithograph, not ben-day dots.",
+    "description_zh": "茹伊印花：单色铜版田园线描印于乳色棉布，布纹可见；非纸本蚀刻、非凸版压印、非彩色石印、非本戴网点。",
+    "source": "hermes-explore",
+    "image": "styles/208-toile-de-jouy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

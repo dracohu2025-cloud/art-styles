@@ -456,6 +456,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 203, PNG count 203. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 33 (exactly 5, h161–h165)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh     | image                           |
+|------|----------------|-------------|---------------------------------|
+| h161 | Mokulito       | 木石版画    | styles/204-mokulito.png         |
+| h162 | Cibachrome     | 西巴克罗姆  | styles/205-cibachrome.png       |
+| h163 | Tsujigahana    | 辻花染      | styles/206-tsujigahana.png      |
+| h164 | Stumpwork      | 垫绣        | styles/207-stumpwork.png        |
+| h165 | Toile de Jouy  | 茹伊印花    | styles/208-toile-de-jouy.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 208, PNG count 208. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
