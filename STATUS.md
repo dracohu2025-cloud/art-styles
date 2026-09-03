@@ -176,6 +176,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 103, PNG count 103. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 13 (exactly 5, h61–h65)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en  | name_zh     | image                     |
+|-----|----------|-------------|---------------------------|
+| h61 | Ebru     | 土耳其水拓  | styles/104-ebru.png       |
+| h62 | Fumage   | 烟熏绘      | styles/105-fumage.png     |
+| h63 | Shibori  | 绞缬        | styles/106-shibori.png    |
+| h64 | Tintype  | 铁版照相    | styles/107-tintype.png    |
+| h65 | Kirikane | 截金        | styles/108-kirikane.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 108, PNG count 108. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

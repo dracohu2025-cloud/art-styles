@@ -1337,5 +1337,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h61",
+    "slug": "ebru",
+    "name_en": "Ebru",
+    "name_zh": "土耳其水拓",
+    "description_en": "Turkish paper marbling: mineral pigments on sized water, combed stone and gelgit veins transferred to paper; not suminagashi, not watercolor wash.",
+    "description_zh": "土耳其水拓：矿物颜料浮于胶液水面、梳出石纹与波浪后拓于纸；非墨流、非水彩晕染。",
+    "source": "hermes-explore",
+    "image": "styles/104-ebru.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h62",
+    "slug": "fumage",
+    "name_en": "Fumage",
+    "name_zh": "烟熏绘",
+    "description_en": "Smoke painting: candle and lamp soot deposited on paper, fixed carbon plumes and scorch veils; not charcoal, not carbon dust, not mezzotint.",
+    "description_zh": "烟熏绘：烛烟灯炱沉积于纸、定影后的碳羽与焦边；非炭笔、非炭粉画、非美柔汀。",
+    "source": "hermes-explore",
+    "image": "styles/105-fumage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h63",
+    "slug": "shibori",
+    "name_en": "Shibori",
+    "name_zh": "绞缬",
+    "description_en": "Tie-resist indigo dyeing: bound kanoko, mokume folds, itajime clamps, white reserve on ai-iro cloth; not batik, not ikat, not katazome.",
+    "description_zh": "绞缬：绑扎鹿子、木目褶皱、板締め几何、白留与蓝靛布；非蜡染、非经扎染、非型染。",
+    "source": "hermes-explore",
+    "image": "styles/106-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h64",
+    "slug": "tintype",
+    "name_en": "Tintype",
+    "name_zh": "铁版照相",
+    "description_en": "Ferrotype on japanned iron: wet-collodion positive, pewter highlights, chocolate midtones, plate varnish; not daguerreotype, not albumen print.",
+    "description_zh": "铁版照相：漆铁湿版正像、锡色高光、巧克力中间调、漆面；非达盖尔银版、非蛋白印相。",
+    "source": "hermes-explore",
+    "image": "styles/107-tintype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h65",
+    "slug": "kirikane",
+    "name_en": "Kirikane",
+    "name_zh": "截金",
+    "description_en": "Cut gold leaf: hairline strips and geometric lattice on mineral-pigment ground; not maki-e sprinkled lacquer, not cloisonnism.",
+    "description_zh": "截金：切金箔细条与几何格子贴于矿物色地；非莳绘洒金、非景泰蓝主义。",
+    "source": "hermes-explore",
+    "image": "styles/108-kirikane.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
