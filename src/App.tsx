@@ -152,13 +152,13 @@ export default function App() {
                 onClick={() => setOpen(idx)}
               >
                 <figure>
-                  <img
-                    src={asset(s.image)}
-                    alt={`${s.name_en} / ${s.name_zh}`}
-                    width={s.width}
-                    height={s.height}
-                    loading="lazy"
-                  />
+                  <div className="thumb">
+                    <img
+                      src={asset(s.image)}
+                      alt={`${s.name_en} / ${s.name_zh}`}
+                      loading="lazy"
+                    />
+                  </div>
                   <figcaption>
                     <h2>{s.name_en}</h2>
                     <p className="zh">{s.name_zh}</p>
