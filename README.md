@@ -66,13 +66,13 @@ Ten techniques chosen to look as different from each other as the catalog gets �
   </tr>
 </table>
 
-[Browse all 118 stills in the live gallery →](https://dracohu2025-cloud.github.io/art-styles/)
+[Browse 100+ stills in the live gallery →](https://dracohu2025-cloud.github.io/art-styles/)
 
 ## At a glance
 
 | | |
 |---|---|
-| Catalog | **118** technique stills, still growing |
+| Catalog | **100+** technique stills, and growing |
 | Frame | Native **16:9** (1672×941) — unmodified imports |
 | Labels | Bilingual `name_en` / `name_zh` — true art-style keywords, never subject titles |
 | Growth | Hermes-explore batches of five new techniques at a time |
