@@ -218,6 +218,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 118, PNG count 118. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 16 (exactly 5, h76–h80)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en        | name_zh     | image                           |
+|-----|----------------|-------------|---------------------------------|
+| h76 | Bingata        | 红型        | styles/119-bingata.png          |
+| h77 | Cloisonné      | 掐丝珐琅    | styles/120-cloisonne.png        |
+| h78 | Pietra Dura    | 硬石镶嵌    | styles/121-pietra-dura.png      |
+| h79 | Van Dyke Brown | 范戴克棕印  | styles/122-van-dyke-brown.png   |
+| h80 | Shin-hanga     | 新版画      | styles/123-shin-hanga.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 123, PNG count 123. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

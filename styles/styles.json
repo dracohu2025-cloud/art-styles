@@ -1532,5 +1532,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h76",
+    "slug": "bingata",
+    "name_en": "Bingata",
+    "name_zh": "红型",
+    "description_en": "Okinawan stencil-resist dyeing: rice-paste resist, vivid tropical pigments, crisp stencil edges; not katazome, not yuzen, not shibori, not batik.",
+    "description_zh": "红型：冲绳型染、米糊防染、鲜艳矿物色、型纸锐边；非型染京风、非友禅、非绞缬、非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/119-bingata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h77",
+    "slug": "cloisonne",
+    "name_en": "Cloisonné",
+    "name_zh": "掐丝珐琅",
+    "description_en": "Wire-cell enamel: gold cloisons filled with opaque vitreous glaze, polished flush; not cloisonnism painting, not champlevé, not plique-à-jour.",
+    "description_zh": "掐丝珐琅：金丝隔室填不透明釉、磨平抛光；非景泰蓝主义绘画、非錾胎珐琅、非镂空珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/120-cloisonne.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h78",
+    "slug": "pietra-dura",
+    "name_en": "Pietra Dura",
+    "name_zh": "硬石镶嵌",
+    "description_en": "Florentine hardstone inlay: cut lapis, malachite, jasper fitted hairline, polished mineral sheen; not wood marquetry, not grouted mosaic, not raden.",
+    "description_zh": "硬石镶嵌：切割青金石、孔雀石、碧玉严丝拼合、抛光石面；非细木镶嵌、非填缝马赛克、非螺钿。",
+    "source": "hermes-explore",
+    "image": "styles/121-pietra-dura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h79",
+    "slug": "van-dyke-brown",
+    "name_en": "Van Dyke Brown",
+    "name_zh": "范戴克棕印",
+    "description_en": "Iron-silver brown print on paper: chocolate-sepia, matte fiber, chemical wash edges; not salt print, not albumen, not platinotype, not cyanotype.",
+    "description_zh": "范戴克棕印：铁银棕影、哑光纸纤维、药液边晕；非盐纸、非蛋白、非铂盐、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/122-van-dyke-brown.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h80",
+    "slug": "shin-hanga",
+    "name_en": "Shin-hanga",
+    "name_zh": "新版画",
+    "description_en": "Taisho–Showa woodblock: bokashi gradations, fine keyblock, atmospheric perspective; not Edo ukiyo-e, not generic mokuhanga, not rimpa.",
+    "description_zh": "新版画：大正昭和木版、ぼかし晕色、细墨线、空气透视；非江户浮世绘、非泛水印木刻、非琳派。",
+    "source": "hermes-explore",
+    "image": "styles/123-shin-hanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
