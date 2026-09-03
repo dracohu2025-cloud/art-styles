@@ -50,6 +50,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 58, PNG count 58. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 4 (exactly 5, h16–h20)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en    | name_zh   | image                    |
+|-----|------------|-----------|--------------------------|
+| h16 | Fresco     | 湿壁画    | styles/59-fresco.png     |
+| h17 | Sgraffito  | 刮刻灰泥  | styles/60-sgraffito.png  |
+| h18 | Lithograph | 石版画    | styles/61-lithograph.png |
+| h19 | Sanguine   | 红粉笔    | styles/62-sanguine.png   |
+| h20 | Gongbi     | 工笔      | styles/63-gongbi.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 63, PNG count 63. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

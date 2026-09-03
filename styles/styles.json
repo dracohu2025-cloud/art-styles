@@ -752,5 +752,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h16",
+    "slug": "fresco",
+    "name_en": "Fresco",
+    "name_zh": "湿壁画",
+    "description_en": "Buon fresco: mineral pigment soaked into wet lime plaster, powdery matte tooth, faint giornate seams.",
+    "description_zh": "湿壁画：矿物色渗入湿石灰泥，粉质哑光齿感，隐约分日接缝。",
+    "source": "hermes-explore",
+    "image": "styles/59-fresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h17",
+    "slug": "sgraffito",
+    "name_en": "Sgraffito",
+    "name_zh": "刮刻灰泥",
+    "description_en": "Layered colored plaster; dark underlayer revealed by scratched incised lines and gouge hatching.",
+    "description_zh": "多层色泥；刮穿表层露出底色，刀痕排线与刻槽。",
+    "source": "hermes-explore",
+    "image": "styles/60-sgraffito.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h18",
+    "slug": "lithograph",
+    "name_en": "Lithograph",
+    "name_zh": "石版画",
+    "description_en": "Greasy crayon on limestone grain, tusche washes, warm-black ink on cream rag paper.",
+    "description_zh": "石灰石蜡笔颗粒、药墨晕、奶油棉纸暖黑墨。",
+    "source": "hermes-explore",
+    "image": "styles/61-lithograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h19",
+    "slug": "sanguine",
+    "name_en": "Sanguine",
+    "name_zh": "红粉笔",
+    "description_en": "Iron-oxide red chalk on laid paper, stump blend, paper tooth, white-chalk heightening.",
+    "description_zh": "氧化铁红粉笔、擦笔晕、纸纹齿感、白粉笔提亮。",
+    "source": "hermes-explore",
+    "image": "styles/62-sanguine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h20",
+    "slug": "gongbi",
+    "name_en": "Gongbi",
+    "name_zh": "工笔",
+    "description_en": "Meticulous ink outlines, layered mineral-color fills on silk, even graded washes in closed contours.",
+    "description_zh": "细匀墨线、矿物色多层填染、绢本闭合轮廓内均匀渲染。",
+    "source": "hermes-explore",
+    "image": "styles/63-gongbi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
