@@ -2572,5 +2572,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h156",
+    "slug": "karazuri",
+    "name_en": "Karazuri",
+    "name_zh": "空摺",
+    "description_en": "Karazuri: uninked woodblock blind embossing, white-on-white raised washi relief, sparse dry keyblock; not kirazuri mica, not nishiki-e brocade, not bokashi, not letterpress type, not mokuhanga watercolor bleed.",
+    "description_zh": "空摺：无墨木版压出白上白浮凸和纸肌理，仅少量干墨主线；非云母摺、非锦绘、非木版渐层、非凸版铅字、非水印木刻晕染。",
+    "source": "hermes-explore",
+    "image": "styles/199-karazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h157",
+    "slug": "pate-de-verre",
+    "name_en": "Pâte-de-verre",
+    "name_zh": "熔铸玻璃",
+    "description_en": "Pâte-de-verre: kiln-cast crushed-glass paste, granular frit glow, satin fused mass and trapped bubbles; not stained glass leading, not cloisonné, not verre églomisé, not plique-à-jour, not millefiori canes.",
+    "description_zh": "熔铸玻璃：碎玻璃糊窑铸，颗粒内光与亚光熔体、气泡；非彩绘玻璃铅条、非景泰蓝、非玻璃背面贴金、非镂空珐琅、非千花玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/200-pate-de-verre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h158",
+    "slug": "dye-transfer",
+    "name_en": "Dye Transfer",
+    "name_zh": "染料转印",
+    "description_en": "Dye transfer: analog three-color imbibition print, rich continuous-tone dye on gelatin paper; not gelatin silver, not autochrome mosaic, not chromolithograph, not inkjet, not carbon print.",
+    "description_zh": "染料转印：三色吸墨转印，明胶纸上浓郁连续调染料层；非明胶银盐、非奥托克罗姆色网、非彩色石版、非喷墨、非碳印法。",
+    "source": "hermes-explore",
+    "image": "styles/201-dye-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h159",
+    "slug": "metalcut",
+    "name_en": "Metalcut",
+    "name_zh": "金属凸版",
+    "description_en": "Metalcut: 15th-century dotted manner, punched white dots in a black metal-relief field, white-line ornament; not woodcut grain, not line engraving, not stipple engraving, not mezzotint, not etching burr.",
+    "description_zh": "金属凸版：十五世纪点刻法，黑底打出白点与白线纹饰；非木刻木纹、非线刻铜版、非点刻铜版、非美柔汀、非蚀刻毛刺。",
+    "source": "hermes-explore",
+    "image": "styles/202-metalcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h160",
+    "slug": "mishima",
+    "name_en": "Mishima",
+    "name_zh": "三岛嵌",
+    "description_en": "Mishima: incised or stamped stoneware inlaid with white slip, scraped flush buncheong-mishima lines; not sashiko, not sgraffito, not cuerda seca, not nerikomi, not kintsugi.",
+    "description_zh": "三岛嵌：灰褐陶胎刻印填白化妆土再刮平的镶嵌线纹；非刺子绣、非刮刻灰泥、非干线法、非练込、非金缮。",
+    "source": "hermes-explore",
+    "image": "styles/203-mishima.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

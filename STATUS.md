@@ -442,6 +442,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 198, PNG count 198. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 32 (exactly 5, h156–h160)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh     | image                           |
+|------|----------------|-------------|---------------------------------|
+| h156 | Karazuri       | 空摺        | styles/199-karazuri.png         |
+| h157 | Pâte-de-verre  | 熔铸玻璃    | styles/200-pate-de-verre.png    |
+| h158 | Dye Transfer   | 染料转印    | styles/201-dye-transfer.png     |
+| h159 | Metalcut       | 金属凸版    | styles/202-metalcut.png         |
+| h160 | Mishima        | 三岛嵌      | styles/203-mishima.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 203, PNG count 203. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
