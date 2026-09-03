@@ -3222,5 +3222,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h206",
+    "slug": "pattachitra",
+    "name_en": "Pattachitra",
+    "name_zh": "帕塔奇特拉",
+    "description_en": "Odisha Pattachitra: cloth support, mineral pigments, bold black outlines, flat unshaded color, dense floral borders.",
+    "description_zh": "奥里萨帕塔奇特拉：布面矿物颜料、粗黑线、平涂无明暗、密花边框。",
+    "source": "hermes-explore",
+    "image": "styles/249-pattachitra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h207",
+    "slug": "persian-miniature",
+    "name_en": "Persian Miniature",
+    "name_zh": "波斯细密画",
+    "description_en": "Persian miniature: opaque watercolor and gold, ultra-fine brush, jewel local color, high horizon, flattened patterned space.",
+    "description_zh": "波斯细密画：不透明水彩与金箔、极细笔、宝石固有色、高视平、平面纹样空间。",
+    "source": "hermes-explore",
+    "image": "styles/250-persian-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h208",
+    "slug": "zellige",
+    "name_en": "Zellige",
+    "name_zh": "泽利格",
+    "description_en": "Moroccan zellige: hand-cut glazed tesserae, geometric star polygons, grout lines, tin-glaze cobalt and turquoise.",
+    "description_zh": "摩洛哥泽利格：手切釉陶马赛克、几何星纹、填缝线、锡釉钴蓝与青绿。",
+    "source": "hermes-explore",
+    "image": "styles/251-zellige.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h209",
+    "slug": "sosaku-hanga",
+    "name_en": "Sosaku-hanga",
+    "name_zh": "创作版画",
+    "description_en": "Sōsaku-hanga: self-carved woodblock, visible gouge, uneven baren impression, limited mineral pigments on washi.",
+    "description_zh": "创作版画：自刻木版、可见刀痕、不均马连压印、和纸上的有限矿物色。",
+    "source": "hermes-explore",
+    "image": "styles/252-sosaku-hanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h210",
+    "slug": "macchiaioli",
+    "name_en": "Macchiaioli",
+    "name_zh": "斑块派",
+    "description_en": "Macchiaioli macchia method: plein-air value patches, Tuscan sun, abbreviated edges, oil masses instead of line.",
+    "description_zh": "斑块派：外光明暗色块、托斯卡纳日光、省略边缘、以色团代替线描。",
+    "source": "hermes-explore",
+    "image": "styles/253-macchiaioli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

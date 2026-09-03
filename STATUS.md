@@ -582,6 +582,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 248, PNG count 248. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 42 (exactly 5, h206–h210)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                              |
+|------|--------------------|-----------------|------------------------------------|
+| h206 | Pattachitra        | 帕塔奇特拉      | styles/249-pattachitra.png         |
+| h207 | Persian Miniature  | 波斯细密画      | styles/250-persian-miniature.png   |
+| h208 | Zellige            | 泽利格          | styles/251-zellige.png             |
+| h209 | Sosaku-hanga       | 创作版画        | styles/252-sosaku-hanga.png        |
+| h210 | Macchiaioli        | 斑块派          | styles/253-macchiaioli.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 253, PNG count 253. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
