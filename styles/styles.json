@@ -687,5 +687,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h11",
+    "slug": "drypoint",
+    "name_en": "Drypoint",
+    "name_zh": "干刻",
+    "description_en": "Copper-plate drypoint with rich burr, velvety warm-black ink, plate tone on rag paper.",
+    "description_zh": "铜版干刻、绒边毛刺线、暖黑墨与纸面版调。",
+    "source": "hermes-explore",
+    "image": "styles/54-drypoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h12",
+    "slug": "grisaille",
+    "name_en": "Grisaille",
+    "name_zh": "灰色单色",
+    "description_en": "Monochrome grey oil modeling; cool slate and warm umber-grey, no chroma.",
+    "description_zh": "灰色单色油画塑形；冷石板灰与暖褐灰，无彩度。",
+    "source": "hermes-explore",
+    "image": "styles/55-grisaille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h13",
+    "slug": "sfumato",
+    "name_en": "Sfumato",
+    "name_zh": "烟雾法",
+    "description_en": "Smoke-soft transitions, veiled glazes, no hard contours; form dissolves into air.",
+    "description_zh": "烟雾般柔过渡、薄釉罩染、无硬轮廓；形体溶入空气。",
+    "source": "hermes-explore",
+    "image": "styles/56-sfumato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h14",
+    "slug": "monotype",
+    "name_en": "Monotype",
+    "name_zh": "单版画",
+    "description_en": "One-off plate impression: solvent lifts, brayer ghosts, ink residue, paper grain.",
+    "description_zh": "一次性版面转印：溶剂提墨、滚筒残影、墨渍与纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/57-monotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h15",
+    "slug": "gum-bichromate",
+    "name_en": "Gum Bichromate",
+    "name_zh": "树胶重铬酸盐",
+    "description_en": "Layered pigmented gum on watercolor paper; pictorialist brush-photo hybrid.",
+    "description_zh": "水彩纸上多层色素树胶；画意摄影式笔触与影像混合。",
+    "source": "hermes-explore",
+    "image": "styles/58-gum-bichromate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

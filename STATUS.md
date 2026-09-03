@@ -36,6 +36,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 53, PNG count 53. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 3 (exactly 5, h11–h15)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en         | name_zh       | image                          |
+|-----|-----------------|---------------|--------------------------------|
+| h11 | Drypoint        | 干刻          | styles/54-drypoint.png         |
+| h12 | Grisaille       | 灰色单色      | styles/55-grisaille.png        |
+| h13 | Sfumato         | 烟雾法        | styles/56-sfumato.png          |
+| h14 | Monotype        | 单版画        | styles/57-monotype.png         |
+| h15 | Gum Bichromate  | 树胶重铬酸盐  | styles/58-gum-bichromate.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 58, PNG count 58. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
