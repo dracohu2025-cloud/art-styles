@@ -4,14 +4,26 @@ import "./App.css";
 
 export type StyleEntry = {
   id: string;
-  name: string;
   slug: string;
-  description: string;
+  name_en: string;
+  name_zh: string;
+  description_en: string;
+  description_zh: string;
+  source: "creative" | "style-diverge" | string;
   image: string;
-  prompt: string;
+  width: number;
+  height: number;
+  aspect: string;
 };
 
 const styles = catalog as StyleEntry[];
+
+function asset(path: string) {
+  const base = import.meta.env.BASE_URL;
+  return `${base}${path.replace(/^\//, "")}`;
+}
+
+type Filter = "all" | "creative" | "style-diverge";
 
 function useEscape(onClose: () => void, enabled: boolean) {
   useEffect(() => {
@@ -26,74 +38,111 @@ function useEscape(onClose: () => void, enabled: boolean) {
 
 export default function App() {
   const [q, setQ] = useState("");
+  const [filter, setFilter] = useState<Filter>("all");
   const [open, setOpen] = useState<number | null>(null);
   useEscape(() => setOpen(null), open !== null);
+
+  const visible = useMemo(() => {
+    const needle = q.trim().toLowerCase();
+    return styles.filter((s) => {
+      if (filter !== "all" && s.source !== filter) return false;
+      if (!needle) return true;
+      return [s.name_en, s.name_zh, s.slug, s.description_en, s.description_zh, s.id, s.source]
+        .join(" ")
+        .toLowerCase()
+        .includes(needle);
+    });
+  }, [q, filter]);
 
   useEffect(() => {
     if (open === null) return;
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === "ArrowRight") setOpen((i) => (i === null ? i : (i + 1) % styles.length));
-      if (e.key === "ArrowLeft") setOpen((i) => (i === null ? i : (i + styles.length - 1) % styles.length));
+      if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+      const ids = visible.map((s) => s.id);
+      const current = styles[open];
+      const pos = ids.indexOf(current.id);
+      if (pos < 0) return;
+      const next =
+        e.key === "ArrowRight"
+          ? ids[(pos + 1) % ids.length]
+          : ids[(pos + ids.length - 1) % ids.length];
+      setOpen(styles.findIndex((s) => s.id === next));
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [open]);
-
-  const filtered = useMemo(() => {
-    const needle = q.trim().toLowerCase();
-    if (!needle) return styles;
-    return styles.filter((s) =>
-      [s.name, s.slug, s.description, s.id].join(" ").toLowerCase().includes(needle)
-    );
-  }, [q]);
+  }, [open, visible]);
 
   const active = open === null ? null : styles[open];
 
+  const step = (dir: -1 | 1) => {
+    if (open === null) return;
+    const ids = visible.map((s) => s.id);
+    const pos = ids.indexOf(styles[open].id);
+    if (pos < 0) return;
+    const next = ids[(pos + dir + ids.length) % ids.length];
+    setOpen(styles.findIndex((s) => s.id === next));
+  };
+
   return (
     <div className="shell">
-      <header className="nav">
-        <div className="mark">
-          Atelier <span>Mira</span>
+      <header className="mast">
+        <div className="brand">
+          <p className="kicker">Style-first · 风格优先</p>
+          <h1>
+            Style Atlas <span>风格图鉴</span>
+          </h1>
         </div>
-        <div className="nav-meta">Milestone 1 · {styles.length} styles · one original</div>
+        <p className="lede">
+          One dominant art style per frame. Characters may differ.
+          <br />
+          每帧一种主导画风。角色可变。Native 16:9.
+        </p>
+        <div className="meta">
+          {styles.length} stills · 1672×941 · creative {styles.filter((s) => s.source === "creative").length} ·
+          diverge {styles.filter((s) => s.source === "style-diverge").length}
+        </div>
       </header>
 
-      <section className="hero">
-        <div className="hero-copy">
-          <span className="kicker">A locked original character</span>
-          <h1>
-            Fifty rooms.
-            <br />
-            <em>One face.</em>
-          </h1>
-          <p className="lede">
-            Mira Solenne, rendered across distinct art histories. Search the grid.
-            Open a frame. Architecture is built to grow past two hundred styles.
-          </p>
-          <label className="search">
-            <input
-              type="search"
-              placeholder="Search styles — ukiyo, clay, noir…"
-              value={q}
-              onChange={(e) => setQ(e.target.value)}
-              aria-label="Search styles"
-            />
-            <span className="count">
-              {filtered.length} / {styles.length}
-            </span>
-          </label>
+      <div className="toolbar">
+        <div className="chips" role="tablist" aria-label="Source filter">
+          {(
+            [
+              ["all", "All 全部"],
+              ["creative", "Creative 创意"],
+              ["style-diverge", "Diverge 分异"],
+            ] as const
+          ).map(([id, label]) => (
+            <button
+              key={id}
+              type="button"
+              role="tab"
+              aria-selected={filter === id}
+              className={filter === id ? "chip on" : "chip"}
+              onClick={() => setFilter(id)}
+            >
+              {label}
+            </button>
+          ))}
         </div>
-        <figure className="hero-portrait">
-          <img src="/base/oc-base.png" alt="Mira Solenne, photoreal character lock" />
-          <figcaption className="hero-caption">Character lock · oc-base</figcaption>
-        </figure>
-      </section>
+        <label className="search">
+          <input
+            type="search"
+            placeholder="Search name_en / name_zh…"
+            value={q}
+            onChange={(e) => setQ(e.target.value)}
+            aria-label="Search styles"
+          />
+          <span className="count">
+            {visible.length} / {styles.length}
+          </span>
+        </label>
+      </div>
 
-      {filtered.length === 0 ? (
-        <p className="empty">No styles match that search.</p>
+      {visible.length === 0 ? (
+        <p className="empty">No styles match. 没有匹配的画风。</p>
       ) : (
-        <div className="masonry">
-          {filtered.map((s) => {
+        <div className="grid">
+          {visible.map((s) => {
             const idx = styles.findIndex((x) => x.id === s.id);
             return (
               <button
@@ -103,10 +152,16 @@ export default function App() {
                 onClick={() => setOpen(idx)}
               >
                 <figure>
-                  <img src={s.image} alt={`${s.name} portrait of Mira Solenne`} loading="lazy" />
+                  <img
+                    src={asset(s.image)}
+                    alt={`${s.name_en} / ${s.name_zh}`}
+                    width={s.width}
+                    height={s.height}
+                    loading="lazy"
+                  />
                   <figcaption>
-                    <h2>{s.name}</h2>
-                    <p>{s.description}</p>
+                    <h2>{s.name_en}</h2>
+                    <p className="zh">{s.name_zh}</p>
                   </figcaption>
                 </figure>
               </button>
@@ -120,30 +175,38 @@ export default function App() {
           className="lightbox"
           role="dialog"
           aria-modal="true"
-          aria-label={active.name}
+          aria-label={`${active.name_en} ${active.name_zh}`}
           onClick={() => setOpen(null)}
         >
-          <img src={active.image} alt={active.name} onClick={(e) => e.stopPropagation()} />
+          <figure className="lb-frame" onClick={(e) => e.stopPropagation()}>
+            <img src={asset(active.image)} alt={active.name_en} />
+          </figure>
           <div className="lb-copy" onClick={(e) => e.stopPropagation()}>
-            <span className="kicker">{active.slug}</span>
-            <h2>{active.name}</h2>
-            <p>{active.description}</p>
-            <button className="nav-btn" type="button" onClick={() => setOpen((open + styles.length - 1) % styles.length)}>
-              Prev
-            </button>
-            <button className="nav-btn" type="button" onClick={() => setOpen((open + 1) % styles.length)}>
-              Next
-            </button>
-            <button className="close" type="button" onClick={() => setOpen(null)}>
-              Close
-            </button>
+            <span className="kicker">
+              {active.source} · {active.aspect} · {active.slug}
+            </span>
+            <h2>{active.name_en}</h2>
+            <p className="zh-lg">{active.name_zh}</p>
+            <p>{active.description_en}</p>
+            <p className="zh">{active.description_zh}</p>
+            <div className="lb-actions">
+              <button className="nav-btn" type="button" onClick={() => step(-1)}>
+                Prev 上一张
+              </button>
+              <button className="nav-btn" type="button" onClick={() => step(1)}>
+                Next 下一张
+              </button>
+              <button className="close" type="button" onClick={() => setOpen(null)}>
+                Close 关闭
+              </button>
+            </div>
           </div>
         </div>
       )}
 
       <footer>
-        <span>Original character · fully clothed · identity locked</span>
-        <span>Catalog: styles/styles.json</span>
+        <span>Style-first gallery · characters unlocked</span>
+        <span>name_en primary · name_zh secondary</span>
       </footer>
     </div>
   );

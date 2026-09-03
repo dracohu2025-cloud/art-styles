@@ -1,8 +1,9 @@
-# Atelier Mira
+# Style Atlas · 风格图鉴
 
-Dark editorial gallery of **one original character** — Mira Solenne — re-rendered across distinct art styles.
+Style-first gallery. Characters may differ. Each still has one dominant art style.
+Native 16:9 (1672×941). English primary, Chinese secondary (`name_en` / `name_zh`).
 
-Milestone 1 ships **50 styles**. The catalog and asset layout are built to scale past 200.
+Live: https://dracohu2025-cloud.github.io/art-styles/
 
 ## Preview
 
@@ -11,41 +12,27 @@ npm install
 npm run dev
 ```
 
-Production build:
+Production:
 
 ```bash
 npm run build
 npm run preview
 ```
 
-Local preview (after build): `npm run preview` — Vite serves on http://localhost:4173
+Vite `base` is `/art-styles/` for GitHub Pages project site.
 
-## Character lock
-
-Mira Solenne: 19, honey-copper waves, amber eyes, freckles, beauty mark under left eye, gold sunburst studs, crescent pendant.
-
-Full lock: `styles/character-lock.md`  
-Base reference: `public/base/oc-base.png`
-
-Rules: original OC only (no IP, no celebrity). Fully clothed. Hands relaxed, no complex grips.
-
-## Architecture (scales to 200+)
+## Catalog
 
 | Path | Role |
 |---|---|
-| `styles/styles.json` | Catalog: `id`, `name`, `slug`, `description`, `image`, `prompt` |
-| `public/styles/<slug>.png` | Generated stills, one file per style |
-| `public/base/oc-base.png` | Identity reference for edits |
-| `src/App.tsx` | Searchable masonry + lightbox |
+| `styles/styles.json` | `id`, `slug`, `name_en`, `name_zh`, descriptions, `source`, `image` |
+| `public/styles/<file>.png` | Native 16:9 stills, unmodified imports |
 
-Adding a style: generate against the lock, drop `public/styles/<slug>.png`, append one JSON object. No code change required.
+Sources imported (REJECT files and `strips/` skipped):
 
-Images are lazy-loaded. Masonry is CSS columns. Lightbox is in-app (Esc / arrows).
+- `creative` — 15 craft / print / material styles
+- `style-diverge` — 28 graphic / anime style studies
 
 ## Stack
 
-Vite + React + TypeScript. Images generated with Hermes `image_generate` (`gpt-image-2` / `openai-codex`), using the base portrait as an image-to-image reference.
-
-## License
-
-Original character and site code: all rights reserved to the repo owner unless otherwise noted. Art styles are historical/generic techniques, not copies of living artists' protected works or franchises.
+Vite + React + TypeScript. Deployed from `main` via GitHub Actions → Pages.

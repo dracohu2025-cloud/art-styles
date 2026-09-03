@@ -1,28 +1,23 @@
-# STATUS — Milestone 1
+# STATUS — Style-first pivot
 
 Date: 2026-09-03
 
 ## Done
 
-- Empty git repo initialized at `/workspace/art-styles`, remote `https://github.com/dracohu2025-cloud/art-styles.git`
-- Character lock written: `styles/character-lock.md`
-- Base OC generated and saved: `public/base/oc-base.png` (photoreal studio portrait of Mira Solenne)
-- **50** distinct style images generated via Hermes `image_generate` (gpt-image-2-medium, openai-codex) with the base as `image_url` reference
-- Files at `public/styles/<slug>.png` — all 50 present, each > 1.5 MB
-- Catalog: `styles/styles.json` (id, name, slug, description, image, prompt)
-- Site: Vite + React + TS, dark editorial gallery, hero with lock portrait, searchable masonry, lightbox (Esc / arrows)
-- README.md
-- `npm run build` verified: Vite production build succeeded (tsc -b && vite build)
+- Gallery pivoted from locked-OC portraits to **style-first** 16:9 stills
+- Characters may differ; each image is one dominant art style
+- Imported native 1672×941 PNGs from `creative` and `style-diverge`
+- Skipped `REJECT` files and all `strips/` contact sheets
+- Catalog fields: `name_en` (primary), `name_zh` (secondary)
+- Vite `base: "/art-styles/"` for GitHub Pages
+- Deploy workflow: `.github/workflows/pages.yml`
 
 ## Verified
 
-- Style PNG count: 50
-- Base PNG present
-- Catalog length: 50, slugs match filenames
+- Catalog length and PNG count match
+- No REJECT filenames in `public/styles`
+- `npm run build` with project base
 
-## Left for later milestones
+## Live
 
-- Grow catalog to 200+ styles (append JSON + PNG only)
-- Optional WebP derivatives / thumbnails for faster grids
-- Virtualized masonry if the grid exceeds a few hundred tiles
-- Category tags in JSON
+https://dracohu2025-cloud.github.io/art-styles/
