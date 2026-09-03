@@ -610,6 +610,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 258, PNG count 258. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 44 (exactly 5, h216–h220)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh     | image                         |
+|------|---------------|-------------|-------------------------------|
+| h216 | Art Deco      | 装饰艺术    | styles/259-art-deco.png       |
+| h217 | Cubism        | 立体主义    | styles/260-cubism.png         |
+| h218 | Expressionism | 表现主义    | styles/261-expressionism.png  |
+| h219 | Surrealism    | 超现实主义  | styles/262-surrealism.png     |
+| h220 | Op Art        | 欧普艺术    | styles/263-op-art.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 263, PNG count 263. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -3352,5 +3352,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h216",
+    "slug": "art-deco",
+    "name_en": "Art Deco",
+    "name_zh": "装饰艺术",
+    "description_en": "Art Deco: geometric sunburst, stepped ziggurat planes, chevron and fan ornament, lacquer black with gold and jade teal.",
+    "description_zh": "装饰艺术：几何旭日放射、阶梯金字塔块面、人字纹与扇形纹样、漆黑底配金箔与青绿。",
+    "source": "hermes-explore",
+    "image": "styles/259-art-deco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h217",
+    "slug": "cubism",
+    "name_en": "Cubism",
+    "name_zh": "立体主义",
+    "description_en": "Analytic Cubism: interlocking planar facets, multiple viewpoints, ochre-grey-umber construction of volume.",
+    "description_zh": "分析立体主义：咬合块面、多视点并置、赭灰棕体积拆解。",
+    "source": "hermes-explore",
+    "image": "styles/260-cubism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h218",
+    "slug": "expressionism",
+    "name_en": "Expressionism",
+    "name_zh": "表现主义",
+    "description_en": "German Expressionism: jagged contour, agitated brush, raw non-natural color, anatomy bent for emotional force.",
+    "description_zh": "表现主义：锯齿轮廓、躁动笔触、非自然高饱和色、为情绪扭曲形体。",
+    "source": "hermes-explore",
+    "image": "styles/261-expressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h219",
+    "slug": "surrealism",
+    "name_en": "Surrealism",
+    "name_zh": "超现实主义",
+    "description_en": "Veristic Surrealism: hyper-clear academic rendering of impossible scale, still air, long shadows, dream-logic objects.",
+    "description_zh": "写实超现实主义：学院派清晰笔法画不可能尺度、静止空气、长影与梦逻辑物象。",
+    "source": "hermes-explore",
+    "image": "styles/262-surrealism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h220",
+    "slug": "op-art",
+    "name_en": "Op Art",
+    "name_zh": "欧普艺术",
+    "description_en": "Op Art: hard-edge optical vibration, warped checkers and sine stripes, high-contrast moiré afterimage flicker.",
+    "description_zh": "欧普艺术：硬边视错振动、扭曲棋格与正弦条纹、高对比莫尔余像闪烁。",
+    "source": "hermes-explore",
+    "image": "styles/263-op-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
