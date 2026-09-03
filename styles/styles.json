@@ -3287,5 +3287,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h211",
+    "slug": "fauvism",
+    "name_en": "Fauvism",
+    "name_zh": "野兽派",
+    "description_en": "Fauve oil: pure saturated pigments, arbitrary color modeling, loaded separate strokes, cobalt and crimson contour.",
+    "description_zh": "野兽派油画：纯色厚涂、任意设色、分离笔触、钴蓝与绯红轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/254-fauvism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h212",
+    "slug": "art-nouveau",
+    "name_en": "Art Nouveau",
+    "name_zh": "新艺术",
+    "description_en": "Art Nouveau: whiplash botanical line, flat poster fields, gold ornament, 1890s lithographic decorative panel.",
+    "description_zh": "新艺术：鞭绳植物曲线、平面招贴色块、金饰、十九世纪末石版装饰板。",
+    "source": "hermes-explore",
+    "image": "styles/255-art-nouveau.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h213",
+    "slug": "thangka",
+    "name_en": "Thangka",
+    "name_zh": "唐卡",
+    "description_en": "Thangka mineral painting: gold outline, stacked Himalayan space, rainbow aureole, lapis field, brocade border.",
+    "description_zh": "唐卡矿物色：金线、层叠喜马拉雅空间、虹光背光、群青底、织锦边。",
+    "source": "hermes-explore",
+    "image": "styles/256-thangka.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h214",
+    "slug": "gzhel",
+    "name_en": "Gzhel",
+    "name_zh": "格热利",
+    "description_en": "Gzhel porcelain painting: cobalt-blue on white tin glaze, graded blue wash, floral scroll, ceramic sheen.",
+    "description_zh": "格热利瓷绘：白釉钴蓝、分层蓝晕、卷草纹、瓷釉光泽。",
+    "source": "hermes-explore",
+    "image": "styles/257-gzhel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h215",
+    "slug": "nianhua",
+    "name_en": "Nianhua",
+    "name_zh": "年画",
+    "description_en": "Nianhua woodblock: bold outline, flat mineral fills, slight misregister, festive Yangliuqing/Taohuawu print surface.",
+    "description_zh": "年画木版：粗墨线、平涂矿物色、轻微套印偏移、杨柳青/桃花坞纸面。",
+    "source": "hermes-explore",
+    "image": "styles/258-nianhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

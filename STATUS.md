@@ -596,6 +596,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 253, PNG count 253. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 43 (exactly 5, h211–h215)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh     | image                         |
+|------|-------------|-------------|-------------------------------|
+| h211 | Fauvism     | 野兽派      | styles/254-fauvism.png        |
+| h212 | Art Nouveau | 新艺术      | styles/255-art-nouveau.png    |
+| h213 | Thangka     | 唐卡        | styles/256-thangka.png        |
+| h214 | Gzhel       | 格热利      | styles/257-gzhel.png          |
+| h215 | Nianhua     | 年画        | styles/258-nianhua.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 258, PNG count 258. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
