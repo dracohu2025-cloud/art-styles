@@ -16,7 +16,8 @@ export type StyleEntry = {
   aspect: string;
 };
 
-const styles = catalog as StyleEntry[];
+// styles.json is append-only; reverse so the gallery shows newest first.
+const styles = [...(catalog as StyleEntry[])].reverse();
 
 function asset(path: string) {
   const base = import.meta.env.BASE_URL;
