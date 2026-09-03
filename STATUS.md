@@ -470,6 +470,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 208, PNG count 208. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 34 (exactly 5, h166–h170)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh         | image                        |
+|------|-------------|-----------------|------------------------------|
+| h166 | Benizuri-e  | 红摺绘          | styles/209-benizuri-e.png    |
+| h167 | Lith Print  | 锂显印相        | styles/210-lith-print.png    |
+| h168 | Qinglü      | 青绿            | styles/211-qinglu.png        |
+| h169 | Cameo Glass | 浮雕套色玻璃    | styles/212-cameo-glass.png   |
+| h170 | Rozome      | 蜡缬            | styles/213-rozome.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 213, PNG count 213. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

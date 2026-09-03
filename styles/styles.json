@@ -2702,5 +2702,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h166",
+    "slug": "benizuri-e",
+    "name_en": "Benizuri-e",
+    "name_zh": "红摺绘",
+    "description_en": "Benizuri-e: limited-color ukiyo-e with beni red and mineral green over a sumi keyblock on cream washi; not nishiki-e, not aizuri-e, not kirazuri, not karazuri.",
+    "description_zh": "红摺绘：红花红与矿物绿的有限套色浮世绘，墨线主版印于乳色和纸；非锦绘、非蓝摺绘、非云母摺、非空摺。",
+    "source": "hermes-explore",
+    "image": "styles/209-benizuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h167",
+    "slug": "lith-print",
+    "name_en": "Lith Print",
+    "name_zh": "锂显印相",
+    "description_en": "Lith print: infectious lith development with pepper-fog grain, snappy blacks and warm-cold midtones on fiber paper; not gelatin silver, not bromoil, not van dyke brown, not solarization.",
+    "description_zh": "锂显印相：感染性锂显、胡椒雾状颗粒、骤黑与冷暖中间调于钡地纸；非明胶银盐、非溴油、非范戴克棕、非中途曝光。",
+    "source": "hermes-explore",
+    "image": "styles/210-lith-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h168",
+    "slug": "qinglu",
+    "name_en": "Qinglü",
+    "name_zh": "青绿",
+    "description_en": "Qinglü: malachite and azurite mineral pigments in blue-green landscape manner with ink outline on silk; not mogu, not xieyi, not gongbi-only pale wash, not nihonga.",
+    "description_zh": "青绿：石青石绿矿物色的青绿山水法，墨线勾勒于绢；非没骨、非写意、非单纯工笔淡彩、非日本画。",
+    "source": "hermes-explore",
+    "image": "styles/211-qinglu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h169",
+    "slug": "cameo-glass",
+    "name_en": "Cameo Glass",
+    "name_zh": "浮雕套色玻璃",
+    "description_en": "Cameo glass: opaque white overlay wheel-cut through a translucent colored ground in high relief; not stained glass, not pâte-de-verre, not verre églomisé, not cloisonné.",
+    "description_zh": "浮雕套色玻璃：乳白套料经轮刻露出半透明色地的高浮雕；非彩绘玻璃、非熔铸玻璃、非玻璃金箔背面画、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/212-cameo-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h170",
+    "slug": "rozome",
+    "name_en": "Rozome",
+    "name_zh": "蜡缬",
+    "description_en": "Rozome: Japanese brush-drawn wax-resist dyeing with crackle veins and layered indigo-beni baths on cloth; not batik, not yuzen, not katazome, not shibori, not tsujigahana.",
+    "description_zh": "蜡缬：日本毛笔蜡防染，冰裂纹与靛蓝红花层层浸染于布；非爪哇蜡染、非友禅、非型染、非绞缬、非辻花染。",
+    "source": "hermes-explore",
+    "image": "styles/213-rozome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
