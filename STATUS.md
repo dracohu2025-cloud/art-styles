@@ -358,6 +358,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 168, PNG count 168. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 26 (exactly 5, h126–h130)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh     | image                          |
+|------|---------------|-------------|--------------------------------|
+| h126 | Gyotaku       | 鱼拓        | styles/169-gyotaku.png         |
+| h127 | Jiehua        | 界画        | styles/170-jiehua.png          |
+| h128 | Verdaccio     | 绿灰底层    | styles/171-verdaccio.png       |
+| h129 | Crayon Manner | 粉笔凹版    | styles/172-crayon-manner.png   |
+| h130 | Basse-taille  | 浅浮雕珐琅  | styles/173-basse-taille.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 173, PNG count 173. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

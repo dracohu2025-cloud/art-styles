@@ -2182,5 +2182,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h126",
+    "slug": "gyotaku",
+    "name_en": "Gyotaku",
+    "name_zh": "鱼拓",
+    "description_en": "Gyotaku: direct-inked relief rubbing transferred onto washi, uneven sumi load and paper-fiber bite; not woodcut keyblock, not frottage charcoal rub, not mokuhanga multi-block, not letterpress.",
+    "description_zh": "鱼拓：物面着墨后拓于和纸，墨量不均与纸纤维咬痕；非木刻主版、非拓印擦绘、非水印木刻多版、非凸版压印。",
+    "source": "hermes-explore",
+    "image": "styles/169-gyotaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h127",
+    "slug": "jiehua",
+    "name_en": "Jiehua",
+    "name_zh": "界画",
+    "description_en": "Jiehua: Chinese ruled-line painting, straightedge architecture with mineral fills; not gongbi figure-first, not yamato-e gold clouds, not ligne claire, not CAD wireframe.",
+    "description_zh": "界画：界尺建筑线描与石色填彩；非工笔人物优先、非大和绘金云、非清晰线条漫画、非CAD线框。",
+    "source": "hermes-explore",
+    "image": "styles/170-jiehua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h128",
+    "slug": "verdaccio",
+    "name_en": "Verdaccio",
+    "name_zh": "绿灰底层",
+    "description_en": "Verdaccio: olive-green terre-verte underpainting modeling form before flesh color; not grisaille grey, not camaieu single-hue, not sfumato haze, not oil glazing.",
+    "description_zh": "绿灰底层：土绿橄榄灰底层塑形后再敷肉色；非灰色单色、非单色浓淡、非烟雾法、非透明罩染。",
+    "source": "hermes-explore",
+    "image": "styles/171-verdaccio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h129",
+    "slug": "crayon-manner",
+    "name_en": "Crayon Manner",
+    "name_zh": "粉笔凹版",
+    "description_en": "Crayon manner: manière de crayon intaglio, roulette grain imitating chalk on cream laid paper with a plate mark; not stipple engraving, not aquatint, not soft-ground etching, not trois crayons drawing.",
+    "description_zh": "粉笔凹版：滚点工具仿粉笔颗粒的凹版，印于有版痕的米色布纹纸；非点刻铜版、非飞尘蚀刻、非软地蚀刻、非三色粉笔画。",
+    "source": "hermes-explore",
+    "image": "styles/172-crayon-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h130",
+    "slug": "basse-taille",
+    "name_en": "Basse-taille",
+    "name_zh": "浅浮雕珐琅",
+    "description_en": "Basse-taille: translucent vitreous enamel over chased low-relief metal, engraved hatch visible through the glass color; not cloisonné wires, not champlevé cells, not plique-à-jour openwork, not painted Limoges enamel.",
+    "description_zh": "浅浮雕珐琅：透明珐琅覆于锤錾浅浮雕金属，底纹透过釉色；非掐丝珐琅、非錾胎珐琅、非镂空珐琅、非利摩日画珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/173-basse-taille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
