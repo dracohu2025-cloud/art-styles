@@ -540,6 +540,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 233, PNG count 233. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 39 (exactly 5, h191–h195)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en    | name_zh         | image                         |
+|------|------------|-----------------|-------------------------------|
+| h191 | Pocai      | 泼彩            | styles/234-pocai.png          |
+| h192 | Thanjavur  | 坦贾武尔        | styles/235-thanjavur.png      |
+| h193 | Petrykivka | 彼得里基夫卡    | styles/236-petrykivka.png     |
+| h194 | Moriage    | 盛上            | styles/237-moriage.png        |
+| h195 | Warli      | 瓦尔利          | styles/238-warli.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 238, PNG count 238. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

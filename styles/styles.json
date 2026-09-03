@@ -3027,5 +3027,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h191",
+    "slug": "pocai",
+    "name_en": "Pocai",
+    "name_zh": "泼彩",
+    "description_en": "Pocai: splash-color on wet xuan, mineral azurite/malachite/cinnabar bled into ink pools; not hatsuboku ink-only, not mogu, not watercolor wash.",
+    "description_zh": "泼彩：湿宣泼洒石青石绿朱砂入墨渖；非纯泼墨、非没骨、非水彩晕染。",
+    "source": "hermes-explore",
+    "image": "styles/234-pocai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h192",
+    "slug": "thanjavur",
+    "name_en": "Thanjavur",
+    "name_zh": "坦贾武尔",
+    "description_en": "Thanjavur: gesso relief, inlaid glass-stone, gold-leaf fields and flat jewel local color in an arched niche; not gold-ground icon, not Madhubani, not miniature.",
+    "description_zh": "坦贾武尔：石膏浮雕、嵌玻璃石、金箔地与平涂宝石色拱龛；非金地圣像、非马杜巴尼、非细密画。",
+    "source": "hermes-explore",
+    "image": "styles/235-thanjavur.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h193",
+    "slug": "petrykivka",
+    "name_en": "Petrykivka",
+    "name_zh": "彼得里基夫卡",
+    "description_en": "Petrykivka: translucent brush-tip floral-feather strokes (pyshchyk, zerniatko, tsybulka) in rhythmic ornament; not Madhubani double-line, not gongbi, not oil modeling.",
+    "description_zh": "彼得里基夫卡：半透明笔尖花羽笔触（pyshchyk、zerniatko、tsybulka）节奏纹样；非马杜巴尼双线、非工笔、非油画塑形。",
+    "source": "hermes-explore",
+    "image": "styles/236-petrykivka.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h194",
+    "slug": "moriage",
+    "name_en": "Moriage",
+    "name_zh": "盛上",
+    "description_en": "Moriage: raised white slip beads and ridges on overglaze enamel with gold outline, Satsuma-like porcelain ground; not pâte-sur-pâte, not cloisonné, not raku.",
+    "description_zh": "盛上：白泥点线堆起、釉上彩与金线，萨摩式瓷地；非堆泥薄饰、非掐丝珐琅、非乐烧。",
+    "source": "hermes-explore",
+    "image": "styles/237-moriage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h195",
+    "slug": "warli",
+    "name_en": "Warli",
+    "name_zh": "瓦尔利",
+    "description_en": "Warli: white rice-paste on earth-red geru, stick-and-circle geometry with hatched borders; not Madhubani, not kalamkari, not western shading.",
+    "description_zh": "瓦尔利：白米浆绘于赭红地，三角圆几何人体与锯齿边饰；非马杜巴尼、非卡拉姆卡里、非西式明暗。",
+    "source": "hermes-explore",
+    "image": "styles/238-warli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
