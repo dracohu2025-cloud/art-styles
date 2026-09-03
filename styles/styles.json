@@ -947,5 +947,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h31",
+    "slug": "collagraph",
+    "name_en": "Collagraph",
+    "name_zh": "拼贴版画",
+    "description_en": "Collaged-plate print: cardboard, fabric, gesso inked onto rag paper; embossed plate-mark and uneven ink catch.",
+    "description_zh": "拼贴制版：卡纸、织物、石膏转印厚棉纸；凹凸版痕与不均着墨。",
+    "source": "hermes-explore",
+    "image": "styles/74-collagraph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h32",
+    "slug": "mogu",
+    "name_en": "Mogu",
+    "name_zh": "没骨",
+    "description_en": "Boneless wash: no contour line; mineral color masses wet-into-wet on xuan, edges formed by pigment not ink.",
+    "description_zh": "没骨设色：无勾勒；矿物色块湿接宣纸，边缘由色而非线成形。",
+    "source": "hermes-explore",
+    "image": "styles/75-mogu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h33",
+    "slug": "alcohol-marker",
+    "name_en": "Alcohol Marker",
+    "name_zh": "酒精马克笔",
+    "description_en": "Alcohol dye markers on bleedproof paper: chisel-nib facets, blender blooms, streaky layered transparent ink.",
+    "description_zh": "酒精马克笔：凿形笔触、无色调和晕边、透明叠色条纹。",
+    "source": "hermes-explore",
+    "image": "styles/76-alcohol-marker.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h34",
+    "slug": "wet-collodion",
+    "name_en": "Wet Collodion",
+    "name_zh": "湿版火棉胶",
+    "description_en": "Wet-plate ambrotype/tintype: poured collodion, liquid blacks, chemical flow at edges, metallic antique sheen.",
+    "description_zh": "湿版火棉胶：玻璃或锡版药膜、流淌边痕、液态暗部与金属旧光。",
+    "source": "hermes-explore",
+    "image": "styles/77-wet-collodion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h35",
+    "slug": "pyrography",
+    "name_en": "Pyrography",
+    "name_zh": "烙画",
+    "description_en": "Wood-burning: scorched pen lines in timber grain, sepia-to-charcoal burns, visible growth rings, no paint.",
+    "description_zh": "烙画：电烙笔焦痕入木纹，褐至炭黑烧色，年轮可见，无颜料。",
+    "source": "hermes-explore",
+    "image": "styles/78-pyrography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

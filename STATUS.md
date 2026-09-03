@@ -92,6 +92,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 73, PNG count 73. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 7 (exactly 5, h31–h35)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en        | name_zh       | image                         |
+|-----|----------------|---------------|-------------------------------|
+| h31 | Collagraph     | 拼贴版画      | styles/74-collagraph.png      |
+| h32 | Mogu           | 没骨          | styles/75-mogu.png            |
+| h33 | Alcohol Marker | 酒精马克笔    | styles/76-alcohol-marker.png  |
+| h34 | Wet Collodion  | 湿版火棉胶    | styles/77-wet-collodion.png   |
+| h35 | Pyrography     | 烙画          | styles/78-pyrography.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 78, PNG count 78. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
