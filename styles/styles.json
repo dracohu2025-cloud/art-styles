@@ -557,5 +557,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h01",
+    "slug": "gouache-wash",
+    "name_en": "Gouache Wash",
+    "name_zh": "水粉湿画",
+    "description_en": "Matte opaque gouache, wet-into-wet blooms, chalky edges and bristle pulls.",
+    "description_zh": "哑光不透明水粉，湿画渗化、粉质边缘与笔毫痕迹。",
+    "source": "hermes-explore",
+    "image": "styles/44-gouache-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h02",
+    "slug": "screen-print-overlay",
+    "name_en": "Screen Print Overlay",
+    "name_zh": "丝网叠印",
+    "description_en": "Layered silk-screen spot inks, mesh grain, transparent overlaps and slight misregister.",
+    "description_zh": "分层丝网专色、网纹颗粒、透明叠色与轻微套印偏移。",
+    "source": "hermes-explore",
+    "image": "styles/45-screen-print-overlay.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h03",
+    "slug": "egg-tempera",
+    "name_en": "Egg Tempera",
+    "name_zh": "蛋彩细笔",
+    "description_en": "Fine hatched tempera strokes, luminous matte mineral pigment on panel tooth.",
+    "description_zh": "细密排线蛋彩、哑光矿物色、木板底齿感。",
+    "source": "hermes-explore",
+    "image": "styles/46-egg-tempera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h04",
+    "slug": "suminagashi",
+    "name_en": "Suminagashi",
+    "name_zh": "墨流",
+    "description_en": "Floating-ink marbling transferred to paper; concentric sumi veins as the look.",
+    "description_zh": "水面浮墨转印；同心墨纹作为主导画风。",
+    "source": "hermes-explore",
+    "image": "styles/47-suminagashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h05",
+    "slug": "mezzotint",
+    "name_en": "Mezzotint",
+    "name_zh": "美柔汀",
+    "description_en": "Velvety rocked-plate grain, burnished highlights, continuous-tone black to silver.",
+    "description_zh": "摇点铜版绒黑、刮亮高光、连续调银灰。",
+    "source": "hermes-explore",
+    "image": "styles/48-mezzotint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
