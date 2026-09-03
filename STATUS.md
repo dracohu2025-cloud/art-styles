@@ -428,6 +428,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 193, PNG count 193. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 31 (exactly 5, h151–h155)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh     | image                           |
+|------|----------------|-------------|---------------------------------|
+| h151 | Nishiki-e      | 锦绘        | styles/194-nishiki-e.png        |
+| h152 | Tonalism       | 色调主义    | styles/195-tonalism.png         |
+| h153 | Gelatin Silver | 明胶银盐    | styles/196-gelatin-silver.png   |
+| h154 | Kappazuri      | 合羽摺      | styles/197-kappazuri.png        |
+| h155 | Haiga          | 俳画        | styles/198-haiga.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 198, PNG count 198. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

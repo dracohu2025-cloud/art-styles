@@ -2507,5 +2507,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h151",
+    "slug": "nishiki-e",
+    "name_en": "Nishiki-e",
+    "name_zh": "锦绘",
+    "description_en": "Nishiki-e: full-color brocade woodblock with keyblock outlines and layered mineral flats; not aizuri-e, not kirazuri, not mokuhanga watercolor bleed, not shin-hanga, not modern ukiyo-e digital.",
+    "description_zh": "锦绘：多色锦缎木版，主版墨线加矿物色平涂套印；非蓝摺绘、非云母摺、非水印木刻晕染、非新版画、非现代数码浮世绘。",
+    "source": "hermes-explore",
+    "image": "styles/194-nishiki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h152",
+    "slug": "tonalism",
+    "name_en": "Tonalism",
+    "name_zh": "色调主义",
+    "description_en": "Tonalism: close-valued muted atmosphere, forms dissolved in colored air, quiet veiled light; not void chiaroscuro, not tenebrism, not sfumato, not grisaille, not camaieu, not divisionism.",
+    "description_zh": "色调主义：近明度低彩氛围，形体溶入色气与薄光；非黑底明暗法、非暗色主义、非烟雾法、非灰色单色、非单色浓淡、非分割主义。",
+    "source": "hermes-explore",
+    "image": "styles/195-tonalism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h153",
+    "slug": "gelatin-silver",
+    "name_en": "Gelatin Silver",
+    "name_zh": "明胶银盐",
+    "description_en": "Gelatin silver: analog fiber-base black-and-white print, silver grain and Dmax blacks; not daguerreotype, not tintype, not wet collodion, not platinum/palladium, not cyanotype, not carbon print.",
+    "description_zh": "明胶银盐：纤维纸基黑白银盐照片，银粒与深黑密度；非达盖尔银版、非铁版照相、非湿版火棉胶、非铂钯印相、非蓝晒、非碳印法。",
+    "source": "hermes-explore",
+    "image": "styles/196-gelatin-silver.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h154",
+    "slug": "kappazuri",
+    "name_en": "Kappazuri",
+    "name_zh": "合羽摺",
+    "description_en": "Kappazuri: woodblock key line plus hand-stenciled color islands, dry opaque stencil pigment; not katazome, not pochoir, not screen print overlay, not bingata, not nishiki-e brocade, not risograph.",
+    "description_zh": "合羽摺：木版墨线加合羽型纸填色，干爽不透明色块；非型染、非镂版上色、非丝网叠印、非红型、非锦绘、非孔版印刷。",
+    "source": "hermes-explore",
+    "image": "styles/197-kappazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h155",
+    "slug": "haiga",
+    "name_en": "Haiga",
+    "name_zh": "俳画",
+    "description_en": "Haiga: spare haiku-painting, few ink strokes, pale wash, empty paper, abbreviated wit; not sumi-e landscape, not xieyi splash, not gongbi, not mogu, not nanga, not hatsuboku, not baimiao.",
+    "description_zh": "俳画：俳句式简笔，淡墨淡渲与大片留白；非水墨全景、非写意泼洒、非工笔、非没骨、非南画、非泼墨、非白描。",
+    "source": "hermes-explore",
+    "image": "styles/198-haiga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
