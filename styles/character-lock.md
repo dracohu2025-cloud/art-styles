@@ -14,3 +14,7 @@ Imports skip anything named REJECT and anything under `strips/`.
 
 Target gallery ratio ≈ **6 female : 1 male**. Female OC carry stronger visual appeal here; male OC are occasional accents only. Hermes batches should default to female subjects.
 
+## Character vibe
+
+Subject vehicle should feel like Draco's X AIGC refs: **anime, youthful, pretty, lively, cute female OC**. Bright, approachable, energetic — not solemn, gloomy, tragic, or stiff. Style technique carries the variety; the girl stays charming.
+
