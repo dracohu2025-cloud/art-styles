@@ -2962,5 +2962,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h186",
+    "slug": "raku",
+    "name_en": "Raku",
+    "name_zh": "乐烧",
+    "description_en": "Raku: reduction-fired ceramic surface of smoked carbon, crackle (kanyuu) webs, iron-brown and cream glaze pools with kiln-flash copper; not celadon, not tenmoku oil-spot, not pottery-as-object still-life, not scagliola.",
+    "description_zh": "乐烧：还原烧成的烟熏碳黑、贯入开片、铁褐与乳白釉积及窑变铜晕；非青瓷、非天目油滴、非器物静物、非仿石石膏嵌。",
+    "source": "hermes-explore",
+    "image": "styles/229-raku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h187",
+    "slug": "feibai",
+    "name_en": "Feibai",
+    "name_zh": "飞白",
+    "description_en": "Feibai: flying-white dry split-brush so paper streaks flash through each calligraphic stroke; not sumi-e wet wash, not hatsuboku splash-ink, not baimiao hairline, not gongbi, not xieyi blot.",
+    "description_zh": "飞白：枯笔散锋使纸白从笔画中闪过，书骨在痕；非水墨晕染、非泼墨、非白描细线、非工笔、非写意点厾。",
+    "source": "hermes-explore",
+    "image": "styles/230-feibai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h188",
+    "slug": "opalotype",
+    "name_en": "Opalotype",
+    "name_zh": "乳白玻璃印相",
+    "description_en": "Opalotype: 19th-century photographic positive on milky opal glass, pearly high-key bloom and soft photographic grain; not albumen print, not daguerreotype, not platinotype, not ambrotype, not gelatin silver.",
+    "description_zh": "乳白玻璃印相：十九世纪乳白玻璃上的照相正像，珠光高光与柔颗粒；非蛋白印相、非达盖尔、非铂盐、非玻璃负像、非明胶银盐。",
+    "source": "hermes-explore",
+    "image": "styles/231-opalotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h189",
+    "slug": "pate-sur-pate",
+    "name_en": "Pâte-sur-pâte",
+    "name_zh": "堆泥薄饰",
+    "description_en": "Pâte-sur-pâte: successive thin translucent porcelain slips built into low cameo relief on a colored ground; not jasperware sprig, not cameo glass, not mishima inlay, not scagliola, not stone bas-relief.",
+    "description_zh": "堆泥薄饰：层层半透明瓷泥堆成浅浮雕，色地透出；非碧玉炻器贴花、非浮雕玻璃、非三岛嵌、非仿石石膏、非石刻浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/232-pate-sur-pate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h190",
+    "slug": "madhubani",
+    "name_en": "Madhubani",
+    "name_zh": "马杜巴尼",
+    "description_en": "Madhubani: Mithila double-line contours, flat natural-dye fills and dense geometric/floral fillers with no western shading; not kalamkari, not gongbi, not warli, not phad, not miniature painting.",
+    "description_zh": "马杜巴尼：米蒂拉双线勾勒、植物色平涂与繁密填充纹样，无西式明暗；非卡拉姆卡里、非工笔、非瓦尔利、非帕德、非细密画。",
+    "source": "hermes-explore",
+    "image": "styles/233-madhubani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

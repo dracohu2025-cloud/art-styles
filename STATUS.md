@@ -526,6 +526,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 228, PNG count 228. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 38 (exactly 5, h186–h190)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh         | image                         |
+|------|---------------|-----------------|-------------------------------|
+| h186 | Raku          | 乐烧            | styles/229-raku.png           |
+| h187 | Feibai        | 飞白            | styles/230-feibai.png         |
+| h188 | Opalotype     | 乳白玻璃印相    | styles/231-opalotype.png      |
+| h189 | Pâte-sur-pâte | 堆泥薄饰        | styles/232-pate-sur-pate.png  |
+| h190 | Madhubani     | 马杜巴尼        | styles/233-madhubani.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 233, PNG count 233. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
