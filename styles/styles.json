@@ -1597,5 +1597,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h81",
+    "slug": "tsutsugaki",
+    "name_en": "Tsutsugaki",
+    "name_zh": "筒描",
+    "description_en": "Freehand rice-paste resist on indigo cotton: piped paste lines, vegetable-dye fills, cloth weave bleed; not katazome stencil, not yuzen, not bingata, not batik.",
+    "description_zh": "筒描：手绘米糊防染、靛蓝底、植物染料填色、布纹渗边；非型染、非友禅、非红型、非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/124-tsutsugaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h82",
+    "slug": "majolica",
+    "name_en": "Majolica",
+    "name_zh": "马约利卡",
+    "description_en": "Tin-glazed earthenware: opaque white ground, cobalt-copper-antimony-manganese oxides, pooled gloss; not azulejo tilework, not fresco, not porcelain.",
+    "description_zh": "马约利卡：锡白釉陶、钴铜锑锰釉上彩、积釉光泽；非阿兹勒霍、非湿壁画、非瓷器。",
+    "source": "hermes-explore",
+    "image": "styles/125-majolica.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h83",
+    "slug": "calotype",
+    "name_en": "Calotype",
+    "name_zh": "卡罗法",
+    "description_en": "Talbot paper-negative print: fibrous rag grain, tan-lilac, soft low contrast; not daguerreotype, not salt print, not albumen, not wet collodion, not van dyke brown.",
+    "description_zh": "卡罗法：纸底负片、纤维纹、褐紫低反差；非达盖尔、非盐纸、非蛋白、非湿版、非范戴克棕印。",
+    "source": "hermes-explore",
+    "image": "styles/126-calotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h84",
+    "slug": "conte-crayon",
+    "name_en": "Conté Crayon",
+    "name_zh": "康泰粉笔",
+    "description_en": "Hard Conté sticks on toned paper: earth-red, black, white, crisp hatch, paper tooth; not chalk pastel, not oil pastel, not sanguine-only, not trois crayons, not carbon dust.",
+    "description_zh": "康泰粉笔：硬蜡粉笔、赭红黑白、清晰排线、纸齿；非粉笔粉彩、非油性粉彩、非单纯红粉笔、非三色粉笔、非炭粉画。",
+    "source": "hermes-explore",
+    "image": "styles/127-conte-crayon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h85",
+    "slug": "chinkin",
+    "name_en": "Chinkin",
+    "name_zh": "沉金",
+    "description_en": "Carved urushi packed with gold powder: incised hairlines on black/cinnabar lacquer; not maki-e sprinkle, not kirikane cut leaf, not raden.",
+    "description_zh": "沉金：漆面阴刻填金粉、黑漆或朱漆底、发丝刻线；非莳绘洒金、非截金、非螺钿。",
+    "source": "hermes-explore",
+    "image": "styles/128-chinkin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

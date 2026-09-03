@@ -232,6 +232,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 123, PNG count 123. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 17 (exactly 5, h81–h85)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en      | name_zh   | image                        |
+|-----|--------------|-----------|------------------------------|
+| h81 | Tsutsugaki   | 筒描      | styles/124-tsutsugaki.png    |
+| h82 | Majolica     | 马约利卡  | styles/125-majolica.png      |
+| h83 | Calotype     | 卡罗法    | styles/126-calotype.png      |
+| h84 | Conté Crayon | 康泰粉笔  | styles/127-conte-crayon.png  |
+| h85 | Chinkin      | 沉金      | styles/128-chinkin.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 128, PNG count 128. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
