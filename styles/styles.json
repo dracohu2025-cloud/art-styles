@@ -622,5 +622,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h06",
+    "slug": "encaustic",
+    "name_en": "Encaustic",
+    "name_zh": "热蜡画",
+    "description_en": "Fused beeswax pigment, ironed layers, wax bloom and scraped ridges.",
+    "description_zh": "热熔蜂蜡颜料、熨烫叠层、蜡霜与刮痕脊。",
+    "source": "hermes-explore",
+    "image": "styles/49-encaustic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h07",
+    "slug": "scratchboard",
+    "name_en": "Scratchboard",
+    "name_zh": "刮画",
+    "description_en": "India-ink clay board, incised white lines, knife and wire-brush hatching.",
+    "description_zh": "墨底黏土刮板、刮出白线、刀痕与钢丝刷排线。",
+    "source": "hermes-explore",
+    "image": "styles/50-scratchboard.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h08",
+    "slug": "silverpoint",
+    "name_en": "Silverpoint",
+    "name_zh": "银尖素描",
+    "description_en": "Fine silver stylus on gesso ground, pale metal lines, faint tarnish warmth.",
+    "description_zh": "银尖在石膏底上细线、浅金属灰、微暖氧化。",
+    "source": "hermes-explore",
+    "image": "styles/51-silverpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h09",
+    "slug": "aquatint",
+    "name_en": "Aquatint",
+    "name_zh": "飞尘蚀刻",
+    "description_en": "Rosin-dust acid bite, velvety granulated tone, warm ink on cream rag paper.",
+    "description_zh": "松香飞尘酸蚀、绒面颗粒调子、奶油棉纸暖墨。",
+    "source": "hermes-explore",
+    "image": "styles/52-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h10",
+    "slug": "pointillism",
+    "name_en": "Pointillism",
+    "name_zh": "点彩",
+    "description_en": "Discrete complementary dots of pure pigment, optical mixture, no blended stroke.",
+    "description_zh": "互补纯色点子、光学混色、无涂抹笔触。",
+    "source": "hermes-explore",
+    "image": "styles/53-pointillism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

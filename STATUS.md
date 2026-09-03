@@ -12,25 +12,35 @@ Date: 2026-09-03
 - Vite `base: "/art-styles/"` for GitHub Pages
 - Deploy workflow: `.github/workflows/pages.yml`
 
-## Hermes-explore batch (exactly 5)
+## Hermes-explore batch 1 (h01–h05)
 
-Shipped 5 new technique keywords (`source: hermes-explore`), ids h01–h05:
-
-| id  | name_en              | name_zh   | image                            |
-|-----|----------------------|-----------|----------------------------------|
-| h01 | Gouache Wash         | 水粉湿画  | styles/44-gouache-wash.png       |
+| id  | name_en              | name_zh   | image                              |
+|-----|----------------------|-----------|------------------------------------|
+| h01 | Gouache Wash         | 水粉湿画  | styles/44-gouache-wash.png         |
 | h02 | Screen Print Overlay | 丝网叠印  | styles/45-screen-print-overlay.png |
-| h03 | Egg Tempera          | 蛋彩细笔  | styles/46-egg-tempera.png        |
-| h04 | Suminagashi          | 墨流      | styles/47-suminagashi.png        |
-| h05 | Mezzotint            | 美柔汀    | styles/48-mezzotint.png          |
+| h03 | Egg Tempera          | 蛋彩细笔  | styles/46-egg-tempera.png          |
+| h04 | Suminagashi          | 墨流      | styles/47-suminagashi.png          |
+| h05 | Mezzotint            | 美柔汀    | styles/48-mezzotint.png            |
 
-Native 1672×941 PNGs via gpt-image-2-medium. Catalog 48, PNG count 48. No REJECT names. UI left flat (no filters/tabs).
+## Hermes-explore batch 2 (exactly 5, h06–h10)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en      | name_zh   | image                     |
+|-----|--------------|-----------|---------------------------|
+| h06 | Encaustic    | 热蜡画    | styles/49-encaustic.png   |
+| h07 | Scratchboard | 刮画      | styles/50-scratchboard.png |
+| h08 | Silverpoint  | 银尖素描  | styles/51-silverpoint.png |
+| h09 | Aquatint     | 飞尘蚀刻  | styles/52-aquatint.png    |
+| h10 | Pointillism  | 点彩      | styles/53-pointillism.png |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 53, PNG count 53. No REJECT names. UI left flat (no filters/tabs).
 
 ## Verified
 
 - Catalog length and PNG count match
 - No REJECT filenames in `public/styles`
-- `npm run build` with project base
+- `npm run build` (`tsc -b` + `vite build`) with project base
 
 ## Live
 
