@@ -302,6 +302,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 148, PNG count 148. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 22 (exactly 5, h106–h110)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en      | name_zh   | image                         |
+|------|--------------|-----------|-------------------------------|
+| h106 | Kintsugi     | 金缮      | styles/149-kintsugi.png       |
+| h107 | Tarashikomi  | 溜込      | styles/150-tarashikomi.png    |
+| h108 | Solarization | 中途曝光  | styles/151-solarization.png   |
+| h109 | Sashiko      | 刺子绣    | styles/152-sashiko.png        |
+| h110 | Guilloché    | 引擎纹    | styles/153-guilloche.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 153, PNG count 153. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

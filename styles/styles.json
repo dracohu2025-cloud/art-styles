@@ -1922,5 +1922,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h106",
+    "slug": "kintsugi",
+    "name_en": "Kintsugi",
+    "name_zh": "金缮",
+    "description_en": "Kintsugi gold-join: ceramic shard planes rejoined with thick gleaming gold lacquer seams and gold dust; not cloisonné wires, not stained-glass leading, not mosaic tesserae.",
+    "description_zh": "金缮：碎瓷片以厚金漆缝重新接合、金粉闪光；非掐丝珐琅、非彩绘玻璃铅条、非马赛克嵌片。",
+    "source": "hermes-explore",
+    "image": "styles/149-kintsugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h107",
+    "slug": "tarashikomi",
+    "name_en": "Tarashikomi",
+    "name_zh": "溜込",
+    "description_en": "Tarashikomi Nihonga wet pooling: mineral pigments dropped into still-wet color so they bloom and marble on washi; not watercolor wash, not hatsuboku splash, not mogu boneless.",
+    "description_zh": "溜込：矿物颜料滴入未干色层、在和纸上洇开云纹；非水彩晕染、非泼墨、非没骨。",
+    "source": "hermes-explore",
+    "image": "styles/150-tarashikomi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h108",
+    "slug": "solarization",
+    "name_en": "Solarization",
+    "name_zh": "中途曝光",
+    "description_en": "Sabattier solarization: partial tonal reversal with Mackie-line halos and pewter-silver midtones on analog gelatin; not neon glitch, not chemigram, not photogram.",
+    "description_zh": "中途曝光：局部影调反转、麦基线光晕与锡银色中间调；非霓虹故障、非化学成像、非物影照片。",
+    "source": "hermes-explore",
+    "image": "styles/151-solarization.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h109",
+    "slug": "sashiko",
+    "name_en": "Sashiko",
+    "name_zh": "刺子绣",
+    "description_en": "Sashiko running stitch: even white cotton stitches in geometric asanoha and seigaiha on indigo cloth with visible weave and puckering; not satin-stitch embroidery, not cross-stitch, not papercut.",
+    "description_zh": "刺子绣：靛蓝布上均匀白线跑针、麻叶青海波几何、布纹微皱；非缎绣、非十字绣、非剪纸。",
+    "source": "hermes-explore",
+    "image": "styles/152-sashiko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h110",
+    "slug": "guilloche",
+    "name_en": "Guilloché",
+    "name_zh": "引擎纹",
+    "description_en": "Guilloché engine-turning: rose-engine cycloid waves, banknote-fine line fields, enamel-filled recesses, metallic polish; not stipple engraving, not wood engraving, not filigree scrollwork.",
+    "description_zh": "引擎纹：玫瑰车花摆线波、钞票级细线场、珐琅填凹与金属抛光；非点刻铜版、非木口木刻、非金箔卷草。",
+    "source": "hermes-explore",
+    "image": "styles/153-guilloche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
