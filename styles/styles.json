@@ -1857,5 +1857,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h101",
+    "slug": "carborundum",
+    "name_en": "Carborundum",
+    "name_zh": "金刚砂版画",
+    "description_en": "Silicon-carbide grit collagraph intaglio: velvety granulated blacks, wiped paper lights, plate-mark; not mezzotint rocker, not aquatint rosin, not charcoal dust.",
+    "description_zh": "金刚砂版画：碳化硅颗粒粘版凹印、丝绒颗粒黑、擦白纸光、印痕；非美柔汀摇刀、非飞尘松香、非炭粉。",
+    "source": "hermes-explore",
+    "image": "styles/144-carborundum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h102",
+    "slug": "urushi",
+    "name_en": "Urushi",
+    "name_zh": "漆画",
+    "description_en": "Layered urushi lacquer painting: wet-black and vermilion polish, brush-laid ridges, cured depth; not maki-e gold powder, not carved tsuishu, not chinkin.",
+    "description_zh": "漆画：多层生漆、湿黑与朱红高光、刷痕积边；非莳绘洒金、非堆朱剔刻、非沉金阴刻。",
+    "source": "hermes-explore",
+    "image": "styles/145-urushi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h103",
+    "slug": "chemigram",
+    "name_en": "Chemigram",
+    "name_zh": "化学成像",
+    "description_en": "Chemigram on silver-gelatin paper: painted developer and resists under light, amber-black veils, hard chemical edges; not photogram silhouette, not cyanotype, not watercolor.",
+    "description_zh": "化学成像：在银盐相纸上涂显影与抗蚀剂、琥珀黑化学帷幕、硬边；非物影剪影、非蓝晒、非水彩。",
+    "source": "hermes-explore",
+    "image": "styles/146-chemigram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h104",
+    "slug": "scumbling",
+    "name_en": "Scumbling",
+    "name_zh": "干擦薄涂",
+    "description_en": "Oil scumbling: opaque broken color dragged dry over a darker underpainting so canvas tooth sparkles; not transparent glazing, not impasto peaks, not airbrush blend.",
+    "description_zh": "干擦薄涂：不透明色在干透底色上干拖、画布齿露底闪光；非透明罩染、非厚涂峰、非喷绘融合。",
+    "source": "hermes-explore",
+    "image": "styles/147-scumbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h105",
+    "slug": "mordancage",
+    "name_en": "Mordançage",
+    "name_zh": "漂银腐蚀",
+    "description_en": "Mordançage bleach-etch: lifted gelatin emulsion veils draped on a reddish-brown oxidized print; not photogram, not scratchboard, not digital glitch.",
+    "description_zh": "漂银腐蚀：漂蚀后乳剂揭起成半透明帷幕再贴回棕红氧化影像；非物影照片、非刮画、非数字故障。",
+    "source": "hermes-explore",
+    "image": "styles/148-mordancage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

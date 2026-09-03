@@ -288,6 +288,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 143, PNG count 143. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 21 (exactly 5, h101–h105)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh     | image                          |
+|------|-------------|-------------|--------------------------------|
+| h101 | Carborundum | 金刚砂版画  | styles/144-carborundum.png     |
+| h102 | Urushi      | 漆画        | styles/145-urushi.png          |
+| h103 | Chemigram   | 化学成像    | styles/146-chemigram.png       |
+| h104 | Scumbling   | 干擦薄涂    | styles/147-scumbling.png       |
+| h105 | Mordançage  | 漂银腐蚀    | styles/148-mordancage.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 148, PNG count 148. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
