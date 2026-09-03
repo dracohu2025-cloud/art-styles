@@ -400,6 +400,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 183, PNG count 183. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 29 (exactly 5, h141–h145)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh     | image                           |
+|------|----------------|-------------|---------------------------------|
+| h141 | Bokashi        | 木版渐层    | styles/184-bokashi.png          |
+| h142 | Chrysotype     | 金盐印相    | styles/185-chrysotype.png       |
+| h143 | Nanga          | 南画        | styles/186-nanga.png            |
+| h144 | Or nué         | 晕金绣      | styles/187-or-nue.png           |
+| h145 | Line Engraving | 线刻铜版    | styles/188-line-engraving.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 188, PNG count 188. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

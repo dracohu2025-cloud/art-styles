@@ -2377,5 +2377,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h141",
+    "slug": "bokashi",
+    "name_en": "Bokashi",
+    "name_zh": "木版渐层",
+    "description_en": "Bokashi: nishiki-e woodblock color gradation from wet pigment on the block, baren-rubbed fades and slight misregister on washi; not mokuhanga outline-only, not modern ukiyo-e, not watercolor wash, not gouache.",
+    "description_zh": "木版渐层：锦绘湿色上版晕染、马连擦出的渐变与轻微套印偏移、和纸齿感；非仅勾线水印木刻、非现代浮世绘、非水彩晕染、非水粉。",
+    "source": "hermes-explore",
+    "image": "styles/184-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h142",
+    "slug": "chrysotype",
+    "name_en": "Chrysotype",
+    "name_zh": "金盐印相",
+    "description_en": "Chrysotype: Herschel gold-salt print in rose-brown to purple-gold continuous tone on matte paper, no silver speculars; not platinotype, not palladium print, not kallitype, not Van Dyke brown, not gelatin silver.",
+    "description_zh": "金盐印相：赫歇尔金盐工艺，玫棕至紫金连续调、哑光纸基、无银盐高光；非铂盐、非钯盐、非卡利型、非范戴克棕印、非明胶银盐。",
+    "source": "hermes-explore",
+    "image": "styles/185-chrysotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h143",
+    "slug": "nanga",
+    "name_en": "Nanga",
+    "name_zh": "南画",
+    "description_en": "Nanga (bunjinga): Japanese literati ink with light mineral color, dry-brush flying white and empty space on xuan paper; not gongbi, not mogu, not xieyi splash-only, not sumi-e monochrome, not nihonga.",
+    "description_zh": "南画（文人画）：淡彩矿物与墨、飞白枯笔与留白宣纸；非工笔、非没骨、非纯写意泼墨、非单色水墨、非日本画重彩。",
+    "source": "hermes-explore",
+    "image": "styles/186-nanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h144",
+    "slug": "or-nue",
+    "name_en": "Or nué",
+    "name_zh": "晕金绣",
+    "description_en": "Or nué: pictorial goldwork of couched metal threads shaded by colored silk, directional sheen and raised couching; not general embroidery, not sashiko, not kirikane, not maki-e, not kesi.",
+    "description_zh": "晕金绣：平金线以彩丝分色罩染、金属光向与凸起钉线；非普通刺绣、非刺子绣、非截金、非莳绘、非缂丝。",
+    "source": "hermes-explore",
+    "image": "styles/187-or-nue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h145",
+    "slug": "line-engraving",
+    "name_en": "Line Engraving",
+    "name_zh": "线刻铜版",
+    "description_en": "Line engraving: burin-cut tapering lines and lozenge hatch on copper, plate tone on laid paper, no etch grain; not etching, not drypoint, not mezzotint, not stipple engraving, not wood engraving.",
+    "description_zh": "线刻铜版：雕刀渐粗细线与菱形交叉排线、铺纸版调、无酸咬颗粒；非蚀刻、非干刻、非美柔汀、非点刻铜版、非木口木刻。",
+    "source": "hermes-explore",
+    "image": "styles/188-line-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
