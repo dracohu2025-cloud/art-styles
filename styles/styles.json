@@ -1077,5 +1077,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h41",
+    "slug": "trois-crayons",
+    "name_en": "Trois Crayons",
+    "name_zh": "三色粉笔",
+    "description_en": "Black, sanguine, and white chalk on mid-tone laid paper; stump blend, hatching, white heightening.",
+    "description_zh": "黑、红赭与白粉笔于中间调纸；擦笔晕、排线、白粉笔提亮。",
+    "source": "hermes-explore",
+    "image": "styles/84-trois-crayons.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h42",
+    "slug": "photogravure",
+    "name_en": "Photogravure",
+    "name_zh": "照相凹版",
+    "description_en": "Heliogravure intaglio: reticulated aquatint grain, velvety continuous-tone sepia-black ink, plate mark on cream rag.",
+    "description_zh": "照相凹版：飞尘网纹颗粒、绒面连续调棕黑墨、乳色棉纸版痕。",
+    "source": "hermes-explore",
+    "image": "styles/85-photogravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h43",
+    "slug": "screentone",
+    "name_en": "Screentone",
+    "name_zh": "网点纸",
+    "description_en": "Manga zip-a-tone: G-pen contours, pasted halftone sheets, gradient dots, white-out, black ink on white paper.",
+    "description_zh": "漫画网点纸：G笔轮廓、粘贴网纹、渐变网点、修正白、白纸黑墨。",
+    "source": "hermes-explore",
+    "image": "styles/86-screentone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h44",
+    "slug": "ikat",
+    "name_en": "Ikat",
+    "name_zh": "经扎染",
+    "description_en": "Warp-resist dye weaving: feathered motif edges, indigo-madder-mustard yarns, visible weft and cloth tooth.",
+    "description_zh": "经线扎染织造：纹样羽化边、靛红芥黄纱、可见纬线与布齿。",
+    "source": "hermes-explore",
+    "image": "styles/87-ikat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h45",
+    "slug": "xieyi",
+    "name_en": "Xieyi",
+    "name_zh": "写意",
+    "description_en": "Freehand expressive ink-and-color: calligraphic wet brush, spare mineral washes, large xuan-paper reserve; not gongbi.",
+    "description_zh": "写意水墨设色：书法性湿笔、疏淡矿物色、大量宣纸留白；非工笔。",
+    "source": "hermes-explore",
+    "image": "styles/88-xieyi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

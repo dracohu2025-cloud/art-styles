@@ -120,6 +120,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 83, PNG count 83. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 9 (exactly 5, h41–h45)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en       | name_zh   | image                         |
+|-----|---------------|-----------|-------------------------------|
+| h41 | Trois Crayons | 三色粉笔  | styles/84-trois-crayons.png   |
+| h42 | Photogravure  | 照相凹版  | styles/85-photogravure.png    |
+| h43 | Screentone    | 网点纸    | styles/86-screentone.png      |
+| h44 | Ikat          | 经扎染    | styles/87-ikat.png            |
+| h45 | Xieyi         | 写意      | styles/88-xieyi.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 88, PNG count 88. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
