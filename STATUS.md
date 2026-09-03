@@ -162,6 +162,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 98, PNG count 98. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 12 (exactly 5, h56–h60)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en        | name_zh       | image                           |
+|-----|----------------|---------------|---------------------------------|
+| h56 | Baimiao        | 白描          | styles/99-baimiao.png           |
+| h57 | Yuzen          | 友禅          | styles/100-yuzen.png            |
+| h58 | Daguerreotype  | 达盖尔银版    | styles/101-daguerreotype.png    |
+| h59 | Marquetry      | 细木镶嵌      | styles/102-marquetry.png        |
+| h60 | Albumen Print  | 蛋白印相      | styles/103-albumen-print.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 103, PNG count 103. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

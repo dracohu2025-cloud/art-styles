@@ -1272,5 +1272,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h56",
+    "slug": "baimiao",
+    "name_en": "Baimiao",
+    "name_zh": "白描",
+    "description_en": "Outline-only Chinese ink: calligraphic contour, unfilled form, cream xuan reserve; no wash, not xieyi, not gongbi color.",
+    "description_zh": "白描：书法性墨线、不填色、宣纸留白；无渲染，非写意，非工笔设色。",
+    "source": "hermes-explore",
+    "image": "styles/99-baimiao.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h57",
+    "slug": "yuzen",
+    "name_en": "Yuzen",
+    "name_zh": "友禅",
+    "description_en": "Paste-resist silk dyeing: rice-paste walls, hand-painted dye floods, crepe weave; not katazome, not batik, not ikat.",
+    "description_zh": "友禅：糊防染轮廓、手绘染料晕染、绉绸织纹；非型染、非蜡染、非经扎染。",
+    "source": "hermes-explore",
+    "image": "styles/100-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h58",
+    "slug": "daguerreotype",
+    "name_en": "Daguerreotype",
+    "name_zh": "达盖尔银版",
+    "description_en": "Mercury-fumed silvered copper plate: mirror specular, ultra-fine grain, plate tarnish; not wet collodion, not bromoil.",
+    "description_zh": "达盖尔银版：水银熏银铜板、镜面高光、极细颗粒与氧化边；非湿版火棉胶、非溴油。",
+    "source": "hermes-explore",
+    "image": "styles/101-daguerreotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h59",
+    "slug": "marquetry",
+    "name_en": "Marquetry",
+    "name_zh": "细木镶嵌",
+    "description_en": "Veneer inlay: knife-cut walnut maple rosewood ebony, grain as shading, French polish; not mosaic, not maki-e.",
+    "description_zh": "细木镶嵌：刀切胡桃枫木紫檀乌木、木纹作明暗、法式抛光；非马赛克、非莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/102-marquetry.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h60",
+    "slug": "albumen-print",
+    "name_en": "Albumen Print",
+    "name_zh": "蛋白印相",
+    "description_en": "Egg-white coated paper print: glossy warm sepia silver image, contact-print sharpness; not bromoil, not autochrome.",
+    "description_zh": "蛋白印相：蛋白涂布纸、暖褐光泽银影、接触印相锐度；非溴油、非奥托克罗姆。",
+    "source": "hermes-explore",
+    "image": "styles/103-albumen-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
