@@ -106,6 +106,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 78, PNG count 78. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 8 (exactly 5, h36–h40)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en    | name_zh   | image                      |
+|-----|------------|-----------|----------------------------|
+| h36 | Etching    | 蚀刻      | styles/79-etching.png      |
+| h37 | Oil Pastel | 油性粉彩  | styles/80-oil-pastel.png   |
+| h38 | Papercut   | 剪纸      | styles/81-papercut.png     |
+| h39 | Rimpa      | 琳派      | styles/82-rimpa.png        |
+| h40 | Collotype  | 珂罗版    | styles/83-collotype.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 83, PNG count 83. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -1012,5 +1012,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h36",
+    "slug": "etching",
+    "name_en": "Etching",
+    "name_zh": "蚀刻",
+    "description_en": "Hard-ground copper-plate etching: acid-bitten lines, dense cross-hatch, plate tone, warm black ink and plate mark on cream rag.",
+    "description_zh": "铜版硬地蚀刻：酸咬细线、密排交叉线、版调、暖黑墨与乳色棉纸上的版痕。",
+    "source": "hermes-explore",
+    "image": "styles/79-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h37",
+    "slug": "oil-pastel",
+    "name_en": "Oil Pastel",
+    "name_zh": "油性粉彩",
+    "description_en": "Waxy oil-pastel sticks: scumbled broken color, crayon ridges, paper tooth in gaps, smudge beside hard unblended edges.",
+    "description_zh": "油性粉彩棒：断色擦涂、蜡质笔脊、纸齿露底、晕擦与硬边并存。",
+    "source": "hermes-explore",
+    "image": "styles/80-oil-pastel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h38",
+    "slug": "papercut",
+    "name_en": "Papercut",
+    "name_zh": "剪纸",
+    "description_en": "Layered jianzhi cut paper: razor silhouettes, negative-space cuts, stacked crimson-cream-teal sheets with paper-cast shadows.",
+    "description_zh": "分层剪纸：锋利剪影、镂空纹样、红奶油青绿叠纸与纸影。",
+    "source": "hermes-explore",
+    "image": "styles/81-papercut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h39",
+    "slug": "rimpa",
+    "name_en": "Rimpa",
+    "name_zh": "琳派",
+    "description_en": "Rimpa school: gold-leaf ground, tarashikomi mineral blooms, bold simplified flora and waves in malachite and azurite.",
+    "description_zh": "琳派：金箔地、溜込矿物渗化、简化花草波浪与石绿石青。",
+    "source": "hermes-explore",
+    "image": "styles/82-rimpa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h40",
+    "slug": "collotype",
+    "name_en": "Collotype",
+    "name_zh": "珂罗版",
+    "description_en": "Collotype photomechanical print: reticulated gelatin grain, continuous-tone warm brown-black ink on thick cream paper.",
+    "description_zh": "珂罗版：重铬酸盐明胶网纹颗粒、连续调暖棕黑墨、厚奶油纸。",
+    "source": "hermes-explore",
+    "image": "styles/83-collotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
