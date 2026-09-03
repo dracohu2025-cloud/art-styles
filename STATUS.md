@@ -414,6 +414,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 188, PNG count 188. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 30 (exactly 5, h146–h150)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh     | image                           |
+|------|----------------|-------------|---------------------------------|
+| h146 | Aizuri-e       | 蓝摺绘      | styles/189-aizuri-e.png         |
+| h147 | Kirazuri       | 云母摺      | styles/190-kirazuri.png         |
+| h148 | Fresco Secco   | 干壁画      | styles/191-fresco-secco.png     |
+| h149 | Ben-Day Dots   | 本戴网点    | styles/192-ben-day-dots.png     |
+| h150 | Distemper      | 胶彩        | styles/193-distemper.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 193, PNG count 193. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

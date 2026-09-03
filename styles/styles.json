@@ -2442,5 +2442,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h146",
+    "slug": "aizuri-e",
+    "name_en": "Aizuri-e",
+    "name_zh": "蓝摺绘",
+    "description_en": "Aizuri-e: Edo woodblock printed almost entirely in Prussian/Berlin blue (bero-ai) on washi, blue bokashi and baren grain; not aizome textile, not cyanotype, not full-color nishiki-e, not watercolor wash.",
+    "description_zh": "蓝摺绘：以柏林蓝（ベロ蓝）为主的江户木版、蓝色渐层与马连齿痕、和纸；非蓝染织物、非蓝晒、非全彩锦绘、非水彩晕染。",
+    "source": "hermes-explore",
+    "image": "styles/189-aizuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h147",
+    "slug": "kirazuri",
+    "name_en": "Kirazuri",
+    "name_zh": "云母摺",
+    "description_en": "Kirazuri: woodblock mica (kira) ground, pearly mineral sparkle on washi with printed line; not kirikane cut gold, not maki-e, not or nué, not raden, not digital glitter.",
+    "description_zh": "云母摺：木版云母地、和纸上的矿物珠光与版线；非截金、非莳绘、非晕金绣、非螺钿、非数码闪粉。",
+    "source": "hermes-explore",
+    "image": "styles/190-kirazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h148",
+    "slug": "fresco-secco",
+    "name_en": "Fresco Secco",
+    "name_zh": "干壁画",
+    "description_en": "Fresco secco: pigment bound on already-dry lime plaster, matte chalky mural with giornata seams; not buon fresco, not egg tempera, not gouache wash, not casein, not distemper.",
+    "description_zh": "干壁画：颜料绘于已干石灰墙、哑光粉质与日作业缝；非湿壁画、非蛋彩、非水粉湿画、非酪蛋白、非胶彩。",
+    "source": "hermes-explore",
+    "image": "styles/191-fresco-secco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h149",
+    "slug": "ben-day-dots",
+    "name_en": "Ben-Day Dots",
+    "name_zh": "本戴网点",
+    "description_en": "Ben-Day dots: mid-century comic process screens of regular CMYK circles on newsprint, rosettes and slight misregister; not neon halftone, not manga screentone, not risograph, not pointillism, not photogravure.",
+    "description_zh": "本戴网点：世纪中漫画工艺圆点、新闻纸套色与轻微错位；非霓虹网点、非漫画网点纸、非孔版印刷、非点彩、非照相凹版。",
+    "source": "hermes-explore",
+    "image": "styles/192-ben-day-dots.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h150",
+    "slug": "distemper",
+    "name_en": "Distemper",
+    "name_zh": "胶彩",
+    "description_en": "Distemper: animal-glue size paint, matte chalky opaque body like scene painting; not gouache wash, not casein, not egg tempera, not fresco, not acrylic, not oil impasto.",
+    "description_zh": "胶彩：动物胶结合的哑光不透明颜料、布景画体质；非水粉湿画、非酪蛋白、非蛋彩、非壁画、非丙烯、非厚涂油画。",
+    "source": "hermes-explore",
+    "image": "styles/193-distemper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
