@@ -2052,5 +2052,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h116",
+    "slug": "sugar-lift",
+    "name_en": "Sugar Lift",
+    "name_zh": "糖水蚀刻",
+    "description_en": "Sugar-lift aquatint: sugar solution painted on copper, bitten as painterly dark washes with lifted ivory reserves and plate tone; not line etching, not drypoint burr, not mezzotint, not watercolor.",
+    "description_zh": "糖水蚀刻：糖液绘于铜版再飞尘腐蚀，如画的深咬色块与留白纸地、版调；非线蚀、非干刻毛刺、非美柔汀、非水彩。",
+    "source": "hermes-explore",
+    "image": "styles/159-sugar-lift.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h117",
+    "slug": "camaieu",
+    "name_en": "Camaieu",
+    "name_zh": "单色浓淡",
+    "description_en": "Camaieu: modeling in tints and shades of a single hue like a cameo, porcelain light; not grisaille gray, not brunaille, not monochrome-with-red-accent, not cyanotype.",
+    "description_zh": "单色浓淡：同一色相的深浅塑造如浮雕宝石，瓷质光影；非灰色单色、非褐色单色、非黑白加点红、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/160-camaieu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h118",
+    "slug": "ambrotype",
+    "name_en": "Ambrotype",
+    "name_zh": "安布罗型",
+    "description_en": "Ambrotype: underexposed wet-plate collodion positive on dark glass, silvery cream highlights and velvet-black backing; not daguerreotype, not tintype, not calotype, not wet-collodion negative.",
+    "description_zh": "安布罗型：欠曝湿版火棉胶玻璃正片，银奶油高光与绒黑衬底；非达盖尔银版、非铁版照相、非卡罗法、非湿版负片。",
+    "source": "hermes-explore",
+    "image": "styles/161-ambrotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h119",
+    "slug": "trencadis",
+    "name_en": "Trencadís",
+    "name_zh": "碎瓷镶嵌",
+    "description_en": "Trencadís: irregular broken glazed ceramic shards in grout on curved biomorphic surfaces; not regular mosaic tesserae, not stained glass, not azulejo, not cuerda seca.",
+    "description_zh": "碎瓷镶嵌：不规则碎釉瓷片嵌于弯月灰缝与有机曲面；非规整马赛克、非彩绘玻璃、非阿兹勒霍、非干绳彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/162-trencadis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h120",
+    "slug": "otsu-e",
+    "name_en": "Otsu-e",
+    "name_zh": "大津绘",
+    "description_en": "Otsu-e: Edo folk mineral pigments on tan washi, bold sumi outlines and flat color patches; not ukiyo-e woodblock, not yamato-e gold clouds, not shin-hanga, not gongbi.",
+    "description_zh": "大津绘：江户民间岩彩绘于茶色和纸，粗墨线与平涂色块；非浮世绘木版、非大和绘金云、非新版画、非工笔。",
+    "source": "hermes-explore",
+    "image": "styles/163-otsu-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

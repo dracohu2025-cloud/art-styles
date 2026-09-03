@@ -330,6 +330,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 158, PNG count 158. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 24 (exactly 5, h116–h120)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh     | image                       |
+|------|-------------|-------------|-----------------------------|
+| h116 | Sugar Lift  | 糖水蚀刻    | styles/159-sugar-lift.png   |
+| h117 | Camaieu     | 单色浓淡    | styles/160-camaieu.png      |
+| h118 | Ambrotype   | 安布罗型    | styles/161-ambrotype.png    |
+| h119 | Trencadís   | 碎瓷镶嵌    | styles/162-trencadis.png    |
+| h120 | Otsu-e      | 大津绘      | styles/163-otsu-e.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 163, PNG count 163. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
