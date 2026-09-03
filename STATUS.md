@@ -316,6 +316,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 153, PNG count 153. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 23 (exactly 5, h111–h115)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en      | name_zh     | image                         |
+|------|--------------|-------------|-------------------------------|
+| h111 | Grattage     | 刮擦画      | styles/154-grattage.png       |
+| h112 | Lumen Print  | 日光印相    | styles/155-lumen-print.png    |
+| h113 | Yamato-e     | 大和绘      | styles/156-yamato-e.png       |
+| h114 | Cliché-verre | 玻璃底片绘  | styles/157-cliche-verre.png   |
+| h115 | Cuerda Seca  | 干绳彩釉    | styles/158-cuerda-seca.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 158, PNG count 158. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

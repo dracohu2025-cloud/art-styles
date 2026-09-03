@@ -1987,5 +1987,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h111",
+    "slug": "grattage",
+    "name_en": "Grattage",
+    "name_zh": "刮擦画",
+    "description_en": "Surrealist grattage: wet paint scraped over mesh, wood grain, and foil so accidental ridges and torn color fields form the figure; not sgraffito plaster, not scratchboard, not palette-knife impasto.",
+    "description_zh": "刮擦画：湿颜料在网、木纹与箔上刮过，偶然棱脊与撕裂色域成形；非刮刻灰泥、非刮画、非刮刀厚涂。",
+    "source": "hermes-explore",
+    "image": "styles/154-grattage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h112",
+    "slug": "lumen-print",
+    "name_en": "Lumen Print",
+    "name_zh": "日光印相",
+    "description_en": "Lumen print: camera-less sun/UV exposure of photographic paper with botanicals, peach-lavender-teal chemical shifts and paper fog; not cyanotype, not anthotype, not photogram silhouette, not chemigram.",
+    "description_zh": "日光印相：相纸叠植物经日晒/紫外曝光，桃紫青绿化学变色与纸雾；非蓝晒、非花汁印相、非物影剪影、非化学成像。",
+    "source": "hermes-explore",
+    "image": "styles/155-lumen-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h113",
+    "slug": "yamato-e",
+    "name_en": "Yamato-e",
+    "name_zh": "大和绘",
+    "description_en": "Yamato-e: mineral pigments on silk or washi, gold-leaf cloud bands flattening space, high viewpoint and seasonal plants; not ukiyo-e, not shin-hanga, not nihonga, not rimpa screens.",
+    "description_zh": "大和绘：绢或和纸上岩彩，金云带压平空间，高视点与时令草木；非浮世绘、非新版画、非日本画、非琳派金屏。",
+    "source": "hermes-explore",
+    "image": "styles/156-yamato-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h114",
+    "slug": "cliche-verre",
+    "name_en": "Cliché-verre",
+    "name_zh": "玻璃底片绘",
+    "description_en": "Cliché-verre: needle drawing through smoked or coated glass, contact-printed onto photosensitive paper—etched contour plus photographic grain; not etching, not drypoint, not photogravure, not silverpoint.",
+    "description_zh": "玻璃底片绘：烟熏或涂布玻璃上针刻后接触印相，蚀线轮廓加照相颗粒；非蚀刻、非干刻、非照相凹版、非银尖素描。",
+    "source": "hermes-explore",
+    "image": "styles/157-cliche-verre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h115",
+    "slug": "cuerda-seca",
+    "name_en": "Cuerda Seca",
+    "name_zh": "干绳彩釉",
+    "description_en": "Cuerda seca: greasy manganese resist cords separating pools of tin glaze on fired tile, glossy meniscus at dark outlines; not cloisonné wires, not azulejo painting, not majolica, not mosaic.",
+    "description_zh": "干绳彩釉：锰脂阻隔线分隔锡釉色池，烧成瓷砖高光与暗线弯月边；非掐丝珐琅、非阿兹勒霍、非马约利卡、非马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/158-cuerda-seca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
