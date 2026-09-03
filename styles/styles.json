@@ -2767,5 +2767,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h171",
+    "slug": "sumizuri-e",
+    "name_en": "Sumizuri-e",
+    "name_zh": "墨摺絵",
+    "description_en": "Sumizuri-e: early monochrome ukiyo-e woodblock in black sumi on washi with carved keyline and baren rub; not nishiki-e, not benizuri-e, not aizuri-e, not mokuhanga color.",
+    "description_zh": "墨摺絵：早期单色浮世绘木版，墨线与马楝擦印于和纸；非锦绘、非红摺绘、非蓝摺绘、非套色水印木刻。",
+    "source": "hermes-explore",
+    "image": "styles/214-sumizuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h172",
+    "slug": "charcoal",
+    "name_en": "Charcoal",
+    "name_zh": "木炭素描",
+    "description_en": "Charcoal: vine and compressed charcoal on laid paper with kneaded-eraser lifts and paper tooth; not carbon dust, not graphite shine, not conté, not scratchboard, not mezzotint.",
+    "description_zh": "木炭素描：藤条炭与压缩炭在罗纹纸上，橡皮提出高光、纸纹可见；非炭粉画、非石墨反光、非康泰粉笔、非刮画、非美柔汀。",
+    "source": "hermes-explore",
+    "image": "styles/215-charcoal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h173",
+    "slug": "sometsuke",
+    "name_en": "Sometsuke",
+    "name_zh": "染付",
+    "description_en": "Sometsuke: cobalt gosu underglaze brush painting on white porcelain under clear glaze; not celadon, not aka-e overglaze, not cloisonné, not azulejo, not mishima inlay.",
+    "description_zh": "染付：钴蓝吴须在白瓷上的釉下彩，透明釉覆盖；非青瓷、非赤绘釉上彩、非掐丝珐琅、非阿兹勒霍、非三岛嵌。",
+    "source": "hermes-explore",
+    "image": "styles/216-sometsuke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h174",
+    "slug": "blackwork",
+    "name_en": "Blackwork",
+    "name_zh": "黑工绣",
+    "description_en": "Blackwork: counted-thread black silk on white linen with Holbein double-running stitch and geometric fills; not sashiko, not stumpwork, not or nué, not kesi, not toile de Jouy.",
+    "description_zh": "黑工绣：白亚麻上的计针黑丝线，霍尔拜因双面走针与几何填纹；非刺子绣、非垫绣、非晕金绣、非缂丝、非茹伊印花。",
+    "source": "hermes-explore",
+    "image": "styles/217-blackwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h175",
+    "slug": "reverse-glass",
+    "name_en": "Reverse Glass",
+    "name_zh": "玻璃背面画",
+    "description_en": "Reverse glass: Hinterglasmalerei pigments on the back of glass in reverse order, viewed through the glossy face; not stained glass, not verre églomisé, not cameo glass, not pâte-de-verre.",
+    "description_zh": "玻璃背面画：颜料按反向次序画在玻璃背面，透过光泽正面观看；非彩绘玻璃、非反绘金箔、非浮雕套色玻璃、非熔铸玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/218-reverse-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

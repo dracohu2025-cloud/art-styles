@@ -484,6 +484,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 213, PNG count 213. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 35 (exactly 5, h171–h175)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh       | image                           |
+|------|----------------|---------------|---------------------------------|
+| h171 | Sumizuri-e     | 墨摺絵        | styles/214-sumizuri-e.png       |
+| h172 | Charcoal       | 木炭素描      | styles/215-charcoal.png         |
+| h173 | Sometsuke      | 染付          | styles/216-sometsuke.png        |
+| h174 | Blackwork      | 黑工绣        | styles/217-blackwork.png        |
+| h175 | Reverse Glass  | 玻璃背面画    | styles/218-reverse-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 218, PNG count 218. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
