@@ -274,6 +274,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 138, PNG count 138. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 20 (exactly 5, h96–h100)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh   | image                         |
+|------|-------------|-----------|-------------------------------|
+| h96  | Photogram   | 物影照片  | styles/139-photogram.png      |
+| h97  | Niello      | 乌银镶嵌  | styles/140-niello.png         |
+| h98  | Oil Glazing | 透明罩染  | styles/141-oil-glazing.png    |
+| h99  | Woodcut     | 木面木刻  | styles/142-woodcut.png        |
+| h100 | Carbon Print| 碳印法    | styles/143-carbon-print.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 143, PNG count 143. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

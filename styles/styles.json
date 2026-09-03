@@ -1792,5 +1792,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h96",
+    "slug": "photogram",
+    "name_en": "Photogram",
+    "name_zh": "物影照片",
+    "description_en": "Cameraless rayograph: objects and figure exposed as white-grey silhouettes on chemical black paper; not cyanotype blue, not digital cutout, not collage UI.",
+    "description_zh": "物影照片：实物与人影在银盐相纸上曝光成白灰剪影；非蓝晒、非数字抠图、非拼贴界面。",
+    "source": "hermes-explore",
+    "image": "styles/139-photogram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h97",
+    "slug": "niello",
+    "name_en": "Niello",
+    "name_zh": "乌银镶嵌",
+    "description_en": "Black silver-sulfide inlay flushed into engraved silver; not cloisonné wires, not mokume-gane grain, not paper etching.",
+    "description_zh": "乌银镶嵌：硫化银填入阴刻银地再磨平；非掐丝珐琅、非木目金、非纸本蚀刻。",
+    "source": "hermes-explore",
+    "image": "styles/140-niello.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h98",
+    "slug": "oil-glazing",
+    "name_en": "Oil Glazing",
+    "name_zh": "透明罩染",
+    "description_en": "Thin transparent oil films over warm underpainting so flesh glows optically; not tenebrism, not impasto peaks, not watercolor wash.",
+    "description_zh": "透明罩染：暖色底上多层薄油色使肤色光学透光；非暗色主义、非厚涂、非水彩晕染。",
+    "source": "hermes-explore",
+    "image": "styles/141-oil-glazing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h99",
+    "slug": "woodcut",
+    "name_en": "Woodcut",
+    "name_zh": "木面木刻",
+    "description_en": "Plank-grain relief print: gouge chatter, flat ink, wood grain in reserves; not wood engraving, not mokuhanga watercolor, not linocut.",
+    "description_zh": "木面木刻：顺纹刨面、刀痕与留白木纹；非木口木刻、非水印木刻、非油毡木刻。",
+    "source": "hermes-explore",
+    "image": "styles/142-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h100",
+    "slug": "carbon-print",
+    "name_en": "Carbon Print",
+    "name_zh": "碳印法",
+    "description_en": "Pigmented gelatin carbon process: velvety continuous tone with slight relief in darks; not silver grain, not bromoil brush, not gum bichromate.",
+    "description_zh": "碳印法：色素明胶转印、丝绒连续调、暗部微浮雕；非银盐颗粒、非溴油笔触、非树胶重铬酸盐。",
+    "source": "hermes-explore",
+    "image": "styles/143-carbon-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
