@@ -882,5 +882,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h26",
+    "slug": "nihonga",
+    "name_en": "Nihonga",
+    "name_zh": "日本画",
+    "description_en": "Mineral iwa-enogu on washi, gold-leaf fields, fine sumi contour with opaque crushed-stone color.",
+    "description_zh": "岩彩敷于和纸、金箔底、细墨线与不透明矿物色填染。",
+    "source": "hermes-explore",
+    "image": "styles/69-nihonga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h27",
+    "slug": "pochoir",
+    "name_en": "Pochoir",
+    "name_zh": "镂版上色",
+    "description_en": "Hand-cut stencil gouache plates, hard stencil rims, layered flat inks on cream paper.",
+    "description_zh": "手工镂版水粉套色、硬边色口、乳色纸上层叠平涂油墨。",
+    "source": "hermes-explore",
+    "image": "styles/70-pochoir.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h28",
+    "slug": "mosaic",
+    "name_en": "Mosaic",
+    "name_zh": "镶嵌马赛克",
+    "description_en": "Glass and stone tesserae with grout lines, faceted smalti chips, no painterly blend.",
+    "description_zh": "玻璃石片镶嵌、灰缝清晰、珐琅碎色块，无笔触混色。",
+    "source": "hermes-explore",
+    "image": "styles/71-mosaic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h29",
+    "slug": "airbrush",
+    "name_en": "Airbrush",
+    "name_zh": "喷绘",
+    "description_en": "Atomized spray gradients, soft overspray, no brushstrokes or lineart; velvety commercial airbrush.",
+    "description_zh": "雾化喷绘渐变、柔边过喷、无笔触与线稿；绒面商业喷绘。",
+    "source": "hermes-explore",
+    "image": "styles/72-airbrush.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h30",
+    "slug": "chiaroscuro-woodcut",
+    "name_en": "Chiaroscuro Woodcut",
+    "name_zh": "明暗木刻",
+    "description_en": "Multi-block tone woodcut: cream, ochre, umber, black; carved gouge marks and block registration.",
+    "description_zh": "多版明暗木刻：乳白、赭石、褐与黑；刀痕与套版对位。",
+    "source": "hermes-explore",
+    "image": "styles/73-chiaroscuro-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

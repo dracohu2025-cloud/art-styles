@@ -78,6 +78,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 68, PNG count 68. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 6 (exactly 5, h26–h30)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en              | name_zh     | image                              |
+|-----|----------------------|-------------|------------------------------------|
+| h26 | Nihonga              | 日本画      | styles/69-nihonga.png              |
+| h27 | Pochoir              | 镂版上色    | styles/70-pochoir.png              |
+| h28 | Mosaic               | 镶嵌马赛克  | styles/71-mosaic.png               |
+| h29 | Airbrush             | 喷绘        | styles/72-airbrush.png             |
+| h30 | Chiaroscuro Woodcut  | 明暗木刻    | styles/73-chiaroscuro-woodcut.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 73, PNG count 73. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
