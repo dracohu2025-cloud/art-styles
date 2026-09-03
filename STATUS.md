@@ -372,6 +372,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 173, PNG count 173. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 27 (exactly 5, h131–h135)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                               |
+|------|--------------------|-------------|-------------------------------------|
+| h131 | Divisionism        | 分割主义    | styles/174-divisionism.png          |
+| h132 | Spit Bite          | 唾液咬蚀    | styles/175-spit-bite.png            |
+| h133 | Kallitype          | 卡利型      | styles/176-kallitype.png            |
+| h134 | Intarsia           | 嵌木细工    | styles/177-intarsia.png             |
+| h135 | Reduction Linocut  | 减版油印    | styles/178-reduction-linocut.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 178, PNG count 178. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

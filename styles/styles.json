@@ -2247,5 +2247,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h131",
+    "slug": "divisionism",
+    "name_en": "Divisionism",
+    "name_zh": "分割主义",
+    "description_en": "Divisionism: form built from discrete elongated dashes of pure complementary hues that mix optically at a distance; not circular Pointillism dots, not blended Impressionist color, not mosaic tesserae inlay.",
+    "description_zh": "分割主义：以纯色互补的短条笔触并置、远观光学混色成形；非圆形点彩、非印象派融色、非镶嵌马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/174-divisionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h132",
+    "slug": "spit-bite",
+    "name_en": "Spit Bite",
+    "name_zh": "唾液咬蚀",
+    "description_en": "Spit bite: nitric acid painted onto a rosin aquatint ground, yielding painterly bitten washes, tide-line rings, and corrosive blooms; not even aquatint grain, not sugar-lift, not watercolor on paper.",
+    "description_zh": "唾液咬蚀：硝酸直接涂于松香飞尘底，形成潮线与腐蚀云团般的咬色；非均匀飞尘、非糖水蚀刻、非纸本水彩。",
+    "source": "hermes-explore",
+    "image": "styles/175-spit-bite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h133",
+    "slug": "kallitype",
+    "name_en": "Kallitype",
+    "name_zh": "卡利型",
+    "description_en": "Kallitype: iron-silver contact print in warm chocolate-to-eggplant brown sitting in rag-paper fibers; not Van Dyke brown, not platinum-palladium cool grey, not cyanotype blue, not glossy silver-gelatin.",
+    "description_zh": "卡利型：铁银接触印相，暖巧克力至茄紫棕色渗入棉纸纤维；非范戴克棕印、非铂钯冷灰、非蓝晒、非光面银盐。",
+    "source": "hermes-explore",
+    "image": "styles/176-kallitype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h134",
+    "slug": "intarsia",
+    "name_en": "Intarsia",
+    "name_zh": "嵌木细工",
+    "description_en": "Intarsia: pictorial image from thick cut pieces of different wood species set flush, grain direction and knife seams visible; not thin-veneer marquetry, not pietra dura stone, not pyrography, not painting on wood.",
+    "description_zh": "嵌木细工：不同树种厚木块嵌平成像，木纹走向与刀缝可见；非薄皮细木镶嵌、非硬石镶嵌、非烙画、非木板绘画。",
+    "source": "hermes-explore",
+    "image": "styles/177-intarsia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h135",
+    "slug": "reduction-linocut",
+    "name_en": "Reduction Linocut",
+    "name_zh": "减版油印",
+    "description_en": "Reduction linocut: successive cuts on a single linoleum block printed light-to-dark with overlapping ink films and gouge marks; not multi-block linocut, not woodcut, not screenprint, not risograph.",
+    "description_zh": "减版油印：同一油毡版逐次削减、由浅入深叠印，刀痕与套色错位可见；非多版油印、非木刻、非丝网、非孔版印刷。",
+    "source": "hermes-explore",
+    "image": "styles/178-reduction-linocut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
