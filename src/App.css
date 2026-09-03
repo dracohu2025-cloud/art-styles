@@ -296,3 +296,8 @@ footer {
     transition: none !important;
   }
 }
+
+.search.wide {
+  flex: 1;
+  max-width: none;
+}

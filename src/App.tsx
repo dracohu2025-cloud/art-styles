@@ -23,8 +23,6 @@ function asset(path: string) {
   return `${base}${path.replace(/^\//, "")}`;
 }
 
-type Filter = "all" | "creative" | "style-diverge";
-
 function useEscape(onClose: () => void, enabled: boolean) {
   useEffect(() => {
     if (!enabled) return;
@@ -38,21 +36,19 @@ function useEscape(onClose: () => void, enabled: boolean) {
 
 export default function App() {
   const [q, setQ] = useState("");
-  const [filter, setFilter] = useState<Filter>("all");
   const [open, setOpen] = useState<number | null>(null);
   useEscape(() => setOpen(null), open !== null);
 
   const visible = useMemo(() => {
     const needle = q.trim().toLowerCase();
     return styles.filter((s) => {
-      if (filter !== "all" && s.source !== filter) return false;
       if (!needle) return true;
-      return [s.name_en, s.name_zh, s.slug, s.description_en, s.description_zh, s.id, s.source]
+      return [s.name_en, s.name_zh, s.slug, s.description_en, s.description_zh, s.id]
         .join(" ")
         .toLowerCase()
         .includes(needle);
     });
-  }, [q, filter]);
+  }, [q]);
 
   useEffect(() => {
     if (open === null) return;
@@ -98,33 +94,12 @@ export default function App() {
           每帧一种主导画风。角色可变。Native 16:9.
         </p>
         <div className="meta">
-          {styles.length} stills · 1672×941 · creative {styles.filter((s) => s.source === "creative").length} ·
-          diverge {styles.filter((s) => s.source === "style-diverge").length}
+          {styles.length} stills · 1672×941 · native 16:9
         </div>
       </header>
 
       <div className="toolbar">
-        <div className="chips" role="tablist" aria-label="Source filter">
-          {(
-            [
-              ["all", "All 全部"],
-              ["creative", "Creative 创意"],
-              ["style-diverge", "Diverge 分异"],
-            ] as const
-          ).map(([id, label]) => (
-            <button
-              key={id}
-              type="button"
-              role="tab"
-              aria-selected={filter === id}
-              className={filter === id ? "chip on" : "chip"}
-              onClick={() => setFilter(id)}
-            >
-              {label}
-            </button>
-          ))}
-        </div>
-        <label className="search">
+        <label className="search wide">
           <input
             type="search"
             placeholder="Search name_en / name_zh…"
@@ -183,7 +158,7 @@ export default function App() {
           </figure>
           <div className="lb-copy" onClick={(e) => e.stopPropagation()}>
             <span className="kicker">
-              {active.source} · {active.aspect} · {active.slug}
+              {active.aspect} · {active.slug}
             </span>
             <h2>{active.name_en}</h2>
             <p className="zh-lg">{active.name_zh}</p>
