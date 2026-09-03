@@ -1467,5 +1467,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h71",
+    "slug": "mokuhanga",
+    "name_en": "Mokuhanga",
+    "name_zh": "水印木刻",
+    "description_en": "Japanese water-based woodblock: washi, bokashi gradations, baren grain, limited mineral inks; not linocut, not wood engraving, not painted ukiyo-e.",
+    "description_zh": "水印木刻：和纸、ぼかし渐层、马楝木纹、矿物水性颜料；非油性木刻、非木口木刻、非手绘浮世绘。",
+    "source": "hermes-explore",
+    "image": "styles/114-mokuhanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h72",
+    "slug": "raden",
+    "name_en": "Raden",
+    "name_zh": "螺钿",
+    "description_en": "Mother-of-pearl inlay in black urushi: iridescent nacre tesserae, polished lacquer, shell flash; not maki-e gold dust, not kirikane leaf.",
+    "description_zh": "螺钿：黑漆嵌鲍贝、虹彩贝片、抛光漆面；非莳绘金粉、非截金箔切。",
+    "source": "hermes-explore",
+    "image": "styles/115-raden.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h73",
+    "slug": "azulejo",
+    "name_en": "Azulejo",
+    "name_zh": "阿兹勒霍",
+    "description_en": "Tin-glazed tile mural: cobalt-white maiolica, grout grid, crackle glaze; not mosaic tesserae, not stained glass, not Delft transfer.",
+    "description_zh": "阿兹勒霍：锡釉瓷砖壁画、钴蓝白、砖缝网格、开片釉；非马赛克、非彩绘玻璃、非代尔夫特转印。",
+    "source": "hermes-explore",
+    "image": "styles/116-azulejo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h74",
+    "slug": "salt-print",
+    "name_en": "Salt Print",
+    "name_zh": "盐纸印相",
+    "description_en": "1840s salted-paper photograph: matte warm brown-lilac silver, paper fiber, no albumen gloss; not daguerreotype, not platinotype, not cyanotype.",
+    "description_zh": "盐纸印相：哑光暖棕紫银影、纸纤维可见、无蛋白光泽；非达盖尔银版、非铂盐、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/117-salt-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h75",
+    "slug": "champleve",
+    "name_en": "Champlevé",
+    "name_zh": "錾胎珐琅",
+    "description_en": "Enamel fused in carved metal recesses: opaque vitreous cells, raised metal ridges, fire-scale bubbles; not plique-à-jour, not cloisonnism painting.",
+    "description_zh": "錾胎珐琅：金属挖槽填不透明釉、凸起金属脊、烧成气泡；非镂空珐琅、非景泰蓝主义绘画。",
+    "source": "hermes-explore",
+    "image": "styles/118-champleve.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
