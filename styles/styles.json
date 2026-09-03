@@ -2117,5 +2117,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h121",
+    "slug": "alla-prima",
+    "name_en": "Alla Prima",
+    "name_zh": "直接画法",
+    "description_en": "Alla prima: wet-into-wet oil finished in one sitting, juicy loaded strokes and melting edges; not dried oil glazing, not scumbling haze, not sculpted impasto peaks, not palette-knife slabs.",
+    "description_zh": "直接画法：一次完成的湿碰湿油画，饱满笔触与溶边；非透明罩染、非干擦薄涂、非雕塑式厚涂峰、非调色刀铲涂。",
+    "source": "hermes-explore",
+    "image": "styles/164-alla-prima.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h122",
+    "slug": "sumi-e",
+    "name_en": "Sumi-e",
+    "name_zh": "水墨画",
+    "description_en": "Sumi-e: graded Japanese ink wash on raw paper, five ink tones, calligraphic bone-and-flesh stroke and empty space; not haboku splash, not gongbi outline-fill, not mogu color bloom, not nihonga mineral pigment.",
+    "description_zh": "水墨画：生纸上的浓淡墨阶、骨法用笔与留白；非泼墨、非工笔勾填、非没骨色晕、非日本画岩彩。",
+    "source": "hermes-explore",
+    "image": "styles/165-sumi-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h123",
+    "slug": "soft-ground-etching",
+    "name_en": "Soft-ground Etching",
+    "name_zh": "软地蚀刻",
+    "description_en": "Soft-ground etching: vernis mou intaglio with crumbly crayon-like bite and fabric-texture impressions, plate tone on cream paper; not hard-ground needle etching, not drypoint burr, not aquatint dust, not sugar-lift wash.",
+    "description_zh": "软地蚀刻：软蜡凹版，粉质蜡笔般咬痕与织物压纹、版调印于米色纸；非硬地针蚀、非干刻毛刺、非飞尘、非糖水蚀刻。",
+    "source": "hermes-explore",
+    "image": "styles/166-soft-ground-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h124",
+    "slug": "woodburytype",
+    "name_en": "Woodburytype",
+    "name_zh": "伍德伯里型",
+    "description_en": "Woodburytype: continuous-tone pigmented gelatin relief, almost grainless chocolate-sepia; not carbon-print tissue, not photogravure rosin grain, not collotype reticulation, not albumen gloss.",
+    "description_zh": "伍德伯里型：连续调明胶浮雕色素印，近无颗粒的巧克力棕；非碳印法、非照相凹版松香粒、非珂罗版网纹、非蛋白印相高光。",
+    "source": "hermes-explore",
+    "image": "styles/167-woodburytype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h125",
+    "slug": "white-line-woodcut",
+    "name_en": "White-line Woodcut",
+    "name_zh": "白线木刻",
+    "description_en": "White-line woodcut: Provincetown single-block method, V-groove white channels separating painted color fields; not mokuhanga multi-block, not black keyblock, not chiaroscuro woodcut tone blocks, not wood engraving.",
+    "description_zh": "白线木刻：普罗温斯敦单版法，V槽白线分隔着色色域；非水印木刻多版套印、非墨线主版、非明暗木刻分层、非木口木刻。",
+    "source": "hermes-explore",
+    "image": "styles/168-white-line-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

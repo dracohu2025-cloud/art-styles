@@ -344,6 +344,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 163, PNG count 163. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 25 (exactly 5, h121–h125)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en             | name_zh     | image                              |
+|------|---------------------|-------------|------------------------------------|
+| h121 | Alla Prima          | 直接画法    | styles/164-alla-prima.png          |
+| h122 | Sumi-e              | 水墨画      | styles/165-sumi-e.png              |
+| h123 | Soft-ground Etching | 软地蚀刻    | styles/166-soft-ground-etching.png |
+| h124 | Woodburytype        | 伍德伯里型  | styles/167-woodburytype.png        |
+| h125 | White-line Woodcut  | 白线木刻    | styles/168-white-line-woodcut.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 168, PNG count 168. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
