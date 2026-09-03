@@ -817,5 +817,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h21",
+    "slug": "wood-engraving",
+    "name_en": "Wood Engraving",
+    "name_zh": "木口木刻",
+    "description_en": "End-grain burin cuts: fine white lines and micro-stipple on dense black ink, cream rag impression.",
+    "description_zh": "木口雕刀白线与微点、密黑墨底、奶油棉纸压印。",
+    "source": "hermes-explore",
+    "image": "styles/64-wood-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h22",
+    "slug": "cloisonnism",
+    "name_en": "Cloisonnism",
+    "name_zh": "景泰蓝主义",
+    "description_en": "Flat unmodulated color fields bound by thick dark cloisonné contours; enamel-like planes, no blend.",
+    "description_zh": "平涂色块由粗黑景泰蓝轮廓圈定；珐琅平面，无混色。",
+    "source": "hermes-explore",
+    "image": "styles/65-cloisonnism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h23",
+    "slug": "ligne-claire",
+    "name_en": "Ligne Claire",
+    "name_zh": "清晰线条",
+    "description_en": "Even-weight clear-line outlines, flat local color, uniform light, no hatching or heavy shadow.",
+    "description_zh": "等粗清晰轮廓、平涂固有色、均匀光，无排线与重影。",
+    "source": "hermes-explore",
+    "image": "styles/66-ligne-claire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h24",
+    "slug": "casein",
+    "name_en": "Casein",
+    "name_zh": "酪蛋白胶画",
+    "description_en": "Matte opaque milk-protein body color; chalky velvety layers, dry-brush scumble on primed board.",
+    "description_zh": "酪蛋白胶不透明哑光；粉质绒面层、底板上枯笔擦色。",
+    "source": "hermes-explore",
+    "image": "styles/67-casein.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h25",
+    "slug": "carbon-dust",
+    "name_en": "Carbon Dust",
+    "name_zh": "炭粉画",
+    "description_en": "Velvet carbon powder on prepared paper; stump blends, eraser lights, matte silver-grey midtones.",
+    "description_zh": "炭粉铺于底纸；擦笔晕、橡皮提亮、哑光银灰中间调。",
+    "source": "hermes-explore",
+    "image": "styles/68-carbon-dust.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

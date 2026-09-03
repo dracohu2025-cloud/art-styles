@@ -64,6 +64,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 63, PNG count 63. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 5 (exactly 5, h21–h25)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id  | name_en        | name_zh     | image                       |
+|-----|----------------|-------------|-----------------------------|
+| h21 | Wood Engraving | 木口木刻    | styles/64-wood-engraving.png |
+| h22 | Cloisonnism    | 景泰蓝主义  | styles/65-cloisonnism.png   |
+| h23 | Ligne Claire   | 清晰线条    | styles/66-ligne-claire.png  |
+| h24 | Casein         | 酪蛋白胶画  | styles/67-casein.png        |
+| h25 | Carbon Dust    | 炭粉画      | styles/68-carbon-dust.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 68, PNG count 68. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
