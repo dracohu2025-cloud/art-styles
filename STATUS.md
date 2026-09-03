@@ -568,6 +568,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 243, PNG count 243. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 41 (exactly 5, h201–h205)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en   | name_zh     | image                       |
+|------|-----------|-------------|-----------------------------|
+| h201 | Kalighat  | 卡利加特    | styles/244-kalighat.png     |
+| h202 | Gond      | 贡德        | styles/245-gond.png         |
+| h203 | Kutani    | 九谷        | styles/246-kutani.png       |
+| h204 | Minhwa    | 民画        | styles/247-minhwa.png       |
+| h205 | Luminism  | 光辉主义    | styles/248-luminism.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 248, PNG count 248. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

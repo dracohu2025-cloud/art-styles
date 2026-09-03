@@ -3157,5 +3157,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h201",
+    "slug": "kalighat",
+    "name_en": "Kalighat",
+    "name_zh": "卡利加特",
+    "description_en": "Calcutta bazaar painting: sweeping lampblack contours, flat mill-paper color, swift unmodeled anatomy, cheap handmade ground.",
+    "description_zh": "加尔各答集市画：挥扫焦黑轮廓、平涂土纸色、迅疾无明暗的形体、廉价手造纸底。",
+    "source": "hermes-explore",
+    "image": "styles/244-kalighat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h202",
+    "slug": "gond",
+    "name_en": "Gond",
+    "name_zh": "贡德",
+    "description_en": "Pardhan Gond: signature dots and dashes infill every form, tree-of-life line networks, bright folk pigments, horror vacui patterning.",
+    "description_zh": "帕尔丹贡德：标志性点线填满形体、生命树线网、鲜亮民间颜料、满密装饰。",
+    "source": "hermes-explore",
+    "image": "styles/245-gond.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h203",
+    "slug": "kutani",
+    "name_en": "Kutani",
+    "name_zh": "九谷",
+    "description_en": "Kutani overglaze enamel: ko-Kutani five colors plus gold on porcelain white, vitreous gloss, dense bird-and-flower arabesque as surface technique.",
+    "description_zh": "九谷上绘：古九谷五彩加金、瓷白底、玻璃质光泽，密匝花鸟纹作为表面技法。",
+    "source": "hermes-explore",
+    "image": "styles/246-kutani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h204",
+    "slug": "minhwa",
+    "name_en": "Minhwa",
+    "name_zh": "民画",
+    "description_en": "Korean minhwa: bright mineral pigments on hanji, bold ink outlines, flat festive space, little atmospheric perspective.",
+    "description_zh": "朝鲜民画：宣纸般韩纸上的矿物重彩、粗墨线、平面喜庆空间、几乎无空气透视。",
+    "source": "hermes-explore",
+    "image": "styles/247-minhwa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h205",
+    "slug": "luminism",
+    "name_en": "Luminism",
+    "name_zh": "光辉主义",
+    "description_en": "American Luminism: concealed brushwork, crystalline air, mirror water, quiet glowing high-key light without theatrical chiaroscuro.",
+    "description_zh": "美国光辉主义：藏笔触、晶莹空气、镜面水色、静谧高调辉光而无戏剧明暗。",
+    "source": "hermes-explore",
+    "image": "styles/248-luminism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
