@@ -27,6 +27,14 @@ You are expanding the Style Atlas gallery at `/workspace/art-styles` (GitHub Pag
     - Update `STATUS.md` with this batch summary.
     - Print a short report (ids, name_en/name_zh, image paths, commit hash) then **exit**.
 
+## Git sync (mandatory — keeps continuous Pages deploys alive)
+
+- At **START** of every run, before inventing styles: `git fetch origin && git pull --ff-only origin main`.
+- Do **not** commit junk (`preview-shots/`, `refs/`, local logs). Only catalog PNGs, `styles/styles.json`, `STATUS.md`, and intentional gallery source changes.
+- After build + commit: `git push origin main` (Pages deploys from `main`).
+- If push is rejected (non-fast-forward because another commit landed): `git pull --rebase origin main` **once**, resolve only if trivial, then push again. **Never** `git push --force`.
+- Success means: new commit on `origin/main` and GitHub Actions Pages workflow can run.
+
 ## Workflow
 
 1. Work in `/workspace/art-styles` (or stay in the provided `--in` workdir).
