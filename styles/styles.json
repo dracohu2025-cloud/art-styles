@@ -2832,5 +2832,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h176",
+    "slug": "ishizuri-e",
+    "name_en": "Ishizuri-e",
+    "name_zh": "石摺絵",
+    "description_en": "Ishizuri-e: reverse-impression ukiyo-e as a stone rubbing, raised white line on a matte black ground with paper-tooth grain; not sumizuri-e, not woodcut, not mezzotint, not scratchboard.",
+    "description_zh": "石摺絵：如碑拓的反向浮世绘，哑光黑地上的凸起白线与纸纹；非墨摺絵、非木刻、非美柔汀、非刮画。",
+    "source": "hermes-explore",
+    "image": "styles/219-ishizuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h177",
+    "slug": "bistre",
+    "name_en": "Bistre",
+    "name_zh": "褐墨",
+    "description_en": "Bistre: transparent soot-brown wash on cream laid paper with tide lines and dry-brush; not sanguine, not charcoal, not watercolor wash, not ink wash, not sepia photograph.",
+    "description_zh": "褐墨：乳色布纹纸上的透明煤烟棕彩，水渍边与枯笔；非红粉笔、非木炭、非水彩湿画、非水墨、非棕褐照片。",
+    "source": "hermes-explore",
+    "image": "styles/220-bistre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h178",
+    "slug": "gumoil",
+    "name_en": "Gumoil",
+    "name_zh": "树胶油彩印相",
+    "description_en": "Gumoil: gum-bichromate matrix with oil pigment wiped into the image, velvety photographic grain and surface darks; not bromoil, not gum bichromate alone, not gelatin silver, not lith print, not oil painting.",
+    "description_zh": "树胶油彩印相：重铬酸盐树胶底上擦入油彩，丝绒般照相颗粒与表层暗部；非溴油、非单纯树胶重铬酸盐、非明胶银盐、非锂显、非油画。",
+    "source": "hermes-explore",
+    "image": "styles/221-gumoil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h179",
+    "slug": "ajrakh",
+    "name_en": "Ajrakh",
+    "name_zh": "阿吉拉赫",
+    "description_en": "Ajrakh: resist-and-mordant hand-block geometry in indigo, madder, and undyed cloth, slight misregister and visible weave; not batik, not ikat, not kalamkari, not yuzen, not toile de Jouy.",
+    "description_zh": "阿吉拉赫：防染与媒染木模几何纹，靛蓝、茜红与本色布，轻微错版与布纹；非蜡染、非经扎染、非卡拉姆卡里、非友禅、非茹伊印花。",
+    "source": "hermes-explore",
+    "image": "styles/222-ajrakh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h180",
+    "slug": "gold-ground",
+    "name_en": "Gold Ground",
+    "name_zh": "金地",
+    "description_en": "Gold ground: burnished gold-leaf field with leaf joins and punchwork behind opaque tempera-like local color; not kirikane, not cloisonné, not mosaic, not stained glass, not oil glazing.",
+    "description_zh": "金地：抛光金箔底，箔接缝与錾花，人物为不透明蛋彩局部色；非截金、非景泰蓝、非马赛克、非彩绘玻璃、非油画罩染。",
+    "source": "hermes-explore",
+    "image": "styles/223-gold-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

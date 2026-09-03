@@ -498,6 +498,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 218, PNG count 218. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 36 (exactly 5, h176–h180)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh         | image                        |
+|------|-------------|-----------------|------------------------------|
+| h176 | Ishizuri-e  | 石摺絵          | styles/219-ishizuri-e.png    |
+| h177 | Bistre      | 褐墨            | styles/220-bistre.png        |
+| h178 | Gumoil      | 树胶油彩印相    | styles/221-gumoil.png        |
+| h179 | Ajrakh      | 阿吉拉赫        | styles/222-ajrakh.png        |
+| h180 | Gold Ground | 金地            | styles/223-gold-ground.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 223, PNG count 223. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
