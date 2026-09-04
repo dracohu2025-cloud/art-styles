@@ -722,6 +722,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 298, PNG count 298. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 52 (exactly 5, h256–h260)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en              | name_zh         | image                                  |
+|------|----------------------|-----------------|----------------------------------------|
+| h256 | Dada                 | 达达主义        | styles/299-dada.png                    |
+| h257 | Minimalism           | 极简主义        | styles/300-minimalism.png              |
+| h258 | Der Blaue Reiter     | 青骑士          | styles/301-der-blaue-reiter.png        |
+| h259 | Kano School          | 狩野派          | styles/302-kano-school.png             |
+| h260 | International Gothic | 国际哥特        | styles/303-international-gothic.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 303, PNG count 303. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
