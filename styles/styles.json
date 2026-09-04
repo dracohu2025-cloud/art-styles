@@ -6602,5 +6602,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h466",
+    "slug": "kasuri",
+    "name_en": "Kasuri",
+    "name_zh": "絣织",
+    "description_en": "Kasuri: Japanese 絣 ikat-resist weaving as the image method—warp-and-weft splash patterns, indigo-and-white haze where dyed yarns misalign, feathered stepped geometry in the cloth; not Southeast Asian ikat, not shibori tie-dye, not aizome solid indigo, not batik.",
+    "description_zh": "絣织：以日本絣经纬防染织入画，靛蓝与本白溅纹、纱线错位形成的羽化几何与织纹雾边；非东南亚絣经纬织，非絞染，非纯蓝染，亦非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/509-kasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h467",
+    "slug": "straw-marquetry",
+    "name_en": "Straw Marquetry",
+    "name_zh": "麦秆镶嵌",
+    "description_en": "Straw Marquetry: marqueterie de paille as the image method—split rye and wheat straw ribbons, knife-cut veneer panels, burnished gold-amber grain iridescence; not wood marquetry, not intarsia, not tessera mosaic, not paper quilling.",
+    "description_zh": "麦秆镶嵌：以麦秆细木镶嵌入画，剖开的黑麦与小麦秆条、刀切贴面与抛光金琥珀纹理闪光；非木材镶嵌，非细木镶嵌画，非马赛克，亦非衍纸。",
+    "source": "hermes-explore",
+    "image": "styles/510-straw-marquetry.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h468",
+    "slug": "opus-anglicanum",
+    "name_en": "Opus Anglicanum",
+    "name_zh": "英格兰金绣",
+    "description_en": "Opus Anglicanum: English medieval underside-couched goldwork as the image method—spiraling gold grounds, silk split-stitch modeling, pearl couching on cope-dense embroidery; not or nué shaded gold needle-painting, not zardozi raised bullion, not stumpwork padding, not opus teutonicum whitework.",
+    "description_zh": "英格兰金绣：以中世纪英格兰背面钉金绣入画，螺旋金地、劈针丝线塑形与密铺珍珠钉线；非晕金绣，非扎尔多齐凸金绳，非垫绣，亦非条顿白绣。",
+    "source": "hermes-explore",
+    "image": "styles/511-opus-anglicanum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h469",
+    "slug": "palampore",
+    "name_en": "Palampore",
+    "name_zh": "帕兰波尔",
+    "description_en": "Palampore: Coromandel painted palampore chintz as the image method—mordant-resist cotton, kalam-drawn outlines, flowering tree-of-life field, madder and indigo with chintz glaze; not kalamkari temple narrative, not toile de Jouy engraved toile, not ajrakh geometric blockprint, not pichwai shrine cloth.",
+    "description_zh": "帕兰波尔：以科罗曼德手绘帕兰波尔印花棉布入画，媒染防染、卡兰描线、生命之树花田与茜红靛蓝上光；非卡拉姆卡里神庙叙事，非茹伊印花铜版，非阿吉拉克几何木模，亦非皮切瓦伊神帐。",
+    "source": "hermes-explore",
+    "image": "styles/512-palampore.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h470",
+    "slug": "luminogram",
+    "name_en": "Luminogram",
+    "name_zh": "光造影像",
+    "description_en": "Luminogram: Moholy-Nagy cameraless light drawing as the image method—moving-light traces on photosensitive paper, overlapping white-to-silver beams, no lens; not photogram object-shadows, not chemigram chemical stains, not cliché-verre scratched glass, not lumen-print sun-faded botanicals.",
+    "description_zh": "光造影像：以莫霍利-纳吉无相机光绘入画，感光纸上的移动光迹、交叠银白光束，无镜头；非物影成像的遮挡影，非化学成像渍斑，非玻璃刻画转印，亦非日晒植物褪色印。",
+    "source": "hermes-explore",
+    "image": "styles/513-luminogram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

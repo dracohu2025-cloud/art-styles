@@ -1311,6 +1311,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 508, PNG count 508. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 94 (exactly 5, h466–h470)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en          | name_zh         | image                                |
+|------|------------------|-----------------|--------------------------------------|
+| h466 | Kasuri           | 絣织            | styles/509-kasuri.png                |
+| h467 | Straw Marquetry  | 麦秆镶嵌        | styles/510-straw-marquetry.png       |
+| h468 | Opus Anglicanum  | 英格兰金绣      | styles/511-opus-anglicanum.png       |
+| h469 | Palampore        | 帕兰波尔        | styles/512-palampore.png             |
+| h470 | Luminogram       | 光造影像        | styles/513-luminogram.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 513, PNG count 513. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
