@@ -1213,6 +1213,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 473, PNG count 473. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 87 (exactly 5, h431–h435)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh   | image                            |
+|------|-----------------|-----------|----------------------------------|
+| h431 | Shino           | 志野      | styles/474-shino.png             |
+| h432 | Lustreware      | 虹彩釉    | styles/475-lustreware.png        |
+| h433 | Damascening     | 错金银    | styles/476-damascening.png       |
+| h434 | Kantha          | 康塔绣    | styles/477-kantha.png            |
+| h435 | Cloud-head Cun  | 云头皴    | styles/478-cloud-head-cun.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 478, PNG count 478. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

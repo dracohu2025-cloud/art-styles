@@ -6147,5 +6147,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h431",
+    "slug": "shino",
+    "name_en": "Shino",
+    "name_zh": "志野",
+    "description_en": "Shino: milky feldspar glaze fields, salmon fire-color, iron-red scorch freckles and pinholing as pictorial surface, not ceramic-as-object.",
+    "description_zh": "志野：乳浊长石釉面、火色橙红、铁红焦斑与针孔作为画面肌理，而非陶瓷器物静物。",
+    "source": "hermes-explore",
+    "image": "styles/474-shino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h432",
+    "slug": "lustreware",
+    "name_en": "Lustreware",
+    "name_zh": "虹彩釉",
+    "description_en": "Lustreware: tin-glaze lustre painting, copper-ruby and gold metallic film over cream glaze, Hispano-Moresque reduction sheen as picture skin.",
+    "description_zh": "虹彩釉：锡釉虹彩绘，铜红与金膜覆于乳白釉，伊斯帕诺-摩尔式还原金属光泽作为画面表皮。",
+    "source": "hermes-explore",
+    "image": "styles/475-lustreware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h433",
+    "slug": "damascening",
+    "name_en": "Damascening",
+    "name_zh": "错金银",
+    "description_en": "Damascening: gold and silver wire inlay into darkened steel, Toledo/zougan arabesques as the drawing method, not jewelry-as-object.",
+    "description_zh": "错金银：金银丝嵌于暗钢，托莱多/象嵌卷草作为描法，而非首饰器物。",
+    "source": "hermes-explore",
+    "image": "styles/476-damascening.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h434",
+    "slug": "kantha",
+    "name_en": "Kantha",
+    "name_zh": "康塔绣",
+    "description_en": "Kantha: Bengali running-stitch pictorial embroidery, parallel stitch fills on layered cotton ground, folk stitch rhythm not quilt-as-object.",
+    "description_zh": "康塔绣：孟加拉跑针作为画面描法，平行针填满层叠棉布底，民俗针步而非被子器物。",
+    "source": "hermes-explore",
+    "image": "styles/477-kantha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h435",
+    "slug": "cloud-head-cun",
+    "name_en": "Cloud-head Cun",
+    "name_zh": "云头皴",
+    "description_en": "Cloud-head Cun: stacked curling cumulus-like yun-tou texture strokes of Chinese landscape, Northern Song rock vocabulary on silk.",
+    "description_zh": "云头皴：层叠卷曲如积云的皴法，北宋山石肌理施于绢素，而非泛化水墨渲染。",
+    "source": "hermes-explore",
+    "image": "styles/478-cloud-head-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
