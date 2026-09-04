@@ -6082,5 +6082,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h426",
+    "slug": "folded-ribbon-cun",
+    "name_en": "Folded-ribbon Cun",
+    "name_zh": "折带皴",
+    "description_en": "Folded-ribbon Cun: Northern landscape rock modeling with short angular ink strokes stacked like bent ribbons, dry-brush hemp-paper tooth, mist voids between cliff facets, texture-stroke not a travel story.",
+    "description_zh": "折带皴：北派山石以短折带状墨皴层层起面，枯笔麻纸齿感，崖面间留雾白，皴法而非行旅叙事。",
+    "source": "hermes-explore",
+    "image": "styles/469-folded-ribbon-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h427",
+    "slug": "ziatype",
+    "name_en": "Ziatype",
+    "name_zh": "齐亚型印相",
+    "description_en": "Ziatype: palladium-like iron-oxalate printing-out process, matte paper, lavender-brown to eggplant-magenta split-tone, creamy highlights, no gelatin gloss.",
+    "description_zh": "齐亚型印相：类钯盐铁草酸晒印，哑光纸基，薰衣草棕至茄紫分调，乳白高光，无明胶光泽。",
+    "source": "hermes-explore",
+    "image": "styles/470-ziatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h428",
+    "slug": "crewel",
+    "name_en": "Crewel",
+    "name_zh": "绉线绣",
+    "description_en": "Crewel: Jacobean wool embroidery on slubbed linen, long-and-short and stem stitch, laid-and-couched nap, vegetable-dye greens golds russets, stitch texture not a fashion plate.",
+    "description_zh": "绉线绣：亚麻底雅可宾羊毛绣，长短针与轮廓针、铺钉绒面，草木染青绿金赭，针脚质感而非时装图。",
+    "source": "hermes-explore",
+    "image": "styles/471-crewel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h429",
+    "slug": "imprimatura",
+    "name_en": "Imprimatura",
+    "name_zh": "有色底子",
+    "description_en": "Imprimatura: warm translucent earth ground (raw sienna / burnt umber) flashing through thin oil, dead-color masses, Venetian-Flemish underlayer, fat-over-lean, not finished porcelain realism.",
+    "description_zh": "有色底子：生赭/煅棕半透明油底从薄色中透出，死色团块，威尼斯—佛兰德斯底层，肥盖瘦，非瓷感完成写实。",
+    "source": "hermes-explore",
+    "image": "styles/472-imprimatura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h430",
+    "slug": "wiener-werkstatte",
+    "name_en": "Wiener Werkstätte",
+    "name_zh": "维也纳工坊",
+    "description_en": "Wiener Werkstätte: Vienna Workshop surface design, Hoffmann/Moser geometry, black-white-gold checkers and square florals, flat even contour, decorative plane not Klimt pastiche.",
+    "description_zh": "维也纳工坊：霍夫曼/莫泽几何平面，黑白金棋格与方块花卉，均匀平涂轮廓，装饰平面而非克里姆特仿作。",
+    "source": "hermes-explore",
+    "image": "styles/473-wiener-werkstatte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

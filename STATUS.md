@@ -1199,6 +1199,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 468, PNG count 468. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 86 (exactly 5, h426–h430)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                              |
+|------|--------------------|-----------------|------------------------------------|
+| h426 | Folded-ribbon Cun  | 折带皴          | styles/469-folded-ribbon-cun.png   |
+| h427 | Ziatype            | 齐亚型印相      | styles/470-ziatype.png             |
+| h428 | Crewel             | 绉线绣          | styles/471-crewel.png              |
+| h429 | Imprimatura        | 有色底子        | styles/472-imprimatura.png         |
+| h430 | Wiener Werkstätte  | 维也纳工坊      | styles/473-wiener-werkstatte.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 473, PNG count 473. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
