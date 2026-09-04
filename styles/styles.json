@@ -4977,5 +4977,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h341",
+    "slug": "heidelberg-school",
+    "name_en": "Heidelberg School",
+    "name_zh": "海德堡画派",
+    "description_en": "Heidelberg School Australian Impressionism: golden high-key sunlight, broken colour, square-brush plein-air oil, eucalyptus heat-haze.",
+    "description_zh": "海德堡画派澳大利亚印象主义：金色高调阳光、分离色彩、方笔外光油画、桉树热雾。",
+    "source": "hermes-explore",
+    "image": "styles/384-heidelberg-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h342",
+    "slug": "cangiante",
+    "name_en": "Cangiante",
+    "name_zh": "换色法",
+    "description_en": "Cangiante: Renaissance hue-shift modeling, yellow-to-crimson drapery, green-to-red-violet, fresco luminosity, no blackened shadow.",
+    "description_zh": "换色法：文艺复兴换色塑形、黄转绯红衣褶、绿转红紫、湿壁画亮度、不以黑加深阴影。",
+    "source": "hermes-explore",
+    "image": "styles/385-cangiante.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h343",
+    "slug": "wildstyle-graffiti",
+    "name_en": "Wildstyle Graffiti",
+    "name_zh": "狂野涂鸦",
+    "description_en": "Wildstyle graffiti: interlocking 3D letterforms, arrows and connections, chrome-candy fills, fat-cap highlights, brick-wall spray.",
+    "description_zh": "狂野涂鸦：交错立体字母、箭头连接、铬金糖果填色、粗喷头高光、砖墙喷绘。",
+    "source": "hermes-explore",
+    "image": "styles/386-wildstyle-graffiti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h344",
+    "slug": "huichol-yarn-painting",
+    "name_en": "Huichol Yarn Painting",
+    "name_zh": "惠乔尔纱画",
+    "description_en": "Huichol yarn painting (nierika): densely pressed yarn mosaic, vivid fibre ridges, geometric sun-and-flower ornament, no brush paint.",
+    "description_zh": "惠乔尔纱画：密压纱线镶嵌、鲜艳纤维脊、几何日轮花卉纹样、不见笔触。",
+    "source": "hermes-explore",
+    "image": "styles/387-huichol-yarn-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h345",
+    "slug": "brandywine-school",
+    "name_en": "Brandywine School",
+    "name_zh": "白兰地酒画派",
+    "description_en": "Brandywine School illustration: Pyle/Wyeth theatrical light, saturated earth-and-jewel oils, heroic Golden Age composition.",
+    "description_zh": "白兰地酒画派插画：派尔/怀斯剧场光、饱和大地与宝石油画、黄金时代英雄构图。",
+    "source": "hermes-explore",
+    "image": "styles/388-brandywine-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

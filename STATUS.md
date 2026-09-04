@@ -960,6 +960,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 383, PNG count 383. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 69 (exactly 5, h341–h345)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en               | name_zh       | image                                  |
+|------|-----------------------|---------------|----------------------------------------|
+| h341 | Heidelberg School     | 海德堡画派    | styles/384-heidelberg-school.png       |
+| h342 | Cangiante             | 换色法        | styles/385-cangiante.png               |
+| h343 | Wildstyle Graffiti    | 狂野涂鸦      | styles/386-wildstyle-graffiti.png      |
+| h344 | Huichol Yarn Painting | 惠乔尔纱画    | styles/387-huichol-yarn-painting.png   |
+| h345 | Brandywine School     | 白兰地酒画派  | styles/388-brandywine-school.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 388, PNG count 388. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
