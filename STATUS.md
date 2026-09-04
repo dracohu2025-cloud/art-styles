@@ -932,6 +932,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 373, PNG count 373. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 67 (exactly 5, h331–h335)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh     | image                             |
+|------|-------------------|-------------|-----------------------------------|
+| h331 | Capriccio         | 奇想风景    | styles/374-capriccio.png          |
+| h332 | Venetian School   | 威尼斯画派  | styles/375-venetian-school.png    |
+| h333 | Group of Seven    | 七人画派    | styles/376-group-of-seven.png     |
+| h334 | Danube School     | 多瑙河画派  | styles/377-danube-school.png      |
+| h335 | Stencil Graffiti  | 镂版涂鸦    | styles/378-stencil-graffiti.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 378, PNG count 378. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

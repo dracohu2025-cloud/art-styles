@@ -4847,5 +4847,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h331",
+    "slug": "capriccio",
+    "name_en": "Capriccio",
+    "name_zh": "奇想风景",
+    "description_en": "Architectural capriccio: invented ruin-cities, mixed monuments, theatrical sky, oil staffage — fantasy veduta, not topography.",
+    "description_zh": "建筑奇想风景：虚构废墟城、混搭古迹、戏剧性天空、油画点景——幻想实景而非实测地形。",
+    "source": "hermes-explore",
+    "image": "styles/374-capriccio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h332",
+    "slug": "venetian-school",
+    "name_en": "Venetian School",
+    "name_zh": "威尼斯画派",
+    "description_en": "Venetian colorito oil: glazed crimson and gold, luminous flesh, painterly edges, lagoon light — Titian/Veronese handling.",
+    "description_zh": "威尼斯色彩主义油画：朱红金箔罩染、肌肤辉光、松动笔边、泻湖光线——提香/委罗内塞笔法。",
+    "source": "hermes-explore",
+    "image": "styles/375-venetian-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h333",
+    "slug": "group-of-seven",
+    "name_en": "Group of Seven",
+    "name_zh": "七人画派",
+    "description_en": "Group of Seven landscape: bold simplified masses, rhythmic contour, decorative post-impressionist wilderness color.",
+    "description_zh": "七人画派风景：大胆简化体块、节奏轮廓、装饰性后印象派旷野色彩。",
+    "source": "hermes-explore",
+    "image": "styles/376-group-of-seven.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h334",
+    "slug": "danube-school",
+    "name_en": "Danube School",
+    "name_zh": "多瑙河画派",
+    "description_en": "Danube School forest: feathery foliage, nature swallowing the figure, crag castle, Altdorfer woodland atmosphere.",
+    "description_zh": "多瑙河画派森林：羽状树叶、自然吞没人物、峭壁城堡、阿尔特多费尔林地氛围。",
+    "source": "hermes-explore",
+    "image": "styles/377-danube-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h335",
+    "slug": "stencil-graffiti",
+    "name_en": "Stencil Graffiti",
+    "name_zh": "镂版涂鸦",
+    "description_en": "Multi-layer stencil graffiti: hard-edged spray, misregistration, drips, wheatpaste wall, high-contrast plates.",
+    "description_zh": "多层镂版涂鸦：硬边喷绘、套版错位、滴流、墙贴纸边、高对比色版。",
+    "source": "hermes-explore",
+    "image": "styles/378-stencil-graffiti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
