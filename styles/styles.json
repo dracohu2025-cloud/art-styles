@@ -4197,5 +4197,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h281",
+    "slug": "barbizon-school",
+    "name_en": "Barbizon School",
+    "name_zh": "巴比松画派",
+    "description_en": "Barbizon School: mid-19th-century French plein-air oil — earthy olive-umber tonal brush, muddy woodland path, overcast silvery sky.",
+    "description_zh": "巴比松画派：十九世纪中叶法国外光油画——橄榄褐土色调笔、泥泞林径、银灰阴天。",
+    "source": "hermes-explore",
+    "image": "styles/324-barbizon-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h282",
+    "slug": "northern-renaissance",
+    "name_en": "Northern Renaissance",
+    "name_zh": "北方文艺复兴",
+    "description_en": "Northern Renaissance: Early Netherlandish oil glaze — jewel local color, microscopic interior detail, crisp drapery, luminous leaded-window light.",
+    "description_zh": "北方文艺复兴：早期尼德兰罩染油画——宝石固有色、室内微观细节、锋利衣褶、铅条窗辉光。",
+    "source": "hermes-explore",
+    "image": "styles/325-northern-renaissance.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h283",
+    "slug": "ottoman-miniature",
+    "name_en": "Ottoman Miniature",
+    "name_zh": "奥斯曼细密画",
+    "description_en": "Ottoman miniature: flat gold ground, high viewpoint, jewel lapis-vermilion-malachite, fine contour, patterned architecture, no Western perspective.",
+    "description_zh": "奥斯曼细密画：平涂金地、高视点、青金石朱红孔雀石、细线轮廓、图案建筑、无西方透视。",
+    "source": "hermes-explore",
+    "image": "styles/326-ottoman-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h284",
+    "slug": "palette-knife",
+    "name_en": "Palette Knife",
+    "name_zh": "刮刀厚涂",
+    "description_en": "Palette knife: sculptural oil slabs, visible knife ridges and facets, broken color planes, almost no brush hair, tactile scraped impasto.",
+    "description_zh": "刮刀厚涂：雕塑般油彩块面、可见刀脊棱面、破碎色块、几乎无笔毫、可触刮痕厚涂。",
+    "source": "hermes-explore",
+    "image": "styles/327-palette-knife.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h285",
+    "slug": "neo-expressionism",
+    "name_en": "Neo-Expressionism",
+    "name_zh": "新表现主义",
+    "description_en": "Neo-Expressionism: 1980s loaded brush, raw contour, acidic chroma clash, crude figuration, heavy paint skin, urban studio grit.",
+    "description_zh": "新表现主义：八十年代饱蘸笔触、生硬轮廓、酸性高饱和对撞、粗放造型、厚颜料皮、都市画室粗粝。",
+    "source": "hermes-explore",
+    "image": "styles/328-neo-expressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

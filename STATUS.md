@@ -792,6 +792,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 323, PNG count 323. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 57 (exactly 5, h281–h285)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                | name_zh         | image                                   |
+|------|------------------------|-----------------|-----------------------------------------|
+| h281 | Barbizon School        | 巴比松画派      | styles/324-barbizon-school.png          |
+| h282 | Northern Renaissance   | 北方文艺复兴    | styles/325-northern-renaissance.png     |
+| h283 | Ottoman Miniature      | 奥斯曼细密画    | styles/326-ottoman-miniature.png        |
+| h284 | Palette Knife          | 刮刀厚涂        | styles/327-palette-knife.png            |
+| h285 | Neo-Expressionism      | 新表现主义      | styles/328-neo-expressionism.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 328, PNG count 328. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
