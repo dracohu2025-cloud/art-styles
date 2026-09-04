@@ -1353,6 +1353,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 523, PNG count 523. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 97 (exactly 5, h481–h485)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh    | image                           |
+|------|----------------|------------|---------------------------------|
+| h481 | À la Poupée    | 布头套色   | styles/524-a-la-poupee.png      |
+| h482 | Broken Color   | 断彩笔触   | styles/525-broken-color.png     |
+| h483 | Zip-A-Tone     | 网点胶纸   | styles/526-zip-a-tone.png       |
+| h484 | Rainbow Roll   | 彩虹辊印   | styles/527-rainbow-roll.png     |
+| h485 | Silver Gelatin | 银盐明胶   | styles/528-silver-gelatin.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 528, PNG count 528. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -6797,5 +6797,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h481",
+    "slug": "a-la-poupee",
+    "name_en": "À la Poupée",
+    "name_zh": "布头套色",
+    "description_en": "Color intaglio inking: several oil hues wiped onto one copper plate with small daubers so they meet in a single impression, with plate-tone and a pressed plate mark.",
+    "description_zh": "用小布头将多种油墨分别擦入同一块凹版，一次压印完成多色交融，带有版垢与压痕。",
+    "source": "hermes-explore",
+    "image": "styles/524-a-la-poupee.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h482",
+    "slug": "broken-color",
+    "name_en": "Broken Color",
+    "name_zh": "断彩笔触",
+    "description_en": "Impressionist handling that lays unblended complementary strokes side by side so the eye, not the brush, mixes the hue.",
+    "description_zh": "印象派将互补色笔触并置而不调和，由观者眼睛完成光学混色。",
+    "source": "hermes-explore",
+    "image": "styles/525-broken-color.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h483",
+    "slug": "zip-a-tone",
+    "name_en": "Zip-A-Tone",
+    "name_zh": "网点胶纸",
+    "description_en": "Analog manga production: cut adhesive halftone sheets burnished over G-pen ink contours on drawing paper.",
+    "description_zh": "在墨线稿上剪贴并磨压网点胶纸的模拟漫画制版法。",
+    "source": "hermes-explore",
+    "image": "styles/526-zip-a-tone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h484",
+    "slug": "rainbow-roll",
+    "name_en": "Rainbow Roll",
+    "name_zh": "彩虹辊印",
+    "description_en": "Split-fountain printmaking that blends inks on one brayer into a continuous spectrum band across the print.",
+    "description_zh": "在同一墨辊上混合多色，印出连续光谱过渡的分色辊技法。",
+    "source": "hermes-explore",
+    "image": "styles/527-rainbow-roll.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h485",
+    "slug": "silver-gelatin",
+    "name_en": "Silver Gelatin",
+    "name_zh": "银盐明胶",
+    "description_en": "Classic black-and-white enlargement on fiber paper with a silver-halide gelatin emulsion, deep Dmax and fine grain.",
+    "description_zh": "以银盐明胶乳剂在钡地纸上放大的经典黑白照片工艺，深黑与细颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/528-silver-gelatin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
