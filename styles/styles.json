@@ -4002,5 +4002,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h266",
+    "slug": "abstract-expressionism",
+    "name_en": "Abstract Expressionism",
+    "name_zh": "抽象表现主义",
+    "description_en": "Abstract Expressionism: New York School action painting — flung enamel drips, loaded-brush slashes, stained raw canvas, overlapping color storms.",
+    "description_zh": "抽象表现主义：纽约画派行动绘画——甩泼磁漆滴流、饱蘸笔触劈砍、生画布渗染、层层色暴。",
+    "source": "hermes-explore",
+    "image": "styles/309-abstract-expressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h267",
+    "slug": "art-brut",
+    "name_en": "Art Brut",
+    "name_zh": "原生艺术",
+    "description_en": "Art Brut: raw outsider paste — gouged asphalt textures, crude contour, earth ochres and soot, untrained hatching in thick matter.",
+    "description_zh": "原生艺术：粗粝局外人厚浆——刮凿沥青肌理、生拙轮廓、土赭与煤黑、未驯排线堆料。",
+    "source": "hermes-explore",
+    "image": "styles/310-art-brut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h268",
+    "slug": "streamline-moderne",
+    "name_en": "Streamline Moderne",
+    "name_zh": "流线型现代",
+    "description_en": "Streamline Moderne: 1930s aerodynamic design — chrome tubular rails, teardrop forms, ocean-liner white and pale aqua, rounded machine-age smoothness.",
+    "description_zh": "流线型现代：一九三〇年代空气动力学造型——铬管栏杆、泪滴体、邮轮白与浅水色、圆角机械时代光洁。",
+    "source": "hermes-explore",
+    "image": "styles/311-streamline-moderne.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h269",
+    "slug": "dansaekhwa",
+    "name_en": "Dansaekhwa",
+    "name_zh": "单色画",
+    "description_en": "Dansaekhwa: Korean monochrome — layered off-white and umber, paint pushed and grooved into hanji, meditative tactile ridges, almost no chroma.",
+    "description_zh": "单色画：韩国单色绘画——层层灰白与赭褐、颜料推刮入韩纸、冥想触感棱脊、近乎无彩。",
+    "source": "hermes-explore",
+    "image": "styles/312-dansaekhwa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h270",
+    "slug": "high-renaissance",
+    "name_en": "High Renaissance",
+    "name_zh": "盛期文艺复兴",
+    "description_en": "High Renaissance: Raphael/Leonardo school — pyramidal balance, unified perspective, atmospheric distance, classical architecture, oil-on-panel glaze.",
+    "description_zh": "盛期文艺复兴：拉斐尔与达芬奇一系——金字塔构图、统一透视、空气远景、古典建筑、木板油釉罩染。",
+    "source": "hermes-explore",
+    "image": "styles/313-high-renaissance.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

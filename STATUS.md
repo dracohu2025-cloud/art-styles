@@ -750,6 +750,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 308, PNG count 308. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 54 (exactly 5, h266–h270)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                  | name_zh         | image                                   |
+|------|--------------------------|-----------------|-----------------------------------------|
+| h266 | Abstract Expressionism   | 抽象表现主义    | styles/309-abstract-expressionism.png   |
+| h267 | Art Brut                 | 原生艺术        | styles/310-art-brut.png                 |
+| h268 | Streamline Moderne       | 流线型现代      | styles/311-streamline-moderne.png       |
+| h269 | Dansaekhwa               | 单色画          | styles/312-dansaekhwa.png               |
+| h270 | High Renaissance         | 盛期文艺复兴    | styles/313-high-renaissance.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 313, PNG count 313. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
