@@ -1325,6 +1325,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 513, PNG count 513. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 95 (exactly 5, h471–h475)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                                 |
+|------|--------------------|-----------------|---------------------------------------|
+| h471 | Boro               | 襤褸            | styles/514-boro.png                   |
+| h472 | Hakeme             | 刷毛目          | styles/515-hakeme.png                 |
+| h473 | Reticello          | 网纹玻璃        | styles/516-reticello.png              |
+| h474 | Crystoleum         | 水晶油彩照片    | styles/517-crystoleum.png             |
+| h475 | Floating-silk Line | 高古游丝描      | styles/518-floating-silk-line.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 518, PNG count 518. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

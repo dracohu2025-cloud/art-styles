@@ -6667,5 +6667,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h471",
+    "slug": "boro",
+    "name_en": "Boro",
+    "name_zh": "襤褸",
+    "description_en": "Boro: Japanese mended-cloth method as the image—irregular indigo patches, visible running-stitch repairs, frayed joins and leftover scraps; not sashiko as a regular geometric grid, not kantha narrative quilting, not kasuri ikat blur, not shibori tie-resist circles.",
+    "description_zh": "襤褸：以日本缝补布为画面方法，不规则靛蓝补丁、明露的跑针缝补、毛边拼缝与余布；非规则几何的刺子绣网格，非坎塔叙事绗缝，非絣织晕纹，亦非绞缬圆环。",
+    "source": "hermes-explore",
+    "image": "styles/514-boro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h472",
+    "slug": "hakeme",
+    "name_en": "Hakeme",
+    "name_zh": "刷毛目",
+    "description_en": "Hakeme: coarse slip-brushing on stoneware as the image method—white slip dragged in fanned hakeme strokes, clay body showing in skips, brush-hair tracks after firing; not mishima inlaid slip, not kohiki overall white dip, not sgraffito scratched through slip, not oribe green glaze.",
+    "description_zh": "刷毛目：以粗刷白化妆土入画，扇形刷痕、露胎跳笔、烧成后的刷毛轨迹；非三岛镶嵌化妆土，非粉引通体蘸白，非刮刻灰泥，亦非织部绿釉。",
+    "source": "hermes-explore",
+    "image": "styles/515-hakeme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h473",
+    "slug": "reticello",
+    "name_en": "Reticello",
+    "name_zh": "网纹玻璃",
+    "description_en": "Reticello: Venetian vetro a reticello as the image method—criss-cross white cane lattice trapped in clear glass, a tiny air bubble in each diamond; not millefiori murrine flowers, not zanfirico twisted ribbons alone, not sommerso color casing, not stained-glass leading.",
+    "description_zh": "网纹玻璃：以威尼斯网纹玻璃入画，透明玻璃中交叉白料格子、每格一粒气泡；非千花马赛克玻璃，非单独的扭枝玻璃丝，非浸泡套色，亦非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/516-reticello.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h474",
+    "slug": "crystoleum",
+    "name_en": "Crystoleum",
+    "name_zh": "水晶油彩照片",
+    "description_en": "Crystoleum: Victorian glass-bound hand-colored photograph as the image method—photographic drawing adhered face-down to glass, reverse-painted in translucent oils so color blooms through; not ivorytype, not opalotype white-glass photo, not autochrome starch-grain color, not oil-print pigment on paper.",
+    "description_zh": "水晶油彩照片：以维多利亚水晶油彩照片入画，影像贴合玻璃背面再以半透明油彩反画，色从影像中透出；非象牙型照片，非乳白玻璃照片，非奥托克罗姆淀粉颗粒彩，亦非纸本油彩印。",
+    "source": "hermes-explore",
+    "image": "styles/517-crystoleum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h475",
+    "slug": "floating-silk-line",
+    "name_en": "Floating-silk Line",
+    "name_zh": "高古游丝描",
+    "description_en": "Floating-silk Line: gaogu yousi miao as the image method—even, hair-thin continuous contours like gossamer silk, no swell or taper; not iron-wire drawing, not orchid-leaf modulated stroke, not nail-head rat-tail, not gongbi dense texture, not xieyi splash.",
+    "description_zh": "高古游丝描：以均匀细如游丝的连续轮廓入画，无提按粗细；非铁线描，非兰叶描起伏，非钉头鼠尾描，非工笔密皴，亦非写意泼墨。",
+    "source": "hermes-explore",
+    "image": "styles/518-floating-silk-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
