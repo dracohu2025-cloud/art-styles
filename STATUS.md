@@ -1058,6 +1058,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 418, PNG count 418. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 76 (exactly 5, h376–h380)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh      | image                          |
+|------|---------------|--------------|--------------------------------|
+| h376 | Yokohama-e    | 横滨绘       | styles/419-yokohama-e.png      |
+| h377 | Boston School | 波士顿画派   | styles/420-boston-school.png   |
+| h378 | Haipai        | 海派         | styles/421-haipai.png          |
+| h379 | Zhihua        | 指画         | styles/422-zhihua.png          |
+| h380 | Famille Rose  | 粉彩         | styles/423-famille-rose.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 423, PNG count 423. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

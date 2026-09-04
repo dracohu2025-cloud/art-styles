@@ -5432,5 +5432,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h376",
+    "slug": "yokohama-e",
+    "name_en": "Yokohama-e",
+    "name_zh": "横滨绘",
+    "description_en": "Late-Edo Yokohama-school woodblock: aniline pigments, Western perspective, keyblock outlines, Prussian-blue harbor.",
+    "description_zh": "幕末横滨绘：苯胺颜料、西式透视、墨线主版、普鲁士蓝港景。",
+    "source": "hermes-explore",
+    "image": "styles/419-yokohama-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h377",
+    "slug": "boston-school",
+    "name_en": "Boston School",
+    "name_zh": "波士顿画派",
+    "description_en": "Tarbell–Paxton atelier oil: velvet window light, pearly half-tones, broken-color drapery, quiet interior.",
+    "description_zh": "塔贝尔—帕克斯顿室内油画：丝绒窗光、珍珠半调、碎色衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/420-boston-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h378",
+    "slug": "haipai",
+    "name_en": "Haipai",
+    "name_zh": "海派",
+    "description_en": "Shanghai School ink-and-color: calligraphic contour, malachite and cinnabar on wet xuan, bold Republican-era brush.",
+    "description_zh": "海派彩墨：书法用笔、石绿朱砂着生宣、民国式阔笔。",
+    "source": "hermes-explore",
+    "image": "styles/421-haipai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h379",
+    "slug": "zhihua",
+    "name_en": "Zhihua",
+    "name_zh": "指画",
+    "description_en": "Chinese finger painting: nail-line contour, fingerprint wash, palm-smeared mist on absorbent paper.",
+    "description_zh": "指画：甲痕勾线、指纹晕墨、掌抹烟岚着生宣。",
+    "source": "hermes-explore",
+    "image": "styles/422-zhihua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h380",
+    "slug": "famille-rose",
+    "name_en": "Famille Rose",
+    "name_zh": "粉彩",
+    "description_en": "Fencai overglaze enamel: opaque rose-pink, lime and turquoise on glazed white ground, jewellike raised enamel.",
+    "description_zh": "粉彩：胭脂红、葱绿松石釉上彩、瓷白地宝石堆釉。",
+    "source": "hermes-explore",
+    "image": "styles/423-famille-rose.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
