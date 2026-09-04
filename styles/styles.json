@@ -3482,5 +3482,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h226",
+    "slug": "rococo",
+    "name_en": "Rococo",
+    "name_zh": "洛可可",
+    "description_en": "Rococo: feathery pastel brush, powder pinks and celadon, shell-scroll ornament, airy high-key silk light.",
+    "description_zh": "洛可可：羽毛般粉彩笔触、粉红与青瓷色、贝壳涡卷纹样、高调丝绸光。",
+    "source": "hermes-explore",
+    "image": "styles/269-rococo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h227",
+    "slug": "mannerism",
+    "name_en": "Mannerism",
+    "name_zh": "样式主义",
+    "description_en": "Mannerism: elongated elegant proportions, figura serpentinata, acidic jewel color, enamel-like finish.",
+    "description_zh": "样式主义：拉长优雅比例、蛇形姿态、酸性宝石色、珐琅般细润。",
+    "source": "hermes-explore",
+    "image": "styles/270-mannerism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h228",
+    "slug": "constructivism",
+    "name_en": "Constructivism",
+    "name_zh": "构成主义",
+    "description_en": "Constructivism: diagonal geometry, red-black-white planes, industrial cut shapes, agitprop poster construction.",
+    "description_zh": "构成主义：斜向几何、红黑白色块、工业切割形、鼓动海报构成。",
+    "source": "hermes-explore",
+    "image": "styles/271-constructivism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h229",
+    "slug": "symbolism",
+    "name_en": "Symbolism",
+    "name_zh": "象征主义",
+    "description_en": "Symbolism: jewel dusk palette, mystic haze, poetic decorative rhythm, gold and deep violet.",
+    "description_zh": "象征主义：宝石暮色、神秘薄雾、诗意装饰节奏、金与深紫。",
+    "source": "hermes-explore",
+    "image": "styles/272-symbolism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h230",
+    "slug": "de-stijl",
+    "name_en": "De Stijl",
+    "name_zh": "风格派",
+    "description_en": "De Stijl: orthogonal black grid, primary red yellow blue plus neutrals, flat neoplastic rectangles.",
+    "description_zh": "风格派：正交黑格、红黄蓝加中性色、平坦新造型色块。",
+    "source": "hermes-explore",
+    "image": "styles/273-de-stijl.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

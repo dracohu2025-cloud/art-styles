@@ -638,6 +638,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 268, PNG count 268. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 46 (exactly 5, h226–h230)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh     | image                            |
+|------|----------------|-------------|----------------------------------|
+| h226 | Rococo         | 洛可可      | styles/269-rococo.png            |
+| h227 | Mannerism      | 样式主义    | styles/270-mannerism.png         |
+| h228 | Constructivism | 构成主义    | styles/271-constructivism.png    |
+| h229 | Symbolism      | 象征主义    | styles/272-symbolism.png         |
+| h230 | De Stijl       | 风格派      | styles/273-de-stijl.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 273, PNG count 273. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
