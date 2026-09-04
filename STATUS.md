@@ -1255,6 +1255,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 488, PNG count 488. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 90 (exactly 5, h446–h450)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en               | name_zh         | image                                   |
+|------|-----------------------|-----------------|-----------------------------------------|
+| h446 | Sinopia               | 湿壁画红土底    | styles/489-sinopia.png                  |
+| h447 | Steel Engraving       | 钢版雕刻        | styles/490-steel-engraving.png          |
+| h448 | Ivorytype             | 象牙印相        | styles/491-ivorytype.png                |
+| h449 | Rain-eroded Wall Cun  | 雨淋墙头皴      | styles/492-rain-eroded-wall-cun.png     |
+| h450 | Dufaycolor            | 杜菲彩屏        | styles/493-dufaycolor.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 493, PNG count 493. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

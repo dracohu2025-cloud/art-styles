@@ -6342,5 +6342,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h446",
+    "slug": "sinopia",
+    "name_en": "Sinopia",
+    "name_zh": "湿壁画红土底",
+    "description_en": "Sinopia: fresco underdrawing as the image method—hematite and burnt-sienna brush on coarse lime arriccio, pounce-dots and construction arcs; not buon fresco color, not cartoon paper, not sanguine on rag.",
+    "description_zh": "湿壁画红土底：以湿壁画赭红底稿入画，赤铁矿笔触、粗灰泥齿面与刺孔构成画面，非完成湿壁画设色，非纸本草图，亦非红粉笔素描。",
+    "source": "hermes-explore",
+    "image": "styles/489-sinopia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h447",
+    "slug": "steel-engraving",
+    "name_en": "Steel Engraving",
+    "name_zh": "钢版雕刻",
+    "description_en": "Steel Engraving: 19th-century steel-plate intaglio as the image method—burin parallels, flesh stipple, ruled sky tints and reserved paper-white highlights; not copper etching, not wood engraving, not mezzotint.",
+    "description_zh": "钢版雕刻：以十九世纪钢板凹版入画，雕刀平行线、肤面点刻与直尺天光构成画面，非铜版蚀刻，非木口木刻，亦非美柔汀。",
+    "source": "hermes-explore",
+    "image": "styles/490-steel-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h448",
+    "slug": "ivorytype",
+    "name_en": "Ivorytype",
+    "name_zh": "象牙印相",
+    "description_en": "Ivorytype: albumen photograph on imitation-ivory as the image method—translucent watercolor tint, creamy highlights and yellowed varnish bloom; not daguerreotype silver, not ambrotype, not opalotype.",
+    "description_zh": "象牙印相：以仿象牙底蛋白照片入画，薄水彩上色、乳色高光与发黄罩光构成画面，非达盖尔银版，非安布罗型，亦非乳白玻璃印相。",
+    "source": "hermes-explore",
+    "image": "styles/491-ivorytype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h449",
+    "slug": "rain-eroded-wall-cun",
+    "name_en": "Rain-eroded Wall Cun",
+    "name_zh": "雨淋墙头皴",
+    "description_en": "Rain-eroded Wall Cun: yulin qiangtou cun as the image method—vertical rain-guttered cliff planes and dry-ink water-stains like weathered rammed earth; not hemp-fiber, not ax-cut, not raindrop cun.",
+    "description_zh": "雨淋墙头皴：以垂直雨痕墙面皴法入画，淋漓石壁与枯墨水渍构成画面，非披麻皴、非斧劈皴、非雨点皴。",
+    "source": "hermes-explore",
+    "image": "styles/492-rain-eroded-wall-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h450",
+    "slug": "dufaycolor",
+    "name_en": "Dufaycolor",
+    "name_zh": "杜菲彩屏",
+    "description_en": "Dufaycolor: 1930s additive mosaic-screen color film as the image method—regular RGB réseau lines, muted primaries and film-base warmth; not Autochrome starch dots, not Kodachrome, not Cibachrome.",
+    "description_zh": "杜菲彩屏：以一九三零年代规则彩屏加色片入画，红绿蓝网线、柔和原色与片基暖调构成画面，非奥托克罗姆淀粉点，非柯达克罗姆，亦非西巴克罗姆。",
+    "source": "hermes-explore",
+    "image": "styles/493-dufaycolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
