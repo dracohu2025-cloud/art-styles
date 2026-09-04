@@ -6212,5 +6212,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h436",
+    "slug": "unravelled-rope-cun",
+    "name_en": "Unravelled-rope Cun",
+    "name_zh": "解索皴",
+    "description_en": "Unravelled-rope Cun: loosely twisted hemp-rope texture strokes of Chinese landscape, overlapping S-curves modeling rock and drapery on silk, Northern Song vocabulary not generic ink wash.",
+    "description_zh": "解索皴：松解麻绳般交叠的S形皴笔，以北宋山石语汇塑形于绢素，而非泛化水墨晕染。",
+    "source": "hermes-explore",
+    "image": "styles/479-unravelled-rope-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h437",
+    "slug": "jun-ware",
+    "name_en": "Jun Ware",
+    "name_zh": "钧瓷",
+    "description_en": "Jun Ware: milky opalescent sky-blue transmutation glaze, copper-red flambé blooms, orange-peel and glaze runs as pictorial skin, not ceramic-as-object.",
+    "description_zh": "钧瓷：乳浊天蓝窑变釉、铜红窑变斑、橘皮与釉泪作为画面表皮，而非陶瓷器物静物。",
+    "source": "hermes-explore",
+    "image": "styles/480-jun-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h438",
+    "slug": "suzani",
+    "name_en": "Suzani",
+    "name_zh": "苏扎尼",
+    "description_en": "Suzani: Central Asian chain-stitch and couching as the drawing method, palmette and pomegranate silk-floss field on cotton, folk stitch rhythm not textile-as-object.",
+    "description_zh": "苏扎尼：中亚锁链绣与钉线作为描法，石榴与棕叶纹丝线铺满棉底，民俗针步而非织物器物。",
+    "source": "hermes-explore",
+    "image": "styles/481-suzani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h439",
+    "slug": "argyrotype",
+    "name_en": "Argyrotype",
+    "name_zh": "银铁印相",
+    "description_en": "Argyrotype: iron-silver siderotype print, warm walnut-brown silver deposit on rag paper, faint iron stain, 19th-century printing-out look not cyanotype blue.",
+    "description_zh": "银铁印相：铁盐银影像，胡桃棕银粒沉于棉纤维纸，浅铁渍边，十九世纪晒印相貌而非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/482-argyrotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h440",
+    "slug": "kogin",
+    "name_en": "Kogin",
+    "name_zh": "津轻菱刺",
+    "description_en": "Kogin: Tsugaru kogin-zashi counted diamond running-stitch on indigo hemp, white cotton hishi lattice as the image method, not sashiko and not garment-as-object.",
+    "description_zh": "津轻菱刺：靛蓝麻底计针菱纹，白棉跑针构成画面，非刺子绣，亦非衣物器物。",
+    "source": "hermes-explore",
+    "image": "styles/483-kogin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

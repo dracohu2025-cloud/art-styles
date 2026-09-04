@@ -1227,6 +1227,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 478, PNG count 478. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 88 (exactly 5, h436–h440)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en              | name_zh   | image                               |
+|------|----------------------|-----------|-------------------------------------|
+| h436 | Unravelled-rope Cun  | 解索皴    | styles/479-unravelled-rope-cun.png  |
+| h437 | Jun Ware             | 钧瓷      | styles/480-jun-ware.png             |
+| h438 | Suzani               | 苏扎尼    | styles/481-suzani.png               |
+| h439 | Argyrotype           | 银铁印相  | styles/482-argyrotype.png           |
+| h440 | Kogin                | 津轻菱刺  | styles/483-kogin.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 483, PNG count 483. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
