@@ -1086,6 +1086,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 428, PNG count 428. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 78 (exactly 5, h386–h390)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh           | image                              |
+|------|--------------------|-------------------|------------------------------------|
+| h386 | Sancai             | 唐三彩            | styles/429-sancai.png              |
+| h387 | Adinkra            | 阿丁克拉          | styles/430-adinkra.png             |
+| h388 | Norwich School     | 诺里奇画派        | styles/431-norwich-school.png      |
+| h389 | Amate              | 阿马特树皮画      | styles/432-amate.png               |
+| h390 | Camden Town Group  | 卡姆登镇画派      | styles/433-camden-town-group.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 433, PNG count 433. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

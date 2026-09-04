@@ -5562,5 +5562,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h386",
+    "slug": "sancai",
+    "name_en": "Sancai",
+    "name_zh": "唐三彩",
+    "description_en": "Tang three-color lead glaze: amber, leaf-green and cream pooling over terracotta earthenware, oxide spots, running drips.",
+    "description_zh": "唐三彩：琥珀黄、叶绿与乳白铅釉在陶胎上垂流积釉、氧化斑点。",
+    "source": "hermes-explore",
+    "image": "styles/429-sancai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h387",
+    "slug": "adinkra",
+    "name_en": "Adinkra",
+    "name_zh": "阿丁克拉",
+    "description_en": "Akan stamped cloth: dark vegetable-dye calabash stamps of Adinkra symbols in grid repeat on ochre handwoven cotton.",
+    "description_zh": "阿丁克拉：葫芦印模植物染料、阿丁克拉符号网格压印于赭黄手织棉布。",
+    "source": "hermes-explore",
+    "image": "styles/430-adinkra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h388",
+    "slug": "norwich-school",
+    "name_en": "Norwich School",
+    "name_zh": "诺里奇画派",
+    "description_en": "East Anglian Norwich School oil: muted grey-green marsh, silvery moist sky, restrained earth pigments, quiet Dutch-influenced English landscape.",
+    "description_zh": "诺里奇画派：灰绿湿地、银湿天空、克制土色、荷兰影响下的英国风景油画。",
+    "source": "hermes-explore",
+    "image": "styles/431-norwich-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h389",
+    "slug": "amate",
+    "name_en": "Amate",
+    "name_zh": "阿马特树皮画",
+    "description_en": "Mexican amate bark-paper painting: beaten fibrous ground, bold black contour, flat aniline folk color on visible bark texture.",
+    "description_zh": "阿马特树皮画：捶制树皮纸底、粗黑勾线、苯胺民间平涂、树皮纤维可见。",
+    "source": "hermes-explore",
+    "image": "styles/432-amate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h390",
+    "slug": "camden-town-group",
+    "name_en": "Camden Town Group",
+    "name_zh": "卡姆登镇画派",
+    "description_en": "Camden Town Group interior oil: thick muted violet-brown-olive impasto, patterned wallpaper, dull sash-window daylight, London bedsit.",
+    "description_zh": "卡姆登镇画派：紫褐橄榄厚涂、壁纸室内、窗光阴沉、伦敦亭子间油画。",
+    "source": "hermes-explore",
+    "image": "styles/433-camden-town-group.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
