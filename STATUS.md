@@ -764,6 +764,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 313, PNG count 313. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 55 (exactly 5, h271–h275)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                              |
+|------|--------------------|-----------------|------------------------------------|
+| h271 | Dutch Golden Age   | 荷兰黄金时代    | styles/314-dutch-golden-age.png    |
+| h272 | Magic Realism      | 魔幻现实主义    | styles/315-magic-realism.png       |
+| h273 | Pixel Art          | 像素艺术        | styles/316-pixel-art.png           |
+| h274 | Mughal Miniature   | 莫卧儿细密画    | styles/317-mughal-miniature.png    |
+| h275 | Zhostovo           | 若斯托沃漆画    | styles/318-zhostovo.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 318, PNG count 318. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

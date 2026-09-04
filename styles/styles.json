@@ -4067,5 +4067,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h271",
+    "slug": "dutch-golden-age",
+    "name_en": "Dutch Golden Age",
+    "name_zh": "荷兰黄金时代",
+    "description_en": "Dutch Golden Age: 17th-century Holland oil — north-window daylight, quiet interiors, leaded glass, fine glaze on linen and pewter, genre-scene naturalism.",
+    "description_zh": "荷兰黄金时代：十七世纪荷兰油画——北窗日光、静室内景、铅条玻璃、亚麻与锡器细釉、风俗场景写实。",
+    "source": "hermes-explore",
+    "image": "styles/314-dutch-golden-age.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h272",
+    "slug": "magic-realism",
+    "name_en": "Magic Realism",
+    "name_zh": "魔幻现实主义",
+    "description_en": "Magic Realism: crystal daylight, enamel-smooth oils, heightened local color, still air, one quiet impossibility treated as ordinary fact.",
+    "description_zh": "魔幻现实主义：水晶日光、珐琅般平滑油彩、强化固有色、静止空气、把一处安静的不可能当作日常。",
+    "source": "hermes-explore",
+    "image": "styles/315-magic-realism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h273",
+    "slug": "pixel-art",
+    "name_en": "Pixel Art",
+    "name_zh": "像素艺术",
+    "description_en": "Pixel Art: visible square pixels, limited palette, ordered dithering, hard-edged 16-bit sprite silhouettes, no painterly gradients.",
+    "description_zh": "像素艺术：可见方像素、有限色板、有序抖动、硬边十六位精灵轮廓、无绘画渐变。",
+    "source": "hermes-explore",
+    "image": "styles/316-pixel-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h274",
+    "slug": "mughal-miniature",
+    "name_en": "Mughal Miniature",
+    "name_zh": "莫卧儿细密画",
+    "description_en": "Mughal miniature: jewel opaque watercolor, fine squirrel-hair line, floral gold border, shallow garden space, observed plants, court atelier paper.",
+    "description_zh": "莫卧儿细密画：宝石般不透明水彩、松鼠毫细线、花卉金边、浅园景空间、写生草木、宫廷作坊纸本。",
+    "source": "hermes-explore",
+    "image": "styles/317-mughal-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h275",
+    "slug": "zhostovo",
+    "name_en": "Zhostovo",
+    "name_zh": "若斯托沃漆画",
+    "description_en": "Zhostovo: black lacquer tray painting — one-stroke peonies in pink, red and gold, metallic scrollwork, glossy varnish blooms on a void ground.",
+    "description_zh": "若斯托沃漆画：黑漆托盘绘画——一笔牡丹粉红赤金、金属卷草、亮漆高光花簇铺满虚空底。",
+    "source": "hermes-explore",
+    "image": "styles/318-zhostovo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
