@@ -5757,5 +5757,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h401",
+    "slug": "fontainebleau-school",
+    "name_en": "Fontainebleau School",
+    "name_zh": "枫丹白露画派",
+    "description_en": "Fontainebleau School: 16th-century French Mannerist court painting, elongated elegance, enamel-cool porcelain flesh, sculptural satin drapery, grottesche stucco.",
+    "description_zh": "枫丹白露画派：十六世纪法国宫廷样式主义、修长优雅、珐琅冷瓷肌、雕塑感缎褶与怪诞灰塑。",
+    "source": "hermes-explore",
+    "image": "styles/444-fontainebleau-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h402",
+    "slug": "cretan-school",
+    "name_en": "Cretan School",
+    "name_zh": "克里特画派",
+    "description_en": "Cretan School: post-Byzantine Italo-Cretan egg tempera on gold leaf, linear hierarchical folds, chrysography, punchwork gesso ground.",
+    "description_zh": "克里特画派：后拜占庭意克里特蛋彩金地、线性层褶、金线提亮与錾花石膏地。",
+    "source": "hermes-explore",
+    "image": "styles/445-cretan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h403",
+    "slug": "jinbi-shanshui",
+    "name_en": "Jinbi Shanshui",
+    "name_zh": "金碧山水",
+    "description_en": "Jinbi shanshui: gold-and-blue Chinese landscape, azurite-malachite peaks, gold-outline pavilions and clouds, mineral-pigment Tang–Song monumentality.",
+    "description_zh": "金碧山水：金碧设色青绿峰峦、金线楼阁云气、矿彩唐宋巨嶂。",
+    "source": "hermes-explore",
+    "image": "styles/446-jinbi-shanshui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h404",
+    "slug": "cheriyal-painting",
+    "name_en": "Cheriyal Painting",
+    "name_zh": "切里亚尔绘画",
+    "description_en": "Cheriyal painting: Telangana Nakashi narrative scroll, flat primaries, bold black contour, floral borders, red-earth ground, folk-tempera opacity.",
+    "description_zh": "切里亚尔绘画：特伦甘纳纳卡希叙事卷轴、平涂原色、粗黑轮廓、花边与红土地、民间不透明色。",
+    "source": "hermes-explore",
+    "image": "styles/447-cheriyal-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h405",
+    "slug": "raindrop-cun",
+    "name_en": "Raindrop Cun",
+    "name_zh": "雨点皴",
+    "description_en": "Raindrop cun: short dense rain-spot texture strokes building Northern Song rock mass, millet-rain stipple, not hemp-fiber, axe-cut, or Mi-dot.",
+    "description_zh": "雨点皴：短密雨点皴纹堆北宋山石、粟雨点厾，非披麻、斧劈或米点。",
+    "source": "hermes-explore",
+    "image": "styles/448-raindrop-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

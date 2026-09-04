@@ -1128,6 +1128,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 443, PNG count 443. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 81 (exactly 5, h401–h405)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en              | name_zh         | image                               |
+|------|----------------------|-----------------|-------------------------------------|
+| h401 | Fontainebleau School | 枫丹白露画派    | styles/444-fontainebleau-school.png |
+| h402 | Cretan School        | 克里特画派      | styles/445-cretan-school.png        |
+| h403 | Jinbi Shanshui       | 金碧山水        | styles/446-jinbi-shanshui.png       |
+| h404 | Cheriyal Painting    | 切里亚尔绘画    | styles/447-cheriyal-painting.png    |
+| h405 | Raindrop Cun         | 雨点皴          | styles/448-raindrop-cun.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 448, PNG count 448. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
