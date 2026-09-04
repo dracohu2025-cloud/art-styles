@@ -6537,5 +6537,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h461",
+    "slug": "hagi",
+    "name_en": "Hagi",
+    "name_zh": "萩烧",
+    "description_en": "Hagi: Japanese Hagi-ware glaze as the image method—milky white-to-blush feldspathic pooling, fine kan'nyu crazing, warm pink-white satin skin and iron-specked clay rims; not raku, not shino crawl, not karatsu iron brush, not celadon.",
+    "description_zh": "萩烧：以萩釉入画，乳白带粉的长石釉积、细开片、柔粉白缎面与铁点胎土边，非乐烧，非志野缩釉，非唐津铁绘，亦非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/504-hagi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h462",
+    "slug": "kuba-cloth",
+    "name_en": "Kuba Cloth",
+    "name_zh": "库巴绒绣",
+    "description_en": "Kuba cloth: Congolese raffia cut-pile as the image method—tufted geometric diamonds, nested lozenges and chevrons in earth red, ochre, cream and brown-black; not kente strip-weave, not adinkra stamps, not bogolanfini, not ndebele mural.",
+    "description_zh": "库巴绒绣：以刚果库巴拉菲亚割绒入画，菱格套叠与人字纹的赭红米棕割绒触感，非肯泰条织，非阿丁克拉印布，非博戈兰泥染，亦非恩德贝勒壁画。",
+    "source": "hermes-explore",
+    "image": "styles/505-kuba-cloth.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h463",
+    "slug": "rotogravure",
+    "name_en": "Rotogravure",
+    "name_zh": "轮转凹版",
+    "description_en": "Rotogravure: copper-cylinder continuous-tone intaglio as the image method—microscopic ink cells, velvety warm-black to sepia magazine gravure, slight ink squash, no hard halftone dots; not photogravure dust-grain, not steel engraving, not collotype, not gelatin silver.",
+    "description_zh": "轮转凹版：以铜滚筒连续调凹印入画，微细着墨孔、丝绒暖黑到棕褐的杂志凹印与轻微溢墨，无硬网点；非照相凹版尘粒，非钢版雕刻，非珂罗版，亦非明胶银盐。",
+    "source": "hermes-explore",
+    "image": "styles/506-rotogravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h464",
+    "slug": "rolling-cloud-cun",
+    "name_en": "Rolling-cloud Cun",
+    "name_zh": "卷云皴",
+    "description_en": "Rolling-cloud Cun: Northern Song 卷云皴 as the image method—curling comma-like volute rock strokes in the Guo Xi idiom, ink on silk, stacked spiral-cloud modeling; not cloud-head cun knobs, not hemp-fiber cun, not alum-head cun, not axe-cut cun.",
+    "description_zh": "卷云皴：以北宋卷云皴入画，郭熙式卷曲逗号状石纹、绢本水墨与层叠螺旋云体，非云头皴蘑菇结，非披麻皴，非矾头皴，亦非斧劈皴。",
+    "source": "hermes-explore",
+    "image": "styles/507-rolling-cloud-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h465",
+    "slug": "zardozi",
+    "name_en": "Zardozi",
+    "name_zh": "金线绣",
+    "description_en": "Zardozi: Mughal-Persian goldwork as the image method—raised couched gold and silver zari cords, bullion, sequins and pearls on silk; not or nué shaded gold needle-painting, not kesi tapestry, not chikankari whitework, not phulkari floss.",
+    "description_zh": "金线绣：以莫卧儿-波斯扎尔多齐金工入画，盘金银线、珠片与凸起金绳绣于丝绸，非晕金绣，非缂丝，非奇坎卡里白绣，亦非普尔卡里绣。",
+    "source": "hermes-explore",
+    "image": "styles/508-zardozi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

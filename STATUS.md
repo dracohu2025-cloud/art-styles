@@ -1297,6 +1297,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 503, PNG count 503. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 93 (exactly 5, h461–h465)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                                   |
+|------|--------------------|-----------------|-----------------------------------------|
+| h461 | Hagi               | 萩烧            | styles/504-hagi.png                     |
+| h462 | Kuba Cloth         | 库巴绒绣        | styles/505-kuba-cloth.png               |
+| h463 | Rotogravure        | 轮转凹版        | styles/506-rotogravure.png              |
+| h464 | Rolling-cloud Cun  | 卷云皴          | styles/507-rolling-cloud-cun.png        |
+| h465 | Zardozi            | 金线绣          | styles/508-zardozi.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 508, PNG count 508. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
