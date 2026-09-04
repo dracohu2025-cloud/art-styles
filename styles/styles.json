@@ -4717,5 +4717,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h321",
+    "slug": "zhe-school",
+    "name_en": "Zhe School",
+    "name_zh": "浙派",
+    "description_en": "Zhe School: Ming professional landscape after Dai Jin — vigorous axe-cut cun, wet-into-dry ink, dramatic pines on jagged cliffs, strong black-gray hierarchy.",
+    "description_zh": "浙派：戴进一系明代职业山水、斧劈皴、湿干互破墨、危崖劲松、黑灰层次分明。",
+    "source": "hermes-explore",
+    "image": "styles/364-zhe-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h322",
+    "slug": "pont-aven-school",
+    "name_en": "Pont-Aven School",
+    "name_zh": "阿旺桥画派",
+    "description_en": "Pont-Aven School: late-1880s Breton Synthetist painting — unmodulated color fields, dark cloisonné contour, flattened space, gold-ochre emerald vermilion cobalt.",
+    "description_zh": "阿旺桥画派：1880年代末布列塔尼综合主义、平涂色块、景泰蓝式深轮廓、压平空间、金赭翠绿朱红钴蓝。",
+    "source": "hermes-explore",
+    "image": "styles/365-pont-aven-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h323",
+    "slug": "basohli-miniature",
+    "name_en": "Basohli Miniature",
+    "name_zh": "巴索利细密画",
+    "description_en": "Basohli miniature: early Pahari painting — hot mineral pigments, mustard or red ground, beetle-wing green, large lotus-petal eyes, flat decorative architecture.",
+    "description_zh": "巴索利细密画：早期帕哈里绘画、热性矿物色、芥黄或红地、甲虫翅绿、莲瓣大眼、扁平装饰建筑。",
+    "source": "hermes-explore",
+    "image": "styles/366-basohli-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h324",
+    "slug": "peredvizhniki",
+    "name_en": "Peredvizhniki",
+    "name_zh": "巡回画派",
+    "description_en": "Peredvizhniki: 19th-c Russian Wanderers oil — Repin/Levitan naturalism, earthy ochres and cool greys, birch-and-river outdoor light, visible painterly brushwork.",
+    "description_zh": "巡回画派：十九世纪俄国巡回展览派油画、列宾列维坦写实、土赭与冷灰、白桦河岸外光、可见笔触。",
+    "source": "hermes-explore",
+    "image": "styles/367-peredvizhniki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h325",
+    "slug": "namban",
+    "name_en": "Namban",
+    "name_zh": "南蛮绘",
+    "description_en": "Namban: Momoyama Nanban-e folding-screen painting — gold-leaf ground, mineral pigments, gold clouds, Portuguese-era ships in Japanese byobu language.",
+    "description_zh": "南蛮绘：桃山南蛮屏风、金箔地、矿物颜料、金云、以日本屏风语汇画葡萄牙时期船舶。",
+    "source": "hermes-explore",
+    "image": "styles/368-namban.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

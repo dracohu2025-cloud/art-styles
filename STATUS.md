@@ -904,6 +904,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 363, PNG count 363. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 65 (exactly 5, h321–h325)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                              |
+|------|--------------------|-----------------|------------------------------------|
+| h321 | Zhe School         | 浙派            | styles/364-zhe-school.png          |
+| h322 | Pont-Aven School   | 阿旺桥画派      | styles/365-pont-aven-school.png    |
+| h323 | Basohli Miniature  | 巴索利细密画    | styles/366-basohli-miniature.png   |
+| h324 | Peredvizhniki      | 巡回画派        | styles/367-peredvizhniki.png       |
+| h325 | Namban             | 南蛮绘          | styles/368-namban.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 368, PNG count 368. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
