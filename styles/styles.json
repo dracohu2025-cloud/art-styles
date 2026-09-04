@@ -6017,5 +6017,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h421",
+    "slug": "unione",
+    "name_en": "Unione",
+    "name_zh": "融合法",
+    "description_en": "Unione: High Renaissance color blending — adjacent hues melt without contour, pearly fused midtones, Raphael-like dissolved edges, not hard outline, not sfumato smoke, not chiaroscuro.",
+    "description_zh": "融合法：盛期文艺复兴邻色无轮廓熔接，珍珠般中间调，拉斐尔式边缘消融，非硬线，非烟雾法，非明暗法。",
+    "source": "hermes-explore",
+    "image": "styles/464-unione.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h422",
+    "slug": "celadon",
+    "name_en": "Celadon",
+    "name_zh": "青瓷",
+    "description_en": "Celadon: Longquan qingci glaze language — milky jade-green feldspathic skin, ice crackle, glaze pooling in recesses, carved low-relief under glassy celadon, pictorial field not a ware-as-object still life.",
+    "description_zh": "青瓷：龙泉青釉语言——乳浊青绿长石釉、冰裂纹、凹处积釉、釉下浅浮雕，画面技法而非器物静物。",
+    "source": "hermes-explore",
+    "image": "styles/465-celadon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h423",
+    "slug": "bargello",
+    "name_en": "Bargello",
+    "name_zh": "火焰绣",
+    "description_en": "Bargello: Florentine flame stitch — counted-thread wool chevrons, stepped color peaks, zigzag geometry as the whole picture, embroidery texture not a fashion title.",
+    "description_zh": "火焰绣：佛罗伦萨计针绒线人字折线，阶梯式色峰铺满画面，刺绣技法而非时装名。",
+    "source": "hermes-explore",
+    "image": "styles/466-bargello.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h424",
+    "slug": "fresson-print",
+    "name_en": "Fresson Print",
+    "name_zh": "弗雷松印相",
+    "description_en": "Fresson Print: direct carbon color process — four-color pigment tissues, velvety matte paper, grainy pictorialist color, no silver gloss, powdery carbon surface.",
+    "description_zh": "弗雷松印相：直接碳素彩色工艺，四色颜料碳纸、丝绒哑光、颗粒画意色彩、无银盐反光。",
+    "source": "hermes-explore",
+    "image": "styles/467-fresson-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h425",
+    "slug": "millefleur",
+    "name_en": "Millefleur",
+    "name_zh": "千花锦地",
+    "description_en": "Millefleur: late Gothic mille-fleurs tapestry ground — dense thousand-flower wool-silk weave on dark green, hatch-woven plants and herbs, flattened tapestry space, technique not a garden story.",
+    "description_zh": "千花锦地：晚期哥特千花挂毯底，深绿底密织无数小花草木，纬向羊毛纹理，扁平织造空间，技法而非花园叙事。",
+    "source": "hermes-explore",
+    "image": "styles/468-millefleur.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

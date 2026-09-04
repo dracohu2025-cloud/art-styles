@@ -1185,6 +1185,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 463, PNG count 463. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 85 (exactly 5, h421–h425)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh       | image                           |
+|------|----------------|---------------|---------------------------------|
+| h421 | Unione         | 融合法        | styles/464-unione.png           |
+| h422 | Celadon        | 青瓷          | styles/465-celadon.png          |
+| h423 | Bargello       | 火焰绣        | styles/466-bargello.png         |
+| h424 | Fresson Print  | 弗雷松印相    | styles/467-fresson-print.png    |
+| h425 | Millefleur     | 千花锦地      | styles/468-millefleur.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 468, PNG count 468. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
