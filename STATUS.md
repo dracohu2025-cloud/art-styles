@@ -848,6 +848,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 343, PNG count 343. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 61 (exactly 5, h301–h305)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh         | image                            |
+|------|-------------------|-----------------|----------------------------------|
+| h301 | Ajanta Mural      | 阿旃陀壁画      | styles/344-ajanta-mural.png      |
+| h302 | Kangra Miniature  | 康格拉细密画    | styles/345-kangra-miniature.png  |
+| h303 | Lubok             | 卢博克          | styles/346-lubok.png             |
+| h304 | Rosemaling        | 挪威玫瑰绘      | styles/347-rosemaling.png        |
+| h305 | Intimism          | 私密主义        | styles/348-intimism.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 348, PNG count 348. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

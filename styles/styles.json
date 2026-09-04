@@ -4457,5 +4457,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h301",
+    "slug": "ajanta-mural",
+    "name_en": "Ajanta Mural",
+    "name_zh": "阿旃陀壁画",
+    "description_en": "Ajanta mural: mineral tempera on cave plaster, fluid dark contour, elongated lotus eyes, earth ochre-red-green palette, flaking narrative registers.",
+    "description_zh": "阿旃陀壁画：洞窟灰泥矿物颜料、流畅深色轮廓、细长莲目、土黄红绿调、剥落叙事分层。",
+    "source": "hermes-explore",
+    "image": "styles/344-ajanta-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h302",
+    "slug": "kangra-miniature",
+    "name_en": "Kangra Miniature",
+    "name_zh": "康格拉细密画",
+    "description_en": "Kangra miniature: Pahari wasli painting, hair-thin lyrical outline, malachite greens and lotus pinks, jewel-like local color, pastoral lyricism without heavy shadow.",
+    "description_zh": "康格拉细密画：帕哈里纸本、发丝游丝描、孔雀石绿与莲粉、珠宝般固有色、田园抒情而无重影。",
+    "source": "hermes-explore",
+    "image": "styles/345-kangra-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h303",
+    "slug": "lubok",
+    "name_en": "Lubok",
+    "name_zh": "卢博克",
+    "description_en": "Lubok: Russian popular woodcut, thick carved black outlines, flat unshaded red-yellow-green-blue fills, naive folk composition and woodgrain.",
+    "description_zh": "卢博克：俄罗斯民间木刻、粗黑刻线、红黄绿蓝平涂无明暗、稚拙构图与木纹。",
+    "source": "hermes-explore",
+    "image": "styles/346-lubok.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h304",
+    "slug": "rosemaling",
+    "name_en": "Rosemaling",
+    "name_zh": "挪威玫瑰绘",
+    "description_en": "Rosemaling: Norwegian folk panel painting, C and S scrolls, teardrop leaves and stylized roses in red-blue-green-gold on a decorated ground.",
+    "description_zh": "挪威玫瑰绘：民间板绘、C/S卷草、泪滴叶与程式玫瑰、红蓝绿金铺满装饰地。",
+    "source": "hermes-explore",
+    "image": "styles/347-rosemaling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h305",
+    "slug": "intimism",
+    "name_en": "Intimism",
+    "name_zh": "私密主义",
+    "description_en": "Intimism: figure dissolved into wallpaper and upholstery, tapestry-like broken color, close domestic interior, muted glowing pattern-as-space.",
+    "description_zh": "私密主义：人物溶入墙纸与织物纹样、织锦般碎笔、近距室内、低饱和发光的纹样即空间。",
+    "source": "hermes-explore",
+    "image": "styles/348-intimism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
