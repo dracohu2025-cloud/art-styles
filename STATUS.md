@@ -1241,6 +1241,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 483, PNG count 483. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 89 (exactly 5, h441–h445)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en          | name_zh       | image                              |
+|------|------------------|---------------|------------------------------------|
+| h441 | Bizen            | 备前          | styles/484-bizen.png               |
+| h442 | Sang-de-boeuf    | 郎窑红        | styles/485-sang-de-boeuf.png       |
+| h443 | Hardanger        | 哈当厄尔绣    | styles/486-hardanger.png           |
+| h444 | Nature Printing  | 自然印花      | styles/487-nature-printing.png     |
+| h445 | Devil-face Cun   | 鬼面皴        | styles/488-devil-face-cun.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 488, PNG count 488. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

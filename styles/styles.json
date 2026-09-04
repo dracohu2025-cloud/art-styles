@@ -6277,5 +6277,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h441",
+    "slug": "bizen",
+    "name_en": "Bizen",
+    "name_zh": "备前",
+    "description_en": "Bizen: unglazed wood-fired Bizen surface as the image method—iron-rich toasted clay, goma ash speckles, hidasuki straw-scorch ribbons, kiln-scar flash; not celadon, not tenmoku, not pottery-as-object.",
+    "description_zh": "备前：以无釉柴烧土肌入画，铁红焦土、芝麻灰、火筋与窑变疤痕构成画面，非青瓷、非天目，亦非器物静物。",
+    "source": "hermes-explore",
+    "image": "styles/484-bizen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h442",
+    "slug": "sang-de-boeuf",
+    "name_en": "Sang-de-boeuf",
+    "name_zh": "郎窑红",
+    "description_en": "Sang-de-boeuf: Langyao copper-red flambé glaze as the image method—oxblood runs, liver pooling, peach-bloom breaks and gravity-flow vitreous streaks; not famille rose, not lustreware.",
+    "description_zh": "郎窑红：以铜红窑变釉入画，牛血红垂流、肝色积釉与豇豆红开片构成画面，非粉彩，亦非虹彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/485-sang-de-boeuf.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h443",
+    "slug": "hardanger",
+    "name_en": "Hardanger",
+    "name_zh": "哈当厄尔绣",
+    "description_en": "Hardanger: Norwegian whitework as the image method—kloster satin blocks, cutwork windows, woven bars and evenweave lattice; not sashiko, not kogin, not garment-as-object.",
+    "description_zh": "哈当厄尔绣：挪威抽纱白绣入画，克洛斯特缎针块、镂空窗格与编织杠构成画面，非刺子绣，非津轻菱刺，亦非衣物器物。",
+    "source": "hermes-explore",
+    "image": "styles/486-hardanger.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h444",
+    "slug": "nature-printing",
+    "name_en": "Nature Printing",
+    "name_zh": "自然印花",
+    "description_en": "Nature Printing: Naturselbstdruck inked-plant impressions as the image method—vein-perfect plate-squash on rag paper, overlapping fern and leaf intaglio tone; not photogram, not gyotaku, not frottage.",
+    "description_zh": "自然印花：以实物转印入画，叶脉压痕、蕨类叠印与版调构成画面，非物影照片，非鱼拓，亦非拓印擦绘。",
+    "source": "hermes-explore",
+    "image": "styles/487-nature-printing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h445",
+    "slug": "devil-face-cun",
+    "name_en": "Devil-face Cun",
+    "name_zh": "鬼面皴",
+    "description_en": "Devil-face Cun: gui-mian cun jagged rock-facet strokes as the image method—cleaved angular planes and dry-ink fractures of Northern Song monumentality; not ax-cut, not cloud-head, not hemp-fiber cun.",
+    "description_zh": "鬼面皴：以棱面如鬼脸的山石皴法入画，折裂块面与枯墨构成画面，非斧劈皴、非云头皴、非披麻皴。",
+    "source": "hermes-explore",
+    "image": "styles/488-devil-face-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
