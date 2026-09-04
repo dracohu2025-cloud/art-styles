@@ -5367,5 +5367,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h371",
+    "slug": "pastiglia",
+    "name_en": "Pastiglia",
+    "name_zh": "膏塑贴金",
+    "description_en": "Raised gesso relief on gilded panel, punch-dotted gold, bole-red wear, tempera over burnished leaf.",
+    "description_zh": "膏塑浮雕贴金、錾点金地、丹赭底露出、蛋彩覆于打磨金箔。",
+    "source": "hermes-explore",
+    "image": "styles/414-pastiglia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h372",
+    "slug": "dancheong",
+    "name_en": "Dancheong",
+    "name_zh": "丹青彩绘",
+    "description_en": "Korean architectural polychromy: five cardinal mineral pigments, floral meoricho, painted timber brackets.",
+    "description_zh": "韩国建筑彩绘：五方矿物色、头草莲纹、梁枋丹青。",
+    "source": "hermes-explore",
+    "image": "styles/415-dancheong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h373",
+    "slug": "uki-e",
+    "name_en": "Uki-e",
+    "name_zh": "浮绘",
+    "description_en": "Edo perspective woodblock: vanishing-point interiors, keyblock outlines, bokashi depth, baren grain.",
+    "description_zh": "江户浮绘：灭点透视室内、主版勾线、ぼかし纵深、马连纹理。",
+    "source": "hermes-explore",
+    "image": "styles/416-uki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h374",
+    "slug": "tadelakt",
+    "name_en": "Tadelakt",
+    "name_zh": "塔德拉卡特",
+    "description_en": "Moroccan soap-sealed lime plaster, mineral burnish, eggshell sheen, earth-oxide clouds.",
+    "description_zh": "摩洛哥皂封石灰泥、矿物抛光、蛋壳光泽、土氧化物云斑。",
+    "source": "hermes-explore",
+    "image": "styles/417-tadelakt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h375",
+    "slug": "fijnschilder",
+    "name_en": "Fijnschilder",
+    "name_zh": "精细画",
+    "description_en": "Leiden fine painting: porcelain-smooth oil glaze, microscopic detail, velvet interior light.",
+    "description_zh": "莱顿精细画：瓷滑油釉、显微细节、丝绒室内光。",
+    "source": "hermes-explore",
+    "image": "styles/418-fijnschilder.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

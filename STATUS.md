@@ -1044,6 +1044,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 413, PNG count 413. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 75 (exactly 5, h371–h375)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en      | name_zh         | image                         |
+|------|--------------|-----------------|-------------------------------|
+| h371 | Pastiglia    | 膏塑贴金        | styles/414-pastiglia.png      |
+| h372 | Dancheong    | 丹青彩绘        | styles/415-dancheong.png      |
+| h373 | Uki-e        | 浮绘            | styles/416-uki-e.png          |
+| h374 | Tadelakt     | 塔德拉卡特      | styles/417-tadelakt.png       |
+| h375 | Fijnschilder | 精细画          | styles/418-fijnschilder.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 418, PNG count 418. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
