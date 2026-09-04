@@ -736,6 +736,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 303, PNG count 303. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 53 (exactly 5, h261–h265)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh         | image                         |
+|------|-------------|-----------------|-------------------------------|
+| h261 | Die Brücke  | 桥社            | styles/304-die-brucke.png     |
+| h262 | Synthetism  | 综合主义        | styles/305-synthetism.png     |
+| h263 | Gutai       | 具体派          | styles/306-gutai.png          |
+| h264 | Plein Air   | 外光写生        | styles/307-plein-air.png      |
+| h265 | Chinoiserie | 中国风装饰      | styles/308-chinoiserie.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 308, PNG count 308. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

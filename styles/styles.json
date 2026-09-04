@@ -3937,5 +3937,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h261",
+    "slug": "die-brucke",
+    "name_en": "Die Brücke",
+    "name_zh": "桥社",
+    "description_en": "Die Brücke: angular crude contour, clashing primaries, flattened city planes, woodcut-influenced jagged brush, raw German Expressionist slab.",
+    "description_zh": "桥社：棱角粗轮廓、冲突原色、压扁街景平面、木刻感锯齿笔触、德国表现主义生猛色块。",
+    "source": "hermes-explore",
+    "image": "styles/304-die-brucke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h262",
+    "slug": "synthetism",
+    "name_en": "Synthetism",
+    "name_zh": "综合主义",
+    "description_en": "Synthetism: large unmodulated symbolic color planes, heavy enclosing contour, memory-hue not observed-hue, decorative flattening.",
+    "description_zh": "综合主义：大块无调制象征色面、闭合粗轮廓、记忆色而非写生色、装饰性压平。",
+    "source": "hermes-explore",
+    "image": "styles/305-synthetism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h263",
+    "slug": "gutai",
+    "name_en": "Gutai",
+    "name_zh": "具体派",
+    "description_en": "Gutai: paint as material event — flung enamel, torn kraft, thick gel ridges, raw canvas, process footprints over depiction.",
+    "description_zh": "具体派：颜料即物质事件——甩泼磁漆、撕裂牛皮纸、厚凝胶脊、裸画布、过程足迹压过描绘。",
+    "source": "hermes-explore",
+    "image": "styles/306-gutai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h264",
+    "slug": "plein-air",
+    "name_en": "Plein Air",
+    "name_zh": "外光写生",
+    "description_en": "Plein Air: on-site outdoor oil, wet-into-wet daylight, true sun-shadow temperature, portable-easel atmosphere painted from life.",
+    "description_zh": "外光写生：现场户外油彩、湿接湿日光、真实冷暖光影、便携画架对景气氛。",
+    "source": "hermes-explore",
+    "image": "styles/307-plein-air.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h265",
+    "slug": "chinoiserie",
+    "name_en": "Chinoiserie",
+    "name_zh": "中国风装饰",
+    "description_en": "Chinoiserie: 18th-c European fantasy of China — willow-pattern cobalt, lacquer cinnabar, gold lattice, pagoda silhouettes, porcelain ornament.",
+    "description_zh": "中国风装饰：十八世纪欧洲幻想东方——青花柳纹钴蓝、朱红漆地、金格、宝塔剪影、瓷绘纹样。",
+    "source": "hermes-explore",
+    "image": "styles/308-chinoiserie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
