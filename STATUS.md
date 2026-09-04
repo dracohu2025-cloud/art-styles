@@ -834,6 +834,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 338, PNG count 338. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 60 (exactly 5, h296–h300)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh         | image                          |
+|------|-----------------|-----------------|--------------------------------|
+| h296 | Chaekgeori      | 册架图          | styles/339-chaekgeori.png      |
+| h297 | Qajar Painting  | 卡扎尔绘画      | styles/340-qajar-painting.png  |
+| h298 | Formline        | 形线            | styles/341-formline.png        |
+| h299 | Academic Art    | 学院派          | styles/342-academic-art.png    |
+| h300 | Ndebele Mural   | 恩德贝勒壁画    | styles/343-ndebele-mural.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 343, PNG count 343. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

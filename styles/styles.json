@@ -4392,5 +4392,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h296",
+    "slug": "chaekgeori",
+    "name_en": "Chaekgeori",
+    "name_zh": "册架图",
+    "description_en": "Chaekgeori: Joseon scholar-shelf still-life, stacked books and porcelain in shallow trompe-l'oeil cabinets, mineral pigments, slightly naive perspective.",
+    "description_zh": "册架图：朝鲜学者架静物、浅景深错视柜中的书卷与瓷器、矿物颜料、略带稚拙透视。",
+    "source": "hermes-explore",
+    "image": "styles/339-chaekgeori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h297",
+    "slug": "qajar-painting",
+    "name_en": "Qajar Painting",
+    "name_zh": "卡扎尔绘画",
+    "description_en": "Qajar painting: 19th-century Persian court oil, large almond eyes, enamel-smooth flesh, floral textiles, tiled dado and lacquered palace interior.",
+    "description_zh": "卡扎尔绘画：十九世纪波斯宫廷油画、杏眼、珐琅般肤色、花卉织纹、瓷砖墙裙与漆光宫室。",
+    "source": "hermes-explore",
+    "image": "styles/340-qajar-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h298",
+    "slug": "formline",
+    "name_en": "Formline",
+    "name_zh": "形线",
+    "description_en": "Formline: Northwest Coast graphic system of swelling black formlines, ovoids, U-forms and trigons, red and turquoise tertiary fills, flattened cedar-panel space.",
+    "description_zh": "形线：西北海岸图形体系、鼓胀黑轮廓、卵形与U形三角、红与青绿填色、扁平杉板空间。",
+    "source": "hermes-explore",
+    "image": "styles/341-formline.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h299",
+    "slug": "academic-art",
+    "name_en": "Academic Art",
+    "name_zh": "学院派",
+    "description_en": "Academic Art: 19th-century salon académisme, invisible brushwork, porcelain-smooth flesh, staged chiaroscuro, classical drapery, enamel studio finish.",
+    "description_zh": "学院派：十九世纪沙龙学院主义、隐笔触、瓷滑肤色、经营明暗、古典披帛、珐琅般工作室完成面。",
+    "source": "hermes-explore",
+    "image": "styles/342-academic-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h300",
+    "slug": "ndebele-mural",
+    "name_en": "Ndebele Mural",
+    "name_zh": "恩德贝勒壁画",
+    "description_en": "Ndebele mural: South African house-wall geometry, thick black bounds, flat unmodulated color fields, nested rectangles and chevrons, no shading.",
+    "description_zh": "恩德贝勒壁画：南非宅墙几何、粗黑界线、无调平涂色块、嵌套矩形与人字纹、无明暗。",
+    "source": "hermes-explore",
+    "image": "styles/343-ndebele-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
