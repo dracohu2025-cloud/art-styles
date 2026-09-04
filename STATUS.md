@@ -890,6 +890,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 358, PNG count 358. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 64 (exactly 5, h316–h320)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en          | name_zh     | image                              |
+|------|------------------|-------------|------------------------------------|
+| h316 | Maruyama-Shijō   | 圆山四条派  | styles/359-maruyama-shijo.png      |
+| h317 | Company School   | 公司画派    | styles/360-company-school.png      |
+| h318 | Phad             | 帕德画      | styles/361-phad.png                |
+| h319 | Wu School        | 吴门画派    | styles/362-wu-school.png           |
+| h320 | Kamasan          | 卡玛桑      | styles/363-kamasan.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 363, PNG count 363. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -4652,5 +4652,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h316",
+    "slug": "maruyama-shijo",
+    "name_en": "Maruyama-Shijō",
+    "name_zh": "圆山四条派",
+    "description_en": "Maruyama-Shijō: Kyoto naturalistic painting after Maruyama Ōkyo — observed-from-life modeling, soft mineral color, ink that yields to wash, unidealized flora and light.",
+    "description_zh": "圆山四条派：圆山应举一系京都写生、对物写生造型、淡矿物色、墨线让位于晕染、不理想化的草木与光。",
+    "source": "hermes-explore",
+    "image": "styles/359-maruyama-shijo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h317",
+    "slug": "company-school",
+    "name_en": "Company School",
+    "name_zh": "公司画派",
+    "description_en": "Company School: Indo-British hybrid watercolor — thin washes on pale paper, meticulous outline, documentary clarity, Mughal finish fused with botanical-watercolor modeling.",
+    "description_zh": "公司画派：印英混合水彩、浅纸薄染、细线勾勒、纪实清晰、莫卧儿细工与植物水彩造型的融合。",
+    "source": "hermes-explore",
+    "image": "styles/360-company-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h318",
+    "slug": "phad",
+    "name_en": "Phad",
+    "name_zh": "帕德画",
+    "description_en": "Phad: Rajasthani narrative cloth painting — mineral reds yellows greens on warm cloth, bold folk outline, flattened registers, decorative borders, horizontal storytelling density.",
+    "description_zh": "帕德画：拉贾斯坦叙事布画、暖布上的矿物红黄绿、粗黑民艺线、扁平分栏、装饰边框与横向叙事密度。",
+    "source": "hermes-explore",
+    "image": "styles/361-phad.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h319",
+    "slug": "wu-school",
+    "name_en": "Wu School",
+    "name_zh": "吴门画派",
+    "description_en": "Wu School: Ming Suzhou literati painting after Shen Zhou — dry pale ink, scholar-amateur brush, understated hills and sparse trees, quiet voids, calligraphic texture strokes.",
+    "description_zh": "吴门画派：沈周一系明代苏州文人画、干淡墨、士人笔意、含蓄丘壑疏树、留白与书法性皴擦。",
+    "source": "hermes-explore",
+    "image": "styles/362-wu-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h320",
+    "slug": "kamasan",
+    "name_en": "Kamasan",
+    "name_zh": "卡玛桑",
+    "description_en": "Kamasan: classical Balinese temple painting — wayang-derived profiles, ochre-red-black-gold, dense patterned ground, hierarchical flat space, fine black contour.",
+    "description_zh": "卡玛桑：巴厘古典寺庙绘画、瓦扬派生侧脸、赭红黑金、密纹地、等级化平面空间与细黑轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/363-kamasan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
