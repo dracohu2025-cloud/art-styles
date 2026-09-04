@@ -1016,6 +1016,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 403, PNG count 403. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 73 (exactly 5, h361–h365)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en    | name_zh      | image                      |
+|------|------------|--------------|----------------------------|
+| h361 | Ukiyo-e    | 浮世绘       | styles/404-ukiyo-e.png     |
+| h362 | Quadratura | 透视天顶画   | styles/405-quadratura.png  |
+| h363 | Décollage  | 撕贴         | styles/406-decollage.png   |
+| h364 | Zhongcai   | 重彩         | styles/407-zhongcai.png    |
+| h365 | Adire      | 阿迪勒染     | styles/408-adire.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 408, PNG count 408. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

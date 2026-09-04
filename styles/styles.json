@@ -5237,5 +5237,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h361",
+    "slug": "ukiyo-e",
+    "name_en": "Ukiyo-e",
+    "name_zh": "浮世绘",
+    "description_en": "Edo ukiyo-e woodblock: keyblock outlines, flat nishiki-e color, indigo-safflower-yellow on cream washi, bokashi sky, woodgrain in open fields.",
+    "description_zh": "江户浮世绘木版：主版墨线、锦绘平涂、蓝红黄乳色和纸、天空晕染、开敞处可见木纹。",
+    "source": "hermes-explore",
+    "image": "styles/404-ukiyo-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h362",
+    "slug": "quadratura",
+    "name_en": "Quadratura",
+    "name_zh": "透视天顶画",
+    "description_en": "Baroque quadratura: di sotto in sù painted architecture, foreshortened columns and vaults opening to sky, oil-on-plaster illusion.",
+    "description_zh": "巴洛克透视天顶画：仰视错视建筑、缩短柱式与开敞天顶、油彩灰泥幻象。",
+    "source": "hermes-explore",
+    "image": "styles/405-quadratura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h363",
+    "slug": "decollage",
+    "name_en": "Décollage",
+    "name_zh": "撕贴",
+    "description_en": "Affichiste décollage: ripped poster strata, torn edges, leftover type scraps, glue-stained urban layers.",
+    "description_zh": "撕贴海报层积：毛边揭层、残字碎片、胶渍与城市纸层，非干净拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/406-decollage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h364",
+    "slug": "zhongcai",
+    "name_en": "Zhongcai",
+    "name_zh": "重彩",
+    "description_en": "Chinese zhongcai: opaque mineral malachite, azurite, cinnabar and gold on silk, heavy-color stacking, not light gongbi wash.",
+    "description_zh": "中国重彩：石绿石青朱砂与金箔厚叠绢上，矿物堆染，非浅淡工笔渲染。",
+    "source": "hermes-explore",
+    "image": "styles/407-zhongcai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h365",
+    "slug": "adire",
+    "name_en": "Adire",
+    "name_zh": "阿迪勒染",
+    "description_en": "Yoruba adire eleko: cassava-starch resist on indigo cloth, geometric and flora motifs, dye-bleed crackle, textile as picture.",
+    "description_zh": "约鲁巴阿迪勒染：木薯浆防染靛蓝布、几何花卉纹、渗色裂纹，布面即画面。",
+    "source": "hermes-explore",
+    "image": "styles/408-adire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
