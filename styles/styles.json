@@ -6992,5 +6992,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h496",
+    "slug": "black-figure",
+    "name_en": "Black-figure",
+    "name_zh": "黑绘陶",
+    "description_en": "Attic black-figure vase painting: glossy black-slip silhouettes on reserved orange clay, inner details incised through the slip, spare added white and red.",
+    "description_zh": "阿提卡黑绘陶：橙红陶土底上以黑亮泥釉剪影造型，针刻划出内部细节，点缀少量白与暗红。",
+    "source": "hermes-explore",
+    "image": "styles/539-black-figure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h497",
+    "slug": "folded-reed-line",
+    "name_en": "Folded-reed Line",
+    "name_zh": "折芦描",
+    "description_en": "Chinese Eighteen Strokes drapery line: firm angular contours that kink and taper like snapped reed leaves, thick-to-thin turns without soft willow curves.",
+    "description_zh": "十八描之一：衣纹以刚折顿挫的笔线写出，如折断芦叶，粗细急转而不取柔曲柳叶势。",
+    "source": "hermes-explore",
+    "image": "styles/540-folded-reed-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h498",
+    "slug": "tixi",
+    "name_en": "Tixi",
+    "name_zh": "剔犀",
+    "description_en": "Carved rhinoceros-skin lacquer: stacked black, cinnabar, and ochre layers cut in scrolling pommel motifs so the bevels reveal concentric color bands.",
+    "description_zh": "剔犀漆：黑、朱红与赭色多层相叠，以云剑纹深剔，剖面上呈现如年轮的色带。",
+    "source": "hermes-explore",
+    "image": "styles/541-tixi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h499",
+    "slug": "satsuma",
+    "name_en": "Satsuma",
+    "name_zh": "萨摩烧",
+    "description_en": "Satsuma ware: ivory crackled glaze densely painted with overglaze polychrome enamels and raised gold, millifleur grounds and tea-brown rims.",
+    "description_zh": "萨摩烧：牙色开片釉上密绘釉上彩与堆金，千花锦地，茶褐口沿。",
+    "source": "hermes-explore",
+    "image": "styles/542-satsuma.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h500",
+    "slug": "edo-komon",
+    "name_en": "Edo Komon",
+    "name_zh": "江户小纹",
+    "description_en": "Edo fine-pattern stencil dyeing: all-over micro-motifs (sharkskin, hail, tiny crests) in a single restrained color, reading almost solid from afar.",
+    "description_zh": "江户小纹：型纸染出满地微纹（鲛、霰、细纹家纹），远看近乎素色，近看满布细点。",
+    "source": "hermes-explore",
+    "image": "styles/543-edo-komon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

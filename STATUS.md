@@ -1395,6 +1395,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 538, PNG count 538. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 100 (exactly 5, h496–h500)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh    | image                              |
+|------|-------------------|------------|------------------------------------|
+| h496 | Black-figure      | 黑绘陶     | styles/539-black-figure.png        |
+| h497 | Folded-reed Line  | 折芦描     | styles/540-folded-reed-line.png    |
+| h498 | Tixi              | 剔犀       | styles/541-tixi.png                |
+| h499 | Satsuma           | 萨摩烧     | styles/542-satsuma.png             |
+| h500 | Edo Komon         | 江户小纹   | styles/543-edo-komon.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 543, PNG count 543. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
