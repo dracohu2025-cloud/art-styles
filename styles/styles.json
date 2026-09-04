@@ -4522,5 +4522,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h306",
+    "slug": "fileteado",
+    "name_en": "Fileteado",
+    "name_zh": "菲莱特阿多",
+    "description_en": "Fileteado: Buenos Aires ornamental enamel, thick black contour ribbons, acanthus spirals, gold-crimson-green varnish, bird-and-flower cartouches.",
+    "description_zh": "菲莱特阿多：布宜诺斯艾利斯招牌彩绘、粗黑轮廓缎带、茛苕涡卷、金红绿亮漆、鸟花圆框。",
+    "source": "hermes-explore",
+    "image": "styles/349-fileteado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h307",
+    "slug": "rarrk",
+    "name_en": "Rarrk",
+    "name_zh": "拉尔克",
+    "description_en": "Rarrk: Arnhem Land fine-line infill, parallel ochre hatching on bark-brown ground, flattened figure-ground, mineral red-yellow-white-black.",
+    "description_zh": "拉尔克：阿纳姆地细线填绘、赭石平行排线覆树皮褐地、平面图形、矿物红黄白黑。",
+    "source": "hermes-explore",
+    "image": "styles/350-rarrk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h308",
+    "slug": "cuzco-school",
+    "name_en": "Cuzco School",
+    "name_zh": "库斯科画派",
+    "description_en": "Cuzco School: Andean colonial painting, gold-leaf brocade ground, flattened perspective, opaque tempera color, linear folds and floral punchwork.",
+    "description_zh": "库斯科画派：安第斯殖民绘画、金箔织锦地、平面透视、不透明蛋彩、线描衣褶与花卉錾金。",
+    "source": "hermes-explore",
+    "image": "styles/351-cuzco-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h309",
+    "slug": "lingnan-school",
+    "name_en": "Lingnan School",
+    "name_zh": "岭南画派",
+    "description_en": "Lingnan School: modern Cantonese ink-and-color, wet-into-wet mineral washes, bone-line with splash-color, moist atmosphere and lively empty space.",
+    "description_zh": "岭南画派：近代粤派彩墨、湿撞矿物色、骨法与泼彩、润泽气氛与活空白。",
+    "source": "hermes-explore",
+    "image": "styles/352-lingnan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h310",
+    "slug": "fraktur",
+    "name_en": "Fraktur",
+    "name_zh": "弗拉克图尔",
+    "description_en": "Fraktur: Pennsylvania German folk illumination, fractured blackletter, compass tulips and distelfink birds, flat gouache on cream laid paper.",
+    "description_zh": "弗拉克图尔：宾州德裔民间彩饰、断裂黑体字、圆规郁金香与蓟雀、乳色纸上平涂水粉。",
+    "source": "hermes-explore",
+    "image": "styles/353-fraktur.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

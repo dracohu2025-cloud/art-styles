@@ -862,6 +862,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 348, PNG count 348. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 62 (exactly 5, h306–h310)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh         | image                           |
+|------|-----------------|-----------------|---------------------------------|
+| h306 | Fileteado       | 菲莱特阿多      | styles/349-fileteado.png        |
+| h307 | Rarrk           | 拉尔克          | styles/350-rarrk.png            |
+| h308 | Cuzco School    | 库斯科画派      | styles/351-cuzco-school.png     |
+| h309 | Lingnan School  | 岭南画派        | styles/352-lingnan-school.png   |
+| h310 | Fraktur         | 弗拉克图尔      | styles/353-fraktur.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 353, PNG count 353. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
