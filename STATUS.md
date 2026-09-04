@@ -1170,6 +1170,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 458, PNG count 458. No REJECT names. UI left flat (no filters/tabs).
 
+
+## Hermes-explore batch 84 (exactly 5, h416–h420)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh | image                      |
+|------|-------------|---------|----------------------------|
+| h416 | Tihong      | 剔红    | styles/459-tihong.png      |
+| h417 | Tenmoku     | 天目    | styles/460-tenmoku.png     |
+| h418 | Jasperware  | 碧玉瓷  | styles/461-jasperware.png  |
+| h419 | Kinma       | 蒟酱    | styles/462-kinma.png       |
+| h420 | Nashiji     | 梨地    | styles/463-nashiji.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 463, PNG count 463. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

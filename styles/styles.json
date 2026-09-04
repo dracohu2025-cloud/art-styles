@@ -5952,5 +5952,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h416",
+    "slug": "tihong",
+    "name_en": "Tihong",
+    "name_zh": "剔红",
+    "description_en": "Tihong: carved cinnabar lacquer — stacked vermillion-to-oxblood urushi, knife-cut floral and cloud relief, polished ridges over a black core, not painted polychrome or cloisonné, not a lacquer box product shot.",
+    "description_zh": "剔红：层层朱红至绛红漆再刀刻云花浮雕，高处抛光、深处见黑地，非彩绘或掐丝珐琅，非漆盒产品照。",
+    "source": "hermes-explore",
+    "image": "styles/459-tihong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h417",
+    "slug": "tenmoku",
+    "name_en": "Tenmoku",
+    "name_zh": "天目",
+    "description_en": "Tenmoku: Jian ware iron glaze as picture — hare's-fur striations, oil-spot yohen metallic blooms, thick black-brown pooling and russet crystals, not celadon, not a tea-bowl product shot.",
+    "description_zh": "天目：建盏铁釉画面——兔毫、油滴曜变金属斑、厚黑褐釉积与赭晶，非青瓷，非茶碗产品照。",
+    "source": "hermes-explore",
+    "image": "styles/460-tenmoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h418",
+    "slug": "jasperware",
+    "name_en": "Jasperware",
+    "name_zh": "碧玉瓷",
+    "description_en": "Jasperware: matte colored biscuit ground with applied white sprigged cameo relief, dry unglazed surface, not glossy porcelain or famille rose, not a vase product shot.",
+    "description_zh": "碧玉瓷：无光色地素烧上贴附白色浮雕贴花，干燥无釉表面，非亮釉瓷或粉彩，非花瓶产品照。",
+    "source": "hermes-explore",
+    "image": "styles/461-jasperware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h419",
+    "slug": "kinma",
+    "name_en": "Kinma",
+    "name_zh": "蒟酱",
+    "description_en": "Kinma: incised lacquer with yellow, green, and red color filled into grooves on a dark polished ground, linear inlay, not maki-e gold sprinkling, not a box product shot.",
+    "description_zh": "蒟酱：深色抛光漆面阴刻后填入黄绿红彩漆，线槽嵌色，非莳绘洒金，非漆盒产品照。",
+    "source": "hermes-explore",
+    "image": "styles/462-kinma.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h420",
+    "slug": "nashiji",
+    "name_en": "Nashiji",
+    "name_zh": "梨地",
+    "description_en": "Nashiji: pear-skin gold-flake lacquer — dense aventurine flakes in translucent amber urushi, sparkling polished ground, not solid kinpaku leaf, not a lacquer box product shot.",
+    "description_zh": "梨地：半透明琥珀漆中密布金屑如梨皮闪光，抛光漆面，非整张金箔，非漆盒产品照。",
+    "source": "hermes-explore",
+    "image": "styles/463-nashiji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
