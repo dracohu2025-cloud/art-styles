@@ -988,6 +988,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 393, PNG count 393. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 71 (exactly 5, h351–h355)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh         | image                           |
+|------|----------------|-----------------|---------------------------------|
+| h351 | Dalle de Verre | 厚片玻璃镶嵌    | styles/394-dalle-de-verre.png   |
+| h352 | Paubha         | 尼泊尔宝画      | styles/395-paubha.png           |
+| h353 | Haboku         | 破墨            | styles/396-haboku.png           |
+| h354 | Tanjore        | 坦焦尔画        | styles/397-tanjore.png          |
+| h355 | Inuit Print    | 因纽特版画      | styles/398-inuit-print.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 398, PNG count 398. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

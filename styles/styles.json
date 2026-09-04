@@ -5107,5 +5107,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h351",
+    "slug": "dalle-de-verre",
+    "name_en": "Dalle de Verre",
+    "name_zh": "厚片玻璃镶嵌",
+    "description_en": "Dalle de verre slab glass: thick faceted colored dalles set in concrete ribs, fractured jewel edges, brutalist-sacred transmitted light.",
+    "description_zh": "厚片玻璃镶嵌：厚切彩色玻璃块嵌于混凝土肋，碎宝石棱边，粗野派圣光透射。",
+    "source": "hermes-explore",
+    "image": "styles/394-dalle-de-verre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h352",
+    "slug": "paubha",
+    "name_en": "Paubha",
+    "name_zh": "尼泊尔宝画",
+    "description_en": "Newar paubha: mineral pigment on cotton, vermilion-gold-indigo, razor outline, lotus throne and aureole geometry distinct from Tibetan thangka.",
+    "description_zh": "尼瓦尔宝画：棉地矿物颜料、朱红金靛、利落勾线、莲座与背光几何，有别于藏式唐卡。",
+    "source": "hermes-explore",
+    "image": "styles/395-paubha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h353",
+    "slug": "haboku",
+    "name_en": "Haboku",
+    "name_zh": "破墨",
+    "description_en": "Haboku splashed-ink: explosive wet-on-wet pooling, abbreviated mountain-mist, flying spatters and a few defining dry strokes.",
+    "description_zh": "破墨：爆发性湿墨渗化、简笔山雾、飞溅墨点与数笔定形枯笔。",
+    "source": "hermes-explore",
+    "image": "styles/396-haboku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h354",
+    "slug": "tanjore",
+    "name_en": "Tanjore",
+    "name_zh": "坦焦尔画",
+    "description_en": "Thanjavur painting: 22k gold-foil gesso relief, glass-bead gem inlay, saturated mineral primaries on dark teak-like ground.",
+    "description_zh": "坦焦尔画：22K金箔灰泥浮雕、玻璃珠宝石镶嵌、饱和矿物原色、深色柚木底。",
+    "source": "hermes-explore",
+    "image": "styles/397-tanjore.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h355",
+    "slug": "inuit-print",
+    "name_en": "Inuit Print",
+    "name_zh": "因纽特版画",
+    "description_en": "Kinngait stonecut-stencil: bold flattened polar shapes, stone-cut edge, limited ochre-teal-black on white paper.",
+    "description_zh": "金盖特石刻套色：大胆平面极地形块、石刻刀口、赭石青绿黑限色白纸。",
+    "source": "hermes-explore",
+    "image": "styles/398-inuit-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
