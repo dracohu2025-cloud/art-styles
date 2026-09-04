@@ -6732,5 +6732,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h476",
+    "slug": "negoro",
+    "name_en": "Negoro",
+    "name_zh": "根来涂",
+    "description_en": "Negoro: vermilion urushi over black lacquer, worn-through red revealing black at edges and high points; not maki-e gold powder, not carved tsuishu/tihong, not raden shell, not chinkin engraving.",
+    "description_zh": "根来涂：朱漆覆黑漆，边缘与高处磨损露黑；非莳绘金粉，非堆朱剔红浮雕，非螺钿，亦非沉金阴刻。",
+    "source": "hermes-explore",
+    "image": "styles/519-negoro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h477",
+    "slug": "kohiki",
+    "name_en": "Kohiki",
+    "name_zh": "粉引",
+    "description_en": "Kohiki: thin milky-white slip over dark iron clay, crawling, pinholes, toasted clay at rims; not hakeme brush-stripe slip, not mishima inlay, not celadon glaze, not raku crackle.",
+    "description_zh": "粉引：乳白薄化妆土覆铁质胎土，缩釉针孔与口沿露胎；非刷毛目条纹，非三岛嵌，非青瓷釉，亦非乐烧开片。",
+    "source": "hermes-explore",
+    "image": "styles/520-kohiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h478",
+    "slug": "patola",
+    "name_en": "Patola",
+    "name_zh": "帕托拉",
+    "description_en": "Patola: Gujarati double-ikat silk, warp and weft resist-dyed before weaving, stepped geometric lozenges, identical reverse; not single ikat, not kasuri, not bandhani dots, not batik wax, not palampore chintz.",
+    "description_zh": "帕托拉：古吉拉特双经纬絣，织前经纬皆防染，几何菱格与阶梯接色、正反同纹；非单絣，非絣织，非班达尼点扎，非蜡染裂纹，亦非帕兰波尔手绘。",
+    "source": "hermes-explore",
+    "image": "styles/521-patola.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h479",
+    "slug": "nabeshima",
+    "name_en": "Nabeshima",
+    "name_zh": "锅岛烧",
+    "description_en": "Nabeshima: milky porcelain with Iro-Nabeshima overglaze iron-red, celadon-green, yellow plus underglaze cobalt, sparse exquisite fields and brocade borders; not crowded Imari export, not Kakiemon empty-ground, not Kutani gold-heavy.",
+    "description_zh": "锅岛烧：乳白瓷上色锅岛赤绿黄釉上彩与釉下钴蓝，疏朗构图与织锦边饰；非伊万里满密外销，非柿右卫门留白，亦非九谷堆金。",
+    "source": "hermes-explore",
+    "image": "styles/522-nabeshima.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h480",
+    "slug": "orchid-leaf-line",
+    "name_en": "Orchid-leaf Line",
+    "name_zh": "兰叶描",
+    "description_en": "Orchid-leaf Line: lanye miao as the image method—brush contours that swell and taper like orchid blades; not even-width floating-silk line, not iron-wire drawing, not nail-head rat-tail, not gongbi fill, not xieyi splash.",
+    "description_zh": "兰叶描：以提按如兰叶的起伏轮廓入画；非高古游丝描等宽细线，非铁线描，非钉头鼠尾描，非工笔填色，亦非写意泼墨。",
+    "source": "hermes-explore",
+    "image": "styles/523-orchid-leaf-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
