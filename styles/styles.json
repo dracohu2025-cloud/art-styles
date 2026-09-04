@@ -3742,5 +3742,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h246",
+    "slug": "neoclassicism",
+    "name_en": "Neoclassicism",
+    "name_zh": "新古典主义",
+    "description_en": "Neoclassicism: enamel-smooth oil, marble ivory-slate palette, sculptural contour, calm pyramidal staging.",
+    "description_zh": "新古典主义：珐琅般平滑油彩、象牙石板色、雕塑轮廓、冷静金字塔构图。",
+    "source": "hermes-explore",
+    "image": "styles/289-neoclassicism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h247",
+    "slug": "hard-edge",
+    "name_en": "Hard-Edge",
+    "name_zh": "硬边绘画",
+    "description_en": "Hard-Edge: unmodulated acrylic planes, razor color boundaries, large geometric fields, no visible brush.",
+    "description_zh": "硬边绘画：无调制丙烯色面、锐利色界、大几何色域、不见笔触。",
+    "source": "hermes-explore",
+    "image": "styles/290-hard-edge.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h248",
+    "slug": "metaphysical-painting",
+    "name_en": "Metaphysical Painting",
+    "name_zh": "形而上绘画",
+    "description_en": "Metaphysical Painting: long piazza shadows, empty arcade, ochre plaster, deep ultramarine sky, eerie stillness.",
+    "description_zh": "形而上绘画：广场长影、空廊、赭色灰泥、深蓝天空、诡静。",
+    "source": "hermes-explore",
+    "image": "styles/291-metaphysical-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h249",
+    "slug": "post-impressionism",
+    "name_en": "Post-Impressionism",
+    "name_zh": "后印象派",
+    "description_en": "Post-Impressionism: constructive planes, cloisonné outline, directional loaded strokes, saturated local hue.",
+    "description_zh": "后印象派：建构色面、景泰蓝式勾线、定向厚笔、饱和固有色。",
+    "source": "hermes-explore",
+    "image": "styles/292-post-impressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h250",
+    "slug": "action-painting",
+    "name_en": "Action Painting",
+    "name_zh": "行动绘画",
+    "description_en": "Action Painting: drip fling pour enamel, all-over skeins, raw canvas, overlapping black-white-cadmium gesture.",
+    "description_zh": "行动绘画：滴洒倾倒磁漆、满幅色线、裸画布、黑白镉黄交叠动势。",
+    "source": "hermes-explore",
+    "image": "styles/293-action-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

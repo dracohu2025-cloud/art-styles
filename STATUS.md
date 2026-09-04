@@ -694,6 +694,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 288, PNG count 288. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 50 (exactly 5, h246–h250)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                | name_zh         | image                                 |
+|------|------------------------|-----------------|---------------------------------------|
+| h246 | Neoclassicism          | 新古典主义      | styles/289-neoclassicism.png          |
+| h247 | Hard-Edge              | 硬边绘画        | styles/290-hard-edge.png              |
+| h248 | Metaphysical Painting  | 形而上绘画      | styles/291-metaphysical-painting.png  |
+| h249 | Post-Impressionism     | 后印象派        | styles/292-post-impressionism.png     |
+| h250 | Action Painting        | 行动绘画        | styles/293-action-painting.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 293, PNG count 293. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
