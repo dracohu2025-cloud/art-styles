@@ -666,6 +666,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 278, PNG count 278. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 48 (exactly 5, h236–h240)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh         | image                              |
+|------|-------------------|-----------------|------------------------------------|
+| h236 | Nabis             | 纳比派          | styles/279-nabis.png               |
+| h237 | Baroque           | 巴洛克          | styles/280-baroque.png             |
+| h238 | Vienna Secession  | 维也纳分离派    | styles/281-vienna-secession.png    |
+| h239 | Bauhaus           | 包豪斯          | styles/282-bauhaus.png             |
+| h240 | Purism            | 纯粹主义        | styles/283-purism.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 283, PNG count 283. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

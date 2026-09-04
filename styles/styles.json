@@ -3612,5 +3612,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h236",
+    "slug": "nabis",
+    "name_en": "Nabis",
+    "name_zh": "纳比派",
+    "description_en": "Nabis: flattened decorative interiors, wallpaper arabesques, pattern-over-perspective, muted jewel tapestry color.",
+    "description_zh": "纳比派：平坦装饰室内、壁纸蔓纹、图案压过透视、沉宝石挂毯色。",
+    "source": "hermes-explore",
+    "image": "styles/279-nabis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h237",
+    "slug": "baroque",
+    "name_en": "Baroque",
+    "name_zh": "巴洛克",
+    "description_en": "Baroque: theatrical diagonals, swirling drapery, saturated crimson-gold umber, raking volumetric oil light.",
+    "description_zh": "巴洛克：戏剧斜向构图、翻卷织物、饱和绯红金赭、侧光体积油画。",
+    "source": "hermes-explore",
+    "image": "styles/280-baroque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h238",
+    "slug": "vienna-secession",
+    "name_en": "Vienna Secession",
+    "name_zh": "维也纳分离派",
+    "description_en": "Vienna Secession: geometric gold-leaf mosaic, square trees and spirals, black-gold-teal enamel fields.",
+    "description_zh": "维也纳分离派：几何金箔镶嵌、方树与螺旋纹、黑金青绿珐琅色域。",
+    "source": "hermes-explore",
+    "image": "styles/281-vienna-secession.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h239",
+    "slug": "bauhaus",
+    "name_en": "Bauhaus",
+    "name_zh": "包豪斯",
+    "description_en": "Bauhaus: primary red-yellow-blue plus black, overlapping circles triangles rectangles, workshop stage geometry.",
+    "description_zh": "包豪斯：红黄蓝加黑、交叠圆三角矩形、作坊舞台几何。",
+    "source": "hermes-explore",
+    "image": "styles/282-bauhaus.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h240",
+    "slug": "purism",
+    "name_en": "Purism",
+    "name_zh": "纯粹主义",
+    "description_en": "Purism: machine-smooth cylinders and planes, cool grey-ochre volumes, closed contours, no Cubist shatter.",
+    "description_zh": "纯粹主义：机械光滑圆柱与色面、冷灰赭体积、闭合轮廓、无立体碎裂。",
+    "source": "hermes-explore",
+    "image": "styles/283-purism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
