@@ -6927,5 +6927,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h491",
+    "slug": "willow-leaf-line",
+    "name_en": "Willow-leaf Line",
+    "name_zh": "柳叶描",
+    "description_en": "Chinese Eighteen Strokes drapery line: slender, slightly curved contours that taper at both ends like willow leaves.",
+    "description_zh": "十八描之一：纤细微曲、两端尖收如柳叶的衣纹线描。",
+    "source": "hermes-explore",
+    "image": "styles/534-willow-leaf-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h492",
+    "slug": "blanc-de-chine",
+    "name_en": "Blanc de Chine",
+    "name_zh": "德化白瓷",
+    "description_en": "Dehua ivory-white porcelain: unctuous translucent glaze, modeled relief, almost no polychrome, satiny kiln sheen.",
+    "description_zh": "德化白瓷：脂玉般透光釉、塑形浮雕、几乎无彩，窑烧缎面光泽。",
+    "source": "hermes-explore",
+    "image": "styles/535-blanc-de-chine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h493",
+    "slug": "nishijin-ori",
+    "name_en": "Nishijin-ori",
+    "name_zh": "西阵织",
+    "description_en": "Kyoto ceremonial brocade: supplementary-weft gold and colored silk, dense karakusa and geometric repeats, woven not printed.",
+    "description_zh": "京都西阵织金锦：金银与彩丝辅纬、唐草与几何密纹，织成而非印染。",
+    "source": "hermes-explore",
+    "image": "styles/536-nishijin-ori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h494",
+    "slug": "tusche-wash",
+    "name_en": "Tusche Wash",
+    "name_zh": "药墨渲染",
+    "description_en": "Lithographic tusche on stone: greasy black wash, reticulated drying edges, crayon scumble and spatter on print paper.",
+    "description_zh": "石版药墨：油脂黑渲染、干边网裂、蜡笔擦涂与飞溅于印纸。",
+    "source": "hermes-explore",
+    "image": "styles/537-tusche-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h495",
+    "slug": "red-figure",
+    "name_en": "Red-figure",
+    "name_zh": "红绘陶",
+    "description_en": "Attic red-figure vase painting: reserved orange clay figures, glossy black slip ground, inner details in dilute relief line.",
+    "description_zh": "阿提卡红绘陶：留出橙红陶土人物、黑亮泥釉底，淡釉浮雕线刻画细节。",
+    "source": "hermes-explore",
+    "image": "styles/538-red-figure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -1381,6 +1381,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 533, PNG count 533. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 99 (exactly 5, h491–h495)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh    | image                              |
+|------|-------------------|------------|------------------------------------|
+| h491 | Willow-leaf Line  | 柳叶描     | styles/534-willow-leaf-line.png    |
+| h492 | Blanc de Chine    | 德化白瓷   | styles/535-blanc-de-chine.png      |
+| h493 | Nishijin-ori      | 西阵织     | styles/536-nishijin-ori.png        |
+| h494 | Tusche Wash       | 药墨渲染   | styles/537-tusche-wash.png         |
+| h495 | Red-figure        | 红绘陶     | styles/538-red-figure.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 538, PNG count 538. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
