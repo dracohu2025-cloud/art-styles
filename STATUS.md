@@ -1002,6 +1002,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 398, PNG count 398. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 72 (exactly 5, h356–h360)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh         | image                           |
+|------|----------------|-----------------|---------------------------------|
+| h356 | Cosmatesque    | 科斯马蒂嵌石    | styles/399-cosmatesque.png      |
+| h357 | Surimono       | 摺物            | styles/400-surimono.png         |
+| h358 | Kerala Mural   | 喀拉拉壁画      | styles/401-kerala-mural.png     |
+| h359 | Favrile        | 法夫莱玻璃      | styles/402-favrile.png          |
+| h360 | Patachitra     | 帕塔绘画        | styles/403-patachitra.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 403, PNG count 403. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

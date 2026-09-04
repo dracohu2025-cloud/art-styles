@@ -5172,5 +5172,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h356",
+    "slug": "cosmatesque",
+    "name_en": "Cosmatesque",
+    "name_zh": "科斯马蒂嵌石",
+    "description_en": "Cosmatesque marble inlay: porphyry discs, serpentine triangles, guilloche bands, white marble and gold tesserae, Cosmati pavement geometry.",
+    "description_zh": "科斯马蒂嵌石：斑岩圆盘、蛇纹石三角、绞丝带饰、白大理石与金嵌片、科斯马蒂地坪几何。",
+    "source": "hermes-explore",
+    "image": "styles/399-cosmatesque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h357",
+    "slug": "surimono",
+    "name_en": "Surimono",
+    "name_zh": "摺物",
+    "description_en": "Deluxe Edo surimono woodblock: mica-sparkle ground, karazuri blind emboss, fine mineral color, small-edition poem-print craft without lettering.",
+    "description_zh": "江户摺物木版：云母闪光底、空摺浮凸、精细矿物色、私家诗笺工艺且无文字。",
+    "source": "hermes-explore",
+    "image": "styles/400-surimono.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h358",
+    "slug": "kerala-mural",
+    "name_en": "Kerala Mural",
+    "name_zh": "喀拉拉壁画",
+    "description_en": "Kerala temple mural: laterite red and ochre, lampblack outline, fresco-secco on plaster, elongated eyes, ornamental jewelry as painted pattern.",
+    "description_zh": "喀拉拉神庙壁画：红土赭石、灯黑勾线、干壁画灰泥、修长眼型、饰件作图案而非实物。",
+    "source": "hermes-explore",
+    "image": "styles/401-kerala-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h359",
+    "slug": "favrile",
+    "name_en": "Favrile",
+    "name_zh": "法夫莱玻璃",
+    "description_en": "Tiffany Favrile glass: molten iridescent luster, peacock oil-slick sheen, translucent art-nouveau volumes, gold-pink-teal blown-glass refraction.",
+    "description_zh": "蒂芙尼法夫莱玻璃：熔融虹彩金属光、孔雀油膜色泽、新艺术半透明体量、金粉青绿吹制折射。",
+    "source": "hermes-explore",
+    "image": "styles/402-favrile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h360",
+    "slug": "patachitra",
+    "name_en": "Patachitra",
+    "name_zh": "帕塔绘画",
+    "description_en": "Odisha patachitra: lampblack contour on cotton, flat mineral red-yellow-green-white, floral border registers, cloth-scroll painting craft.",
+    "description_zh": "奥里萨帕塔绘画：棉地灯黑勾线、平涂矿物红黄绿白、花边栏框、布卷轴画工艺。",
+    "source": "hermes-explore",
+    "image": "styles/403-patachitra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
