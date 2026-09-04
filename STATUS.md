@@ -1142,6 +1142,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 448, PNG count 448. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 82 (exactly 5, h406–h410)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h406 | Ox-hair Cun        | 牛毛皴      | styles/449-ox-hair-cun.png         |
+| h407 | Soak-Stain         | 浸泡染色    | styles/450-soak-stain.png          |
+| h408 | Imari              | 伊万里      | styles/451-imari.png               |
+| h409 | Iron-wire Drawing  | 铁线描      | styles/452-iron-wire-drawing.png   |
+| h410 | Kishangarh         | 基尚加尔    | styles/453-kishangarh.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 453, PNG count 453. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

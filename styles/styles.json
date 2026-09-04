@@ -5822,5 +5822,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h406",
+    "slug": "ox-hair-cun",
+    "name_en": "Ox-hair Cun",
+    "name_zh": "牛毛皴",
+    "description_en": "Ox-hair cun: dense wiry overlapping texture strokes covering rock mass like ox hair, tighter than hemp-fiber, not axe-cut, raindrop, or Mi-dot.",
+    "description_zh": "牛毛皴：细密卷曲交叠的牛毛状皴纹覆山石，紧于披麻，非斧劈、雨点或米点。",
+    "source": "hermes-explore",
+    "image": "styles/449-ox-hair-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h407",
+    "slug": "soak-stain",
+    "name_en": "Soak-Stain",
+    "name_zh": "浸泡染色",
+    "description_en": "Soak-stain: thinned pigment blooming into unprimed canvas weave as translucent veils, soft bleeds, no impasto or hard contour.",
+    "description_zh": "浸泡染色：稀释颜料渗入生画布织纹成半透明色晕，软渗边，无厚涂与硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/450-soak-stain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h408",
+    "slug": "imari",
+    "name_en": "Imari",
+    "name_zh": "伊万里",
+    "description_en": "Imari: Arita overglaze picture — underglaze cobalt, iron-red enamel, gilt brocade on white porcelain ground, not a ceramic-object product shot.",
+    "description_zh": "伊万里：有田上绘画面——釉下钴蓝、铁红珐琅与金彩锦地白瓷底，非瓷器静物产品照。",
+    "source": "hermes-explore",
+    "image": "styles/451-imari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h409",
+    "slug": "iron-wire-drawing",
+    "name_en": "Iron-wire Drawing",
+    "name_zh": "铁线描",
+    "description_en": "Iron-wire drawing: even-width unmodulated ink contours like drawn iron wire, no calligraphic swell, pale mineral wash on silk.",
+    "description_zh": "铁线描：粗细均匀如铁丝的墨线轮廓，无书法提按，绢上淡矿彩。",
+    "source": "hermes-explore",
+    "image": "styles/452-iron-wire-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h410",
+    "slug": "kishangarh",
+    "name_en": "Kishangarh",
+    "name_zh": "基尚加尔",
+    "description_en": "Kishangarh miniature: elongated lotus-petal eyes, arched brow, swan neck, jewel opaque watercolor on wasli, moonlit lake terrace.",
+    "description_zh": "基尚加尔细密画：修长莲瓣眼、高眉、鹅颈，不透明水彩于瓦斯利纸，月湖台榭。",
+    "source": "hermes-explore",
+    "image": "styles/453-kishangarh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
