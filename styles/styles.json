@@ -4782,5 +4782,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h326",
+    "slug": "sienese-school",
+    "name_en": "Sienese School",
+    "name_zh": "锡耶纳画派",
+    "description_en": "Trecento gold-ground tempera, punchwork halos, Gothic folds, jewel local color.",
+    "description_zh": "十四世纪金地蛋彩、打制光环、哥特衣褶、宝石固有色。",
+    "source": "hermes-explore",
+    "image": "styles/369-sienese-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h327",
+    "slug": "veduta",
+    "name_en": "Veduta",
+    "name_zh": "实景画",
+    "description_en": "Topographic city view, ruled perspective, luminous sky, glassy canal masonry.",
+    "description_zh": "城市实景、精确透视、澄明天空、玻璃般运河砌石。",
+    "source": "hermes-explore",
+    "image": "styles/370-veduta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h328",
+    "slug": "fayum-portrait",
+    "name_en": "Fayum Portrait",
+    "name_zh": "法尤姆肖像",
+    "description_en": "Romano-Egyptian encaustic on wood, wax bloom, large catchlit eyes, linen clavus.",
+    "description_zh": "罗马埃及木板蜡画、蜡霜、大眼高光、亚麻镶边袍。",
+    "source": "hermes-explore",
+    "image": "styles/371-fayum-portrait.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h329",
+    "slug": "bogolanfini",
+    "name_en": "Bogolanfini",
+    "name_zh": "波戈兰泥染",
+    "description_en": "Malian mudcloth, fermented mud on cotton, graphic resist geometry, bone-and-earth.",
+    "description_zh": "马里泥染布、发酵泥绘棉、图形防染几何、骨白与土褐。",
+    "source": "hermes-explore",
+    "image": "styles/372-bogolanfini.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h330",
+    "slug": "skagen-school",
+    "name_en": "Skagen School",
+    "name_zh": "斯卡恩画派",
+    "description_en": "Danish coastal naturalism, silver-blue North Sea light, broken plein-air strokes.",
+    "description_zh": "丹麦海岸自然主义、银蓝北海光、外光碎笔。",
+    "source": "hermes-explore",
+    "image": "styles/373-skagen-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -918,6 +918,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 368, PNG count 368. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 66 (exactly 5, h326–h330)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh     | image                           |
+|------|-----------------|-------------|---------------------------------|
+| h326 | Sienese School  | 锡耶纳画派  | styles/369-sienese-school.png   |
+| h327 | Veduta          | 实景画      | styles/370-veduta.png           |
+| h328 | Fayum Portrait  | 法尤姆肖像  | styles/371-fayum-portrait.png   |
+| h329 | Bogolanfini     | 波戈兰泥染  | styles/372-bogolanfini.png      |
+| h330 | Skagen School   | 斯卡恩画派  | styles/373-skagen-school.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 373, PNG count 373. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
