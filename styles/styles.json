@@ -4587,5 +4587,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h311",
+    "slug": "tosa-school",
+    "name_en": "Tosa School",
+    "name_zh": "土佐派",
+    "description_en": "Tosa School: Yamato-e court painting, mineral pigments on gold-leaf paper, iron-wire outline, kasumi gold-mist bands, flattened stacked space.",
+    "description_zh": "土佐派：大和绘宫廷绘画、金地矿物色、铁线描、霞带金雾、平面叠景。",
+    "source": "hermes-explore",
+    "image": "styles/354-tosa-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h312",
+    "slug": "hague-school",
+    "name_en": "Hague School",
+    "name_zh": "海牙画派",
+    "description_en": "Hague School: 19th-century Dutch tonal oil, muted gray-green atmosphere, silvery overcast light, low-chroma broken brush, quiet wet sky.",
+    "description_zh": "海牙画派：十九世纪荷兰调性油画、灰绿低彩、银灰阴天光、克制笔触与湿润天空。",
+    "source": "hermes-explore",
+    "image": "styles/355-hague-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h313",
+    "slug": "bapo",
+    "name_en": "Bapo",
+    "name_zh": "八破",
+    "description_en": "Bapo: Chinese trompe-l'oeil of torn relics — painted calligraphy scraps, foxed pages, seals and wormholes overlapping as broken-paper collage.",
+    "description_zh": "八破：残破字画的中国视错觉画、撕裂书页、印鉴虫洞、重叠纸屑的绘成拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/356-bapo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h314",
+    "slug": "mola",
+    "name_en": "Mola",
+    "name_zh": "莫拉",
+    "description_en": "Mola: Guna reverse-appliqué, stacked cotton layers with channel cut-outs, nested geometric fillers, high-chroma cloth plane, stitched slit edges.",
+    "description_zh": "莫拉：库纳反向贴花、多层棉布开槽露色、几何填缝、高饱和布面与缝边。",
+    "source": "hermes-explore",
+    "image": "styles/357-mola.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h315",
+    "slug": "zenga",
+    "name_en": "Zenga",
+    "name_zh": "禅画",
+    "description_en": "Zenga: Zen ink painting, bold spontaneous sumi, spare empty space, calligraphic brush personality, abbreviated lively figure and a small red seal.",
+    "description_zh": "禅画：禅僧水墨、大胆即兴焦墨、大片留白、书法性笔意、简笔人物与小朱印。",
+    "source": "hermes-explore",
+    "image": "styles/358-zenga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

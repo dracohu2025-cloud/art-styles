@@ -876,6 +876,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 353, PNG count 353. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 63 (exactly 5, h311–h315)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en      | name_zh    | image                         |
+|------|--------------|------------|-------------------------------|
+| h311 | Tosa School  | 土佐派     | styles/354-tosa-school.png    |
+| h312 | Hague School | 海牙画派   | styles/355-hague-school.png   |
+| h313 | Bapo         | 八破       | styles/356-bapo.png           |
+| h314 | Mola         | 莫拉       | styles/357-mola.png           |
+| h315 | Zenga        | 禅画       | styles/358-zenga.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 358, PNG count 358. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
