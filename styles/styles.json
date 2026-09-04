@@ -5692,5 +5692,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h396",
+    "slug": "scottish-colourists",
+    "name_en": "Scottish Colourists",
+    "name_zh": "苏格兰色彩派",
+    "description_en": "Scottish Colourists oil: Iona-white interiors, cadmium and cobalt planes, black-outlined still life, Fauvist-derived opaque blocks.",
+    "description_zh": "苏格兰色彩派：爱奥那白室内、镉黄与钴蓝色块、黑线静物、野兽派式不透明色面。",
+    "source": "hermes-explore",
+    "image": "styles/439-scottish-colourists.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h397",
+    "slug": "fete-galante",
+    "name_en": "Fête Galante",
+    "name_zh": "游乐画",
+    "description_en": "Fête galante: Watteau parkland rococo, silk-sheen pastel, feathery trees, pearly twilight, theatrical garden architecture.",
+    "description_zh": "游乐画：华托式园林洛可可、缎光粉彩、羽毛状林木、珍珠暮光、剧场化园景建筑。",
+    "source": "hermes-explore",
+    "image": "styles/440-fete-galante.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h398",
+    "slug": "kakiemon",
+    "name_en": "Kakiemon",
+    "name_zh": "柿右卫门",
+    "description_en": "Kakiemon overglaze: milky nigoshide white, sparse iron-red turquoise cobalt gold enamel, asymmetric empty porcelain space.",
+    "description_zh": "柿右卫门：乳白浊手底、疏朗铁红青绿钴蓝金彩、不对称留白瓷面。",
+    "source": "hermes-explore",
+    "image": "styles/441-kakiemon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h399",
+    "slug": "early-netherlandish",
+    "name_en": "Early Netherlandish",
+    "name_zh": "早期尼德兰",
+    "description_en": "Early Netherlandish oil: jewel glazes, north-window light, microscopic interior, convex-mirror clarity, van Eyck layered medium.",
+    "description_zh": "早期尼德兰：宝石釉层、北窗冷光、微观室内、凸镜般清晰、扬·凡·艾克层层罩染。",
+    "source": "hermes-explore",
+    "image": "styles/442-early-netherlandish.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h400",
+    "slug": "hemp-fiber-cun",
+    "name_en": "Hemp-fiber Cun",
+    "name_zh": "披麻皴",
+    "description_en": "Hemp-fiber cun: long flexible pima strokes on rolling Jiangnan hills, Dong Yuan–Juran Southern School texture, wet layered ink.",
+    "description_zh": "披麻皴：长柔麻纤维皴纹覆江南丘壑、董源巨然南宗肌理、层层湿墨。",
+    "source": "hermes-explore",
+    "image": "styles/443-hemp-fiber-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

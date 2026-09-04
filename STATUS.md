@@ -1114,6 +1114,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 438, PNG count 438. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 80 (exactly 5, h396–h400)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en              | name_zh         | image                               |
+|------|----------------------|-----------------|-------------------------------------|
+| h396 | Scottish Colourists  | 苏格兰色彩派    | styles/439-scottish-colourists.png  |
+| h397 | Fête Galante         | 游乐画          | styles/440-fete-galante.png         |
+| h398 | Kakiemon             | 柿右卫门        | styles/441-kakiemon.png             |
+| h399 | Early Netherlandish  | 早期尼德兰      | styles/442-early-netherlandish.png  |
+| h400 | Hemp-fiber Cun       | 披麻皴          | styles/443-hemp-fiber-cun.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 443, PNG count 443. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
