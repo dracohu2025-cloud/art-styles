@@ -3417,5 +3417,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h221",
+    "slug": "impressionism",
+    "name_en": "Impressionism",
+    "name_zh": "印象派",
+    "description_en": "Impressionism: broken color, short complementary dabs, plein-air shimmer, no hard outlines, optical mix on canvas tooth.",
+    "description_zh": "印象派：色点分离、互补短笔触、外光颤动、无硬边线、画布齿纹上的光学混合。",
+    "source": "hermes-explore",
+    "image": "styles/264-impressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h222",
+    "slug": "pop-art",
+    "name_en": "Pop Art",
+    "name_zh": "波普艺术",
+    "description_en": "Pop Art: flat primary blocks, thick graphic contour, commercial silkscreen space, CMYK punch, poster-flat figure.",
+    "description_zh": "波普艺术：平涂原色块、粗黑轮廓、商业丝网空间、CMYK冲击、招贴式扁平人物。",
+    "source": "hermes-explore",
+    "image": "styles/265-pop-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h223",
+    "slug": "futurism",
+    "name_en": "Futurism",
+    "name_zh": "未来主义",
+    "description_en": "Italian Futurism: force lines, repeating limbs of speed, interpenetrating diagonals, dynamism and simultaneity.",
+    "description_zh": "未来主义：力线、速度重复肢体重影、斜向穿插块面、动态与同时性。",
+    "source": "hermes-explore",
+    "image": "styles/266-futurism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h224",
+    "slug": "photorealism",
+    "name_en": "Photorealism",
+    "name_zh": "照相写实",
+    "description_en": "Photorealism: painted-photograph fidelity, airbrush-smooth transitions, razor speculars, shallow depth of field.",
+    "description_zh": "照相写实：绘画级照片保真、气笔般平滑过渡、锐利高光、浅景深。",
+    "source": "hermes-explore",
+    "image": "styles/267-photorealism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h225",
+    "slug": "superflat",
+    "name_en": "Superflat",
+    "name_zh": "超扁平",
+    "description_en": "Superflat: unmodulated color fields, thin even outlines, figure and pattern on one plane, deliberate depthlessness.",
+    "description_zh": "超扁平：无明暗色域、均匀细线、人物与纹样同一平面、刻意取消纵深。",
+    "source": "hermes-explore",
+    "image": "styles/268-superflat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

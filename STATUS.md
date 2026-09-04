@@ -624,6 +624,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 263, PNG count 263. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 45 (exactly 5, h221–h225)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh     | image                         |
+|------|---------------|-------------|-------------------------------|
+| h221 | Impressionism | 印象派      | styles/264-impressionism.png  |
+| h222 | Pop Art       | 波普艺术    | styles/265-pop-art.png        |
+| h223 | Futurism      | 未来主义    | styles/266-futurism.png       |
+| h224 | Photorealism  | 照相写实    | styles/267-photorealism.png   |
+| h225 | Superflat     | 超扁平      | styles/268-superflat.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 268, PNG count 268. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
