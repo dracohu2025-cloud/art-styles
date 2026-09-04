@@ -4262,5 +4262,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h286",
+    "slug": "byzantine-icon",
+    "name_en": "Byzantine Icon",
+    "name_zh": "拜占庭圣像",
+    "description_en": "Byzantine icon: egg tempera on gessoed panel, punchwork gold-leaf halo, reverse perspective, chrysography, hieratic flattened space, craquelure gold ground.",
+    "description_zh": "拜占庭圣像：石膏地蛋彩、錾金光环、反向透视、描金高光、圣像式扁平空间、金地龟裂。",
+    "source": "hermes-explore",
+    "image": "styles/329-byzantine-icon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h287",
+    "slug": "mexican-muralism",
+    "name_en": "Mexican Muralism",
+    "name_zh": "墨西哥壁画",
+    "description_en": "Mexican Muralism: monumental buon fresco, earth-red indigo ochre masses, sculptural simplified volumes, plaster tooth, public-wall scale.",
+    "description_zh": "墨西哥壁画：巨幅湿壁画、土红靛蓝赭石色块、雕塑般简化体量、灰泥齿面、公共墙面尺度。",
+    "source": "hermes-explore",
+    "image": "styles/330-mexican-muralism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h288",
+    "slug": "delftware",
+    "name_en": "Delftware",
+    "name_zh": "代尔夫特蓝陶",
+    "description_en": "Delftware: cobalt underglaze on white tin glaze, blue-and-white only, baroque floral borders, tin-glaze crazing, fired ceramic sheen.",
+    "description_zh": "代尔夫特蓝陶：白锡釉钴蓝釉下彩、仅蓝白、巴洛克花卉边饰、锡釉开片、窑烧釉光。",
+    "source": "hermes-explore",
+    "image": "styles/331-delftware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h289",
+    "slug": "pop-surrealism",
+    "name_en": "Pop Surrealism",
+    "name_zh": "波普超现实",
+    "description_en": "Pop Surrealism: lowbrow enamel-smooth oil, porcelain skin, candy chroma against uncanny miniatures, velvet-dark ground, hyper-clean edges.",
+    "description_zh": "波普超现实：低俗艺术珐琅般平滑油彩、瓷感皮肤、糖果色对照诡异微缩物、丝绒暗底、超净边缘。",
+    "source": "hermes-explore",
+    "image": "styles/332-pop-surrealism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h290",
+    "slug": "quilling",
+    "name_en": "Quilling",
+    "name_zh": "衍纸",
+    "description_en": "Quilling: coiled teardrop and marquise paper filigree, dimensional strip relief, colored paper edges in raking light, no brush paint.",
+    "description_zh": "衍纸：卷曲泪滴与梭形纸丝、立体纸条浮雕、侧光下的彩纸切口、无笔触颜料。",
+    "source": "hermes-explore",
+    "image": "styles/333-quilling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

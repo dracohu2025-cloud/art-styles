@@ -806,6 +806,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 328, PNG count 328. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 58 (exactly 5, h286–h290)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                              |
+|------|--------------------|-----------------|------------------------------------|
+| h286 | Byzantine Icon     | 拜占庭圣像      | styles/329-byzantine-icon.png      |
+| h287 | Mexican Muralism   | 墨西哥壁画      | styles/330-mexican-muralism.png    |
+| h288 | Delftware          | 代尔夫特蓝陶    | styles/331-delftware.png           |
+| h289 | Pop Surrealism     | 波普超现实      | styles/332-pop-surrealism.png      |
+| h290 | Quilling           | 衍纸            | styles/333-quilling.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 333, PNG count 333. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
