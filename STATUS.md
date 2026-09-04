@@ -680,6 +680,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 283, PNG count 283. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 49 (exactly 5, h241–h245)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh         | image                           |
+|------|----------------|-----------------|---------------------------------|
+| h241 | Romanticism    | 浪漫主义        | styles/284-romanticism.png      |
+| h242 | Pre-Raphaelite | 前拉斐尔派      | styles/285-pre-raphaelite.png   |
+| h243 | Color Field    | 色域绘画        | styles/286-color-field.png      |
+| h244 | Tachisme       | 塔希主义        | styles/287-tachisme.png         |
+| h245 | Synchromism    | 同步色彩主义    | styles/288-synchromism.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 288, PNG count 288. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

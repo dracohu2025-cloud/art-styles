@@ -3677,5 +3677,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h241",
+    "slug": "romanticism",
+    "name_en": "Romanticism",
+    "name_zh": "浪漫主义",
+    "description_en": "Romanticism: sublime storm-light, tiny figure against nature, ochre-slate oils, scumbled mist.",
+    "description_zh": "浪漫主义：崇高风暴光、人小于自然、赭灰油彩、擦涂薄雾。",
+    "source": "hermes-explore",
+    "image": "styles/284-romanticism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h242",
+    "slug": "pre-raphaelite",
+    "name_en": "Pre-Raphaelite",
+    "name_zh": "前拉斐尔派",
+    "description_en": "Pre-Raphaelite: jewel local color, enamel finish, hyper-clear botany, medievalizing costume.",
+    "description_zh": "前拉斐尔派：宝石固有色、珐琅般罩染、极清植物、中世纪化服饰。",
+    "source": "hermes-explore",
+    "image": "styles/285-pre-raphaelite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h243",
+    "slug": "color-field",
+    "name_en": "Color Field",
+    "name_zh": "色域绘画",
+    "description_en": "Color Field: soaked unmodulated hue planes, soft blooming edges, stain on canvas weave.",
+    "description_zh": "色域绘画：浸泡无调制色面、柔边晕开、画布织纹染色。",
+    "source": "hermes-explore",
+    "image": "styles/286-color-field.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h244",
+    "slug": "tachisme",
+    "name_en": "Tachisme",
+    "name_zh": "塔希主义",
+    "description_en": "Tachisme: lyrical stains, spatters, calligraphic blobs, chance pours, canvas ground showing.",
+    "description_zh": "塔希主义：抒情渍斑、飞溅、书法式色块、偶然倾倒、画布底显露。",
+    "source": "hermes-explore",
+    "image": "styles/287-tachisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h245",
+    "slug": "synchromism",
+    "name_en": "Synchromism",
+    "name_zh": "同步色彩主义",
+    "description_en": "Synchromism: color as musical scale, prismatic wheels, form built from spectral chords.",
+    "description_zh": "同步色彩主义：色彩如音阶、棱镜色轮、形体由光谱和弦构成。",
+    "source": "hermes-explore",
+    "image": "styles/288-synchromism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
