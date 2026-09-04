@@ -5302,5 +5302,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h366",
+    "slug": "limoges-enamel",
+    "name_en": "Limoges Enamel",
+    "name_zh": "利摩日珐琅",
+    "description_en": "Painted vitreous enamel on copper: translucent jewel glazes, gold paillon, fired gloss and craquelure.",
+    "description_zh": "铜胎画珐琅：透明宝石釉、金箔衬、烧成光泽与釉裂。",
+    "source": "hermes-explore",
+    "image": "styles/409-limoges-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h367",
+    "slug": "mysore-painting",
+    "name_en": "Mysore Painting",
+    "name_zh": "迈索尔绘画",
+    "description_en": "South Indian court painting on gessoed cloth: vegetable dyes, low-relief gold, thin outline, no Tanjore gem bosses.",
+    "description_zh": "南印度宫廷布面画：植物颜料、浅浮雕金饰、细线，无坦焦尔宝石凸饰。",
+    "source": "hermes-explore",
+    "image": "styles/410-mysore-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h368",
+    "slug": "deccani-miniature",
+    "name_en": "Deccani Miniature",
+    "name_zh": "德干细密画",
+    "description_en": "Bijapur–Golconda miniature: lilac-gold sky, elongated figure, jeweled textiles, flattened decorative space.",
+    "description_zh": "比贾布尔—戈尔康达细密画：紫金天空、修长人物、珠宝织物、平面装饰空间。",
+    "source": "hermes-explore",
+    "image": "styles/411-deccani-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h369",
+    "slug": "cold-wax",
+    "name_en": "Cold Wax",
+    "name_zh": "冷蜡画",
+    "description_en": "Oil mixed with cold beeswax: matte velvety scrape, broken color, no torch-fused encaustic gloss.",
+    "description_zh": "冷蜂蜡调油：哑光刮层、断色，无热蜡画熔烧光泽。",
+    "source": "hermes-explore",
+    "image": "styles/412-cold-wax.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h370",
+    "slug": "romanesque",
+    "name_en": "Romanesque",
+    "name_zh": "罗马式",
+    "description_en": "Romanesque mural: heavy contour, flattened hieratic space, ochre and terre-verte arcade, apse fresco-secco.",
+    "description_zh": "罗马式壁画：粗轮廓、平面圣像空间、赭石与绿土拱廊、半圆室干壁画。",
+    "source": "hermes-explore",
+    "image": "styles/413-romanesque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

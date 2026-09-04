@@ -1030,6 +1030,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 408, PNG count 408. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 74 (exactly 5, h366–h370)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                             |
+|------|--------------------|-----------------|-----------------------------------|
+| h366 | Limoges Enamel     | 利摩日珐琅      | styles/409-limoges-enamel.png     |
+| h367 | Mysore Painting    | 迈索尔绘画      | styles/410-mysore-painting.png    |
+| h368 | Deccani Miniature  | 德干细密画      | styles/411-deccani-miniature.png  |
+| h369 | Cold Wax           | 冷蜡画          | styles/412-cold-wax.png           |
+| h370 | Romanesque         | 罗马式          | styles/413-romanesque.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 413, PNG count 413. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
