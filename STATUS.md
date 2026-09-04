@@ -1072,6 +1072,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 423, PNG count 423. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 77 (exactly 5, h381–h385)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh           | image                            |
+|------|-------------------|-------------------|----------------------------------|
+| h381 | Biedermeier       | 比德迈尔          | styles/424-biedermeier.png       |
+| h382 | Rajput Miniature  | 拉杰普特细密画    | styles/425-rajput-miniature.png  |
+| h383 | Nagasaki-e        | 长崎绘            | styles/426-nagasaki-e.png        |
+| h384 | Nikuhitsu-ga      | 肉笔画            | styles/427-nikuhitsu-ga.png      |
+| h385 | Doucai            | 斗彩              | styles/428-doucai.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 428, PNG count 428. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

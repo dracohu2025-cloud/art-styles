@@ -5497,5 +5497,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h381",
+    "slug": "biedermeier",
+    "name_en": "Biedermeier",
+    "name_zh": "比德迈尔",
+    "description_en": "Biedermeier oil: porcelain-smooth enamel, pale parlor daylight, honeyed walnut furniture, precise bourgeois local color.",
+    "description_zh": "比德迈尔油画：瓷滑釉面、客厅淡日光、蜜色胡桃木家具、市民精确固有色。",
+    "source": "hermes-explore",
+    "image": "styles/424-biedermeier.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h382",
+    "slug": "rajput-miniature",
+    "name_en": "Rajput Miniature",
+    "name_zh": "拉杰普特细密画",
+    "description_en": "Rajasthani court miniature: flat jewel gouache on wasli, thin red outline, almond-eye profile, palace architecture and gold.",
+    "description_zh": "拉杰普特宫廷细密画：宝石色不透明水彩、细红勾线、杏眼侧脸、宫殿与金饰。",
+    "source": "hermes-explore",
+    "image": "styles/425-rajput-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h383",
+    "slug": "nagasaki-e",
+    "name_en": "Nagasaki-e",
+    "name_zh": "长崎绘",
+    "description_en": "Nagasaki-school woodblock: late-Edo nishiki-e, Chinese-influenced mineral color, keyblock outline, Dutch-trade-port flattening.",
+    "description_zh": "长崎绘：幕末锦绘、唐风矿物颜料、墨线主版、荷兰贸易港式平透视。",
+    "source": "hermes-explore",
+    "image": "styles/426-nagasaki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h384",
+    "slug": "nikuhitsu-ga",
+    "name_en": "Nikuhitsu-ga",
+    "name_zh": "肉笔画",
+    "description_en": "Hand-painted ukiyo-e on silk: mineral pigment and gold, calligraphic outline, no woodblock keyblock, nikuhitsu silk ground.",
+    "description_zh": "肉笔浮世绘：绢本矿物颜料贴金、书法式勾线、非木版套印。",
+    "source": "hermes-explore",
+    "image": "styles/427-nikuhitsu-ga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h385",
+    "slug": "doucai",
+    "name_en": "Doucai",
+    "name_zh": "斗彩",
+    "description_en": "Chenghua-style doucai: underglaze cobalt contour filled with thin overglaze iron-red, yellow, apple-green and aubergine on white porcelain.",
+    "description_zh": "成化斗彩：釉下青花勾线、釉上矾红黄苹果绿茄紫薄彩填瓷白地。",
+    "source": "hermes-explore",
+    "image": "styles/428-doucai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
