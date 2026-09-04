@@ -946,6 +946,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 378, PNG count 378. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 68 (exactly 5, h336–h340)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh     | image                         |
+|------|---------------|-------------|-------------------------------|
+| h336 | Kuchi-e       | 口绘        | styles/379-kuchi-e.png        |
+| h337 | Mi-dot Cun    | 米点皴      | styles/380-mi-dot-cun.png     |
+| h338 | Photomontage  | 摄影蒙太奇  | styles/381-photomontage.png   |
+| h339 | Anamorphosis  | 变形透视    | styles/382-anamorphosis.png   |
+| h340 | Aerography    | 气刷喷绘    | styles/383-aerography.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 383, PNG count 383. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -4912,5 +4912,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h336",
+    "slug": "kuchi-e",
+    "name_en": "Kuchi-e",
+    "name_zh": "口绘",
+    "description_en": "Meiji–Taishō kuchi-e woodblock frontispiece: mica ground, bokashi plates, thin key-block, floral cartouche.",
+    "description_zh": "明治大正口绘木版：云母底、晕染色版、细墨线主版、花卉装饰框。",
+    "source": "hermes-explore",
+    "image": "styles/379-kuchi-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h337",
+    "slug": "mi-dot-cun",
+    "name_en": "Mi-dot Cun",
+    "name_zh": "米点皴",
+    "description_en": "Song Mi-dot cun: stacked wet horizontal ink dots, blunt stippled mountains, humid blotting, no linear contour.",
+    "description_zh": "宋代米点皴：横点积墨、圆钝点皴山体、湿墨晕化、不以线勾轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/380-mi-dot-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h338",
+    "slug": "photomontage",
+    "name_en": "Photomontage",
+    "name_zh": "摄影蒙太奇",
+    "description_en": "Dada/Constructivist photomontage: scissor-cut photo shards, torn newsprint, glue shadows, diagonal scale jumps.",
+    "description_zh": "达达/构成主义摄影蒙太奇：剪刀切碎照片、撕裂新闻纸、胶痕阴影、斜向尺度跳跃。",
+    "source": "hermes-explore",
+    "image": "styles/381-photomontage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h339",
+    "slug": "anamorphosis",
+    "name_en": "Anamorphosis",
+    "name_zh": "变形透视",
+    "description_en": "Anamorphosis: extreme oblique stretch, floor-plane shear, perspective grid, cylindrical-mirror optical warp.",
+    "description_zh": "变形透视：极端斜向拉伸、地平面剪切、透视网格、柱面镜光学矫正。",
+    "source": "hermes-explore",
+    "image": "styles/382-anamorphosis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h340",
+    "slug": "aerography",
+    "name_en": "Aerography",
+    "name_zh": "气刷喷绘",
+    "description_en": "Aerography airbrush: velvet spray gradients, masked soft edges, atomized pigment, overspray halo, no bristle strokes.",
+    "description_zh": "气刷喷绘：绒面喷雾渐变、遮罩软边、雾化颜料、过喷光晕、不见笔毫。",
+    "source": "hermes-explore",
+    "image": "styles/383-aerography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
