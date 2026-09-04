@@ -6862,5 +6862,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h486",
+    "slug": "nail-head-rat-tail-line",
+    "name_en": "Nail-head Rat-tail Line",
+    "name_zh": "钉头鼠尾描",
+    "description_en": "Classical Chinese figure contour: each stroke begins with a blunt nail-head accent and tapers to a long rat-tail point.",
+    "description_zh": "传统人物线描：起笔如钉头顿挫，收笔如鼠尾渐细的十八描之一。",
+    "source": "hermes-explore",
+    "image": "styles/529-nail-head-rat-tail-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h487",
+    "slug": "famille-verte",
+    "name_en": "Famille Verte",
+    "name_zh": "康熙五彩",
+    "description_en": "Kangxi overglaze enamel on white porcelain: iron-red, copper-green, yellow, aubergine and black outlines with fired ceramic sheen.",
+    "description_zh": "康熙朝白瓷上的釉上五彩：矾红、翠绿、黄、茄皮紫与墨线，窑烧珐琅光泽。",
+    "source": "hermes-explore",
+    "image": "styles/530-famille-verte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h488",
+    "slug": "songket",
+    "name_en": "Songket",
+    "name_zh": "宋葛织金",
+    "description_en": "Malay-Indonesian supplementary-weft brocade: extra gold and silver metallic threads woven into silk geometric ceremonial cloth.",
+    "description_zh": "马来—印尼织金锦：以金银辅纬在丝绸上织出几何纹样的礼仪织锦。",
+    "source": "hermes-explore",
+    "image": "styles/531-songket.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h489",
+    "slug": "shigaraki",
+    "name_en": "Shigaraki",
+    "name_zh": "信乐烧",
+    "description_en": "Japanese high-fired stoneware: coarse orange-brown body, bursting feldspar grit, natural wood-ash glaze runs and kiln scorch.",
+    "description_zh": "日本信乐窑高温炻器：橙褐粗胎、长石爆裂、自然灰釉流挂与火痕。",
+    "source": "hermes-explore",
+    "image": "styles/532-shigaraki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h490",
+    "slug": "meisen",
+    "name_en": "Meisen",
+    "name_zh": "铭仙",
+    "description_en": "Taisho–Showa stencil-dyed silk: bold graphic repeats with slightly blurred warp-and-weft dye edges on mill-woven kimono cloth.",
+    "description_zh": "大正—昭和铭仙：型染丝绸上大胆图形重复，经纬渗色边缘略带模糊。",
+    "source": "hermes-explore",
+    "image": "styles/533-meisen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

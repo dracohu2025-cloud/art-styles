@@ -1367,6 +1367,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 528, PNG count 528. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 98 (exactly 5, h486–h490)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh         | image                                    |
+|------|---------------------------|-----------------|------------------------------------------|
+| h486 | Nail-head Rat-tail Line   | 钉头鼠尾描      | styles/529-nail-head-rat-tail-line.png   |
+| h487 | Famille Verte             | 康熙五彩        | styles/530-famille-verte.png             |
+| h488 | Songket                   | 宋葛织金        | styles/531-songket.png                   |
+| h489 | Shigaraki                 | 信乐烧          | styles/532-shigaraki.png                 |
+| h490 | Meisen                    | 铭仙            | styles/533-meisen.png                    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 533, PNG count 533. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
