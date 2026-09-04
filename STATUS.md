@@ -974,6 +974,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 388, PNG count 388. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 70 (exactly 5, h346–h350)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh             | image                             |
+|------|--------------------|---------------------|-----------------------------------|
+| h346 | Nazarene           | 拿撒勒画派          | styles/389-nazarene.png           |
+| h347 | Düsseldorf School  | 杜塞尔多夫画派      | styles/390-dusseldorf-school.png  |
+| h348 | Newlyn School      | 纽林画派            | styles/391-newlyn-school.png      |
+| h349 | Bengal School      | 孟加拉画派          | styles/392-bengal-school.png      |
+| h350 | Glasgow Boys       | 格拉斯哥男孩画派    | styles/393-glasgow-boys.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 393, PNG count 393. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

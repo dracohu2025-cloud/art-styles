@@ -5042,5 +5042,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h346",
+    "slug": "nazarene",
+    "name_en": "Nazarene",
+    "name_zh": "拿撒勒画派",
+    "description_en": "Nazarene Movement painting: fresco-like tempera clarity, Perugino-linear contour, enamel local color, limestone cloister light.",
+    "description_zh": "拿撒勒画派：湿壁画般的蛋彩清晰度、佩鲁吉诺式线描、珐琅本地色、石灰石回廊光。",
+    "source": "hermes-explore",
+    "image": "styles/389-nazarene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h347",
+    "slug": "dusseldorf-school",
+    "name_en": "Düsseldorf School",
+    "name_zh": "杜塞尔多夫画派",
+    "description_en": "Düsseldorf School oil: highly finished academic glaze, theatrical cloud architecture, staged narrative landscape light.",
+    "description_zh": "杜塞尔多夫画派油画：高度完成的学院罩染、戏剧性云层结构、舞台化叙事风景光。",
+    "source": "hermes-explore",
+    "image": "styles/390-dusseldorf-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h348",
+    "slug": "newlyn-school",
+    "name_en": "Newlyn School",
+    "name_zh": "纽林画派",
+    "description_en": "Newlyn School naturalism: square-brush oil, silvery Cornish harbor daylight, wet cobbles, pewter-and-ochre working-clothes values.",
+    "description_zh": "纽林画派自然主义：方头笔油画、康沃尔港湾银灰日光、湿石板路、锡灰与赭石劳动服明度。",
+    "source": "hermes-explore",
+    "image": "styles/391-newlyn-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h349",
+    "slug": "bengal-school",
+    "name_en": "Bengal School",
+    "name_zh": "孟加拉画派",
+    "description_en": "Bengal School wash revival: transparent earth tempera, lyrical Ajanta-influenced line, umber-indigo-sage mist, reserved paper white.",
+    "description_zh": "孟加拉画派水洗复兴：透明土色蛋彩、阿旃陀影响的抒情线描、棕靛鼠尾草绿薄雾、留白纸地。",
+    "source": "hermes-explore",
+    "image": "styles/392-bengal-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h350",
+    "slug": "glasgow-boys",
+    "name_en": "Glasgow Boys",
+    "name_zh": "格拉斯哥男孩画派",
+    "description_en": "Glasgow Boys tonal oil: square-brush Scottish grey-green light, Whistler-Hague harmony, Japanese-print flattening in dress and foliage.",
+    "description_zh": "格拉斯哥男孩画派调性油画：方头笔苏格兰灰绿光、惠斯勒-海牙调和、服饰与树叶的日本版画平面化。",
+    "source": "hermes-explore",
+    "image": "styles/393-glasgow-boys.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
