@@ -820,6 +820,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 333, PNG count 333. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 59 (exactly 5, h291–h295)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                  | name_zh         | image                                    |
+|------|--------------------------|-----------------|------------------------------------------|
+| h291 | Dunhuang Mural           | 敦煌壁画        | styles/334-dunhuang-mural.png            |
+| h292 | American Regionalism     | 美国地方主义    | styles/335-american-regionalism.png      |
+| h293 | Yōga                     | 洋画            | styles/336-yoga.png                      |
+| h294 | Tingatinga               | 廷加廷加        | styles/337-tingatinga.png                |
+| h295 | Manuscript Illumination  | 泥金写本        | styles/338-manuscript-illumination.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 338, PNG count 338. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -4327,5 +4327,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h291",
+    "slug": "dunhuang-mural",
+    "name_en": "Dunhuang Mural",
+    "name_zh": "敦煌壁画",
+    "description_en": "Dunhuang mural: mineral pigment on cave plaster, malachite and azurite, cinnabar, flaking lime, Tang flying-ribbon line, oxidized black contour.",
+    "description_zh": "敦煌壁画：洞窟灰泥矿彩、石绿石青、朱砂、剥落石灰、唐飞天飘带线、氧化黑轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/334-dunhuang-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h292",
+    "slug": "american-regionalism",
+    "name_en": "American Regionalism",
+    "name_zh": "美国地方主义",
+    "description_en": "American Regionalism: smooth enamel-like oil, hard rounded volumes, stylized rolling farmland, 1930s American Scene mural rhythm.",
+    "description_zh": "美国地方主义：珐琅般平滑油彩、硬边浑圆体量、风格化起伏农田、三十年代美国风土壁画节奏。",
+    "source": "hermes-explore",
+    "image": "styles/335-american-regionalism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h293",
+    "slug": "yoga",
+    "name_en": "Yōga",
+    "name_zh": "洋画",
+    "description_en": "Yōga: Meiji–Taishō Western-style oil on canvas, academic bristle marks, plein-air flesh, Japanese subject in European oil method, not Nihonga.",
+    "description_zh": "洋画：明治大正西式油画、学院派笔触、外光肤色、以欧洲油彩画日本题材、非日本画矿彩。",
+    "source": "hermes-explore",
+    "image": "styles/336-yoga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h294",
+    "slug": "tingatinga",
+    "name_en": "Tingatinga",
+    "name_zh": "廷加廷加",
+    "description_en": "Tingatinga: household enamel on masonite, saturated flat fill, bold black outline, glossy sunbursts and patterned fauna, Dar es Salaam studio painting.",
+    "description_zh": "廷加廷加：纤维板上的家用磁漆、饱和平涂、粗黑轮廓、亮泽日轮与纹样鸟兽、达累斯萨拉姆作坊绘画。",
+    "source": "hermes-explore",
+    "image": "styles/337-tingatinga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h295",
+    "slug": "manuscript-illumination",
+    "name_en": "Manuscript Illumination",
+    "name_zh": "泥金写本",
+    "description_en": "Manuscript illumination: egg tempera and burnished gold on vellum, historiated miniature, Insular knotwork and Gothic ivy borders, lapis and vermilion.",
+    "description_zh": "泥金写本：羊皮纸上的蛋彩与打磨金箔、故事性细密、海岛结饰与哥特常春藤边框、群青与朱红。",
+    "source": "hermes-explore",
+    "image": "styles/338-manuscript-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
