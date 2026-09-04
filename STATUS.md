@@ -778,6 +778,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 318, PNG count 318. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 56 (exactly 5, h276–h280)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en              | name_zh         | image                                 |
+|------|----------------------|-----------------|---------------------------------------|
+| h276 | Shan Shui            | 山水            | styles/319-shan-shui.png              |
+| h277 | Naïve Art            | 稚拙艺术        | styles/320-naive-art.png              |
+| h278 | Psychedelia          | 迷幻艺术        | styles/321-psychedelia.png            |
+| h279 | Ashcan School        | 垃圾箱画派      | styles/322-ashcan-school.png          |
+| h280 | Hudson River School  | 哈德逊河画派    | styles/323-hudson-river-school.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 323, PNG count 323. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

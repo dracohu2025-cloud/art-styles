@@ -4132,5 +4132,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h276",
+    "slug": "shan-shui",
+    "name_en": "Shan Shui",
+    "name_zh": "山水",
+    "description_en": "Shan Shui: ink-and-wash landscape — hemp-fiber cun, misted mountain layers, empty-space water, mineral blue-green on silk.",
+    "description_zh": "山水：水墨山水——披麻皴、云雾层峦、留白江水、石青石绿绢本。",
+    "source": "hermes-explore",
+    "image": "styles/319-shan-shui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h277",
+    "slug": "naive-art",
+    "name_en": "Naïve Art",
+    "name_zh": "稚拙艺术",
+    "description_en": "Naïve art: flattened sincere perspective, oversized foliage, shadowless local color, meticulous childlike outline.",
+    "description_zh": "稚拙艺术：平面真诚透视、巨大花叶、无影固有色、细密稚拙轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/320-naive-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h278",
+    "slug": "psychedelia",
+    "name_en": "Psychedelia",
+    "name_zh": "迷幻艺术",
+    "description_en": "Psychedelia: 1960s poster swirl — molten contours, paisley optics, high-chroma complementary clash, blacklight neon inks.",
+    "description_zh": "迷幻艺术：六十年代海报涡旋——熔融轮廓、佩斯利视幻、高饱和补色对撞、黑光霓虹墨。",
+    "source": "hermes-explore",
+    "image": "styles/321-psychedelia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h279",
+    "slug": "ashcan-school",
+    "name_en": "Ashcan School",
+    "name_zh": "垃圾箱画派",
+    "description_en": "Ashcan School: urban realist oil — slashing dark brush, sooty brown-olive-slate, wet tenement street, unvarnished city light.",
+    "description_zh": "垃圾箱画派：都市写实油画——挥砍暗笔、煤褐橄榄石板色、湿漉贫民街、不加粉饰的城市光。",
+    "source": "hermes-explore",
+    "image": "styles/322-ashcan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h280",
+    "slug": "hudson-river-school",
+    "name_en": "Hudson River School",
+    "name_zh": "哈德逊河画派",
+    "description_en": "Hudson River School: American romantic landscape oil — luminous vast sky, meticulous wilderness, glowing atmospheric perspective.",
+    "description_zh": "哈德逊河画派：美国浪漫风景油画——浩瀚发光天空、精细荒野、辉映空气透视。",
+    "source": "hermes-explore",
+    "image": "styles/323-hudson-river-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
