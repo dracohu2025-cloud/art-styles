@@ -5887,5 +5887,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h411",
+    "slug": "lotus-leaf-cun",
+    "name_en": "Lotus-leaf Cun",
+    "name_zh": "荷叶皴",
+    "description_en": "Lotus-leaf cun: branching drying-lotus-leaf vein strokes forking across rock mass, reserved white cracks, not axe-cut, hemp-fiber, raindrop, or ox-hair.",
+    "description_zh": "荷叶皴：如干荷叶脉分叉的皴纹覆山石、留白裂纹，非斧劈、披麻、雨点或牛毛。",
+    "source": "hermes-explore",
+    "image": "styles/454-lotus-leaf-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h412",
+    "slug": "mitsuda-e",
+    "name_en": "Mitsuda-e",
+    "name_zh": "密陀绘",
+    "description_en": "Mitsuda-e: Nara litharge-oil painting, mineral color under warm amber varnish film, slight crackle, not urushi lacquer or ukiyo-e ink line.",
+    "description_zh": "密陀绘：奈良密陀僧油绘，矿彩覆暖琥珀漆膜、微裂，非漆绘或浮世绘墨线。",
+    "source": "hermes-explore",
+    "image": "styles/455-mitsuda-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h413",
+    "slug": "minai",
+    "name_en": "Minai",
+    "name_zh": "米奈彩绘",
+    "description_en": "Minai: Kashan overglaze enamel on tin-white glaze — turquoise, cobalt, iron-red, black contour, gold — pictorial field, not a ceramic-object product shot.",
+    "description_zh": "米奈彩绘：卡尚锡白釉上绘珐琅——青绿、钴蓝、铁红、黑线与金彩，画面铺满，非瓷器产品照。",
+    "source": "hermes-explore",
+    "image": "styles/456-minai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h414",
+    "slug": "viscosity-print",
+    "name_en": "Viscosity Print",
+    "name_zh": "黏度套色版画",
+    "description_en": "Viscosity print: simultaneous-color intaglio, inks of different oil viscosity on one plate, offset rainbow blends, plate-tone and platemark, not screenprint or lithograph.",
+    "description_zh": "黏度套色版画：同一凹版上不同油性黏度油墨同时上色、虹彩叠印、版痕与版调，非丝网或石版。",
+    "source": "hermes-explore",
+    "image": "styles/457-viscosity-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h415",
+    "slug": "fahua",
+    "name_en": "Fahua",
+    "name_zh": "珐华",
+    "description_en": "Fahua: Ming raised-slip enamel picture — turquoise, cobalt, aubergine, mustard, white pools divided by cloison-like ridges, not metal cloisonné or wucai, not a jar product shot.",
+    "description_zh": "珐华：明代立粉珐琅画面——青绿、钴蓝、茄皮紫、姜黄与白釉被立线分隔，非掐丝珐琅或五彩，非罐子产品照。",
+    "source": "hermes-explore",
+    "image": "styles/458-fahua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

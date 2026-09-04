@@ -1156,6 +1156,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 453, PNG count 453. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 83 (exactly 5, h411–h415)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en          | name_zh         | image                            |
+|------|------------------|-----------------|----------------------------------|
+| h411 | Lotus-leaf Cun   | 荷叶皴          | styles/454-lotus-leaf-cun.png    |
+| h412 | Mitsuda-e        | 密陀绘          | styles/455-mitsuda-e.png         |
+| h413 | Minai            | 米奈彩绘        | styles/456-minai.png             |
+| h414 | Viscosity Print  | 黏度套色版画    | styles/457-viscosity-print.png   |
+| h415 | Fahua            | 珐华            | styles/458-fahua.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 458, PNG count 458. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
