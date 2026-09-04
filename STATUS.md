@@ -1100,6 +1100,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 433, PNG count 433. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 79 (exactly 5, h391–h395)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh         | image                            |
+|------|-----------------|-----------------|----------------------------------|
+| h391 | Wucai           | 五彩            | styles/434-wucai.png             |
+| h392 | Ax-cut Cun      | 斧劈皴          | styles/435-ax-cut-cun.png        |
+| h393 | École de Paris  | 巴黎画派        | styles/436-ecole-de-paris.png    |
+| h394 | Emaki           | 绘卷            | styles/437-emaki.png             |
+| h395 | St Ives School  | 圣艾夫斯画派    | styles/438-st-ives-school.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 438, PNG count 438. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -5627,5 +5627,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h391",
+    "slug": "wucai",
+    "name_en": "Wucai",
+    "name_zh": "五彩",
+    "description_en": "Ming–Kangxi wucai overglaze enamel on white porcelain: iron-red, yellow, green, underglaze cobalt, aubergine, thin contour, firing speckle.",
+    "description_zh": "五彩：白瓷上铁红、黄、绿、釉下青花与茄紫低温釉上彩、细线、窑斑。",
+    "source": "hermes-explore",
+    "image": "styles/434-wucai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h392",
+    "slug": "ax-cut-cun",
+    "name_en": "Ax-cut Cun",
+    "name_zh": "斧劈皴",
+    "description_en": "Southern Song axe-cut texture stroke (fu pi cun): chopping angular ink facets on rock, wet mist, one-corner Ma-Xia composition, hemp paper.",
+    "description_zh": "斧劈皴：马夏一角、斧斫块面石纹、湿墨云气、麻纸。",
+    "source": "hermes-explore",
+    "image": "styles/435-ax-cut-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h393",
+    "slug": "ecole-de-paris",
+    "name_en": "École de Paris",
+    "name_zh": "巴黎画派",
+    "description_en": "School of Paris easel oil: earth reds, viridian, ivory black, thick cosmopolitan Montparnasse studio-cafe brush, 1910s–30s modernist figuration.",
+    "description_zh": "巴黎画派：土红翠绿象牙黑、蒙帕纳斯画室咖啡馆厚涂、一战前后世界主义人物油画。",
+    "source": "hermes-explore",
+    "image": "styles/436-ecole-de-paris.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h394",
+    "slug": "emaki",
+    "name_en": "Emaki",
+    "name_zh": "绘卷",
+    "description_en": "Japanese emakimono handscroll: horizontal continuous space, suyari-gasumi gold cloud bands, mineral pigment and ink on paper, unrolling narrative.",
+    "description_zh": "绘卷：横向连续空间、霞引金云、岩彩与墨、展开式叙事手卷。",
+    "source": "hermes-explore",
+    "image": "styles/437-emaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h395",
+    "slug": "st-ives-school",
+    "name_en": "St Ives School",
+    "name_zh": "圣艾夫斯画派",
+    "description_en": "Mid-century St Ives School: pale limestone harbor light, sea-grey and ochre constructive planes, whitewashed Cornish studio, abstracted boats.",
+    "description_zh": "圣艾夫斯画派：石灰白港光、海灰与赭石构成块面、康沃尔粉墙、几何化渔船。",
+    "source": "hermes-explore",
+    "image": "styles/438-st-ives-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
