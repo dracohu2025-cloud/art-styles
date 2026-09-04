@@ -3807,5 +3807,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h251",
+    "slug": "plakatstil",
+    "name_en": "Plakatstil",
+    "name_zh": "实物海报",
+    "description_en": "Plakatstil: reductive Sachplakat lithography, unmodulated ink fields, cream paper, silhouette-first, no gradient or halftone.",
+    "description_zh": "实物海报：减法式商业石版、无调制色面、乳色纸、剪影优先、无渐变网点。",
+    "source": "hermes-explore",
+    "image": "styles/294-plakatstil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h252",
+    "slug": "hyperrealism",
+    "name_en": "Hyperrealism",
+    "name_zh": "超写实主义",
+    "description_en": "Hyperrealism: enamel-smooth oil hiding brush, pore-scale skin, colder-than-photo clarity, counted fabric weave, studio speculars.",
+    "description_zh": "超写实主义：隐笔珐琅油彩、毛孔级皮肤、冷于照片的清晰、织物经纬可数、工作室高光。",
+    "source": "hermes-explore",
+    "image": "styles/295-hyperrealism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h253",
+    "slug": "cobra",
+    "name_en": "CoBrA",
+    "name_zh": "眼镜蛇画派",
+    "description_en": "CoBrA: primal childlike contour, violent primary slabs, thick impasto, raw canvas, spontaneous folk-brutal gesture.",
+    "description_zh": "眼镜蛇画派：原始稚拙轮廓、猛烈原色块、厚堆颜料、裸画布、即兴民俗暴烈笔势。",
+    "source": "hermes-explore",
+    "image": "styles/296-cobra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h254",
+    "slug": "neue-sachlichkeit",
+    "name_en": "Neue Sachlichkeit",
+    "name_zh": "新客观主义",
+    "description_en": "Neue Sachlichkeit: cold unsentimental contour, glassy enamel skin, hard local color, clinical daylight, veristic stillness.",
+    "description_zh": "新客观主义：冷硬无情轮廓、玻璃珐琅肤色、硬固有色、临床日光、写实静凝。",
+    "source": "hermes-explore",
+    "image": "styles/297-neue-sachlichkeit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h255",
+    "slug": "japonisme",
+    "name_en": "Japonisme",
+    "name_zh": "日本主义",
+    "description_en": "Japonisme: Western oil absorbing ukiyo-e space — high horizon, decorative pattern fields, cropped screens and fans, gold-leaf accents.",
+    "description_zh": "日本主义：西方油彩吸收浮世绘空间——高视平、装饰纹样色域、裁切屏风扇面、金箔点缀。",
+    "source": "hermes-explore",
+    "image": "styles/298-japonisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

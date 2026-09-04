@@ -708,6 +708,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 293, PNG count 293. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 51 (exactly 5, h251–h255)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                                |
+|------|--------------------|-----------------|--------------------------------------|
+| h251 | Plakatstil         | 实物海报        | styles/294-plakatstil.png            |
+| h252 | Hyperrealism       | 超写实主义      | styles/295-hyperrealism.png          |
+| h253 | CoBrA              | 眼镜蛇画派      | styles/296-cobra.png                 |
+| h254 | Neue Sachlichkeit  | 新客观主义      | styles/297-neue-sachlichkeit.png     |
+| h255 | Japonisme          | 日本主义        | styles/298-japonisme.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 298, PNG count 298. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
