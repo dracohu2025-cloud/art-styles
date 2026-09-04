@@ -3547,5 +3547,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h231",
+    "slug": "suprematism",
+    "name_en": "Suprematism",
+    "name_zh": "至上主义",
+    "description_en": "Suprematism: floating squares and bars, limited black-white-red-yellow-blue, flat non-illusionistic planes.",
+    "description_zh": "至上主义：漂浮方块与色条、黑白红黄蓝限定色、平坦非幻觉色面。",
+    "source": "hermes-explore",
+    "image": "styles/274-suprematism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h232",
+    "slug": "vorticism",
+    "name_en": "Vorticism",
+    "name_zh": "漩涡主义",
+    "description_en": "Vorticism: angular machine-age shards, diagonal vortex geometry, khaki-steel-crimson facets.",
+    "description_zh": "漩涡主义：机械时代棱角碎片、斜向漩涡几何、卡其钢色与绯红切面。",
+    "source": "hermes-explore",
+    "image": "styles/275-vorticism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h233",
+    "slug": "rayonism",
+    "name_en": "Rayonism",
+    "name_zh": "射线主义",
+    "description_en": "Rayonism: intersecting prismatic light-rays, crossed colored beams, forms dissolved into radiating energy.",
+    "description_zh": "射线主义：交叉棱镜光射线、彩色光束叠穿、形体溶解为放射能量。",
+    "source": "hermes-explore",
+    "image": "styles/276-rayonism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h234",
+    "slug": "precisionism",
+    "name_en": "Precisionism",
+    "name_zh": "精确主义",
+    "description_en": "Precisionism: razor-sharp industrial geometry, smooth airbrushed planes, cool daylight cylinders and cubes.",
+    "description_zh": "精确主义：锋利工业几何、光滑喷绘色面、冷日光圆柱与立方体。",
+    "source": "hermes-explore",
+    "image": "styles/277-precisionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h235",
+    "slug": "orphism",
+    "name_en": "Orphism",
+    "name_zh": "俄耳甫斯主义",
+    "description_en": "Orphism: simultaneous contrasting color disks, circular chromatic rhythms, prismatic translucent orbs.",
+    "description_zh": "俄耳甫斯主义：同时对比色环、圆形色彩节奏、半透明棱镜色盘。",
+    "source": "hermes-explore",
+    "image": "styles/278-orphism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

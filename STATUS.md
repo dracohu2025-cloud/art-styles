@@ -652,6 +652,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 273, PNG count 273. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 47 (exactly 5, h231–h235)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en      | name_zh         | image                         |
+|------|--------------|-----------------|-------------------------------|
+| h231 | Suprematism  | 至上主义        | styles/274-suprematism.png    |
+| h232 | Vorticism    | 漩涡主义        | styles/275-vorticism.png      |
+| h233 | Rayonism     | 射线主义        | styles/276-rayonism.png       |
+| h234 | Precisionism | 精确主义        | styles/277-precisionism.png   |
+| h235 | Orphism      | 俄耳甫斯主义    | styles/278-orphism.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 278, PNG count 278. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
