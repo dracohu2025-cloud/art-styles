@@ -6407,5 +6407,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h451",
+    "slug": "buncheong",
+    "name_en": "Buncheong",
+    "name_zh": "粉青沙器",
+    "description_en": "Buncheong: Korean gray-green stoneware as the image method—white slip inlay and stamping, iron-brown underglaze brush, ash-glaze pooling; not celadon porcelain, not Cizhou, not Mishima, not Bizen.",
+    "description_zh": "粉青沙器：以高丽灰绿炻器入画，白化妆土镶嵌戳印、铁绘与灰釉积釉构成画面，非青瓷，非磁州，非三岛嵌，亦非备前。",
+    "source": "hermes-explore",
+    "image": "styles/494-buncheong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h452",
+    "slug": "phulkari",
+    "name_en": "Phulkari",
+    "name_zh": "普尔卡里绣",
+    "description_en": "Phulkari: Punjabi darned-stitch silk floss on khaddar as the image method—geometric floral lozenges, bagh-like fill, cloth ground as negative space; not kantha running stitch, not crewel, not hardanger, not suzani.",
+    "description_zh": "普尔卡里绣：以旁遮普粗棉上缎光丝线挑花入画，几何花菱与满铺巴格填针构成画面，非康塔走针，非绉线绣，非哈当厄尔，亦非苏扎尼。",
+    "source": "hermes-explore",
+    "image": "styles/495-phulkari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h453",
+    "slug": "karatsu",
+    "name_en": "Karatsu",
+    "name_zh": "唐津",
+    "description_en": "Karatsu: Japanese tea-ware stoneware as the image method—iron-brown e-Karatsu brush, hakeme slip streaks, wood-ash crawl and kiln blush; not Bizen unglazed, not Shino feldspar white, not Oribe copper green, not Tenmoku.",
+    "description_zh": "唐津：以日本茶陶炻器入画，绘唐津铁绘、刷毛目白化妆与灰釉缩釉窑变构成画面，非备前裸烧，非志野长石白，非织部铜绿，亦非天目。",
+    "source": "hermes-explore",
+    "image": "styles/496-karatsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h454",
+    "slug": "scattered-firewood-cun",
+    "name_en": "Scattered-firewood Cun",
+    "name_zh": "乱柴皴",
+    "description_en": "Scattered-firewood Cun: Chinese landscape texture of jagged crossed stick-like strokes as the image method—dry brush, flying-white splits, piled-twig ink; not axe-cut, not hemp-fiber, not unravelled-rope, not devil-face, not rain-eroded wall.",
+    "description_zh": "乱柴皴：以交错柴枝般的干笔皴法入画，飞白与叠枝墨线构成山石肌理，非斧劈皴，非披麻皴，非解索皴，非鬼面皴，亦非雨淋墙头皴。",
+    "source": "hermes-explore",
+    "image": "styles/497-scattered-firewood-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h455",
+    "slug": "oil-print",
+    "name_en": "Oil Print",
+    "name_zh": "油彩印相",
+    "description_en": "Oil Print: Rawlins dichromated-gelatin oil process as the image method—greasy lithographic ink rolled into a gelatin matrix, velvety pigment grain, cream paper lights; not bromoil, not gumoil, not carbon print, not gelatin silver.",
+    "description_zh": "油彩印相：以罗林斯重铬酸盐明胶油墨工艺入画，油脂石版墨滚入胶膜、绒面色粉颗粒与乳白高光构成画面，非溴油，非树胶油彩印相，非碳印，亦非明胶银盐。",
+    "source": "hermes-explore",
+    "image": "styles/498-oil-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

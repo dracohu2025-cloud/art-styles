@@ -1269,6 +1269,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 493, PNG count 493. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 91 (exactly 5, h451–h455)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                 | name_zh         | image                                     |
+|------|-------------------------|-----------------|-------------------------------------------|
+| h451 | Buncheong               | 粉青沙器        | styles/494-buncheong.png                  |
+| h452 | Phulkari                | 普尔卡里绣      | styles/495-phulkari.png                   |
+| h453 | Karatsu                 | 唐津            | styles/496-karatsu.png                    |
+| h454 | Scattered-firewood Cun  | 乱柴皴          | styles/497-scattered-firewood-cun.png     |
+| h455 | Oil Print               | 油彩印相        | styles/498-oil-print.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 498, PNG count 498. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
