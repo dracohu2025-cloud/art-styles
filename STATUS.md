@@ -1283,6 +1283,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 498, PNG count 498. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 92 (exactly 5, h456–h460)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh         | image                              |
+|------|-------------------|-----------------|------------------------------------|
+| h456 | Cizhou            | 磁州窑          | styles/499-cizhou.png              |
+| h457 | Alum-head Cun     | 矾头皴          | styles/500-alum-head-cun.png       |
+| h458 | Chikankari        | 奇坎卡里白绣    | styles/501-chikankari.png          |
+| h459 | Manière Criblée   | 密点金属凸版    | styles/502-maniere-criblee.png     |
+| h460 | Kente             | 肯泰织          | styles/503-kente.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 503, PNG count 503. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -6472,5 +6472,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h456",
+    "slug": "cizhou",
+    "name_en": "Cizhou",
+    "name_zh": "磁州窑",
+    "description_en": "Cizhou: north-China stoneware painting as the image method—creamy white slip, bold black iron-oxide brushwork and sgraffito through slip to the grey body, folk-ceramic graphic contrast; not blue-and-white porcelain, not buncheong, not famille rose, not sometsuke.",
+    "description_zh": "磁州窑：以华北化妆土彩绘入画，乳白化妆土、铁绘黑彩与划花露胎构成画面，民间陶瓷的黑白对照，非青花瓷，非粉青沙器，非粉彩，亦非染付。",
+    "source": "hermes-explore",
+    "image": "styles/499-cizhou.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h457",
+    "slug": "alum-head-cun",
+    "name_en": "Alum-head Cun",
+    "name_zh": "矾头皴",
+    "description_en": "Alum-head Cun: Chinese landscape texture of clustered rounded boulder heads like alum crystals stacked on mountain crowns; not hemp-fiber cun, not ox-hair cun, not cloud-head cun, not raindrop cun, not mi-dot cun, not devil-face cun.",
+    "description_zh": "矾头皴：以山巅叠累如矾晶的浑圆石首入画，短裹轮廓聚成卵石颅顶，非披麻皴，非牛毛皴，非云头皴，非雨点皴，非米点皴，亦非鬼面皴。",
+    "source": "hermes-explore",
+    "image": "styles/500-alum-head-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h458",
+    "slug": "chikankari",
+    "name_en": "Chikankari",
+    "name_zh": "奇坎卡里白绣",
+    "description_en": "Chikankari: Lucknow white-on-white shadow-work embroidery as the image method—bakhiya showing through muslin, phanda knots, murri, jaali openwork, barely-tonal white thread on airy cotton; not phulkari, not kantha, not crewel, not hardanger.",
+    "description_zh": "奇坎卡里白绣：以勒克瑙白上白影绣入画，透纱的巴基亚暗针、结粒、穆里与贾利镂空构成画面，非普尔卡里绣，非康塔绣，非绒线绣，亦非哈当厄尔绣。",
+    "source": "hermes-explore",
+    "image": "styles/501-chikankari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h459",
+    "slug": "maniere-criblee",
+    "name_en": "Manière Criblée",
+    "name_zh": "密点金属凸版",
+    "description_en": "Manière Criblée: dotted-manner metalcut as the image method—a punched metal plate of white dots on a black field, criblé sparkle and incised outline on cream laid paper; not mezzotint, not stipple engraving, not niello, not steel engraving, not generic metalcut.",
+    "description_zh": "密点金属凸版：以点刻法冲点金属凸版入画，白星铺满黑地、轮廓阴刻印在米色手抄纸上，非美柔汀，非点刻铜版，非乌银镶嵌，非钢版雕刻，亦非泛称金属凸版。",
+    "source": "hermes-explore",
+    "image": "styles/502-maniere-criblee.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h460",
+    "slug": "kente",
+    "name_en": "Kente",
+    "name_zh": "肯泰织",
+    "description_en": "Kente: Ghanaian strip-woven cloth as the image method—narrow handwoven strips sewn into geometric weft blocks, silk-cotton sheen, gold-green-red-blue rectangles and chevrons; not adinkra stamp cloth, not bogolanfini, not ndebele mural, not kuba raffia.",
+    "description_zh": "肯泰织：以加纳窄幅条织入画，手工织条缝成几何纬块，丝棉光泽与金黄绿红蓝的矩形人字纹构成画面，非阿丁克拉印布，非博戈兰泥染，非恩德贝勒壁画，亦非库巴拉菲亚绒绣。",
+    "source": "hermes-explore",
+    "image": "styles/503-kente.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
