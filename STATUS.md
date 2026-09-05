@@ -1507,6 +1507,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 578, PNG count 578. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 108 (exactly 5, h536–h540)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh        | image                                |
+|------|--------------------|----------------|--------------------------------------|
+| h536 | Keum-boo           | 金附           | styles/579-keum-boo.png              |
+| h537 | Nunome-zōgan       | 布目象嵌       | styles/580-nunome-zogan.png          |
+| h538 | Flambé             | 窑变釉         | styles/581-flambe.png                |
+| h539 | Ise Katagami       | 伊勢型紙       | styles/582-ise-katagami.png          |
+| h540 | Tsuketate          | 付立           | styles/583-tsuketate.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 583, PNG count 583. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

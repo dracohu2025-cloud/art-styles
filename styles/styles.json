@@ -7512,5 +7512,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h536",
+    "slug": "keum-boo",
+    "name_en": "Keum-boo",
+    "name_zh": "金附",
+    "description_en": "Korean gold-foil fusion on darkened silver; raised 24k overlays, oxidized sterling ground.",
+    "description_zh": "韩国金箔熔附于氧化银地，浮起金纹、炭黑银底。",
+    "source": "hermes-explore",
+    "image": "styles/579-keum-boo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h537",
+    "slug": "nunome-zogan",
+    "name_en": "Nunome-zōgan",
+    "name_zh": "布目象嵌",
+    "description_en": "Cloth-grain metal inlay: nunome tooth chased into iron, gold and silver hammered into the mesh.",
+    "description_zh": "布目齿纹錾入铁地，金银锤入织物齿中。",
+    "source": "hermes-explore",
+    "image": "styles/580-nunome-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h538",
+    "slug": "flambe",
+    "name_en": "Flambé",
+    "name_zh": "窑变釉",
+    "description_en": "Copper-red kiln-change glaze: oxblood, strawberry, and violet-blue rivers pooling on porcelain.",
+    "description_zh": "铜红窑变釉，牛血红、草莓与紫蓝流釉汇积。",
+    "source": "hermes-explore",
+    "image": "styles/581-flambe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h539",
+    "slug": "ise-katagami",
+    "name_en": "Ise Katagami",
+    "name_zh": "伊勢型紙",
+    "description_en": "Carved persimmon-tanned mulberry stencil paper; lace-like knife cuts and ito-ire silk grid.",
+    "description_zh": "柿渋和纸型纸，细刀镂空与丝线加固网格。",
+    "source": "hermes-explore",
+    "image": "styles/582-ise-katagami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h540",
+    "slug": "tsuketate",
+    "name_en": "Tsuketate",
+    "name_zh": "付立",
+    "description_en": "Maruyama boneless wash: wet-into-wet volumetric ink with no contour outlines.",
+    "description_zh": "圆山派付立描，没骨湿墨塑形，不见勾勒。",
+    "source": "hermes-explore",
+    "image": "styles/583-tsuketate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
