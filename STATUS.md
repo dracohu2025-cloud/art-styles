@@ -1605,6 +1605,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 613, PNG count 613. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 115 (exactly 5, h571–h575)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en      | name_zh     | image                         |
+|------|--------------|-------------|-------------------------------|
+| h571 | Shibuichi    | 四分一      | styles/614-shibuichi.png      |
+| h572 | Tsuikin      | 堆锦漆      | styles/615-tsuikin.png        |
+| h573 | Qingbai      | 青白瓷      | styles/616-qingbai.png        |
+| h574 | Sommerso     | 套色玻璃    | styles/617-sommerso.png       |
+| h575 | Graal Glass  | 格拉尔玻璃  | styles/618-graal-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 618, PNG count 618. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

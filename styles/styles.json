@@ -7967,5 +7967,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h571",
+    "slug": "shibuichi",
+    "name_en": "Shibuichi",
+    "name_zh": "四分一",
+    "description_en": "Japanese irogane copper-silver alloy with muted grey-green patina, burnished pewter highlights, and faint gold flecks.",
+    "description_zh": "日本四分一铜银合金：灰绿锈色、锡灰高光与细金点。",
+    "source": "hermes-explore",
+    "image": "styles/614-shibuichi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h572",
+    "slug": "tsuikin",
+    "name_en": "Tsuikin",
+    "name_zh": "堆锦漆",
+    "description_en": "Ryukyuan colored-lacquer paste built in low relief on black urushi, then carved and polished into stacked pigment pads.",
+    "description_zh": "琉球堆锦：黑漆地上堆起彩漆膏，再雕磨成层叠色块。",
+    "source": "hermes-explore",
+    "image": "styles/615-tsuikin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h573",
+    "slug": "qingbai",
+    "name_en": "Qingbai",
+    "name_zh": "青白瓷",
+    "description_en": "Song bluish-white porcelain: thin ice-water glaze pooling in carved-slip recesses over a warm white body.",
+    "description_zh": "宋代青白瓷：薄釉呈冰水色，积于刻花凹处，胎色暖白。",
+    "source": "hermes-explore",
+    "image": "styles/616-qingbai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h574",
+    "slug": "sommerso",
+    "name_en": "Sommerso",
+    "name_zh": "套色玻璃",
+    "description_en": "Murano submerged glass: a saturated color core encased in thick clear cristallo with refractive edges.",
+    "description_zh": "穆拉诺套色玻璃：饱和色芯裹入厚透明水晶，边缘强折射。",
+    "source": "hermes-explore",
+    "image": "styles/617-sommerso.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h575",
+    "slug": "graal-glass",
+    "name_en": "Graal Glass",
+    "name_zh": "格拉尔玻璃",
+    "description_en": "Orrefors Graal overlay: interior color cut and engraved, then cased in clear crystal so the drawing sits under glass.",
+    "description_zh": "奥勒福斯格拉尔：内层彩色刻绘后再套透明水晶，图像藏于玻璃下。",
+    "source": "hermes-explore",
+    "image": "styles/618-graal-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
