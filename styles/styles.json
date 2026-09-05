@@ -9332,5 +9332,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h676",
+    "slug": "kirie",
+    "name_en": "Kirie",
+    "name_zh": "切绘",
+    "description_en": "Japanese layered paper-cutting: razor-cut washi silhouettes stacked in shallow relief, interlocking positive/negative slits; not scherenschnitte or wycinanki folk cutouts.",
+    "description_zh": "切绘：彩和纸与黑影叠层刀切，正负形互锁细缝浅浮雕，非西洋剪影或维齐南基民俗剪纸。",
+    "source": "hermes-explore",
+    "image": "styles/719-kirie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h677",
+    "slug": "lampas",
+    "name_en": "Lampas",
+    "name_zh": "妆花缎",
+    "description_en": "Compound figured silk: satin ground plus supplementary pattern wefts, warp sheen against weft-float brocade; woven lampas, not embroidery, ikat, or kesi tapestry.",
+    "description_zh": "妆花缎：缎地加妆花纬，经面光泽对纬浮纹样，是织成妆花，非刺绣、絣织或缂丝。",
+    "source": "hermes-explore",
+    "image": "styles/720-lampas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h678",
+    "slug": "opus-tessellatum",
+    "name_en": "Opus Tessellatum",
+    "name_zh": "网格镶嵌",
+    "description_en": "Roman grid mosaic of cubic tesserae in even rows and columns with grout; not opus vermiculatum worm-lines and not large opus sectile slabs.",
+    "description_zh": "网格镶嵌：立方石玻璃嵌块整齐行列铺砌带填缝，非蠕虫镶嵌曲线，亦非大片板块镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/721-opus-tessellatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h679",
+    "slug": "famille-noire",
+    "name_en": "Famille Noire",
+    "name_zh": "黑地五彩",
+    "description_en": "Kangxi black-ground overglaze enamel: famille palette on lacquer-black enamel, gilt outlines and peony-rock motifs; not famille verte white ground or cloisonné wires.",
+    "description_zh": "黑地五彩：康熙黑珐琅地上五彩釉上彩，金线勾勒牡丹山石，非白地五彩，亦非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/722-famille-noire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h680",
+    "slug": "gaufrage",
+    "name_en": "Gaufrage",
+    "name_zh": "盲压浮纹",
+    "description_en": "Blind embossing: uninked raised and debossed relief on thick rag paper, raking light only; no pigment, foil, or letterpress ink.",
+    "description_zh": "盲压浮纹：厚棉纸无墨凹凸压印，侧光显起伏，无颜料、箔或凸版油墨。",
+    "source": "hermes-explore",
+    "image": "styles/723-gaufrage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

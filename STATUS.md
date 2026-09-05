@@ -1899,6 +1899,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 718, PNG count 718. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 136 (exactly 5, h676–h680)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                            |
+|------|--------------------|-------------|----------------------------------|
+| h676 | Kirie              | 切绘        | styles/719-kirie.png             |
+| h677 | Lampas             | 妆花缎      | styles/720-lampas.png            |
+| h678 | Opus Tessellatum   | 网格镶嵌    | styles/721-opus-tessellatum.png  |
+| h679 | Famille Noire      | 黑地五彩    | styles/722-famille-noire.png     |
+| h680 | Gaufrage           | 盲压浮纹    | styles/723-gaufrage.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 723, PNG count 723. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
