@@ -1563,6 +1563,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 598, PNG count 598. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 112 (exactly 5, h556–h560)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en               | name_zh            | image                                    |
+|------|-----------------------|--------------------|------------------------------------------|
+| h556 | Wajima-nuri           | 轮岛涂             | styles/599-wajima-nuri.png               |
+| h557 | Lithophane            | 透光浮雕瓷         | styles/600-lithophane.png                |
+| h558 | Micromosaic           | 微马赛克           | styles/601-micromosaic.png               |
+| h559 | Hispano-Moresque      | 西班牙摩尔彩陶     | styles/602-hispano-moresque.png          |
+| h560 | Lunéville Embroidery  | 吕内维尔珠绣       | styles/603-luneville-embroidery.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 603, PNG count 603. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

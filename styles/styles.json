@@ -7772,5 +7772,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h556",
+    "slug": "wajima-nuri",
+    "name_en": "Wajima-nuri",
+    "name_zh": "轮岛涂",
+    "description_en": "Wajima lacquer: jinoko clay ground, layered urushi, roiro black polish, vermillion and gold on a wet-looking panel.",
+    "description_zh": "轮岛涂：地之粉胎、多层生漆、吕色黑推光，朱漆与金粉浮于镜面漆地。",
+    "source": "hermes-explore",
+    "image": "styles/599-wajima-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h557",
+    "slug": "lithophane",
+    "name_en": "Lithophane",
+    "name_zh": "透光浮雕瓷",
+    "description_en": "Backlit biscuit porcelain: the image forms only from thickness, thin areas glowing warm, thick areas staying opaque grey.",
+    "description_zh": "透光浮雕瓷：素烧瓷板以厚薄成像，薄处暖光透出、厚处灰白不透明。",
+    "source": "hermes-explore",
+    "image": "styles/600-lithophane.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h558",
+    "slug": "micromosaic",
+    "name_en": "Micromosaic",
+    "name_zh": "微马赛克",
+    "description_en": "Roman micromosaic: thousands of tiny smalti and filati tesserae, visible grout, glass-rod pixels of a Vatican workshop plaque.",
+    "description_zh": "罗马微马赛克：细玻璃丝与马赛克粒密铺，灰缝可见，梵蒂冈工坊嵌画质感。",
+    "source": "hermes-explore",
+    "image": "styles/601-micromosaic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h559",
+    "slug": "hispano-moresque",
+    "name_en": "Hispano-Moresque",
+    "name_zh": "西班牙摩尔彩陶",
+    "description_en": "Manises tin-glaze lusterware: creamy opacified glaze, cobalt drawing, copper-gold metallic flash, vine arabesques, craquelure.",
+    "description_zh": "马尼塞斯锡釉虹彩陶：乳白锡釉、钴蓝勾描、铜金虹彩、卷草与开片。",
+    "source": "hermes-explore",
+    "image": "styles/602-hispano-moresque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h560",
+    "slug": "luneville-embroidery",
+    "name_en": "Lunéville Embroidery",
+    "name_zh": "吕内维尔珠绣",
+    "description_en": "Tambour-hook embroidery on tulle: chain stitch, seed beads, sequins and couched metal thread with net ground showing through.",
+    "description_zh": "吕内维尔绷圈绣：钩针链缝于薄纱，米珠、亮片与金银线，网地透出。",
+    "source": "hermes-explore",
+    "image": "styles/603-luneville-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
