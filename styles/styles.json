@@ -9137,5 +9137,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h661",
+    "slug": "takuhon",
+    "name_en": "Takuhon",
+    "name_zh": "拓本",
+    "description_en": "Ink-squeeze rubbing of carved stone: velvety black sumi packed into paper, the image reserved as pale incised lines.",
+    "description_zh": "拓本：宣纸覆于刻石上椎拓，墨色填实地，形象以阴刻留白线条显出。",
+    "source": "hermes-explore",
+    "image": "styles/704-takuhon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h662",
+    "slug": "marmorino",
+    "name_en": "Marmorino",
+    "name_zh": "大理石抹灰",
+    "description_en": "Venetian marble-dust lime plaster: burnished trowel planes, clouded calcite sheen, ivory-taupe compacted stucco.",
+    "description_zh": "大理石抹灰：掺大理石粉的石灰抹面，压光刀痕与方解石微光，象牙与灰褐云斑。",
+    "source": "hermes-explore",
+    "image": "styles/705-marmorino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h663",
+    "slug": "certosina",
+    "name_en": "Certosina",
+    "name_zh": "切尔托萨嵌饰",
+    "description_en": "North Italian geometric inlay: bone, ebony, stained wood and nacre tesserae in stars and interlaced bands.",
+    "description_zh": "切尔托萨嵌饰：骨、乌木、染色木与螺钿的细小几何嵌件，星形与交错条带。",
+    "source": "hermes-explore",
+    "image": "styles/706-certosina.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h664",
+    "slug": "tritik",
+    "name_en": "Tritik",
+    "name_zh": "缝绞防染",
+    "description_en": "Stitch-resist dyeing: running-stitch gathers leave dashed undyed tracks and puckered scars on indigo-rust cotton.",
+    "description_zh": "缝绞防染：以走针收褶防染，留下虚线留白与褶皱疤痕，靛蓝与铁锈红棉布。",
+    "source": "hermes-explore",
+    "image": "styles/707-tritik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h665",
+    "slug": "kawari-nuri",
+    "name_en": "Kawari-nuri",
+    "name_zh": "变涂",
+    "description_en": "Experimental urushi: layered colored lacquer, eggshell and metal powder, carved-through mottled strata.",
+    "description_zh": "变涂：层叠色漆、蛋壳与金属粉，再切削显出斑驳地层，非平滑莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/708-kawari-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

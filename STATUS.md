@@ -1857,6 +1857,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 703, PNG count 703. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 133 (exactly 5, h661–h665)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh       | image                         |
+|------|-------------|---------------|-------------------------------|
+| h661 | Takuhon     | 拓本          | styles/704-takuhon.png        |
+| h662 | Marmorino   | 大理石抹灰    | styles/705-marmorino.png      |
+| h663 | Certosina   | 切尔托萨嵌饰  | styles/706-certosina.png      |
+| h664 | Tritik      | 缝绞防染      | styles/707-tritik.png         |
+| h665 | Kawari-nuri | 变涂          | styles/708-kawari-nuri.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 708, PNG count 708. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
