@@ -9787,5 +9787,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h711",
+    "slug": "damascene",
+    "name_en": "Damascene",
+    "name_zh": "金银错",
+    "description_en": "Gold and silver wire inlay hammered flush into blued steel; Toledo/zogan damascening, not pattern-welded Damascus.",
+    "description_zh": "金银错：金丝银丝嵌入发蓝钢地并锤平抛光，托莱多/象嵌错金，非大马士革花纹钢。",
+    "source": "hermes-explore",
+    "image": "styles/754-damascene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h712",
+    "slug": "latticino",
+    "name_en": "Latticino",
+    "name_zh": "白线玻璃",
+    "description_en": "Venetian lattimo filigree: opaque white glass canes twisted inside clear cristallo, not murrine or stained-glass leading.",
+    "description_zh": "白线玻璃：乳白玻璃棒在透明水晶玻璃中拧成细网，非千花米珠、非铅条彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/755-latticino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h713",
+    "slug": "hitomezashi",
+    "name_en": "Hitomezashi",
+    "name_zh": "一目刺子",
+    "description_en": "One-stitch sashiko on a grid: even white running stitches as geometric units on indigo cloth, not kogin diamonds or satin fill.",
+    "description_zh": "一目刺子：靛蓝布上按格子均匀短针，几何单元构成纹样，非こぎん菱格、非缎绣填色。",
+    "source": "hermes-explore",
+    "image": "styles/756-hitomezashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h714",
+    "slug": "obvara",
+    "name_en": "Obvara",
+    "name_zh": "奥布瓦拉",
+    "description_en": "Eastern European ceramic scalding: red-hot earthenware dipped in fermented flour-yeast brew then water; toasted blotches, not raku glaze.",
+    "description_zh": "奥布瓦拉：赤热陶坯浸入发酵面糊再入水，焦褐斑驳烫伤纹，非乐烧开片釉。",
+    "source": "hermes-explore",
+    "image": "styles/757-obvara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h715",
+    "slug": "whitework",
+    "name_en": "Whitework",
+    "name_zh": "白线绣",
+    "description_en": "White-on-white embroidery: relief, eyelets and shadow-work on white linen, form from stitch density only, not colored thread or lace.",
+    "description_zh": "白线绣：白布白线，以针脚起伏、扣眼与影绣显形，无彩线，非蕾丝花边。",
+    "source": "hermes-explore",
+    "image": "styles/758-whitework.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

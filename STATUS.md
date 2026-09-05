@@ -1997,6 +1997,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 753, PNG count 753. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 143 (exactly 5, h711–h715)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h711 | Damascene          | 金银错      | styles/754-damascene.png           |
+| h712 | Latticino          | 白线玻璃    | styles/755-latticino.png           |
+| h713 | Hitomezashi        | 一目刺子    | styles/756-hitomezashi.png         |
+| h714 | Obvara             | 奥布瓦拉    | styles/757-obvara.png              |
+| h715 | Whitework          | 白线绣      | styles/758-whitework.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 758, PNG count 758. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
