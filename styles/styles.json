@@ -7577,5 +7577,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h541",
+    "slug": "tan-e",
+    "name_en": "Tan-e",
+    "name_zh": "丹絵",
+    "description_en": "Early ukiyo-e hand-color: sumizuri key-block on washi, tan (red-lead vermilion) brushed as the sole pigment.",
+    "description_zh": "早期浮世绘手彩，墨摺主版于和纸，仅刷丹铅朱红。",
+    "source": "hermes-explore",
+    "image": "styles/584-tan-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h542",
+    "slug": "bidriware",
+    "name_en": "Bidriware",
+    "name_zh": "比德里",
+    "description_en": "Deccan zinc-alloy inlay: shahad-blackened ground, silver vines and butis hammered flush and burnished.",
+    "description_zh": "德干锌合金嵌银，沙哈德黑地，银蔓与布提锤平抛光。",
+    "source": "hermes-explore",
+    "image": "styles/585-bidriware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h543",
+    "slug": "leheriya",
+    "name_en": "Leheriya",
+    "name_zh": "勒赫里亚",
+    "description_en": "Rajasthani wave tie-dye: diagonal leher ripples in turmeric, fuchsia, emerald, and indigo with resist bleed.",
+    "description_zh": "拉贾斯坦波浪扎染，姜黄、品红、翠绿与靛蓝斜纹，防染渗边。",
+    "source": "hermes-explore",
+    "image": "styles/586-leheriya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h544",
+    "slug": "lippmann-process",
+    "name_en": "Lippmann Process",
+    "name_zh": "李普曼干涉彩照",
+    "description_en": "Interference-color photography on a mercury-backed glass plate; spectral opalescent hues without pigment dyes.",
+    "description_zh": "汞背玻璃干涉彩照，无染料的光谱乳光色。",
+    "source": "hermes-explore",
+    "image": "styles/587-lippmann-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h545",
+    "slug": "broderie-anglaise",
+    "name_en": "Broderie Anglaise",
+    "name_zh": "英格兰镂空绣",
+    "description_en": "White-on-white eyelet embroidery: satin-stitched rings around punched holes, trailing floral cutwork on muslin.",
+    "description_zh": "白地白绣镂空，缎针锁眼、花卉镂刻于细棉布。",
+    "source": "hermes-explore",
+    "image": "styles/588-broderie-anglaise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

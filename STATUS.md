@@ -1521,6 +1521,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 583, PNG count 583. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 109 (exactly 5, h541–h545)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh            | image                                  |
+|------|--------------------|--------------------|----------------------------------------|
+| h541 | Tan-e              | 丹絵               | styles/584-tan-e.png                   |
+| h542 | Bidriware          | 比德里             | styles/585-bidriware.png               |
+| h543 | Leheriya           | 勒赫里亚           | styles/586-leheriya.png                |
+| h544 | Lippmann Process   | 李普曼干涉彩照     | styles/587-lippmann-process.png        |
+| h545 | Broderie Anglaise  | 英格兰镂空绣       | styles/588-broderie-anglaise.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 588, PNG count 588. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
