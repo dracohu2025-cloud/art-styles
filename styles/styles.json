@@ -8552,5 +8552,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h616",
+    "slug": "ru-ware",
+    "name_en": "Ru Ware",
+    "name_zh": "汝窑",
+    "description_en": "Ru Ware: Song celadon as the image method—sky-blue duck-egg glaze, sparse ice crackle, sesame-iron flecks, pooled rims; not Ge gold-crackle, not Jun splashes, not Longquan green.",
+    "description_zh": "汝窑：以天青鸭蛋青釉入画，疏冰裂纹、芝麻铁斑、口沿聚釉，非哥窑金丝开片，非钧瓷窑变，亦非龙泉梅子青。",
+    "source": "hermes-explore",
+    "image": "styles/659-ru-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h617",
+    "slug": "copperpoint",
+    "name_en": "Copperpoint",
+    "name_zh": "铜尖素描",
+    "description_en": "Copperpoint: oxidized copper stylus on prepared cream ground—fine reddish-brown tarnish hatch, paper tooth, no graphite shine, not silverpoint gray, not sanguine chalk.",
+    "description_zh": "铜尖素描：以氧化铜尖在涂粉底上入画，红褐铜锈细线、纸齿可见，无石墨反光，非银尖冷灰，亦非红粉笔。",
+    "source": "hermes-explore",
+    "image": "styles/660-copperpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h618",
+    "slug": "aventurine-glass",
+    "name_en": "Aventurine Glass",
+    "name_zh": "金星玻璃",
+    "description_en": "Aventurine glass: copper spangles frozen in amber-ruby glass mass—internal glitter fire, thick refraction; not dichroic coating, not millefiori canes, not sommerso blocks.",
+    "description_zh": "金星玻璃：以铜晶金星悬浮于琥珀红玻璃体入画，内闪火光、厚折射，非二向色镀膜，非千花玻璃棒，亦非套色块。",
+    "source": "hermes-explore",
+    "image": "styles/661-aventurine-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h619",
+    "slug": "hectograph",
+    "name_en": "Hectograph",
+    "name_zh": "胶版誊写",
+    "description_en": "Hectograph: aniline-purple gelatin duplicator transfer—damp bloom, mauve-violet limited dye, cockled paper, ghosted impression; not mimeograph oil stencil, not risograph, not xerox.",
+    "description_zh": "胶版誊写：以苯胺紫明胶誊写入画，湿晕、紫褐限色、纸皱与重影，非油印蜡纸，非孔版印刷，亦非静电复印。",
+    "source": "hermes-explore",
+    "image": "styles/662-hectograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h620",
+    "slug": "geringsing",
+    "name_en": "Geringsing",
+    "name_zh": "格陵辛",
+    "description_en": "Geringsing: Balinese double-ikat as the image method—warp and weft resist, shivering motif edges, rust-cream-brown ritual geometry; not Gujarati patola brights, not kasuri indigo, not single-ikat warp blur only.",
+    "description_zh": "格陵辛：以巴厘双经纬扎染织入画，经纬皆防染、纹样边缘微颤、锈红乳白深褐几何，非帕托拉宝石色，非絣织靛蓝，亦非单经扎染。",
+    "source": "hermes-explore",
+    "image": "styles/663-geringsing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

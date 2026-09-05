@@ -1731,6 +1731,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 658, PNG count 658. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 124 (exactly 5, h616–h620)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh     | image                             |
+|------|-------------------|-------------|-----------------------------------|
+| h616 | Ru Ware           | 汝窑        | styles/659-ru-ware.png            |
+| h617 | Copperpoint       | 铜尖素描    | styles/660-copperpoint.png        |
+| h618 | Aventurine Glass  | 金星玻璃    | styles/661-aventurine-glass.png   |
+| h619 | Hectograph        | 胶版誊写    | styles/662-hectograph.png         |
+| h620 | Geringsing        | 格陵辛      | styles/663-geringsing.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 663, PNG count 663. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
