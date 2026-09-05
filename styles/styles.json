@@ -8487,5 +8487,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h611",
+    "slug": "notan",
+    "name_en": "Notan",
+    "name_zh": "能探",
+    "description_en": "Notan: Japanese light-dark mass design as the image method—pure black against pure white interlocking silhouettes, shared edges only, no gray, no color, no hatch; not paper-cut collage, not woodcut, not stencil.",
+    "description_zh": "能探：以日本浓淡黑白块面入画，纯黑与纯白互锁剪影、共边而无灰阶无设色无排线，非剪纸拼贴，非木刻，亦非漏版。",
+    "source": "hermes-explore",
+    "image": "styles/654-notan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h612",
+    "slug": "dichroic-glass",
+    "name_en": "Dichroic Glass",
+    "name_zh": "二向色玻璃",
+    "description_en": "Dichroic Glass: thin-film interference coatings as the image method—angle-shift magenta-cyan-gold, layered refractive sheets, optical iridescence; not stained-glass leadlines, not carnival glass, not favrile.",
+    "description_zh": "二向色玻璃：以薄膜干涉镀层入画，随角变色的品红-青-金、层叠折射与虹彩，非铅条彩窗，非嘉年华玻璃，亦非法夫莱虹彩。",
+    "source": "hermes-explore",
+    "image": "styles/655-dichroic-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h613",
+    "slug": "carpet-page",
+    "name_en": "Carpet Page",
+    "name_zh": "地毯页",
+    "description_en": "Carpet Page: Insular manuscript full-page interlace as the image method—knotwork, trumpet-spirals, dotted contours and mineral reds-yellows-greens-blues on vellum; not a photographed book object, not later Gothic illumination, not carpet weaving.",
+    "description_zh": "地毯页：以岛屿福音书满页交缠纹样入画，结绳、喇叭涡卷、点描轮廓与矿物红黄绿青覆于犊皮，非书册静物，非后期哥特细密，亦非织毯。",
+    "source": "hermes-explore",
+    "image": "styles/656-carpet-page.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h614",
+    "slug": "jiaxie",
+    "name_en": "Jiaxie",
+    "name_zh": "夹缬",
+    "description_en": "Jiaxie: Tang clamp-resist dyeing as the image method—folded-board symmetric blooms, indigo with mineral red and yellow, crisp resist edges on cloth; not batik wax crackle, not shibori wrinkle-resist, not chusen pour-dye.",
+    "description_zh": "夹缬：以唐代夹板防染入画，对折对称花几何、靛蓝间矿物红黄、布面锐利防染边，非蜡染冰裂纹，非绞缬皱防，亦非注染。",
+    "source": "hermes-explore",
+    "image": "styles/657-jiaxie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h615",
+    "slug": "pochade",
+    "name_en": "Pochade",
+    "name_zh": "外光色稿",
+    "description_en": "Pochade: small outdoor oil color-sketch on panel as the image method—wet economical masses, portable sketch-box notes of light, visible panel at the rim; not a finished salon canvas, not plein-air photography, not impressionist pointille.",
+    "description_zh": "外光色稿：以便携画箱外光油彩小稿入画，湿润省笔色块、现场光色速记、板边木纹可见，非沙龙完成作，非外光照片，亦非点彩。",
+    "source": "hermes-explore",
+    "image": "styles/658-pochade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

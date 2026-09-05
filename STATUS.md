@@ -1717,6 +1717,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 653, PNG count 653. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 123 (exactly 5, h611–h615)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh     | image                           |
+|------|-----------------|-------------|---------------------------------|
+| h611 | Notan           | 能探        | styles/654-notan.png            |
+| h612 | Dichroic Glass  | 二向色玻璃  | styles/655-dichroic-glass.png   |
+| h613 | Carpet Page     | 地毯页      | styles/656-carpet-page.png      |
+| h614 | Jiaxie          | 夹缬        | styles/657-jiaxie.png           |
+| h615 | Pochade         | 外光色稿    | styles/658-pochade.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 658, PNG count 658. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
