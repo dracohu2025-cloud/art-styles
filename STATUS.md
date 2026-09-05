@@ -1689,6 +1689,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 643, PNG count 643. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 121 (exactly 5, h601–h605)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en          | name_zh     | image                             |
+|------|------------------|-------------|-----------------------------------|
+| h601 | Youlihong        | 釉里红      | styles/644-youlihong.png          |
+| h602 | Zwischengoldglas | 夹金玻璃    | styles/645-zwischengoldglas.png   |
+| h603 | Salt Glaze       | 盐釉        | styles/646-salt-glaze.png         |
+| h604 | Mimeograph       | 誊写油印    | styles/647-mimeograph.png         |
+| h605 | Lampwork         | 灯工玻璃    | styles/648-lampwork.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 648, PNG count 648. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

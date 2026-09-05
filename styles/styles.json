@@ -8357,5 +8357,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h601",
+    "slug": "youlihong",
+    "name_en": "Youlihong",
+    "name_zh": "釉里红",
+    "description_en": "Youlihong: underglaze copper-red on porcelain, oxblood blooms and reduction greys under a wet transparent glaze.",
+    "description_zh": "釉里红：瓷上釉下铜红，牛血红晕染与还原灰斑，透明釉面润泽。",
+    "source": "hermes-explore",
+    "image": "styles/644-youlihong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h602",
+    "slug": "zwischengoldglas",
+    "name_en": "Zwischengoldglas",
+    "name_zh": "夹金玻璃",
+    "description_en": "Zwischengoldglas: gold leaf engraved between fused glass layers, trapped bubbles and bevel refraction.",
+    "description_zh": "夹金玻璃：金箔夹于熔合玻璃层间刻画，气泡与斜边折光。",
+    "source": "hermes-explore",
+    "image": "styles/645-zwischengoldglas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h603",
+    "slug": "salt-glaze",
+    "name_en": "Salt Glaze",
+    "name_zh": "盐釉",
+    "description_en": "Salt glaze: high-fired salt-vapor stoneware, orange-peel pitting, amber flashing, and iron speckle.",
+    "description_zh": "盐釉：高温盐雾炻器，橘皮坑点、琥珀火痕与铁斑。",
+    "source": "hermes-explore",
+    "image": "styles/646-salt-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h604",
+    "slug": "mimeograph",
+    "name_en": "Mimeograph",
+    "name_zh": "誊写油印",
+    "description_en": "Mimeograph: wax-stencil duplicator print, aniline purple-blue ink, fiber bleed, and paper cockle.",
+    "description_zh": "誊写油印：蜡纸誊写油印，苯胺蓝紫墨、纤维渗墨与纸皱。",
+    "source": "hermes-explore",
+    "image": "styles/647-mimeograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h605",
+    "slug": "lampwork",
+    "name_en": "Lampwork",
+    "name_zh": "灯工玻璃",
+    "description_en": "Lampwork: torch-gathered soda-lime glass, striated cane, trapped bubbles, and furnace-orange glow.",
+    "description_zh": "灯工玻璃：喷灯熔制钠钙玻璃，色棒条纹、气泡与炉火橙光。",
+    "source": "hermes-explore",
+    "image": "styles/648-lampwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
