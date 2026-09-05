@@ -7902,5 +7902,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h566",
+    "slug": "koftgari",
+    "name_en": "Koftgari",
+    "name_zh": "嵌金钢饰",
+    "description_en": "Indian gold-and-silver wire inlay on darkened blued steel: hammered gold arabesques set flush into burnished metal.",
+    "description_zh": "印度嵌金钢饰：金银丝锤嵌入发蓝暗钢，阿拉伯卷草与钢面齐平。",
+    "source": "hermes-explore",
+    "image": "styles/609-koftgari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h567",
+    "slug": "lajvardina",
+    "name_en": "Lajvardina",
+    "name_zh": "青金石釉陶",
+    "description_en": "Ilkhanid overglaze: deep lapis-lazuli cobalt ground painted in gold, red and white enamel with raised gold leaf.",
+    "description_zh": "伊尔汗青金石釉：深蓝钴地上金、红、白釉上彩与贴金。",
+    "source": "hermes-explore",
+    "image": "styles/610-lajvardina.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h568",
+    "slug": "bucchero",
+    "name_en": "Bucchero",
+    "name_zh": "布凯罗黑陶",
+    "description_en": "Etruscan reduction-fired burnished black ceramic: glossy charcoal surface with incised line and low relief.",
+    "description_zh": "伊特鲁里亚布凯罗黑陶：还原烧磨光炭黑，阴刻线与浅浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/611-bucchero.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h569",
+    "slug": "guri-lacquer",
+    "name_en": "Guri Lacquer",
+    "name_zh": "屈轮漆",
+    "description_en": "Carved multilayer cinnabar-and-black urushi: V-groove spirals that expose concentric red-black rings.",
+    "description_zh": "屈轮漆：朱红与黑漆多层堆叠，V形槽卷云露出同心色环。",
+    "source": "hermes-explore",
+    "image": "styles/612-guri-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h570",
+    "slug": "kamakura-bori",
+    "name_en": "Kamakura-bori",
+    "name_zh": "镰仓雕",
+    "description_en": "Japanese carved wood coated in vermilion and black lacquer; worn highs reveal black under cinnabar red.",
+    "description_zh": "镰仓雕：木胎阴刻再罩朱红与黑漆，高点磨损露出底层黑漆。",
+    "source": "hermes-explore",
+    "image": "styles/613-kamakura-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

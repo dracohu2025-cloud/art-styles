@@ -1591,6 +1591,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 608, PNG count 608. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 114 (exactly 5, h566–h570)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh     | image                           |
+|------|-----------------|-------------|---------------------------------|
+| h566 | Koftgari        | 嵌金钢饰    | styles/609-koftgari.png         |
+| h567 | Lajvardina      | 青金石釉陶  | styles/610-lajvardina.png       |
+| h568 | Bucchero        | 布凯罗黑陶  | styles/611-bucchero.png         |
+| h569 | Guri Lacquer    | 屈轮漆      | styles/612-guri-lacquer.png     |
+| h570 | Kamakura-bori   | 镰仓雕      | styles/613-kamakura-bori.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 613, PNG count 613. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
