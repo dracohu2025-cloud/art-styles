@@ -1815,6 +1815,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 688, PNG count 688. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 130 (exactly 5, h646–h650)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en          | name_zh     | image                               |
+|------|------------------|-------------|-------------------------------------|
+| h646 | Edo Kiriko       | 江户切子    | styles/689-edo-kiriko.png           |
+| h647 | Xiang Embroidery | 湘绣        | styles/690-xiang-embroidery.png     |
+| h648 | Pulegoso         | 气泡玻璃    | styles/691-pulegoso.png             |
+| h649 | Ozobrome         | 奥佐溴印    | styles/692-ozobrome.png             |
+| h650 | Lacis            | 网绣        | styles/693-lacis.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 693, PNG count 693. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

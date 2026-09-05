@@ -8942,5 +8942,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h646",
+    "slug": "edo-kiriko",
+    "name_en": "Edo Kiriko",
+    "name_zh": "江户切子",
+    "description_en": "Japanese cut glass: geometric facets in cased crystal, hemp-leaf and diamond kiriko cuts, prismatic refraction.",
+    "description_zh": "江户切子玻璃，套色水晶上的几何切面、麻叶与菱形纹及棱镜折射。",
+    "source": "hermes-explore",
+    "image": "styles/689-edo-kiriko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h647",
+    "slug": "xiang-embroidery",
+    "name_en": "Xiang Embroidery",
+    "name_zh": "湘绣",
+    "description_en": "Hunan silk embroidery: hair-fine stitches, form-following silk sheen, dense satin and seed stitch realism.",
+    "description_zh": "湘绣丝线，发丝般细针、随形丝光与密实缎针掺针写实。",
+    "source": "hermes-explore",
+    "image": "styles/690-xiang-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h648",
+    "slug": "pulegoso",
+    "name_en": "Pulegoso",
+    "name_zh": "气泡玻璃",
+    "description_en": "Murano pulegoso: dense trapped air bubbles in thick translucent glass, frothy furnace-blown texture.",
+    "description_zh": "穆拉诺气泡玻璃，厚壁半透明玻璃中密布气孔的熔炉起泡质感。",
+    "source": "hermes-explore",
+    "image": "styles/691-pulegoso.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h649",
+    "slug": "ozobrome",
+    "name_en": "Ozobrome",
+    "name_zh": "奥佐溴印",
+    "description_en": "Ozobrome pigment process: carbon-pigment transfer, velvety blacks, gelatin relief, pictorialist print.",
+    "description_zh": "奥佐溴印色素转印，丝绒黑、明胶浮雕与画意摄影质感。",
+    "source": "hermes-explore",
+    "image": "styles/692-ozobrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h650",
+    "slug": "lacis",
+    "name_en": "Lacis",
+    "name_zh": "网绣",
+    "description_en": "Filet lace / darned net: square knotted mesh ground with open grid versus dense darning fills.",
+    "description_zh": "网绣方网，打结网地上疏网与密实织补填充的对比。",
+    "source": "hermes-explore",
+    "image": "styles/693-lacis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
