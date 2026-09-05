@@ -2025,6 +2025,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 763, PNG count 763. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 145 (exactly 5, h721–h725)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h721 | Yue Embroidery     | 粤绣          | styles/764-yue-embroidery.png      |
+| h722 | Seto-guro          | 濑户黑        | styles/765-seto-guro.png           |
+| h723 | Oya Lace           | 奥亚花边      | styles/766-oya-lace.png            |
+| h724 | Hillotype          | 希洛彩版      | styles/767-hillotype.png           |
+| h725 | Silver Stain       | 银染黄釉      | styles/768-silver-stain.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 768, PNG count 768. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

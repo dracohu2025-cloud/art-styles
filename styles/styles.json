@@ -9917,5 +9917,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h721",
+    "slug": "yue-embroidery",
+    "name_en": "Yue Embroidery",
+    "name_zh": "粤绣",
+    "description_en": "Guangdong Yuexiu: dense gold-and-silk floss, padded relief, peacock iridescence and kingfisher-crimson palettes, not Suzhou double-sided, not Shu satin, not Xiang, not goldwork couching alone.",
+    "description_zh": "粤绣：金银丝密铺、垫绣浮雕、孔雀翠与绯红高彩，非苏绣双面、非蜀绣缎面、非湘绣、非单纯盘金。",
+    "source": "hermes-explore",
+    "image": "styles/764-yue-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h722",
+    "slug": "seto-guro",
+    "name_en": "Seto-guro",
+    "name_zh": "濑户黑",
+    "description_en": "Momoyama Seto black: kiln-pulled jet iron glaze quenched to satiny charcoal, viscous pooling and rim sheen, not raku crackle, not tenmoku oil-spot, not obvara, not soda flashing.",
+    "description_zh": "濑户黑：桃山濑户黑釉出窑急冷成缎炭黑，釉汁积聚与口沿铁光，非乐烧开片、非天目油滴、非奥布瓦拉、非苏打闪色。",
+    "source": "hermes-explore",
+    "image": "styles/765-seto-guro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h723",
+    "slug": "oya-lace",
+    "name_en": "Oya Lace",
+    "name_zh": "奥亚花边",
+    "description_en": "Turkish oya needle lace: three-dimensional knotted floral picots, clove and carnation edges in relief, airy motif gaps, not Chantilly mesh, not Ñandutí sun-wheels, not tatting, not Alençon.",
+    "description_zh": "奥亚花边：土耳其立体针结小花与珠边，丁香康乃馨浮雕，留空底，非尚蒂伊网眼、非南杜蒂日轮、非梭结、非阿朗松。",
+    "source": "hermes-explore",
+    "image": "styles/766-oya-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h724",
+    "slug": "hillotype",
+    "name_en": "Hillotype",
+    "name_zh": "希洛彩版",
+    "description_en": "Levi Hill early color daguerreotype: muddy prismatic stains on a specular silver plate, unstable reds and cyan, tarnish bloom, not Autochrome grains, not Lippmann interference, not monochrome daguerreotype.",
+    "description_zh": "希洛彩版：利维·希尔早期彩色银版，泥彩棱斑贴于镜面银板，红青不稳与氧化晕，非奥托克罗姆颗粒、非李普曼干涉、非单色达盖尔。",
+    "source": "hermes-explore",
+    "image": "styles/767-hillotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h725",
+    "slug": "silver-stain",
+    "name_en": "Silver Stain",
+    "name_zh": "银染黄釉",
+    "description_en": "Medieval silver-stain on glass: silver compounds fired to lemon-honey transillumination with black vitreous trace, not jewel-tone leaded mosaic, not verre églomisé gold leaf, not enamel grisaille alone.",
+    "description_zh": "银染黄釉：银盐烧入白玻璃成柠檬黄至蜜琥珀色透光，配黑釉描线，非宝石色铅条镶嵌、非反绘金箔、非单纯珐琅灰色。",
+    "source": "hermes-explore",
+    "image": "styles/768-silver-stain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
