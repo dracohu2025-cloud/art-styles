@@ -1451,6 +1451,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 558, PNG count 558. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 104 (exactly 5, h516–h520)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh        | image                                |
+|------|--------------------|----------------|--------------------------------------|
+| h516 | Bamboo-leaf Line   | 竹叶描         | styles/559-bamboo-leaf-line.png      |
+| h517 | Yaozhou            | 耀州窑         | styles/560-yaozhou.png               |
+| h518 | Gobelin            | 戈布兰织锦     | styles/561-gobelin.png               |
+| h519 | Chlorophyll Print  | 叶绿素印相     | styles/562-chlorophyll-print.png     |
+| h520 | Opus Sectile       | 板块镶嵌       | styles/563-opus-sectile.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 563, PNG count 563. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

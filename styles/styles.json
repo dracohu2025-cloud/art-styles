@@ -7252,5 +7252,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h516",
+    "slug": "bamboo-leaf-line",
+    "name_en": "Bamboo-leaf Line",
+    "name_zh": "竹叶描",
+    "description_en": "Classical Chinese drapery method: short tapered ink strokes clustered like bamboo leaflets.",
+    "description_zh": "竹叶描：短促尖收的衣纹笔，聚簇如竹叶，有别于长弧柳叶描。",
+    "source": "hermes-explore",
+    "image": "styles/559-bamboo-leaf-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h517",
+    "slug": "yaozhou",
+    "name_en": "Yaozhou",
+    "name_zh": "耀州窑",
+    "description_en": "Northern Song carved celadon: olive glaze pooling in incised peony and combing.",
+    "description_zh": "耀州窑：橄榄绿透明釉积于刻花与篦纹，有别于龙泉青瓷与天目。",
+    "source": "hermes-explore",
+    "image": "styles/560-yaozhou.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h518",
+    "slug": "gobelin",
+    "name_en": "Gobelin",
+    "name_zh": "戈布兰织锦",
+    "description_en": "Gobelins pictorial tapestry: wool-silk weft, warp rib, color mixed by hatchure.",
+    "description_zh": "戈布兰织锦：经棱可见，以色线排丝混色，有别于奥布松织锦。",
+    "source": "hermes-explore",
+    "image": "styles/561-gobelin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h519",
+    "slug": "chlorophyll-print",
+    "name_en": "Chlorophyll Print",
+    "name_zh": "叶绿素印相",
+    "description_en": "Photosynthesis print on a living leaf: UV-bleached chlorophyll forms the image in pale tissue.",
+    "description_zh": "叶绿素印相：以叶片为感光层，紫外漂白叶绿素成像，叶脉仍可见。",
+    "source": "hermes-explore",
+    "image": "styles/562-chlorophyll-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h520",
+    "slug": "opus-sectile",
+    "name_en": "Opus Sectile",
+    "name_zh": "板块镶嵌",
+    "description_en": "Roman cut-stone inlay of large marble and porphyry slabs fitted edge to edge.",
+    "description_zh": "板块镶嵌：大切石板拼合，石纹可见，有别于细粒蠕虫镶嵌与硬石镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/563-opus-sectile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
