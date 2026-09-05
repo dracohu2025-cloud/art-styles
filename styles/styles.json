@@ -8682,5 +8682,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h626",
+    "slug": "ding-ware",
+    "name_en": "Ding Ware",
+    "name_zh": "定窑",
+    "description_en": "Ding ware: ivory-white Song porcelain as the image method—creamy feldspathic glaze, carved and incised lotus under the skin, teardrop glaze runs, unglazed metal-bound rim; not celadon green, not Dehua blanc-de-chine, not famille-rose enamel.",
+    "description_zh": "定窑：以牙白定瓷入画，乳浊长石釉、釉下刻划莲纹、泪痕垂釉与芒口包边，非青瓷绿，非德化白，亦非粉彩釉上。",
+    "source": "hermes-explore",
+    "image": "styles/669-ding-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h627",
+    "slug": "guan-ware",
+    "name_en": "Guan Ware",
+    "name_zh": "官窑",
+    "description_en": "Guan ware: Southern Song official celadon as the image method—thick gray-blue glaze, gold-thread and iron-wire crackle, dark iron body at rim and foot, fat ice-crackle web; not Ge-ware black-gold crackle only, not Ru-ware sky-blue, not Longquan green pools.",
+    "description_zh": "官窑：以南宋官窑青瓷入画，厚灰蓝釉、金丝铁线开片、口足铁骨与肥釉冰裂，非哥窑金丝铁线独用，非汝窑天青，亦非龙泉翠塘。",
+    "source": "hermes-explore",
+    "image": "styles/670-guan-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h628",
+    "slug": "murrine",
+    "name_en": "Murrine",
+    "name_zh": "穆林玻璃",
+    "description_en": "Murrine: fused mosaic cane slices as the image method—cross-section glass murrina tiles, concentric cane eyes, optical glass seams, Murano murrine sheet; not millefiori flower paperweights, not leaded stained glass, not ceramic tesserae.",
+    "description_zh": "穆林玻璃：以玻璃棒切片熔接马赛克入画，同心穆林眼、光学接缝与穆拉诺切片铺面，非千花镇纸，非铅条彩窗，亦非陶片镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/671-murrine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h629",
+    "slug": "slipware",
+    "name_en": "Slipware",
+    "name_zh": "化妆土陶",
+    "description_en": "Slipware: trailed and combed liquid clay as the image method—cream slip on red earthenware, feathered marbling, slip-trailing dots and loops, sgraffito through slip to terracotta body; not underglaze-blue porcelain, not raku, not plaster sgraffito.",
+    "description_zh": "化妆土陶：以沥粉梳羽化妆土入画，红陶地乳白化妆土、羽毛大理石纹、点线沥粉与刮露胎，非青花瓷，非乐烧，亦非灰泥刮刻。",
+    "source": "hermes-explore",
+    "image": "styles/672-slipware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h630",
+    "slug": "shisha-embroidery",
+    "name_en": "Shisha Embroidery",
+    "name_zh": "镜绣",
+    "description_en": "Shisha embroidery: couched mirror work as the image method—circular shisha discs in buttonhole and herringbone, satin-stitch petals, abhla Bharat glitter on woven ground; not sequins, not beadwork only, not stained glass.",
+    "description_zh": "镜绣：以包缝镜片入画，圆镜锁针与人字针、缎绣花瓣、阿布拉镜绣织地反光，非亮片，非纯珠绣，亦非彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/673-shisha-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

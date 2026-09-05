@@ -1759,6 +1759,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 668, PNG count 668. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 126 (exactly 5, h626–h630)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                                |
+|------|--------------------|-------------|--------------------------------------|
+| h626 | Ding Ware          | 定窑        | styles/669-ding-ware.png             |
+| h627 | Guan Ware          | 官窑        | styles/670-guan-ware.png             |
+| h628 | Murrine            | 穆林玻璃    | styles/671-murrine.png               |
+| h629 | Slipware           | 化妆土陶    | styles/672-slipware.png              |
+| h630 | Shisha Embroidery  | 镜绣        | styles/673-shisha-embroidery.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 673, PNG count 673. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
