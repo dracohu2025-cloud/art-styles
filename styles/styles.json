@@ -8617,5 +8617,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h621",
+    "slug": "qianjiang",
+    "name_en": "Qianjiang",
+    "name_zh": "浅绛彩",
+    "description_en": "Qianjiang cai: late-Qing literati overglaze as the image method—tea-stain browns, diluted ink-sepia, faint copper-red and celadon on creamy porcelain, dry-brush calligraphy tooth; not famille-rose pinks, not wucai enamel clutter, not gongbi mineral density.",
+    "description_zh": "浅绛彩：以晚清文人浅绛釉上彩入画，茶褐淡墨、微铜红与青白瓷地、干笔书法齿痕，非粉彩粉红，非五彩堆釉，亦非工笔重彩。",
+    "source": "hermes-explore",
+    "image": "styles/664-qianjiang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h622",
+    "slug": "oshi-e",
+    "name_en": "Oshi-e",
+    "name_zh": "押绘",
+    "description_en": "Oshi-e: padded silk relief as the image method—stuffed brocade shapes, stitched edges, textile weave, raking-light fabric volume, gold-thread outlines; not kirigami paper-cut, not flat embroidery, not quilt blocks.",
+    "description_zh": "押绘：以填棉丝绸浮雕入画，锦缎填絮、缝缘织纹、侧光体积与金线勾边，非剪纸，非平面刺绣，亦非拼布块面。",
+    "source": "hermes-explore",
+    "image": "styles/665-oshi-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h623",
+    "slug": "flashed-glass",
+    "name_en": "Flashed Glass",
+    "name_zh": "套料玻璃",
+    "description_en": "Flashed glass: thin colored overlay fused on clear crystal, then wheel-cut and acid-etched through the flash—ruby or cobalt skin, beveled optical depth, cameo steps; not leaded stained glass, not millefiori canes, not dichroic coating.",
+    "description_zh": "套料玻璃：以薄色料覆于水晶再轮刻酸蚀露出透明层，宝石红或钴蓝皮、斜面光学深度与浮雕台阶，非铅条彩窗，非千花玻璃，亦非二向色镀膜。",
+    "source": "hermes-explore",
+    "image": "styles/666-flashed-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h624",
+    "slug": "yakishime",
+    "name_en": "Yakishime",
+    "name_zh": "烧締",
+    "description_en": "Yakishime: high-fired unglazed stoneware as the image method—vitrified clay body, wood-ash deposits, fire-flash orange and charcoal, kiln scars, no glaze pools; not raku crackle, not tenmoku iron glaze, not porcelain celadon.",
+    "description_zh": "烧締：以高温无釉炻器入画，烧结土胎、自然灰落、火色橙褐与窑疤，无釉塘，非乐烧开片，非天目铁釉，亦非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/667-yakishime.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h625",
+    "slug": "ginbari",
+    "name_en": "Ginbari",
+    "name_zh": "银张七宝",
+    "description_en": "Ginbari: silver-foil enamel as the image method—crinkled silver leaf under translucent colored enamel, foil sparkle through vitreous gloss; not cloisonné wire cells, not champlevé pits, not plique-à-jour openwork.",
+    "description_zh": "银张七宝：以皱银箔衬于透明珐琅入画，箔光透过玻璃质色釉闪烁，非掐丝景泰蓝格，非錾胎凹槽，亦非透光珐琅镂空。",
+    "source": "hermes-explore",
+    "image": "styles/668-ginbari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

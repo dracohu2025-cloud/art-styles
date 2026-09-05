@@ -1745,6 +1745,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 663, PNG count 663. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 125 (exactly 5, h621–h625)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh     | image                           |
+|------|---------------|-------------|---------------------------------|
+| h621 | Qianjiang     | 浅绛彩      | styles/664-qianjiang.png        |
+| h622 | Oshi-e        | 押绘        | styles/665-oshi-e.png           |
+| h623 | Flashed Glass | 套料玻璃    | styles/666-flashed-glass.png    |
+| h624 | Yakishime     | 烧締        | styles/667-yakishime.png        |
+| h625 | Ginbari       | 银张七宝    | styles/668-ginbari.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 668, PNG count 668. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
