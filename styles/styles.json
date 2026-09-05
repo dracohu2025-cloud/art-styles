@@ -8032,5 +8032,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h576",
+    "slug": "incalmo",
+    "name_en": "Incalmo",
+    "name_zh": "拼接吹制",
+    "description_en": "Venetian incalmo: two separately blown gathers fused at a clean equatorial join so stacked color casings read as one vessel.",
+    "description_zh": "威尼斯拼接吹制：两坨分色吹制玻璃在赤道接缝熔合，套色层读成一件器。",
+    "source": "hermes-explore",
+    "image": "styles/619-incalmo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h577",
+    "slug": "rankaku",
+    "name_en": "Rankaku",
+    "name_zh": "蛋壳漆",
+    "description_en": "Eggshell lacquer: crushed shell tesserae inlaid in black urushi, crackle mosaic with gold in the interstices.",
+    "description_zh": "蛋壳漆：碎蛋壳嵌黑漆，裂纹马赛克，缝间洒金。",
+    "source": "hermes-explore",
+    "image": "styles/620-rankaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h578",
+    "slug": "devore",
+    "name_en": "Devoré",
+    "name_zh": "烂花绒",
+    "description_en": "Burnout velvet: chemical-eaten pile leaves sheer ground against remaining plush, so drawing is pile versus gauze.",
+    "description_zh": "烂花绒：药剂蚀去绒毛留下薄纱地与残绒，以绒与纱作画。",
+    "source": "hermes-explore",
+    "image": "styles/621-devore.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h579",
+    "slug": "yunjin",
+    "name_en": "Yunjin",
+    "name_zh": "云锦",
+    "description_en": "Nanjing cloud brocade: gold and polychrome wefts woven into satin, cloud-and-lotus patterns sitting in the cloth not on it.",
+    "description_zh": "南京云锦：金线与彩纬织入缎地，云莲纹在布里而非布上。",
+    "source": "hermes-explore",
+    "image": "styles/622-yunjin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h580",
+    "slug": "falangcai",
+    "name_en": "Falangcai",
+    "name_zh": "珐琅彩",
+    "description_en": "Qing falangcai: gem-like overglaze enamels on milk-white porcelain reserve, court-workshop enamel painting on the ware.",
+    "description_zh": "清珐琅彩：宝石质釉上彩绘于奶白瓷地，宫廷作坊珐琅画瓷。",
+    "source": "hermes-explore",
+    "image": "styles/623-falangcai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

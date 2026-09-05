@@ -1619,6 +1619,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 618, PNG count 618. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 116 (exactly 5, h576–h580)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en   | name_zh   | image                       |
+|------|-----------|-----------|-----------------------------|
+| h576 | Incalmo   | 拼接吹制  | styles/619-incalmo.png      |
+| h577 | Rankaku   | 蛋壳漆    | styles/620-rankaku.png      |
+| h578 | Devoré    | 烂花绒    | styles/621-devore.png       |
+| h579 | Yunjin    | 云锦      | styles/622-yunjin.png       |
+| h580 | Falangcai | 珐琅彩    | styles/623-falangcai.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 623, PNG count 623. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
