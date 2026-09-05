@@ -1927,6 +1927,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 728, PNG count 728. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 138 (exactly 5, h686–h690)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h686 | Shot Silk          | 闪色绸      | styles/729-shot-silk.png           |
+| h687 | Vitreography       | 玻璃版画    | styles/730-vitreography.png        |
+| h688 | Opus Spicatum      | 人字砌工    | styles/731-opus-spicatum.png       |
+| h689 | Berlin Wool Work   | 柏林绒绣    | styles/732-berlin-wool-work.png    |
+| h690 | Core-formed Glass  | 芯制玻璃    | styles/733-core-formed-glass.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 733, PNG count 733. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -9462,5 +9462,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h686",
+    "slug": "shot-silk",
+    "name_en": "Shot Silk",
+    "name_zh": "闪色绸",
+    "description_en": "Changeant silk: contrasting warp and weft so folds iridesce by weave geometry, satin sheen without printed gradient; not moiré water-ripple calendering and not metallic coating.",
+    "description_zh": "闪色绸：经纬异色随褶皱变彩，缎光来自织造而非印渐变，非轧光水纹，亦非镀金属。",
+    "source": "hermes-explore",
+    "image": "styles/729-shot-silk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h687",
+    "slug": "vitreography",
+    "name_en": "Vitreography",
+    "name_zh": "玻璃版画",
+    "description_en": "Prints pulled from an inked engraved glass plate: incised ink, wiped plate-tone, glass transparency, bevelled plate-mark; not copper etching, not stained glass, not reverse-glass painting.",
+    "description_zh": "玻璃版画：在雕刻玻璃版上着墨拓印，线槽积墨与擦版调、透玻璃底、版痕，非铜蚀刻，亦非彩绘玻璃或玻璃背面画。",
+    "source": "hermes-explore",
+    "image": "styles/730-vitreography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h688",
+    "slug": "opus-spicatum",
+    "name_en": "Opus Spicatum",
+    "name_zh": "人字砌工",
+    "description_en": "Roman herringbone masonry: brick and tufa laid in V-chevron courses with mortar joints; not diamond-net opus reticulatum and not mosaic tesserae.",
+    "description_zh": "人字砌工：砖与凝灰岩人字斜砌带灰缝，非菱格网状砌，亦非马赛克方块。",
+    "source": "hermes-explore",
+    "image": "styles/731-opus-spicatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h689",
+    "slug": "berlin-wool-work",
+    "name_en": "Berlin Wool Work",
+    "name_zh": "柏林绒绣",
+    "description_en": "19th-century pictorial canvas embroidery in worsted wool: visible tent stitches, aniline charted fills, raised yarn pile; not silk needle-painting and not Gobelin tapestry weave.",
+    "description_zh": "柏林绒绣：十九世纪绒线帆布绣，斜针可见、苯胺色图样、绒线微凸，非丝线仿真绣，亦非戈布兰织锦。",
+    "source": "hermes-explore",
+    "image": "styles/732-berlin-wool-work.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h690",
+    "slug": "core-formed-glass",
+    "name_en": "Core-formed Glass",
+    "name_zh": "芯制玻璃",
+    "description_en": "Ancient sand-core wound glass: trailed and combed cobalt, turquoise, yellow and white threads, marvered surface; not millefiori murrine slices and not lampwork sculpture.",
+    "description_zh": "芯制玻璃：砂芯缠绕热玻璃，钴蓝青绿与黄白牵丝梳纹、滚压表面，非千花切片，亦非灯工塑形。",
+    "source": "hermes-explore",
+    "image": "styles/733-core-formed-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
