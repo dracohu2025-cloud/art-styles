@@ -9722,5 +9722,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h706",
+    "slug": "sakiori",
+    "name_en": "Sakiori",
+    "name_zh": "裂织",
+    "description_en": "Sakiori rag weaving: torn kimono strips as weft through coarse warp, leftover-cloth stripe blocks, slubby beat — not ikat, not kasuri, not boro patch-sewing.",
+    "description_zh": "裂织：旧衣布条作纬、粗经承托、余布色块条纹与不匀打纬，非絣织、非蓝絣、非襤褸缝补。",
+    "source": "hermes-explore",
+    "image": "styles/749-sakiori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h707",
+    "slug": "chantilly-lace",
+    "name_en": "Chantilly Lace",
+    "name_zh": "尚蒂伊蕾丝",
+    "description_en": "Black Chantilly bobbin lace: hexagonal fond chant mesh, half-stitch shaded florals, picot edges — not Alençon needle lace, not Irish crochet, not tatting.",
+    "description_zh": "尚蒂伊蕾丝：六角网地、半针晕染花卉、皮扣齿边，非阿朗松针绣花边、非爱尔兰钩针、非梭结蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/750-chantilly-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h708",
+    "slug": "iga-ware",
+    "name_en": "Iga Ware",
+    "name_zh": "伊贺烧",
+    "description_en": "Iga-yaki stoneware: coarse feldspar clay, wood-ash glaze runs, fire-cord scars, kiln warp — not Bizen straw marks, not Shigaraki, not raku, not celadon.",
+    "description_zh": "伊贺烧：粗长石胎、自然灰釉流、火痕绳伤与窑变变形，非备前稻草痕、非信乐、非乐烧、非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/751-iga-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h709",
+    "slug": "physautotype",
+    "name_en": "Physautotype",
+    "name_zh": "沥青日光印相",
+    "description_en": "Physautotype: bitumen of Judea hardened on pewter or glass, lavender-oil wash, pale tobacco-brown heliograph — not daguerreotype, not calotype, not cyanotype.",
+    "description_zh": "沥青日光印相：犹太沥青感光硬化于白镴或玻璃、薰衣草油洗去未感光层、浅烟草棕日影像，非达盖尔银版、非卡罗法、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/752-physautotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h710",
+    "slug": "susancai",
+    "name_en": "Susancai",
+    "name_zh": "素三彩",
+    "description_en": "Kangxi susancai: biscuit porcelain with yellow, green, aubergine and white overglaze only — no iron-red, not Tang sancai splashware, not wucai or famille verte.",
+    "description_zh": "素三彩：素烧白瓷上黄、绿、茄皮紫与白低温釉，绝无矾红，非唐三彩淋釉陶、非五彩、非康熙五彩。",
+    "source": "hermes-explore",
+    "image": "styles/753-susancai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

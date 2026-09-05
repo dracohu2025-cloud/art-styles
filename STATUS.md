@@ -1983,6 +1983,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 748, PNG count 748. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 142 (exactly 5, h706–h710)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h706 | Sakiori            | 裂织          | styles/749-sakiori.png             |
+| h707 | Chantilly Lace     | 尚蒂伊蕾丝    | styles/750-chantilly-lace.png      |
+| h708 | Iga Ware           | 伊贺烧        | styles/751-iga-ware.png            |
+| h709 | Physautotype       | 沥青日光印相  | styles/752-physautotype.png        |
+| h710 | Susancai           | 素三彩        | styles/753-susancai.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 753, PNG count 753. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
