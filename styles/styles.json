@@ -7837,5 +7837,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h561",
+    "slug": "tsugaru-nuri",
+    "name_en": "Tsugaru-nuri",
+    "name_zh": "津轻涂",
+    "description_en": "Aomori lacquer: many colored urushi layers sanded through into mottled kara-nuri and nanako speckles, then polished to wet-mirror gloss.",
+    "description_zh": "青森津轻涂：多层彩漆研磨透出唐涂与鱼子斑点，再抛成镜面漆光。",
+    "source": "hermes-explore",
+    "image": "styles/604-tsugaru-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h562",
+    "slug": "soumak",
+    "name_en": "Soumak",
+    "name_zh": "苏马克织",
+    "description_en": "Weft-wrapping tapestry: oblique wrapped wefts form herringbone ridges, stepped color blocks, and a ridged woven surface rather than knotted pile.",
+    "description_zh": "苏马克织：纬线斜向缠绕成人字棱脊与阶梯色块，织面起棱而非打结绒头。",
+    "source": "hermes-explore",
+    "image": "styles/605-soumak.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h563",
+    "slug": "transferware",
+    "name_en": "Transferware",
+    "name_zh": "转印彩瓷",
+    "description_en": "Staffordshire underglaze transfer print: cobalt engraved copperplate lines and stipple on white glazed earthenware, with scroll-and-flower borders.",
+    "description_zh": "斯塔福德郡釉下转印：钴蓝铜版线刻与点刻印上白釉陶，卷草花卉边饰。",
+    "source": "hermes-explore",
+    "image": "styles/606-transferware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h564",
+    "slug": "assisi-embroidery",
+    "name_en": "Assisi Embroidery",
+    "name_zh": "阿西西绣",
+    "description_en": "Italian counted-thread: motif left void on linen, background filled in red cross-stitch, motif edged with Holbein outline.",
+    "description_zh": "意大利阿西西计数绣：图案留白于亚麻，地子以红色十字绣填满，黑线勾边。",
+    "source": "hermes-explore",
+    "image": "styles/607-assisi-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h565",
+    "slug": "kamares-ware",
+    "name_en": "Kamares Ware",
+    "name_zh": "卡马雷斯陶",
+    "description_en": "Minoan polychrome pottery: creamy white, crimson and ochre-yellow whirling motifs on glossy black slip, marine-style curves on eggshell ware.",
+    "description_zh": "米诺斯卡马雷斯陶：乳白、朱红与赭黄涡纹绘于亮黑陶衣，海洋风曲线薄胎。",
+    "source": "hermes-explore",
+    "image": "styles/608-kamares-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

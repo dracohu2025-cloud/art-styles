@@ -1577,6 +1577,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 603, PNG count 603. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 113 (exactly 5, h561–h565)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh            | image                                  |
+|------|--------------------|--------------------|----------------------------------------|
+| h561 | Tsugaru-nuri       | 津轻涂             | styles/604-tsugaru-nuri.png            |
+| h562 | Soumak             | 苏马克织           | styles/605-soumak.png                  |
+| h563 | Transferware       | 转印彩瓷           | styles/606-transferware.png            |
+| h564 | Assisi Embroidery  | 阿西西绣           | styles/607-assisi-embroidery.png       |
+| h565 | Kamares Ware       | 卡马雷斯陶         | styles/608-kamares-ware.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 608, PNG count 608. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
