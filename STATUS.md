@@ -1409,6 +1409,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 543, PNG count 543. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 101 (exactly 5, h501–h505)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh        | image                              |
+|------|-------------------|----------------|------------------------------------|
+| h501 | Qin-string Line   | 琴弦描         | styles/544-qin-string-line.png     |
+| h502 | Cao-clothes Line  | 曹衣描         | styles/545-cao-clothes-line.png    |
+| h503 | Qinghua           | 青花           | styles/546-qinghua.png             |
+| h504 | Aubusson          | 奥布松织锦     | styles/547-aubusson.png            |
+| h505 | Orotone           | 金调正片       | styles/548-orotone.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 548, PNG count 548. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -7057,5 +7057,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h501",
+    "slug": "qin-string-line",
+    "name_en": "Qin-string Line",
+    "name_zh": "琴弦描",
+    "description_en": "Even-tension figure outlines like plucked zither strings: uniform-width ink, faint spring, no taper.",
+    "description_zh": "琴弦描：如绷弦般等宽劲利的衣纹线，匀而不滞，少见起收钉头。",
+    "source": "hermes-explore",
+    "image": "styles/544-qin-string-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h502",
+    "slug": "cao-clothes-line",
+    "name_en": "Cao-clothes Line",
+    "name_zh": "曹衣描",
+    "description_en": "Cao Zhongda drapery: dense parallel clinging fold-lines wrapping the figure like carved wet silk.",
+    "description_zh": "曹衣描：曹仲达衣纹，密排贴体的平行褶线，如塑如刻。",
+    "source": "hermes-explore",
+    "image": "styles/545-cao-clothes-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h503",
+    "slug": "qinghua",
+    "name_en": "Qinghua",
+    "name_zh": "青花",
+    "description_en": "Jingdezhen underglaze cobalt on white porcelain: watery blue washes and outlines under a clear glaze.",
+    "description_zh": "青花：釉下钴料绘于白瓷，水料晕散，罩透明釉后呈幽蓝。",
+    "source": "hermes-explore",
+    "image": "styles/546-qinghua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h504",
+    "slug": "aubusson",
+    "name_en": "Aubusson",
+    "name_zh": "奥布松织锦",
+    "description_en": "Low-warp pictorial wool tapestry: weft ribs, slit joins, hachure blending, floral workshop borders.",
+    "description_zh": "奥布松织锦：低经密织的毛织挂毯，纬棱与切口、影线混色、花叶边饰。",
+    "source": "hermes-explore",
+    "image": "styles/547-aubusson.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h505",
+    "slug": "orotone",
+    "name_en": "Orotone",
+    "name_zh": "金调正片",
+    "description_en": "Goldtone glass positive: gelatin-silver image backed with gold leaf, gilt highlights and chocolate shadows.",
+    "description_zh": "金调正片：玻璃上的明胶银影衬金箔，高光鎏金、暗部巧克力褐。",
+    "source": "hermes-explore",
+    "image": "styles/548-orotone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
