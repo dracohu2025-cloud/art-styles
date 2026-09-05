@@ -8812,5 +8812,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h636",
+    "slug": "kumiko",
+    "name_en": "Kumiko",
+    "name_zh": "组子",
+    "description_en": "Nail-free hinoki lattice joinery: asanoha, shippō, and kikkō openwork screens.",
+    "description_zh": "无钉桧木组子细工：麻叶、七宝与龟甲透雕格心。",
+    "source": "hermes-explore",
+    "image": "styles/679-kumiko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h637",
+    "slug": "meenakari",
+    "name_en": "Meenakari",
+    "name_zh": "米纳卡里珐琅",
+    "description_en": "Jaipur vitreous enamel fused in gold and silver cells, jewel-tone paisley fills.",
+    "description_zh": "斋浦尔金银凹槽熔珐琅，宝石色佩斯利填彩。",
+    "source": "hermes-explore",
+    "image": "styles/680-meenakari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h638",
+    "slug": "fore-edge-painting",
+    "name_en": "Fore-edge Painting",
+    "name_zh": "书口绘画",
+    "description_en": "Watercolor miniature on fanned gilt page edges of a leather-bound book.",
+    "description_zh": "翻开烫金书口上的水彩细密画，隐于纸叠边缘。",
+    "source": "hermes-explore",
+    "image": "styles/681-fore-edge-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h639",
+    "slug": "kakishibu",
+    "name_en": "Kakishibu",
+    "name_zh": "柿涩染",
+    "description_en": "Oxidized persimmon-tannin dye on washi and hemp, rusty brown layered stains.",
+    "description_zh": "柿涩氧化染于和纸与麻布，锈褐层叠渍色。",
+    "source": "hermes-explore",
+    "image": "styles/682-kakishibu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h640",
+    "slug": "khatam-kari",
+    "name_en": "Khatam-kari",
+    "name_zh": "卡塔姆细镶",
+    "description_en": "Persian micro-inlay of wood, bone, and brass triangles in star tessellation.",
+    "description_zh": "波斯细木骨铜三角微镶，星形密铺几何。",
+    "source": "hermes-explore",
+    "image": "styles/683-khatam-kari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

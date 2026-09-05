@@ -1787,6 +1787,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 678, PNG count 678. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 128 (exactly 5, h636–h640)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh         | image                                |
+|------|--------------------|-----------------|--------------------------------------|
+| h636 | Kumiko             | 组子            | styles/679-kumiko.png                |
+| h637 | Meenakari          | 米纳卡里珐琅    | styles/680-meenakari.png             |
+| h638 | Fore-edge Painting | 书口绘画        | styles/681-fore-edge-painting.png    |
+| h639 | Kakishibu          | 柿涩染          | styles/682-kakishibu.png             |
+| h640 | Khatam-kari        | 卡塔姆细镶      | styles/683-khatam-kari.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 683, PNG count 683. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
