@@ -1885,6 +1885,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 713, PNG count 713. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 135 (exactly 5, h671–h675)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en             | name_zh     | image                               |
+|------|---------------------|-------------|-------------------------------------|
+| h671 | Hyomon              | 平文        | styles/714-hyomon.png               |
+| h672 | Ki-Seto             | 黄濑户      | styles/715-ki-seto.png              |
+| h673 | Peach Bloom         | 豇豆红      | styles/716-peach-bloom.png          |
+| h674 | Chiné à la Branche  | 经纱印花    | styles/717-chine-a-la-branche.png   |
+| h675 | Wheel-cut Glass     | 车刻玻璃    | styles/718-wheel-cut-glass.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 718, PNG count 718. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

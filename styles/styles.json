@@ -9267,5 +9267,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h671",
+    "slug": "hyomon",
+    "name_en": "Hyomon",
+    "name_zh": "平文",
+    "description_en": "Japanese hyōmon lacquer: cut gold, silver, and pewter sheets inlaid flush into black urushi and polished level; metal planes, not sprinkled maki-e.",
+    "description_zh": "平文漆：金银锡箔裁切嵌于黑漆再磨平，金属块面与漆面齐平，非莳绘洒粉。",
+    "source": "hermes-explore",
+    "image": "styles/714-hyomon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h672",
+    "slug": "ki-seto",
+    "name_en": "Ki-Seto",
+    "name_zh": "黄濑户",
+    "description_en": "Yellow Seto Mino ash glaze: mustard-to-amber wood ash, sparse iron-brown and copper-green splashes, dry crawl and kiln scorch.",
+    "description_zh": "黄濑户：美浓灰釉芥黄至琥珀，稀疏铁褐与铜绿点洒，干缩开片与窑火焦痕。",
+    "source": "hermes-explore",
+    "image": "styles/715-ki-seto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h673",
+    "slug": "peach-bloom",
+    "name_en": "Peach Bloom",
+    "name_zh": "豇豆红",
+    "description_en": "Kangxi peach-bloom copper-red glaze: mottled pink-to-liver blush over pale celadon-white, moss-green specks; not even sang-de-boeuf.",
+    "description_zh": "豇豆红：康熙铜红釉粉红至肝红晕斑覆青白胎，苔绿斑点，非均匀郎窑红。",
+    "source": "hermes-explore",
+    "image": "styles/716-peach-bloom.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h674",
+    "slug": "chine-a-la-branche",
+    "name_en": "Chiné à la Branche",
+    "name_zh": "经纱印花",
+    "description_en": "Warp printing: silk warp printed before weaving so motifs feather and stagger along the weft; Lyon chiné, not kasuri resist.",
+    "description_zh": "经纱印花：织前印经，纹样沿纬向羽化错位，里昂经纱印，非絣织防染。",
+    "source": "hermes-explore",
+    "image": "styles/717-chine-a-la-branche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h675",
+    "slug": "wheel-cut-glass",
+    "name_en": "Wheel-cut Glass",
+    "name_zh": "车刻玻璃",
+    "description_en": "Brilliant wheel cutting in thick crystal: deep mitres, strawberry diamonds, fans and hobnails; not Edo kiriko overlay facets.",
+    "description_zh": "车刻玻璃：厚水晶深V槽、草莓菱纹、扇纹与钉头纹，非江户切子套色细切。",
+    "source": "hermes-explore",
+    "image": "styles/718-wheel-cut-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
