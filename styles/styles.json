@@ -9007,5 +9007,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h651",
+    "slug": "yosegi",
+    "name_en": "Yosegi",
+    "name_zh": "寄木细工",
+    "description_en": "Hakone yosegi-zaiku: geometric wood mosaic of contrasting grains — asanoha, seigaiha, chevron, and diamond parquet.",
+    "description_zh": "箱根寄木细工，麻叶、青海波、人字与菱格等异色木纹几何镶拼。",
+    "source": "hermes-explore",
+    "image": "styles/694-yosegi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h652",
+    "slug": "cutwork",
+    "name_en": "Cutwork",
+    "name_zh": "雕绣",
+    "description_en": "Punto tagliato openwork: buttonhole-bound voids, needle-lace bars, and white linen with punched negative space.",
+    "description_zh": "雕绣镂空，锁边孔洞、针织连接梗与白亚麻上剪出的负空间。",
+    "source": "hermes-explore",
+    "image": "styles/695-cutwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h653",
+    "slug": "cosmati",
+    "name_en": "Cosmati",
+    "name_zh": "科斯马蒂镶嵌",
+    "description_en": "Cosmatesque marble inlay: porphyry, giallo antico, and white tesserae in triangles, rounds, and guilloche bands.",
+    "description_zh": "科斯马蒂石镶，斑岩、古黄石与白石三角、圆环与绞丝带几何铺装。",
+    "source": "hermes-explore",
+    "image": "styles/696-cosmati.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h654",
+    "slug": "calcedonio",
+    "name_en": "Calcedonio",
+    "name_zh": "玉髓玻璃",
+    "description_en": "Venetian calcedonio: chalcedony-veined glass with amethyst, rust, and gold mineral bands inside fire-polished melt.",
+    "description_zh": "威尼斯玉髓玻璃，紫晶、锈褐与金黄矿脉在火抛光熔体中的玛瑙条带。",
+    "source": "hermes-explore",
+    "image": "styles/697-calcedonio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h655",
+    "slug": "shou-sugi-ban",
+    "name_en": "Shou Sugi Ban",
+    "name_zh": "烧杉",
+    "description_en": "Yakisugi charred cedar: alligator-crack carbonized grain, sooty blacks, and burnished amber grooves.",
+    "description_zh": "烧杉炭化木纹，鳄鱼裂纹炭黑、烟灰哑光与抛光后的琥珀色沟槽。",
+    "source": "hermes-explore",
+    "image": "styles/698-shou-sugi-ban.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

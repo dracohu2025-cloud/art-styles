@@ -1829,6 +1829,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 693, PNG count 693. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 131 (exactly 5, h651–h655)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en        | name_zh         | image                             |
+|------|----------------|-----------------|-----------------------------------|
+| h651 | Yosegi         | 寄木细工        | styles/694-yosegi.png             |
+| h652 | Cutwork        | 雕绣            | styles/695-cutwork.png            |
+| h653 | Cosmati        | 科斯马蒂镶嵌    | styles/696-cosmati.png            |
+| h654 | Calcedonio     | 玉髓玻璃        | styles/697-calcedonio.png         |
+| h655 | Shou Sugi Ban  | 烧杉            | styles/698-shou-sugi-ban.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 698, PNG count 698. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
