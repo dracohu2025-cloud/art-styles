@@ -2011,6 +2011,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 758, PNG count 758. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 144 (exactly 5, h716–h720)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h716 | Kumihimo           | 组纽          | styles/759-kumihimo.png            |
+| h717 | Shu Embroidery     | 蜀绣          | styles/760-shu-embroidery.png      |
+| h718 | Soda Glaze         | 苏打釉        | styles/761-soda-glaze.png          |
+| h719 | Balloton           | 巴洛通玻璃    | styles/762-balloton.png            |
+| h720 | Ñandutí            | 南杜蒂花边    | styles/763-nanduti.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 763, PNG count 763. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -9852,5 +9852,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h716",
+    "slug": "kumihimo",
+    "name_en": "Kumihimo",
+    "name_zh": "组纽",
+    "description_en": "Japanese silk braiding: round and flat cords in diamond, chevron and karakumi sequences, filament twist and kute-uchi tension, not kumiko wood lattice, not embroidery, not macramé.",
+    "description_zh": "组纽：圆编与平编丝绳以菱格、人字与唐组配色，可见股线扭转与打手张力，非细工木格、非刺绣、非编结。",
+    "source": "hermes-explore",
+    "image": "styles/759-kumihimo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h717",
+    "slug": "shu-embroidery",
+    "name_en": "Shu Embroidery",
+    "name_zh": "蜀绣",
+    "description_en": "Sichuan silk embroidery: dense satin and long-and-short stitches, hair-fine floss sheen and blended modeling, not Suzhou double-sided showpiece, not Xiang embroidery, not goldwork.",
+    "description_zh": "蜀绣：缎针与长短针密铺，丝绒极细、光泽过渡塑形，非苏绣双面、非湘绣、非金银线盘金。",
+    "source": "hermes-explore",
+    "image": "styles/760-shu-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h718",
+    "slug": "soda-glaze",
+    "name_en": "Soda Glaze",
+    "name_zh": "苏打釉",
+    "description_en": "Sodium-vapor high-fire flashing: peach-to-olive blush, carbon trap and orange-peel, directional flame-path soda, not salt-glaze crust, not raku, not obvara scald.",
+    "description_zh": "苏打釉：高温钠汽熏染，桃橙至橄榄闪色、积碳与橘皮，沿火路走色，非盐釉厚壳、非乐烧、非奥布瓦拉烫伤。",
+    "source": "hermes-explore",
+    "image": "styles/761-soda-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h719",
+    "slug": "balloton",
+    "name_en": "Balloton",
+    "name_zh": "巴洛通玻璃",
+    "description_en": "Venetian optic-molded diamond-quilted hot glass: regular lozenge pillows, refractive vertices, thick crystal, not reticello threads, not battuto wheel-cut, not millefiori.",
+    "description_zh": "巴洛通：威尼斯光模菱格热玻璃，规则枕状凸起与顶点折射，厚水晶，非网纹玻璃丝、非车刻锤纹、非千花。",
+    "source": "hermes-explore",
+    "image": "styles/762-balloton.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h720",
+    "slug": "nanduti",
+    "name_en": "Ñandutí",
+    "name_zh": "南杜蒂花边",
+    "description_en": "Paraguayan sun-lace: needle-lace wheels radiating from circular centers, spokes and picots, tiled sunburst medallions, not Chantilly, not Alençon, not tatting, not whitework satin.",
+    "description_zh": "南杜蒂：巴拉圭太阳蕾丝，以圆心辐射轮、辐条与珠边铺满日轮纹，非尚蒂伊、非阿朗松、非梭织花边、非白缎绣。",
+    "source": "hermes-explore",
+    "image": "styles/763-nanduti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
