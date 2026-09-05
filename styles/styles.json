@@ -8747,5 +8747,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h631",
+    "slug": "print-gocco",
+    "name_en": "Print Gocco",
+    "name_zh": "哥科孔版",
+    "description_en": "Print Gocco: thermal-screen pad printing as the image method—opaque flash-dry spot inks stamped through a heat-burned stencil, foam-pad impression, slight layer misregistration, creamy paper show-through; not risograph grain, not mimeograph purple, not silkscreen mesh.",
+    "description_zh": "哥科孔版：以热敏孔版垫印入画，不透明快干专色透过烙孔版垫压、轻微套印错位与奶油纸露底，非孔版印刷颗粒，非誊写油印紫，亦非丝网网纹。",
+    "source": "hermes-explore",
+    "image": "styles/674-print-gocco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h632",
+    "slug": "scherenschnitte",
+    "name_en": "Scherenschnitte",
+    "name_zh": "黑影剪纸",
+    "description_en": "Scherenschnitte: German scissor-cut silhouette as the image method—single black paper sheet, knife-and-scissors openwork, white ground through the voids, paper-thin edge shadow; not colorful Polish wycinanki, not multi-color Chinese papercut, not inked silhouette painting.",
+    "description_zh": "黑影剪纸：以德式剪刀剪影入画，单张黑纸镂空、刀剪开光、白地透空与薄纸边影，非波兰彩纸维齐南基，非多色中国剪纸，亦非墨绘剪影。",
+    "source": "hermes-explore",
+    "image": "styles/675-scherenschnitte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h633",
+    "slug": "parquetry",
+    "name_en": "Parquetry",
+    "name_zh": "几何木拼",
+    "description_en": "Parquetry: geometric wood-veneer tessellation as the image method—herringbone, diamonds, tumbling cubes, bookmatched grain, knife-cut veneer seams; not pictorial marquetry, not intarsia puzzle figures, not straw marquetry.",
+    "description_zh": "几何木拼：以几何木皮拼花入画，人字、菱形、立方错视与对纹木纹、刀切接缝，非图画细木镶嵌，非嵌木拼图，亦非麦秆镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/676-parquetry.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h634",
+    "slug": "doro-e",
+    "name_en": "Doro-e",
+    "name_zh": "泥绘",
+    "description_en": "Doro-e: Edo opaque mud painting as the image method—thick mineral pigments mixed like mud, matte chalky body color, limited earthy-bright opaque palette, crusty pigment ridges, no woodblock key-line; not ukiyo-e, not nihonga mineral wash, not western gouache.",
+    "description_zh": "泥绘：以江户泥绘入画，矿物颜料调如泥浆、哑光粉质体色、有限土亮不透明色与结壳笔脊，无版画主线，非浮世绘，非日本画矿彩渲染，亦非西方水粉。",
+    "source": "hermes-explore",
+    "image": "styles/677-doro-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h635",
+    "slug": "eco-print",
+    "name_en": "Eco Print",
+    "name_zh": "植物蒸印",
+    "description_en": "Eco print: botanical contact steam print as the image method—leaves and flowers bundled and steamed against cloth, tannin ghost silhouettes, rusty iron-mordant halos, leaf-vein impressions; not inked nature printing, not cyanotype, not anthotype.",
+    "description_zh": "植物蒸印：以植物接触蒸印入画，叶花捆蒸于布、单宁残影、铁锈媒染晕与叶脉压痕，非着墨自然印花，非蓝晒，亦非花汁日晒印。",
+    "source": "hermes-explore",
+    "image": "styles/678-eco-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -1773,6 +1773,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 673, PNG count 673. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 127 (exactly 5, h631–h635)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh     | image                              |
+|------|-----------------|-------------|------------------------------------|
+| h631 | Print Gocco     | 哥科孔版    | styles/674-print-gocco.png         |
+| h632 | Scherenschnitte | 黑影剪纸    | styles/675-scherenschnitte.png     |
+| h633 | Parquetry       | 几何木拼    | styles/676-parquetry.png           |
+| h634 | Doro-e          | 泥绘        | styles/677-doro-e.png              |
+| h635 | Eco Print       | 植物蒸印    | styles/678-eco-print.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 678, PNG count 678. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
