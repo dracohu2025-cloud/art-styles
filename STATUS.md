@@ -1633,6 +1633,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 623, PNG count 623. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 117 (exactly 5, h581–h585)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh     | image                               |
+|------|-------------------|-------------|-------------------------------------|
+| h581 | Battuto           | 锤纹玻璃    | styles/624-battuto.png              |
+| h582 | Crystalline Glaze | 结晶釉      | styles/625-crystalline-glaze.png    |
+| h583 | Bobbin Lace       | 线轴蕾丝    | styles/626-bobbin-lace.png          |
+| h584 | Cire Perdue       | 失蜡铸造    | styles/627-cire-perdue.png          |
+| h585 | Pen and Wash      | 钢笔淡彩    | styles/628-pen-and-wash.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 628, PNG count 628. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

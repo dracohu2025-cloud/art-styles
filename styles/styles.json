@@ -8097,5 +8097,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h581",
+    "slug": "battuto",
+    "name_en": "Battuto",
+    "name_zh": "锤纹玻璃",
+    "description_en": "Venetian battuto: cold-worked hammered glass, dense irregular chisel facets catching raking light through a translucent body.",
+    "description_zh": "威尼斯锤纹玻璃：冷加工锤面，密集不规则凿面在透光玻璃体上折光。",
+    "source": "hermes-explore",
+    "image": "styles/624-battuto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h582",
+    "slug": "crystalline-glaze",
+    "name_en": "Crystalline Glaze",
+    "name_zh": "结晶釉",
+    "description_en": "Zinc-silicate crystalline glaze: radiating starburst and fan crystals in a high-fire glossy ground with kiln-flow drips.",
+    "description_zh": "结晶釉：锌硅酸盐放射星晶与扇晶生于高温亮釉地，窑流垂釉。",
+    "source": "hermes-explore",
+    "image": "styles/625-crystalline-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h583",
+    "slug": "bobbin-lace",
+    "name_en": "Bobbin Lace",
+    "name_zh": "线轴蕾丝",
+    "description_en": "Bobbin lace: continuous-thread pillow lace, cloth-stitch and half-stitch grounds, open reseau, raised gimp outlines.",
+    "description_zh": "线轴蕾丝：枕上连续线织，布纹针与半针地网、透空网眼、加粗轮廓线。",
+    "source": "hermes-explore",
+    "image": "styles/626-bobbin-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h584",
+    "slug": "cire-perdue",
+    "name_en": "Cire Perdue",
+    "name_zh": "失蜡铸造",
+    "description_en": "Lost-wax bronze: wax-tool modeling cast in metal, patina in recesses, chasing marks and investment grain.",
+    "description_zh": "失蜡青铜：蜡塑痕迹转入金属，凹处包浆、錾刻与铸型砂粒。",
+    "source": "hermes-explore",
+    "image": "styles/627-cire-perdue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h585",
+    "slug": "pen-and-wash",
+    "name_en": "Pen and Wash",
+    "name_zh": "钢笔淡彩",
+    "description_en": "Pen and wash: waterproof ink contour and hatch with transparent watercolor washes on cold-press paper.",
+    "description_zh": "钢笔淡彩：防水墨线勾勒排线，再罩透明水彩于冷压纸面。",
+    "source": "hermes-explore",
+    "image": "styles/628-pen-and-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
