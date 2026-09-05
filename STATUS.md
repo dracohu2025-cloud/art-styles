@@ -1913,6 +1913,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 723, PNG count 723. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 137 (exactly 5, h681–h685)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h681 | Moiré              | 波纹绸      | styles/724-moire.png               |
+| h682 | Ciselé Velvet      | 雕绒        | styles/725-cisele-velvet.png       |
+| h683 | Roiro              | 吕色漆      | styles/726-roiro.png               |
+| h684 | Paillonné          | 箔底珐琅    | styles/727-paillonne.png           |
+| h685 | Opus Reticulatum   | 网状砌工    | styles/728-opus-reticulatum.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 728, PNG count 728. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

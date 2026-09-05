@@ -9397,5 +9397,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h681",
+    "slug": "moire",
+    "name_en": "Moiré",
+    "name_zh": "波纹绸",
+    "description_en": "Watered silk: calendered rib weave with interference ripples, crushed-gloss vs dull bands, moiré d'eau undulation; not printed woodgrain and not shot-silk color-change alone.",
+    "description_zh": "波纹绸：罗纹丝轧光干涉水纹，明暗波带交叠，非印木纹，亦非单纯闪色绸。",
+    "source": "hermes-explore",
+    "image": "styles/724-moire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h682",
+    "slug": "cisele-velvet",
+    "name_en": "Ciselé Velvet",
+    "name_zh": "雕绒",
+    "description_en": "Sculpted velvet: cut pile against uncut loops forming high-low relief motifs; pile-height carving, not voided velvet gaps and not printed pile.",
+    "description_zh": "雕绒：割绒与圈绒高低成纹，靠绒高浮雕，非镂花空地天鹅绒，亦非印花绒。",
+    "source": "hermes-explore",
+    "image": "styles/725-cisele-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h683",
+    "slug": "roiro",
+    "name_en": "Roiro",
+    "name_zh": "吕色漆",
+    "description_en": "Mirror-black urushi: roiro-nuri polished to wet glass, jet lacquer with sparse gold dust; not nashiji aventurine ground and not maki-e pictorial sprinkling.",
+    "description_zh": "吕色漆：黑漆推光如湿镜，偶见金粉，非梨地洒金，亦非莳绘图画。",
+    "source": "hermes-explore",
+    "image": "styles/726-roiro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h684",
+    "slug": "paillonne",
+    "name_en": "Paillonné",
+    "name_zh": "箔底珐琅",
+    "description_en": "Foil-backed enamel: translucent vitreous flux fired over crumpled gold/silver paillons that glitter through color; not cloisonné wires and not plique-à-jour openwork.",
+    "description_zh": "箔底珐琅：透明珐琅烧在皱箔上透金闪烁，非掐丝，亦非镂空珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/727-paillonne.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h685",
+    "slug": "opus-reticulatum",
+    "name_en": "Opus Reticulatum",
+    "name_zh": "网状砌工",
+    "description_en": "Roman diamond-net masonry: square tufa pyramids set on point in a lozenge lattice with mortar joints; not opus tessellatum mosaic cubes and not opus incertum rubble.",
+    "description_zh": "网状砌工：凝灰岩方锥斜置成菱格网带灰缝，非网格马赛克方块，亦非乱石砌。",
+    "source": "hermes-explore",
+    "image": "styles/728-opus-reticulatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
