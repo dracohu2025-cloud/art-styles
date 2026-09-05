@@ -10112,5 +10112,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h736",
+    "slug": "takamaki-e",
+    "name_en": "Takamaki-e",
+    "name_zh": "高莳绘",
+    "description_en": "Takamaki-e: raised Japanese maki-e lacquer built up with sprinkled gold and colored urushi on a black ground, high-relief metal-powder ridges, not flat hiramaki-e, not togidashi polish.",
+    "description_zh": "高莳绘：在黑漆地上堆起金粉与彩漆的高浮雕莳绘，金属粉棱脊受光，非平莳绘、非研出莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/779-takamaki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h737",
+    "slug": "pargeting",
+    "name_en": "Pargeting",
+    "name_zh": "灰泥浮雕",
+    "description_en": "Pargeting: English ornamental lime-plaster relief with strapwork, tooled ridges and limewash bloom on timber-framed walls, not marble carving, not fresco, not stucco.",
+    "description_zh": "灰泥浮雕：英式石灰泥装饰浮雕，卷草与梳纹、粉刷白霜贴在木构墙面，非大理石雕、非湿壁画、非灰泥壁画。",
+    "source": "hermes-explore",
+    "image": "styles/780-pargeting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h738",
+    "slug": "song-brocade",
+    "name_en": "Song Brocade",
+    "name_zh": "宋锦",
+    "description_en": "Song brocade: warp-faced Song-dynasty silk with repeating geometric lozenges, nested octagons and gold weft floats, woven thread pixels, not Yunjin, not kesi, not embroidery.",
+    "description_zh": "宋锦：宋代经面织锦，菱格套八边形与金纬浮线、织纹像素可见，非云锦、非缂丝、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/781-song-brocade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h739",
+    "slug": "naked-raku",
+    "name_en": "Naked Raku",
+    "name_zh": "裸烧",
+    "description_en": "Naked raku: white crackle slip peeled after smoking so carbon veins stain the clay body, dry matte ceramic, not glazed raku, not horsehair raku, not obvara.",
+    "description_zh": "裸烧：熏烧后揭去白色裂纹化妆土，碳黑脉络渗入陶体，干哑陶瓷，非釉乐烧、非马毛乐烧、非奥布瓦拉。",
+    "source": "hermes-explore",
+    "image": "styles/782-naked-raku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h740",
+    "slug": "crible",
+    "name_en": "Crible",
+    "name_zh": "点凿铜版",
+    "description_en": "Crible: 15th-century dotted metalcut, punched white dots and star-punches on a black plate with engraved outlines, not mezzotint, not stipple engraving, not woodcut.",
+    "description_zh": "点凿铜版：十五世纪白点金属凸刻，黑地上凿白点与星形冲孔、阴刻轮廓，非美柔汀、非点刻铜版、非木刻。",
+    "source": "hermes-explore",
+    "image": "styles/783-crible.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -2067,6 +2067,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 778, PNG count 778. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 148 (exactly 5, h736–h740)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h736 | Takamaki-e         | 高莳绘        | styles/779-takamaki-e.png          |
+| h737 | Pargeting          | 灰泥浮雕      | styles/780-pargeting.png           |
+| h738 | Song Brocade       | 宋锦          | styles/781-song-brocade.png        |
+| h739 | Naked Raku         | 裸烧          | styles/782-naked-raku.png          |
+| h740 | Crible             | 点凿铜版      | styles/783-crible.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 783, PNG count 783. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
