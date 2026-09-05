@@ -10307,5 +10307,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h751",
+    "slug": "ivory-miniature",
+    "name_en": "Ivory Miniature",
+    "name_zh": "象牙细密画",
+    "description_en": "Stippled watercolor on polished ivory; porcelain skin, oval plaque glow.",
+    "description_zh": "象牙底上点染水彩；瓷质肤色、椭圆牌匾光晕。",
+    "source": "hermes-explore",
+    "image": "styles/794-ivory-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h752",
+    "slug": "dabu",
+    "name_en": "Dabu",
+    "name_zh": "达布泥防染",
+    "description_en": "Rajasthani mud-resist block print; indigo-madder dyes, cracked reserved motifs.",
+    "description_zh": "拉贾斯坦泥浆防染木版印；靛蓝茜红、开裂留白纹样。",
+    "source": "hermes-explore",
+    "image": "styles/795-dabu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h753",
+    "slug": "gofun",
+    "name_en": "Gofun",
+    "name_zh": "胡粉罩白",
+    "description_en": "Layered oyster-shell white of Nihonga; chalky luminous whites on washi.",
+    "description_zh": "日本画胡粉层层罩白；和纸上的白垩光泽。",
+    "source": "hermes-explore",
+    "image": "styles/796-gofun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h754",
+    "slug": "pierre-noire",
+    "name_en": "Pierre Noire",
+    "name_zh": "黑石粉笔画",
+    "description_en": "Velvety black chalk on toned laid paper; reserved lights, stumped midtones.",
+    "description_zh": "暖色铺纹纸上的丝绒黑石粉笔；留白高光、擦揉中间调。",
+    "source": "hermes-explore",
+    "image": "styles/797-pierre-noire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h755",
+    "slug": "lithotint",
+    "name_en": "Lithotint",
+    "name_zh": "石版淡彩",
+    "description_en": "Painterly tusche washes printed from stone; granular greys, no engraved line.",
+    "description_zh": "油脂墨水在石版上的渲染印制；颗粒灰阶、无雕版硬线。",
+    "source": "hermes-explore",
+    "image": "styles/798-lithotint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

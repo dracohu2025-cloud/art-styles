@@ -2109,6 +2109,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 793, PNG count 793. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 151 (exactly 5, h751–h755)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h751 | Ivory Miniature    | 象牙细密画    | styles/794-ivory-miniature.png     |
+| h752 | Dabu               | 达布泥防染    | styles/795-dabu.png                |
+| h753 | Gofun              | 胡粉罩白      | styles/796-gofun.png               |
+| h754 | Pierre Noire       | 黑石粉笔画    | styles/797-pierre-noire.png        |
+| h755 | Lithotint          | 石版淡彩      | styles/798-lithotint.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 798, PNG count 798. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
