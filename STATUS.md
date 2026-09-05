@@ -1801,6 +1801,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 683, PNG count 683. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 129 (exactly 5, h641–h645)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh     | image                              |
+|------|-----------------|-------------|------------------------------------|
+| h641 | Filigree        | 花丝        | styles/684-filigree.png            |
+| h642 | Pezzato         | 拼色玻璃    | styles/685-pezzato.png             |
+| h643 | Jujube-pit Line | 枣核描      | styles/686-jujube-pit-line.png     |
+| h644 | Tatting         | 梭结蕾丝    | styles/687-tatting.png             |
+| h645 | Musen-Shippō    | 无线七宝    | styles/688-musen-shippo.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 688, PNG count 688. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

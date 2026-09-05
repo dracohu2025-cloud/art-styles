@@ -8877,5 +8877,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h641",
+    "slug": "filigree",
+    "name_en": "Filigree",
+    "name_zh": "花丝",
+    "description_en": "Twisted-wire openwork in gold and silver, scrolling volutes and soldered joins.",
+    "description_zh": "金银花丝镂空，扭丝卷草与焊点衔接。",
+    "source": "hermes-explore",
+    "image": "styles/684-filigree.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h642",
+    "slug": "pezzato",
+    "name_en": "Pezzato",
+    "name_zh": "拼色玻璃",
+    "description_en": "Venini-type fused patchwork glass: irregular saturated tesserae with visible melt seams.",
+    "description_zh": "威尼斯拼色熔接玻璃，不规则饱和色块与熔缝。",
+    "source": "hermes-explore",
+    "image": "styles/685-pezzato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h643",
+    "slug": "jujube-pit-line",
+    "name_en": "Jujube-pit Line",
+    "name_zh": "枣核描",
+    "description_en": "Chinese figure stroke thin at both ends and swollen in the middle like a jujube pit.",
+    "description_zh": "两端细中段粗如枣核的古典人物线描。",
+    "source": "hermes-explore",
+    "image": "styles/686-jujube-pit-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h644",
+    "slug": "tatting",
+    "name_en": "Tatting",
+    "name_zh": "梭结蕾丝",
+    "description_en": "Shuttle-lace rings, chains, and picots knotted into airy cream threadwork.",
+    "description_zh": "梭结蕾丝的环、链与齿边，米白线结镂空。",
+    "source": "hermes-explore",
+    "image": "styles/687-tatting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h645",
+    "slug": "musen-shippo",
+    "name_en": "Musen-Shippō",
+    "name_zh": "无线七宝",
+    "description_en": "Wireless cloisonné enamel: glassy color pools with no metal cloisons, fire-polished flux.",
+    "description_zh": "无线七宝珐琅，无金属隔丝的玻璃质融色与火抛光。",
+    "source": "hermes-explore",
+    "image": "styles/688-musen-shippo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
