@@ -7707,5 +7707,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h551",
+    "slug": "katakiri-bori",
+    "name_en": "Katakiri-bori",
+    "name_zh": "片切彫",
+    "description_en": "Japanese slanted-chisel engraving: tapering triangular cuts mimic brush strokes on dark patinated metal.",
+    "description_zh": "日本片切彫：斜凿三角刀痕在暗色铜铁上摹仿墨笔收锋。",
+    "source": "hermes-explore",
+    "image": "styles/594-katakiri-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h552",
+    "slug": "suzhou-embroidery",
+    "name_en": "Suzhou Embroidery",
+    "name_zh": "苏绣",
+    "description_en": "Split-silk needle painting: directional satin stitches blend tones on cream ground with filament sheen.",
+    "description_zh": "劈丝仿真绣：套针顺势晕色，丝光浮于米白缎地。",
+    "source": "hermes-explore",
+    "image": "styles/595-suzhou-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h553",
+    "slug": "talavera",
+    "name_en": "Talavera",
+    "name_zh": "塔拉维拉彩陶",
+    "description_en": "Mexican tin-glazed earthenware: cobalt, antimony yellow, copper green and manganese on craquelure white glaze.",
+    "description_zh": "墨西哥锡釉彩陶：钴蓝、锑黄、铜绿与锰紫绘于开片白釉。",
+    "source": "hermes-explore",
+    "image": "styles/596-talavera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h554",
+    "slug": "gorodets",
+    "name_en": "Gorodets",
+    "name_zh": "戈罗杰茨彩绘",
+    "description_en": "Russian Gorodets panel painting: opaque aniline reds and yellows, black outline, kupavka roses on varnished wood.",
+    "description_zh": "俄罗斯戈罗杰茨板绘：不透明苯胺红黄、黑线勾勒、木上库帕夫卡玫瑰。",
+    "source": "hermes-explore",
+    "image": "styles/597-gorodets.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h555",
+    "slug": "paget-process",
+    "name_en": "Paget Process",
+    "name_zh": "帕吉特彩屏",
+    "description_en": "Early additive color plate: ruled RGB viewing screen over a panchromatic glass transparency.",
+    "description_zh": "早期加色法彩屏：红绿蓝线屏覆于全色玻璃正片。",
+    "source": "hermes-explore",
+    "image": "styles/598-paget-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

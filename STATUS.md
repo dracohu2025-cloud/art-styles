@@ -1549,6 +1549,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 593, PNG count 593. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 111 (exactly 5, h551–h555)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh            | image                                  |
+|------|--------------------|--------------------|----------------------------------------|
+| h551 | Katakiri-bori      | 片切彫             | styles/594-katakiri-bori.png           |
+| h552 | Suzhou Embroidery  | 苏绣               | styles/595-suzhou-embroidery.png       |
+| h553 | Talavera           | 塔拉维拉彩陶       | styles/596-talavera.png                |
+| h554 | Gorodets           | 戈罗杰茨彩绘       | styles/597-gorodets.png                |
+| h555 | Paget Process      | 帕吉特彩屏         | styles/598-paget-process.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 598, PNG count 598. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
