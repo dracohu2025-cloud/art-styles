@@ -9657,5 +9657,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h701",
+    "slug": "zisha",
+    "name_en": "Zisha",
+    "name_zh": "紫砂",
+    "description_en": "Yixing zisha: unglazed purple-clay body with granular mineral sparkle, throwing rings and tooled seams — not porcelain glaze, not celadon, not overglaze enamel.",
+    "description_zh": "宜兴紫砂：无釉紫泥砂质颗粒、拉坯弦纹与修坯接缝，非瓷釉、非青瓷、非釉上彩。",
+    "source": "hermes-explore",
+    "image": "styles/744-zisha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h702",
+    "slug": "alencon-lace",
+    "name_en": "Alençon Lace",
+    "name_zh": "阿朗松花边",
+    "description_en": "Point d'Alençon needle lace: hexagonal réseau, raised cordonnet outlines, picots and filling modes — not machine tulle, not guipure, not Irish crochet.",
+    "description_zh": "阿朗松针绣花边：六角网地、凸起轮廓线、珠边与填针，非机制薄纱、非实心花边、非爱尔兰钩针。",
+    "source": "hermes-explore",
+    "image": "styles/745-alencon-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h703",
+    "slug": "passementerie",
+    "name_en": "Passementerie",
+    "name_zh": "穗饰",
+    "description_en": "Passementerie trimmings: silk cord, gimp, bullion, tassels, frogging and braid as the image itself — not surface embroidery, not bobbin lace, not jewelry metalwork.",
+    "description_zh": "穗饰：丝绳、缠芯线、金银捻线、流苏、盘扣与辫带构成画面，非平面刺绣、非线轴花边、非金银首饰。",
+    "source": "hermes-explore",
+    "image": "styles/746-passementerie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h704",
+    "slug": "uranotype",
+    "name_en": "Uranotype",
+    "name_zh": "铀盐印相",
+    "description_en": "Uranium printing-out paper: olive-brown to rust-green continuous tone with chemical stain — not silver-gelatin cool black, not cyanotype blue, not platinum gray.",
+    "description_zh": "铀盐印相：橄榄褐至锈绿连续调与药液渍斑，非银盐冷黑、非蓝晒、非铂金灰。",
+    "source": "hermes-explore",
+    "image": "styles/747-uranotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h705",
+    "slug": "sprang",
+    "name_en": "Sprang",
+    "name_zh": "斜编",
+    "description_en": "Sprang plaiting: twisted warp mesh with mirror-symmetric diamond and hourglass openings — not knitting, not crochet, not bobbin lace, not tablet weaving.",
+    "description_zh": "斜编：经线扭转网眼、镜像对称菱形与沙漏孔，非针织、非钩针、非线轴花边、非卡片织带。",
+    "source": "hermes-explore",
+    "image": "styles/748-sprang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

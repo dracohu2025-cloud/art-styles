@@ -1969,6 +1969,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 743, PNG count 743. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 141 (exactly 5, h701–h705)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h701 | Zisha              | 紫砂        | styles/744-zisha.png               |
+| h702 | Alençon Lace       | 阿朗松花边  | styles/745-alencon-lace.png        |
+| h703 | Passementerie      | 穗饰        | styles/746-passementerie.png       |
+| h704 | Uranotype          | 铀盐印相    | styles/747-uranotype.png           |
+| h705 | Sprang             | 斜编        | styles/748-sprang.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 748, PNG count 748. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
