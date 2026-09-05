@@ -8292,5 +8292,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h596",
+    "slug": "jianzhan",
+    "name_en": "Jianzhan",
+    "name_zh": "建盏",
+    "description_en": "Jianzhan: Song iron-glaze stoneware, hare's-fur streaks, oil-spot crystals, pooled black-brown glaze.",
+    "description_zh": "建盏：宋代铁釉炻器，兔毫流纹、油滴结晶、积釉黑褐。",
+    "source": "hermes-explore",
+    "image": "styles/639-jianzhan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h597",
+    "slug": "chusen",
+    "name_en": "Chusen",
+    "name_zh": "注染",
+    "description_en": "Chūsen: poured stencil dyeing, rice-paste resist, double-sided soak, blurred dye floods on cotton.",
+    "description_zh": "注染：镂版注色染，防染糊、双面渗透、棉布上的晕色色块。",
+    "source": "hermes-explore",
+    "image": "styles/640-chusen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h598",
+    "slug": "ariel-glass",
+    "name_en": "Ariel Glass",
+    "name_zh": "阿里尔玻璃",
+    "description_en": "Ariel glass: cased crystal with sandblasted air-trap cavities sealed between layers, optical refraction.",
+    "description_zh": "阿里尔玻璃：套层水晶中封入喷砂气穴，内气泡与折射成像。",
+    "source": "hermes-explore",
+    "image": "styles/641-ariel-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h599",
+    "slug": "mocha-diffusion",
+    "name_en": "Mocha Diffusion",
+    "name_zh": "摩卡渗纹",
+    "description_en": "Mocha diffusion: acid dropped into wet slip, dendritic fern trees, colored banding on earthenware.",
+    "description_zh": "摩卡渗纹：湿化妆土上滴酸，蕨状树枝纹与色带化妆土。",
+    "source": "hermes-explore",
+    "image": "styles/642-mocha-diffusion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h600",
+    "slug": "schwarzlot",
+    "name_en": "Schwarzlot",
+    "name_zh": "黑彩玻璃绘",
+    "description_en": "Schwarzlot: fired black enamel on glass, hatching and wash like copperplate, vitreous sheen.",
+    "description_zh": "黑彩玻璃绘：玻璃上烧制黑釉彩，铜版般排线与渲染，釉面反光。",
+    "source": "hermes-explore",
+    "image": "styles/643-schwarzlot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

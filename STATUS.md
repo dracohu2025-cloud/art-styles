@@ -1675,6 +1675,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 638, PNG count 638. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 120 (exactly 5, h596–h600)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en         | name_zh       | image                            |
+|------|-----------------|---------------|----------------------------------|
+| h596 | Jianzhan        | 建盏          | styles/639-jianzhan.png          |
+| h597 | Chusen          | 注染          | styles/640-chusen.png            |
+| h598 | Ariel Glass     | 阿里尔玻璃    | styles/641-ariel-glass.png       |
+| h599 | Mocha Diffusion | 摩卡渗纹      | styles/642-mocha-diffusion.png   |
+| h600 | Schwarzlot      | 黑彩玻璃绘    | styles/643-schwarzlot.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 643, PNG count 643. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
