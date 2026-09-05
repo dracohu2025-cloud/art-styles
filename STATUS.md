@@ -1437,6 +1437,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 553, PNG count 553. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 103 (exactly 5, h511–h515)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh        | image                                |
+|------|--------------------|----------------|--------------------------------------|
+| h511 | Brunaille          | 棕单色         | styles/554-brunaille.png             |
+| h512 | Water Gilding      | 水贴金         | styles/555-water-gilding.png         |
+| h513 | Kilim              | 基里姆         | styles/556-kilim.png                 |
+| h514 | Xerography         | 静电复印       | styles/557-xerography.png            |
+| h515 | Opus Vermiculatum  | 蠕虫镶嵌       | styles/558-opus-vermiculatum.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 558, PNG count 558. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

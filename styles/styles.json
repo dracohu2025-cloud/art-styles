@@ -7187,5 +7187,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h511",
+    "slug": "brunaille",
+    "name_en": "Brunaille",
+    "name_zh": "棕单色",
+    "description_en": "Brown-monochrome oil: umber and sienna glazes only, warm imprimatura, no gray grisaille and no full chroma.",
+    "description_zh": "棕单色油画：仅用赭褐釉染与暖色底，异于灰色单色与全彩。",
+    "source": "hermes-explore",
+    "image": "styles/554-brunaille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h512",
+    "slug": "water-gilding",
+    "name_en": "Water Gilding",
+    "name_zh": "水贴金",
+    "description_en": "Water-gilded gold leaf over red bole on gesso: burnish, punchwork, and bole showing at cracks.",
+    "description_zh": "水贴金：红土打底贴金箔，抛光与錾点，裂纹露出土红。",
+    "source": "hermes-explore",
+    "image": "styles/555-water-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h513",
+    "slug": "kilim",
+    "name_en": "Kilim",
+    "name_zh": "基里姆",
+    "description_en": "Slit-tapestry flatweave: weft-faced wool, vertical slits, stepped lozenges and latch-hook geometry.",
+    "description_zh": "基里姆：开口织平织毯，纬面毛线、竖向开缝与阶梯菱纹。",
+    "source": "hermes-explore",
+    "image": "styles/556-kilim.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h514",
+    "slug": "xerography",
+    "name_en": "Xerography",
+    "name_zh": "静电复印",
+    "description_en": "Photocopy art: high-contrast toner grain, generation loss, copier streaks and electrostatic scatter.",
+    "description_zh": "静电复印艺术：高反差碳粉颗粒、代际损耗、复印条纹与静电散点。",
+    "source": "hermes-explore",
+    "image": "styles/557-xerography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h515",
+    "slug": "opus-vermiculatum",
+    "name_en": "Opus Vermiculatum",
+    "name_zh": "蠕虫镶嵌",
+    "description_en": "Fine Hellenistic mosaic: tiny tesserae in worm-like contour andamento wrapping the form.",
+    "description_zh": "蠕虫镶嵌：细小马赛克沿轮廓作蠕虫状走向，异于粗块镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/558-opus-vermiculatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
