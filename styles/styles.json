@@ -8227,5 +8227,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h591",
+    "slug": "craquelure",
+    "name_en": "Craquelure",
+    "name_zh": "开裂纹饰",
+    "description_en": "Craquelure: aged varnish and paint film splitting into an all-over island network of fine irregular cracks.",
+    "description_zh": "开裂纹饰：老化光油与色层开裂，形成遍布画面的不规则细裂纹岛网。",
+    "source": "hermes-explore",
+    "image": "styles/634-craquelure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h592",
+    "slug": "itajime",
+    "name_en": "Itajime",
+    "name_zh": "板缔",
+    "description_en": "Itajime: board-clamp shibori — accordion folds and wooden blocks reserve hard geometric diamonds and chevrons in dye.",
+    "description_zh": "板缔：夹板绞缬，手风琴折叠与木板夹防染，留下硬边菱形与折线几何。",
+    "source": "hermes-explore",
+    "image": "styles/635-itajime.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h593",
+    "slug": "faience",
+    "name_en": "Faience",
+    "name_zh": "费昂斯",
+    "description_en": "Faience: opaque tin-glazed earthenware, milky white ground, cobalt-manganese-copper painting, pooled glaze and fine crazing.",
+    "description_zh": "费昂斯：不透明锡釉陶，乳白地，钴紫铜绿彩绘，釉积与细开片。",
+    "source": "hermes-explore",
+    "image": "styles/636-faience.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h594",
+    "slug": "petit-point",
+    "name_en": "Petit Point",
+    "name_zh": "小点绣",
+    "description_en": "Petit point: pictorial tent-stitch needlepoint on fine canvas, minute diagonal wool stitches and visible mesh.",
+    "description_zh": "小点绣：细布上的斜向小点针绣，羊毛短针与可见网眼构成整幅画面。",
+    "source": "hermes-explore",
+    "image": "styles/637-petit-point.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h595",
+    "slug": "drybrush",
+    "name_en": "Drybrush",
+    "name_zh": "干笔",
+    "description_en": "Drybrush: nearly dry bristle dragging scant pigment across tooth, broken skipping strokes, paper sparkle through.",
+    "description_zh": "干笔：近干鬃毛刮过纸齿，断续跳笔，底纸齿孔透出闪光。",
+    "source": "hermes-explore",
+    "image": "styles/638-drybrush.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

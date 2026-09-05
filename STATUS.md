@@ -1661,6 +1661,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 633, PNG count 633. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 119 (exactly 5, h591–h595)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en     | name_zh     | image                         |
+|------|-------------|-------------|-------------------------------|
+| h591 | Craquelure  | 开裂纹饰    | styles/634-craquelure.png     |
+| h592 | Itajime     | 板缔        | styles/635-itajime.png        |
+| h593 | Faience     | 费昂斯      | styles/636-faience.png        |
+| h594 | Petit Point | 小点绣      | styles/637-petit-point.png    |
+| h595 | Drybrush    | 干笔        | styles/638-drybrush.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 638, PNG count 638. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
