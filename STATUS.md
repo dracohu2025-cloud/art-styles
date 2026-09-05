@@ -1465,6 +1465,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 563, PNG count 563. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 105 (exactly 5, h521–h525)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh        | image                                |
+|------|--------------------|----------------|--------------------------------------|
+| h521 | Verdaille          | 绿单色         | styles/564-verdaille.png             |
+| h522 | Terra Sigillata    | 磨光泥釉       | styles/565-terra-sigillata.png       |
+| h523 | Spolvero           | 粉本透稿       | styles/566-spolvero.png              |
+| h524 | Granulation        | 金粒细工       | styles/567-granulation.png           |
+| h525 | Boulle             | 布尔镶嵌       | styles/568-boulle.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 568, PNG count 568. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

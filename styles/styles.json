@@ -7317,5 +7317,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h521",
+    "slug": "verdaille",
+    "name_en": "Verdaille",
+    "name_zh": "绿单色",
+    "description_en": "Green monochrome oil: terre-verte, viridian glazes, and mint highlights with no independent other hues.",
+    "description_zh": "绿单色：全幅以土绿、翠绿釉与薄荷高光造型，有别于灰色单色与棕单色。",
+    "source": "hermes-explore",
+    "image": "styles/564-verdaille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h522",
+    "slug": "terra-sigillata",
+    "name_en": "Terra Sigillata",
+    "name_zh": "磨光泥釉",
+    "description_en": "Ultrafine burnished clay slip: satin red-orange ceramic skin without thick glaze pooling.",
+    "description_zh": "磨光泥釉：超细陶衣抛光呈缎面红赭，有别于厚釉开片与天目。",
+    "source": "hermes-explore",
+    "image": "styles/565-terra-sigillata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h523",
+    "slug": "spolvero",
+    "name_en": "Spolvero",
+    "name_zh": "粉本透稿",
+    "description_en": "Renaissance pouncing: pricked cartoon, charcoal-sinopia dots transferred onto lime plaster.",
+    "description_zh": "粉本透稿：刺孔粉本以木炭与红土粉点转到湿壁画底，有别于铁线描与银尖素描。",
+    "source": "hermes-explore",
+    "image": "styles/566-spolvero.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h524",
+    "slug": "granulation",
+    "name_en": "Granulation",
+    "name_zh": "金粒细工",
+    "description_en": "Goldsmith granulation: thousands of fused gold spheres forming form, not drawn wire filigree.",
+    "description_zh": "金粒细工：细金珠熔接成纹与形体，有别于金银丝细工与景泰蓝。",
+    "source": "hermes-explore",
+    "image": "styles/567-granulation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h525",
+    "slug": "boulle",
+    "name_en": "Boulle",
+    "name_zh": "布尔镶嵌",
+    "description_en": "Boulle marquetry: brass and tortoiseshell veneer arabesques on ebony, première-partie inlay.",
+    "description_zh": "布尔镶嵌：黄铜与玳瑁薄片对花嵌于乌木，有别于嵌木与硬石镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/568-boulle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
