@@ -1493,6 +1493,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 573, PNG count 573. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 107 (exactly 5, h531–h535)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh        | image                                |
+|------|--------------------|----------------|--------------------------------------|
+| h531 | Platinum Print     | 铂金印相       | styles/574-platinum-print.png        |
+| h532 | Neriage            | 练上           | styles/575-neriage.png               |
+| h533 | Anaglyph           | 红青立体       | styles/576-anaglyph.png              |
+| h534 | Shakudō            | 赤铜           | styles/577-shakudo.png               |
+| h535 | Punchwork          | 錾点金地       | styles/578-punchwork.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 578, PNG count 578. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -7447,5 +7447,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h531",
+    "slug": "platinum-print",
+    "name_en": "Platinum Print",
+    "name_zh": "铂金印相",
+    "description_en": "Platinum print: platinotype salts in paper fibers, velvety warm-gray scale, matte paper tooth, no glossy color.",
+    "description_zh": "铂金印相：铂盐渗入纸基，丝绒暖灰长阶调，哑光纸纹，无光泽彩喷感。",
+    "source": "hermes-explore",
+    "image": "styles/574-platinum-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h532",
+    "slug": "neriage",
+    "name_en": "Neriage",
+    "name_zh": "练上",
+    "description_en": "Neriage: wheel-thrown mixed colored clays, helical agateware striations from throwing, not loaf-sliced nerikomi.",
+    "description_zh": "练上：色泥混练拉坯，螺旋绞胎条纹随轮转展开，有别于切片贴合的练込。",
+    "source": "hermes-explore",
+    "image": "styles/575-neriage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h533",
+    "slug": "anaglyph",
+    "name_en": "Anaglyph",
+    "name_zh": "红青立体",
+    "description_en": "Anaglyph: red-cyan stereo pair, horizontal parallax fringe and channel ghosting, grayscale scene through complementary filters.",
+    "description_zh": "红青立体：红青双通道立体对，水平视差色边与串影，灰阶场景经互补滤镜编码。",
+    "source": "hermes-explore",
+    "image": "styles/576-anaglyph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h534",
+    "slug": "shakudo",
+    "name_en": "Shakudō",
+    "name_zh": "赤铜",
+    "description_en": "Shakudō: copper-gold alloy with raven niiro patina, gold-silver hira-zōgan inlay, hammered metal grain.",
+    "description_zh": "赤铜：铜金合金经煮色呈鸦黑紫光，平象嵌金银线，锤痕金属肌理。",
+    "source": "hermes-explore",
+    "image": "styles/577-shakudo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h535",
+    "slug": "punchwork",
+    "name_en": "Punchwork",
+    "name_zh": "錾点金地",
+    "description_en": "Punchwork: tooled gold-leaf ground, punched dots rings and rosettes, bole-red wear, burnished medieval panel.",
+    "description_zh": "錾点金地：金箔地錾点圆环与蔷薇纹，丹坨红底微露，中世纪贴金屏面。",
+    "source": "hermes-explore",
+    "image": "styles/578-punchwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
