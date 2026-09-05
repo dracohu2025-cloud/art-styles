@@ -10242,5 +10242,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h746",
+    "slug": "kanshitsu",
+    "name_en": "Kanshitsu",
+    "name_zh": "夹纻乾漆",
+    "description_en": "Kanshitsu: dry lacquer over hemp-cloth armature, urushi-soaked layers carved and polished to a resin skin with cloth-fiber tooth, not tixi carved layers, not maki-e powder, not wood carving.",
+    "description_zh": "夹纻乾漆：麻布胎浸生漆层层堆塑再雕磨成树脂皮、可见布纹齿，非剔犀、非莳绘洒金、非木雕。",
+    "source": "hermes-explore",
+    "image": "styles/789-kanshitsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h747",
+    "slug": "rayograph",
+    "name_en": "Rayograph",
+    "name_zh": "雷摄影",
+    "description_en": "Rayograph: cameraless photogram on silver gelatin, objects and figure laid on paper and lamp-exposed into milky whites and inky blacks, not cyanotype, not Sabattier solarization, not a camera portrait.",
+    "description_zh": "雷摄影：银盐相纸实物投影，灯下叠出乳白与浓黑，非蓝晒、非萨巴蒂、非相机肖像。",
+    "source": "hermes-explore",
+    "image": "styles/790-rayograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h748",
+    "slug": "goldwork",
+    "name_en": "Goldwork",
+    "name_zh": "金银线绣",
+    "description_en": "Goldwork: padded passing thread, bullion coils, plate and pearl purl couched on dark velvet, metallic stitch glints, not sequin fashion, not chrome 3D, not kintsugi.",
+    "description_zh": "金银线绣：垫芯金线、盘金、亮片与珍珠金线钉在深绒上，非亮片时装、非三维铬金、非金缮。",
+    "source": "hermes-explore",
+    "image": "styles/791-goldwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h749",
+    "slug": "japanning",
+    "name_en": "Japanning",
+    "name_zh": "洋漆工艺",
+    "description_en": "Japanning: European black asphaltum-and-copal lacquer with raised gilt chinoiserie and vermilion, aged varnish craquelure, not authentic urushi maki-e, not tole painting.",
+    "description_zh": "洋漆工艺：欧洲沥青柯巴黑漆、凸起描金与朱红、旧漆开裂，非正宗莳绘、非铁皮彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/792-japanning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h750",
+    "slug": "theorem-painting",
+    "name_en": "Theorem Painting",
+    "name_zh": "模版绒画",
+    "description_en": "Theorem painting: reverse stencils dusted onto black cotton velvet, pigment sitting in the pile, 19th-century American folk fruit-and-figure, not pochoir print, not oil still life.",
+    "description_zh": "模版绒画：反向模版粉扑在黑棉绒上、颜料陷在绒毛里，十九世纪美国民俗果人物，非镂版印刷、非油画静物。",
+    "source": "hermes-explore",
+    "image": "styles/793-theorem-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

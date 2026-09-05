@@ -2095,6 +2095,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 788, PNG count 788. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 150 (exactly 5, h746–h750)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h746 | Kanshitsu          | 夹纻乾漆      | styles/789-kanshitsu.png           |
+| h747 | Rayograph          | 雷摄影        | styles/790-rayograph.png           |
+| h748 | Goldwork           | 金银线绣      | styles/791-goldwork.png            |
+| h749 | Japanning          | 洋漆工艺      | styles/792-japanning.png           |
+| h750 | Theorem Painting   | 模版绒画      | styles/793-theorem-painting.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 793, PNG count 793. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
