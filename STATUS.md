@@ -1535,6 +1535,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 588, PNG count 588. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 110 (exactly 5, h546–h550)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh            | image                                  |
+|------|--------------------|--------------------|----------------------------------------|
+| h546 | Urushi-e           | 漆絵               | styles/589-urushi-e.png                |
+| h547 | Jamdani            | 贾姆达尼           | styles/590-jamdani.png                 |
+| h548 | Mischtechnik       | 混合罩染           | styles/591-mischtechnik.png            |
+| h549 | Kinrande           | 金襴手             | styles/592-kinrande.png                |
+| h550 | Oleograph          | 油画石印           | styles/593-oleograph.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 593, PNG count 593. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

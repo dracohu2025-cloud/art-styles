@@ -7642,5 +7642,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h546",
+    "slug": "urushi-e",
+    "name_en": "Urushi-e",
+    "name_zh": "漆絵",
+    "description_en": "Early ukiyo-e finished with glossy black lacquer: wet sheen over flat printed color, jet pools, limited Edo palette.",
+    "description_zh": "早期浮世绘上罩亮漆：湿润高光覆于平色木版、漆黑积淀、江户限定色。",
+    "source": "hermes-explore",
+    "image": "styles/589-urushi-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h547",
+    "slug": "jamdani",
+    "name_en": "Jamdani",
+    "name_zh": "贾姆达尼",
+    "description_en": "Dhaka figured muslin: sheer cotton ground with discontinuous extra-weft butis that float in the weave.",
+    "description_zh": "达卡提花细棉：薄透地组织上以断续辅纬织出浮于布面的碎花纹。",
+    "source": "hermes-explore",
+    "image": "styles/590-jamdani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h548",
+    "slug": "mischtechnik",
+    "name_en": "Mischtechnik",
+    "name_zh": "混合罩染",
+    "description_en": "Vienna mixed technique: egg-tempera lights over warm imprimatura, then thin luminous oil glazes.",
+    "description_zh": "维也纳混合技法：暖色底上蛋彩提亮，再以多层薄油罩染发出釉光。",
+    "source": "hermes-explore",
+    "image": "styles/591-mischtechnik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h549",
+    "slug": "kinrande",
+    "name_en": "Kinrande",
+    "name_zh": "金襴手",
+    "description_en": "Gold-brocade overglaze porcelain: iron-red or cobalt ground with fired gilt arabesques on glassy enamel.",
+    "description_zh": "金襴手彩瓷：矾红或钴蓝地上以烤金卷草与锦地纹覆于玻璃质釉面。",
+    "source": "hermes-explore",
+    "image": "styles/592-kinrande.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h550",
+    "slug": "oleograph",
+    "name_en": "Oleograph",
+    "name_zh": "油画石印",
+    "description_en": "Varnished chromolithograph on canvas weave: lithographic stipple under yellowed copal, aniline period color.",
+    "description_zh": "上光石印仿油画：帆布纹上可见网点与蜡笔粒、发黄珂巴尔清漆、苯胺期色彩。",
+    "source": "hermes-explore",
+    "image": "styles/593-oleograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
