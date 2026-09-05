@@ -9982,5 +9982,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h726",
+    "slug": "hiramaki-e",
+    "name_en": "Hiramaki-e",
+    "name_zh": "平莳绘",
+    "description_en": "Japanese hiramaki-e: pictorial sprinkled flat with gold and colored metal powders flush in thin urushi over roiro-black, low-relief polished grain, not raised takamaki-e, not carved tixi, not raden shell.",
+    "description_zh": "平莳绘：金粉与彩金属粉平撒于薄漆膜、黑蜡色地上磨平，浅浮颗粒，非高莳绘堆起、非剔犀雕漆、非螺钿。",
+    "source": "hermes-explore",
+    "image": "styles/769-hiramaki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h727",
+    "slug": "serti",
+    "name_en": "Serti",
+    "name_zh": "胶线丝绘",
+    "description_en": "Serti gutta-resist silk painting: closed gutta cells flooded with jewel-tone silk dyes and capillary wick on habotai sheen, not batik wax crackle, not yuzen rice-paste, not watercolor paper.",
+    "description_zh": "胶线丝绘：胶线封闭色格，丝染料渗染成宝石色晕与纺绸光泽，非蜡染龟裂、非友禅糊防、非纸本水彩。",
+    "source": "hermes-explore",
+    "image": "styles/770-serti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h728",
+    "slug": "corroso",
+    "name_en": "Corroso",
+    "name_zh": "酸蚀玻璃",
+    "description_en": "Murano corroso: acid-bitten matte orange-peel frost with leftover polished cristallo islands and smoky amethyst-green tint, not battuto facets, not ice-glass crackle, not leaded stained glass.",
+    "description_zh": "酸蚀玻璃：酸咬成橘皮哑光霜面，留抛光水晶岛与烟紫绿沁色，非锤纹切面、非冰裂玻璃、非铅条彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/771-corroso.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h729",
+    "slug": "blind-embossing",
+    "name_en": "Blind Embossing",
+    "name_zh": "盲压浮雕",
+    "description_en": "Blind embossing: inkless intaglio bruise in cotton rag, white-on-white plate-mark revealed only by raking light, not letterpress ink, not trapunto, not plaster relief.",
+    "description_zh": "盲压浮雕：无墨凹版压入棉浆纸，仅侧光显出白上白版痕，非有墨凸印、非填充绗缝、非石膏浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/772-blind-embossing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h730",
+    "slug": "alcohol-ink",
+    "name_en": "Alcohol Ink",
+    "name_zh": "酒精墨水",
+    "description_en": "Alcohol ink on Yupo: high-flow dye cells, isopropyl veining, magenta-teal-gold pools and hard ring stains on synthetic paper, not watercolor granulation, not acrylic pour, not ebru marbling.",
+    "description_zh": "酒精墨水：Yupo上高流染料格、异丙醇脉络与品红青绿金环渍，非水彩沉淀、非丙烯倾倒、非水拓。",
+    "source": "hermes-explore",
+    "image": "styles/773-alcohol-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

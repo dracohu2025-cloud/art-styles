@@ -2039,6 +2039,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 768, PNG count 768. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 146 (exactly 5, h726–h730)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h726 | Hiramaki-e         | 平莳绘        | styles/769-hiramaki-e.png          |
+| h727 | Serti              | 胶线丝绘      | styles/770-serti.png               |
+| h728 | Corroso            | 酸蚀玻璃      | styles/771-corroso.png             |
+| h729 | Blind Embossing    | 盲压浮雕      | styles/772-blind-embossing.png     |
+| h730 | Alcohol Ink        | 酒精墨水      | styles/773-alcohol-ink.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 773, PNG count 773. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
