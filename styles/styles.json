@@ -8162,5 +8162,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h586",
+    "slug": "punto-in-aria",
+    "name_en": "Punto in Aria",
+    "name_zh": "空中针绣",
+    "description_en": "Punto in aria: needle lace with no fabric ground — buttonhole stitch, cordonnet, picots and open reseau in air-stitched thread.",
+    "description_zh": "空中针绣：无布底的针绣蕾丝，锁绣针、加粗轮廓线、皮柯与透空地网悬于线间。",
+    "source": "hermes-explore",
+    "image": "styles/629-punto-in-aria.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h587",
+    "slug": "zanfirico",
+    "name_en": "Zanfirico",
+    "name_zh": "扭转玻璃条",
+    "description_en": "Zanfirico: Venetian twisted filigree canes — lattimo and aventurine spirals fused inside clear cristallo.",
+    "description_zh": "扭转玻璃条：威尼斯扭转费利格里玻璃棒，乳白与金星螺旋熔于无色水晶玻璃中。",
+    "source": "hermes-explore",
+    "image": "styles/630-zanfirico.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h588",
+    "slug": "goldpoint",
+    "name_en": "Goldpoint",
+    "name_zh": "金尖素描",
+    "description_en": "Goldpoint: gold metalpoint on prepared gesso ground, fine hatch, warm tarnished gold-brown line, reserved paper as light.",
+    "description_zh": "金尖素描：金质金属尖于石膏底，细密排线，暖金褐氧化笔迹，留白为光。",
+    "source": "hermes-explore",
+    "image": "styles/631-goldpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h589",
+    "slug": "aeropittura",
+    "name_en": "Aeropittura",
+    "name_zh": "航空绘画",
+    "description_en": "Aeropittura: Futurist aerial painting — overlapping flight viewpoints, force-lines, propeller arcs and simultaneous landscape fragments.",
+    "description_zh": "航空绘画：未来主义空中视点叠合，力线、螺旋桨弧与同时性风景碎片。",
+    "source": "hermes-explore",
+    "image": "styles/632-aeropittura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h590",
+    "slug": "drip-painting",
+    "name_en": "Drip Painting",
+    "name_zh": "滴洒绘画",
+    "description_en": "Drip painting: enamel and alkyd flung and pooled on raw canvas — skeins, splatters, gravity runs, no brush modeling.",
+    "description_zh": "滴洒绘画：瓷漆与醇酸颜料甩泼于生画布，线络、飞溅与重力流淌，不以画笔塑形。",
+    "source": "hermes-explore",
+    "image": "styles/633-drip-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -1647,6 +1647,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 628, PNG count 628. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 118 (exactly 5, h586–h590)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh     | image                          |
+|------|---------------|-------------|--------------------------------|
+| h586 | Punto in Aria | 空中针绣    | styles/629-punto-in-aria.png   |
+| h587 | Zanfirico     | 扭转玻璃条  | styles/630-zanfirico.png       |
+| h588 | Goldpoint     | 金尖素描    | styles/631-goldpoint.png       |
+| h589 | Aeropittura   | 航空绘画    | styles/632-aeropittura.png     |
+| h590 | Drip Painting | 滴洒绘画    | styles/633-drip-painting.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 633, PNG count 633. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
