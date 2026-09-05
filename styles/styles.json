@@ -7382,5 +7382,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h526",
+    "slug": "hinterglasmalerei",
+    "name_en": "Hinterglasmalerei",
+    "name_zh": "玻璃背彩",
+    "description_en": "Reverse-glass painting: pigments and gold leaf laid on the back of glass in reverse order, viewed through the pane.",
+    "description_zh": "玻璃背彩：颜料与金箔按反向层次画于玻璃背面，从正面透过玻璃观看。",
+    "source": "hermes-explore",
+    "image": "styles/569-hinterglasmalerei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h527",
+    "slug": "sanggam",
+    "name_en": "Sanggam",
+    "name_zh": "镶嵌青瓷",
+    "description_en": "Goryeo sanggam: black and white slip inlaid into carved clay, sealed under translucent celadon glaze.",
+    "description_zh": "高丽镶嵌青瓷：黑白化妆土嵌入刻纹，再罩透青釉。",
+    "source": "hermes-explore",
+    "image": "styles/570-sanggam.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h528",
+    "slug": "sunago",
+    "name_en": "Sunago",
+    "name_zh": "砂子金",
+    "description_en": "Sunago: gold dust sprinkled through a bamboo tube onto wet lacquer or sized paper, form built by scatter density.",
+    "description_zh": "砂子金：金粉经竹筒洒落于湿漆或上胶纸面，以疏密构成形象。",
+    "source": "hermes-explore",
+    "image": "styles/571-sunago.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h529",
+    "slug": "fedoskino",
+    "name_en": "Fedoskino",
+    "name_zh": "费多谢基诺",
+    "description_en": "Fedoskino lacquer miniature: oil glazes over papier-mâché lacquer, often with mother-of-pearl under-shimmer.",
+    "description_zh": "费多谢基诺漆画：纸胎漆地上以油画罩染，常衬珍珠母闪光。",
+    "source": "hermes-explore",
+    "image": "styles/572-fedoskino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h530",
+    "slug": "trapunto",
+    "name_en": "Trapunto",
+    "name_zh": "浮雕绗缝",
+    "description_en": "Trapunto: Italian stuffed quilting, stitched outlines padded from behind into high-relief cloth volume.",
+    "description_zh": "浮雕绗缝：意大利填充绗缝，线描轮廓自背面填絮形成高浮雕布面。",
+    "source": "hermes-explore",
+    "image": "styles/573-trapunto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

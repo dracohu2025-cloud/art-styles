@@ -1479,6 +1479,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 568, PNG count 568. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 106 (exactly 5, h526–h530)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh        | image                                |
+|------|--------------------|----------------|--------------------------------------|
+| h526 | Hinterglasmalerei  | 玻璃背彩       | styles/569-hinterglasmalerei.png     |
+| h527 | Sanggam            | 镶嵌青瓷       | styles/570-sanggam.png               |
+| h528 | Sunago             | 砂子金         | styles/571-sunago.png                |
+| h529 | Fedoskino          | 费多谢基诺     | styles/572-fedoskino.png             |
+| h530 | Trapunto           | 浮雕绗缝       | styles/573-trapunto.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 573, PNG count 573. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
