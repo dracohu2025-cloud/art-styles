@@ -2053,6 +2053,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 773, PNG count 773. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 147 (exactly 5, h731–h735)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h731 | Togidashi          | 研出莳绘      | styles/774-togidashi.png           |
+| h732 | Barbotine          | 泥浆堆塑      | styles/775-barbotine.png           |
+| h733 | Alicatado          | 切割釉砖      | styles/776-alicatado.png           |
+| h734 | Split Fountain     | 分槽渐变墨    | styles/777-split-fountain.png      |
+| h735 | Flow Blue          | 流蓝釉        | styles/778-flow-blue.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 778, PNG count 778. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

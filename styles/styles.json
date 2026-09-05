@@ -10047,5 +10047,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h731",
+    "slug": "togidashi",
+    "name_en": "Togidashi",
+    "name_zh": "研出莳绘",
+    "description_en": "Togidashi maki-e: gold and silver powder sprinkled into wet urushi then polished completely flush so metal flakes sit in a glassy lacquer surface, not raised takamaki-e, not slightly proud hiramaki-e, not nashiji pear-skin only.",
+    "description_zh": "研出莳绘：金银粉洒入湿漆后通体研磨齐平，金属屑嵌于镜面漆层，非高莳绘浮起、非平莳绘微凸、非梨地单独肌理。",
+    "source": "hermes-explore",
+    "image": "styles/774-togidashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h732",
+    "slug": "barbotine",
+    "name_en": "Barbotine",
+    "name_zh": "泥浆堆塑",
+    "description_en": "Barbotine slip-trailing: thick liquid clay piped in high-relief beads, leaves and scrolls on glazed earthenware, wet-slip peaks and glaze pooling in valleys, not oil impasto, not sgraffito, not sculpture in the round.",
+    "description_zh": "泥浆堆塑：稠泥浆沥出高浮雕珠点叶卷于釉陶，湿泥峰与凹处积釉，非油画厚涂、非刮刻、非圆雕。",
+    "source": "hermes-explore",
+    "image": "styles/775-barbotine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h733",
+    "slug": "alicatado",
+    "name_en": "Alicatado",
+    "name_zh": "切割釉砖",
+    "description_en": "Alicatado: Andalusian cut-and-fitted glazed ceramic tiles assembled into geometric star-and-interlace patterns with visible snipped edges and grout, not zellige chip mosaic, not painted azulejo.",
+    "description_zh": "切割釉砖：安达卢西亚切割釉陶拼成星纹交织，可见剪边与填缝，非泽利格碎嵌、非手绘阿兹勒霍。",
+    "source": "hermes-explore",
+    "image": "styles/776-alicatado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h734",
+    "slug": "split-fountain",
+    "name_en": "Split Fountain",
+    "name_zh": "分槽渐变墨",
+    "description_en": "Split fountain printing: lithographic/offset ink duct divided so several colors blend continuously across one roller in a single pass, lateral rainbow banding and ink-kiss paper tooth, not rainbow-roll viscosity, not risograph, not digital gradient.",
+    "description_zh": "分槽渐变墨：平版墨槽分隔使多色在同一滚筒一次走纸横向交融，可见辊带与纸齿吻墨，非彩虹辊粘滞套印、非孔版、非数码渐变。",
+    "source": "hermes-explore",
+    "image": "styles/777-split-fountain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h735",
+    "slug": "flow-blue",
+    "name_en": "Flow Blue",
+    "name_zh": "流蓝釉",
+    "description_en": "Flow blue: Victorian underglaze cobalt transfer that bleeds and halos into the glaze on white ironstone, fuzzy running outlines and smoky blue blooms, not crisp transferware, not blue-and-white porcelain, not Delft.",
+    "description_zh": "流蓝釉：维多利亚钴线下釉转印在白铁石瓷上晕散成烟蓝与模糊轮廓，非清晰转印、非青花瓷、非代尔夫特。",
+    "source": "hermes-explore",
+    "image": "styles/778-flow-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
