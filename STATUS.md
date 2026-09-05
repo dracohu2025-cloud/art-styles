@@ -1941,6 +1941,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 733, PNG count 733. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 139 (exactly 5, h691–h695)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h691 | Famille Jaune      | 黄地五彩    | styles/734-famille-jaune.png       |
+| h692 | Tea-dust Glaze     | 茶叶末釉    | styles/735-tea-dust-glaze.png      |
+| h693 | Irish Crochet      | 爱尔兰钩针  | styles/736-irish-crochet.png       |
+| h694 | Phytogram          | 植物光图    | styles/737-phytogram.png           |
+| h695 | Damask             | 花缎        | styles/738-damask.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 738, PNG count 738. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

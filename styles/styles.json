@@ -9527,5 +9527,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h691",
+    "slug": "famille-jaune",
+    "name_en": "Famille Jaune",
+    "name_zh": "黄地五彩",
+    "description_en": "Yellow-ground famille porcelain: imperial-yellow enamel field with overglaze ruby, emerald, cobalt, aubergine and iron-black; black outlines and fired enamel gloss — not famille noire, not wucai underglaze.",
+    "description_zh": "黄地五彩：明黄珐琅地，红绿钴蓝茄紫与铁黑釉上彩、墨线与烧成光泽，非黑地五彩，亦非釉下五彩。",
+    "source": "hermes-explore",
+    "image": "styles/734-famille-jaune.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h692",
+    "slug": "tea-dust-glaze",
+    "name_en": "Tea-dust Glaze",
+    "name_zh": "茶叶末釉",
+    "description_en": "High-fired tea-dust glaze: olive-khaki opaque skin densely speckled with iron-crystal dust, satiny imperial ceramic surface — not celadon, not oil-spot or hare’s-fur tenmoku.",
+    "description_zh": "茶叶末釉：橄榄茶绿失透釉面密布铁晶茶末斑，御窑绸光，非青瓷，亦非油滴或兔毫。",
+    "source": "hermes-explore",
+    "image": "styles/735-tea-dust-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h693",
+    "slug": "irish-crochet",
+    "name_en": "Irish Crochet",
+    "name_zh": "爱尔兰钩针",
+    "description_en": "Irish crochet lace: raised three-dimensional roses, leaves and picots in ecru cotton, motifs joined by irregular needle mesh — not bobbin lace, not tatting, not guipure.",
+    "description_zh": "爱尔兰钩针：立体玫瑰叶与皮科结的本色棉线浮雕，网眼连缀，非梭结花边，亦非梭织或 Guipure。",
+    "source": "hermes-explore",
+    "image": "styles/736-irish-crochet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h694",
+    "slug": "phytogram",
+    "name_en": "Phytogram",
+    "name_zh": "植物光图",
+    "description_en": "Phytogram: cameraless plant-chemistry photograph — chlorophyll and tannin stains, leaf-vein chemical marks on paper, amber-green wet-process edges; not chlorophyll-print objects, not eco-print cloth, not cyanotype.",
+    "description_zh": "植物光图：无相机植物化学感光，叶绿素与单宁渍染、叶脉药痕与琥珀绿湿边，非叶绿素实物印，亦非植物槌染或蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/737-phytogram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h695",
+    "slug": "damask",
+    "name_en": "Damask",
+    "name_zh": "花缎",
+    "description_en": "Damask weave: reversible figured satin, warp-faced satin versus weft-faced sateen making tone-on-tone ornaments and silk luster — not lampas, not extra-weft brocade, not shot silk or moiré.",
+    "description_zh": "花缎：正反可逆的缎纹提花，经缎与纬缎对调形成同色暗花与丝光，非妆花缎，亦非闪色绸或波纹绸。",
+    "source": "hermes-explore",
+    "image": "styles/738-damask.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
