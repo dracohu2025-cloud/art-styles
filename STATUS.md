@@ -1955,6 +1955,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 738, PNG count 738. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 140 (exactly 5, h696–h700)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh     | image                              |
+|------|--------------------|-------------|------------------------------------|
+| h696 | Chip Carving       | 削刻        | styles/739-chip-carving.png        |
+| h697 | Tratteggio         | 影线补绘    | styles/740-tratteggio.png          |
+| h698 | Liquid Emulsion    | 液体乳剂    | styles/741-liquid-emulsion.png     |
+| h699 | Solarplate         | 感光树脂版  | styles/742-solarplate.png          |
+| h700 | Anhua              | 暗花        | styles/743-anhua.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 743, PNG count 743. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

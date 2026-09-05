@@ -9592,5 +9592,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h696",
+    "slug": "chip-carving",
+    "name_en": "Chip Carving",
+    "name_zh": "削刻",
+    "description_en": "Chip carving (Kerbschnitt): geometric three-corner knife facets and V-tool triangles in pale wood, raking light on incised planes — not wood engraving, not Kamakura-bori relief, not pyrography.",
+    "description_zh": "削刻：几何三角刀面与V形凿切的浅木刻纹，侧光显刃影，非木口木刻，亦非镰仓雕或烙画。",
+    "source": "hermes-explore",
+    "image": "styles/739-chip-carving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h697",
+    "slug": "tratteggio",
+    "name_en": "Tratteggio",
+    "name_zh": "影线补绘",
+    "description_en": "Tratteggio: conservation inpainting of fine vertical parallel hatches of pure pigment that optically mix, distinct from the original fresco passages — not cross-hatch manga ink, not stipple engraving, not scumbling.",
+    "description_zh": "影线补绘：修复用纯色垂直细线光学混色，与原壁画块面可辨，非交叉线漫画墨，亦非点刻铜版或干擦薄涂。",
+    "source": "hermes-explore",
+    "image": "styles/740-tratteggio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h698",
+    "slug": "liquid-emulsion",
+    "name_en": "Liquid Emulsion",
+    "name_zh": "液体乳剂",
+    "description_en": "Hand-brushed liquid silver-gelatin emulsion on paper: irregular coated borders, brush-flood thickness, chemical fog — not factory gelatin-silver, not photogram, not cyanotype.",
+    "description_zh": "液体乳剂：手涂银盐明胶于纸面，不规则涂边、刷痕厚薄与药雾，非厂制明胶银盐，亦非物影照片或蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/741-liquid-emulsion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h699",
+    "slug": "solarplate",
+    "name_en": "Solarplate",
+    "name_zh": "感光树脂版",
+    "description_en": "Solarplate photopolymer intaglio: UV-hardened plate grain, wiped ink, plate tone and plate-mark squash on printmaking paper — not copper etching, not photogravure, not vitreography.",
+    "description_zh": "感光树脂版：紫外硬化聚合物凹版颗粒、擦墨、版调与压痕于版画纸，非铜版蚀刻，亦非照相凹版或玻璃版画。",
+    "source": "hermes-explore",
+    "image": "styles/742-solarplate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h700",
+    "slug": "anhua",
+    "name_en": "Anhua",
+    "name_zh": "暗花",
+    "description_en": "Anhua secret decoration: needle-incised white-on-white motifs in translucent porcelain body and glaze, visible only in raking light — not blanc de chine sculpture, not qingbai celadon color, not baimiao line drawing.",
+    "description_zh": "暗花：白釉薄胎上针刻同色暗纹，侧光才显，非德化白瓷圆雕，亦非青白瓷釉色或白描。",
+    "source": "hermes-explore",
+    "image": "styles/743-anhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
