@@ -1843,6 +1843,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 698, PNG count 698. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 132 (exactly 5, h656–h660)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en   | name_zh   | image                      |
+|------|-----------|-----------|----------------------------|
+| h656 | Scrimshaw | 鲸牙阴刻  | styles/699-scrimshaw.png   |
+| h657 | Sarasa    | 更纱      | styles/700-sarasa.png      |
+| h658 | Agateware | 玛瑙陶    | styles/701-agateware.png   |
+| h659 | Guipure   | 凸纹蕾丝  | styles/702-guipure.png     |
+| h660 | Tapa      | 树皮布    | styles/703-tapa.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 703, PNG count 703. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

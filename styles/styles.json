@@ -9072,5 +9072,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h656",
+    "slug": "scrimshaw",
+    "name_en": "Scrimshaw",
+    "name_zh": "鲸牙阴刻",
+    "description_en": "Needle-engraved ivory: hair-fine hatching with India ink rubbed into incised cuts on polished bone sheen.",
+    "description_zh": "鲸牙阴刻：在抛光骨象牙地上以细针刻线，再擦入墨汁显出排线与点刻。",
+    "source": "hermes-explore",
+    "image": "styles/699-scrimshaw.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h657",
+    "slug": "sarasa",
+    "name_en": "Sarasa",
+    "name_zh": "更纱",
+    "description_en": "Japanese mordant-dyed chintz: madder, indigo, iron-black outlines and reserved white on matte cotton tooth.",
+    "description_zh": "更纱：媒染棉布上的茜红、靛蓝与铁黑勾线，留白底与略错位的手版花纹。",
+    "source": "hermes-explore",
+    "image": "styles/700-sarasa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h658",
+    "slug": "agateware",
+    "name_en": "Agateware",
+    "name_zh": "玛瑙陶",
+    "description_en": "Solid-in-body laminated clays: sliced white, terracotta and manganese strata under a thin lead glaze.",
+    "description_zh": "玛瑙陶：白、赭与锰褐色泥片层叠切开的胎内纹理，罩薄铅釉。",
+    "source": "hermes-explore",
+    "image": "styles/701-agateware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h659",
+    "slug": "guipure",
+    "name_en": "Guipure",
+    "name_zh": "凸纹蕾丝",
+    "description_en": "Needle-lace motifs joined only by bars (brides), raised cordonnet, no hexagonal net ground.",
+    "description_zh": "凸纹蕾丝：花纹仅以连接条（brides）相接，凸起轮廓线，无网底。",
+    "source": "hermes-explore",
+    "image": "styles/702-guipure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h660",
+    "slug": "tapa",
+    "name_en": "Tapa",
+    "name_zh": "树皮布",
+    "description_en": "Beaten mulberry barkcloth: soot-black and rust-red earth pigments on fibrous tan ground.",
+    "description_zh": "树皮布：捶打桑内皮的纤维底上，以烟灰黑与铁锈红土颜料绘制几何纹。",
+    "source": "hermes-explore",
+    "image": "styles/703-tapa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
