@@ -2081,6 +2081,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 783, PNG count 783. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 149 (exactly 5, h741–h745)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h741 | Tunbridge Ware     | 坦布里奇细木  | styles/784-tunbridge-ware.png      |
+| h742 | Amanteca           | 羽镶嵌        | styles/785-amanteca.png            |
+| h743 | Verdure            | 青绿挂毯      | styles/786-verdure.png             |
+| h744 | Nuno Felt          | 湿毡贴织      | styles/787-nuno-felt.png           |
+| h745 | Paste Paper        | 浆糊花纸      | styles/788-paste-paper.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 788, PNG count 788. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

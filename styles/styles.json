@@ -10177,5 +10177,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h741",
+    "slug": "tunbridge-ware",
+    "name_en": "Tunbridge Ware",
+    "name_zh": "坦布里奇细木",
+    "description_en": "Tunbridge ware: English tessellated stickware of tiny end-grain wood squares in geometric banded mosaic, not yosegi, not marquetry veneer, not intarsia.",
+    "description_zh": "坦布里奇细木：英式端纹小木方几何镶嵌，条带马赛克，非寄木细工、非薄木贴花、非嵌木细工。",
+    "source": "hermes-explore",
+    "image": "styles/784-tunbridge-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h742",
+    "slug": "amanteca",
+    "name_en": "Amanteca",
+    "name_zh": "羽镶嵌",
+    "description_en": "Amanteca: Aztec feather mosaic of iridescent tiny plumage tesserae and overlapping vanes, not Huichol yarn painting, not micromosaic, not stained glass.",
+    "description_zh": "羽镶嵌：阿兹特克羽毛马赛克，虹彩细羽鳞片层层交叠，非惠乔尔毛线画、非微型马赛克、非彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/785-amanteca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h743",
+    "slug": "verdure",
+    "name_en": "Verdure",
+    "name_zh": "青绿挂毯",
+    "description_en": "Verdure: Flemish leafy tapestry with wool-weft hatchure, slit joins and moss-sage foliage filling the field, not millefleur, not Gobelin portrait, not embroidery.",
+    "description_zh": "青绿挂毯：佛兰德斯叶丛挂毯，羊毛纬线影线与开口、满地苔绿枝叶，非碎花千花、非戈布兰肖像、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/786-verdure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h744",
+    "slug": "nuno-felt",
+    "name_en": "Nuno Felt",
+    "name_zh": "湿毡贴织",
+    "description_en": "Nuno felt: wool fibers migrated through gauzy silk, cobweb edges and translucent layered clouds, not needle felt sculpture, not dense wet-felt painting, not embroidery.",
+    "description_zh": "湿毡贴织：羊毛纤维渗入薄纱丝绸，蛛网边缘与半透明层云，非针毡雕塑、非厚实湿毡画、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/787-nuno-felt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h745",
+    "slug": "paste-paper",
+    "name_en": "Paste Paper",
+    "name_zh": "浆糊花纸",
+    "description_en": "Paste paper: 18th-century Kleisterpapier of colored starch paste combed, sponged and stamped into fans and waves on laid paper, not ebru, not suminagashi, not block-print wallpaper.",
+    "description_zh": "浆糊花纸：十八世纪彩色淀粉浆梳纹、海绵与戳印扇浪铺在布纹纸上，非埃布鲁、非墨流、非木版壁纸。",
+    "source": "hermes-explore",
+    "image": "styles/788-paste-paper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
