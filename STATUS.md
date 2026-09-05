@@ -1703,6 +1703,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 648, PNG count 648. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 122 (exactly 5, h606–h610)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                           | name_zh     | image                                          |
+|------|-----------------------------------|-------------|------------------------------------------------|
+| h606 | Needle Painting                   | 丝线晕绣    | styles/649-needle-painting.png                 |
+| h607 | Reticella                         | 网眼针绣    | styles/650-reticella.png                       |
+| h608 | Moving-Cloud Flowing-Water Line   | 行云流水描  | styles/651-moving-cloud-flowing-water-line.png |
+| h609 | Ge Ware                           | 哥窑        | styles/652-ge-ware.png                         |
+| h610 | Heliography                       | 日光沥青版  | styles/653-heliography.png                     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 653, PNG count 653. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

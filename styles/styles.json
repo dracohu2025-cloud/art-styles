@@ -8422,5 +8422,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h606",
+    "slug": "needle-painting",
+    "name_en": "Needle Painting",
+    "name_zh": "丝线晕绣",
+    "description_en": "Needle painting: silk shading in long-and-short stitch, directional floss, blended thread color, filament sheen.",
+    "description_zh": "丝线晕绣：长短针丝线晕染，顺形走线、色线交融与丝光。",
+    "source": "hermes-explore",
+    "image": "styles/649-needle-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h607",
+    "slug": "reticella",
+    "name_en": "Reticella",
+    "name_zh": "网眼针绣",
+    "description_en": "Reticella: geometric needle lace of square-grid cutwork, buttonholed bars, wheels, and openwork on a dark void.",
+    "description_zh": "网眼针绣：方格抽纱、锁边撑线、轮形填充与镂空底。",
+    "source": "hermes-explore",
+    "image": "styles/650-reticella.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h608",
+    "slug": "moving-cloud-flowing-water-line",
+    "name_en": "Moving-Cloud Flowing-Water Line",
+    "name_zh": "行云流水描",
+    "description_en": "Moving-cloud flowing-water line: even unmodulated ink that drifts like cloud and runs like water, pale silk ground.",
+    "description_zh": "行云流水描：均匀无顿挫的游走墨线，如云行水流，浅素绢底。",
+    "source": "hermes-explore",
+    "image": "styles/651-moving-cloud-flowing-water-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h609",
+    "slug": "ge-ware",
+    "name_en": "Ge Ware",
+    "name_zh": "哥窑",
+    "description_en": "Ge ware: double crackle glaze, bold iron-wire fissures over fine golden-thread crazing on gray-beige celadon.",
+    "description_zh": "哥窑：开片釉，粗铁线叠细金丝，灰青脂光釉面。",
+    "source": "hermes-explore",
+    "image": "styles/652-ge-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h610",
+    "slug": "heliography",
+    "name_en": "Heliography",
+    "name_zh": "日光沥青版",
+    "description_en": "Heliography: bitumen of Judea on pewter, asphalt lights, washed pewter shadows, 1820s proto-photograph plate.",
+    "description_zh": "日光沥青版：犹地沥青覆白镴，受光硬化、阴影冲洗，一八二〇年代原照版。",
+    "source": "hermes-explore",
+    "image": "styles/653-heliography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
