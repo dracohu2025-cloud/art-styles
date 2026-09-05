@@ -7122,5 +7122,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h506",
+    "slug": "jiaomo",
+    "name_en": "Jiaomo",
+    "name_zh": "焦墨",
+    "description_en": "Scorched-ink painting: bone-dry concentrated black, flying-white splits, parched dragged strokes on xuan paper.",
+    "description_zh": "焦墨：极浓近干的墨线与飞白，枯笔擦纸，少水少晕。",
+    "source": "hermes-explore",
+    "image": "styles/549-jiaomo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h507",
+    "slug": "white-ground",
+    "name_en": "White-ground",
+    "name_zh": "白地彩绘",
+    "description_en": "Attic white-ground pottery: chalky slip, outline drawing, faded ochre and dilute glaze on a ceramic vessel.",
+    "description_zh": "白地彩绘：白化妆土底、淡彩线描与剥落矿彩，异于红绘与黑绘。",
+    "source": "hermes-explore",
+    "image": "styles/550-white-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h508",
+    "slug": "filigrana",
+    "name_en": "Filigrana",
+    "name_zh": "玻璃丝绵",
+    "description_en": "Venetian filigree glass: latticino and zanfirico canes trapped in clear soda glass, not reticello net.",
+    "description_zh": "玻璃丝绵：穆拉诺灯芯与扭枝色线嵌于透明玻璃，非网纹玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/551-filigrana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h509",
+    "slug": "qiangjiang",
+    "name_en": "Qiangjiang",
+    "name_zh": "浅绛",
+    "description_en": "Light-crimson landscape: ink structure with pale ochre and diluted crimson washes, literati restraint.",
+    "description_zh": "浅绛：水墨立骨，浅赭与淡绛罩染，色不压墨。",
+    "source": "hermes-explore",
+    "image": "styles/552-qiangjiang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h510",
+    "slug": "jizhou",
+    "name_en": "Jizhou",
+    "name_zh": "吉州窑",
+    "description_en": "Jizhou ware: paper-cut and leaf-resist silhouettes in dark iron glaze, tortoiseshell mottling.",
+    "description_zh": "吉州窑：剪纸与木叶贴花、玳瑁斑与黑褐釉，异于建盏天目。",
+    "source": "hermes-explore",
+    "image": "styles/553-jizhou.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

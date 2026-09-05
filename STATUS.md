@@ -1423,6 +1423,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 548, PNG count 548. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 102 (exactly 5, h506–h510)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en           | name_zh        | image                              |
+|------|-------------------|----------------|------------------------------------|
+| h506 | Jiaomo            | 焦墨           | styles/549-jiaomo.png              |
+| h507 | White-ground      | 白地彩绘       | styles/550-white-ground.png        |
+| h508 | Filigrana         | 玻璃丝绵       | styles/551-filigrana.png           |
+| h509 | Qiangjiang        | 浅绛           | styles/552-qiangjiang.png          |
+| h510 | Jizhou            | 吉州窑         | styles/553-jizhou.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 553, PNG count 553. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
