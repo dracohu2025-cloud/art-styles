@@ -1871,6 +1871,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 708, PNG count 708. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 134 (exactly 5, h666–h670)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en       | name_zh       | image                           |
+|------|---------------|---------------|---------------------------------|
+| h666 | Ice Glass     | 冰裂玻璃      | styles/709-ice-glass.png        |
+| h667 | Oil Gilding   | 油贴金        | styles/710-oil-gilding.png      |
+| h668 | Voided Velvet | 镂花天鹅绒    | styles/711-voided-velvet.png    |
+| h669 | Siyah Qalam   | 黑笔绘        | styles/712-siyah-qalam.png      |
+| h670 | Coromandel    | 科罗曼德漆    | styles/713-coromandel.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 713, PNG count 713. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

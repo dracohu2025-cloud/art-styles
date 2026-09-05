@@ -9202,5 +9202,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h666",
+    "slug": "ice-glass",
+    "name_en": "Ice Glass",
+    "name_zh": "冰裂玻璃",
+    "description_en": "Venetian vetro a ghiaccio: thick glass with intentional ice-crackle fractures, conchoidal chips, trapped bubbles.",
+    "description_zh": "威尼斯冰裂玻璃：厚玻璃上刻意冰裂纹、贝壳状碎裂与气泡，非花丝或网纹玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/709-ice-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h667",
+    "slug": "oil-gilding",
+    "name_en": "Oil Gilding",
+    "name_zh": "油贴金",
+    "description_en": "Mordant gilding: gold leaf on oil size, overlapping leaves, matte tack sheen, bole gaps; not burnished water gilding.",
+    "description_zh": "油贴金：油性胶上贴金箔，箔片交叠、哑光黏性感、底色露出，非水贴金抛光镜面。",
+    "source": "hermes-explore",
+    "image": "styles/710-oil-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h668",
+    "slug": "voided-velvet",
+    "name_en": "Voided Velvet",
+    "name_zh": "镂花天鹅绒",
+    "description_en": "Figured pile-on-satin velvet: cut pile versus exposed satin ground, nap direction, crushed highlights.",
+    "description_zh": "镂花天鹅绒：剪绒与缎地对照成形，可见绒向与压光高光，非刺绣或织锦。",
+    "source": "hermes-explore",
+    "image": "styles/711-voided-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h669",
+    "slug": "siyah-qalam",
+    "name_en": "Siyah Qalam",
+    "name_zh": "黑笔绘",
+    "description_en": "Black-pen drawing: wiry ink contours, sparse earth tints, paper tooth; Timurid/Central Asian siyah qalam, not jewel-tone miniature.",
+    "description_zh": "黑笔绘：细劲墨线、薄土色晕、纸纹可见，中亚黑笔传统，非金银细密重彩。",
+    "source": "hermes-explore",
+    "image": "styles/712-siyah-qalam.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h670",
+    "slug": "coromandel",
+    "name_en": "Coromandel",
+    "name_zh": "科罗曼德漆",
+    "description_en": "Kuan cai incised lacquer: carved through black ground, polychrome and gold fills in the cuts; export-screen, not maki-e.",
+    "description_zh": "科罗曼德漆（款彩）：黑漆地阴刻再填彩贴金，出口屏风密度，非莳绘平绘。",
+    "source": "hermes-explore",
+    "image": "styles/713-coromandel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
