@@ -2502,6 +2502,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 933, PNG count 933. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 179 (exactly 5, h891–h895)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h891 | Chromoxylography          | 彩色木口套色  | styles/934-chromoxylography.png            |
+| h892 | Baxter Process            | 巴克斯特套印  | styles/935-baxter-process.png              |
+| h893 | Découpage                 | 贴花漆饰      | styles/936-decoupage.png                   |
+| h894 | Uli Painting              | 乌利线绘      | styles/937-uli-painting.png                |
+| h895 | Kurbits                   | 库尔比茨彩绘  | styles/938-kurbits.png                     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 938, PNG count 938. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

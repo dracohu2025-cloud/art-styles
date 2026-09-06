@@ -12127,5 +12127,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h891",
+    "slug": "chromoxylography",
+    "name_en": "Chromoxylography",
+    "name_zh": "彩色木口套色",
+    "description_en": "19th-century color wood engraving: end-grain hatch, registered color blocks, dry inks on cream paper.",
+    "description_zh": "十九世纪彩色木口木刻：木口排线、套色色块、干燥油墨印于乳色纸。",
+    "source": "hermes-explore",
+    "image": "styles/934-chromoxylography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h892",
+    "slug": "baxter-process",
+    "name_en": "Baxter Process",
+    "name_zh": "巴克斯特套印",
+    "description_en": "Intaglio key-plate overprinted with glossy oil-color woodblocks, raised pigment, paper show-through in lights.",
+    "description_zh": "凹版主版叠印油彩木版色块，颜料微凸，高光透纸。",
+    "source": "hermes-explore",
+    "image": "styles/935-baxter-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h893",
+    "slug": "decoupage",
+    "name_en": "Découpage",
+    "name_zh": "贴花漆饰",
+    "description_en": "Cut printed-paper motifs glued in layers, scissor edges, many coats of yellowed varnish.",
+    "description_zh": "印刷纸样剪贴层叠，可见刀口，多层微黄罩漆。",
+    "source": "hermes-explore",
+    "image": "styles/936-decoupage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h894",
+    "slug": "uli-painting",
+    "name_en": "Uli Painting",
+    "name_zh": "乌利线绘",
+    "description_en": "Igbo uli: calligraphic indigo-black curvilinear glyphs, spirals and lizards on pale clay ground.",
+    "description_zh": "伊博乌利：靛蓝黑书法曲线纹、螺旋与蜥蜴，浅陶土地。",
+    "source": "hermes-explore",
+    "image": "styles/937-uli-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h895",
+    "slug": "kurbits",
+    "name_en": "Kurbits",
+    "name_zh": "库尔比茨彩绘",
+    "description_en": "Swedish kurbits folk painting: oversized fantasy blooms, curling stems, flat Dalarna tempera on cream.",
+    "description_zh": "瑞典库尔比茨民间彩绘：夸张幻想花、卷草、达拉纳平涂蛋彩于乳白底。",
+    "source": "hermes-explore",
+    "image": "styles/938-kurbits.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
