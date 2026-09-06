@@ -2558,6 +2558,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 953, PNG count 953. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 183 (exactly 5, h911–h915)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h911 | Hidasuki                  | 緋襷          | styles/954-hidasuki.png                    |
+| h912 | Slumped Glass             | 热弯玻璃      | styles/955-slumped-glass.png               |
+| h913 | Chronophotography         | 连续分相摄影  | styles/956-chronophotography.png           |
+| h914 | Bauernmalerei             | 农民彩绘      | styles/957-bauernmalerei.png               |
+| h915 | Dong Ho                   | 东湖木版      | styles/958-dong-ho.png                     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 958, PNG count 958. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

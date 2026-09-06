@@ -12387,5 +12387,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h911",
+    "slug": "hidasuki",
+    "name_en": "Hidasuki",
+    "name_zh": "緋襷",
+    "description_en": "Bizen straw-cord firing: rice straw burns scarlet lattice scars into unglazed iron clay — hidasuki fire-marks, no glaze pool.",
+    "description_zh": "緋襷：稻草捆烧在无釉铁质陶胎上留下朱红绳痕与火纹，无釉池。",
+    "source": "hermes-explore",
+    "image": "styles/954-hidasuki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h912",
+    "slug": "slumped-glass",
+    "name_en": "Slumped Glass",
+    "name_zh": "热弯玻璃",
+    "description_en": "Kiln-slumped sheet glass: gravity drapes panes over a mold, fire-polished rims, trapped seed bubbles, optical sag — not lampwork or pate-de-verre.",
+    "description_zh": "热弯玻璃：平板玻璃窑中塌陷覆模，火抛光边、气泡与光学下垂，非灯工亦非粉熔。",
+    "source": "hermes-explore",
+    "image": "styles/955-slumped-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h913",
+    "slug": "chronophotography",
+    "name_en": "Chronophotography",
+    "name_zh": "连续分相摄影",
+    "description_en": "19th-c sequential motion on one plate: Marey/Muybridge shutter-sliced phases, gelatin-silver studio ground, time as discrete poses.",
+    "description_zh": "连续分相摄影：马雷/迈布里奇式单底多瞬间，明胶银盐棚拍黑地，动势切成离散姿势。",
+    "source": "hermes-explore",
+    "image": "styles/956-chronophotography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h914",
+    "slug": "bauernmalerei",
+    "name_en": "Bauernmalerei",
+    "name_zh": "农民彩绘",
+    "description_en": "Alpine peasant furniture painting: flat opaque tempera on wood, tulip-rose-scrolls, folk reds greens ochre, black outline, panel grain.",
+    "description_zh": "农民彩绘：阿尔卑斯家具彩绘，不透明胶彩、郁金香与卷草、民红民绿赭石、黑线与木纹地。",
+    "source": "hermes-explore",
+    "image": "styles/957-bauernmalerei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h915",
+    "slug": "dong-ho",
+    "name_en": "Dong Ho",
+    "name_zh": "东湖木版",
+    "description_en": "Vietnamese Đông Hồ folk woodcut on diep oyster-shell paper: rustic vermilion, yellow, lampblack, bold carved outline, village misregister.",
+    "description_zh": "东湖木版：越南东湖民刻，蜃粉纸地、朱红黄黑限色、粗刻线与民间套印偏移。",
+    "source": "hermes-explore",
+    "image": "styles/958-dong-ho.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
