@@ -2207,6 +2207,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 828, PNG count 828. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 158 (exactly 5, h786–h790)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h786 | Wakasa-nuri        | 若狭塗        | styles/829-wakasa-nuri.png         |
+| h787 | Shunkei-nuri       | 春慶塗        | styles/830-shunkei-nuri.png        |
+| h788 | Nanako             | 魚々子地      | styles/831-nanako.png              |
+| h789 | Kraka Glass        | 克拉卡玻璃    | styles/832-kraka-glass.png         |
+| h790 | Flinqué            | 车纹珐琅      | styles/833-flinque.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 833, PNG count 833. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

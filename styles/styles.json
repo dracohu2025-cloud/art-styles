@@ -10762,5 +10762,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h786",
+    "slug": "wakasa-nuri",
+    "name_en": "Wakasa-nuri",
+    "name_zh": "若狭塗",
+    "description_en": "Wakasa-nuri: layered urushi with buried gold, silver, eggshell and nacre, polished through to a speckled cross-section.",
+    "description_zh": "若狭塗：多层彩漆埋入金银箔、蛋壳与螺钿，研磨透出斑斓断面。",
+    "source": "hermes-explore",
+    "image": "styles/829-wakasa-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h787",
+    "slug": "shunkei-nuri",
+    "name_en": "Shunkei-nuri",
+    "name_zh": "春慶塗",
+    "description_en": "Shunkei-nuri: transparent amber-orange urushi over visible wood grain, honey-to-persimmon inner glow.",
+    "description_zh": "春慶塗：透明琥珀漆覆于木纹之上，蜜色至柿色透光。",
+    "source": "hermes-explore",
+    "image": "styles/830-shunkei-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h788",
+    "slug": "nanako",
+    "name_en": "Nanako",
+    "name_zh": "魚々子地",
+    "description_en": "Nanako: fish-roe metal ground of tiny uniform circular punches catching raking light.",
+    "description_zh": "魚々子地：细密均匀圆点錾地，侧光下如鱼子粒粒。",
+    "source": "hermes-explore",
+    "image": "styles/831-nanako.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h789",
+    "slug": "kraka-glass",
+    "name_en": "Kraka Glass",
+    "name_zh": "克拉卡玻璃",
+    "description_en": "Kraka glass: thick crystal with a regular trapped-air bubble grid forming a net inside the mass.",
+    "description_zh": "克拉卡玻璃：厚水晶内规则气泡网格如渔网嵌于玻璃体中。",
+    "source": "hermes-explore",
+    "image": "styles/832-kraka-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h790",
+    "slug": "flinque",
+    "name_en": "Flinqué",
+    "name_zh": "车纹珐琅",
+    "description_en": "Flinqué: translucent vitreous enamel over engine-turned metal, engraved waves visible through the glassy skin.",
+    "description_zh": "车纹珐琅：半透明珐琅覆于引擎车纹金属上，釉下波纹透光可见。",
+    "source": "hermes-explore",
+    "image": "styles/833-flinque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
