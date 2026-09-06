@@ -2333,6 +2333,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 873, PNG count 873. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 167 (exactly 5, h831–h835)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h831 | Pinatype                  | 皮纳型        | styles/874-pinatype.png                    |
+| h832 | Istoriato                 | 叙事彩陶      | styles/875-istoriato.png                   |
+| h833 | Schwalm                   | 施瓦尔姆白绣  | styles/876-schwalm.png                     |
+| h834 | Tole Painting             | 铁皮彩绘      | styles/877-tole-painting.png               |
+| h835 | Point de Gaze             | 纱地针绣      | styles/878-point-de-gaze.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 878, PNG count 878. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

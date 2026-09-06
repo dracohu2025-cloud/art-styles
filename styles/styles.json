@@ -11347,5 +11347,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h831",
+    "slug": "pinatype",
+    "name_en": "Pinatype",
+    "name_zh": "皮纳型",
+    "description_en": "Pinatype: early dye-imbibition color print — soft gelatin-soaked dyes, slight layer misregister, watercolor-stained paper tooth, not Autochrome dots.",
+    "description_zh": "皮纳型：早期染料渗印彩色照片，明胶吸色、轻微套色错位、水彩渍纸纹，非奥托克罗姆色点。",
+    "source": "hermes-explore",
+    "image": "styles/874-pinatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h832",
+    "slug": "istoriato",
+    "name_en": "Istoriato",
+    "name_zh": "叙事彩陶",
+    "description_en": "Istoriato: Renaissance narrative maiolica — tin-glaze white ground, cobalt/antimony/copper/manganese overglaze, dark outlines on tin-glazed earthenware.",
+    "description_zh": "叙事彩陶：文艺复兴叙事马约利卡，锡白釉地，钴蓝锑黄铜绿锰紫釉上彩，锡釉陶上深色勾线。",
+    "source": "hermes-explore",
+    "image": "styles/875-istoriato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h833",
+    "slug": "schwalm",
+    "name_en": "Schwalm",
+    "name_zh": "施瓦尔姆白绣",
+    "description_en": "Schwalm: German whitework on evenweave linen — coral-stitch outlines, satin leaves, pulled-thread and needle-lace fillings, white-on-white only.",
+    "description_zh": "施瓦尔姆白绣：德国本白亚麻白绣，珊瑚针勾边、缎针叶片、抽纱与针绣填芯，仅白线白布。",
+    "source": "hermes-explore",
+    "image": "styles/876-schwalm.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h834",
+    "slug": "tole-painting",
+    "name_en": "Tole Painting",
+    "name_zh": "铁皮彩绘",
+    "description_en": "Tole painting: folk enamel on japanned tin — one-stroke comma brushes, vermilion and gold on asphaltum-black metal, visible brush ridges, not oil portrait.",
+    "description_zh": "铁皮彩绘：黑漆铁皮上的民间珐琅笔法，一笔逗号描、朱红描金沥青黑底，可见笔脊，非油画肖像。",
+    "source": "hermes-explore",
+    "image": "styles/877-tole-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h835",
+    "slug": "point-de-gaze",
+    "name_en": "Point de Gaze",
+    "name_zh": "纱地针绣",
+    "description_en": "Point de Gaze: Belgian needle lace — fine gauze réseau, raised rose-point petals, cordonnet and picots, airy ivory mesh, not heavy Point de Venise.",
+    "description_zh": "纱地针绣：比利时针绣花边，极细纱网地、浮雕玫瑰瓣、加粗轮廓与小皮寇，轻透牙白，非厚重威尼斯针绣。",
+    "source": "hermes-explore",
+    "image": "styles/878-point-de-gaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
