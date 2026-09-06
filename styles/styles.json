@@ -10827,5 +10827,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h791",
+    "slug": "kinkarakami",
+    "name_en": "Kinkarakami",
+    "name_zh": "金唐紙",
+    "description_en": "Kinkarakami: Japanese gilt leather-paper — gold and colored foils stamped into washi as raised damask relief.",
+    "description_zh": "金唐紙：金箔与彩箔压印于和纸，浮凸锦纹如金革。",
+    "source": "hermes-explore",
+    "image": "styles/834-kinkarakami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h792",
+    "slug": "sukashibori",
+    "name_en": "Sukashibori",
+    "name_zh": "透かし彫り",
+    "description_en": "Sukashibori: Japanese openwork metal — saw-pierced sheet with negative-space silhouettes and remaining bridges.",
+    "description_zh": "透かし彫り：金属板镂空透雕，留桥与负形轮廓透光。",
+    "source": "hermes-explore",
+    "image": "styles/835-sukashibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h793",
+    "slug": "linglong",
+    "name_en": "Linglong",
+    "name_zh": "玲珑瓷",
+    "description_en": "Linglong: rice-grain porcelain — dense glaze-filled perforations that glow when backlit (hotaru-de).",
+    "description_zh": "玲珑瓷：米粒状透雕填釉，背光如萤火（萤手）。",
+    "source": "hermes-explore",
+    "image": "styles/836-linglong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h794",
+    "slug": "plangi",
+    "name_en": "Plangi",
+    "name_zh": "圈缬",
+    "description_en": "Plangi: circular tie-dye resist — concentric bound rings and reserved dots in overlapping handmade sunbursts.",
+    "description_zh": "圈缬：环形扎染防染，层层手工日晕圈与留白点。",
+    "source": "hermes-explore",
+    "image": "styles/837-plangi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h795",
+    "slug": "lattimo",
+    "name_en": "Lattimo",
+    "name_zh": "拉蒂莫乳白",
+    "description_en": "Lattimo: Venetian opaque milk glass — dense milky white with thin-edge opaline glow and furnace-worked volume.",
+    "description_zh": "拉蒂莫乳白：威尼斯乳浊玻璃，厚处密白、薄缘乳光。",
+    "source": "hermes-explore",
+    "image": "styles/838-lattimo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

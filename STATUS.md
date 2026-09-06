@@ -2221,6 +2221,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 833, PNG count 833. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 159 (exactly 5, h791–h795)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h791 | Kinkarakami        | 金唐紙        | styles/834-kinkarakami.png         |
+| h792 | Sukashibori        | 透かし彫り    | styles/835-sukashibori.png         |
+| h793 | Linglong           | 玲珑瓷        | styles/836-linglong.png            |
+| h794 | Plangi             | 圈缬          | styles/837-plangi.png              |
+| h795 | Lattimo            | 拉蒂莫乳白    | styles/838-lattimo.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 838, PNG count 838. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
