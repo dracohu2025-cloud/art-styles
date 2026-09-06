@@ -2698,6 +2698,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1003, PNG count 1003. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 193 (exactly 5, h961–h965)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h961 | Mata ni Pachedi           | 玛塔尼帕切迪  | styles/1004-mata-ni-pachedi.png            |
+| h962 | Pysanka                   | 皮桑卡蜡绘    | styles/1005-pysanka.png                    |
+| h963 | Takazuri                  | 高摺          | styles/1006-takazuri.png                   |
+| h964 | Dalmålning                | 达拉纳画      | styles/1007-dalmalning.png                 |
+| h965 | Chilkat                   | 奇尔卡特织    | styles/1008-chilkat.png                    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1008, PNG count 1008. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

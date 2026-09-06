@@ -13037,5 +13037,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h961",
+    "slug": "mata-ni-pachedi",
+    "name_en": "Mata ni Pachedi",
+    "name_zh": "玛塔尼帕切迪",
+    "description_en": "Gujarati ritual shrine-cloth painting: handloom cotton, maroon-black mineral dyes, block-printed outlines filled by hand, folk figures and floral borders.",
+    "description_zh": "古吉拉特祭坛布绘：手织棉布、褐红与黑色矿物染料、木版勾线手填、民俗人物与花卉边饰。",
+    "source": "hermes-explore",
+    "image": "styles/1004-mata-ni-pachedi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h962",
+    "slug": "pysanka",
+    "name_en": "Pysanka",
+    "name_zh": "皮桑卡蜡绘",
+    "description_en": "Ukrainian wax-resist dye painting: layered aniline baths, fine wax-line geometry of stars diamonds wheat and sun, lacquered saturated color fields.",
+    "description_zh": "乌克兰蜡防染绘：分层苯胺染料浴、星形菱形麦穗与太阳细蜡线、漆面饱和色块。",
+    "source": "hermes-explore",
+    "image": "styles/1005-pysanka.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h963",
+    "slug": "takazuri",
+    "name_en": "Takazuri",
+    "name_zh": "高摺",
+    "description_en": "Japanese woodblock high embossing: uninked washi relief, raked-light paper topography, raised line without full-color nishiki-e printing.",
+    "description_zh": "日本木版高摺：无墨和纸浮凸、侧光纸面起伏、以凸线造型而非锦绘套色。",
+    "source": "hermes-explore",
+    "image": "styles/1006-takazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h964",
+    "slug": "dalmalning",
+    "name_en": "Dalmålning",
+    "name_zh": "达拉纳画",
+    "description_en": "Dalecarlian folk wall painting: flat distemper on timber, naive shallow space, strong contour, bright reds blues greens, narrative mural figure.",
+    "description_zh": "达拉纳民间墙绘：木板胶彩平涂、浅空间、强轮廓、红蓝绿色块、叙事壁画人物。",
+    "source": "hermes-explore",
+    "image": "styles/1007-dalmalning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h965",
+    "slug": "chilkat",
+    "name_en": "Chilkat",
+    "name_zh": "奇尔卡特织",
+    "description_en": "Northwest Coast Chilkat weaving: mountain-goat wool and cedar warp, yellow black white blue-green weft, formline ovoids and U-forms, hanging fringe.",
+    "description_zh": "西北海岸奇尔卡特织：山羊毛与雪松经线、黄黑白蓝绿纬线、形态线卵形与U形、下垂经穗。",
+    "source": "hermes-explore",
+    "image": "styles/1008-chilkat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
