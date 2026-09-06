@@ -11412,5 +11412,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h836",
+    "slug": "gnathia",
+    "name_en": "Gnathia",
+    "name_zh": "格纳西亚陶",
+    "description_en": "Gnathia ware: Hellenistic black-gloss pottery with added white, yellow and purple overpaint, incised vinework, kiln sheen — not red-figure.",
+    "description_zh": "格纳西亚陶：希腊化黑釉陶，白黄紫加彩、刻划藤蔓、窑光釉面，非红绘。",
+    "source": "hermes-explore",
+    "image": "styles/879-gnathia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h837",
+    "slug": "chromoskedasic",
+    "name_en": "Chromoskedasic",
+    "name_zh": "散射显影",
+    "description_en": "Chromoskedasic painting: silver-gelatin color-by-light-scattering, metallic interference golds magentas cyans, lith-like pepper grain, chemical bloom.",
+    "description_zh": "散射显影：银盐明胶散射成色，金洋红青金属干涉色、石版般椒盐颗粒、药液晕边。",
+    "source": "hermes-explore",
+    "image": "styles/880-chromoskedasic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h838",
+    "slug": "kirigane",
+    "name_en": "Kirigane",
+    "name_zh": "切金",
+    "description_en": "Kirigane: cut squares and lozenges of gold and silver leaf pasted as a tessellated field on mineral pigment, raking-light facets — not solid gilding.",
+    "description_zh": "切金：裁切金箔银箔方片菱片贴成嵌金网格，矿物颜料底、侧光闪面，非整铺贴金。",
+    "source": "hermes-explore",
+    "image": "styles/881-kirigane.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h839",
+    "slug": "flexography",
+    "name_en": "Flexography",
+    "name_zh": "柔性版印刷",
+    "description_en": "Flexography: photopolymer relief plate, anilox-metered spot inks, slight ink squash and soft registration, packaging-print solids — not offset, not risograph.",
+    "description_zh": "柔性版印刷：感光树脂凸版、网纹辊计量专色、轻微溢墨与套准偏移、包装实地色块，非胶印、非孔版。",
+    "source": "hermes-explore",
+    "image": "styles/882-flexography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h840",
+    "slug": "venetian-plaster",
+    "name_en": "Venetian Plaster",
+    "name_zh": "威尼斯灰泥",
+    "description_en": "Venetian plaster: multilayer lime putty and marble dust, trowel-burnished marmorino sheen, waxed ochre veining — not buon fresco, not carved marble.",
+    "description_zh": "威尼斯灰泥：多层石灰膏与大理石粉、抹刀抛光灰泥光泽、蜡面赭石纹理，非湿壁画、非大理石圆雕。",
+    "source": "hermes-explore",
+    "image": "styles/883-venetian-plaster.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

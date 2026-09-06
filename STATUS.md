@@ -2347,6 +2347,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 878, PNG count 878. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 168 (exactly 5, h836–h840)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h836 | Gnathia                   | 格纳西亚陶    | styles/879-gnathia.png                     |
+| h837 | Chromoskedasic            | 散射显影      | styles/880-chromoskedasic.png              |
+| h838 | Kirigane                  | 切金          | styles/881-kirigane.png                    |
+| h839 | Flexography               | 柔性版印刷    | styles/882-flexography.png                 |
+| h840 | Venetian Plaster          | 威尼斯灰泥    | styles/883-venetian-plaster.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 883, PNG count 883. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
