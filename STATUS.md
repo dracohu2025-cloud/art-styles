@@ -2488,6 +2488,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 928, PNG count 928. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 178 (exactly 5, h886–h890)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h886 | Scavo                     | 发掘玻璃      | styles/929-scavo.png                       |
+| h887 | Tianqi                    | 填漆          | styles/930-tianqi.png                      |
+| h888 | Zincography               | 锌版平印      | styles/931-zincography.png                 |
+| h889 | Sanjhi                    | 桑吉镂绘      | styles/932-sanjhi.png                      |
+| h890 | Barniz de Pasto           | 帕斯托树脂漆  | styles/933-barniz-de-pasto.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 933, PNG count 933. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

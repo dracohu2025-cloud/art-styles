@@ -12062,5 +12062,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h886",
+    "slug": "scavo",
+    "name_en": "Scavo",
+    "name_zh": "发掘玻璃",
+    "description_en": "Murano excavated-look glass: acid-fumed pits, mineral crust, iridescent scum, smoky celadon body.",
+    "description_zh": "穆拉诺发掘玻璃：酸雾麻点、矿壳、虹彩薄垢、烟青瓷色玻璃体。",
+    "source": "hermes-explore",
+    "image": "styles/929-scavo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h887",
+    "slug": "tianqi",
+    "name_en": "Tianqi",
+    "name_zh": "填漆",
+    "description_en": "Carved lacquer recesses filled with polychrome qi, polished flush into nested color cells.",
+    "description_zh": "剔刻凹槽填入彩漆，打磨齐平，嵌套色格如漆嵌。",
+    "source": "hermes-explore",
+    "image": "styles/930-tianqi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h888",
+    "slug": "zincography",
+    "name_en": "Zincography",
+    "name_zh": "锌版平印",
+    "description_en": "Lithography on zinc: greasy crayon, tusche wash, cool gray-black ink on cream paper.",
+    "description_zh": "锌版石版：油脂蜡笔、油墨洗、冷灰黑印于乳白纸。",
+    "source": "hermes-explore",
+    "image": "styles/931-zincography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h889",
+    "slug": "sanjhi",
+    "name_en": "Sanjhi",
+    "name_zh": "桑吉镂绘",
+    "description_en": "Braj cut-paper stencil: lace-like negative filigree, dry pigment sifted through the cuts.",
+    "description_zh": "布拉杰镂纸漏绘：负形花丝、干粉从切口筛落成画。",
+    "source": "hermes-explore",
+    "image": "styles/932-sanjhi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h890",
+    "slug": "barniz-de-pasto",
+    "name_en": "Barniz de Pasto",
+    "name_zh": "帕斯托树脂漆",
+    "description_en": "Mopa-mopa resin films cut and inlaid in botanical layers, gloss varnish over gold and green leaf.",
+    "description_zh": "莫帕树脂薄膜剪贴镶嵌，植物层叠，金绿箔上罩亮漆。",
+    "source": "hermes-explore",
+    "image": "styles/933-barniz-de-pasto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
