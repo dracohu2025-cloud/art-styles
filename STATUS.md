@@ -2642,6 +2642,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 983, PNG count 983. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 189 (exactly 5, h941–h945)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h941 | Litema                    | 利特玛壁画    | styles/984-litema.png                      |
+| h942 | Najeon                    | 螺钿嵌漆      | styles/985-najeon.png                      |
+| h943 | Yangliuqing               | 杨柳青年画    | styles/986-yangliuqing.png                 |
+| h944 | Khovar                    | 科瓦尔壁画    | styles/987-khovar.png                      |
+| h945 | Fukinuki-yatai            | 吹拔屋台      | styles/988-fukinuki-yatai.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 988, PNG count 988. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

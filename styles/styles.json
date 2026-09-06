@@ -12777,5 +12777,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h941",
+    "slug": "litema",
+    "name_en": "Litema",
+    "name_zh": "利特玛壁画",
+    "description_en": "Basotho litema mural: comb-grooved earthen plaster, chevron and diamond furrows, lime-white, red clay, ochre, charcoal, low-relief wall geometry.",
+    "description_zh": "巴索托利特玛壁画：梳刮泥灰、人字菱形沟纹、石灰白红土赭石木炭、浅浮雕墙面几何。",
+    "source": "hermes-explore",
+    "image": "styles/984-litema.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h942",
+    "slug": "najeon",
+    "name_en": "Najeon",
+    "name_zh": "螺钿嵌漆",
+    "description_en": "Korean najeonchilgi: iridescent mother-of-pearl and abalone inlaid in black-red urushi, gold dust, nacre flash, high-polish lacquer field.",
+    "description_zh": "韩国螺钿嵌漆：鲍鱼贝虹彩嵌黑红漆、金粉、珠母闪光、高抛光漆面。",
+    "source": "hermes-explore",
+    "image": "styles/985-najeon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h943",
+    "slug": "yangliuqing",
+    "name_en": "Yangliuqing",
+    "name_zh": "杨柳青年画",
+    "description_en": "Yangliuqing nianhua: Tianjin woodblock key-line plus hand-colored mineral washes, rosy cheeks, peony-cloud borders, rice-paper tooth.",
+    "description_zh": "杨柳青年画：天津墨线版加手绘矿彩、红颜、牡丹祥云边饰、宣纸纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/986-yangliuqing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h944",
+    "slug": "khovar",
+    "name_en": "Khovar",
+    "name_zh": "科瓦尔壁画",
+    "description_en": "Khovar harvest mural: comb-incised white kaolin over red ochre and black earth, S-curve vines and animal glyphs, matte mud plaster.",
+    "description_zh": "科瓦尔收获壁画：白高岭土梳刻于红赭黑土、S形藤蔓与鸟兽符号、哑光泥墙。",
+    "source": "hermes-explore",
+    "image": "styles/987-khovar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h945",
+    "slug": "fukinuki-yatai",
+    "name_en": "Fukinuki-yatai",
+    "name_zh": "吹拔屋台",
+    "description_en": "Fukinuki-yatai Yamato-e space: blown-off roofs, high oblique interiors, diagonal screens, gold cloud bands, mineral pigments on silk.",
+    "description_zh": "吹拔屋台：屋顶揭去的斜俯室内、斜向障子、金云霞带、绢本矿物颜料。",
+    "source": "hermes-explore",
+    "image": "styles/988-fukinuki-yatai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
