@@ -2572,6 +2572,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 958, PNG count 958. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 184 (exactly 5, h916–h920)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h916 | Pithora                   | 皮托拉壁画    | styles/959-pithora.png                     |
+| h917 | Mandana                   | 曼达纳彩绘    | styles/960-mandana.png                     |
+| h918 | Beni-girai                | 红嫌绘        | styles/961-beni-girai.png                  |
+| h919 | Roghan                    | 罗干油绘      | styles/962-roghan.png                      |
+| h920 | Kholuy                    | 霍卢伊漆画    | styles/963-kholuy.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 963, PNG count 963. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

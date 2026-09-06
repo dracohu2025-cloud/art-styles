@@ -12452,5 +12452,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h916",
+    "slug": "pithora",
+    "name_en": "Pithora",
+    "name_zh": "皮托拉壁画",
+    "description_en": "Rathwa wall mural, stacked horse registers, flat earth pigments on white clay.",
+    "description_zh": "拉特瓦壁画、层叠马队、白泥墙上的平涂土色颜料。",
+    "source": "hermes-explore",
+    "image": "styles/959-pithora.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h917",
+    "slug": "mandana",
+    "name_en": "Mandana",
+    "name_zh": "曼达纳彩绘",
+    "description_en": "Rajasthani rice-paste geometry, white lime line on red-ochre geru ground.",
+    "description_zh": "拉贾斯坦米粉几何纹、红赭地上的白石灰线描。",
+    "source": "hermes-explore",
+    "image": "styles/960-mandana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h918",
+    "slug": "beni-girai",
+    "name_en": "Beni-girai",
+    "name_zh": "红嫌绘",
+    "description_en": "Late-Edo ukiyo-e without bright beni red; ashen blue, olive, mustard woodblock.",
+    "description_zh": "江户末期忌红浮世绘、灰蓝橄榄与芥黄木版套色。",
+    "source": "hermes-explore",
+    "image": "styles/961-beni-girai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h919",
+    "slug": "roghan",
+    "name_en": "Roghan",
+    "name_zh": "罗干油绘",
+    "description_en": "Kutch raised castor-oil paint, metallic beaded florals on dark cotton.",
+    "description_zh": "库奇蓖麻油堆绘、深色棉布上的金属感串珠花纹。",
+    "source": "hermes-explore",
+    "image": "styles/962-roghan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h920",
+    "slug": "kholuy",
+    "name_en": "Kholuy",
+    "name_zh": "霍卢伊漆画",
+    "description_en": "Kholuy lacquer miniature, painterly folk-tale color on glossy black papier-mâché.",
+    "description_zh": "霍卢伊漆微型画、黑漆纸胎上偏写实的民间叙事彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/963-kholuy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
