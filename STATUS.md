@@ -2712,6 +2712,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1008, PNG count 1008. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 194 (exactly 5, h966–h970)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h966 | Kolam                     | 科拉姆        | styles/1009-kolam.png                      |
+| h967 | Wayang Beber              | 瓦扬贝贝尔    | styles/1010-wayang-beber.png               |
+| h968 | Batuan                    | 巴图安画      | styles/1011-batuan.png                     |
+| h969 | Nsibidi                   | 恩西比迪      | styles/1012-nsibidi.png                    |
+| h970 | Kamigata-e                | 上方绘        | styles/1013-kamigata-e.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1013, PNG count 1013. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -13102,5 +13102,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h966",
+    "slug": "kolam",
+    "name_en": "Kolam",
+    "name_zh": "科拉姆",
+    "description_en": "South Indian rice-flour floor drawing: pulli dots, looping kambi lines, powder grain on dark earth.",
+    "description_zh": "南印度米粉地绘：点阵、连续曲线、深色地面上的粉线质感。",
+    "source": "hermes-explore",
+    "image": "styles/1009-kolam.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h967",
+    "slug": "wayang-beber",
+    "name_en": "Wayang Beber",
+    "name_zh": "瓦扬贝贝尔",
+    "description_en": "Javanese painted narrative scroll: flat theatrical figures, mineral reds and gold, stacked ornamental space.",
+    "description_zh": "爪哇画卷皮影：平面戏妆人物、矿物红与金、层叠装饰空间。",
+    "source": "hermes-explore",
+    "image": "styles/1010-wayang-beber.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h968",
+    "slug": "batuan",
+    "name_en": "Batuan",
+    "name_zh": "巴图安画",
+    "description_en": "Balinese Batuan school: horror vacui ink, muted earth wash, packed foliage and temple ornament.",
+    "description_zh": "巴厘巴图安派：满密墨线、灰褐薄染、庙宇与密叶填满画面。",
+    "source": "hermes-explore",
+    "image": "styles/1011-batuan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h969",
+    "slug": "nsibidi",
+    "name_en": "Nsibidi",
+    "name_zh": "恩西比迪",
+    "description_en": "Igbo ideographic graphic art: chalk-white and ochre glyphs on indigo-black, nested ritual signs.",
+    "description_zh": "伊博表意图形：靛黑底上白垩与赭石符号、嵌套仪式纹样。",
+    "source": "hermes-explore",
+    "image": "styles/1012-nsibidi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h970",
+    "slug": "kamigata-e",
+    "name_en": "Kamigata-e",
+    "name_zh": "上方绘",
+    "description_en": "Osaka–Kyoto ukiyo-e woodblock: soft Kamigata palette, keyblock line, bokashi washes on cream washi.",
+    "description_zh": "大阪京都浮世绘：柔和上方色、主版墨线、乳色和纸上的晕染渐变。",
+    "source": "hermes-explore",
+    "image": "styles/1013-kamigata-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
