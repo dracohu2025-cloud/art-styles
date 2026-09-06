@@ -2123,6 +2123,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 798, PNG count 798. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 152 (exactly 5, h756–h760)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h756 | Tinsel Painting    | 锡箔玻璃画    | styles/799-tinsel-painting.png     |
+| h757 | Kinkarakawa        | 金唐革        | styles/800-kinkarakawa.png         |
+| h758 | Beni-e             | 红绘          | styles/801-beni-e.png              |
+| h759 | Battersea Enamel   | 巴特西珐琅    | styles/802-battersea-enamel.png    |
+| h760 | Argentotype        | 银盐纸印      | styles/803-argentotype.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 803, PNG count 803. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

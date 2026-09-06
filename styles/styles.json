@@ -10372,5 +10372,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h756",
+    "slug": "tinsel-painting",
+    "name_en": "Tinsel Painting",
+    "name_zh": "锡箔玻璃画",
+    "description_en": "Reverse-glass oils over crumpled metallic foil; translucent glazes flash against gold and silver leaf.",
+    "description_zh": "玻璃背面薄油彩叠皱箔；透明釉色在金银箔上闪光。",
+    "source": "hermes-explore",
+    "image": "styles/799-tinsel-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h757",
+    "slug": "kinkarakawa",
+    "name_en": "Kinkarakawa",
+    "name_zh": "金唐革",
+    "description_en": "Japanese gilt embossed leather; tooled arabesques, gold and colored lacquer in the grain.",
+    "description_zh": "日本金唐革：浮雕压花皮革，金漆与彩漆填入皮纹。",
+    "source": "hermes-explore",
+    "image": "styles/800-kinkarakawa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h758",
+    "slug": "beni-e",
+    "name_en": "Beni-e",
+    "name_zh": "红绘",
+    "description_en": "Early ukiyo-e with hand-brushed safflower beni on a spare key-block; paper reserves, almost no other color.",
+    "description_zh": "早期浮世绘：墨线主版上手涂红花瓣颜料，大面积留白。",
+    "source": "hermes-explore",
+    "image": "styles/801-beni-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h759",
+    "slug": "battersea-enamel",
+    "name_en": "Battersea Enamel",
+    "name_zh": "巴特西珐琅",
+    "description_en": "Mid-18th-century English transfer-printed enamel on copper; white ground, puce print, gilt rococo rim.",
+    "description_zh": "18世纪中叶英国铜胎珐琅：白地转印、紫红线稿、洛可可描金边。",
+    "source": "hermes-explore",
+    "image": "styles/802-battersea-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h760",
+    "slug": "argentotype",
+    "name_en": "Argentotype",
+    "name_zh": "银盐纸印",
+    "description_en": "Herschel 1842 silver printing-out paper; warm rusty browns, paper fiber, no carbon black.",
+    "description_zh": "赫歇尔1842银盐晒印：暖锈棕、纸纹可见、无碳黑。",
+    "source": "hermes-explore",
+    "image": "styles/803-argentotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
