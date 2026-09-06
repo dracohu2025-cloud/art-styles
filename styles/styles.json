@@ -10437,5 +10437,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h761",
+    "slug": "hirado",
+    "name_en": "Hirado",
+    "name_zh": "平户烧",
+    "description_en": "Mikawachi milky-white porcelain with hair-fine underglaze cobalt; celadon-tinged glaze pools, faint craquelure.",
+    "description_zh": "三川内平户烧：乳白瓷上发丝钴蓝釉下彩，青白积釉与细开片。",
+    "source": "hermes-explore",
+    "image": "styles/804-hirado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h762",
+    "slug": "en-ronde-bosse",
+    "name_en": "En Ronde Bosse",
+    "name_zh": "立体珐琅",
+    "description_en": "Sculptural vitreous enamel in the round on gold; translucent jewel volumes, gold beads, no flat cloisonné cells.",
+    "description_zh": "金胎立体珐琅：三维宝石釉体、金珠金丝，非平面掐丝。",
+    "source": "hermes-explore",
+    "image": "styles/805-en-ronde-bosse.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h763",
+    "slug": "finlaycolor",
+    "name_en": "Finlaycolor",
+    "name_zh": "芬莱彩屏",
+    "description_en": "Additive mosaic screen-plate color: regular RGB filter grid on glass, muted dyes, not Autochrome grains or Dufay réseau.",
+    "description_zh": "加法彩屏干版：规则红绿蓝滤网、柔和染料，非奥托铬淀粉粒、非杜菲网线。",
+    "source": "hermes-explore",
+    "image": "styles/806-finlaycolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h764",
+    "slug": "haku-e",
+    "name_en": "Haku-e",
+    "name_zh": "箔绘",
+    "description_en": "Gold and silver leaf sheets on lacquer size, ink and mineral color over burnished foil; not kirikane tesserae or nashiji powder.",
+    "description_zh": "金箔银箔贴于漆胶，箔上墨与矿物色；非切金细片、非梨地洒金。",
+    "source": "hermes-explore",
+    "image": "styles/807-haku-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h765",
+    "slug": "hedebo",
+    "name_en": "Hedebo",
+    "name_zh": "海泽布白绣",
+    "description_en": "Danish whitework: cutwork needlelace, drawn-thread grids, raised buttonhole rings on white linen, no colored thread.",
+    "description_zh": "丹麦海泽布白绣：镂空针绣、抽纱网格、凸起锁边圆环，无彩线。",
+    "source": "hermes-explore",
+    "image": "styles/808-hedebo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

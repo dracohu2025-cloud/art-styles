@@ -2137,6 +2137,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 803, PNG count 803. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 153 (exactly 5, h761–h765)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h761 | Hirado             | 平户烧        | styles/804-hirado.png              |
+| h762 | En Ronde Bosse     | 立体珐琅      | styles/805-en-ronde-bosse.png      |
+| h763 | Finlaycolor        | 芬莱彩屏      | styles/806-finlaycolor.png         |
+| h764 | Haku-e             | 箔绘          | styles/807-haku-e.png              |
+| h765 | Hedebo             | 海泽布白绣    | styles/808-hedebo.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 808, PNG count 808. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
