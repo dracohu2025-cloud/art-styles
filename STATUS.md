@@ -2530,6 +2530,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 943, PNG count 943. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 181 (exactly 5, h901–h905)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h901 | Zalipie                   | 扎利皮耶彩绘  | styles/944-zalipie.png                     |
+| h902 | Fairyland Lustre          | 仙境虹彩瓷绘  | styles/945-fairyland-lustre.png            |
+| h903 | Kolrosing                 | 刻纹填色      | styles/946-kolrosing.png                   |
+| h904 | Tube-lining               | 堆线填釉      | styles/947-tube-lining.png                 |
+| h905 | Ofuke                     | 御深井釉      | styles/948-ofuke.png                       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 948, PNG count 948. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -12257,5 +12257,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h901",
+    "slug": "zalipie",
+    "name_en": "Zalipie",
+    "name_zh": "扎利皮耶彩绘",
+    "description_en": "Małopolska cottage painting: whitewashed walls packed with naïve roses, dotted stems, and folk birds in saturated red, green, yellow, and cobalt.",
+    "description_zh": "波兰小波兰乡居彩绘：粉白墙面铺满稚拙玫瑰、点状茎叶与民俗飞鸟，红绿黄钴饱和平涂。",
+    "source": "hermes-explore",
+    "image": "styles/944-zalipie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h902",
+    "slug": "fairyland-lustre",
+    "name_en": "Fairyland Lustre",
+    "name_zh": "仙境虹彩瓷绘",
+    "description_en": "Wedgwood iridescent overglaze: mother-of-pearl, ruby, and gold lustre with outlined ornamental trees on a glossy fired-ceramic skin.",
+    "description_zh": "韦奇伍德仙境虹彩：珍珠母、宝石红与金光虹彩釉，勾线饰树覆于光亮瓷表。",
+    "source": "hermes-explore",
+    "image": "styles/945-fairyland-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h903",
+    "slug": "kolrosing",
+    "name_en": "Kolrosing",
+    "name_zh": "刻纹填色",
+    "description_en": "Scandinavian wood incision: knife-cut grooves in pale birch packed with dark bark dust, geometric and floral linework over visible grain.",
+    "description_zh": "北欧木面刻纹：白桦细刀刻槽填入深色树皮粉，几何与花卉线描叠在木纹之上。",
+    "source": "hermes-explore",
+    "image": "styles/946-kolrosing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h904",
+    "slug": "tube-lining",
+    "name_en": "Tube-lining",
+    "name_zh": "堆线填釉",
+    "description_en": "Art Nouveau ceramic: raised slip piped as cloison walls, cells filled with pooled glossy glazes that catch light on the ridges.",
+    "description_zh": "新艺术陶瓷堆线：泥浆挤成隔墙，格内灌注光亮釉色，脊线受光如景泰蓝。",
+    "source": "hermes-explore",
+    "image": "styles/947-tube-lining.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h905",
+    "slug": "ofuke",
+    "name_en": "Ofuke",
+    "name_zh": "御深井釉",
+    "description_en": "Mino/Seto ashen glaze: milky bluish-grey pooling, quiet satin ceramic skin, ash blush and pinholes — not tenmoku, not bright celadon.",
+    "description_zh": "美浓濑户御深井：乳青灰灰釉垂流，哑光瓷肤带灰晕与针孔，非天目亦非翠青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/948-ofuke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
