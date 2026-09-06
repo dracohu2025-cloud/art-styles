@@ -11542,5 +11542,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h846",
+    "slug": "vortograph",
+    "name_en": "Vortograph",
+    "name_zh": "涡旋摄影",
+    "description_en": "Vortograph: Coburn-style vorticism photograph through three mirrors — kaleidoscopic shards, repeating crystalline facets, high-contrast grain; not digital glitch, not cubist paint.",
+    "description_zh": "涡旋摄影：科伯恩式三镜万花筒摄影，结晶碎面重复、高反差颗粒，非数字故障、非立体主义油画。",
+    "source": "hermes-explore",
+    "image": "styles/889-vortograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h847",
+    "slug": "schlieren",
+    "name_en": "Schlieren",
+    "name_zh": "纹影",
+    "description_en": "Schlieren imaging: knife-edge visualization of refractive-index gradients — heat plumes and shock ripples as silver-black contour bands; not CGI glass, not x-ray.",
+    "description_zh": "纹影：刀口法折射率梯度成像，热羽与激波呈银黑等高条纹，非玻璃着色渲染、非X光。",
+    "source": "hermes-explore",
+    "image": "styles/890-schlieren.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h848",
+    "slug": "petzval-swirl",
+    "name_en": "Petzval Swirl",
+    "name_zh": "佩兹伐旋焦",
+    "description_en": "Petzval swirl: 19th-century Petzval lens — sharp center, rotating elliptical bokeh, brass-era optical aberration; not tilt-shift miniature, not gaussian blur.",
+    "description_zh": "佩兹伐旋焦：十九世纪佩兹伐镜头，中心锐利、椭圆散景旋转，非移轴微缩、非高斯虚化。",
+    "source": "hermes-explore",
+    "image": "styles/891-petzval-swirl.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h849",
+    "slug": "dead-coloring",
+    "name_en": "Dead Coloring",
+    "name_zh": "死色层",
+    "description_en": "Dead coloring: oil underpainting locked in raw umber, mute lead-tin yellow and terra verte — lean matte, no final glaze chroma; not grisaille silver, not finished color oil.",
+    "description_zh": "死色层：油画底层定在生赭、铅锡黄与土绿，无罩染色彩，非银灰色单色、非完成油彩。",
+    "source": "hermes-explore",
+    "image": "styles/892-dead-coloring.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h850",
+    "slug": "lenticular",
+    "name_en": "Lenticular",
+    "name_zh": "光栅立体",
+    "description_en": "Lenticular print: ribbed plastic lenticules, interlaced dual-angle ghosting, glossy molded-lens stripes; not anaglyph red-cyan, not rainbow hologram.",
+    "description_zh": "光栅立体：柱镜条纹互织双角残影，塑胶透镜反光，非红青立体、非彩虹全息。",
+    "source": "hermes-explore",
+    "image": "styles/893-lenticular.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -2375,6 +2375,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 888, PNG count 888. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 170 (exactly 5, h846–h850)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h846 | Vortograph                | 涡旋摄影      | styles/889-vortograph.png                  |
+| h847 | Schlieren                 | 纹影          | styles/890-schlieren.png                   |
+| h848 | Petzval Swirl             | 佩兹伐旋焦    | styles/891-petzval-swirl.png               |
+| h849 | Dead Coloring             | 死色层        | styles/892-dead-coloring.png               |
+| h850 | Lenticular                | 光栅立体      | styles/893-lenticular.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 893, PNG count 893. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
