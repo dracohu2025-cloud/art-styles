@@ -11672,5 +11672,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h856",
+    "slug": "diazotype",
+    "name_en": "Diazotype",
+    "name_zh": "重氮蓝图",
+    "description_en": "Diazotype: ammonia-developed diazo whiteprint / blueline — aniline-blue chemical line on cream paper, graphic architectural-print grain; not cyanotype Prussian wash, not van dyke brown.",
+    "description_zh": "重氮蓝图：氨显影重氮白图/蓝线，米色纸上的苯胺蓝化学线条与工程图纸颗粒；非蓝晒普鲁士蓝底、非凡戴克棕。",
+    "source": "hermes-explore",
+    "image": "styles/899-diazotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h857",
+    "slug": "pennellate",
+    "name_en": "Pennellate",
+    "name_zh": "笔触玻璃",
+    "description_en": "Pennellate: Murano hot-glass with painterly color swipes trapped in a clear matrix — molten cobalt, amber, and rose veils; not filigrana threads, not incalmo joins, not murrine slices.",
+    "description_zh": "笔触玻璃：穆拉诺热玻璃中封入画笔般色带，钴蓝、琥珀与玫红色幕；非菲利格拉纳细丝、非对接熔接、非穆林切片。",
+    "source": "hermes-explore",
+    "image": "styles/900-pennellate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h858",
+    "slug": "kirlian",
+    "name_en": "Kirlian",
+    "name_zh": "克尔利安电晕",
+    "description_en": "Kirlian photography: high-voltage corona discharge contact print — neon-violet streamers on black, Lichtenberg branching, photographic grain; not neon signage, not schlieren, not chemigram.",
+    "description_zh": "克尔利安电晕：高压电晕接触印相，黑底上的紫青电须与利希滕贝格分叉、底片颗粒；非霓虹招牌、非纹影、非化学显影画。",
+    "source": "hermes-explore",
+    "image": "styles/901-kirlian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h859",
+    "slug": "whieldon",
+    "name_en": "Whieldon",
+    "name_zh": "惠尔登云釉",
+    "description_en": "Whieldon ware: 18th-c Staffordshire clouded tortoiseshell lead glaze — manganese brown, copper green, antimony yellow fused on cream earthenware; not mocha dendritic tea, not agateware laminated clay.",
+    "description_zh": "惠尔登云釉：十八世纪斯塔福德玳瑁铅釉，锰棕、铜绿与锑黄熔于奶油色陶体；非摩卡树枝纹、非玛瑙陶夹色泥。",
+    "source": "hermes-explore",
+    "image": "styles/902-whieldon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h860",
+    "slug": "yuteki",
+    "name_en": "Yuteki",
+    "name_zh": "油滴釉",
+    "description_en": "Yuteki: oil-spot tenmoku — glossy iron-black Jian glaze with silvery oil-drop crystallites; not hare’s-fur streaks, not yohen starbursts, not tea-dust matte.",
+    "description_zh": "油滴釉：铁黑建盏天目上的银色油滴析晶；非兔毫条纹、非曜变星斑、非茶叶末亚光。",
+    "source": "hermes-explore",
+    "image": "styles/903-yuteki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

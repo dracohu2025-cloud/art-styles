@@ -2403,6 +2403,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 898, PNG count 898. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 172 (exactly 5, h856–h860)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h856 | Diazotype                 | 重氮蓝图      | styles/899-diazotype.png                   |
+| h857 | Pennellate                | 笔触玻璃      | styles/900-pennellate.png                  |
+| h858 | Kirlian                   | 克尔利安电晕  | styles/901-kirlian.png                     |
+| h859 | Whieldon                  | 惠尔登云釉    | styles/902-whieldon.png                    |
+| h860 | Yuteki                    | 油滴釉        | styles/903-yuteki.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 903, PNG count 903. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
