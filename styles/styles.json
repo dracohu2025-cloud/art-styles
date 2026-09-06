@@ -13232,5 +13232,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h976",
+    "slug": "hikime-kagihana",
+    "name_en": "Hikime-kagihana",
+    "name_zh": "引目钩鼻",
+    "description_en": "Heian yamato-e facial idiom: slit pulled-line eyes, hooked-nose mark, tiny mouth, powdered skin, layered kasane robes, gold cloud bands, mineral pigments, no Western perspective.",
+    "description_zh": "平安大和绘面相程式：引目细眼、钩鼻、小口、傅粉肌、层叠配色十二单、金银霞带、矿物颜料、无西式透视。",
+    "source": "hermes-explore",
+    "image": "styles/1019-hikime-kagihana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h977",
+    "slug": "munjado",
+    "name_en": "Munjado",
+    "name_zh": "文字图",
+    "description_en": "Korean folk letter painting: giant Hanja whose strokes are built from birds, flowers, books and scholar objects; minhwa outline; mineral reds, blues and greens on mulberry paper.",
+    "description_zh": "朝鲜民画文字图：以花鸟、书册、文房将汉字笔画填满；民画勾线；矿物红蓝绿；皮纸底。",
+    "source": "hermes-explore",
+    "image": "styles/1020-munjado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h978",
+    "slug": "ajami",
+    "name_en": "Ajami",
+    "name_zh": "阿贾米木彩",
+    "description_en": "Levantine painted wood: relief gesso pastiglia on panels, floral arabesques, cypress and vase cartouches, gilding, matte tempera, Damascene qa’a interior ornament.",
+    "description_zh": "黎凡特阿贾米木彩：石膏堆塑、花卉卷草、柏树与瓶花开光、贴金、哑光蛋胶、大马士革厅堂饰板。",
+    "source": "hermes-explore",
+    "image": "styles/1021-ajami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h979",
+    "slug": "keliki",
+    "name_en": "Keliki",
+    "name_zh": "克利基细密",
+    "description_en": "Balinese Keliki miniature: dense Kamasan-derived fine ink and earth pigment, wayang-derived figures, patterned kamben, tree-of-life fillers, no empty ground.",
+    "description_zh": "巴厘克利基细密：卡马桑派生密线、大地色矿物颜料、瓦扬身形、锦裙纹、生命树填空、满幅无留白。",
+    "source": "hermes-explore",
+    "image": "styles/1022-keliki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h980",
+    "slug": "mudejar",
+    "name_en": "Mudéjar",
+    "name_zh": "穆德哈尔",
+    "description_en": "Iberian Mudéjar ornament: sebka nets, multifoil arches, yesería stucco, polychrome artesonado ceilings, eight-point stars, glazed tile dados in ivory, terracotta, gold and cobalt.",
+    "description_zh": "伊比利亚穆德哈尔装饰：塞布卡网纹、多叶拱、石膏雕饰、彩绘木顶、八角星、釉砖墙裙，牙白、陶红、金与钴蓝。",
+    "source": "hermes-explore",
+    "image": "styles/1023-mudejar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

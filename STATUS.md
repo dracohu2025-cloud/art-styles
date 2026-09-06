@@ -2740,6 +2740,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1018, PNG count 1018. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 196 (exactly 5, h976–h980)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h976 | Hikime-kagihana           | 引目钩鼻      | styles/1019-hikime-kagihana.png            |
+| h977 | Munjado                   | 文字图        | styles/1020-munjado.png                    |
+| h978 | Ajami                     | 阿贾米木彩    | styles/1021-ajami.png                      |
+| h979 | Keliki                    | 克利基细密    | styles/1022-keliki.png                     |
+| h980 | Mudéjar                   | 穆德哈尔      | styles/1023-mudejar.png                    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1023, PNG count 1023. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
