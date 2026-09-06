@@ -2474,6 +2474,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 923, PNG count 923. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 177 (exactly 5, h881–h885)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h881 | Qiangjin                  | 戗金          | styles/924-qiangjin.png                    |
+| h882 | Stonecut                  | 石刻板画      | styles/925-stonecut.png                    |
+| h883 | Vetro a Fili              | 线纹玻璃      | styles/926-vetro-a-fili.png                |
+| h884 | Aka-e                     | 赤绘          | styles/927-aka-e.png                       |
+| h885 | Emulsion Lift             | 乳剂剥离      | styles/928-emulsion-lift.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 928, PNG count 928. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

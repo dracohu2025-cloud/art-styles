@@ -11997,5 +11997,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h881",
+    "slug": "qiangjin",
+    "name_en": "Qiangjin",
+    "name_zh": "戗金",
+    "description_en": "Incised-line lacquer packed with gold powder; raking-light gilt grooves on polished cinnabar and black urushi.",
+    "description_zh": "漆面阴刻细线填金粉，朱红与黑漆上呈掠光金线。",
+    "source": "hermes-explore",
+    "image": "styles/924-qiangjin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h882",
+    "slug": "stonecut",
+    "name_en": "Stonecut",
+    "name_zh": "石刻板画",
+    "description_en": "Cape Dorset stone-block relief print: grainy ink, flat unmodulated color, bold contours on cream paper.",
+    "description_zh": "开普多塞特石刻浮雕版，颗粒油墨、平涂色块、粗轮廓印于米纸。",
+    "source": "hermes-explore",
+    "image": "styles/925-stonecut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h883",
+    "slug": "vetro-a-fili",
+    "name_en": "Vetro a Fili",
+    "name_zh": "线纹玻璃",
+    "description_en": "Murano glass with parallel cane stripes fused through the melt; optical filigree and furnace gloss.",
+    "description_zh": "穆拉诺平行玻璃丝熔入器体，光学条纹与窑火光泽。",
+    "source": "hermes-explore",
+    "image": "styles/926-vetro-a-fili.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h884",
+    "slug": "aka-e",
+    "name_en": "Aka-e",
+    "name_zh": "赤绘",
+    "description_en": "Iron-red overglaze enamel on white porcelain; spare red brush, glaze sheen, empty white fields.",
+    "description_zh": "白瓷上铁红釉上彩，疏笔红线、釉光与大面积留白。",
+    "source": "hermes-explore",
+    "image": "styles/927-aka-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h885",
+    "slug": "emulsion-lift",
+    "name_en": "Emulsion Lift",
+    "name_zh": "乳剂剥离",
+    "description_en": "Polaroid emulsion peeled and transferred; wrinkled translucent film skin on textured paper.",
+    "description_zh": "宝丽来乳剂膜剥离转印，褶皱半透明胶膜覆于纸面。",
+    "source": "hermes-explore",
+    "image": "styles/928-emulsion-lift.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
