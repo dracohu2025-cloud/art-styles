@@ -2249,6 +2249,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 843, PNG count 843. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 161 (exactly 5, h801–h805)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h801 | Pointillé                 | 点錾          | styles/844-pointille.png                   |
+| h802 | Tamenuri                  | 溜涂          | styles/845-tamenuri.png                    |
+| h803 | Pietra Paesina            | 风景石        | styles/846-pietra-paesina.png              |
+| h804 | Diamond-point Engraving   | 金刚石线刻    | styles/847-diamond-point-engraving.png     |
+| h805 | Ajouré                    | 透雕金工      | styles/848-ajoure.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 848, PNG count 848. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -10957,5 +10957,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h801",
+    "slug": "pointille",
+    "name_en": "Pointillé",
+    "name_zh": "点錾",
+    "description_en": "Pointillé: French goldsmith chasing — tonal modeling built from thousands of tiny circular punch-dots on gold and silver.",
+    "description_zh": "点錾：法国金工錾点，以密布小圆点在金银上塑造明暗。",
+    "source": "hermes-explore",
+    "image": "styles/844-pointille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h802",
+    "slug": "tamenuri",
+    "name_en": "Tamenuri",
+    "name_zh": "溜涂",
+    "description_en": "Tamenuri: layered translucent urushi over a dark ground — candy-deep wet sheen from many thin lacquer coats.",
+    "description_zh": "溜涂：深色地上多层半透明漆，薄涂积出如糖果般的湿润光泽。",
+    "source": "hermes-explore",
+    "image": "styles/845-tamenuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h803",
+    "slug": "pietra-paesina",
+    "name_en": "Pietra Paesina",
+    "name_zh": "风景石",
+    "description_en": "Pietra Paesina: Florentine ruin marble — dendritic iron staining in limestone that reads as miniature cliffs and ruined towers.",
+    "description_zh": "风景石：佛罗伦萨ruin大理石，石灰岩中的铁质树状纹如微型悬崖与废墟。",
+    "source": "hermes-explore",
+    "image": "styles/846-pietra-paesina.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h804",
+    "slug": "diamond-point-engraving",
+    "name_en": "Diamond-point Engraving",
+    "name_zh": "金刚石线刻",
+    "description_en": "Diamond-point engraving: Venetian/Dutch crystal scratched with a diamond stylus — hair-thin sparkling lines on clear glass.",
+    "description_zh": "金刚石线刻：威尼斯与荷兰水晶以金刚石针划刻，透明玻璃上极细闪光线。",
+    "source": "hermes-explore",
+    "image": "styles/847-diamond-point-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h805",
+    "slug": "ajoure",
+    "name_en": "Ajouré",
+    "name_zh": "透雕金工",
+    "description_en": "Ajouré: French openwork metal — saw-pierced gold and silver sheet with lace-like voids and light through the cutouts.",
+    "description_zh": "透雕金工：法国镂空金属，锯穿金银薄片形成蕾丝般负形与透光。",
+    "source": "hermes-explore",
+    "image": "styles/848-ajoure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
