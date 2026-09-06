@@ -10502,5 +10502,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h766",
+    "slug": "zonsei",
+    "name_en": "Zonsei",
+    "name_zh": "存星漆",
+    "description_en": "Kagawa lacquer: incised hairline grooves on black urushi filled with colored lacquer and gold powder.",
+    "description_zh": "香川存星漆：黑漆地阴刻细线，填入彩漆与金粉。",
+    "source": "hermes-explore",
+    "image": "styles/809-zonsei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h767",
+    "slug": "dutch-gilt",
+    "name_en": "Dutch Gilt",
+    "name_zh": "荷兰金箔纸",
+    "description_en": "18th-century gilt brocade paper: woodblock arabesques in gold size on colored laid paper.",
+    "description_zh": "十八世纪荷兰金箔纸：色底上木版印金纹卷草。",
+    "source": "hermes-explore",
+    "image": "styles/810-dutch-gilt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h768",
+    "slug": "stucco-lustro",
+    "name_en": "Stucco Lustro",
+    "name_zh": "抛光灰泥",
+    "description_en": "Polished lime plaster: thin burnished putty layers with earth pigments fused into a marble sheen.",
+    "description_zh": "抛光灰泥：薄层石灰膏抛光，土性颜料融入大理石光泽。",
+    "source": "hermes-explore",
+    "image": "styles/811-stucco-lustro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h769",
+    "slug": "iron-gall",
+    "name_en": "Iron Gall",
+    "name_zh": "铁胆墨",
+    "description_en": "Historical iron-gall ink on laid paper: brown-black quill hatching with rusty corrosion bloom.",
+    "description_zh": "铁胆墨：米色布纹纸上褐黑羽毛笔排线，浓墨处微锈晕。",
+    "source": "hermes-explore",
+    "image": "styles/812-iron-gall.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h770",
+    "slug": "kirigami",
+    "name_en": "Kirigami",
+    "name_zh": "切纸构成",
+    "description_en": "Cut-paper construction: nested washi layers, knife-cut silhouettes, paper bridges and cast shadows.",
+    "description_zh": "切纸构成：多层和纸刀刻剪影、纸桥与层间投影。",
+    "source": "hermes-explore",
+    "image": "styles/813-kirigami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

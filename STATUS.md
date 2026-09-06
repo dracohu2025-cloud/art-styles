@@ -2151,6 +2151,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 808, PNG count 808. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 154 (exactly 5, h766–h770)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h766 | Zonsei             | 存星漆        | styles/809-zonsei.png              |
+| h767 | Dutch Gilt         | 荷兰金箔纸    | styles/810-dutch-gilt.png          |
+| h768 | Stucco Lustro      | 抛光灰泥      | styles/811-stucco-lustro.png       |
+| h769 | Iron Gall          | 铁胆墨        | styles/812-iron-gall.png           |
+| h770 | Kirigami           | 切纸构成      | styles/813-kirigami.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 813, PNG count 813. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
