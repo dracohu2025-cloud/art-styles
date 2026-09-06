@@ -10567,5 +10567,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h771",
+    "slug": "eclaboussure",
+    "name_en": "Eclaboussure",
+    "name_zh": "泼溅转印",
+    "description_en": "Pressed-splatter transfer: flicked oil blooms, squeezed ridges, satellite droplets and ghost veils.",
+    "description_zh": "泼溅转印：甩滴油彩再对压，绽开色晕、挤脊、卫星飞点与残影。",
+    "source": "hermes-explore",
+    "image": "styles/814-eclaboussure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h772",
+    "slug": "schadograph",
+    "name_en": "Schadograph",
+    "name_zh": "沙德光影图",
+    "description_en": "Camera-less photogram: contact silhouettes, X-ray translucency, chemical fog on black paper.",
+    "description_zh": "沙德光影图：无相机接触曝光，剪影叠影、半透明骨骼感与药雾。",
+    "source": "hermes-explore",
+    "image": "styles/815-schadograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h773",
+    "slug": "dominotier",
+    "name_en": "Dominotier",
+    "name_zh": "多米诺彩纸",
+    "description_en": "Papier dominoté: small woodblock repeats, mineral stencil fills, laid-paper grain and slight misregister.",
+    "description_zh": "多米诺彩纸：小木版重复纹样、矿物颜料模填、布纹纸与轻微套印偏移。",
+    "source": "hermes-explore",
+    "image": "styles/816-dominotier.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h774",
+    "slug": "open-bite",
+    "name_en": "Open Bite",
+    "name_zh": "开放咬蚀",
+    "description_en": "Open-bite intaglio: broad acid-eaten planes, foul biting, plate tone and a visible plate mark.",
+    "description_zh": "开放咬蚀：大面积酸咬浅调、蚀斑、余墨与清晰版痕。",
+    "source": "hermes-explore",
+    "image": "styles/817-open-bite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h775",
+    "slug": "kanoko",
+    "name_en": "Kanoko",
+    "name_zh": "鹿子絞",
+    "description_en": "Kanoko shibori: dense fawn-spot bind-resist dots, puckered cloth memory, indigo dye bleed at specks.",
+    "description_zh": "鹿子絞：细密绑防白点、布面皱记、靛蓝在斑点边缘渗化。",
+    "source": "hermes-explore",
+    "image": "styles/818-kanoko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

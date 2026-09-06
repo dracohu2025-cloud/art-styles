@@ -2165,6 +2165,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 813, PNG count 813. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 155 (exactly 5, h771–h775)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h771 | Eclaboussure       | 泼溅转印      | styles/814-eclaboussure.png        |
+| h772 | Schadograph        | 沙德光影图    | styles/815-schadograph.png         |
+| h773 | Dominotier         | 多米诺彩纸    | styles/816-dominotier.png          |
+| h774 | Open Bite          | 开放咬蚀      | styles/817-open-bite.png           |
+| h775 | Kanoko             | 鹿子絞        | styles/818-kanoko.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 818, PNG count 818. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
