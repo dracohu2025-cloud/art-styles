@@ -11802,5 +11802,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h866",
+    "slug": "mishima-inlay",
+    "name_en": "Mishima Inlay",
+    "name_zh": "三岛镶嵌",
+    "description_en": "Mishima inlay: incised stoneware filled with white slip, stamped punch-marks, buncheong-like fired surface; not sgraffito scratch-through, not blue-and-white porcelain, not drawing on paper.",
+    "description_zh": "三岛镶嵌：炻器阴刻填白化妆土、戳印纹与烧成器表；非刮花露胎、非青花瓷、非纸上线描。",
+    "source": "hermes-explore",
+    "image": "styles/909-mishima-inlay.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h867",
+    "slug": "nunomezuri",
+    "name_en": "Nunomezuri",
+    "name_zh": "布目摺",
+    "description_en": "Nunomezuri: woodblock cloth-grain impression in washi, baren-pressed weave tooth, muted mineral blocks; not embroidery, not canvas oil, not digital noise.",
+    "description_zh": "布目摺：木版布纹压入和纸、马连压出织纹与矿物色块；非刺绣、非布面油画、非数字噪点。",
+    "source": "hermes-explore",
+    "image": "styles/910-nunomezuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h868",
+    "slug": "iwa-enogu",
+    "name_en": "Iwa-enogu",
+    "name_zh": "岩绘具",
+    "description_en": "Iwa-enogu: crushed mineral Nihonga pigments—malachite, azurite, cinnabar, gofun—gritty matte stone color on washi; not watercolor wash, not acrylic, not cel.",
+    "description_zh": "岩绘具：日本画矿物色，孔雀石、石青、朱砂与胡粉，纸上粗粒哑光；非水彩渲染、非丙烯、非赛璐珞。",
+    "source": "hermes-explore",
+    "image": "styles/911-iwa-enogu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h869",
+    "slug": "grisaille-glass",
+    "name_en": "Grisaille Glass",
+    "name_zh": "灰色玻璃画",
+    "description_en": "Grisaille glass: vitreous grey-brown tracing and matting on translucent panes, silver stain, lead calmes; not oil grisaille on canvas, not ink wash, not jewel mosaic only.",
+    "description_zh": "灰色玻璃画：玻璃上烧制灰棕描线与罩色、银染与铅条；非布面灰色画、非水墨、非仅宝石色镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/912-grisaille-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h870",
+    "slug": "tula-work",
+    "name_en": "Tula Work",
+    "name_zh": "图拉乌银",
+    "description_en": "Tula work: Russian niello in engraved silver, matte black chern against polished metal; not paper engraving, not mezzotint, not enamel.",
+    "description_zh": "图拉乌银：银器阴刻填乌银，哑光黑衬抛光银地；非纸上雕版、非美柔汀、非珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/913-tula-work.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

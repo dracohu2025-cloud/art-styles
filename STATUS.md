@@ -2431,6 +2431,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 908, PNG count 908. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 174 (exactly 5, h866–h870)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h866 | Mishima Inlay             | 三岛镶嵌      | styles/909-mishima-inlay.png               |
+| h867 | Nunomezuri                | 布目摺        | styles/910-nunomezuri.png                  |
+| h868 | Iwa-enogu                 | 岩绘具        | styles/911-iwa-enogu.png                   |
+| h869 | Grisaille Glass           | 灰色玻璃画    | styles/912-grisaille-glass.png             |
+| h870 | Tula Work                 | 图拉乌银      | styles/913-tula-work.png                   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 913, PNG count 913. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
