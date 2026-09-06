@@ -13167,5 +13167,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h971",
+    "slug": "kowhaiwhai",
+    "name_en": "Kowhaiwhai",
+    "name_zh": "考怀怀纹",
+    "description_en": "Māori rafter painting: koru and kape spirals in flat red, black, and white on timber-red ground, bilateral rhythm, no modeling.",
+    "description_zh": "毛利椽绘：红黑白平面涡卷考鲁纹、木红底、左右节奏，无体积光影。",
+    "source": "hermes-explore",
+    "image": "styles/1014-kowhaiwhai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h972",
+    "slug": "menri",
+    "name_en": "Menri",
+    "name_zh": "门日画派",
+    "description_en": "Central Tibetan Menri school: mineral malachite and azurite, gold outline, enamel-smooth flesh, curling clouds, brocade borders.",
+    "description_zh": "卫藏门日画派：石绿石青矿彩、金线勾勒、珐琅般肤色、卷云与织锦边饰。",
+    "source": "hermes-explore",
+    "image": "styles/1015-menri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h973",
+    "slug": "ghalamkar",
+    "name_en": "Ghalamkar",
+    "name_zh": "盖拉姆卡尔印",
+    "description_en": "Persian qalamkar woodblock cotton: madder, indigo, mustard and black stamps, boteh repeats, slight misregistration, visible weave.",
+    "description_zh": "波斯盖拉姆卡尔木模印棉：茜红靛蓝芥黄墨黑、佩斯利重复、轻微错位、布纹可见。",
+    "source": "hermes-explore",
+    "image": "styles/1016-ghalamkar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h974",
+    "slug": "olinala",
+    "name_en": "Olinalá",
+    "name_zh": "奥利纳拉漆绘",
+    "description_en": "Guerrero Olinalá lacquer: rayado and punteado layers of earth-red and black carved through, gold-leaf dots, glossy lacquer sheen.",
+    "description_zh": "格雷罗奥利纳拉漆：刮刻与点绘层叠土红与黑漆、金箔点、亮漆光泽。",
+    "source": "hermes-explore",
+    "image": "styles/1017-olinala.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h975",
+    "slug": "bonad",
+    "name_en": "Bonad",
+    "name_zh": "博纳德墙绘",
+    "description_en": "Swedish bonadsmålning: distemper on linen, flat naive figures in registers, folk reds and blues, dark outline, matte chalky paint.",
+    "description_zh": "瑞典博纳德墙绘：亚麻胶粉、分层平面人物、民间红蓝、深色勾线、哑光粉质。",
+    "source": "hermes-explore",
+    "image": "styles/1018-bonad.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

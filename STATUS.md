@@ -2726,6 +2726,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1013, PNG count 1013. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 195 (exactly 5, h971–h975)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h971 | Kowhaiwhai                | 考怀怀纹      | styles/1014-kowhaiwhai.png                 |
+| h972 | Menri                     | 门日画派      | styles/1015-menri.png                      |
+| h973 | Ghalamkar                 | 盖拉姆卡尔印  | styles/1016-ghalamkar.png                  |
+| h974 | Olinalá                   | 奥利纳拉漆绘  | styles/1017-olinala.png                    |
+| h975 | Bonad                     | 博纳德墙绘    | styles/1018-bonad.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1018, PNG count 1018. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
