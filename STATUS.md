@@ -2277,6 +2277,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 853, PNG count 853. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 163 (exactly 5, h811–h815)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h811 | Choshitsu                 | 彫漆          | styles/854-choshitsu.png                   |
+| h812 | Ishime-ji                 | 石目地        | styles/855-ishime-ji.png                   |
+| h813 | Uchidashi                 | 打出          | styles/856-uchidashi.png                   |
+| h814 | Gu Embroidery             | 顾绣          | styles/857-gu-embroidery.png               |
+| h815 | Wothlytype                | 沃斯利型      | styles/858-wothlytype.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 858, PNG count 858. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

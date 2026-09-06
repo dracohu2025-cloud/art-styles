@@ -11087,5 +11087,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h811",
+    "slug": "choshitsu",
+    "name_en": "Choshitsu",
+    "name_zh": "彫漆",
+    "description_en": "Choshitsu: carved multilayer urushi — stacked cinnabar, black, ochre and green coats gouged through so stratified color bands form the image.",
+    "description_zh": "彫漆：多层堆漆后刀刻，朱红、黑、赭与绿层被剖开，色带断面构成形象。",
+    "source": "hermes-explore",
+    "image": "styles/854-choshitsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h812",
+    "slug": "ishime-ji",
+    "name_en": "Ishime-ji",
+    "name_zh": "石目地",
+    "description_en": "Ishime-ji: Japanese stone-grain metal ground — dense pebble punch-marks on iron or shakudo, matte mineral sparkle instead of mirror polish.",
+    "description_zh": "石目地：金属石目地，密锤卵石坑点于铁或赤铜，哑光矿物闪光而非镜面抛光。",
+    "source": "hermes-explore",
+    "image": "styles/855-ishime-ji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h813",
+    "slug": "uchidashi",
+    "name_en": "Uchidashi",
+    "name_zh": "打出",
+    "description_en": "Uchidashi: Japanese hammered relief from the reverse of a thin metal sheet — raised volumes, planished fronts, chasing lines, hollow-back copper.",
+    "description_zh": "打出：从薄金属背面锤起浮雕，正面锤光，錾线走形，空膛铜面。",
+    "source": "hermes-explore",
+    "image": "styles/856-uchidashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h814",
+    "slug": "gu-embroidery",
+    "name_en": "Gu Embroidery",
+    "name_zh": "顾绣",
+    "description_en": "Gu embroidery: Songjiang painting-embroidery — hair-split silk floss, long-and-short stitch painterly shading, satin sheen on silk ground.",
+    "description_zh": "顾绣：松江画绣，劈丝细于发，套针晕色如墨染，缎面丝光落于绸地。",
+    "source": "hermes-explore",
+    "image": "styles/857-gu-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h815",
+    "slug": "wothlytype",
+    "name_en": "Wothlytype",
+    "name_zh": "沃斯利型",
+    "description_en": "Wothlytype: 1864 uranium-nitrate and silver printing-out process — honey-yellow to olive-brown continuous tone, paper fiber, chemical stain.",
+    "description_zh": "沃斯利型：1864年铀盐与银盐晒印，蜜黄至橄榄棕连续调，纸纹与化学渍。",
+    "source": "hermes-explore",
+    "image": "styles/858-wothlytype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
