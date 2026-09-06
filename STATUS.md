@@ -2263,6 +2263,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 848, PNG count 848. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 162 (exactly 5, h806–h810)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h806 | Kebori                    | 毛彫          | styles/849-kebori.png                      |
+| h807 | Same-nuri                 | 鮫塗          | styles/850-same-nuri.png                   |
+| h808 | Soap-ground Aquatint      | 皂地飞尘      | styles/851-soap-ground-aquatint.png        |
+| h809 | Opus Alexandrinum         | 亚历山大镶嵌  | styles/852-opus-alexandrinum.png           |
+| h810 | Pannotype                 | 布基湿版      | styles/853-pannotype.png                   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 853, PNG count 853. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

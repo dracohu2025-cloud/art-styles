@@ -11022,5 +11022,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h806",
+    "slug": "kebori",
+    "name_en": "Kebori",
+    "name_zh": "毛彫",
+    "description_en": "Kebori: Japanese hairline metal engraving — hair-thin incised lines on dark patinated alloy, silver-cut grooves under raking light.",
+    "description_zh": "毛彫：日本极细金属线刻，深色合金上发丝般阴刻线，掠光下银亮沟槽。",
+    "source": "hermes-explore",
+    "image": "styles/849-kebori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h807",
+    "slug": "same-nuri",
+    "name_en": "Same-nuri",
+    "name_zh": "鮫塗",
+    "description_en": "Same-nuri: Japanese sharkskin lacquer — urushi over ray-skin nodules, gloss pooling in valleys, pebbled samegawa grain.",
+    "description_zh": "鮫塗：鲨鱼皮漆，漆覆鳐皮颗粒，谷中积光，鮫皮卵石纹理。",
+    "source": "hermes-explore",
+    "image": "styles/850-same-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h808",
+    "slug": "soap-ground-aquatint",
+    "name_en": "Soap-ground Aquatint",
+    "name_zh": "皂地飞尘",
+    "description_en": "Soap-ground aquatint: etching with milky soap resists and granular aquatint tooth — velvety bitten greys and irregular pale islands on rag paper.",
+    "description_zh": "皂地飞尘：皂抗蚀与飞尘颗粒咬蚀，天鹅绒灰调与不规则浅色岛，印于棉浆纸。",
+    "source": "hermes-explore",
+    "image": "styles/851-soap-ground-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h809",
+    "slug": "opus-alexandrinum",
+    "name_en": "Opus Alexandrinum",
+    "name_zh": "亚历山大镶嵌",
+    "description_en": "Opus Alexandrinum: geometric opus sectile marble inlay — interlocking triangles and guilloche bands of porphyry, verde antique, and giallo antico.",
+    "description_zh": "亚历山大镶嵌：几何板块石嵌，斑岩、古绿与古黄大理石三角与绞丝带严丝合缝。",
+    "source": "hermes-explore",
+    "image": "styles/852-opus-alexandrinum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h810",
+    "slug": "pannotype",
+    "name_en": "Pannotype",
+    "name_zh": "布基湿版",
+    "description_en": "Pannotype: 1850s wet-collodion on black waxed linen — cloth weave through the collodion, chocolate-brown shadows, matte fabric support.",
+    "description_zh": "布基湿版：1850年代火棉胶涂于黑色蜡布，织物纹透出乳剂，巧克力棕影与哑光布基。",
+    "source": "hermes-explore",
+    "image": "styles/853-pannotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
