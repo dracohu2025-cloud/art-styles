@@ -2193,6 +2193,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 823, PNG count 823. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 157 (exactly 5, h781–h785)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h781 | Arashi Shibori     | 岚绞          | styles/824-arashi-shibori.png      |
+| h782 | Yohen Tenmoku      | 曜变天目      | styles/825-yohen-tenmoku.png       |
+| h783 | Gesso Sottile      | 细石膏底      | styles/826-gesso-sottile.png       |
+| h784 | Gilding Bolus      | 红土金底      | styles/827-gilding-bolus.png       |
+| h785 | Chrysography       | 金墨书绘      | styles/828-chrysography.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 828, PNG count 828. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

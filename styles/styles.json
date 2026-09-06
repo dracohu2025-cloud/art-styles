@@ -10697,5 +10697,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h781",
+    "slug": "arashi-shibori",
+    "name_en": "Arashi Shibori",
+    "name_zh": "岚绞",
+    "description_en": "Arashi shibori: pole-wrap storm resist, diagonal indigo ladders, crinkled cloth grain.",
+    "description_zh": "岚绞：绕杆风暴防染、斜向靛蓝梯纹、布面皱理。",
+    "source": "hermes-explore",
+    "image": "styles/824-arashi-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h782",
+    "slug": "yohen-tenmoku",
+    "name_en": "Yohen Tenmoku",
+    "name_zh": "曜变天目",
+    "description_en": "Yohen tenmoku: oil-black Jian glaze, rainbow halo spots, kiln-pool iridescence.",
+    "description_zh": "曜变天目：油黑建盏釉、虹晕油滴、窑池虹彩。",
+    "source": "hermes-explore",
+    "image": "styles/825-yohen-tenmoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h783",
+    "slug": "gesso-sottile",
+    "name_en": "Gesso Sottile",
+    "name_zh": "细石膏底",
+    "description_en": "Gesso sottile: thin Italian chalk ground, luminous gypsum panel, tempera-ready matte.",
+    "description_zh": "细石膏底：意式薄石膏地、透亮石膏板、蛋彩哑光底。",
+    "source": "hermes-explore",
+    "image": "styles/826-gesso-sottile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h784",
+    "slug": "gilding-bolus",
+    "name_en": "Gilding Bolus",
+    "name_zh": "红土金底",
+    "description_en": "Gilding bolus: red bole clay under burnished gold leaf, worn gaps, agate sheen.",
+    "description_zh": "红土金底：红土石膏上贴金箔、磨损露红、玛瑙抛光。",
+    "source": "hermes-explore",
+    "image": "styles/827-gilding-bolus.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h785",
+    "slug": "chrysography",
+    "name_en": "Chrysography",
+    "name_zh": "金墨书绘",
+    "description_en": "Chrysography: powdered gold-ink drawing on dark ground, metallic contour, shell-gold wash.",
+    "description_zh": "金墨书绘：暗地金粉墨线、金属轮廓、泥金薄染。",
+    "source": "hermes-explore",
+    "image": "styles/828-chrysography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
