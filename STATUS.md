@@ -2460,6 +2460,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 918, PNG count 918. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 176 (exactly 5, h876–h880)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h876 | Chirimen-e                | 缩缅绘        | styles/919-chirimen-e.png                  |
+| h877 | Sơn Mài                   | 磨漆画        | styles/920-son-mai.png                     |
+| h878 | Grottesche                | 怪诞纹样      | styles/921-grottesche.png                  |
+| h879 | Mezen Painting            | 梅津彩绘      | styles/922-mezen-painting.png              |
+| h880 | Lai Rot Nam               | 水洗金漆      | styles/923-lai-rot-nam.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 923, PNG count 923. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

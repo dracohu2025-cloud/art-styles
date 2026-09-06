@@ -11932,5 +11932,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h876",
+    "slug": "chirimen-e",
+    "name_en": "Chirimen-e",
+    "name_zh": "缩缅绘",
+    "description_en": "Chirimen-e: Japanese crêped woodblock — a finished nishiki-e is dampened and pressed into a textured mold so the sheet puckers like crepe silk; not plain mokuhanga, not karazuri blind emboss, not chirimen textile.",
+    "description_zh": "缩缅绘：完成的锦绘经湿压起皱，纸面如绉绸细褶；非普通水印木刻、非空摺、非缩缅织物。",
+    "source": "hermes-explore",
+    "image": "styles/919-chirimen-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h877",
+    "slug": "son-mai",
+    "name_en": "Sơn Mài",
+    "name_zh": "磨漆画",
+    "description_en": "Sơn mài: Vietnamese polished lacquer painting — layered black and cinnabar lacquer inlaid with crushed eggshell and gold leaf, then sanded to a wet glassy sheen; not Japanese maki-e, not Chinese diaoqi, not oil glaze.",
+    "description_zh": "磨漆画：多层黑漆与朱红嵌蛋壳金箔，打磨至镜面；非莳绘、非雕漆、非油画罩染。",
+    "source": "hermes-explore",
+    "image": "styles/920-son-mai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h878",
+    "slug": "grottesche",
+    "name_en": "Grottesche",
+    "name_zh": "怪诞纹样",
+    "description_en": "Grottesche: Renaissance grotesque ornament after the Domus Aurea and Vatican Loggia — airy candelabra, hybrid scrolls, and fresco figures on a pale ground; not Baroque heaviness, not Art Nouveau, not horror grotesques.",
+    "description_zh": "怪诞纹样：文艺复兴壁饰，灯台式卷草与湿壁画人物铺于浅地；非巴洛克厚重、非新艺术、非恐怖怪诞。",
+    "source": "hermes-explore",
+    "image": "styles/921-grottesche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h879",
+    "slug": "mezen-painting",
+    "name_en": "Mezen Painting",
+    "name_zh": "梅津彩绘",
+    "description_en": "Mezen painting: Northern Russian folk painting in iron-red and lamp-black on pale wood — horses, deer, birds, and geometric friezes with hatched fills; not Khokhloma gold, not Gzhel blue, not Palekh lacquer.",
+    "description_zh": "梅津彩绘：俄国北方民间红黑彩绘，马鹿鸟与几何饰带铺于浅木地；非霍赫洛玛金地、非格热利蓝、非帕列赫漆。",
+    "source": "hermes-explore",
+    "image": "styles/922-mezen-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h880",
+    "slug": "lai-rot-nam",
+    "name_en": "Lai Rot Nam",
+    "name_zh": "水洗金漆",
+    "description_en": "Lai rot nam: Thai gold-wash lacquer — resist drawing on black lacquer, gold leaf applied, then water-washed so gold remains only in the design; not Japanese maki-e sprinkle, not raden, not niello.",
+    "description_zh": "水洗金漆：泰国黑漆抗蚀描金，水洗后金仅留于纹样；非莳绘洒金、非螺钿、非乌银。",
+    "source": "hermes-explore",
+    "image": "styles/923-lai-rot-nam.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
