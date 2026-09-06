@@ -2389,6 +2389,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 893, PNG count 893. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 171 (exactly 5, h851–h855)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h851 | Fundame                   | 粉地          | styles/894-fundame.png                     |
+| h852 | Papel Picado              | 镂空彩纸      | styles/895-papel-picado.png                |
+| h853 | Pastel Manner             | 粉彩凹版      | styles/896-pastel-manner.png               |
+| h854 | Hishizashi                | 菱刺          | styles/897-hishizashi.png                  |
+| h855 | Opaline Glass             | 乳浊玻璃      | styles/898-opaline-glass.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 898, PNG count 898. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

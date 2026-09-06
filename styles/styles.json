@@ -11607,5 +11607,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h851",
+    "slug": "fundame",
+    "name_en": "Fundame",
+    "name_zh": "粉地",
+    "description_en": "Fundame: dense matte gold-powder urushi ground, unsown kinpun as a velvet metallic field, unpolished; not nashiji speckles, not burnished ikakeji, not pictorial maki-e.",
+    "description_zh": "粉地：密铺无光金粉漆地，丝绒金属质感，未经研磨；非梨地金斑、非沃悬地抛光、非绘莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/894-fundame.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h852",
+    "slug": "papel-picado",
+    "name_en": "Papel Picado",
+    "name_zh": "镂空彩纸",
+    "description_en": "Papel picado: punched tissue-paper banners, translucent stacked color, light through negative-space cuts; not Chinese jianzhi, not scherenschnitte silhouette, not kirigami folds.",
+    "description_zh": "镂空彩纸：薄纸穿孔彩幡，叠色透光负形剪孔；非中国剪纸、非黑影剪影、非立体切纸。",
+    "source": "hermes-explore",
+    "image": "styles/895-papel-picado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h853",
+    "slug": "pastel-manner",
+    "name_en": "Pastel Manner",
+    "name_zh": "粉彩凹版",
+    "description_en": "Pastel manner: 18th-c intaglio imitating chalk pastel, roulette grain and dusty stipple in limited chalky inks on laid paper; not actual pastel, not lithotint, not crayon manner alone.",
+    "description_zh": "粉彩凹版：十八世纪模仿粉彩的铜版，滚点颗粒与粉尘点刻，有限粉色印于布纹纸；非真粉彩、非石版淡彩、非单独粉笔凹版。",
+    "source": "hermes-explore",
+    "image": "styles/896-pastel-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h854",
+    "slug": "hishizashi",
+    "name_en": "Hishizashi",
+    "name_zh": "菱刺",
+    "description_en": "Hishizashi: Nanbu counted diamond sashiko, white running-stitch hishi lattice on indigo hemp; not kogin-zashi, not hitomezashi, not wave sashiko.",
+    "description_zh": "菱刺：南部计数菱格刺子，白线在靛蓝麻上走针成菱；非小巾刺、非一目刺子、非波浪刺子。",
+    "source": "hermes-explore",
+    "image": "styles/897-hishizashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h855",
+    "slug": "opaline-glass",
+    "name_en": "Opaline Glass",
+    "name_zh": "乳浊玻璃",
+    "description_en": "Opaline glass: milky translucent 19th-c French furnace glass, pastel body with fiery edge opalescence; not lattimo opaque white, not millefiori, not pâte-de-verre granules.",
+    "description_zh": "乳浊玻璃：十九世纪法国半透明乳浊炉制玻璃，粉彩色体与薄边火彩；非拉蒂莫不透明白、非千花、非熔铸玻璃颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/898-opaline-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
