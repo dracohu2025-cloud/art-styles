@@ -2305,6 +2305,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 863, PNG count 863. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 165 (exactly 5, h821–h825)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h821 | Broderie Perse            | 印花贴布绣    | styles/864-broderie-perse.png              |
+| h822 | Mountmellick              | 芒特梅利克白绣 | styles/865-mountmellick.png                |
+| h823 | Thewa                     | 特瓦金箔      | styles/866-thewa.png                       |
+| h824 | Ikkanbari                 | 一闲张        | styles/867-ikkanbari.png                   |
+| h825 | Cuprotype                 | 铜盐印相      | styles/868-cuprotype.png                   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 868, PNG count 868. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

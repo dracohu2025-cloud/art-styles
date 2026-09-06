@@ -11217,5 +11217,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h821",
+    "slug": "broderie-perse",
+    "name_en": "Broderie Perse",
+    "name_zh": "印花贴布绣",
+    "description_en": "Broderie Perse: 18th-century English chintz appliqué — cut floral printed-cotton motifs needle-turned onto a plain quilt ground, echo quilting, cloth proud of the field.",
+    "description_zh": "印花贴布绣：十八世纪英国印花布贴绣，剪下印花棉布花卉钉于素色绗缝底，回针绗线，布面略凸。",
+    "source": "hermes-explore",
+    "image": "styles/864-broderie-perse.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h822",
+    "slug": "mountmellick",
+    "name_en": "Mountmellick",
+    "name_zh": "芒特梅利克白绣",
+    "description_en": "Mountmellick: Irish whitework — heavy white cotton on white jean, knotted and padded botanical stitches in high relief, no openwork holes.",
+    "description_zh": "芒特梅利克白绣：爱尔兰白绣，粗白棉线于白斜纹布，打结垫绣植物纹高浮雕，无抽纱孔洞。",
+    "source": "hermes-explore",
+    "image": "styles/865-mountmellick.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h823",
+    "slug": "thewa",
+    "name_en": "Thewa",
+    "name_zh": "特瓦金箔",
+    "description_en": "Thewa: Pratapgarh fused gold-foil on colored glass — pierced 23k gold sheet kiln-fused to ruby and emerald glass, filigree cutouts, not enamel.",
+    "description_zh": "特瓦金箔：普拉塔加尔金箔熔于彩玻，镂空二十三开金片窑熔于红绿玻璃，非珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/866-thewa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h824",
+    "slug": "ikkanbari",
+    "name_en": "Ikkanbari",
+    "name_zh": "一闲张",
+    "description_en": "Ikkanbari: Japanese washi papier-mâché lacquer — layered paper laminated with urushi over a mold, visible fiber, amber lacquer sheen, hollow lightweight form.",
+    "description_zh": "一闲张：日本和纸漆裱纸塑，多层和纸髹漆覆模，纤维可见，琥珀漆光，中空轻体。",
+    "source": "hermes-explore",
+    "image": "styles/867-ikkanbari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h825",
+    "slug": "cuprotype",
+    "name_en": "Cuprotype",
+    "name_zh": "铜盐印相",
+    "description_en": "Cuprotype: copper-salt photographic print — reddish-brown to copper-orange continuous tone on rag paper, chemical stain and fiber, not cyanotype blue.",
+    "description_zh": "铜盐印相：铜盐摄影印相，红棕至铜橙色连续调，棉纸纤维与药渍，非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/868-cuprotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
