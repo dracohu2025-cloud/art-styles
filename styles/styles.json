@@ -11867,5 +11867,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h871",
+    "slug": "ebauche",
+    "name_en": "Ébauche",
+    "name_zh": "铺色底稿",
+    "description_en": "Ébauche: academic first lay-in of thin oil on a toned ground, blocky values and unfinished edges; not Impressionist broken color, not glazed finish, not grisaille.",
+    "description_zh": "铺色底稿：学院派薄油铺大色，色块未完成、边缘溶于底色；非印象派笔触分离、非罩染完成、非灰色底层。",
+    "source": "hermes-explore",
+    "image": "styles/914-ebauche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h872",
+    "slug": "tsuya-zuri",
+    "name_en": "Tsuya-zuri",
+    "name_zh": "艶摺",
+    "description_en": "Tsuya-zuri: ukiyo-e burnished gloss printing, selected planes polished with a baren to wet-lacquer sheen; not kirazuri mica sparkle, not oil glaze, not cel shine.",
+    "description_zh": "艶摺：浮世绘马连砑光，局部色块磨出湿漆般高光；非云母摺闪光、非油画罩染、非赛璐璐高光。",
+    "source": "hermes-explore",
+    "image": "styles/915-tsuya-zuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h873",
+    "slug": "bullicante",
+    "name_en": "Bullicante",
+    "name_zh": "网格气泡",
+    "description_en": "Bullicante: Murano glass with a regular lattice of trapped air bubbles and optical refraction; not random pulegoso foam, not millefiori canes, not stained-glass leading.",
+    "description_zh": "网格气泡：穆拉诺玻璃规则气泡阵与折射光点；非无序泡沫玻璃、非千花玻璃、非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/916-bullicante.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h874",
+    "slug": "smocking",
+    "name_en": "Smocking",
+    "name_zh": "缩褶绣",
+    "description_en": "Smocking: regularly gathered fabric with honeycomb and surface-grid embroidery on tight pleats; not trapunto padding, not sashiko running stitch, not bargello.",
+    "description_zh": "缩褶绣：规律抽褶上的蜂巢与网格绣线；非填充绗缝、非刺子绣、非火焰针。",
+    "source": "hermes-explore",
+    "image": "styles/917-smocking.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h875",
+    "slug": "taka-zogan",
+    "name_en": "Taka-zogan",
+    "name_zh": "高肉镶嵌",
+    "description_en": "Taka-zogan: Japanese raised metal inlay, gold and silver standing proud of a dark iron or shakudō ground; not flush hira-zogan, not nunome-zogan mesh, not niello.",
+    "description_zh": "高肉镶嵌：金银高浮雕嵌于铁或赤铜地，镶件高出底面；非平嵌、非布目镶嵌、非乌银。",
+    "source": "hermes-explore",
+    "image": "styles/918-taka-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

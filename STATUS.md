@@ -2445,6 +2445,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 913, PNG count 913. No REJECT names. UI left flat (no filters/tabs).
 
+
+## Hermes-explore batch 175 (exactly 5, h871–h875)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h871 | Ébauche                   | 铺色底稿      | styles/914-ebauche.png                     |
+| h872 | Tsuya-zuri                | 艶摺          | styles/915-tsuya-zuri.png                  |
+| h873 | Bullicante                | 网格气泡      | styles/916-bullicante.png                  |
+| h874 | Smocking                  | 缩褶绣        | styles/917-smocking.png                    |
+| h875 | Taka-zogan                | 高肉镶嵌      | styles/918-taka-zogan.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 918, PNG count 918. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
