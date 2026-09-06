@@ -12972,5 +12972,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h956",
+    "slug": "tezhip",
+    "name_en": "Tezhip",
+    "name_zh": "特兹希普泥金",
+    "description_en": "Ottoman tezhip illumination: burnished gold leaf, rumi palmettes, hatayi blossoms, lapis and malachite mineral pigments, ruled gold frames.",
+    "description_zh": "奥斯曼特兹希普泥金细饰：烫金底、鲁米卷草、哈塔伊莲纹、青金石与孔雀石矿物颜料、金线边栏。",
+    "source": "hermes-explore",
+    "image": "styles/999-tezhip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h957",
+    "slug": "pengosekan",
+    "name_en": "Pengosekan",
+    "name_zh": "彭戈塞坎画",
+    "description_en": "Balinese Pengosekan school: dense flora-and-fauna fill, fine black outlines, muted earth pigments, tapestry-like decorative naturalism.",
+    "description_zh": "巴厘彭戈塞坎画派：密铺花鸟藤叶、细黑勾线、沉着土色颜料、织毯般装饰性自然主义。",
+    "source": "hermes-explore",
+    "image": "styles/1000-pengosekan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h958",
+    "slug": "taohuawu",
+    "name_en": "Taohuawu",
+    "name_zh": "桃花坞年画",
+    "description_en": "Suzhou Taohuawu nianhua woodblock: bold key-block outlines, hand-colored folk pigments, decorative borders, slightly misregistered flats.",
+    "description_zh": "苏州桃花坞年画：墨线主版、手填民间颜料、装饰边栏、套色微错位的平面色块。",
+    "source": "hermes-explore",
+    "image": "styles/1001-taohuawu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h959",
+    "slug": "nierika",
+    "name_en": "Nierika",
+    "name_zh": "尼耶里卡绒绘",
+    "description_en": "Huichol nierika yarn painting: yarns pressed into beeswax, concentric sacred-geometry color lines, no brushstroke, mosaic yarn surface.",
+    "description_zh": "惠乔尔尼耶里卡绒绘：纱线压入蜂蜡、同心圣几何色线、无笔触、马赛克绒面。",
+    "source": "hermes-explore",
+    "image": "styles/1002-nierika.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h960",
+    "slug": "siapo",
+    "name_en": "Siapo",
+    "name_zh": "西亚波布绘",
+    "description_en": "Samoan siapo barkcloth painting: beaten tapa fiber, upeti rubbing-board geometry, brown-black-rust plant dyes, matte cloth surface.",
+    "description_zh": "萨摩西亚波树皮布绘：捶打楮皮纤维、印花板几何纹、棕黑锈色植物染料、哑光布面。",
+    "source": "hermes-explore",
+    "image": "styles/1003-siapo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

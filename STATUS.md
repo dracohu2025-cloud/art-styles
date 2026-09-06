@@ -2684,6 +2684,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 998, PNG count 998. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 192 (exactly 5, h956–h960)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h956 | Tezhip                    | 特兹希普泥金  | styles/999-tezhip.png                      |
+| h957 | Pengosekan                | 彭戈塞坎画    | styles/1000-pengosekan.png                 |
+| h958 | Taohuawu                  | 桃花坞年画    | styles/1001-taohuawu.png                   |
+| h959 | Nierika                   | 尼耶里卡绒绘  | styles/1002-nierika.png                    |
+| h960 | Siapo                     | 西亚波布绘    | styles/1003-siapo.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1003, PNG count 1003. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
