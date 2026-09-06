@@ -12907,5 +12907,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h951",
+    "slug": "enconchado",
+    "name_en": "Enconchado",
+    "name_zh": "贝嵌绘",
+    "description_en": "Oil on panel with inlaid mother-of-pearl tesserae, umber glazes, nacre shimmer.",
+    "description_zh": "木板油画嵌贝片、棕釉罩染、珍珠层闪光。",
+    "source": "hermes-explore",
+    "image": "styles/994-enconchado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h952",
+    "slug": "saura",
+    "name_en": "Saura",
+    "name_zh": "索拉画",
+    "description_en": "Odisha Saura mural: red-ochre plaster, white lime pictographs, ritual wall registers.",
+    "description_zh": "奥里萨索拉壁画：赭红墙面、白灰象形、仪式壁带。",
+    "source": "hermes-explore",
+    "image": "styles/995-saura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h953",
+    "slug": "lippan",
+    "name_en": "Lippan",
+    "name_zh": "利潘泥镜",
+    "description_en": "Kutch Lippan kaam: raised white mud relief, inset circular mirrors, lime arabesques.",
+    "description_zh": "卡奇利潘泥作：白泥浮线、嵌圆镜、石灰卷草。",
+    "source": "hermes-explore",
+    "image": "styles/996-lippan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h954",
+    "slug": "estofado",
+    "name_en": "Estofado",
+    "name_zh": "贴金锦纹",
+    "description_en": "Gold leaf under paint, scratched and punched to imitate brocade on polychrome sculpture.",
+    "description_zh": "金箔罩彩后刮刻点錾，仿织锦的彩绘雕像技法。",
+    "source": "hermes-explore",
+    "image": "styles/997-estofado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h955",
+    "slug": "jadupatua",
+    "name_en": "Jadupatua",
+    "name_zh": "贾杜帕图亚",
+    "description_en": "Santhal jadupatua scroll: earth-red and yellow mineral fills, bold contour, panel rhythm.",
+    "description_zh": "桑塔尔贾杜帕图亚卷轴：土黄矿物填色、粗轮廓、分格节奏。",
+    "source": "hermes-explore",
+    "image": "styles/998-jadupatua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

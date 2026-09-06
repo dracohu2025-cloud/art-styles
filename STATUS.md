@@ -2670,6 +2670,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 993, PNG count 993. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 191 (exactly 5, h951–h955)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h951 | Enconchado                | 贝嵌绘        | styles/994-enconchado.png                  |
+| h952 | Saura                     | 索拉画        | styles/995-saura.png                       |
+| h953 | Lippan                    | 利潘泥镜      | styles/996-lippan.png                      |
+| h954 | Estofado                  | 贴金锦纹      | styles/997-estofado.png                    |
+| h955 | Jadupatua                 | 贾杜帕图亚    | styles/998-jadupatua.png                   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 998, PNG count 998. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
