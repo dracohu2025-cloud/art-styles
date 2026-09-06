@@ -12517,5 +12517,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h921",
+    "slug": "sohrai",
+    "name_en": "Sohrai",
+    "name_zh": "索赫莱壁画",
+    "description_en": "Sohrai harvest mural: white kaolin ground, ochre and manganese, comb- and finger-painted animals on earthen plaster.",
+    "description_zh": "索赫莱收获壁画：高岭土白地、赭石与锰黑、梳纹与手指绘出的泥墙动物纹样。",
+    "source": "hermes-explore",
+    "image": "styles/964-sohrai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h922",
+    "slug": "guler",
+    "name_en": "Guler",
+    "name_zh": "古勒细密画",
+    "description_en": "Guler Pahari miniature: hair-thin outline, cool green hills, lyrical wash and jewel-like flat architecture.",
+    "description_zh": "古勒帕哈里细密画：发丝细线、冷绿山丘、抒情渲染与平面建筑。",
+    "source": "hermes-explore",
+    "image": "styles/965-guler.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h923",
+    "slug": "yangcai",
+    "name_en": "Yangcai",
+    "name_zh": "洋彩",
+    "description_en": "Qing yangcai painted enamel: glossy porcelain, Western-influenced overglaze shading, famille-rose and gilt.",
+    "description_zh": "清代洋彩：瓷白地、西洋明暗的釉上彩、粉彩与描金。",
+    "source": "hermes-explore",
+    "image": "styles/966-yangcai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h924",
+    "slug": "mezzo-fresco",
+    "name_en": "Mezzo Fresco",
+    "name_zh": "半湿壁画",
+    "description_en": "Mezzo fresco: mineral pigment into half-dry lime plaster, matte bloom, colors slightly bitten by intonaco.",
+    "description_zh": "半湿壁画：矿物颜料画入半干灰泥、亚光粉霜、色彩被薄涂灰层轻轻咬住。",
+    "source": "hermes-explore",
+    "image": "styles/967-mezzo-fresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h925",
+    "slug": "mimbres",
+    "name_en": "Mimbres",
+    "name_zh": "明布雷斯黑白",
+    "description_en": "Classic Mimbres black-on-white pottery painting: iron-black figures, hatched fills, geometric frames on slipped ground.",
+    "description_zh": "明布雷斯经典黑白陶绘：铁黑人物、排线填充、几何边框画在化妆土白地上。",
+    "source": "hermes-explore",
+    "image": "styles/968-mimbres.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

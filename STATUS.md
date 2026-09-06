@@ -2586,6 +2586,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 963, PNG count 963. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 185 (exactly 5, h921–h925)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h921 | Sohrai                    | 索赫莱壁画    | styles/964-sohrai.png                      |
+| h922 | Guler                     | 古勒细密画    | styles/965-guler.png                       |
+| h923 | Yangcai                   | 洋彩          | styles/966-yangcai.png                     |
+| h924 | Mezzo Fresco              | 半湿壁画      | styles/967-mezzo-fresco.png                |
+| h925 | Mimbres                   | 明布雷斯黑白  | styles/968-mimbres.png                     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 968, PNG count 968. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
