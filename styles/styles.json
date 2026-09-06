@@ -12322,5 +12322,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h906",
+    "slug": "konoha-tenmoku",
+    "name_en": "Konoha Tenmoku",
+    "name_zh": "木叶天目",
+    "description_en": "Leaf-resist tenmoku: a real mulberry leaf fused into iron-black Jian glaze, golden vein fossil, oil-spot and hare's-fur ground.",
+    "description_zh": "木叶天目：桑叶贴烧入铁黑建盏釉，金褐叶脉化石，油滴与兔毫为地。",
+    "source": "hermes-explore",
+    "image": "styles/949-konoha-tenmoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h907",
+    "slug": "hwagak",
+    "name_en": "Hwagak",
+    "name_zh": "华角镶嵌",
+    "description_en": "Korean ox-horn inlay: dyed translucent horn sheets reverse-painted and set flush in dark lacquer, amber glow and mineral color.",
+    "description_zh": "华角：薄牛角染色反绘，嵌于深漆地，琥珀透光与矿物彩。",
+    "source": "hermes-explore",
+    "image": "styles/950-hwagak.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h908",
+    "slug": "richelieu-cutwork",
+    "name_en": "Richelieu Cutwork",
+    "name_zh": "黎塞留雕绣",
+    "description_en": "White linen cutwork: buttonhole-edged voids, picot bars, raised white-on-white openwork with sculptural negative space.",
+    "description_zh": "黎塞留雕绣：锁边镂空、珠饰连接档、浮雕白绣与负形空间。",
+    "source": "hermes-explore",
+    "image": "styles/951-richelieu-cutwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h909",
+    "slug": "hochschnitt",
+    "name_en": "Hochschnitt",
+    "name_zh": "高浮雕玻璃",
+    "description_en": "Bohemian high-relief glass cutting: figures standing proud in undercut crystal, polished peaks vs matte ground, ruby overlay flash.",
+    "description_zh": "高浮雕玻璃：深掏底使形象凸出晶面，抛光高点对哑光地，套红闪边。",
+    "source": "hermes-explore",
+    "image": "styles/952-hochschnitt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h910",
+    "slug": "email-en-resille",
+    "name_en": "Émail en Résille",
+    "name_zh": "网丝珐琅",
+    "description_en": "Gold-wire network fused into glass, cells filled with translucent jewel enamel — 17th-c. émail en résille sur verre.",
+    "description_zh": "网丝珐琅：金丝网熔入玻璃，格内填透明宝石珐琅，十七世纪玻璃网丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/953-email-en-resille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

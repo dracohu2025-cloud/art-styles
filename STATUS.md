@@ -2544,6 +2544,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 948, PNG count 948. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 182 (exactly 5, h906–h910)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h906 | Konoha Tenmoku            | 木叶天目      | styles/949-konoha-tenmoku.png              |
+| h907 | Hwagak                    | 华角镶嵌      | styles/950-hwagak.png                      |
+| h908 | Richelieu Cutwork         | 黎塞留雕绣    | styles/951-richelieu-cutwork.png           |
+| h909 | Hochschnitt               | 高浮雕玻璃    | styles/952-hochschnitt.png                 |
+| h910 | Émail en Résille          | 网丝珐琅      | styles/953-email-en-resille.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 953, PNG count 953. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
