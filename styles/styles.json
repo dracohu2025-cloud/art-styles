@@ -11477,5 +11477,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h841",
+    "slug": "palissy-ware",
+    "name_en": "Palissy Ware",
+    "name_zh": "帕利西陶",
+    "description_en": "Palissy ware: rustic lead-glazed earthenware with high-relief life-cast shells, fish and plants, pooled honey and copper-green glazes — not istoriato, not porcelain.",
+    "description_zh": "帕利西陶：高浮雕写生贝壳鱼虫的铅釉陶，蜜色与铜绿釉积于凹处，非叙事彩陶、非瓷塑。",
+    "source": "hermes-explore",
+    "image": "styles/884-palissy-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h842",
+    "slug": "sabattier-effect",
+    "name_en": "Sabattier Effect",
+    "name_zh": "萨巴蒂效应",
+    "description_en": "Sabattier effect: darkroom pseudo-solarization with partial tonal reversal, Mackie lines and silver-gelatin grain — not digital invert, not neon glow.",
+    "description_zh": "萨巴蒂效应：暗房伪日晒，局部影调反转、麦基线与银盐颗粒，非数字反相、非霓虹。",
+    "source": "hermes-explore",
+    "image": "styles/885-sabattier-effect.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h843",
+    "slug": "pingtuo",
+    "name_en": "Pingtuo",
+    "name_zh": "平脱",
+    "description_en": "Pingtuo: Tang lacquer with cut gold and silver foil inlaid and polished flush to the surface — not kirigane tesserae, not sprinkled maki-e, not incised chinkin.",
+    "description_zh": "平脱：唐代漆器，裁切金银箔嵌平打磨与漆面齐平，非切金方片、非莳绘洒金、非沉金刻线。",
+    "source": "hermes-explore",
+    "image": "styles/886-pingtuo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h844",
+    "slug": "mocha-ware",
+    "name_en": "Mocha Ware",
+    "name_zh": "树枝纹陶",
+    "description_en": "Mocha ware: banded earthenware with acid-dendrite mocha moss — tree-like slip branching on factory-turned color bands — not agateware, not neriage.",
+    "description_zh": "树枝纹陶：色带化妆土上酸蚀树枝纹（摩卡苔），工厂旋坯色带，非玛瑙陶、非练上。",
+    "source": "hermes-explore",
+    "image": "styles/887-mocha-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h845",
+    "slug": "saint-porchaire",
+    "name_en": "Saint-Porchaire",
+    "name_zh": "圣波谢尔陶",
+    "description_en": "Saint-Porchaire ware: Renaissance inlaid pipe-clay strapwork and arabesques in darker clay under a thin honey glaze — not painted maiolica, not niello.",
+    "description_zh": "圣波谢尔陶：文艺复兴白管土嵌饰于深色胎，书装压印卷草与细带，薄蜜釉，非彩绘马约利卡、非黑金。",
+    "source": "hermes-explore",
+    "image": "styles/888-saint-porchaire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

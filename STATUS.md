@@ -2361,6 +2361,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 883, PNG count 883. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 169 (exactly 5, h841–h845)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h841 | Palissy Ware              | 帕利西陶      | styles/884-palissy-ware.png                |
+| h842 | Sabattier Effect          | 萨巴蒂效应    | styles/885-sabattier-effect.png            |
+| h843 | Pingtuo                   | 平脱          | styles/886-pingtuo.png                     |
+| h844 | Mocha Ware                | 树枝纹陶      | styles/887-mocha-ware.png                  |
+| h845 | Saint-Porchaire           | 圣波谢尔陶    | styles/888-saint-porchaire.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 888, PNG count 888. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
