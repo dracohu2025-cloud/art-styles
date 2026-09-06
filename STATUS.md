@@ -2614,6 +2614,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 973, PNG count 973. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 187 (exactly 5, h931–h935)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h931 | Chintz                    | 钦茨印花      | styles/974-chintz.png                      |
+| h932 | Pictorialism              | 画意摄影      | styles/975-pictorialism.png                |
+| h933 | Arpillera                 | 麻布贴绣      | styles/976-arpillera.png                   |
+| h934 | Mōrōtai                   | 朦胧体        | styles/977-morotai.png                     |
+| h935 | Mstera                    | 姆斯乔拉漆画  | styles/978-mstera.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 978, PNG count 978. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

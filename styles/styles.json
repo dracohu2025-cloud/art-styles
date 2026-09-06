@@ -12647,5 +12647,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h931",
+    "slug": "chintz",
+    "name_en": "Chintz",
+    "name_zh": "钦茨印花",
+    "description_en": "Glazed chintz print: madder, indigo and tea-brown florals, birds and scrolling vines on cream cotton, slightly misregistered woodblock fills.",
+    "description_zh": "釉光钦茨印花：茜红、靛蓝与茶褐花卉、小鸟与卷藤于米白棉布，木版套色略有错位。",
+    "source": "hermes-explore",
+    "image": "styles/974-chintz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h932",
+    "slug": "pictorialism",
+    "name_en": "Pictorialism",
+    "name_zh": "画意摄影",
+    "description_en": "Pictorialist exhibition print: gum-bichromate softness, olive-brown midtones, atmospheric haze, selective focus and pigment grain.",
+    "description_zh": "画意摄影展览印相：树胶重铬酸盐柔焦、橄榄褐中间调、空气透视、选择性对焦与颜料颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/975-pictorialism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h933",
+    "slug": "arpillera",
+    "name_en": "Arpillera",
+    "name_zh": "麻布贴绣",
+    "description_en": "Chilean arpillera: hessian ground, scrap-fabric appliqué, embroidery outlines, running and blanket stitch, layered cloth relief.",
+    "description_zh": "智利麻布贴绣：麻袋底布、碎布贴花、绣线轮廓、平针与锁边针、层叠布料浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/976-arpillera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h934",
+    "slug": "morotai",
+    "name_en": "Mōrōtai",
+    "name_zh": "朦胧体",
+    "description_en": "Meiji mōrōtai: hazy mineral-pigment wash, dissolved outlines, atmospheric color veils, wet-on-wet nihonga without hard contour.",
+    "description_zh": "明治朦胧体：矿物颜料晕染、轮廓消融、空气色幕、无硬线湿画日本画。",
+    "source": "hermes-explore",
+    "image": "styles/977-morotai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h935",
+    "slug": "mstera",
+    "name_en": "Mstera",
+    "name_zh": "姆斯乔拉漆画",
+    "description_en": "Mstera lacquer miniature: tempera on glossy black papier-mâché, pale lyrical folk color, gold ornament, fine village landscape.",
+    "description_zh": "姆斯乔拉漆画：黑亮纸浆胎上的蛋彩细密、浅淡民俗色、金饰边、精细村落风景。",
+    "source": "hermes-explore",
+    "image": "styles/978-mstera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
