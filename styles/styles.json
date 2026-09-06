@@ -10892,5 +10892,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h796",
+    "slug": "vernis-martin",
+    "name_en": "Vernis Martin",
+    "name_zh": "维尔尼马丁漆",
+    "description_en": "Vernis Martin: 18th-century French layered lacquer — wet high-gloss varnish, gilt chinoiserie, pastel coachwork shine.",
+    "description_zh": "维尔尼马丁漆：十八世纪法国多层罩漆，高光湿润、描金唐草、粉彩底。",
+    "source": "hermes-explore",
+    "image": "styles/839-vernis-martin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h797",
+    "slug": "surihaku",
+    "name_en": "Surihaku",
+    "name_zh": "摺箔",
+    "description_en": "Surihaku: Noh-costume gold and silver leaf stamped onto silk — cracked foil fields, metallic pattern on dark ground.",
+    "description_zh": "摺箔：能装金箔银箔压印于绸，箔面龟裂、暗地金属纹。",
+    "source": "hermes-explore",
+    "image": "styles/840-surihaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h798",
+    "slug": "inciso-glass",
+    "name_en": "Inciso Glass",
+    "name_zh": "阴刻玻璃",
+    "description_en": "Inciso glass: wheel-cut incised crystal — parallel grooves, frosted V-cuts, raking light on clear vs satin glass.",
+    "description_zh": "阴刻玻璃：砂轮阴刻水晶，平行槽、磨砂V口、掠光清玻对雾面。",
+    "source": "hermes-explore",
+    "image": "styles/841-inciso-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h799",
+    "slug": "kogin-zashi",
+    "name_en": "Kogin-zashi",
+    "name_zh": "津轻小巾刺",
+    "description_en": "Kogin-zashi: Tsugaru counted-stitch embroidery — indigo even-weave packed with white geometric diamonds and lattices.",
+    "description_zh": "津轻小巾刺：靛蓝平织上白线计数几何菱格密绣。",
+    "source": "hermes-explore",
+    "image": "styles/842-kogin-zashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h800",
+    "slug": "millefleurs",
+    "name_en": "Millefleurs",
+    "name_zh": "千花锦",
+    "description_en": "Millefleurs: late-medieval tapestry ground — thousands of tiny flowers and strawberries woven on a dark verdant field.",
+    "description_zh": "千花锦：中世纪晚期挂毯底，深绿地上织满细花与草莓。",
+    "source": "hermes-explore",
+    "image": "styles/843-millefleurs.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

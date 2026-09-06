@@ -2235,6 +2235,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 838, PNG count 838. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 160 (exactly 5, h796–h800)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h796 | Vernis Martin      | 维尔尼马丁漆  | styles/839-vernis-martin.png       |
+| h797 | Surihaku           | 摺箔          | styles/840-surihaku.png            |
+| h798 | Inciso Glass       | 阴刻玻璃      | styles/841-inciso-glass.png        |
+| h799 | Kogin-zashi        | 津轻小巾刺    | styles/842-kogin-zashi.png         |
+| h800 | Millefleurs        | 千花锦        | styles/843-millefleurs.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 843, PNG count 843. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
