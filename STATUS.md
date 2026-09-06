@@ -2600,6 +2600,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 968, PNG count 968. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 186 (exactly 5, h926–h930)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h926 | Ledger Art                | 账本画        | styles/969-ledger-art.png                  |
+| h927 | Karma Gadri               | 噶玛嘎知      | styles/970-karma-gadri.png                 |
+| h928 | Battala Woodcut           | 巴特拉木刻    | styles/971-battala-woodcut.png             |
+| h929 | Saz Style                 | 萨兹纹        | styles/972-saz-style.png                   |
+| h930 | Etruscan Wall             | 伊特鲁里亚壁画 | styles/973-etruscan-wall.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 973, PNG count 973. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

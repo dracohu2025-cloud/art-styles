@@ -12582,5 +12582,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h926",
+    "slug": "ledger-art",
+    "name_en": "Ledger Art",
+    "name_zh": "账本画",
+    "description_en": "Plains ledger drawing: colored pencil and crayon on lined antique account paper, contour figures, flat unmodeled fills.",
+    "description_zh": "平原账本画：彩色铅笔与蜡笔绘于带格老账纸上，轮廓人物、平涂无明暗。",
+    "source": "hermes-explore",
+    "image": "styles/969-ledger-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h927",
+    "slug": "karma-gadri",
+    "name_en": "Karma Gadri",
+    "name_zh": "噶玛嘎知",
+    "description_en": "Karma Gadri thangka school: spacious pale mineral landscape, atmospheric distance, airy line, landscape-dominant composition.",
+    "description_zh": "噶玛嘎知唐卡画派：疏朗矿物淡景、空气远近、轻盈线描、风景主导构图。",
+    "source": "hermes-explore",
+    "image": "styles/970-karma-gadri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h928",
+    "slug": "battala-woodcut",
+    "name_en": "Battala Woodcut",
+    "name_zh": "巴特拉木刻",
+    "description_en": "19th-century Calcutta Battala woodcut: thick gouged black line, limited hand-tinted flats, coarse paper, slight color misregister.",
+    "description_zh": "十九世纪加尔各答巴特拉木刻：粗黑刻线、有限手涂平色、粗纸、套色微错位。",
+    "source": "hermes-explore",
+    "image": "styles/971-battala-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h929",
+    "slug": "saz-style",
+    "name_en": "Saz Style",
+    "name_zh": "萨兹纹",
+    "description_en": "Ottoman saz yolu drawing: long serrated saz leaves, rumi palmettes, hatayi blossoms, ink and gold on cream paper.",
+    "description_zh": "奥斯曼萨兹纹：修长锯齿萨兹叶、鲁米掌纹、哈塔伊花、墨金绘于米纸。",
+    "source": "hermes-explore",
+    "image": "styles/972-saz-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h930",
+    "slug": "etruscan-wall",
+    "name_en": "Etruscan Wall",
+    "name_zh": "伊特鲁里亚壁画",
+    "description_en": "Etruscan tomb mural: terracotta-red and cream fresco, black outline, flat mineral color, wave and palmette borders.",
+    "description_zh": "伊特鲁里亚墓室壁画：陶红与米黄湿壁、黑轮廓、矿物平涂、波浪与掌叶边饰。",
+    "source": "hermes-explore",
+    "image": "styles/973-etruscan-wall.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
