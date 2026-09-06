@@ -2179,6 +2179,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 818, PNG count 818. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 156 (exactly 5, h776–h780)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en            | name_zh       | image                              |
+|------|--------------------|---------------|------------------------------------|
+| h776 | Aari               | 阿利绣        | styles/819-aari.png                |
+| h777 | Ikakeji            | 沃懸地        | styles/820-ikakeji.png             |
+| h778 | Ozotype            | 奥佐型        | styles/821-ozotype.png             |
+| h779 | Kasuti             | 卡苏蒂绣      | styles/822-kasuti.png              |
+| h780 | Claire de Lune     | 月白釉        | styles/823-claire-de-lune.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 823, PNG count 823. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

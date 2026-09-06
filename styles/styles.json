@@ -10632,5 +10632,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h776",
+    "slug": "aari",
+    "name_en": "Aari",
+    "name_zh": "阿利绣",
+    "description_en": "Aari tambour-hook embroidery: dense chain stitches, zari metal thread, raised floral filling on cloth.",
+    "description_zh": "阿利绣：绷钩链式密针、金线扎里、凸起花卉填满布面。",
+    "source": "hermes-explore",
+    "image": "styles/819-aari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h777",
+    "slug": "ikakeji",
+    "name_en": "Ikakeji",
+    "name_zh": "沃懸地",
+    "description_en": "Ikakeji lacquer: packed gold-powder ground, microscopic kinpun, urushi sheen as a solid glittering field.",
+    "description_zh": "沃懸地：密洒金粉地、细粒金粉、漆面光泽连成一片金地。",
+    "source": "hermes-explore",
+    "image": "styles/820-ikakeji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h778",
+    "slug": "ozotype",
+    "name_en": "Ozotype",
+    "name_zh": "奥佐型",
+    "description_en": "Ozotype: pigmented bichromated-gelatin contact print, matte carbon-like tone, velvety pigment grain.",
+    "description_zh": "奥佐型：色素重铬酸盐明胶接触印相、无光碳调、绒面颜料颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/821-ozotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h779",
+    "slug": "kasuti",
+    "name_en": "Kasuti",
+    "name_zh": "卡苏蒂绣",
+    "description_en": "Kasuti counted-thread work: gavanti and murgi stitches, double-sided geometry, folk temple motifs on evenweave.",
+    "description_zh": "卡苏蒂绣：计针几何、正反同纹、神庙民俗纹样绣于平纹布。",
+    "source": "hermes-explore",
+    "image": "styles/822-kasuti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h780",
+    "slug": "claire-de-lune",
+    "name_en": "Claire de Lune",
+    "name_zh": "月白釉",
+    "description_en": "Claire-de-lune glaze: pale bluish moon-white porcelain, opalescent pooling, quiet kiln sheen.",
+    "description_zh": "月白釉：淡蓝月白瓷釉、乳光积釉、安静窑光。",
+    "source": "hermes-explore",
+    "image": "styles/823-claire-de-lune.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
