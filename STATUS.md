@@ -2628,6 +2628,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 978, PNG count 978. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 188 (exactly 5, h936–h940)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h936 | Korhogo                   | 科霍戈布绘    | styles/979-korhogo.png                     |
+| h937 | Ottchil                   | 韩国漆绘      | styles/980-ottchil.png                     |
+| h938 | Kutahya                   | 库塔希亚彩陶  | styles/981-kutahya.png                     |
+| h939 | Qalamzani                 | 波斯錾刻      | styles/982-qalamzani.png                   |
+| h940 | Yobitsugi                 | 呼接          | styles/983-yobitsugi.png                   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 983, PNG count 983. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

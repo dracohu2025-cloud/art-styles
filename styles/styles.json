@@ -12712,5 +12712,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h936",
+    "slug": "korhogo",
+    "name_en": "Korhogo",
+    "name_zh": "科霍戈布绘",
+    "description_en": "Senufo Korhogo cloth: mud and plant dyes on raw cotton, iron-black and ochre glyphs, sawtooth borders, matte woven ground.",
+    "description_zh": "科霍戈布绘：生棉上的泥染与植物染料、铁黑赭石图腾、锯齿边、哑光织纹底。",
+    "source": "hermes-explore",
+    "image": "styles/979-korhogo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h937",
+    "slug": "ottchil",
+    "name_en": "Ottchil",
+    "name_zh": "韩国漆绘",
+    "description_en": "Korean ottchil lacquer painting: many polished urushi layers, wet black-amber gloss, cinnabar and gold dust, nacre flecks.",
+    "description_zh": "韩国漆绘：多层抛光大漆、湿润黑琥珀光泽、朱砂与金粉、螺钿细闪。",
+    "source": "hermes-explore",
+    "image": "styles/980-ottchil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h938",
+    "slug": "kutahya",
+    "name_en": "Kutahya",
+    "name_zh": "库塔希亚彩陶",
+    "description_en": "Kütahya underglaze ceramic: white tin glaze, tomato red, lemon yellow, cobalt, apple green, manganese, black contour, floral tile.",
+    "description_zh": "库塔希亚彩陶：白锡釉、番茄红与柠檬黄、钴蓝苹果绿、锰紫黑线、花卉瓷绘。",
+    "source": "hermes-explore",
+    "image": "styles/981-kutahya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h939",
+    "slug": "qalamzani",
+    "name_en": "Qalamzani",
+    "name_zh": "波斯錾刻",
+    "description_en": "Persian qalamzani metal chasing: incised brass and copper, punched ground, islimi arabesque, burin hatching, gold-on-metal sheen.",
+    "description_zh": "波斯錾刻：黄铜红铜阴刻、敲点地纹、伊斯利米卷草、雕刀排线、金属金光。",
+    "source": "hermes-explore",
+    "image": "styles/982-qalamzani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h940",
+    "slug": "yobitsugi",
+    "name_en": "Yobitsugi",
+    "name_zh": "呼接",
+    "description_en": "Yobitsugi ceramic joinery: mismatched glaze shards fitted with gold urushi seams, mixed celadon, cobalt, and iron-brown fragments.",
+    "description_zh": "呼接：异釉瓷片金漆拼合、青瓷钴蓝铁褐碎片、金漆接缝网络。",
+    "source": "hermes-explore",
+    "image": "styles/983-yobitsugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
