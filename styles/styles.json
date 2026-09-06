@@ -11282,5 +11282,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h826",
+    "slug": "point-de-venise",
+    "name_en": "Point de Venise",
+    "name_zh": "威尼斯针绣",
+    "description_en": "Point de Venise: raised Venetian needle lace — padded cordonnet, picots, brides, baroque scroll fill in sculptural ivory linen thread.",
+    "description_zh": "威尼斯针绣：高浮雕针绣花边，加垫轮廓线、皮科结、连接丝与巴洛克卷草，象牙色亚麻线。",
+    "source": "hermes-explore",
+    "image": "styles/869-point-de-venise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h827",
+    "slug": "hira-zogan",
+    "name_en": "Hira-zogan",
+    "name_zh": "平象嵌",
+    "description_en": "Hira-zōgan: Japanese flat mixed-metal inlay — gold, silver, and copper flush-polished into dark shakudō or iron, level surface, no raised takazōgan.",
+    "description_zh": "平象嵌：金银铜平嵌于黑赤铜或铁地，磨至齐平，无高浮雕高象嵌。",
+    "source": "hermes-explore",
+    "image": "styles/870-hira-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h828",
+    "slug": "carrickmacross",
+    "name_en": "Carrickmacross",
+    "name_zh": "卡里克马克罗斯花边",
+    "description_en": "Carrickmacross: Irish cambric appliqué on machine net — needle-run outlines, snipped cloth infills, shamrock and rose on gossamer hexagonal mesh.",
+    "description_zh": "卡里克马克罗斯花边：细棉布贴于机制网地上，走针勾边、剪贴填花、三叶草与玫瑰。",
+    "source": "hermes-explore",
+    "image": "styles/871-carrickmacross.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h829",
+    "slug": "artigue",
+    "name_en": "Artigue",
+    "name_zh": "阿蒂格印相",
+    "description_en": "Artigue: late-19th-century direct carbon photographic paper — velvety carbon pigment, matte rag support, deep Dmax, no silver grain and no transfer sheet.",
+    "description_zh": "阿蒂格印相：十九世纪末直接碳素相纸，丝绒碳粉、哑光棉纸、深暗部，无银盐颗粒、无转印膜。",
+    "source": "hermes-explore",
+    "image": "styles/872-artigue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h830",
+    "slug": "joly-screen",
+    "name_en": "Joly Screen",
+    "name_zh": "乔利线屏",
+    "description_en": "Joly screen: 1894 lined-screen additive color photography — fine vertical RGB ruling over a glass-plate image, muted early-color dyes, not Autochrome dots.",
+    "description_zh": "乔利线屏：1894年线屏加色摄影，玻璃干版上细密红绿蓝竖线，早期淡色，非奥托克罗姆色点。",
+    "source": "hermes-explore",
+    "image": "styles/873-joly-screen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

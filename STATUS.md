@@ -2319,6 +2319,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 868, PNG count 868. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 166 (exactly 5, h826–h830)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h826 | Point de Venise           | 威尼斯针绣    | styles/869-point-de-venise.png             |
+| h827 | Hira-zogan                | 平象嵌        | styles/870-hira-zogan.png                  |
+| h828 | Carrickmacross            | 卡里克马克罗斯花边 | styles/871-carrickmacross.png         |
+| h829 | Artigue                   | 阿蒂格印相    | styles/872-artigue.png                     |
+| h830 | Joly Screen               | 乔利线屏      | styles/873-joly-screen.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 873, PNG count 873. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
