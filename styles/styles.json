@@ -12842,5 +12842,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h946",
+    "slug": "kene",
+    "name_en": "Kené",
+    "name_zh": "肯内纹绘",
+    "description_en": "Kené vision painting: Shipibo-Konibo labyrinth paths, nested crosses and waves in black, brick-red, and cream reed-pen lines on cotton.",
+    "description_zh": "肯内纹绘：希皮博迷宫路径、嵌套十字与波浪，黑、砖红、米白芦笔线绘于棉布。",
+    "source": "hermes-explore",
+    "image": "styles/989-kene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h947",
+    "slug": "tobi-kanna",
+    "name_en": "Tobi-kanna",
+    "name_zh": "飞鉋",
+    "description_en": "Tobi-kanna chatter: skipping comb on white slip over iron-brown stoneware, crescent gouges, stamped dots, Koishiwara–Onta ware tooth.",
+    "description_zh": "飞鉋：白化妆土上跳刀梳纹、铁褐胎、新月刨痕与戳点，小石原/小鹿田陶器质。",
+    "source": "hermes-explore",
+    "image": "styles/990-tobi-kanna.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h948",
+    "slug": "acheik",
+    "name_en": "Acheik",
+    "name_zh": "波浪纹织",
+    "description_en": "Luntaya acheik: Burmese tapestry-woven horizontal wave bands in ruby, emerald, gold, and indigo silk, interlocking weft with no outlines.",
+    "description_zh": "波浪纹织：缅甸织锦水平波浪纬带，红宝、翠绿、金与靛蓝丝绸互锁无轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/991-acheik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h949",
+    "slug": "tenango",
+    "name_en": "Tenango",
+    "name_zh": "特南戈绣绘",
+    "description_en": "Tenango embroidery: Otomí fill-stitch flora and fauna in electric pink, turquoise, lemon, and scarlet on cream muslin, no black outlines.",
+    "description_zh": "特南戈绣绘：奥托米平绣动植物，电粉、松石、柠檬与猩红填满米白棉布、无黑线。",
+    "source": "hermes-explore",
+    "image": "styles/992-tenango.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h950",
+    "slug": "dongba",
+    "name_en": "Dongba",
+    "name_zh": "东巴画",
+    "description_en": "Dongba pictograph painting: Naxi manuscript line, malachite, cinnabar, azurite, and lampblack on mulberry paper, flat registers.",
+    "description_zh": "东巴画：纳西经卷线描，石绿、朱砂、石青与烟墨绘于构皮纸、分层平涂。",
+    "source": "hermes-explore",
+    "image": "styles/993-dongba.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

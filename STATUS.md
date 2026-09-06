@@ -2656,6 +2656,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 988, PNG count 988. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 190 (exactly 5, h946–h950)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h946 | Kené                      | 肯内纹绘      | styles/989-kene.png                        |
+| h947 | Tobi-kanna                | 飞鉋          | styles/990-tobi-kanna.png                  |
+| h948 | Acheik                    | 波浪纹织      | styles/991-acheik.png                      |
+| h949 | Tenango                   | 特南戈绣绘    | styles/992-tenango.png                     |
+| h950 | Dongba                    | 东巴画        | styles/993-dongba.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 993, PNG count 993. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
