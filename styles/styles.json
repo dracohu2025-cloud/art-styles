@@ -11737,5 +11737,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h861",
+    "slug": "parian-ware",
+    "name_en": "Parian Ware",
+    "name_zh": "帕里安瓷",
+    "description_en": "Parian ware: unglazed marble-white biscuit porcelain, satiny bisque bloom, faint translucency at thin edges; not glazed bone china, not Carrara marble, not plaster cast.",
+    "description_zh": "帕里安瓷：无釉大理石白素烧瓷，缎面粉光与薄处微透；非釉面骨瓷、非卡拉拉大理石、非石膏模。",
+    "source": "hermes-explore",
+    "image": "styles/904-parian-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h862",
+    "slug": "black-basalt",
+    "name_en": "Black Basalt",
+    "name_zh": "黑玄武陶",
+    "description_en": "Black basalt: Wedgwood-type matte unglazed black stoneware, dry mineral sheen, engine-turned relief; not glazed jet, not bronze, not mezzotint.",
+    "description_zh": "黑玄武陶：韦奇伍德式无釉哑光黑炻器，矿物干光与车花浮纹；非亮釉煤玉、非青铜、非美柔汀。",
+    "source": "hermes-explore",
+    "image": "styles/905-black-basalt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h863",
+    "slug": "cristallo",
+    "name_en": "Cristallo",
+    "name_zh": "水晶玻璃",
+    "description_en": "Cristallo: Venetian Renaissance soda glass decolorized with manganese — diamond-bright, paper-thin walls, faint straw tint at rims; not cristallo-cut crystal lead glass, not ice glass, not lattimo.",
+    "description_zh": "水晶玻璃：威尼斯文艺复兴钠钙玻璃，锰脱色，薄壁如纸、口沿微麦秆色；非铅晶切面、非冰裂玻璃、非拉蒂莫乳白。",
+    "source": "hermes-explore",
+    "image": "styles/906-cristallo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h864",
+    "slug": "ash-glaze",
+    "name_en": "Ash Glaze",
+    "name_zh": "灰釉",
+    "description_en": "Natural wood-ash glaze: wood-fired olive-amber runs, kiln-flash blushes, glassy pooling in recesses; not celadon feldspathic green, not tenmoku iron-black, not salt glaze orange-peel.",
+    "description_zh": "灰釉：柴烧草木灰釉，橄榄琥珀流淌与火痕潮红、凹处玻璃积釉；非长石青瓷、非铁黑天目、非盐釉橘皮。",
+    "source": "hermes-explore",
+    "image": "styles/907-ash-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h865",
+    "slug": "marouflage",
+    "name_en": "Marouflage",
+    "name_zh": "贴布壁画",
+    "description_en": "Marouflage: oil on canvas glued to architecture — visible weave, lead-white adhesion, mural-scale wall curve; not buon fresco into wet plaster, not tapestry, not easel oil.",
+    "description_zh": "贴布壁画：油画布贴墙，可见织纹、铅白胶粘与建筑弧面；非湿壁画入灰、非挂毯、非架上油画。",
+    "source": "hermes-explore",
+    "image": "styles/908-marouflage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

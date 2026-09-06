@@ -2417,6 +2417,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 903, PNG count 903. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 173 (exactly 5, h861–h865)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h861 | Parian Ware               | 帕里安瓷      | styles/904-parian-ware.png                 |
+| h862 | Black Basalt              | 黑玄武陶      | styles/905-black-basalt.png                |
+| h863 | Cristallo                 | 水晶玻璃      | styles/906-cristallo.png                   |
+| h864 | Ash Glaze                 | 灰釉          | styles/907-ash-glaze.png                   |
+| h865 | Marouflage                | 贴布壁画      | styles/908-marouflage.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 908, PNG count 908. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
