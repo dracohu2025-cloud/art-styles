@@ -2516,6 +2516,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 938, PNG count 938. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 180 (exactly 5, h896–h900)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h896 | Somada-nuri               | 杣田涂        | styles/939-somada-nuri.png                 |
+| h897 | Shibayama                 | 芝山嵌        | styles/940-shibayama.png                   |
+| h898 | Berettino                 | 蓝地锡釉      | styles/941-berettino.png                   |
+| h899 | Spatterware               | 泼彩陶器      | styles/942-spatterware.png                 |
+| h900 | Faux Marbre               | 仿大理石绘    | styles/943-faux-marbre.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 943, PNG count 943. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

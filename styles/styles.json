@@ -12192,5 +12192,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h896",
+    "slug": "somada-nuri",
+    "name_en": "Somada-nuri",
+    "name_zh": "杣田涂",
+    "description_en": "Japanese lacquer with geometric tin and lead inlay: silver tesserae, lattice, and lozenges set into mirror-black urushi.",
+    "description_zh": "日本漆艺以锡铅细嵌几何纹：银灰色菱格与格子嵌于镜面黑漆。",
+    "source": "hermes-explore",
+    "image": "styles/939-somada-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h897",
+    "slug": "shibayama",
+    "name_en": "Shibayama",
+    "name_zh": "芝山嵌",
+    "description_en": "Meiji mixed-material inlay: ivory, stained ivory, mother-of-pearl, coral and horn carved in high relief on lacquer.",
+    "description_zh": "明治混材镶嵌：象牙、染色象牙、螺钿、珊瑚与角质高浮雕嵌于漆地。",
+    "source": "hermes-explore",
+    "image": "styles/940-shibayama.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h898",
+    "slug": "berettino",
+    "name_en": "Berettino",
+    "name_zh": "蓝地锡釉",
+    "description_en": "Italian maiolica on a blue-tinted tin glaze, painted in bianco-sopra-bianco, cobalt, ochre and copper-green ceramic pigments.",
+    "description_zh": "意大利马略卡蓝染锡釉地，以白上白、钴蓝、赭石与铜绿釉上彩绘制。",
+    "source": "hermes-explore",
+    "image": "styles/941-berettino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h899",
+    "slug": "spatterware",
+    "name_en": "Spatterware",
+    "name_zh": "泼彩陶器",
+    "description_en": "Nineteenth-century earthenware decorated with sponge-spattered color fields and simple folk drawing on a cream glaze.",
+    "description_zh": "十九世纪陶器以海绵泼点色块，奶油釉上配简朴民间线绘。",
+    "source": "hermes-explore",
+    "image": "styles/942-spatterware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h900",
+    "slug": "faux-marbre",
+    "name_en": "Faux Marbre",
+    "name_zh": "仿大理石绘",
+    "description_en": "Trompe-l'oeil painted marble: glazed oil scumbles and calcite veining imitating polished stone panels, not carved stone.",
+    "description_zh": "错视仿大理石绘：油彩罩染与方解石纹路模仿抛光石板，而非真石雕刻。",
+    "source": "hermes-explore",
+    "image": "styles/943-faux-marbre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
