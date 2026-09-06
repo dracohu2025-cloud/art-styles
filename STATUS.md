@@ -2291,6 +2291,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 858, PNG count 858. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 164 (exactly 5, h816–h820)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h816 | Aristotype                | 阿里斯托型    | styles/859-aristotype.png                  |
+| h817 | Aogai                     | 青貝          | styles/860-aogai.png                       |
+| h818 | Gold Ruby Glass           | 金红玻璃      | styles/861-gold-ruby-glass.png             |
+| h819 | Spirit Duplicator         | 酒精誊印      | styles/862-spirit-duplicator.png           |
+| h820 | Gota Patti                | 金带绣        | styles/863-gota-patti.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 863, PNG count 863. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

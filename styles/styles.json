@@ -11152,5 +11152,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h816",
+    "slug": "aristotype",
+    "name_en": "Aristotype",
+    "name_zh": "阿里斯托型",
+    "description_en": "Aristotype: collodio-chloride printing-out paper — warm chocolate to purple-brown continuous tone, baryta sheen, POP grain.",
+    "description_zh": "阿里斯托型：火棉胶氯化银晒印相纸，巧克力至紫棕色连续调，钡地微光与晒印颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/859-aristotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h817",
+    "slug": "aogai",
+    "name_en": "Aogai",
+    "name_zh": "青貝",
+    "description_en": "Aogai: blue-green abalone shell inlay — iridescent teal, cyan and violet nacre tesserae set in black lacquer.",
+    "description_zh": "青貝：青绿色鲍贝镶嵌，孔雀绿与紫蓝珠光碎片嵌于黑漆。",
+    "source": "hermes-explore",
+    "image": "styles/860-aogai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h818",
+    "slug": "gold-ruby-glass",
+    "name_en": "Gold Ruby Glass",
+    "name_zh": "金红玻璃",
+    "description_en": "Gold ruby glass: cranberry blown glass colored with gold chloride — deep transparent red, thick-thin pooling, furnace glow.",
+    "description_zh": "金红玻璃：金盐着色的深红透明吹制玻璃，厚薄积色与炉火内光。",
+    "source": "hermes-explore",
+    "image": "styles/861-gold-ruby-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h819",
+    "slug": "spirit-duplicator",
+    "name_en": "Spirit Duplicator",
+    "name_zh": "酒精誊印",
+    "description_en": "Spirit duplicator (ditto): aniline purple-violet on cheap paper, alcohol-solvent bleed, fuzzy edges, school-handout grain.",
+    "description_zh": "酒精誊印：苯胺紫墨于薄纸，酒精渗边与模糊套印，讲义纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/862-spirit-duplicator.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h820",
+    "slug": "gota-patti",
+    "name_en": "Gota Patti",
+    "name_zh": "金带绣",
+    "description_en": "Gota patti: Rajasthani gold-ribbon appliqué — metallic gota strips couched onto silk, geometric zari shimmer, not raised zardozi.",
+    "description_zh": "金带绣：拉贾斯坦金带贴绣，金银箔带钉于丝绸，几何闪光而非立体金线绣。",
+    "source": "hermes-explore",
+    "image": "styles/863-gota-patti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
