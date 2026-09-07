@@ -14012,5 +14012,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1036",
+    "slug": "turquerie",
+    "name_en": "Turquerie",
+    "name_zh": "土耳其风",
+    "description_en": "18th-century European decorative painting imitating Ottoman court art: palmette arabesques, tulip-carnation tiles, gilded crescents, lacquer-red and turquoise with gold leaf.",
+    "description_zh": "十八世纪欧洲仿奥斯曼宫廷的装饰绘画：棕叶卷草、郁金香康乃馨瓷砖、镀金新月、漆红与青绿贴金。",
+    "source": "hermes-explore",
+    "image": "styles/1079-turquerie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1037",
+    "slug": "copperplate-engraving",
+    "name_en": "Copperplate Engraving",
+    "name_zh": "铜凹版雕刻",
+    "description_en": "Taille-douce copperplate: burin-cut swelling lines, lozenge cross-hatch, stippled flesh, plate-tone on cream laid paper, no wash.",
+    "description_zh": "铜凹版雕刻：雕刀胀缩线、菱形交叉排线、点刻肤色、奶油色布纹纸上的版调，无水墨渲染。",
+    "source": "hermes-explore",
+    "image": "styles/1080-copperplate-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1038",
+    "slug": "hypsometric-tint",
+    "name_en": "Hypsometric Tint",
+    "name_zh": "分层设色",
+    "description_en": "Cartographic elevation coloring: stacked altitude bands from sea-green lowlands through ochre to rust and white peaks, contour intervals and hillshade as the paint language.",
+    "description_zh": "地图分层设色：海拔色带由海绿低地经赭黄至锈棕与白峰，等高线与晕渲即画法。",
+    "source": "hermes-explore",
+    "image": "styles/1081-hypsometric-tint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1039",
+    "slug": "pinstriping",
+    "name_en": "Pinstriping",
+    "name_zh": "饰线彩绘",
+    "description_en": "Kustom kulture sword-striper enamel: ultra-fine 1-shot freehand lines, teardrop scrolls, candy-apple and metal-flake lacquer ground.",
+    "description_zh": "定制文化剑条饰线：超细单行程手绘珐琅线、泪滴涡卷、糖果苹果与金葱漆底。",
+    "source": "hermes-explore",
+    "image": "styles/1082-pinstriping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1040",
+    "slug": "wood-type",
+    "name_en": "Wood Type",
+    "name_zh": "木活字",
+    "description_en": "American letterpress wood-type poster: carved wooden type-block texture, Tuscan and condensed gothic silhouettes, overlapping red-black-mustard ink crush on cream stock.",
+    "description_zh": "美国木活字海报：雕刻木字块肌理、托斯卡纳与紧缩哥特轮廓、红黑芥末叠印与压印涨墨。",
+    "source": "hermes-explore",
+    "image": "styles/1083-wood-type.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

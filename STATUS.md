@@ -2908,6 +2908,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1078, PNG count 1078. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 208 (exactly 5, h1036–h1040)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                | name_zh     | image                                  |
+|-------|------------------------|-------------|----------------------------------------|
+| h1036 | Turquerie              | 土耳其风    | styles/1079-turquerie.png              |
+| h1037 | Copperplate Engraving  | 铜凹版雕刻  | styles/1080-copperplate-engraving.png  |
+| h1038 | Hypsometric Tint       | 分层设色    | styles/1081-hypsometric-tint.png       |
+| h1039 | Pinstriping            | 饰线彩绘    | styles/1082-pinstriping.png            |
+| h1040 | Wood Type              | 木活字      | styles/1083-wood-type.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1083, PNG count 1083. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
