@@ -3174,6 +3174,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1173, PNG count 1173. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 227 (exactly 5, h1131–h1135)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|-------------------------------------|
+| h1131 | Cinecolor        | 西尼彩色    | styles/1174-cinecolor.png           |
+| h1132 | Gillotage        | 吉洛凸蚀    | styles/1175-gillotage.png           |
+| h1133 | Atenashi-bokashi | 无定向晕摺  | styles/1176-atenashi-bokashi.png    |
+| h1134 | Drawn-on-film    | 胶片直绘    | styles/1177-drawn-on-film.png       |
+| h1135 | Photozincography | 照相锌版    | styles/1178-photozincography.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1178, PNG count 1178. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -15247,5 +15247,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1131",
+    "slug": "cinecolor",
+    "name_en": "Cinecolor",
+    "name_zh": "西尼彩色",
+    "description_en": "Two-color subtractive bipack film: orange-red and cyan-green records only, with slight registration fringing.",
+    "description_zh": "双色减色胶片：仅橙红与青绿两层套合，带轻微套准色边。",
+    "source": "hermes-explore",
+    "image": "styles/1174-cinecolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1132",
+    "slug": "gillotage",
+    "name_en": "Gillotage",
+    "name_zh": "吉洛凸蚀",
+    "description_en": "Photomechanical zinc relief (Gillot process): bitten black line printed letterpress on cream paper.",
+    "description_zh": "照相转锌后凸蚀印线：奶油纸上高反差黑线与轻微印压。",
+    "source": "hermes-explore",
+    "image": "styles/1175-gillotage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1133",
+    "slug": "atenashi-bokashi",
+    "name_en": "Atenashi-bokashi",
+    "name_zh": "无定向晕摺",
+    "description_en": "Indefinite ukiyo-e bokashi: unbordered pigment fades wiped with nori, no hard ichimoji bar.",
+    "description_zh": "浮世绘不定向晕染：糊擦使颜料溶入和纸，无一字硬边。",
+    "source": "hermes-explore",
+    "image": "styles/1176-atenashi-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1134",
+    "slug": "drawn-on-film",
+    "name_en": "Drawn-on-film",
+    "name_zh": "胶片直绘",
+    "description_en": "Cameraless animation still: dyes, inks, and needle scratches worked directly on film emulsion.",
+    "description_zh": "无摄影机动画单帧：染料、墨与针刮直接作用于乳剂。",
+    "source": "hermes-explore",
+    "image": "styles/1177-drawn-on-film.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1135",
+    "slug": "photozincography",
+    "name_en": "Photozincography",
+    "name_zh": "照相锌版",
+    "description_en": "Photographic image transferred to grained zinc and printed as greasy lithographic ink.",
+    "description_zh": "照相影像转锌粒版，以油墨石印粒纹印于米黄纸。",
+    "source": "hermes-explore",
+    "image": "styles/1178-photozincography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
