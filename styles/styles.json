@@ -15572,5 +15572,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1156",
+    "slug": "gauffrage",
+    "name_en": "Gauffrage",
+    "name_zh": "无墨压凸",
+    "description_en": "Blind-embossed printmaking: inkless raised and recessed relief stamped into rag paper, read by raking light.",
+    "description_zh": "无墨压凸：以无墨凹凸压印 rag 纸，靠侧光读出浮雕轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1199-gauffrage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1157",
+    "slug": "open-bite-etching",
+    "name_en": "Open-bite Etching",
+    "name_zh": "敞口咬蚀",
+    "description_en": "Intaglio open bite: large unprotected copper areas eaten into granular acid texture without linear contour.",
+    "description_zh": "敞口咬蚀：大面积裸铜被酸咬出颗粒质地，不以线条勾轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1200-open-bite-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1158",
+    "slug": "collagraphy",
+    "name_en": "Collagraphy",
+    "name_zh": "拼贴凹版画",
+    "description_en": "Collagraph print from a built-up plate of cardboard, fabric, grit and glue, wiped as intaglio and embossed into paper.",
+    "description_zh": "拼贴凹版：以纸板、织物、磨料与胶堆叠制版，擦墨凹印并压入纸面。",
+    "source": "hermes-explore",
+    "image": "styles/1201-collagraphy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1159",
+    "slug": "ektachrome",
+    "name_en": "Ektachrome",
+    "name_zh": "埃克塔克罗姆",
+    "description_en": "Kodak Ektachrome color-reversal look: cool daylight transparency, fine grain, cyan shadows and warm highlights.",
+    "description_zh": "埃克塔克罗姆：柯达反转片色彩，冷日光、细颗粒、青影与暖高光。",
+    "source": "hermes-explore",
+    "image": "styles/1202-ektachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1160",
+    "slug": "hakuoshi",
+    "name_en": "Hakuoshi",
+    "name_zh": "箔押",
+    "description_en": "Japanese pressed-foil: gold and silver leaf burnished into washi or lacquer, cracked leaf edges catching raking light.",
+    "description_zh": "箔押：金银箔压入和纸或漆面，箔裂边缘在侧光下反光。",
+    "source": "hermes-explore",
+    "image": "styles/1203-hakuoshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

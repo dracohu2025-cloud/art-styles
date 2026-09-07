@@ -3244,6 +3244,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1198, PNG count 1198. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 232 (exactly 5, h1156–h1160)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh        | image                                |
+|-------|-------------------|----------------|--------------------------------------|
+| h1156 | Gauffrage         | 无墨压凸       | styles/1199-gauffrage.png            |
+| h1157 | Open-bite Etching | 敞口咬蚀       | styles/1200-open-bite-etching.png    |
+| h1158 | Collagraphy       | 拼贴凹版画     | styles/1201-collagraphy.png          |
+| h1159 | Ektachrome        | 埃克塔克罗姆   | styles/1202-ektachrome.png           |
+| h1160 | Hakuoshi          | 箔押           | styles/1203-hakuoshi.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1203, PNG count 1203. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
