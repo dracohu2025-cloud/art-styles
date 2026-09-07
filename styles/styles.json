@@ -15507,5 +15507,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1151",
+    "slug": "hirameji",
+    "name_en": "Hirameji",
+    "name_zh": "平目地",
+    "description_en": "Urushi ground densely packed with flattened gold and silver flakes so the panel shimmers as metal, not paint.",
+    "description_zh": "平目地：黑漆地上密布压平金银箔片，通体金属闪光，而非颜料平涂。",
+    "source": "hermes-explore",
+    "image": "styles/1194-hirameji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1152",
+    "slug": "anaglypta",
+    "name_en": "Anaglypta",
+    "name_zh": "浮雕壁纸",
+    "description_en": "Embossed cotton-pulp wallcovering: damask bosses catch raking light, paint sitting on peaks and thinning in valleys.",
+    "description_zh": "浮雕壁纸：棉浆压花壁纸，斜光扫过高浮雕纹，颜料积在凸起、薄在凹谷。",
+    "source": "hermes-explore",
+    "image": "styles/1195-anaglypta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1153",
+    "slug": "heliotype",
+    "name_en": "Heliotype",
+    "name_zh": "日光珂罗版",
+    "description_en": "Nineteenth-century gelatin collotype print: continuous-tone carbon-brown ink on cream paper, reticulated grain, no screen dots.",
+    "description_zh": "日光珂罗版：十九世纪明胶珂罗版，连续调棕墨印于奶油纸，网纹颗粒而无网点。",
+    "source": "hermes-explore",
+    "image": "styles/1196-heliotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1154",
+    "slug": "opus-interrasile",
+    "name_en": "Opus Interrasile",
+    "name_zh": "镂雕金工",
+    "description_en": "Late Roman pierced sheet gold and silver: openwork vines and geometric voids, chased edges against a dark ground.",
+    "description_zh": "镂雕金工：晚期罗马金银薄片镂空，卷草与几何空洞，錾边贴于暗地。",
+    "source": "hermes-explore",
+    "image": "styles/1197-opus-interrasile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1155",
+    "slug": "tsukegaki",
+    "name_en": "Tsukegaki",
+    "name_zh": "付描",
+    "description_en": "Raised urushi lines drawn with a brush, then sprinkled with gold powder on mirror-black roiro; contour, not fill.",
+    "description_zh": "付描：镜黑推光漆上以漆线勾勒再洒金粉，只见隆起金线，几乎不上色块。",
+    "source": "hermes-explore",
+    "image": "styles/1198-tsukegaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3230,6 +3230,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1193, PNG count 1193. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 231 (exactly 5, h1151–h1155)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh      | image                               |
+|-------|------------------|--------------|-------------------------------------|
+| h1151 | Hirameji         | 平目地       | styles/1194-hirameji.png            |
+| h1152 | Anaglypta        | 浮雕壁纸     | styles/1195-anaglypta.png           |
+| h1153 | Heliotype        | 日光珂罗版   | styles/1196-heliotype.png           |
+| h1154 | Opus Interrasile | 镂雕金工     | styles/1197-opus-interrasile.png    |
+| h1155 | Tsukegaki        | 付描         | styles/1198-tsukegaki.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1198, PNG count 1198. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
