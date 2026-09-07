@@ -13297,5 +13297,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h981",
+    "slug": "palimpsest",
+    "name_en": "Palimpsest",
+    "name_zh": "重写本",
+    "description_en": "Scraped vellum strata: ghost under-writing, iron-gall browns, ruling lines, parchment tooth, and overlapping script pentimenti as the pictorial surface.",
+    "description_zh": "刮去重写的羊皮纸层：底稿残字、五倍子铁墨棕褐、栏线、羊皮齿面与叠层字迹作为画面肌理。",
+    "source": "hermes-explore",
+    "image": "styles/1024-palimpsest.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h982",
+    "slug": "liquid-light",
+    "name_en": "Liquid Light",
+    "name_zh": "液体感光乳剂",
+    "description_en": "Hand-brushed silver-gelatin emulsion: pooling highlights, irregular coating, darkroom grain, and paper fiber showing through thin scumbles.",
+    "description_zh": "手刷银盐液体乳剂：积液高光、厚薄不均的涂布、暗房银粒，薄处透出纸纤维。",
+    "source": "hermes-explore",
+    "image": "styles/1025-liquid-light.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h983",
+    "slug": "vivex",
+    "name_en": "Vivex",
+    "name_zh": "维韦克斯彩印",
+    "description_en": "1930s British Vivex three-color pigment print: stacked velvety CMY films, slight misregister fringing, matte dye relief, wine-red and bottle-green palette.",
+    "description_zh": "1930年代英国维韦克斯三色颜料印：层叠丝绒CMY色膜、轻微套色错位、哑光颜料起伏，酒红与瓶绿调。",
+    "source": "hermes-explore",
+    "image": "styles/1026-vivex.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h984",
+    "slug": "e-gasuri",
+    "name_en": "E-gasuri",
+    "name_zh": "绘絣",
+    "description_en": "Japanese pictorial kasuri: indigo weft-resist, rust and ivory supplements, stepped ikat edges, and a visible warp-weft grid woven as the image.",
+    "description_zh": "日本绘絣：靛蓝纬絣、锈色与牙白补色、阶梯状絣边，经纬网格织成画面。",
+    "source": "hermes-explore",
+    "image": "styles/1027-e-gasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h985",
+    "slug": "hares-fur",
+    "name_en": "Hare's Fur",
+    "name_zh": "兔毫釉",
+    "description_en": "Jian-ware hare's-fur iron glaze as pictorial surface: radiating silvery-brown striations, viscous tenmoku flow, metallic sparkle, deep black-brown pools.",
+    "description_zh": "建窑兔毫铁釉作画面：放射银褐毫纹、黏稠天目流釉、金属闪光与深褐黑釉潭。",
+    "source": "hermes-explore",
+    "image": "styles/1028-hares-fur.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

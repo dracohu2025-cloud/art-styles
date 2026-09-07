@@ -2754,6 +2754,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1023, PNG count 1023. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 197 (exactly 5, h981–h985)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h981 | Palimpsest                | 重写本        | styles/1024-palimpsest.png                 |
+| h982 | Liquid Light              | 液体感光乳剂  | styles/1025-liquid-light.png               |
+| h983 | Vivex                     | 维韦克斯彩印  | styles/1026-vivex.png                      |
+| h984 | E-gasuri                  | 绘絣          | styles/1027-e-gasuri.png                   |
+| h985 | Hare's Fur                | 兔毫釉        | styles/1028-hares-fur.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1028, PNG count 1028. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
