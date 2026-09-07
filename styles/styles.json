@@ -15897,5 +15897,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1181",
+    "slug": "taille-douce",
+    "name_en": "Taille-douce",
+    "name_zh": "铜凹雕",
+    "description_en": "Copperplate intaglio: burin-cut swelling lines, plate-tone veil, laid-paper bite.",
+    "description_zh": "铜凹雕：雕刀胀缩线、版调余墨与布纹纸咬痕。",
+    "source": "hermes-explore",
+    "image": "styles/1224-taille-douce.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1182",
+    "slug": "flock-print",
+    "name_en": "Flock Print",
+    "name_zh": "植绒印花",
+    "description_en": "Textile flock print: adhesive motif dusted with cut-fiber pile, raised nap vs weave.",
+    "description_zh": "植绒印花：胶印纹样撒短绒，起绒相对织地凸起。",
+    "source": "hermes-explore",
+    "image": "styles/1225-flock-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1183",
+    "slug": "giornata",
+    "name_en": "Giornata",
+    "name_zh": "一日湿壁",
+    "description_en": "Buon fresco giornata: mineral pigment in wet intonaco, visible day-seams and lime bloom.",
+    "description_zh": "一日湿壁：矿物色吸入湿灰泥，可见接缝与石灰霜。",
+    "source": "hermes-explore",
+    "image": "styles/1226-giornata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1184",
+    "slug": "tritone",
+    "name_en": "Tritone",
+    "name_zh": "三色调",
+    "description_en": "Photographic tritone: three ink plates, separated midtones, slight misregister grain.",
+    "description_zh": "三色调印相：三块油墨版、分离中间调与轻微套印偏移。",
+    "source": "hermes-explore",
+    "image": "styles/1227-tritone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1185",
+    "slug": "aniline-print",
+    "name_en": "Aniline Print",
+    "name_zh": "苯胺印花",
+    "description_en": "Aniline dye roller print on cotton: fugitive mauve/viridian bleed, cloth weave, register ticks.",
+    "description_zh": "苯胺辊印棉布：易褪品红绿渗色、布纹与套准记号。",
+    "source": "hermes-explore",
+    "image": "styles/1228-aniline-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3314,6 +3314,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1223, PNG count 1223. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 237 (exactly 5, h1181–h1185)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                            |
+|-------|---------------|------------|----------------------------------|
+| h1181 | Taille-douce  | 铜凹雕     | styles/1224-taille-douce.png     |
+| h1182 | Flock Print   | 植绒印花   | styles/1225-flock-print.png      |
+| h1183 | Giornata      | 一日湿壁   | styles/1226-giornata.png         |
+| h1184 | Tritone       | 三色调     | styles/1227-tritone.png          |
+| h1185 | Aniline Print | 苯胺印花   | styles/1228-aniline-print.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1228, PNG count 1228. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
