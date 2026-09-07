@@ -2992,6 +2992,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1108, PNG count 1108. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 214 (exactly 5, h1066–h1070)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h1066 | Bencharong      | 宾差隆      | styles/1109-bencharong.png         |
+| h1067 | Shishiai        | 肉合莳绘    | styles/1110-shishiai.png           |
+| h1068 | Kindei          | 金泥        | styles/1111-kindei.png             |
+| h1069 | Error Diffusion | 误差扩散    | styles/1112-error-diffusion.png    |
+| h1070 | Xerox Art       | 复印艺术    | styles/1113-xerox-art.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1113, PNG count 1113. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

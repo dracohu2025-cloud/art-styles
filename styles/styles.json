@@ -14402,5 +14402,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1066",
+    "slug": "bencharong",
+    "name_en": "Bencharong",
+    "name_zh": "宾差隆",
+    "description_en": "Bencharong: Thai five-color overglaze enamel on porcelain — jewel reds, emerald, yellow, cobalt, and gold on a vitreous white ground.",
+    "description_zh": "宾差隆：泰式五彩釉上珐琅瓷，宝石红、翠绿、黄、钴蓝与金线覆于玻璃质白地。",
+    "source": "hermes-explore",
+    "image": "styles/1109-bencharong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1067",
+    "slug": "shishiai",
+    "name_en": "Shishiai",
+    "name_zh": "肉合莳绘",
+    "description_en": "Shishiai-maki-e: urushi lacquer where raised takamaki-e gold and burnished togidashi merge in one surface.",
+    "description_zh": "肉合莳绘：高莳绘凸起金粉与研出莳绘磨平同处一漆面。",
+    "source": "hermes-explore",
+    "image": "styles/1110-shishiai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1068",
+    "slug": "kindei",
+    "name_en": "Kindei",
+    "name_zh": "金泥",
+    "description_en": "Kindei: powdered gold bound in animal glue, brushed as granular gold wash and line — not foil, not chrome.",
+    "description_zh": "金泥：金粉调胶，刷成带颗粒的金渲与金线，非箔亦非镀铬。",
+    "source": "hermes-explore",
+    "image": "styles/1111-kindei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1069",
+    "slug": "error-diffusion",
+    "name_en": "Error Diffusion",
+    "name_zh": "误差扩散",
+    "description_en": "Error diffusion: Floyd–Steinberg serpentine dither, organic wormy speckle, limited palette — not a Bayer ordered matrix.",
+    "description_zh": "误差扩散：弗洛伊德-斯坦伯格蛇形抖动，有机蠕点与有限色阶，非拜耳有序矩阵。",
+    "source": "hermes-explore",
+    "image": "styles/1112-error-diffusion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1070",
+    "slug": "xerox-art",
+    "name_en": "Xerox Art",
+    "name_zh": "复印艺术",
+    "description_en": "Xerox art: electrostatic toner on paper, generation-loss bloom, high-contrast copy-machine grain and smear.",
+    "description_zh": "复印艺术：静电碳粉、多次复印世代损失、高反差复印机颗粒与拖影。",
+    "source": "hermes-explore",
+    "image": "styles/1113-xerox-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
