@@ -15637,5 +15637,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1161",
+    "slug": "pan-pastel",
+    "name_en": "Pan Pastel",
+    "name_zh": "盘式粉彩",
+    "description_en": "Ultra-soft pan pastels laid with sponge applicators: velvety powder bloom, feathered fields, no hard outlines.",
+    "description_zh": "盘式粉彩以海绵涂敷：绒面粉雾、柔边色域、不见硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1204-pan-pastel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1162",
+    "slug": "wet-on-dry",
+    "name_en": "Wet-on-dry",
+    "name_zh": "湿碰干",
+    "description_en": "Watercolor on fully dry paper so each wash keeps a crisp edge; stacked transparent planes, reserved paper white.",
+    "description_zh": "水色落在全干纸上，每层水色保持硬边；透明叠染，留白为光。",
+    "source": "hermes-explore",
+    "image": "styles/1205-wet-on-dry.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1163",
+    "slug": "blind-tooling",
+    "name_en": "Blind Tooling",
+    "name_zh": "无金压印",
+    "description_en": "Bookbinding impressions from heated brass tools into leather with no gold leaf; raking light on recessed grain.",
+    "description_zh": "热铜模压入皮革、不加金箔的装帧压印；侧光显出凹陷皮纹。",
+    "source": "hermes-explore",
+    "image": "styles/1206-blind-tooling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1164",
+    "slug": "photoceramic",
+    "name_en": "Photoceramic",
+    "name_zh": "瓷面照相",
+    "description_en": "Photographic image fired under porcelain glaze: enamel sheen, kiln craquelure, sepia-cobalt ceramic palette.",
+    "description_zh": "照相影像烧入瓷釉：珐琅光泽、窑裂细纹、褐钴瓷彩。",
+    "source": "hermes-explore",
+    "image": "styles/1207-photoceramic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1165",
+    "slug": "glyptic",
+    "name_en": "Glyptic",
+    "name_zh": "宝石雕刻",
+    "description_en": "Hardstone gem carving in banded agate: shallow relief and intaglio, polish versus matte cut, mineral layers.",
+    "description_zh": "玛瑙等硬石宝石雕刻：浅浮雕与凹刻、抛光对照哑光切面、矿物层理。",
+    "source": "hermes-explore",
+    "image": "styles/1208-glyptic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

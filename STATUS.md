@@ -3258,6 +3258,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1203, PNG count 1203. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 233 (exactly 5, h1161–h1165)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                           |
+|-------|---------------|------------|---------------------------------|
+| h1161 | Pan Pastel    | 盘式粉彩   | styles/1204-pan-pastel.png      |
+| h1162 | Wet-on-dry    | 湿碰干     | styles/1205-wet-on-dry.png      |
+| h1163 | Blind Tooling | 无金压印   | styles/1206-blind-tooling.png   |
+| h1164 | Photoceramic  | 瓷面照相   | styles/1207-photoceramic.png    |
+| h1165 | Glyptic       | 宝石雕刻   | styles/1208-glyptic.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1208, PNG count 1208. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
