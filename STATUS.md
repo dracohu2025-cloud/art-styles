@@ -2922,6 +2922,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1083, PNG count 1083. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 209 (exactly 5, h1041–h1045)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                               |
+|-------|-------------------|-----------------|-------------------------------------|
+| h1041 | Technicolor       | 特艺彩          | styles/1084-technicolor.png         |
+| h1042 | Keimfarben        | 硅酸盐矿彩      | styles/1085-keimfarben.png          |
+| h1043 | Chicago Imagism   | 芝加哥意象      | styles/1086-chicago-imagism.png     |
+| h1044 | Alkyd             | 醇酸树脂画      | styles/1087-alkyd.png               |
+| h1045 | Oshima Tsumugi    | 大岛紬          | styles/1088-oshima-tsumugi.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1088, PNG count 1088. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

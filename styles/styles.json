@@ -14077,5 +14077,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1041",
+    "slug": "technicolor",
+    "name_en": "Technicolor",
+    "name_zh": "特艺彩",
+    "description_en": "Three-strip dye-transfer cinema color: imbibition scarlet-emerald-cyan, slight channel misregister, velvety blacks, cream highlight roll-off, optical glow and fine grain.",
+    "description_zh": "三带染料转印电影色彩：猩红-翠绿-青的浸染叠印、轻微套色错位、丝绒黑、奶油高光滚降、光学辉光与细颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1084-technicolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1042",
+    "slug": "keimfarben",
+    "name_en": "Keimfarben",
+    "name_zh": "硅酸盐矿彩",
+    "description_en": "Potassium-silicate mineral mural on lime plaster: earth-oxide pigments locked into porous wall tooth, chalky matte breathable surface, no oil gloss or varnish.",
+    "description_zh": "石灰墙钾硅酸盐矿彩：土氧化物颜料渗入多孔墙齿、白垩哑光透气表层，无油光与罩光漆。",
+    "source": "hermes-explore",
+    "image": "styles/1085-keimfarben.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1043",
+    "slug": "chicago-imagism",
+    "name_en": "Chicago Imagism",
+    "name_zh": "芝加哥意象",
+    "description_en": "Hairy Who storefront figuration: enamel-bright comic contours, clashing decorative patterns, hot pink-acid green-mustard, slightly grotesque-cute exaggeration.",
+    "description_zh": "毛发谁派橱窗具象：珐琅亮色漫画轮廓、冲突装饰纹样、热粉-酸绿-芥末黄，略带怪诞的可爱夸张。",
+    "source": "hermes-explore",
+    "image": "styles/1086-chicago-imagism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1044",
+    "slug": "alkyd",
+    "name_en": "Alkyd",
+    "name_zh": "醇酸树脂画",
+    "description_en": "Fast-drying oil-alkyd: buttery wet-into-wet blends, enamel-like semi-gloss skin, slight ambering in darks, impasto ridges that level smoother than linseed oil.",
+    "description_zh": "快干醇酸油画：黄油般湿接湿融合、珐琅半光肤色、暗部微琥珀、比亚麻油更易流平的厚涂脊。",
+    "source": "hermes-explore",
+    "image": "styles/1087-alkyd.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1045",
+    "slug": "oshima-tsumugi",
+    "name_en": "Oshima Tsumugi",
+    "name_zh": "大岛紬",
+    "description_en": "Amami mud-and-plant ikat silk: iron-mud brown-black ground, rust-indigo kasuri units, hand-tied resist dash blur, dry woven sheen rather than print or embroidery.",
+    "description_zh": "奄美泥染植物絣绸：铁泥棕黑底、锈色与靛蓝絣纹、手绑防染虚边、干燥织纹光泽而非印花或刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1088-oshima-tsumugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
