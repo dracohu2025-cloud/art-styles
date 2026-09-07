@@ -2768,6 +2768,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1028, PNG count 1028. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 198 (exactly 5, h986–h990)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h986 | Tsukuri-e                 | 填彩钩勒      | styles/1029-tsukuri-e.png                  |
+| h987 | Tāniko                    | 塔尼科编织    | styles/1030-taniko.png                     |
+| h988 | Quillwork                 | 豪猪羽管绣    | styles/1031-quillwork.png                  |
+| h989 | Kijiro-nuri               | 木地吕涂      | styles/1032-kijiro-nuri.png                |
+| h990 | Aipan                     | 阿伊潘彩绘    | styles/1033-aipan.png                      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1033, PNG count 1033. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

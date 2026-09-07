@@ -13362,5 +13362,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h986",
+    "slug": "tsukuri-e",
+    "name_en": "Tsukuri-e",
+    "name_zh": "填彩钩勒",
+    "description_en": "Heian tsukuri-e: opaque mineral fills over underdrawing, then contours re-inked in sumi; malachite, azurite, cinnabar, gofun, and gold-leaf clouds in flattened Yamato-e space.",
+    "description_zh": "平安作绘：矿物色填满底稿后再以墨线钩勒轮廓；石绿、石青、朱砂、胡粉与金云，平面大和绘空间。",
+    "source": "hermes-explore",
+    "image": "styles/1029-tsukuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h987",
+    "slug": "taniko",
+    "name_en": "Tāniko",
+    "name_zh": "塔尼科编织",
+    "description_en": "Māori tāniko weft-twining as the image: geometric triangles, diamonds and chevrons in black, red and undyed flax-white, with every form built from visible twined fiber.",
+    "description_zh": "毛利塔尼科纬编作画面：黑、红与本色亚麻白的三角、菱形与人字纹，形体全由可见编织结构构成。",
+    "source": "hermes-explore",
+    "image": "styles/1030-taniko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h988",
+    "slug": "quillwork",
+    "name_en": "Quillwork",
+    "name_zh": "豪猪羽管绣",
+    "description_en": "Porcupine quillwork embroidery: flattened dyed quills stitched in zigzags and lanes on smoked hide; ivory, scarlet, turquoise and black over visible sinew and grain.",
+    "description_zh": "豪猪羽管刺绣：压扁染色羽管以锯齿与条带缝于烟熏皮面；牙白、朱红、松石与黑，筋线与皮纹可见。",
+    "source": "hermes-explore",
+    "image": "styles/1031-quillwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h989",
+    "slug": "kijiro-nuri",
+    "name_en": "Kijiro-nuri",
+    "name_zh": "木地吕涂",
+    "description_en": "Japanese kijiro-nuri: crystal-clear amber-brown urushi over wood grain, wet gloss, no gold powder; honey-to-tea translucency with the wood figure as the image.",
+    "description_zh": "日本木地吕涂：琥珀褐透明漆覆于木纹、湿亮无金粉；蜜色至茶褐半透明，木理即画面。",
+    "source": "hermes-explore",
+    "image": "styles/1032-kijiro-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h990",
+    "slug": "aipan",
+    "name_en": "Aipan",
+    "name_zh": "阿伊潘彩绘",
+    "description_en": "Kumaoni Aipan: white rice-paste (biswar) motifs on geru red-ochre ground; concentric dots, lotuses and ritual borders with no modeling or Western perspective.",
+    "description_zh": "库马翁阿伊潘：白米浆纹绘于赭红底；同心点、莲花与仪礼边饰，无明暗、无西式透视。",
+    "source": "hermes-explore",
+    "image": "styles/1033-aipan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
