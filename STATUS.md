@@ -3104,6 +3104,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1148, PNG count 1148. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 222 (exactly 5, h1106–h1110)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                           |
+|-------|----------------|-------------|---------------------------------|
+| h1106 | Paint-on-glass | 玻璃油绘    | styles/1149-paint-on-glass.png  |
+| h1107 | Rubber Hose    | 橡皮管动画  | styles/1150-rubber-hose.png     |
+| h1108 | Goma-zuri      | 芝麻摺      | styles/1151-goma-zuri.png       |
+| h1109 | Nara-ehon      | 奈良绘本    | styles/1152-nara-ehon.png       |
+| h1110 | Alpana         | 阿尔帕纳    | styles/1153-alpana.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1153, PNG count 1153. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

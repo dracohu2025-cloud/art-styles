@@ -14922,5 +14922,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1106",
+    "slug": "paint-on-glass",
+    "name_en": "Paint-on-glass",
+    "name_zh": "玻璃油绘",
+    "description_en": "Under-camera oil on glass: wet-into-wet smears, finger blends, translucent glossy layers.",
+    "description_zh": "玻璃板油绘动画：湿叠湿涂抹、指推融合、半透明油层反光。",
+    "source": "hermes-explore",
+    "image": "styles/1149-paint-on-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1107",
+    "slug": "rubber-hose",
+    "name_en": "Rubber Hose",
+    "name_zh": "橡皮管动画",
+    "description_en": "1920s–30s rubber-hose animation: noodle limbs, pie-cut eyes, ink-and-paint on cel, film grain.",
+    "description_zh": "二十年代橡皮管动画：软管四肢、扇形高光眼、赛璐珞描线上色、胶片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1150-rubber-hose.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1108",
+    "slug": "goma-zuri",
+    "name_en": "Goma-zuri",
+    "name_zh": "芝麻摺",
+    "description_en": "Ukiyo-e sesame printing: baren-broken ink as fine seed speckles on washi, especially in dark fields.",
+    "description_zh": "浮世绘芝麻摺：马连擦出细芝麻点，深色色块呈颗粒，和纸底。",
+    "source": "hermes-explore",
+    "image": "styles/1151-goma-zuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1109",
+    "slug": "nara-ehon",
+    "name_en": "Nara-ehon",
+    "name_zh": "奈良绘本",
+    "description_en": "Nara picture-book illumination: opaque mineral color, gold cloud bands, flat stacking on foxed paper.",
+    "description_zh": "奈良绘本：矿物不透明色、金云霞、平面叠景、微微旧纸。",
+    "source": "hermes-explore",
+    "image": "styles/1152-nara-ehon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1110",
+    "slug": "alpana",
+    "name_en": "Alpana",
+    "name_zh": "阿尔帕纳",
+    "description_en": "Bengali alpona floor painting: white rice-paste lines and dots on terracotta ground, lotus lattices.",
+    "description_zh": "孟加拉阿尔帕纳地画：白米糊线条与点饰、陶土地、莲花几何。",
+    "source": "hermes-explore",
+    "image": "styles/1153-alpana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
