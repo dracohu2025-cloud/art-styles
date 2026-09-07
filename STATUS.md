@@ -2950,6 +2950,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1093, PNG count 1093. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 211 (exactly 5, h1051–h1055)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                            |
+|-------|---------------|-------------|----------------------------------|
+| h1051 | Lusterware    | 虹彩陶      | styles/1094-lusterware.png       |
+| h1052 | Palladiotype  | 钯金印相    | styles/1095-palladiotype.png     |
+| h1053 | Heliogravure  | 日光凹版    | styles/1096-heliogravure.png     |
+| h1054 | Cane Glass    | 玻璃棒工艺  | styles/1097-cane-glass.png       |
+| h1055 | Ita-bokashi   | 板晕染      | styles/1098-ita-bokashi.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1098, PNG count 1098. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

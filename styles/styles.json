@@ -14207,5 +14207,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1051",
+    "slug": "lusterware",
+    "name_en": "Lusterware",
+    "name_zh": "虹彩陶",
+    "description_en": "Tin-glazed earthenware with reduction-fired copper and ruby metallic luster, crazing, arabesque reserves.",
+    "description_zh": "锡白釉陶、还原烧铜红金虹彩、开片与卷草留白。",
+    "source": "hermes-explore",
+    "image": "styles/1094-lusterware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1052",
+    "slug": "palladiotype",
+    "name_en": "Palladiotype",
+    "name_zh": "钯金印相",
+    "description_en": "Matte palladium print: warm split tone, rag-paper fiber, long continuous scale, no hard digital contrast.",
+    "description_zh": "哑光钯盐印相、暖调分离、棉纸纤维、绵长连续影调。",
+    "source": "hermes-explore",
+    "image": "styles/1095-palladiotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1053",
+    "slug": "heliogravure",
+    "name_en": "Heliogravure",
+    "name_zh": "日光凹版",
+    "description_en": "Talbot-Klič photogravure: velvety aquatint grain, deep intaglio ink, cream paper, continuous tone.",
+    "description_zh": "塔尔博特-克利奇照相凹版、飞尘绒粒、深凹油墨、连续调。",
+    "source": "hermes-explore",
+    "image": "styles/1096-heliogravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1054",
+    "slug": "cane-glass",
+    "name_en": "Cane Glass",
+    "name_zh": "玻璃棒工艺",
+    "description_en": "Murano vetro a canne: pulled and fused colored glass rods, filigrana twist, fire-polished refraction.",
+    "description_zh": "穆拉诺玻璃棒：拉制熔接色棒、细丝扭转、火抛折射。",
+    "source": "hermes-explore",
+    "image": "styles/1097-cane-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1055",
+    "slug": "ita-bokashi",
+    "name_en": "Ita-bokashi",
+    "name_zh": "板晕染",
+    "description_en": "Woodblock ita-bokashi: gradation carved into the block as stepped relief, nishiki-e pigments, washi grain.",
+    "description_zh": "板晕染：晕层刻入木版的阶梯浮雕、锦绘颜料、和纸肌理。",
+    "source": "hermes-explore",
+    "image": "styles/1098-ita-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
