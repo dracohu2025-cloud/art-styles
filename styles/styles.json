@@ -13492,5 +13492,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h996",
+    "slug": "bhil-painting",
+    "name_en": "Bhil Painting",
+    "name_zh": "比尔画",
+    "description_en": "Bhil tribal painting: every form packed with ritual multi-color dots on warm ochre, iconic outlines, no modeled shading.",
+    "description_zh": "比尔部落画：暖赭底上以多色仪典圆点填满形体，图式轮廓，无体积明暗。",
+    "source": "hermes-explore",
+    "image": "styles/1039-bhil-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h997",
+    "slug": "sand-mandala",
+    "name_en": "Sand Mandala",
+    "name_zh": "彩砂坛城",
+    "description_en": "Tibetan colored-sand mandala: poured mineral grains, concentric palaces, cloud-and-flame borders, granular sparkle.",
+    "description_zh": "藏传彩砂坛城：矿物细砂倾绘，同心宫殿与云焰边饰，颗粒闪光。",
+    "source": "hermes-explore",
+    "image": "styles/1040-sand-mandala.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h998",
+    "slug": "sunken-relief",
+    "name_en": "Sunken Relief",
+    "name_zh": "阴刻浮雕",
+    "description_en": "Egyptian sunken relief: figures recessed into sandstone, incised contours, raking light, traces of mineral polychromy.",
+    "description_zh": "埃及阴刻浮雕：形象凹入砂岩石面，轮廓阴刻，侧光起棱，残留矿物彩。",
+    "source": "hermes-explore",
+    "image": "styles/1041-sunken-relief.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h999",
+    "slug": "art-informel",
+    "name_en": "Art Informel",
+    "name_zh": "不定形艺术",
+    "description_en": "Art Informel / tachiste matter painting: grit-laden oil, tar and plaster, violent knife sweeps on stained canvas.",
+    "description_zh": "不定形艺术／塔希主义物质绘画：掺砂沥青油彩，刮刀猛扫于渍染画布。",
+    "source": "hermes-explore",
+    "image": "styles/1042-art-informel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1000",
+    "slug": "jinshan-peasant",
+    "name_en": "Jinshan Peasant Painting",
+    "name_zh": "金山农民画",
+    "description_en": "Jinshan peasant painting: flat folk pigments, horror vacui flowers fish and village motifs, no chiaroscuro.",
+    "description_zh": "金山农民画：平面民间重彩，繁花游鱼村落铺满画面，无体积明暗。",
+    "source": "hermes-explore",
+    "image": "styles/1043-jinshan-peasant.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

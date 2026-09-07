@@ -2796,6 +2796,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1038, PNG count 1038. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 200 (exactly 5, h996–h1000)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                    | name_zh       | image                               |
+|-------|----------------------------|---------------|-------------------------------------|
+| h996  | Bhil Painting              | 比尔画        | styles/1039-bhil-painting.png       |
+| h997  | Sand Mandala               | 彩砂坛城      | styles/1040-sand-mandala.png        |
+| h998  | Sunken Relief              | 阴刻浮雕      | styles/1041-sunken-relief.png       |
+| h999  | Art Informel               | 不定形艺术    | styles/1042-art-informel.png        |
+| h1000 | Jinshan Peasant Painting   | 金山农民画    | styles/1043-jinshan-peasant.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1043, PNG count 1043. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
