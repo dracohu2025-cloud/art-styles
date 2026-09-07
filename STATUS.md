@@ -2880,6 +2880,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1068, PNG count 1068. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 206 (exactly 5, h1026–h1030)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                         |
+|-------|---------------|-------------|-------------------------------|
+| h1026 | Mono-ha       | 物派        | styles/1069-mono-ha.png       |
+| h1027 | T'nalak       | 特纳拉克    | styles/1070-tnalak.png        |
+| h1028 | Split Toning  | 分割调色    | styles/1071-split-toning.png  |
+| h1029 | Arita         | 有田烧      | styles/1072-arita.png         |
+| h1030 | Kodachrome    | 柯达克罗姆  | styles/1073-kodachrome.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1073, PNG count 1073. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

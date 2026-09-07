@@ -13882,5 +13882,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1026",
+    "slug": "mono-ha",
+    "name_en": "Mono-ha",
+    "name_zh": "物派",
+    "description_en": "Japanese Mono-ha: unaltered timber, stone, rope, steel and still water; gravity and raw matter over depiction.",
+    "description_zh": "日本物派：未经加工的木材、石、绳、钢板与静水；重力与物质本身先于描绘。",
+    "source": "hermes-explore",
+    "image": "styles/1069-mono-ha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1027",
+    "slug": "tnalak",
+    "name_en": "T'nalak",
+    "name_zh": "特纳拉克",
+    "description_en": "T'boli abaca warp-ikat: cream, earth-red and black dream-motifs with feathered resist edges and warp striation.",
+    "description_zh": "特博利蕉麻经絣：米白、土红与黑的梦纹，防染羽化边与经线肌理。",
+    "source": "hermes-explore",
+    "image": "styles/1070-tnalak.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1028",
+    "slug": "split-toning",
+    "name_en": "Split Toning",
+    "name_zh": "分割调色",
+    "description_en": "Darkroom split tone: gold-amber highlights against teal-cyan shadows on silver-gelatin grain.",
+    "description_zh": "暗房分割调色：金琥珀高光对青绿色阴影，银盐颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1071-split-toning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1029",
+    "slug": "arita",
+    "name_en": "Arita",
+    "name_zh": "有田烧",
+    "description_en": "Arita porcelain painting: cobalt underglaze, iron-red aka-e and kinrande gold on milky crazed white glaze.",
+    "description_zh": "有田烧彩绘：釉下钴蓝、铁赤赤绘与金襴手，乳白开片釉面。",
+    "source": "hermes-explore",
+    "image": "styles/1072-arita.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1030",
+    "slug": "kodachrome",
+    "name_en": "Kodachrome",
+    "name_zh": "柯达克罗姆",
+    "description_en": "Kodachrome 64 reversal: dense dye-cloud reds, unique blues and greens, tight grain and high acutance.",
+    "description_zh": "柯达克罗姆64反转片：浓密染料云红色、独特蓝绿、细颗粒与高锐度。",
+    "source": "hermes-explore",
+    "image": "styles/1073-kodachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
