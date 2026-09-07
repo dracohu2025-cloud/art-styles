@@ -2838,6 +2838,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1053, PNG count 1053. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 203 (exactly 5, h1011–h1015)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                    | name_zh       | image                                      |
+|-------|----------------------------|---------------|--------------------------------------------|
+| h1011 | Yeseria                    | 灰泥透雕      | styles/1054-yeseria.png                    |
+| h1012 | Blue-and-Green Landscape   | 青绿山水      | styles/1055-blue-and-green-landscape.png   |
+| h1013 | Mianzhu Nianhua            | 绵竹年画      | styles/1056-mianzhu-nianhua.png            |
+| h1014 | Pittura Metafisica         | 形而上画派    | styles/1057-pittura-metafisica.png         |
+| h1015 | Ink Rubbing                | 拓片          | styles/1058-ink-rubbing.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1058, PNG count 1058. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -13687,5 +13687,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1011",
+    "slug": "yeseria",
+    "name_en": "Yeseria",
+    "name_zh": "灰泥透雕",
+    "description_en": "Andalusian yesería: deep-cut white gypsum stucco, incised arabesques, raking lime-plaster relief.",
+    "description_zh": "安达卢西亚灰泥透雕：石膏浮雕深刻、几何缠枝、侧光照出石灰阴影。",
+    "source": "hermes-explore",
+    "image": "styles/1054-yeseria.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1012",
+    "slug": "blue-and-green-landscape",
+    "name_en": "Blue-and-Green Landscape",
+    "name_zh": "青绿山水",
+    "description_en": "Tang–Song qinglü shanshui: opaque malachite and azurite mineral pigments with gold contour lines.",
+    "description_zh": "唐宋史青绿山水：石青石绿重彩、金线勾勒、矿物颜料体量。",
+    "source": "hermes-explore",
+    "image": "styles/1055-blue-and-green-landscape.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1013",
+    "slug": "mianzhu-nianhua",
+    "name_en": "Mianzhu Nianhua",
+    "name_zh": "绵竹年画",
+    "description_en": "Sichuan Mianzhu New Year woodblock: thick black outlines, flat mineral overprint, paper grain.",
+    "description_zh": "四川绵竹年画：浓墨木版线、矿物色套印、纸纹与错版趣味。",
+    "source": "hermes-explore",
+    "image": "styles/1056-mianzhu-nianhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1014",
+    "slug": "pittura-metafisica",
+    "name_en": "Pittura Metafisica",
+    "name_zh": "形而上画派",
+    "description_en": "Italian metaphysical painting: long raking shadows, empty arcades, enameled oil, steep piazza space.",
+    "description_zh": "意大利形而上绘画：长斜影、空廊柱、瓷釉油彩、陡峭广场透视。",
+    "source": "hermes-explore",
+    "image": "styles/1057-pittura-metafisica.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1015",
+    "slug": "ink-rubbing",
+    "name_en": "Ink Rubbing",
+    "name_zh": "拓片",
+    "description_en": "Chinese bei ta ink squeeze: dense black field, white raised-stroke figure as if rubbed from carved stone.",
+    "description_zh": "碑拓技法：满墨底、凸起白线如从石刻椎拓，纸纤维与积墨。",
+    "source": "hermes-explore",
+    "image": "styles/1058-ink-rubbing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
