@@ -3188,6 +3188,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1178, PNG count 1178. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 228 (exactly 5, h1136–h1140)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                               |
+|-------|--------------------|------------|-------------------------------------|
+| h1136 | Estompe            | 擦笔晕染   | styles/1179-estompe.png             |
+| h1137 | Anastatic Printing | 再版转印   | styles/1180-anastatic-printing.png  |
+| h1138 | Siderography       | 钢版转刻   | styles/1181-siderography.png        |
+| h1139 | Heliochromy        | 日光彩照   | styles/1182-heliochromy.png         |
+| h1140 | Glyphography       | 电铸凸版   | styles/1183-glyphography.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1183, PNG count 1183. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -15312,5 +15312,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1136",
+    "slug": "estompe",
+    "name_en": "Estompe",
+    "name_zh": "擦笔晕染",
+    "description_en": "Paper-stump blending: charcoal and sanguine fused into velvety smoked midtones on laid paper.",
+    "description_zh": "纸擦笔晕染：木炭与红粉笔在布纹纸上融成绒雾中间调。",
+    "source": "hermes-explore",
+    "image": "styles/1179-estompe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1137",
+    "slug": "anastatic-printing",
+    "name_en": "Anastatic Printing",
+    "name_zh": "再版转印",
+    "description_en": "19th-century facsimile transfer lithography: greasy brown ink drawn on paper, transferred to zinc or stone, then printed.",
+    "description_zh": "十九世纪再版转印：纸上油墨图稿转至锌或石再印，褐墨与纸病。",
+    "source": "hermes-explore",
+    "image": "styles/1180-anastatic-printing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1138",
+    "slug": "siderography",
+    "name_en": "Siderography",
+    "name_zh": "钢版转刻",
+    "description_en": "Steel-plate engraving transfer: hardened burin lines, guilloche, tone only by line density.",
+    "description_zh": "钢版转刻：硬化钢凹版细线、扭索纹，仅以线密造型。",
+    "source": "hermes-explore",
+    "image": "styles/1181-siderography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1139",
+    "slug": "heliochromy",
+    "name_en": "Heliochromy",
+    "name_zh": "日光彩照",
+    "description_en": "Early direct-color heliochrome plate: unstable dyes on silvered metal, tarnish bloom and interference.",
+    "description_zh": "早期日光直彩：镀银版上不稳定染料、氧化晕与干涉色。",
+    "source": "hermes-explore",
+    "image": "styles/1182-heliochromy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1140",
+    "slug": "glyphography",
+    "name_en": "Glyphography",
+    "name_zh": "电铸凸版",
+    "description_en": "Palmer glyphograph: drawing incised through wax, electrotyped into shallow relief and printed.",
+    "description_zh": "帕尔默电铸凸版：蜡地刻稿电铸成浅浮雕再印刷。",
+    "source": "hermes-explore",
+    "image": "styles/1183-glyphography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
