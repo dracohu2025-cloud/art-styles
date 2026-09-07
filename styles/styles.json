@@ -15182,5 +15182,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1126",
+    "slug": "shomenzuri",
+    "name_en": "Shomenzuri",
+    "name_zh": "正面摺",
+    "description_en": "Front-side baren burnishing that polishes selected ink to a hard gloss while surrounding mineral color stays matte.",
+    "description_zh": "正面摺：马连从画面正面研磨墨色，发丝与腰带呈镜面光泽，周围矿物色保持哑光。",
+    "source": "hermes-explore",
+    "image": "styles/1169-shomenzuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1127",
+    "slug": "retroussage",
+    "name_en": "Retroussage",
+    "name_zh": "提墨",
+    "description_en": "After wiping a copper plate, a muslin rag lifts ink from the grooves into velvety burrs and smoky plate tone.",
+    "description_zh": "提墨：铜版擦墨后再用软布轻拖线条，把沟槽墨提出，形成绒毛状溢墨与暖色版调。",
+    "source": "hermes-explore",
+    "image": "styles/1170-retroussage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1128",
+    "slug": "gasparcolor",
+    "name_en": "Gasparcolor",
+    "name_zh": "加斯帕彩色",
+    "description_en": "1930s subtractive dye-bleach three-color film: pure CMY dye layers, no silver grain, jewel-like saturation.",
+    "description_zh": "1930年代减色法染料漂白三色片：纯青品红黄染料层、无银粒、宝石般饱和。",
+    "source": "hermes-explore",
+    "image": "styles/1171-gasparcolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1129",
+    "slug": "multiplane",
+    "name_en": "Multiplane",
+    "name_zh": "多层摄影",
+    "description_en": "Stacked painted glass planes at different distances: parallax depth, aerial haze between layers, multiplane-camera lighting.",
+    "description_zh": "多层玻璃景片前后叠放：视差纵深、层间空气透视、多层摄影机照明。",
+    "source": "hermes-explore",
+    "image": "styles/1172-multiplane.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1130",
+    "slug": "megane-e",
+    "name_en": "Megane-e",
+    "name_zh": "眼镜绘",
+    "description_en": "18th-century optical-box perspective pictures: exaggerated one-point vanishing, Dutch-influenced geometry in ukiyo-e.",
+    "description_zh": "为窥视箱而作的一点透视画：地砖急速灭点、兰学透视与江户室内混成。",
+    "source": "hermes-explore",
+    "image": "styles/1173-megane-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

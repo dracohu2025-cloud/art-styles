@@ -3160,6 +3160,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1168, PNG count 1168. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 226 (exactly 5, h1126–h1130)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh    | image                         |
+|-------|-------------|------------|-------------------------------|
+| h1126 | Shomenzuri  | 正面摺     | styles/1169-shomenzuri.png    |
+| h1127 | Retroussage | 提墨       | styles/1170-retroussage.png   |
+| h1128 | Gasparcolor | 加斯帕彩色 | styles/1171-gasparcolor.png   |
+| h1129 | Multiplane  | 多层摄影   | styles/1172-multiplane.png    |
+| h1130 | Megane-e    | 眼镜绘     | styles/1173-megane-e.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1173, PNG count 1173. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
