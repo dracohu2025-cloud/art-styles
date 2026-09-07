@@ -14857,5 +14857,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1101",
+    "slug": "photochrom",
+    "name_en": "Photochrom",
+    "name_zh": "照相彩石印",
+    "description_en": "1890s Photoglob photolithograph: translucent litho color inks over a photographic base, postcard grain.",
+    "description_zh": "十九世纪末照相石印彩墨：半透明套色叠在照片结构上，明信片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1144-photochrom.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1102",
+    "slug": "paste-print",
+    "name_en": "Paste Print",
+    "name_zh": "浆糊凸印",
+    "description_en": "Fifteenth-century Teigdruck: viscous paste pigment stamped in relief on rag paper.",
+    "description_zh": "十五世纪浆糊凸印：黏稠色浆压印于布纹纸，微微隆起。",
+    "source": "hermes-explore",
+    "image": "styles/1145-paste-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1103",
+    "slug": "literati-painting",
+    "name_en": "Literati Painting",
+    "name_zh": "文人画",
+    "description_en": "Scholar-amateur ink on xuan: dry brush, spare space, seals, understated literati manner.",
+    "description_zh": "文人墨戏：宣纸干笔、留白、印章，克制的士人笔意。",
+    "source": "hermes-explore",
+    "image": "styles/1146-literati-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1104",
+    "slug": "kara-e",
+    "name_en": "Kara-e",
+    "name_zh": "唐绘",
+    "description_en": "Japanese Tang-style painting: mineral color, ink outline, Chinese-derived pictorial structure.",
+    "description_zh": "日本唐绘：矿物颜料、墨线勾勒、唐风空间结构。",
+    "source": "hermes-explore",
+    "image": "styles/1147-kara-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1105",
+    "slug": "hasegawa-school",
+    "name_en": "Hasegawa School",
+    "name_zh": "长谷川派",
+    "description_en": "Momoyama Hasegawa screen manner: mist ink pines, wet wash, gold-leaf ground.",
+    "description_zh": "桃山长谷川派屏风：雾中松树、湿墨晕化、金箔地。",
+    "source": "hermes-explore",
+    "image": "styles/1148-hasegawa-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

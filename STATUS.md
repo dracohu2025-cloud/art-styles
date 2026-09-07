@@ -3090,6 +3090,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1143, PNG count 1143. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 221 (exactly 5, h1101–h1105)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h1101 | Photochrom         | 照相彩石印      | styles/1144-photochrom.png            |
+| h1102 | Paste Print        | 浆糊凸印        | styles/1145-paste-print.png           |
+| h1103 | Literati Painting  | 文人画          | styles/1146-literati-painting.png     |
+| h1104 | Kara-e             | 唐绘            | styles/1147-kara-e.png                |
+| h1105 | Hasegawa School    | 长谷川派        | styles/1148-hasegawa-school.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1148, PNG count 1148. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
