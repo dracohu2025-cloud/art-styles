@@ -3132,6 +3132,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1158, PNG count 1158. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 224 (exactly 5, h1116–h1120)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                               |
+|-------|--------------------|-------------|-------------------------------------|
+| h1116 | Fukibokashi        | 吹晕摺      | styles/1159-fukibokashi.png         |
+| h1117 | Roulette Engraving | 滚轮雕版    | styles/1160-roulette-engraving.png  |
+| h1118 | Dotted Manner      | 点刻法      | styles/1161-dotted-manner.png       |
+| h1119 | Trailed Slip       | 沥线化妆土  | styles/1162-trailed-slip.png        |
+| h1120 | Itamezuri          | 板目摺      | styles/1163-itamezuri.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1163, PNG count 1163. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

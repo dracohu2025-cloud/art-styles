@@ -15052,5 +15052,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1116",
+    "slug": "fukibokashi",
+    "name_en": "Fukibokashi",
+    "name_zh": "吹晕摺",
+    "description_en": "Ukiyo-e blown-pigment bokashi: flicked or piped color blooms, mottled mist, washi tooth, no hard outline.",
+    "description_zh": "浮世绘吹晕摺：吹洒或弹拨颜料形成雾斑、晕色、和纸齿痕，避免硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1159-fukibokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1117",
+    "slug": "roulette-engraving",
+    "name_en": "Roulette Engraving",
+    "name_zh": "滚轮雕版",
+    "description_en": "Intaglio roulette work: spiked-wheel dotted tracks, velvety plate tone, dashed midtones on laid paper.",
+    "description_zh": "凹版滚轮雕：刺轮点线轨迹、润泽版调、铺纸上的虚线中间调。",
+    "source": "hermes-explore",
+    "image": "styles/1160-roulette-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1118",
+    "slug": "dotted-manner",
+    "name_en": "Dotted Manner",
+    "name_zh": "点刻法",
+    "description_en": "Early dotted-print metalcut: punched white dots in a dark inked ground, stamped ornamental punch-work.",
+    "description_zh": "早期点刻金属切版：深色墨地上的冲压白点与装饰性点阵。",
+    "source": "hermes-explore",
+    "image": "styles/1161-dotted-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1119",
+    "slug": "trailed-slip",
+    "name_en": "Trailed Slip",
+    "name_zh": "沥线化妆土",
+    "description_en": "Slip-trailing as picture: raised piped clay lines, loops and dots of cream slip on terracotta or buff ground.",
+    "description_zh": "沥线化妆土作画：凸起泥浆线、圈点，乳白化妆土覆于陶土或浅赭底。",
+    "source": "hermes-explore",
+    "image": "styles/1162-trailed-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1120",
+    "slug": "itamezuri",
+    "name_en": "Itamezuri",
+    "name_zh": "板目摺",
+    "description_en": "Woodblock itamezuri: plank grain printed onto washi, baren swirls, sumi and mineral color sitting in the grain.",
+    "description_zh": "木版板目摺：板材木纹直接转印于和纸，马连旋痕，墨与矿物色沉入纹理。",
+    "source": "hermes-explore",
+    "image": "styles/1163-itamezuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
