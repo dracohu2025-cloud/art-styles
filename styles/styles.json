@@ -14987,5 +14987,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1111",
+    "slug": "ballpoint",
+    "name_en": "Ballpoint",
+    "name_zh": "圆珠笔绘",
+    "description_en": "Biro drawing: blue-black ballpoint hatching, ink pooling and skip, paper-tooth grooves.",
+    "description_zh": "圆珠笔绘：蓝黑圆珠笔排线、墨水积点与跳线、纸齿凹痕。",
+    "source": "hermes-explore",
+    "image": "styles/1154-ballpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1112",
+    "slug": "acrylic-pour",
+    "name_en": "Acrylic Pour",
+    "name_zh": "流体丙烯",
+    "description_en": "Dirty-pour acrylic: silicone cells, lacing, high-flow pigment rivers, wet gloss.",
+    "description_zh": "流体丙烯倾倒：硅油晶胞、蕾丝纹、高流颜料河、湿亮膜。",
+    "source": "hermes-explore",
+    "image": "styles/1155-acrylic-pour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1113",
+    "slug": "wet-into-wet",
+    "name_en": "Wet-into-wet",
+    "name_zh": "湿叠湿",
+    "description_en": "Watercolor wet-into-wet: pigment blooms in soaked paper, backruns, fused cauliflower edges.",
+    "description_zh": "水彩湿叠湿：湿纸渗色、回流斑、融合菜花边。",
+    "source": "hermes-explore",
+    "image": "styles/1156-wet-into-wet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1114",
+    "slug": "upa",
+    "name_en": "UPA",
+    "name_zh": "有限动画",
+    "description_en": "1950s UPA limited-animation graphics: flat color fields, sparse line, mid-century poster shapes.",
+    "description_zh": "1950年代UPA有限动画：平涂色块、疏线、世纪中叶海报形。",
+    "source": "hermes-explore",
+    "image": "styles/1157-upa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1115",
+    "slug": "mixteca-puebla",
+    "name_en": "Mixteca-Puebla",
+    "name_zh": "米斯特克-普埃布拉",
+    "description_en": "Mixteca-Puebla codex painting: flat mineral color, black outline, composite view, amate ground.",
+    "description_zh": "米斯特克-普埃布拉手抄绘画：矿物平涂、墨线、复合视角、树皮纸地。",
+    "source": "hermes-explore",
+    "image": "styles/1158-mixteca-puebla.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3118,6 +3118,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1153, PNG count 1153. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 223 (exactly 5, h1111–h1115)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                             |
+|-------|----------------|-------------------|-----------------------------------|
+| h1111 | Ballpoint      | 圆珠笔绘          | styles/1154-ballpoint.png         |
+| h1112 | Acrylic Pour   | 流体丙烯          | styles/1155-acrylic-pour.png      |
+| h1113 | Wet-into-wet   | 湿叠湿            | styles/1156-wet-into-wet.png      |
+| h1114 | UPA            | 有限动画          | styles/1157-upa.png               |
+| h1115 | Mixteca-Puebla | 米斯特克-普埃布拉 | styles/1158-mixteca-puebla.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1158, PNG count 1158. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
