@@ -2894,6 +2894,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1073, PNG count 1073. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 207 (exactly 5, h1031–h1035)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh   | image                                 |
+|-------|---------------------|-----------|---------------------------------------|
+| h1031 | Yuefenpai           | 月份牌    | styles/1074-yuefenpai.png             |
+| h1032 | Physionotrace       | 轮廓描影  | styles/1075-physionotrace.png         |
+| h1033 | Lettrism            | 字母主义  | styles/1076-lettrism.png              |
+| h1034 | Photogenic Drawing  | 光成素描  | styles/1077-photogenic-drawing.png    |
+| h1035 | Brass Rubbing       | 黄铜拓印  | styles/1078-brass-rubbing.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1078, PNG count 1078. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

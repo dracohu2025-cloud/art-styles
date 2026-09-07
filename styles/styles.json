@@ -13947,5 +13947,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1031",
+    "slug": "yuefenpai",
+    "name_en": "Yuefenpai",
+    "name_zh": "月份牌",
+    "description_en": "Republican Shanghai calendar-poster painting: porcelain-smooth commercial gouache-lithograph, candy local color, airbrushed cheeks, decorative flora on cream advertising stock.",
+    "description_zh": "民国上海月份牌：瓷感商业水粉石版、清透固有色、气刷腮红，奶油广告纸上的装饰花鸟。",
+    "source": "hermes-explore",
+    "image": "styles/1074-yuefenpai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1032",
+    "slug": "physionotrace",
+    "name_en": "Physionotrace",
+    "name_zh": "轮廓描影",
+    "description_en": "Late-18th-century physionotrace portrait: machine-traced profile contour, copperplate stipple and roulette interior, laid-paper plate mark and plate tone.",
+    "description_zh": "十八世纪末轮廓描影肖像：机械描取侧面轮廓，铜版点刻与滚点塑形，布纹纸版痕与余墨。",
+    "source": "hermes-explore",
+    "image": "styles/1075-physionotrace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1033",
+    "slug": "lettrism",
+    "name_en": "Lettrism",
+    "name_zh": "字母主义",
+    "description_en": "Lettriste hypergraphy: letters and glyphs as pictorial matter, overlapping ink and stencil type assembling the figure rather than spelling slogans.",
+    "description_zh": "字母派超文字：字母与符号即颜料，叠印墨迹与镂版活字构成形象，而非书写标语。",
+    "source": "hermes-explore",
+    "image": "styles/1076-lettrism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1034",
+    "slug": "photogenic-drawing",
+    "name_en": "Photogenic Drawing",
+    "name_zh": "光成素描",
+    "description_en": "Talbot 1830s photogenic drawing: camera-less salted-paper contact, pale lilac-brown silver stain, lace and botanical silhouettes on foxed deckle paper.",
+    "description_zh": "塔尔博特一八三〇年代光成素描：无相机盐纸接触印相，淡紫褐银盐渍，毛边纸上的蕾丝与植物剪影。",
+    "source": "hermes-explore",
+    "image": "styles/1077-photogenic-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1035",
+    "slug": "brass-rubbing",
+    "name_en": "Brass Rubbing",
+    "name_zh": "黄铜拓印",
+    "description_en": "English monumental brass rubbing: heel-ball wax pulled over incised brass under paper, raised-line drapery, wax grain, white ground and gothic canopy linework.",
+    "description_zh": "英格兰纪念铜板拓印：蜡饼在纸下铜刻上摩擦，凸线衣褶、蜡粒、白地与哥特华盖线描。",
+    "source": "hermes-explore",
+    "image": "styles/1078-brass-rubbing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
