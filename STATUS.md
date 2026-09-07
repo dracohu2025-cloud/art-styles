@@ -3216,6 +3216,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1188, PNG count 1188. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 230 (exactly 5, h1146–h1150)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh        | image                                  |
+|-------|-----------------------|----------------|----------------------------------------|
+| h1146 | Amphitype             | 两性印相       | styles/1189-amphitype.png              |
+| h1147 | Walnut Ink            | 核桃墨         | styles/1190-walnut-ink.png             |
+| h1148 | Wet-on-wet            | 湿碰湿         | styles/1191-wet-on-wet.png             |
+| h1149 | Photopolymer Gravure  | 光聚合物凹版   | styles/1192-photopolymer-gravure.png   |
+| h1150 | Crosshatch Noir       | 交叉排线黑影   | styles/1193-crosshatch-noir.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1193, PNG count 1193. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

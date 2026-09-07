@@ -15442,5 +15442,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1146",
+    "slug": "amphitype",
+    "name_en": "Amphitype",
+    "name_zh": "两性印相",
+    "description_en": "Herschel's 1840s paper process that reads as both negative and positive with a metallic silver-brown sheen.",
+    "description_zh": "两性印相：赫歇尔纸基工艺，反射与透射下可呈负像或正像，银褐金属光泽。",
+    "source": "hermes-explore",
+    "image": "styles/1189-amphitype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1147",
+    "slug": "walnut-ink",
+    "name_en": "Walnut Ink",
+    "name_zh": "核桃墨",
+    "description_en": "Botanical walnut-husk ink drawing: tea-stain washes, umber pools, tannin granulation, quill and brush on rag paper.",
+    "description_zh": "核桃墨：核桃壳植物墨，茶渍浅渲、深褐积墨与单宁颗粒，羽管与毛笔绘于棉纸。",
+    "source": "hermes-explore",
+    "image": "styles/1190-walnut-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1148",
+    "slug": "wet-on-wet",
+    "name_en": "Wet-on-wet",
+    "name_zh": "湿碰湿",
+    "description_en": "Watercolor wet-in-wet: pigment blooms, backruns, cauliflower edges, and fused puddles on soaked paper.",
+    "description_zh": "湿碰湿：水彩趁湿渗化，色晕、回流与菜花边，在湿纸上融成一片。",
+    "source": "hermes-explore",
+    "image": "styles/1191-wet-on-wet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1149",
+    "slug": "photopolymer-gravure",
+    "name_en": "Photopolymer Gravure",
+    "name_zh": "光聚合物凹版",
+    "description_en": "Solar-plate intaglio: continuous-tone polymer grain, wiped blacks, plate-mark, and ink sitting in the plate.",
+    "description_zh": "光聚合物凹版：日光聚合物版作凹印，连续调颗粒、擦墨深黑与版痕。",
+    "source": "hermes-explore",
+    "image": "styles/1192-photopolymer-gravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1150",
+    "slug": "crosshatch-noir",
+    "name_en": "Crosshatch Noir",
+    "name_zh": "交叉排线黑影",
+    "description_en": "Noir ink drawing built only from dense intersecting hatches; white paper is the light, no flat fills.",
+    "description_zh": "交叉排线黑影：以交错排线密度造型，留白为光，不用平涂。",
+    "source": "hermes-explore",
+    "image": "styles/1193-crosshatch-noir.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
