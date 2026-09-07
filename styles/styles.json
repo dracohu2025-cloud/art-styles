@@ -14727,5 +14727,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1091",
+    "slug": "hatip-ebru",
+    "name_en": "Hatip Ebru",
+    "name_zh": "哈提普水拓",
+    "description_en": "Hatip Ebru: Ottoman floral marbling; stylus-shaped concentric rosettes of tulip and carnation dropped on size, over a combed ground.",
+    "description_zh": "哈提普水拓：奥斯曼花卉水拓，以色针在胶液上点出郁金香与康乃馨式同心花团，衬以梳纹底。",
+    "source": "hermes-explore",
+    "image": "styles/1134-hatip-ebru.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1092",
+    "slug": "tamamushi-nuri",
+    "name_en": "Tamamushi-nuri",
+    "name_zh": "玉虫涂",
+    "description_en": "Tamamushi-nuri: Japanese lacquer whose layered urushi shifts green-gold-violet like jewel beetle wings on a glossy black ground.",
+    "description_zh": "玉虫涂：日本漆艺，多层漆膜呈绿金紫干涉光，如玉虫翅鞘，衬深黑高光底。",
+    "source": "hermes-explore",
+    "image": "styles/1135-tamamushi-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1093",
+    "slug": "chromolithography",
+    "name_en": "Chromolithography",
+    "name_zh": "彩色石版",
+    "description_en": "Chromolithography: 19th-century multi-stone color lithography; overlapping transparent inks, crayon grain, slight plate misregister on cream stock.",
+    "description_zh": "彩色石版：十九世纪多石套色彩印，透明油墨叠层、粉笔颗粒与轻微套版偏移，乳色纸底。",
+    "source": "hermes-explore",
+    "image": "styles/1136-chromolithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1094",
+    "slug": "polaroid-transfer",
+    "name_en": "Polaroid Transfer",
+    "name_zh": "宝丽来转印",
+    "description_en": "Polaroid transfer: wet instant-film emulsion peeled onto paper; wrinkled skin, torn edges, dye shift, and paper tooth showing through.",
+    "description_zh": "宝丽来转印：即影胶膜湿揭转印到纸上，起皱薄膜、撕边、染料偏移与纸纹透出。",
+    "source": "hermes-explore",
+    "image": "styles/1137-polaroid-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1095",
+    "slug": "newari-paubha",
+    "name_en": "Newari Paubha",
+    "name_zh": "尼瓦尔帕乌巴",
+    "description_en": "Newari Paubha: Nepalese mineral-pigment painting on sized cloth; lampblack outline, gold leaf, flat cinnabar-malachite-lapis fields, shallow space.",
+    "description_zh": "尼瓦尔帕乌巴：尼泊尔矿物颜料布面画，墨线勾勒、金箔与朱砂孔雀石青金石平涂，浅空间。",
+    "source": "hermes-explore",
+    "image": "styles/1138-newari-paubha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

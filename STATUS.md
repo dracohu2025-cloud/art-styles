@@ -3062,6 +3062,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1133, PNG count 1133. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 219 (exactly 5, h1091–h1095)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h1091 | Hatip Ebru         | 哈提普水拓      | styles/1134-hatip-ebru.png            |
+| h1092 | Tamamushi-nuri     | 玉虫涂          | styles/1135-tamamushi-nuri.png        |
+| h1093 | Chromolithography  | 彩色石版        | styles/1136-chromolithography.png     |
+| h1094 | Polaroid Transfer  | 宝丽来转印      | styles/1137-polaroid-transfer.png     |
+| h1095 | Newari Paubha      | 尼瓦尔帕乌巴    | styles/1138-newari-paubha.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1138, PNG count 1138. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
