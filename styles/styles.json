@@ -14337,5 +14337,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1061",
+    "slug": "coquille-board",
+    "name_en": "Coquille Board",
+    "name_zh": "贝壳纹画板",
+    "description_en": "Coquille board: pebbled stipple tooth catching crayon, Wolff pencil, and ink on grey illustration board.",
+    "description_zh": "贝壳纹画板：灰色颗粒纸面吃住蜡笔、沃尔夫铅笔与墨线。",
+    "source": "hermes-explore",
+    "image": "styles/1104-coquille-board.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1062",
+    "slug": "redscale",
+    "name_en": "Redscale",
+    "name_zh": "红鳞",
+    "description_en": "Redscale film: camera loaded reversed so the red-sensitive layer sees first; rust-amber world, analog grain.",
+    "description_zh": "红鳞：胶卷反向装填，红敏层先曝光，锈琥珀世界与胶片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1105-redscale.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1063",
+    "slug": "tsuikoku",
+    "name_en": "Tsuikoku",
+    "name_zh": "堆黑",
+    "description_en": "Tsuikoku: pictorial relief carved into built-up layers of jet-black urushi lacquer, raking-light incisions.",
+    "description_zh": "堆黑：多层黑漆堆起再雕刻图像，侧光勾出阴刻轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1106-tsuikoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1064",
+    "slug": "sangiri",
+    "name_en": "Sangiri",
+    "name_zh": "桟切",
+    "description_en": "Sangiri: wood-fired unglazed stoneware with fly-ash deposits, scorch marks, and carbon impregnation.",
+    "description_zh": "桟切：柴烧裸胎，飞灰落釉、火痕与渗碳形成自然窑变。",
+    "source": "hermes-explore",
+    "image": "styles/1107-sangiri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1065",
+    "slug": "ordered-dither",
+    "name_en": "Ordered Dither",
+    "name_zh": "有序抖动",
+    "description_en": "Ordered dither: Bayer threshold-matrix patterning, limited palette, no smooth gradients.",
+    "description_zh": "有序抖动：拜耳阈值矩阵排布，有限色阶，无平滑渐变。",
+    "source": "hermes-explore",
+    "image": "styles/1108-ordered-dither.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

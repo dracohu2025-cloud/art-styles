@@ -2978,6 +2978,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1103, PNG count 1103. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 213 (exactly 5, h1061–h1065)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h1061 | Coquille Board  | 贝壳纹画板  | styles/1104-coquille-board.png     |
+| h1062 | Redscale        | 红鳞        | styles/1105-redscale.png           |
+| h1063 | Tsuikoku        | 堆黑        | styles/1106-tsuikoku.png           |
+| h1064 | Sangiri         | 桟切        | styles/1107-sangiri.png            |
+| h1065 | Ordered Dither  | 有序抖动    | styles/1108-ordered-dither.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1108, PNG count 1108. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
