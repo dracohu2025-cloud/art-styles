@@ -15767,5 +15767,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1171",
+    "slug": "white-heightening",
+    "name_en": "White Heightening",
+    "name_zh": "提白高光",
+    "description_en": "Mid-tone paper drawing with reserved tan grounds; black chalk and ink model form, opaque white bodycolor rakes highlights on flesh, hair, and folds.",
+    "description_zh": "色纸素描：保留浅褐底，黑垩与墨造形，不透明白粉提亮肌肤、发丝与衣褶高光。",
+    "source": "hermes-explore",
+    "image": "styles/1214-white-heightening.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1172",
+    "slug": "litho-crayon",
+    "name_en": "Litho Crayon",
+    "name_zh": "石版蜡笔",
+    "description_en": "Greasy lithographic crayon on limestone grain: scribbled darks, scraped lights, crayon-stump blends, speckled stone tooth without watercolor wash.",
+    "description_zh": "油性石版蜡笔在石灰石颗粒上：涂写暗部、刮亮、 stump 揉擦，石面斑点齿痕，无水彩渲染。",
+    "source": "hermes-explore",
+    "image": "styles/1215-litho-crayon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1173",
+    "slug": "counterproof",
+    "name_en": "Counterproof",
+    "name_zh": "对印稿",
+    "description_en": "Damp-paper offset of a chalk drawing: reversed, softened contours, ghostly hatching and a faint plate bite, pale as a second impression.",
+    "description_zh": "湿纸对印粉笔稿：左右反转、轮廓发虚、影线如幽灵，隐约版痕，如二次残印。",
+    "source": "hermes-explore",
+    "image": "styles/1216-counterproof.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1174",
+    "slug": "oil-stick",
+    "name_en": "Oil Stick",
+    "name_zh": "油性色棒",
+    "description_en": "Oil paint in stick form: fat waxy drags, broken color, impasto ridges and surface mixing instead of brush blending.",
+    "description_zh": "棒状油画颜料：肥厚蜡质拖痕、分割色彩、厚涂棱脊，在画面上混合而非笔刷晕开。",
+    "source": "hermes-explore",
+    "image": "styles/1217-oil-stick.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1175",
+    "slug": "accumulated-ink",
+    "name_en": "Accumulated Ink",
+    "name_zh": "积墨",
+    "description_en": "Jimo layering: successive ink washes from pale gray to dense black, piled wet-into-dry, mossy density with reserved paper lights.",
+    "description_zh": "积墨层层叠加：由淡灰至浓黑多次积染，湿碰干堆墨，苔石般密度，留白为光。",
+    "source": "hermes-explore",
+    "image": "styles/1218-accumulated-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

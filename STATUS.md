@@ -3286,6 +3286,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1213, PNG count 1213. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 235 (exactly 5, h1171–h1175)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                 |
+|-------|--------------------|------------|---------------------------------------|
+| h1171 | White Heightening  | 提白高光   | styles/1214-white-heightening.png     |
+| h1172 | Litho Crayon       | 石版蜡笔   | styles/1215-litho-crayon.png          |
+| h1173 | Counterproof       | 对印稿     | styles/1216-counterproof.png          |
+| h1174 | Oil Stick          | 油性色棒   | styles/1217-oil-stick.png             |
+| h1175 | Accumulated Ink    | 积墨       | styles/1218-accumulated-ink.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1218, PNG count 1218. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
