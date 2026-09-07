@@ -3034,6 +3034,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1123, PNG count 1123. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 217 (exactly 5, h1081–h1085)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh     | image                         |
+|-------|------------|-------------|-------------------------------|
+| h1081 | Girih      | 吉里纹      | styles/1124-girih.png         |
+| h1082 | Bulletism  | 射墨法      | styles/1125-bulletism.png     |
+| h1083 | Pouncing   | 针粉过稿    | styles/1126-pouncing.png      |
+| h1084 | Froissage  | 揉纸法      | styles/1127-froissage.png     |
+| h1085 | Isohelia   | 等密度分调  | styles/1128-isohelia.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1128, PNG count 1128. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

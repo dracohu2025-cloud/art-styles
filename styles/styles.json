@@ -14597,5 +14597,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1081",
+    "slug": "girih",
+    "name_en": "Girih",
+    "name_zh": "吉里纹",
+    "description_en": "Girih: Islamic geometric strapwork of interlocking polygons and construction lines — decagons, bowties, and stars as tessellated girih tiles.",
+    "description_zh": "吉里纹：伊斯兰几何带饰，十边形、蝴蝶结与星形互锁，以吉里拼砖构造线铺陈。",
+    "source": "hermes-explore",
+    "image": "styles/1124-girih.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1082",
+    "slug": "bulletism",
+    "name_en": "Bulletism",
+    "name_zh": "射墨法",
+    "description_en": "Bulletism: surrealist ink-shot — ballistic spatters, impact blooms, and radial spray that construct the image from fired droplets.",
+    "description_zh": "射墨法：超现实主义射墨，弹道飞溅、冲击绽放与放射喷雾由射出墨滴构成图像。",
+    "source": "hermes-explore",
+    "image": "styles/1125-bulletism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1083",
+    "slug": "pouncing",
+    "name_en": "Pouncing",
+    "name_zh": "针粉过稿",
+    "description_en": "Pouncing (spolvero): cartoon transfer through pricked pinholes, charcoal or chalk dust forced into a dotted contour on gesso.",
+    "description_zh": "针粉过稿：在刺孔底稿上拍炭粉或粉笔灰，以点状轮廓转印到石膏地。",
+    "source": "hermes-explore",
+    "image": "styles/1126-pouncing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1084",
+    "slug": "froissage",
+    "name_en": "Froissage",
+    "name_zh": "揉纸法",
+    "description_en": "Froissage: crumpled-then-flattened paper image whose creases fracture pigment and ink into broken planes and distressed topography.",
+    "description_zh": "揉纸法：先揉皱再展平的纸面图像，褶皱将颜料与墨迹撕裂成碎裂平面与纸面起伏。",
+    "source": "hermes-explore",
+    "image": "styles/1127-froissage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1085",
+    "slug": "isohelia",
+    "name_en": "Isohelia",
+    "name_zh": "等密度分调",
+    "description_en": "Isohelia: equal-density photographic tone separation via stacked lith masks, discrete luminance bands, and graphic darkroom plate steps.",
+    "description_zh": "等密度分调：以叠置高反差石版蒙版做等密度分阶，形成离散明度带与暗房制版台阶。",
+    "source": "hermes-explore",
+    "image": "styles/1128-isohelia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
