@@ -15962,5 +15962,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1186",
+    "slug": "graphite-wash",
+    "name_en": "Graphite Wash",
+    "name_zh": "石墨水洗",
+    "description_en": "Powdered graphite in water: silver-gray veils, tide-line stains, granular sediment, eraser lifts.",
+    "description_zh": "石墨粉兑水：银灰薄罩、潮线渍、颗粒沉淀与橡皮提亮。",
+    "source": "hermes-explore",
+    "image": "styles/1229-graphite-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1187",
+    "slug": "powder-process",
+    "name_en": "Powder Process",
+    "name_zh": "粉尘印相",
+    "description_en": "Dusting-on print: gum-honey matrix, pigment powder grain, velvety matte blacks, fragile powder edges.",
+    "description_zh": "粉尘印相：胶蜜基质、颜料粉粒、丝绒哑光黑与脆弱粉边。",
+    "source": "hermes-explore",
+    "image": "styles/1230-powder-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1188",
+    "slug": "printing-out-paper",
+    "name_en": "Printing-out Paper",
+    "name_zh": "晒出相纸",
+    "description_en": "Silver-chloride POP: self-darkening sun-print, reddish-purple-brown, printing-frame edges.",
+    "description_zh": "氯化银晒出相纸：日光自显影、红紫棕、晒框边。",
+    "source": "hermes-explore",
+    "image": "styles/1231-printing-out-paper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1189",
+    "slug": "vinylcut",
+    "name_en": "Vinylcut",
+    "name_zh": "乙烯版画",
+    "description_en": "Carved vinyl print: plastic burr, gouge facets, flat ink planes, tool chatter and ink squash.",
+    "description_zh": "乙烯板刻印：塑料毛刺、刻刀切面、平涂墨层与挤墨边。",
+    "source": "hermes-explore",
+    "image": "styles/1232-vinylcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1190",
+    "slug": "sepia-wash",
+    "name_en": "Sepia Wash",
+    "name_zh": "乌贼墨洗",
+    "description_en": "Cuttlefish sepia ink wash: warm brown granulation, reserved lights, brush calligraphy edges.",
+    "description_zh": "乌贼墨水洗：暖褐颗粒、留白高光与书法笔锋。",
+    "source": "hermes-explore",
+    "image": "styles/1233-sepia-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

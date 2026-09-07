@@ -3328,6 +3328,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1228, PNG count 1228. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 238 (exactly 5, h1186–h1190)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                 |
+|-------|--------------------|------------|---------------------------------------|
+| h1186 | Graphite Wash      | 石墨水洗   | styles/1229-graphite-wash.png         |
+| h1187 | Powder Process     | 粉尘印相   | styles/1230-powder-process.png        |
+| h1188 | Printing-out Paper | 晒出相纸   | styles/1231-printing-out-paper.png    |
+| h1189 | Vinylcut           | 乙烯版画   | styles/1232-vinylcut.png              |
+| h1190 | Sepia Wash         | 乌贼墨洗   | styles/1233-sepia-wash.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1233, PNG count 1233. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
