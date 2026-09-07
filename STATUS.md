@@ -2964,6 +2964,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1098, PNG count 1098. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 212 (exactly 5, h1056–h1060)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh       | image                                  |
+|-------|---------------------|---------------|----------------------------------------|
+| h1056 | Mingei              | 民艺          | styles/1099-mingei.png                 |
+| h1057 | Beggarstaff         | 贝格斯塔夫    | styles/1100-beggarstaff.png            |
+| h1058 | Hachure             | 晕滃线        | styles/1101-hachure.png                |
+| h1059 | Bleach Bypass       | 跳漂          | styles/1102-bleach-bypass.png          |
+| h1060 | Historiated Initial | 绘饰首字母    | styles/1103-historiated-initial.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1103, PNG count 1103. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

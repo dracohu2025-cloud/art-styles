@@ -14272,5 +14272,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1056",
+    "slug": "mingei",
+    "name_en": "Mingei",
+    "name_zh": "民艺",
+    "description_en": "Mingei folk-craft painting: muted earth kiln pigments, irregular handmade grain, Yanagi beauty of the ordinary.",
+    "description_zh": "民艺：泥土窑色、手工不均肌理、柳宗悦式日常之美。",
+    "source": "hermes-explore",
+    "image": "styles/1099-mingei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1057",
+    "slug": "beggarstaff",
+    "name_en": "Beggarstaff",
+    "name_zh": "贝格斯塔夫",
+    "description_en": "Beggarstaff Brothers cut-paper poster: flat silhouettes, two-to-four inks, stencil edges, empty ground.",
+    "description_zh": "贝格斯塔夫：剪纸平涂剪影、两至四色油墨、镂空边缘、留白底。",
+    "source": "hermes-explore",
+    "image": "styles/1100-beggarstaff.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1058",
+    "slug": "hachure",
+    "name_en": "Hachure",
+    "name_zh": "晕滃线",
+    "description_en": "Cartographic hachure: parallel slope strokes, denser on steep planes, copperplate map engraving on cream paper.",
+    "description_zh": "晕滃线：平行坡向短线、陡坡加密、铜版地图雕线、奶油纸。",
+    "source": "hermes-explore",
+    "image": "styles/1101-hachure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1059",
+    "slug": "bleach-bypass",
+    "name_en": "Bleach Bypass",
+    "name_zh": "跳漂",
+    "description_en": "Skip-bleach retained-silver process: crushed blacks, metallic highlights, desaturated primaries, heavy grain.",
+    "description_zh": "跳漂：留银叠层、死黑、金属高光、去饱和原色、重颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1102-bleach-bypass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1060",
+    "slug": "historiated-initial",
+    "name_en": "Historiated Initial",
+    "name_zh": "绘饰首字母",
+    "description_en": "Historiated initial: figure inside a decorated capital, burnished gold leaf, egg tempera on vellum.",
+    "description_zh": "绘饰首字母：字母内绘人物、打磨金箔、羊皮纸蛋彩。",
+    "source": "hermes-explore",
+    "image": "styles/1103-historiated-initial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
