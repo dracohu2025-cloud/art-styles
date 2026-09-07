@@ -3020,6 +3020,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1118, PNG count 1118. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 216 (exactly 5, h1076–h1080)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h1076 | Gypsography     | 石膏凸版    | styles/1119-gypsography.png        |
+| h1077 | Anaglyptography | 浮凸线刻    | styles/1120-anaglyptography.png    |
+| h1078 | Albertype       | 阿尔伯类型  | styles/1121-albertype.png          |
+| h1079 | Electrotint     | 电蚀铜版    | styles/1122-electrotint.png        |
+| h1080 | Petit Feu       | 低温釉上彩  | styles/1123-petit-feu.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1123, PNG count 1123. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

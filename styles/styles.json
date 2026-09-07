@@ -14532,5 +14532,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1076",
+    "slug": "gypsography",
+    "name_en": "Gypsography",
+    "name_zh": "石膏凸版",
+    "description_en": "Gypsography: plaster-cast relief print, chalky gypsum grain, shallow embossed ridges, ivory ground.",
+    "description_zh": "石膏凸版：石膏铸凸版、白垩质地、浅浮雕棱线与象牙底。",
+    "source": "hermes-explore",
+    "image": "styles/1119-gypsography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1077",
+    "slug": "anaglyptography",
+    "name_en": "Anaglyptography",
+    "name_zh": "浮凸线刻",
+    "description_en": "Anaglyptography: 19th-century relief-line engraving whose swelling parallel hatch reads as embossed metal.",
+    "description_zh": "浮凸线刻：十九世纪浮雕线刻，平行线疏密起伏如浮雕金属。",
+    "source": "hermes-explore",
+    "image": "styles/1120-anaglyptography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1078",
+    "slug": "albertype",
+    "name_en": "Albertype",
+    "name_zh": "阿尔伯类型",
+    "description_en": "Albertype: collotype photomechanical print, continuous-tone gelatin grain, warm brown-black ink, no halftone dots.",
+    "description_zh": "阿尔伯类型：珂罗版照相制版、连续调明胶颗粒、暖棕黑墨、无网点。",
+    "source": "hermes-explore",
+    "image": "styles/1121-albertype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1079",
+    "slug": "electrotint",
+    "name_en": "Electrotint",
+    "name_zh": "电蚀铜版",
+    "description_en": "Electrotint: electrolytic open-bite on copper, irregular aquatint-like grain, velvety blacks and leftover plate tone.",
+    "description_zh": "电蚀铜版：电解咬蚀铜版、不规则飞尘状颗粒、丝绒黑与残留版调。",
+    "source": "hermes-explore",
+    "image": "styles/1122-electrotint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1080",
+    "slug": "petit-feu",
+    "name_en": "Petit Feu",
+    "name_zh": "低温釉上彩",
+    "description_en": "Petit feu: low-fire overglaze enamel on porcelain, bright on-glaze colors fused over a glossy white glaze.",
+    "description_zh": "低温釉上彩：低温釉上珐琅、亮色附着于光泽白釉之上。",
+    "source": "hermes-explore",
+    "image": "styles/1123-petit-feu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
