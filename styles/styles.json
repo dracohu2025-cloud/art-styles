@@ -15377,5 +15377,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1141",
+    "slug": "discharge-print",
+    "name_en": "Discharge Print",
+    "name_zh": "拔染印花",
+    "description_en": "Textile dye-discharge: paste removes color from a dyed ground, leaving pale haloed motifs in the cloth.",
+    "description_zh": "拔染印花：在已染色底布上用拔染浆褪色，留下浅色晕边纹样。",
+    "source": "hermes-explore",
+    "image": "styles/1184-discharge-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1142",
+    "slug": "jigsaw-woodcut",
+    "name_en": "Jigsaw Woodcut",
+    "name_zh": "拼板木刻",
+    "description_en": "Color woodcut from a block sawn into puzzle pieces, each inked separately and printed as interlocking flats.",
+    "description_zh": "拼板木刻：将木版锯成拼图片段，各片分别着墨后拼合套印。",
+    "source": "hermes-explore",
+    "image": "styles/1185-jigsaw-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1143",
+    "slug": "shell-gold",
+    "name_en": "Shell Gold",
+    "name_zh": "贝壳金",
+    "description_en": "Crushed gold leaf bound in gum and painted from a shell: granular luminous gold watercolor, not leaf sheets.",
+    "description_zh": "贝壳金：金箔研粉调胶盛于贝壳，绘成颗粒闪光的金色水彩，而非贴箔。",
+    "source": "hermes-explore",
+    "image": "styles/1186-shell-gold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1144",
+    "slug": "cerography",
+    "name_en": "Cerography",
+    "name_zh": "蜡刻制版",
+    "description_en": "19th-century wax engraving: lines incised through a wax ground on metal and printed letterpress.",
+    "description_zh": "蜡刻制版：十九世纪在金属蜡地上刻线，再以凸版印刷。",
+    "source": "hermes-explore",
+    "image": "styles/1187-cerography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1145",
+    "slug": "plate-tone",
+    "name_en": "Plate Tone",
+    "name_zh": "版调余墨",
+    "description_en": "Intaglio printed with a thin leftover ink film on the plate, a smoky veil and wiped highlights inside the plate-mark.",
+    "description_zh": "版调余墨：凹版擦墨时留一层余墨，印出烟霭般的中间调与擦亮高光。",
+    "source": "hermes-explore",
+    "image": "styles/1188-plate-tone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

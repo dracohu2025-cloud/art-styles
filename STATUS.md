@@ -3202,6 +3202,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1183, PNG count 1183. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 229 (exactly 5, h1141–h1145)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh    | image                              |
+|-------|-----------------|------------|------------------------------------|
+| h1141 | Discharge Print | 拔染印花   | styles/1184-discharge-print.png    |
+| h1142 | Jigsaw Woodcut  | 拼板木刻   | styles/1185-jigsaw-woodcut.png     |
+| h1143 | Shell Gold      | 贝壳金     | styles/1186-shell-gold.png         |
+| h1144 | Cerography      | 蜡刻制版   | styles/1187-cerography.png         |
+| h1145 | Plate Tone      | 版调余墨   | styles/1188-plate-tone.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1188, PNG count 1188. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
