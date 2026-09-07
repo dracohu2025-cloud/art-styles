@@ -3048,6 +3048,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1128, PNG count 1128. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 218 (exactly 5, h1086–h1090)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h1086 | Jogakbo            | 拼布褓          | styles/1129-jogakbo.png               |
+| h1087 | Bagh Print         | 巴格印花        | styles/1130-bagh-print.png            |
+| h1088 | Tone-line Process  | 色调线工艺      | styles/1131-tone-line-process.png     |
+| h1089 | Khyenri            | 钦热画派        | styles/1132-khyenri.png               |
+| h1090 | Nonpareil Marbling | 无双梳纹水拓    | styles/1133-nonpareil-marbling.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1133, PNG count 1133. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

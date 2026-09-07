@@ -14662,5 +14662,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1086",
+    "slug": "jogakbo",
+    "name_en": "Jogakbo",
+    "name_zh": "拼布褓",
+    "description_en": "Jogakbo: Korean wrapping-cloth patchwork of irregular ramie and silk polygons joined with tiny flat-fell seams; pieced geometry as the drawing method.",
+    "description_zh": "拼布褓：朝鲜/韩国褓自我拼布，以苎麻与丝绸不规则多边形细密平缝拼接，缝线几何即造型手段。",
+    "source": "hermes-explore",
+    "image": "styles/1129-jogakbo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1087",
+    "slug": "bagh-print",
+    "name_en": "Bagh Print",
+    "name_zh": "巴格印花",
+    "description_en": "Bagh print: Madhya Pradesh hand-block textile, iron-black and alizarin-red vegetable dyes on cream khadi, dense geometric floral jaal and concentric borders.",
+    "description_zh": "巴格印花：印度中央邦巴格木版印，铁黑与茜素红植物染料印于本色卡迪棉，密几何花网与层层边饰。",
+    "source": "hermes-explore",
+    "image": "styles/1130-bagh-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1088",
+    "slug": "tone-line-process",
+    "name_en": "Tone-line Process",
+    "name_zh": "色调线工艺",
+    "description_en": "Tone-line process: graphic-arts photographic conversion sandwiching lith films so continuous tone collapses into razor contour on empty white paper.",
+    "description_zh": "色调线工艺：制版暗房以高反差石版片叠合，把连续调压成锋利轮廓线与空白纸地。",
+    "source": "hermes-explore",
+    "image": "styles/1131-tone-line-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1089",
+    "slug": "khyenri",
+    "name_en": "Khyenri",
+    "name_zh": "钦热画派",
+    "description_en": "Khyenri: Tibetan painting school with Pala-Indian influence, mineral pigments, gold outline, and softer naturalistic facial shading distinct from Menri and Karma Gadri.",
+    "description_zh": "钦热画派：藏画一派，受帕拉印度影响，矿物颜料与金线，面部渲染较门日派、噶玛嘎知更柔和写实。",
+    "source": "hermes-explore",
+    "image": "styles/1132-khyenri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1090",
+    "slug": "nonpareil-marbling",
+    "name_en": "Nonpareil Marbling",
+    "name_zh": "无双梳纹水拓",
+    "description_en": "Nonpareil marbling: European bookbinding paper; inks on size drawn with a comb into tight parallel wavy lines, distinct from Spanish wave and Stormont.",
+    "description_zh": "无双梳纹水拓：欧洲装帧大理石纹，色墨浮于胶液后以梳拉出紧密平行波纹，有别于西班牙波纹与斯托蒙特。",
+    "source": "hermes-explore",
+    "image": "styles/1133-nonpareil-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
