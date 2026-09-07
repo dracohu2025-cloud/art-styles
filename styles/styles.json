@@ -15702,5 +15702,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1166",
+    "slug": "brulage",
+    "name_en": "Brûlage",
+    "name_zh": "灼烧画面",
+    "description_en": "Surrealist brûlage: photographic emulsion burned and blistered — scorched silver-gelatin, heat-warped highlights, carbonized blacks, flame-eaten edges.",
+    "description_zh": "超现实主义灼烧画：烧毁起泡的照相乳剂——焦化银盐、受热扭曲的高光、碳化暗部、火焰噬边。",
+    "source": "hermes-explore",
+    "image": "styles/1209-brulage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1167",
+    "slug": "gum-over-platinum",
+    "name_en": "Gum Over Platinum",
+    "name_zh": "树胶罩铂",
+    "description_en": "Platinum-palladium continuous-tone base with translucent gum-bichromate pigment veils staining the shadows on velvety matte paper.",
+    "description_zh": "铂钯连续调底图上罩以半透明树胶重铬酸盐色层，色素沉于暗部，绒面哑光纸感。",
+    "source": "hermes-explore",
+    "image": "styles/1210-gum-over-platinum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1168",
+    "slug": "gouache-resist",
+    "name_en": "Gouache Resist",
+    "name_zh": "水粉防染",
+    "description_en": "Opaque gouache used as a resist under transparent watercolor: reserved lights, crisp blocked edges, paper bloom and granulation.",
+    "description_zh": "用不透明水粉作防染再罩透明水彩：留白高光、阻断边缘清晰、纸面水渍与沉淀。",
+    "source": "hermes-explore",
+    "image": "styles/1211-gouache-resist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1169",
+    "slug": "sanded-pastel",
+    "name_en": "Sanded Pastel",
+    "name_zh": "砂纸粉彩",
+    "description_en": "Dense pastel dragged across a heavily toothed sanded ground: grit catching pigment, broken-color scumbles, dusty bloom.",
+    "description_zh": "在高齿砂纸底上拖擦厚实粉彩：砂粒咬色、断续擦染、粉尘朦胧。",
+    "source": "hermes-explore",
+    "image": "styles/1212-sanded-pastel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1170",
+    "slug": "mische-technique",
+    "name_en": "Mische Technique",
+    "name_zh": "蛋彩油罩",
+    "description_en": "Mixed technique: opaque egg-tempera underpainting glazed with thin luminous oils — inner light in flesh, jewel-like layered color.",
+    "description_zh": "混合技法：不透明蛋彩底上罩薄而通透的油层——肌肤内发光、宝石般层层色彩。",
+    "source": "hermes-explore",
+    "image": "styles/1213-mische-technique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

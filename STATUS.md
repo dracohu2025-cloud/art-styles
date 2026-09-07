@@ -3272,6 +3272,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1208, PNG count 1208. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 234 (exactly 5, h1166–h1170)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                 |
+|-------|--------------------|------------|---------------------------------------|
+| h1166 | Brûlage            | 灼烧画面   | styles/1209-brulage.png               |
+| h1167 | Gum Over Platinum  | 树胶罩铂   | styles/1210-gum-over-platinum.png     |
+| h1168 | Gouache Resist     | 水粉防染   | styles/1211-gouache-resist.png        |
+| h1169 | Sanded Pastel      | 砂纸粉彩   | styles/1212-sanded-pastel.png         |
+| h1170 | Mische Technique   | 蛋彩油罩   | styles/1213-mische-technique.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1213, PNG count 1213. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
