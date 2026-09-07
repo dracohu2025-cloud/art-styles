@@ -13622,5 +13622,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1006",
+    "slug": "terrazzo",
+    "name_en": "Terrazzo",
+    "name_zh": "水磨石",
+    "description_en": "Terrazzo: polished cement matrix packed with marble, glass and shell chips, ground flush so grout seams and aggregate facets form the picture.",
+    "description_zh": "水磨石：水泥基质嵌大理石、玻璃与贝壳碎粒，磨平抛光，细接缝与骨料切面构成画面。",
+    "source": "hermes-explore",
+    "image": "styles/1049-terrazzo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1007",
+    "slug": "duotone",
+    "name_en": "Duotone",
+    "name_zh": "双色调",
+    "description_en": "Duotone: two-ink photomechanical print, warm black plus one spot color, hard midtone split and paper-tooth squash, no process color.",
+    "description_zh": "双色调：双墨照相制版，暖黑加一专色，中间调硬切与纸纹压墨，无四色印刷。",
+    "source": "hermes-explore",
+    "image": "styles/1050-duotone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1008",
+    "slug": "assemblage",
+    "name_en": "Assemblage",
+    "name_zh": "集合艺术",
+    "description_en": "Assemblage: found wood, tin, cloth and wire stacked on a shallow plane with real cast shadows between pieces, not painted collage.",
+    "description_zh": "集合艺术：废木、铁皮、织物与铁丝叠成浅浮雕，件间真实投影，非平面拼贴绘画。",
+    "source": "hermes-explore",
+    "image": "styles/1051-assemblage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1009",
+    "slug": "eggshell-mosaic",
+    "name_en": "Eggshell Mosaic",
+    "name_zh": "蛋壳镶嵌",
+    "description_en": "Eggshell mosaic: crushed eggshell tesserae set in dark lacquer, white-brown craquelure and tiny grout gaps as ran-kaku inlay.",
+    "description_zh": "蛋壳镶嵌：碎蛋壳嵌于深漆，白褐裂纹与细缝做成卵壳嵌（らんかく）画面。",
+    "source": "hermes-explore",
+    "image": "styles/1052-eggshell-mosaic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1010",
+    "slug": "couching",
+    "name_en": "Couching",
+    "name_zh": "盘金绣",
+    "description_en": "Couching: laid gold and silk cords held by paired perpendicular stitches, raised metal thread on dark silk, not printed foil.",
+    "description_zh": "盘金绣：金银线平铺再以成对垂直针钉住，深色丝绸上凸起金线，非烫金箔。",
+    "source": "hermes-explore",
+    "image": "styles/1053-couching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -2824,6 +2824,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1048, PNG count 1048. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 202 (exactly 5, h1006–h1010)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh   | image                              |
+|-------|-----------------|-----------|------------------------------------|
+| h1006 | Terrazzo        | 水磨石    | styles/1049-terrazzo.png           |
+| h1007 | Duotone         | 双色调    | styles/1050-duotone.png            |
+| h1008 | Assemblage      | 集合艺术  | styles/1051-assemblage.png         |
+| h1009 | Eggshell Mosaic | 蛋壳镶嵌  | styles/1052-eggshell-mosaic.png    |
+| h1010 | Couching        | 盘金绣    | styles/1053-couching.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1053, PNG count 1053. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
