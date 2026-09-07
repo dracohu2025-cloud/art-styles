@@ -3006,6 +3006,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1113, PNG count 1113. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 215 (exactly 5, h1071–h1075)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh       | image                                  |
+|-------|----------------------|---------------|----------------------------------------|
+| h1071 | Cel Shading          | 赛璐璐着色    | styles/1114-cel-shading.png            |
+| h1072 | Rotoscope            | 转描          | styles/1115-rotoscope.png              |
+| h1073 | Coulage              | 倾倒法        | styles/1116-coulage.png                |
+| h1074 | Pinscreen            | 针幕          | styles/1117-pinscreen.png              |
+| h1075 | Entoptic Graphomania | 内视书写狂    | styles/1118-entoptic-graphomania.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1118, PNG count 1118. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

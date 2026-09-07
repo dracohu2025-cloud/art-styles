@@ -14467,5 +14467,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1071",
+    "slug": "cel-shading",
+    "name_en": "Cel Shading",
+    "name_zh": "赛璐璐着色",
+    "description_en": "Cel shading: hard ink outlines, stepped lighting bands, flat color ramps, specular as a hard white shape.",
+    "description_zh": "赛璐璐着色：硬边墨线、分阶光照、平涂色阶、高光成块。",
+    "source": "hermes-explore",
+    "image": "styles/1114-cel-shading.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1072",
+    "slug": "rotoscope",
+    "name_en": "Rotoscope",
+    "name_zh": "转描",
+    "description_en": "Rotoscope: frame-by-frame traced contours over painterly fill, slight outline jitter, analog grain.",
+    "description_zh": "转描：逐帧描摹轮廓、手绘填色、轻微轮廓抖动与胶片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1115-rotoscope.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1073",
+    "slug": "coulage",
+    "name_en": "Coulage",
+    "name_zh": "倾倒法",
+    "description_en": "Coulage: surrealist pouring of molten wax or metal, chance drips, pooling, accidental silhouettes.",
+    "description_zh": "倾倒法：超现实主义熔蜡/熔金倾倒、偶然滴淌与凝结轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1116-coulage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1074",
+    "slug": "pinscreen",
+    "name_en": "Pinscreen",
+    "name_zh": "针幕",
+    "description_en": "Pinscreen: thousands of pins at varying depths, volumetric grayscale relief, side-lit pin-head sparkle.",
+    "description_zh": "针幕：深浅不一的针阵、体积灰度浮雕、侧光针头高光。",
+    "source": "hermes-explore",
+    "image": "styles/1117-pinscreen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1075",
+    "slug": "entoptic-graphomania",
+    "name_en": "Entoptic Graphomania",
+    "name_zh": "内视书写狂",
+    "description_en": "Entoptic graphomania: scattered ink dots connected by straight and curved lines into an automatic drawing.",
+    "description_zh": "内视书写狂：散布墨点再以直线与曲线相连的自动素描。",
+    "source": "hermes-explore",
+    "image": "styles/1118-entoptic-graphomania.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
