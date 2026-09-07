@@ -13752,5 +13752,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1016",
+    "slug": "spanish-wave-marbling",
+    "name_en": "Spanish Wave Marbling",
+    "name_zh": "西班牙波纹水拓",
+    "description_en": "Book marbling ondas españolas: pigments combed into long chevron swells on carrageenan size, stone-spot blooms in the troughs.",
+    "description_zh": "书籍水拓西班牙波纹：颜料梳成起伏人字波，槽谷中夹石纹斑点。",
+    "source": "hermes-explore",
+    "image": "styles/1059-spanish-wave-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1017",
+    "slug": "akita-ranga",
+    "name_en": "Akita Ranga",
+    "name_zh": "秋田兰画",
+    "description_en": "Late-Edo Akita school Western-style oil: brown imprimatura, naive chiaroscuro, linear perspective, Prussian blue and earth pigments.",
+    "description_zh": "江户后期秋田兰画：褐色底子、略生涩明暗与透视，普鲁士蓝与土色油画。",
+    "source": "hermes-explore",
+    "image": "styles/1060-akita-ranga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1018",
+    "slug": "tivaevae",
+    "name_en": "Tivaevae",
+    "name_zh": "蒂瓦埃瓦埃贴花",
+    "description_en": "Cook Islands appliqué quilt: layered cut-out cotton florals, blanket stitch, batting puff, radial tivaevae composition.",
+    "description_zh": "库克群岛贴花被：多层剪布花卉、毯针缝迹、夹棉微鼓与放射构图。",
+    "source": "hermes-explore",
+    "image": "styles/1061-tivaevae.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1019",
+    "slug": "black-on-black-ware",
+    "name_en": "Black-on-black Ware",
+    "name_zh": "黑底抛光陶",
+    "description_en": "San Ildefonso reduced blackware: matte carbon-black motifs on mirror-burnished black slip, value contrast only.",
+    "description_zh": "圣伊尔德丰索还原黑陶：哑光炭黑纹饰压在镜面抛光黑化妆土上，仅靠明度对比。",
+    "source": "hermes-explore",
+    "image": "styles/1062-black-on-black-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1020",
+    "slug": "pellet-print",
+    "name_en": "Pellet Print",
+    "name_zh": "佩莱正像蓝晒",
+    "description_en": "1860s Pellet siderotype: Prussian-blue line-and-wash on cream paper, the positive inverse of Herschel cyanotype.",
+    "description_zh": "1860年代佩莱铁盐正像：普鲁士蓝线描淡染于乳白纸，与赫歇尔负像蓝晒相反。",
+    "source": "hermes-explore",
+    "image": "styles/1063-pellet-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

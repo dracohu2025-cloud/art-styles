@@ -2852,6 +2852,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1058, PNG count 1058. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 204 (exactly 5, h1016–h1020)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh           | image                                   |
+|-------|-------------------------|-------------------|-----------------------------------------|
+| h1016 | Spanish Wave Marbling   | 西班牙波纹水拓    | styles/1059-spanish-wave-marbling.png   |
+| h1017 | Akita Ranga             | 秋田兰画          | styles/1060-akita-ranga.png             |
+| h1018 | Tivaevae                | 蒂瓦埃瓦埃贴花    | styles/1061-tivaevae.png                |
+| h1019 | Black-on-black Ware     | 黑底抛光陶        | styles/1062-black-on-black-ware.png     |
+| h1020 | Pellet Print            | 佩莱正像蓝晒      | styles/1063-pellet-print.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1063, PNG count 1063. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
