@@ -14142,5 +14142,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1046",
+    "slug": "caravaggism",
+    "name_en": "Caravaggism",
+    "name_zh": "卡拉瓦乔主义",
+    "description_en": "Caravaggio-school tenebrism: a single raking cellar shaft, pitch-black void, theatrical chiaroscuro, umber-and-flesh oil glaze rather than broken impressionist color.",
+    "description_zh": "卡拉瓦乔派暗色法：一束地窖斜光、漆黑虚空、戏剧明暗、赭土与肉色油釉而非印象派断彩。",
+    "source": "hermes-explore",
+    "image": "styles/1089-caravaggism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1047",
+    "slug": "lyrical-abstraction",
+    "name_en": "Lyrical Abstraction",
+    "name_zh": "抒情抽象",
+    "description_en": "Abstraction lyrique: stained poured veils, calligraphic gesture, translucent color storms, atmospheric wash collision without hard-edge geometry.",
+    "description_zh": "抒情抽象：浸染倾倒色纱、书法式笔势、半透明色风暴、氛围晕染碰撞而无硬边几何。",
+    "source": "hermes-explore",
+    "image": "styles/1090-lyrical-abstraction.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1048",
+    "slug": "gondarine",
+    "name_en": "Gondarine",
+    "name_zh": "贡达尔绘画",
+    "description_en": "17th–18th c. Ethiopian Gondar mural-icon: frontal hieratic figures, oversized almond eyes, flat local color, patterned textile grounds, gold contours, no Western perspective.",
+    "description_zh": "十七至十八世纪埃塞俄比亚贡达尔壁画圣像：正面仪轨人物、放大杏眼、平涂固有色、织物纹地、金线轮廓、无西方透视。",
+    "source": "hermes-explore",
+    "image": "styles/1091-gondarine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1049",
+    "slug": "shweshwe",
+    "name_en": "Shweshwe",
+    "name_zh": "什韦什韦",
+    "description_en": "Isishweshwe indigo discharge print: Prussian-indigo cotton, dense geometric pin-dot and rosette repeats in discharged white, crisp textile drape rather than batik crackle or ikat blur.",
+    "description_zh": "伊西什韦什韦靛蓝拔染印花：普鲁士蓝棉布、密几何针点与玫瑰纹拔白、清晰织纹垂感而非蜡染裂纹或絣织虚边。",
+    "source": "hermes-explore",
+    "image": "styles/1092-shweshwe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1050",
+    "slug": "orton-effect",
+    "name_en": "Orton Effect",
+    "name_zh": "奥顿效应",
+    "description_en": "Photographic sandwich: a sharp detailed layer fused with a defocused overexposed glow, dreamy luminous bloom and analog slide-halo rather than HDR crunch.",
+    "description_zh": "摄影夹层：清晰细节层与失焦过曝辉光叠合，梦幻光晕与幻灯片光晕而非HDR硬对比。",
+    "source": "hermes-explore",
+    "image": "styles/1093-orton-effect.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

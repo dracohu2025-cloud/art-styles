@@ -2936,6 +2936,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1088, PNG count 1088. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 210 (exactly 5, h1046–h1050)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                  |
+|-------|----------------------|-----------------|----------------------------------------|
+| h1046 | Caravaggism          | 卡拉瓦乔主义    | styles/1089-caravaggism.png            |
+| h1047 | Lyrical Abstraction  | 抒情抽象        | styles/1090-lyrical-abstraction.png    |
+| h1048 | Gondarine            | 贡达尔绘画      | styles/1091-gondarine.png              |
+| h1049 | Shweshwe             | 什韦什韦        | styles/1092-shweshwe.png               |
+| h1050 | Orton Effect         | 奥顿效应        | styles/1093-orton-effect.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1093, PNG count 1093. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
