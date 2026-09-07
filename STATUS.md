@@ -2810,6 +2810,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1043, PNG count 1043. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 201 (exactly 5, h1001–h1005)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                              |
+|-------|--------------------|-----------------|------------------------------------|
+| h1001 | Stormont Marbling  | 斯托蒙特水拓    | styles/1044-stormont-marbling.png  |
+| h1002 | Spazialismo        | 空间主义        | styles/1045-spazialismo.png        |
+| h1003 | Paper Tole         | 立体剪贴        | styles/1046-paper-tole.png         |
+| h1004 | Diamond Dust       | 钻石尘          | styles/1047-diamond-dust.png       |
+| h1005 | Bagru              | 巴格鲁木版印    | styles/1048-bagru.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1048, PNG count 1048. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

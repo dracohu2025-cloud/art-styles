@@ -13557,5 +13557,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1001",
+    "slug": "stormont-marbling",
+    "name_en": "Stormont Marbling",
+    "name_zh": "斯托蒙特水拓",
+    "description_en": "Stormont marbling: combed ink veins interrupted by turpentine gall spots that burst into speckled islands on the size bath.",
+    "description_zh": "斯托蒙特水拓：梳纹墨脉被松节油斑点打断，爆成细密斑岛。",
+    "source": "hermes-explore",
+    "image": "styles/1044-stormont-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1002",
+    "slug": "spazialismo",
+    "name_en": "Spazialismo",
+    "name_zh": "空间主义",
+    "description_en": "Spazialismo: taut picture-plane slashed and punctured so cosmic void shows through the cuts rather than painted illusion.",
+    "description_zh": "空间主义：绷紧画面被划开穿孔，宇宙空隙从切口透出，而非画出来的纵深。",
+    "source": "hermes-explore",
+    "image": "styles/1045-spazialismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1003",
+    "slug": "paper-tole",
+    "name_en": "Paper Tole",
+    "name_zh": "立体剪贴",
+    "description_en": "Paper tole: die-cut printed layers stacked with spacers, scored curled edges and drop shadows as dimensional decoupage.",
+    "description_zh": "立体剪贴：多层模切纸片垫高叠合，卷边与投影做成浮雕式剪贴。",
+    "source": "hermes-explore",
+    "image": "styles/1046-paper-tole.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1004",
+    "slug": "diamond-dust",
+    "name_en": "Diamond Dust",
+    "name_zh": "钻石尘",
+    "description_en": "Diamond dust: flat color fields encrusted with crushed-glass grit that scintillates under raking light.",
+    "description_zh": "钻石尘：平面色块覆以碎玻璃微粒，侧光下闪烁结晶颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1047-diamond-dust.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1005",
+    "slug": "bagru",
+    "name_en": "Bagru",
+    "name_zh": "巴格鲁木版印",
+    "description_en": "Bagru block print: iron-black outlines, dabu resist and earth dyes on cotton, rustic buti repeats with slight misregistration.",
+    "description_zh": "巴格鲁木版印：铁黑勾线、泥防染与土色染料印于棉布，粗放碎花略有错位。",
+    "source": "hermes-explore",
+    "image": "styles/1048-bagru.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
