@@ -2782,6 +2782,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1033, PNG count 1033. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 199 (exactly 5, h991–h995)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id   | name_en                   | name_zh       | image                                      |
+|------|---------------------------|---------------|--------------------------------------------|
+| h991 | Papier Collé              | 贴纸拼贴      | styles/1034-papier-colle.png               |
+| h992 | Smalti                    | 熔块马赛克    | styles/1035-smalti.png                     |
+| h993 | Sanganeri                 | 桑加内尔木版印 | styles/1036-sanganeri.png                  |
+| h994 | Baldosa Hidráulica        | 液压花砖      | styles/1037-baldosa-hidraulica.png         |
+| h995 | Trace Monotype            | 背描单版      | styles/1038-trace-monotype.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1038, PNG count 1038. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

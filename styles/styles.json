@@ -13427,5 +13427,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h991",
+    "slug": "papier-colle",
+    "name_en": "Papier Collé",
+    "name_zh": "贴纸拼贴",
+    "description_en": "Cubist papier collé: glued newsprint, faux-bois wallpaper and flat paper facets with charcoal contours; overlapping torn edges replace modeling and perspective.",
+    "description_zh": "立体主义贴纸拼贴：新闻纸、仿木纹墙纸与色纸块面胶合，木炭轮廓勾勒；撕裂叠边取代明暗与透视。",
+    "source": "hermes-explore",
+    "image": "styles/1034-papier-colle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h992",
+    "slug": "smalti",
+    "name_en": "Smalti",
+    "name_zh": "熔块马赛克",
+    "description_en": "Venetian smalti: hand-cut opaque glass tesserae set with tilted andamento; gold-leaf sandwich cubes and uneven grout catch raking light.",
+    "description_zh": "威尼斯熔块马赛克：手切不透明玻璃贴片沿形体走向倾斜镶嵌；夹金箔方块与不平填缝在侧光下闪烁。",
+    "source": "hermes-explore",
+    "image": "styles/1035-smalti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h993",
+    "slug": "sanganeri",
+    "name_en": "Sanganeri",
+    "name_zh": "桑加内尔木版印",
+    "description_en": "Sanganer hand-block print: fine floral bootis and jaal on off-white cotton, layered wooden-block registration in indigo and madder with slight misalignment.",
+    "description_zh": "桑加内尔木版印：细密花卉小团花与网纹印于本白棉布；靛蓝与茜红多层套色，带轻微错版。",
+    "source": "hermes-explore",
+    "image": "styles/1036-sanganeri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h994",
+    "slug": "baldosa-hidraulica",
+    "name_en": "Baldosa Hidráulica",
+    "name_zh": "液压花砖",
+    "description_en": "Hydraulic cement tile: inlaid pigmented-cement motifs in a grouted grid of 20 cm squares, matte mineral color with no glaze, pressed floral-geometric medallions.",
+    "description_zh": "液压水泥花砖：20厘米方砖网格中嵌色水泥纹样，无釉矿物哑光，压印几何花卉团心。",
+    "source": "hermes-explore",
+    "image": "styles/1037-baldosa-hidraulica.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h995",
+    "slug": "trace-monotype",
+    "name_en": "Trace Monotype",
+    "name_zh": "背描单版",
+    "description_en": "Trace monotype (back-drawing): paper over an inked plate, stylus pressure transfers fuzzy lines and grainy darks onto a pale plate-tone ground, one unique impression.",
+    "description_zh": "背描单版：纸覆于着墨版上从背面描压，糊线与颗粒暗部转印到浅版调底，一版一印。",
+    "source": "hermes-explore",
+    "image": "styles/1038-trace-monotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
