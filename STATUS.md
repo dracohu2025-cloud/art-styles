@@ -2866,6 +2866,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1063, PNG count 1063. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 205 (exactly 5, h1021–h1025)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                  |
+|-------|----------------------|-----------------|----------------------------------------|
+| h1021 | Gekiga               | 剧画            | styles/1064-gekiga.png                 |
+| h1022 | Polish Poster School | 波兰海报学派    | styles/1065-polish-poster-school.png   |
+| h1023 | Papiers Découpés     | 剪纸拼色        | styles/1066-papiers-decoupes.png       |
+| h1024 | Cross Processing     | 交叉冲洗        | styles/1067-cross-processing.png       |
+| h1025 | Jugendstil           | 青年风格        | styles/1068-jugendstil.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1068, PNG count 1068. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

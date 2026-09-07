@@ -13817,5 +13817,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1021",
+    "slug": "gekiga",
+    "name_en": "Gekiga",
+    "name_zh": "剧画",
+    "description_en": "Dramatic 1960s gekiga ink: pooled blacks, G-pen hatch, coarse screentone, cinematic low-angle staging.",
+    "description_zh": "1960年代剧画墨法：积墨、G笔排线、粗网纹、电影式低机位。",
+    "source": "hermes-explore",
+    "image": "styles/1064-gekiga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1022",
+    "slug": "polish-poster-school",
+    "name_en": "Polish Poster School",
+    "name_zh": "波兰海报学派",
+    "description_en": "Warsaw poster gouache and litho crayon: torn-paper edges, acidic ochre-crimson-slate, condensed painterly metaphor.",
+    "description_zh": "华沙海报水粉与石版蜡笔：撕纸边缘、赭红石板酸色、压缩的绘画隐喻。",
+    "source": "hermes-explore",
+    "image": "styles/1065-polish-poster-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1023",
+    "slug": "papiers-decoupes",
+    "name_en": "Papiers Découpés",
+    "name_zh": "剪纸拼色",
+    "description_en": "Cut gouache-painted paper: scissor-cut silhouettes, unmodulated color fields, overlapping flat collage with no outline.",
+    "description_zh": "水粉着色剪纸：剪刀剪影、无调子色块、无轮廓的层叠平面拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/1066-papiers-decoupes.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1024",
+    "slug": "cross-processing",
+    "name_en": "Cross Processing",
+    "name_zh": "交叉冲洗",
+    "description_en": "E-6 chemistry on C-41 stock: cyan-green shadows, magenta-orange highlights, high contrast and chemical grain.",
+    "description_zh": "E-6药液冲C-41底片：青绿色阴影、品红橙高光、高反差与药膜颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1067-cross-processing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1025",
+    "slug": "jugendstil",
+    "name_en": "Jugendstil",
+    "name_zh": "青年风格",
+    "description_en": "German Jugendstil line: whiplash flora, flat gold-sage-burgundy panels, woodcut contour woven into ornament.",
+    "description_zh": "德国青年风格线描：鞭梢植物纹、金与灰绿酒红平涂、木刻轮廓织入装饰。",
+    "source": "hermes-explore",
+    "image": "styles/1068-jugendstil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
