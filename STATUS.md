@@ -3146,6 +3146,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1163, PNG count 1163. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 225 (exactly 5, h1121–h1125)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh        | image                                  |
+|-------|-----------------------|----------------|----------------------------------------|
+| h1121 | Ichimoji-bokashi      | 一文字晕摺     | styles/1164-ichimoji-bokashi.png       |
+| h1122 | Algraphy              | 铝版平印       | styles/1165-algraphy.png               |
+| h1123 | Kinemacolor           | kinemacolor加色 | styles/1166-kinemacolor.png           |
+| h1124 | White-ground Aquatint | 白地飞尘       | styles/1167-white-ground-aquatint.png  |
+| h1125 | Offset Lithography    | 胶印           | styles/1168-offset-lithography.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1168, PNG count 1168. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

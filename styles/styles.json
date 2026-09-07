@@ -15117,5 +15117,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1121",
+    "slug": "ichimoji-bokashi",
+    "name_en": "Ichimoji-bokashi",
+    "name_zh": "一文字晕摺",
+    "description_en": "Ukiyo-e one-line bokashi: a straight wiped sky band fading from solid indigo into paper.",
+    "description_zh": "浮世绘一文字ぼかし：直线拭染的天空色带，由实靛蓝晕入纸白。",
+    "source": "hermes-explore",
+    "image": "styles/1164-ichimoji-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1122",
+    "slug": "algraphy",
+    "name_en": "Algraphy",
+    "name_zh": "铝版平印",
+    "description_en": "Planographic print from a grained aluminum plate: cool metal grain, greasy crayon and tusche.",
+    "description_zh": "铝版平版：冷调金属砂目、油性蜡笔与油墨水。",
+    "source": "hermes-explore",
+    "image": "styles/1165-algraphy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1123",
+    "slug": "kinemacolor",
+    "name_en": "Kinemacolor",
+    "name_zh": "kinemacolor加色",
+    "description_en": "Early additive two-color cinema: sequential red-orange and blue-green records with fringe and nitrate grain.",
+    "description_zh": "早期加色双色电影：红橙与蓝绿交替滤光，边缘色溢与硝酸片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1166-kinemacolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1124",
+    "slug": "white-ground-aquatint",
+    "name_en": "White-ground Aquatint",
+    "name_zh": "白地飞尘",
+    "description_en": "Aquatint bitten over a luminous white ground: airy resin-dust grain and reserved paper lights.",
+    "description_zh": "白地飞尘蚀刻：明亮留白地上的树脂粉粒，空气感调子与纸白高光。",
+    "source": "hermes-explore",
+    "image": "styles/1167-white-ground-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1125",
+    "slug": "offset-lithography",
+    "name_en": "Offset Lithography",
+    "name_zh": "胶印",
+    "description_en": "Commercial four-color offset: CMYK halftone rosettes, rubber-blanket transfer, slight dot gain.",
+    "description_zh": "四色胶印：CMYK网点花、橡皮布转印、轻微网点扩大。",
+    "source": "hermes-explore",
+    "image": "styles/1168-offset-lithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
