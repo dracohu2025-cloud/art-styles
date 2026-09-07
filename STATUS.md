@@ -3076,6 +3076,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1138, PNG count 1138. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 220 (exactly 5, h1096–h1100)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h1096 | Relief Etching     | 凸蚀版画        | styles/1139-relief-etching.png        |
+| h1097 | Gelatin Dry Plate  | 明胶干版        | styles/1140-gelatin-dry-plate.png     |
+| h1098 | Bokusho            | 墨象            | styles/1141-bokusho.png               |
+| h1099 | Sepia Toning       | 硫调棕印        | styles/1142-sepia-toning.png          |
+| h1100 | Ma-Xia School      | 马夏画派        | styles/1143-ma-xia-school.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1143, PNG count 1143. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

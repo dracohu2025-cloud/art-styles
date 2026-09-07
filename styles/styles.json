@@ -14792,5 +14792,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1096",
+    "slug": "relief-etching",
+    "name_en": "Relief Etching",
+    "name_zh": "凸蚀版画",
+    "description_en": "Relief etching: acid-resist painted on copper so the design stands in relief; warm lamp-black ink, bitten edges, light plate tone on cream paper.",
+    "description_zh": "凸蚀版画：铜版涂抗蚀绘稿使图形凸起着墨，暖黑墨、咬蚀毛边与浅版调印在米色纸上。",
+    "source": "hermes-explore",
+    "image": "styles/1139-relief-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1097",
+    "slug": "gelatin-dry-plate",
+    "name_en": "Gelatin Dry Plate",
+    "name_zh": "明胶干版",
+    "description_en": "Gelatin dry plate: glass-plate silver photograph with high acutance, highlight halation, long tonal scale, and slight emulsion specks.",
+    "description_zh": "明胶干版：玻璃干版银盐影像，锐利解像、高光晕光、长灰阶与轻微乳剂瑕点。",
+    "source": "hermes-explore",
+    "image": "styles/1140-gelatin-dry-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1098",
+    "slug": "bokusho",
+    "name_en": "Bokusho",
+    "name_zh": "墨象",
+    "description_en": "Bokusho: postwar abstract ink action; explosive sumi splashes, flying white, wet blooms, and calligraphic black gestures on raw paper.",
+    "description_zh": "墨象：战后抽象水墨行动，爆墨飞白、湿渗与书法性黑笔势落在生纸上。",
+    "source": "hermes-explore",
+    "image": "styles/1141-bokusho.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1099",
+    "slug": "sepia-toning",
+    "name_en": "Sepia Toning",
+    "name_zh": "硫调棕印",
+    "description_en": "Sepia toning: sulfur-converted gelatin silver print with chocolate shadows, honey midtones, cream highlights, and continuous-tone grain.",
+    "description_zh": "硫调棕印：硫调明胶银盐照片，巧克力暗部、蜜色中间调、奶油高光与连续调颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1142-sepia-toning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1100",
+    "slug": "ma-xia-school",
+    "name_en": "Ma-Xia School",
+    "name_zh": "马夏画派",
+    "description_en": "Ma-Xia School: Southern Song one-corner composition, axe-cut cun rock, spare pine, and a large mist void in ink and light color on silk.",
+    "description_zh": "马夏画派：南宋边角构图、斧劈皴石、疏松与大片留白烟岚，水墨淡彩绢本。",
+    "source": "hermes-explore",
+    "image": "styles/1143-ma-xia-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
