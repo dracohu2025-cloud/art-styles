@@ -3300,6 +3300,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1218, PNG count 1218. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 236 (exactly 5, h1176–h1180)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                           |
+|-------|---------------|------------|---------------------------------|
+| h1176 | Leadpoint     | 铅尖素描   | styles/1219-leadpoint.png       |
+| h1177 | Vine Charcoal | 藤炭       | styles/1220-vine-charcoal.png   |
+| h1178 | Crowquill     | 鸦羽笔     | styles/1221-crowquill.png       |
+| h1179 | Planishing    | 锤光       | styles/1222-planishing.png      |
+| h1180 | Baren Print   | 马连拓印   | styles/1223-baren-print.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1223, PNG count 1223. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

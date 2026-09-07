@@ -15832,5 +15832,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1176",
+    "slug": "leadpoint",
+    "name_en": "Leadpoint",
+    "name_zh": "铅尖素描",
+    "description_en": "Pale silvery lead-stylus metalpoint on a toothy gessoed ground; no deep blacks.",
+    "description_zh": "浅银铅尖在有齿粉底上走线，无浓黑。",
+    "source": "hermes-explore",
+    "image": "styles/1219-leadpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1177",
+    "slug": "vine-charcoal",
+    "name_en": "Vine Charcoal",
+    "name_zh": "藤炭",
+    "description_en": "Velvety vine-stick charcoal on toned paper, smudge masses and kneaded-eraser lifts.",
+    "description_zh": "色纸上的藤条木炭，粉雾块面与可塑橡皮提亮。",
+    "source": "hermes-explore",
+    "image": "styles/1220-vine-charcoal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1178",
+    "slug": "crowquill",
+    "name_en": "Crowquill",
+    "name_zh": "鸦羽笔",
+    "description_en": "Ultra-fine crowquill nib ink: hairline-to-swell strokes, wiry hatch, tiny spatters.",
+    "description_zh": "极细鸦羽钢尖墨线，由发丝到顿挫，交叉排线与细溅点。",
+    "source": "hermes-explore",
+    "image": "styles/1221-crowquill.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1179",
+    "slug": "planishing",
+    "name_en": "Planishing",
+    "name_zh": "锤光",
+    "description_en": "Silversmith planishing: overlapping hammer facets and specular bosses define form.",
+    "description_zh": "金银器锤光：重叠锤面与高光凸包塑形。",
+    "source": "hermes-explore",
+    "image": "styles/1222-planishing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1180",
+    "slug": "baren-print",
+    "name_en": "Baren Print",
+    "name_zh": "马连拓印",
+    "description_en": "Hand-printed washi with visible circular baren burnish, uneven pigment, kento shift.",
+    "description_zh": "和纸上手拓，可见马连圆擦、颜料不均与見当微偏。",
+    "source": "hermes-explore",
+    "image": "styles/1223-baren-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
