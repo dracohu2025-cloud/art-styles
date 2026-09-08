@@ -3916,6 +3916,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1438, PNG count 1438. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 280 (exactly 5, h1396–h1400)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                               |
+|-------|--------------------|---------------|-------------------------------------|
+| h1396 | Impasto            | 厚涂          | styles/1439-impasto.png             |
+| h1397 | Carborundum Print  | 碳化硅版画    | styles/1440-carborundum-print.png   |
+| h1398 | Vetro a Reticello  | 网格玻璃      | styles/1441-vetro-a-reticello.png   |
+| h1399 | Mola Appliqué      | 莫拉贴布      | styles/1442-mola-applique.png       |
+| h1400 | Mozarabic          | 莫扎拉布风格  | styles/1443-mozarabic.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1443, PNG count 1443. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

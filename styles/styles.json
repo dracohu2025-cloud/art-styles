@@ -18692,5 +18692,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1396",
+    "slug": "impasto",
+    "name_en": "Impasto",
+    "name_zh": "厚涂",
+    "description_en": "Impasto: loaded-brush and knife ridges of oil, sculptural paint skin and raking-light peaks; not glaze, wash, or flat digital rendering.",
+    "description_zh": "厚涂：饱蘸笔与画刀堆起油彩脊、雕塑感色皮与侧光高光，非罩染、水色或平整数码渲染。",
+    "source": "hermes-explore",
+    "image": "styles/1439-impasto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1397",
+    "slug": "carborundum-print",
+    "name_en": "Carborundum Print",
+    "name_zh": "碳化硅版画",
+    "description_en": "Carborundum print: silicon-carbide grit bonded to the plate, velvety crushed blacks and mineral tooth, embossed platemark; not mezzotint rocker or aquatint resin.",
+    "description_zh": "碳化硅版画：碳化硅砂粒粘于版面、丝绒压黑与矿物齿感、压印版痕，非美柔汀摇刀或飞尘树脂。",
+    "source": "hermes-explore",
+    "image": "styles/1440-carborundum-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1398",
+    "slug": "vetro-a-reticello",
+    "name_en": "Vetro a Reticello",
+    "name_zh": "网格玻璃",
+    "description_en": "Vetro a reticello: Murano filigree of lattimo threads in cristallo with air bubbles trapped at every lattice crossing; not millefiori, stained glass, or cased overlay.",
+    "description_zh": "网格玻璃：穆拉诺白线纤丝嵌于水晶玻璃、交叉处封入气泡网格，非千花、彩绘玻璃或罩层套色。",
+    "source": "hermes-explore",
+    "image": "styles/1441-vetro-a-reticello.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1399",
+    "slug": "mola-applique",
+    "name_en": "Mola Appliqué",
+    "name_zh": "莫拉贴布",
+    "description_en": "Mola appliqué: Guna reverse-cut stacked cotton, nested geometric channels and high-chroma under-layers; not batik wax, surface embroidery, or patchwork blocks.",
+    "description_zh": "莫拉贴布：库纳反向剪层棉布、嵌套几何槽道与高饱和底色层，非蜡染、表面刺绣或拼布方块。",
+    "source": "hermes-explore",
+    "image": "styles/1442-mola-applique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1400",
+    "slug": "mozarabic",
+    "name_en": "Mozarabic",
+    "name_zh": "莫扎拉布风格",
+    "description_en": "Mozarabic: early Iberian manuscript painting, flat unmodeled fields, heavy contour and horseshoe-arch framing; not International Gothic, Carolingian, or Islamic miniature realism.",
+    "description_zh": "莫扎拉布风格：早期伊比利亚写本绘画、平涂无晕、粗轮廓与马蹄拱框，非国际哥特、加洛林或伊斯兰细密写实。",
+    "source": "hermes-explore",
+    "image": "styles/1443-mozarabic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
