@@ -17197,5 +17197,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1281",
+    "slug": "psaligraphy",
+    "name_en": "Psaligraphy",
+    "name_zh": "剪影纸艺",
+    "description_en": "Psaligraphy: scissor-cut silhouette paper, stacked black sheets, interior bridges, high-contrast ivory ground.",
+    "description_zh": "剪影纸艺：剪刀镂刻剪影，层叠黑纸，内部连接筋，高对比象牙底。",
+    "source": "hermes-explore",
+    "image": "styles/1324-psaligraphy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1282",
+    "slug": "tuchlein",
+    "name_en": "Tüchlein",
+    "name_zh": "胶彩细布",
+    "description_en": "Tüchlein: glue-size distemper on unprimed fine linen, matte pigment in the weave, no oil varnish.",
+    "description_zh": "胶彩细布：胶液颜料渗入未打底细麻布，亚光织纹，无油性光油。",
+    "source": "hermes-explore",
+    "image": "styles/1325-tuchlein.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1283",
+    "slug": "opus-mallei",
+    "name_en": "Opus Mallei",
+    "name_zh": "锤点刻版",
+    "description_en": "Opus mallei (dotted manner): punched-dot metalcut, star punches, white-line ornament, black ink on cream laid paper.",
+    "description_zh": "锤点刻版：锤打点刻金属版，星形冲孔，白线纹饰，奶油色罗纹纸黑墨。",
+    "source": "hermes-explore",
+    "image": "styles/1326-opus-mallei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1284",
+    "slug": "baxter-print",
+    "name_en": "Baxter Print",
+    "name_zh": "巴克斯特套色印",
+    "description_en": "Baxter print: 19th-c oil-color process, steel key-plate plus aquatint color blocks and copal varnish sheen.",
+    "description_zh": "巴克斯特套色印：十九世纪油彩套印，钢版主线加飞尘色版，柯巴光油。",
+    "source": "hermes-explore",
+    "image": "styles/1327-baxter-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1285",
+    "slug": "stereochromy",
+    "name_en": "Stereochromy",
+    "name_zh": "水玻璃壁画",
+    "description_en": "Stereochromy: potassium-silicate water-glass mural, mineral oxides locked in a matte silica film on plaster.",
+    "description_zh": "水玻璃壁画：硅酸钾固定矿物颜料，亚光硅膜锁色于灰泥墙面。",
+    "source": "hermes-explore",
+    "image": "styles/1328-stereochromy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

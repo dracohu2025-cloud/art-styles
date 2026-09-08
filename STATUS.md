@@ -3594,6 +3594,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1323, PNG count 1323. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 257 (exactly 5, h1281–h1285)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                           |
+|-------|----------------|-------------------|---------------------------------|
+| h1281 | Psaligraphy    | 剪影纸艺          | styles/1324-psaligraphy.png     |
+| h1282 | Tüchlein       | 胶彩细布          | styles/1325-tuchlein.png        |
+| h1283 | Opus Mallei    | 锤点刻版          | styles/1326-opus-mallei.png     |
+| h1284 | Baxter Print   | 巴克斯特套色印    | styles/1327-baxter-print.png    |
+| h1285 | Stereochromy   | 水玻璃壁画        | styles/1328-stereochromy.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1328, PNG count 1328. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
