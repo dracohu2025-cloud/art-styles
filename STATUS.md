@@ -3902,6 +3902,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1433, PNG count 1433. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 279 (exactly 5, h1391–h1395)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                | name_zh     | image                                   |
+|-------|------------------------|-------------|-----------------------------------------|
+| h1391 | Mizu-e                 | 水绘        | styles/1434-mizu-e.png                  |
+| h1392 | Carolingian Minuscule  | 加洛林小写  | styles/1435-carolingian-minuscule.png   |
+| h1393 | West Slope             | 西坡陶绘    | styles/1436-west-slope.png              |
+| h1394 | Filet Lace             | 方网蕾丝    | styles/1437-filet-lace.png              |
+| h1395 | Flamboyant Gothic      | 火焰哥特    | styles/1438-flamboyant-gothic.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1438, PNG count 1438. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

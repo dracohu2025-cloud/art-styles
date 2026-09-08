@@ -18627,5 +18627,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1391",
+    "slug": "mizu-e",
+    "name_en": "Mizu-e",
+    "name_zh": "水绘",
+    "description_en": "Mizu-e: pale early ukiyo-e water-picture, diluted vegetable dyes, whisper-thin or absent keyblock, washy tide-lines on cream washi, not nishiki-e.",
+    "description_zh": "水绘：早期浮世绘淡彩水絵、薄植物染料、几乎无墨线主版、和纸上的水渍潮线、非锦绘。",
+    "source": "hermes-explore",
+    "image": "styles/1434-mizu-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1392",
+    "slug": "carolingian-minuscule",
+    "name_en": "Carolingian Minuscule",
+    "name_zh": "加洛林小写",
+    "description_en": "Carolingian Minuscule: rounded even book-hand, consistent x-height, clubbed ascenders, rustic capitals, iron-gall on ruled vellum, not blackletter or uncial.",
+    "description_zh": "加洛林小写：圆润均匀书体、稳定x高、棒状升部、罗马 Rustic 标题、罫线羊皮纸上的铁胆墨、非哥特黑体或安色尔。",
+    "source": "hermes-explore",
+    "image": "styles/1435-carolingian-minuscule.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1393",
+    "slug": "west-slope",
+    "name_en": "West Slope",
+    "name_zh": "西坡陶绘",
+    "description_en": "West Slope: Hellenistic black-gloss ware with added buff and cream clay-slip wreaths, incised stems, dotted garlands; not red-figure, not black-figure.",
+    "description_zh": "西坡陶绘：希腊化黑釉陶、浅黄化妆土花环、刻划枝茎、点状花串、非红绘或黑绘。",
+    "source": "hermes-explore",
+    "image": "styles/1436-west-slope.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1394",
+    "slug": "filet-lace",
+    "name_en": "Filet Lace",
+    "name_zh": "方网蕾丝",
+    "description_en": "Filet lace: square knotted-net ground with cloth-stitch and linen-stitch darning, geometric borders, open mesh, not crochet or punto in aria.",
+    "description_zh": "方网蕾丝：方格结网地、布纹针与亚麻针填绣、几何边饰、镂空网眼、非钩针或空中针绣。",
+    "source": "hermes-explore",
+    "image": "styles/1437-filet-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1395",
+    "slug": "flamboyant-gothic",
+    "name_en": "Flamboyant Gothic",
+    "name_zh": "火焰哥特",
+    "description_en": "Flamboyant Gothic: late French Gothic flame tracery, ogee mouchettes and soufflets, crocketed gables, stone lace; not International Gothic, not fashion.",
+    "description_zh": "火焰哥特：晚期法国哥特火焰窗花、双曲葱形拱与镰刀纹、卷叶山墙、石造透雕、非国际哥特或时装。",
+    "source": "hermes-explore",
+    "image": "styles/1438-flamboyant-gothic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
