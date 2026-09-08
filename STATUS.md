@@ -3342,6 +3342,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1233, PNG count 1233. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 239 (exactly 5, h1191–h1195)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                 |
+|-------|--------------------|------------|---------------------------------------|
+| h1191 | Monoprint          | 单次版画   | styles/1234-monoprint.png             |
+| h1192 | Selenium Toning    | 硒调色     | styles/1235-selenium-toning.png       |
+| h1193 | Horse-leech Line   | 蚂蝗描     | styles/1236-horse-leech-line.png      |
+| h1194 | Soufflage          | 吹绘       | styles/1237-soufflage.png             |
+| h1195 | Reed Pen           | 芦管笔     | styles/1238-reed-pen.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1238, PNG count 1238. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

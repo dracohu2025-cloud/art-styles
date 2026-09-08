@@ -16027,5 +16027,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1191",
+    "slug": "monoprint",
+    "name_en": "Monoprint",
+    "name_zh": "单次版画",
+    "description_en": "Unique plate inking transferred once: brayer films, ghost kisses, patchy color on print paper.",
+    "description_zh": "一次性上墨转印：滚筒墨膜、残版叠影、纸上斑驳色彩。",
+    "source": "hermes-explore",
+    "image": "styles/1234-monoprint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1192",
+    "slug": "selenium-toning",
+    "name_en": "Selenium Toning",
+    "name_zh": "硒调色",
+    "description_en": "Silver gelatin fiber print shifted by selenium: eggplant-brown shadows, metallic D-max, cool highlights.",
+    "description_zh": "硒调明胶银盐：茄棕阴影、金属感最大密度、冷调高光。",
+    "source": "hermes-explore",
+    "image": "styles/1235-selenium-toning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1193",
+    "slug": "horse-leech-line",
+    "name_en": "Horse-leech Line",
+    "name_zh": "蚂蝗描",
+    "description_en": "Chinese figure line that swells and tapers like a leech body; elastic thick-thin ink on paper.",
+    "description_zh": "人物线描如蚂蝗身形粗细起伏，弹性提按墨线。",
+    "source": "hermes-explore",
+    "image": "styles/1236-horse-leech-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1194",
+    "slug": "soufflage",
+    "name_en": "Soufflage",
+    "name_zh": "吹绘",
+    "description_en": "Surrealist blow painting: air-driven pigment rivulets, dendritic veins, splatter networks.",
+    "description_zh": "超现实吹绘：气流推开颜料成枝状脉络与喷溅网。",
+    "source": "hermes-explore",
+    "image": "styles/1237-soufflage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1195",
+    "slug": "reed-pen",
+    "name_en": "Reed Pen",
+    "name_zh": "芦管笔",
+    "description_en": "Split reed nib drawing: scratchy calligraphic tracks, dry skips, warm ink on cream paper.",
+    "description_zh": "剖开芦管笔尖：刮擦书法线、枯笔跳白、暖墨乳色纸。",
+    "source": "hermes-explore",
+    "image": "styles/1238-reed-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
