@@ -3944,6 +3944,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1448, PNG count 1448. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 282 (exactly 5, h1406–h1410)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                            |
+|-------|-----------------|-------------|----------------------------------|
+| h1406 | Sachplakat      | 实物招贴    | styles/1449-sachplakat.png       |
+| h1407 | Asemic Writing  | 无义书写    | styles/1450-asemic-writing.png   |
+| h1408 | Spin Painting   | 旋转滴画    | styles/1451-spin-painting.png    |
+| h1409 | Rapidograph     | 针管笔      | styles/1452-rapidograph.png      |
+| h1410 | Arte Povera     | 贫穷艺术    | styles/1453-arte-povera.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1453, PNG count 1453. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

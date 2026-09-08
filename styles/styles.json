@@ -18822,5 +18822,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1406",
+    "slug": "sachplakat",
+    "name_en": "Sachplakat",
+    "name_zh": "实物招贴",
+    "description_en": "Sachplakat: German object-poster reduction, unmodulated flat color, hard silhouette, cream ground and a few poster shapes; not painterly illustration or photoreal advertising.",
+    "description_zh": "实物招贴：德国实物海报式的极简平涂、硬边剪影、奶油底与少量色块图形，非手绘插画或超写实广告。",
+    "source": "hermes-explore",
+    "image": "styles/1449-sachplakat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1407",
+    "slug": "asemic-writing",
+    "name_en": "Asemic Writing",
+    "name_zh": "无义书写",
+    "description_en": "Asemic writing: invented calligraphy without semantic content, overlapping brush and pen glyphs, blotting on handmade paper; not readable script, graffiti tags, or lettering design.",
+    "description_zh": "无义书写：无语义的发明性书法，笔墨叠写、洇染于手制纸上，非可读文字、涂鸦标签或字体设计。",
+    "source": "hermes-explore",
+    "image": "styles/1450-asemic-writing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1408",
+    "slug": "spin-painting",
+    "name_en": "Spin Painting",
+    "name_zh": "旋转滴画",
+    "description_en": "Spin painting: centrifugal flung paint, radial streaks, concentric rings and rim splatters of wet acrylic; not kaleidoscope symmetry, digital glitch, or still-life pour.",
+    "description_zh": "旋转滴画：离心甩出的颜料、放射条纹、同心环与边缘飞溅的湿丙烯，非万花筒对称、数字故障或静物倾倒。",
+    "source": "hermes-explore",
+    "image": "styles/1451-spin-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1409",
+    "slug": "rapidograph",
+    "name_en": "Rapidograph",
+    "name_zh": "针管笔",
+    "description_en": "Rapidograph: consistent technical-pen line weight, parallel hatch, selective crosshatch and stipple on white board, no wash; not pencil sketch, ink wash, or comic screentone.",
+    "description_zh": "针管笔：等线粗的针管墨线、平行排线、局部交叉排线与点刻于白板，无水墨渲染，非铅笔速写、墨渲或漫画网点。",
+    "source": "hermes-explore",
+    "image": "styles/1452-rapidograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1410",
+    "slug": "arte-povera",
+    "name_en": "Arte Povera",
+    "name_zh": "贫穷艺术",
+    "description_en": "Arte Povera: poor-materials assemblage of burlap, earth, rusted metal, plaster and scrap fabric, tactile and anti-slick; not polished oil painting, marble sculpture, or pop assemblage.",
+    "description_zh": "贫穷艺术：麻布、泥土、锈铁、石膏与碎布的贫材料拼组，触感粗砺、反光滑，非精致油画、大理石雕塑或波普拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/1453-arte-povera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
