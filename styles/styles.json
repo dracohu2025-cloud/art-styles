@@ -17457,5 +17457,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1301",
+    "slug": "guangcai",
+    "name_en": "Guangcai",
+    "name_zh": "广彩",
+    "description_en": "Guangcai: Cantonese export overglaze enamel on porcelain; famille-rose pinks, iron-red, turquoise, gilt outlines, dense floral-scroll borders on white glaze.",
+    "description_zh": "广彩：广州外销釉上珐琅，粉红铁红青绿描金、密花卷草边饰与白釉地。",
+    "source": "hermes-explore",
+    "image": "styles/1344-guangcai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1302",
+    "slug": "canivet",
+    "name_en": "Canivet",
+    "name_zh": "镂空圣纸",
+    "description_en": "Canivet: knife-cut paper lace; hair-thin baroque scrollwork, punctured dots, uncut silhouette held by tiny bridges on parchment.",
+    "description_zh": "镂空圣纸：刀刻纸蕾丝，细巴洛克卷纹、针刺圆点、留白剪影与细桥相连。",
+    "source": "hermes-explore",
+    "image": "styles/1345-canivet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1303",
+    "slug": "duxochrome",
+    "name_en": "Duxochrome",
+    "name_zh": "杜克索彩",
+    "description_en": "Duxochrome: 1930s assembly color print; yellow-magenta-cyan dyed gelatin reliefs stacked with slight misregister and velvety dye.",
+    "description_zh": "杜克索彩：1930年代叠层彩印，黄品红青染色明胶浮雕微错位与绒面染料。",
+    "source": "hermes-explore",
+    "image": "styles/1346-duxochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1304",
+    "slug": "di-sotto-in-su",
+    "name_en": "Di sotto in sù",
+    "name_zh": "仰角透视",
+    "description_en": "Di sotto in sù: extreme worm's-eye ceiling painting; foreshortened figures from below, receding heads, painted cornice into luminous sky.",
+    "description_zh": "仰角透视：极端仰视天顶画，自下而上缩短人体、头颅退入光空与绘出的檐口。",
+    "source": "hermes-explore",
+    "image": "styles/1347-di-sotto-in-su.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1305",
+    "slug": "contour-hatching",
+    "name_en": "Contour Hatching",
+    "name_zh": "随形排线",
+    "description_en": "Contour hatching: form-following ink strokes wrapping volume; cream paper whites as light, no outline except accumulated hatch.",
+    "description_zh": "随形排线：墨线绕体走形，纸白当光，轮廓仅由排线积成。",
+    "source": "hermes-explore",
+    "image": "styles/1348-contour-hatching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

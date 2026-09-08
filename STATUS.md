@@ -3650,6 +3650,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1343, PNG count 1343. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 261 (exactly 5, h1301–h1305)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                                  |
+|-------|-------------------|-----------------|----------------------------------------|
+| h1301 | Guangcai          | 广彩            | styles/1344-guangcai.png               |
+| h1302 | Canivet           | 镂空圣纸        | styles/1345-canivet.png                |
+| h1303 | Duxochrome        | 杜克索彩        | styles/1346-duxochrome.png             |
+| h1304 | Di sotto in sù    | 仰角透视        | styles/1347-di-sotto-in-su.png         |
+| h1305 | Contour Hatching  | 随形排线        | styles/1348-contour-hatching.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1348, PNG count 1348. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
