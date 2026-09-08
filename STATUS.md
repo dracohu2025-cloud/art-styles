@@ -3930,6 +3930,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1443, PNG count 1443. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 281 (exactly 5, h1401–h1405)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                           |
+|-------|----------------|-----------------|---------------------------------|
+| h1401 | Neoplasticism  | 新造型主义      | styles/1444-neoplasticism.png   |
+| h1402 | Cunfa          | 皴法            | styles/1445-cunfa.png           |
+| h1403 | Lianhuanhua    | 连环画          | styles/1446-lianhuanhua.png     |
+| h1404 | Parabaik       | 帕拉拜克折书    | styles/1447-parabaik.png        |
+| h1405 | Stuckism       | 固守主义        | styles/1448-stuckism.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1448, PNG count 1448. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -18757,5 +18757,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1401",
+    "slug": "neoplasticism",
+    "name_en": "Neoplasticism",
+    "name_zh": "新造型主义",
+    "description_en": "Neoplasticism: De Stijl orthogonal black grid and flat primary red-yellow-blue planes with white; no curves, modeling, or illusionistic space.",
+    "description_zh": "新造型主义：风格派正交黑格与红黄蓝平涂加白，无曲线、无体积、无透视空间。",
+    "source": "hermes-explore",
+    "image": "styles/1444-neoplasticism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1402",
+    "slug": "cunfa",
+    "name_en": "Cunfa",
+    "name_zh": "皴法",
+    "description_en": "Cunfa: classical Chinese texture-stroke method—axe-cut, hemp-fiber, raindrop cun—dry-brush rock bone and layered ink, not gongbi or mogu.",
+    "description_zh": "皴法：中国画山石肌理笔法，斧劈、披麻、雨点皴与枯笔骨法层层积墨，非工笔或没骨。",
+    "source": "hermes-explore",
+    "image": "styles/1445-cunfa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1403",
+    "slug": "lianhuanhua",
+    "name_en": "Lianhuanhua",
+    "name_zh": "连环画",
+    "description_en": "Lianhuanhua: mid-century Chinese sequential-print illustration, crisp ink contour, economical hatch, limited cheap-print color on paper tone; not manga or full-color manhua.",
+    "description_zh": "连环画：二十世纪中叶中国连环图绘，墨线清晰、排线节省、廉价套色与纸色底，非漫画网点或全彩漫。",
+    "source": "hermes-explore",
+    "image": "styles/1446-lianhuanhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1404",
+    "slug": "parabaik",
+    "name_en": "Parabaik",
+    "name_zh": "帕拉拜克折书",
+    "description_en": "Parabaik: Burmese folding-manuscript painting in mineral pigment and gold leaf, flat registers, black contour, courtly floral borders; not thangka or Persian miniature.",
+    "description_zh": "帕拉拜克折书：缅甸折装写本绘画，矿物颜料与金箔、分层平涂、墨线与宫廷花边，非唐卡或波斯细密。",
+    "source": "hermes-explore",
+    "image": "styles/1447-parabaik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1405",
+    "slug": "stuckism",
+    "name_en": "Stuckism",
+    "name_zh": "固守主义",
+    "description_en": "Stuckism: anti-conceptual handmade figuration, visible brush, slightly raw drawing, saturated earthy color and direct portrait energy; not photorealism or pop slickness.",
+    "description_zh": "固守主义：反观念的手绘具象，笔触可见、造型略生、饱和土色与直率肖像能量，非超写实或波普光滑。",
+    "source": "hermes-explore",
+    "image": "styles/1448-stuckism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
