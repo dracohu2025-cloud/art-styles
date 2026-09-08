@@ -3622,6 +3622,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1333, PNG count 1333. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 259 (exactly 5, h1291–h1295)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh               | image                                 |
+|-------|--------------------|-----------------------|---------------------------------------|
+| h1291 | Provincetown Print | 普罗温斯敦白线套色    | styles/1334-provincetown-print.png    |
+| h1292 | Bistre Wash        | 褐墨水洗              | styles/1335-bistre-wash.png           |
+| h1293 | Tsugigami          | 继纸                  | styles/1336-tsugigami.png             |
+| h1294 | Dye Imbibition     | 染料吸入印            | styles/1337-dye-imbibition.png        |
+| h1295 | Painted Enamel     | 画珐琅                | styles/1338-painted-enamel.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1338, PNG count 1338. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

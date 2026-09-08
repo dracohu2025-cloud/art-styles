@@ -17327,5 +17327,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1291",
+    "slug": "provincetown-print",
+    "name_en": "Provincetown Print",
+    "name_zh": "普罗温斯敦白线套色",
+    "description_en": "Provincetown Print: white-line color woodcut from one block; incised white gouge channels separate hand-inked flat color fields.",
+    "description_zh": "普罗温斯敦白线套色：单块白线套色木刻，刻出的白线沟槽分隔手印平涂色块。",
+    "source": "hermes-explore",
+    "image": "styles/1334-provincetown-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1292",
+    "slug": "bistre-wash",
+    "name_en": "Bistre Wash",
+    "name_zh": "褐墨水洗",
+    "description_en": "Bistre Wash: soot-brown umber ink on cream laid paper; transparent layered washes, tide lines, paper tooth.",
+    "description_zh": "褐墨水洗：烟炱褐墨于米色布纹纸，层层透明渲染，水渍边与纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/1335-bistre-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1293",
+    "slug": "tsugigami",
+    "name_en": "Tsugigami",
+    "name_zh": "继纸",
+    "description_en": "Tsugigami: image built from dyed washi sheets joined edge-to-edge; visible seams, fiber textures, torn deckle.",
+    "description_zh": "继纸：以色染和纸拼接成像，接缝、纤维纹理与毛边清晰可见。",
+    "source": "hermes-explore",
+    "image": "styles/1336-tsugigami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1294",
+    "slug": "dye-imbibition",
+    "name_en": "Dye Imbibition",
+    "name_zh": "染料吸入印",
+    "description_en": "Dye Imbibition: dye-transfer print from relief matrices; dense velvety dyes, slight CMY misregister, saturated primaries.",
+    "description_zh": "染料吸入印：浮雕模版染料转印，绒密染料、轻微套色错位与高饱和原色。",
+    "source": "hermes-explore",
+    "image": "styles/1337-dye-imbibition.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1295",
+    "slug": "painted-enamel",
+    "name_en": "Painted Enamel",
+    "name_zh": "画珐琅",
+    "description_en": "Painted Enamel: Limoges-style vitreous enamel painting; glassy fused color, black underdrawing, white fondant highlights.",
+    "description_zh": "画珐琅：利摩日式珐琅绘画，玻璃质熔色、黑色底稿与白珐琅高光。",
+    "source": "hermes-explore",
+    "image": "styles/1338-painted-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
