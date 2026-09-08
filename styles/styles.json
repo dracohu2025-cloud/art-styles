@@ -18042,5 +18042,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1346",
+    "slug": "stump-head-line",
+    "name_en": "Stump-head Line",
+    "name_zh": "橛头描",
+    "description_en": "Eighteen-stroke stump-head line: blunt truncated ink strokes that start thick like chopped stumps and stop short, drapery built from stacked stump-ends on xuan paper.",
+    "description_zh": "十八描橛头描：起笔粗顿如斫木桩、收笔骤停的短墨线，衣纹由叠桩式笔触构成。",
+    "source": "hermes-explore",
+    "image": "styles/1389-stump-head-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1347",
+    "slug": "bean-petal-cun",
+    "name_en": "Bean-petal Cun",
+    "name_zh": "豆瓣皴",
+    "description_en": "Bean-petal cun: short plump oval texture strokes like split bean halves, clustered wet-to-dry to facet rock, earth, and folds on landscape paper.",
+    "description_zh": "豆瓣皴：短肥如半瓣豆的椭圆皴点，干湿攒聚以切分山石土坡与衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/1390-bean-petal-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1348",
+    "slug": "chromogenic-print",
+    "name_en": "Chromogenic Print",
+    "name_zh": "彩色相纸",
+    "description_en": "Chromogenic C-type print: analog coupler dyes, mild grain and color crossover, glossy RC-paper sheen, continuous-tone enlarger softness rather than digital bite.",
+    "description_zh": "彩色成色相纸：偶联染料、轻微颗粒与偏色、亮面相纸光泽，放大机连续调而非数码锐利。",
+    "source": "hermes-explore",
+    "image": "styles/1391-chromogenic-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1349",
+    "slug": "strapwork",
+    "name_en": "Strapwork",
+    "name_zh": "带饰纹样",
+    "description_en": "Northern Renaissance strapwork: interlaced flattened leather-like bands, rolled cartouches and grooved straps in gold-grisaille on a dark ornamental field.",
+    "description_zh": "北方文艺复兴带饰纹样：扁平如革带的交缠条带、卷边卡图什与凹槽饰带，金灰彩绘于暗地。",
+    "source": "hermes-explore",
+    "image": "styles/1392-strapwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1350",
+    "slug": "caoshu",
+    "name_en": "Caoshu",
+    "name_zh": "草书",
+    "description_en": "Wild-cursive caoshu as pictorial look: flying-white skips, wet pools and speeding ligatures, figure written in single-breath ink on raw xuan paper.",
+    "description_zh": "草书入画：飞白枯笔、涨墨与连绵萦带，人物如一笔疾书于生宣。",
+    "source": "hermes-explore",
+    "image": "styles/1393-caoshu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

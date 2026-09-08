@@ -3776,6 +3776,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1388, PNG count 1388. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 270 (exactly 5, h1346–h1350)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                |
+|-------|--------------------|-------------|--------------------------------------|
+| h1346 | Stump-head Line    | 橛头描      | styles/1389-stump-head-line.png      |
+| h1347 | Bean-petal Cun     | 豆瓣皴      | styles/1390-bean-petal-cun.png       |
+| h1348 | Chromogenic Print  | 彩色相纸    | styles/1391-chromogenic-print.png    |
+| h1349 | Strapwork          | 带饰纹样    | styles/1392-strapwork.png            |
+| h1350 | Caoshu             | 草书        | styles/1393-caoshu.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1393, PNG count 1393. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
