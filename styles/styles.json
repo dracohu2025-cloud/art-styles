@@ -17002,5 +17002,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1266",
+    "slug": "voxel",
+    "name_en": "Voxel",
+    "name_zh": "体素",
+    "description_en": "Voxel art: figure and scene built from discrete cubic volumes, visible cube edges, palettized block lighting, no smooth polygons.",
+    "description_zh": "体素：人物与场景由立方体块构成，可见方块棱边与调色板块光，无平滑多边形。",
+    "source": "hermes-explore",
+    "image": "styles/1309-voxel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1267",
+    "slug": "marcinelle",
+    "name_en": "Marcinelle",
+    "name_zh": "马尔西内勒",
+    "description_en": "Marcinelle school (école de Marcinelle): elastic Franco-Belgian comic line, rounded forms, springy bounce, flat magazine color.",
+    "description_zh": "马尔西内勒派：弹性法比连环画线描、圆润形体、弹跳动势、杂志平涂色。",
+    "source": "hermes-explore",
+    "image": "styles/1310-marcinelle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1268",
+    "slug": "cirage",
+    "name_en": "Cirage",
+    "name_zh": "蜡黄单色",
+    "description_en": "Cirage: monochrome painting in yellow-brown wax tones only — cream, amber, boot-polish gold — no other hues.",
+    "description_zh": "蜡黄单色：仅用奶油、琥珀、鞋油金等黄棕色调的单色绘画，不含其他色相。",
+    "source": "hermes-explore",
+    "image": "styles/1311-cirage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1269",
+    "slug": "samite",
+    "name_en": "Samite",
+    "name_zh": "斜纹纬锦",
+    "description_en": "Samite: Byzantine weft-faced compound twill silk, gold supplementary wefts, roundel medallions, visible warp and weft.",
+    "description_zh": "斜纹纬锦：拜占庭纬面复合斜纹丝织，金纬、团窠纹样，可见经纬组织。",
+    "source": "hermes-explore",
+    "image": "styles/1312-samite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1270",
+    "slug": "sand-animation",
+    "name_en": "Sand Animation",
+    "name_zh": "沙动画",
+    "description_en": "Sand animation still: poured and finger-swept sand on a lightbox, grainy translucent ridges, underlit glass table.",
+    "description_zh": "沙动画静帧：灯箱玻璃上倾倒与指扫细沙，半透明沙脊，底光透射。",
+    "source": "hermes-explore",
+    "image": "styles/1313-sand-animation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3552,6 +3552,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1308, PNG count 1308. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 254 (exactly 5, h1266–h1270)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1266 | Voxel            | 体素        | styles/1309-voxel.png               |
+| h1267 | Marcinelle       | 马尔西内勒  | styles/1310-marcinelle.png          |
+| h1268 | Cirage           | 蜡黄单色    | styles/1311-cirage.png              |
+| h1269 | Samite           | 斜纹纬锦    | styles/1312-samite.png              |
+| h1270 | Sand Animation   | 沙动画      | styles/1313-sand-animation.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1313, PNG count 1313. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
