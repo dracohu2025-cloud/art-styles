@@ -3538,6 +3538,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1303. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 253 (exactly 5, h1261–h1265)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1261 | Bole Gilding     | 红胶泥贴金  | styles/1304-bole-gilding.png        |
+| h1262 | Ungen            | 繧繝        | styles/1305-ungen.png               |
+| h1263 | Nuihaku          | 绣箔        | styles/1306-nuihaku.png             |
+| h1264 | Engine Turning   | 机械车花    | styles/1307-engine-turning.png      |
+| h1265 | Itome-nori       | 糸目糊      | styles/1308-itome-nori.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1308, PNG count 1308. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

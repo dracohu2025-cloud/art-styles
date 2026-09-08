@@ -16937,5 +16937,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1261",
+    "slug": "bole-gilding",
+    "name_en": "Bole Gilding",
+    "name_zh": "红胶泥贴金",
+    "description_en": "Water gilding over Armenian bole: burnished gold leaf on red-orange clay bole, matte bole in recesses, punched and tooled gold.",
+    "description_zh": "红胶泥贴金：金箔贴于橙红胶泥之上，高光抛亮、凹处露胎、錾点纹饰。",
+    "source": "hermes-explore",
+    "image": "styles/1304-bole-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1262",
+    "slug": "ungen",
+    "name_en": "Ungen",
+    "name_zh": "繧繝",
+    "description_en": "Ungen stepped color banding: discrete nested hue steps from Buddhist painting and yūsoku textiles, no smooth gradient.",
+    "description_zh": "繧繝：佛教绘画与有职纹样的阶梯色带，层层套色而非平滑渐变。",
+    "source": "hermes-explore",
+    "image": "styles/1305-ungen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1263",
+    "slug": "nuihaku",
+    "name_en": "Nuihaku",
+    "name_zh": "绣箔",
+    "description_en": "Nuihaku Noh-costume craft: raised silk embroidery over gold and silver foil stamping (surihaku) on dyed silk.",
+    "description_zh": "绣箔：能装技法，丝绣叠于金银箔摺上，线迹与箔地并存。",
+    "source": "hermes-explore",
+    "image": "styles/1306-nuihaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1264",
+    "slug": "engine-turning",
+    "name_en": "Engine Turning",
+    "name_zh": "机械车花",
+    "description_en": "Engine turning: rose-engine and straight-line geometric engraving on metal, concentric bright-cut grooves and rosettes.",
+    "description_zh": "机械车花：玫瑰车床与直线车花在金属上刻出同心亮槽与玫瑰纹。",
+    "source": "hermes-explore",
+    "image": "styles/1307-engine-turning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1265",
+    "slug": "itome-nori",
+    "name_en": "Itome-nori",
+    "name_zh": "糸目糊",
+    "description_en": "Itome-nori yūzen paste-resist: piped rice-paste thread lines reserving white outlines between saturated dye fields.",
+    "description_zh": "糸目糊：友禅防染细糊线，白描轮廓隔开饱和色块。",
+    "source": "hermes-explore",
+    "image": "styles/1308-itome-nori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
