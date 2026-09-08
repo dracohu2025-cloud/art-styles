@@ -16157,5 +16157,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1201",
+    "slug": "hard-ground-etching",
+    "name_en": "Hard-ground Etching",
+    "name_zh": "硬地蚀刻",
+    "description_en": "Copperplate intaglio through hard ground: needle-bitten lines, dense hatch, light plate tone on cream rag paper.",
+    "description_zh": "硬地铜版蚀刻：针刻咬线、密排影线、浅版调，印于米色棉纸。",
+    "source": "hermes-explore",
+    "image": "styles/1244-hard-ground-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1202",
+    "slug": "gold-toning",
+    "name_en": "Gold Toning",
+    "name_zh": "金调色",
+    "description_en": "Gold chloride toning of gelatin silver: warm metallic gold-brown midtones, residual cool silver in shadows.",
+    "description_zh": "金氯调色银盐：暖金褐中间调，阴影残留冷银。",
+    "source": "hermes-explore",
+    "image": "styles/1245-gold-toning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1203",
+    "slug": "olive-stone-line",
+    "name_en": "Olive-stone Line",
+    "name_zh": "橄榄描",
+    "description_en": "Classical Chinese figure stroke: short plump tapered ink marks like olive pits, even contour on silk.",
+    "description_zh": "古典人物描法：短肥收尖如橄榄核的墨线，匀净勾勒于绢。",
+    "source": "hermes-explore",
+    "image": "styles/1246-olive-stone-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1204",
+    "slug": "copper-wheel-engraving",
+    "name_en": "Copper-wheel Engraving",
+    "name_zh": "铜轮玻璃雕",
+    "description_en": "Crystal glass cut with a copper wheel: frosted grey intaglio marks, refractive edges, cold glass body.",
+    "description_zh": "铜轮雕刻水晶玻璃：霜白阴刻痕、折光边缘、冷硬玻璃体。",
+    "source": "hermes-explore",
+    "image": "styles/1247-copper-wheel-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1205",
+    "slug": "bromide-print",
+    "name_en": "Bromide Print",
+    "name_zh": "溴素相纸",
+    "description_en": "Classic bromide photographic paper: cool blue-black gelatin silver, smooth glossy Dmax, fine photo grain.",
+    "description_zh": "经典溴素相纸：冷青黑明胶银盐、光滑高密度、细摄影颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1248-bromide-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

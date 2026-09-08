@@ -3370,6 +3370,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1243, PNG count 1243. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 241 (exactly 5, h1201–h1205)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh        | image                                    |
+|-------|-------------------------|----------------|------------------------------------------|
+| h1201 | Hard-ground Etching     | 硬地蚀刻       | styles/1244-hard-ground-etching.png      |
+| h1202 | Gold Toning             | 金调色         | styles/1245-gold-toning.png              |
+| h1203 | Olive-stone Line        | 橄榄描         | styles/1246-olive-stone-line.png         |
+| h1204 | Copper-wheel Engraving  | 铜轮玻璃雕     | styles/1247-copper-wheel-engraving.png   |
+| h1205 | Bromide Print           | 溴素相纸       | styles/1248-bromide-print.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1248, PNG count 1248. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
