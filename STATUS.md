@@ -3818,6 +3818,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1403, PNG count 1403. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 273 (exactly 5, h1361–h1365)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                               |
+|-------|--------------------|-------------|-------------------------------------|
+| h1361 | Vandyke Brown      | 范戴克棕    | styles/1404-vandyke-brown.png       |
+| h1362 | Zorn Palette       | 佐恩调色    | styles/1405-zorn-palette.png        |
+| h1363 | Aerial Perspective | 空气透视    | styles/1406-aerial-perspective.png  |
+| h1364 | Pahari Miniature   | 帕哈里细密  | styles/1407-pahari-miniature.png    |
+| h1365 | Byobu-e            | 屏风绘      | styles/1408-byobu-e.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1408, PNG count 1408. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

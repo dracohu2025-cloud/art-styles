@@ -18237,5 +18237,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1361",
+    "slug": "vandyke-brown",
+    "name_en": "Vandyke Brown",
+    "name_zh": "范戴克棕",
+    "description_en": "Iron-silver Van Dyke brown print: walnut-brown emulsion on cream paper, chemical-bleed edges, no full-color dyes.",
+    "description_zh": "范戴克铁银印相：乳白纸上核桃棕乳剂，药液渗边，无全彩染料。",
+    "source": "hermes-explore",
+    "image": "styles/1404-vandyke-brown.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1362",
+    "slug": "zorn-palette",
+    "name_en": "Zorn Palette",
+    "name_zh": "佐恩调色",
+    "description_en": "Anders Zorn four-color oil lock: ivory black, flake white, yellow ochre, vermilion — no tube blue or green.",
+    "description_zh": "佐恩四色油画限制：象牙黑、铅白、赭黄、朱红，不用管装蓝绿。",
+    "source": "hermes-explore",
+    "image": "styles/1405-zorn-palette.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1363",
+    "slug": "aerial-perspective",
+    "name_en": "Aerial Perspective",
+    "name_zh": "空气透视",
+    "description_en": "Atmospheric perspective: near warmth and edge, far planes cooling into pale haze with lost detail and chroma.",
+    "description_zh": "空气透视：近处偏暖清晰，远景降温溶入淡霾，细节与彩度递减。",
+    "source": "hermes-explore",
+    "image": "styles/1406-aerial-perspective.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1364",
+    "slug": "pahari-miniature",
+    "name_en": "Pahari Miniature",
+    "name_zh": "帕哈里细密",
+    "description_en": "Pahari hill-school miniature: flat mineral color, fine outline, jewel local color, decorative border, no Western linear space.",
+    "description_zh": "帕哈里山地细密画：矿物平涂、细线勾勒、宝石本色、装饰边栏，不用西方线性透视。",
+    "source": "hermes-explore",
+    "image": "styles/1407-pahari-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1365",
+    "slug": "byobu-e",
+    "name_en": "Byobu-e",
+    "name_zh": "屏风绘",
+    "description_en": "Japanese folding-screen painting: gold-leaf ground, mineral pigments, mist bands and panel folds as one gold-screen surface.",
+    "description_zh": "日本屏风绘：金箔地、矿物颜料、霞带与屏缝，整幅作金地屏风。",
+    "source": "hermes-explore",
+    "image": "styles/1408-byobu-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
