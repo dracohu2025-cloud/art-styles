@@ -3706,6 +3706,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1363, PNG count 1363. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 265 (exactly 5, h1321–h1325)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                                |
+|-------|--------------------|-------------------|--------------------------------------|
+| h1321 | Rogan              | 罗干画            | styles/1364-rogan.png                |
+| h1322 | Pique Assiette     | 碎盘镶嵌          | styles/1365-pique-assiette.png       |
+| h1323 | Karaori            | 唐织              | styles/1366-karaori.png              |
+| h1324 | Granulating Wash   | 颗粒沉淀水彩      | styles/1367-granulating-wash.png     |
+| h1325 | Endek              | 恩德克织          | styles/1368-endek.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1368, PNG count 1368. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

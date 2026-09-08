@@ -17717,5 +17717,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1321",
+    "slug": "rogan",
+    "name_en": "Rogan",
+    "name_zh": "罗干画",
+    "description_en": "Kutch Rogan: viscous castor-oil pigment laid as raised glossy stylus threads on cloth.",
+    "description_zh": "库奇罗干画：蓖麻油颜料以针笔铺成布面凸起光泽线纹。",
+    "source": "hermes-explore",
+    "image": "styles/1364-rogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1322",
+    "slug": "pique-assiette",
+    "name_en": "Pique Assiette",
+    "name_zh": "碎盘镶嵌",
+    "description_en": "Memoryware mosaic of broken crockery shards, gilt rims, and transferware set in grout.",
+    "description_zh": "碎盘镶嵌：以残瓷片、金边与印花瓷嵌缝拼成画面。",
+    "source": "hermes-explore",
+    "image": "styles/1365-pique-assiette.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1323",
+    "slug": "karaori",
+    "name_en": "Karaori",
+    "name_zh": "唐织",
+    "description_en": "Noh-costume compound weave: polychrome silk twill with supplementary gold weft floats.",
+    "description_zh": "能装唐织：彩色丝地与金线浮纬密织的华纹锦。",
+    "source": "hermes-explore",
+    "image": "styles/1366-karaori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1324",
+    "slug": "granulating-wash",
+    "name_en": "Granulating Wash",
+    "name_zh": "颗粒沉淀水彩",
+    "description_en": "Watercolor whose heavy pigments flocculate into paper tooth, blooms, and tide lines.",
+    "description_zh": "颗粒沉淀水彩：重质颜料在纸纹中絮凝，显水痕与沉淀。",
+    "source": "hermes-explore",
+    "image": "styles/1367-granulating-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1325",
+    "slug": "endek",
+    "name_en": "Endek",
+    "name_zh": "恩德克织",
+    "description_en": "Balinese weft-ikat: resist-dyed weft yielding feathered geometric diamonds on the loom.",
+    "description_zh": "巴厘恩德克织：纬线先染再织，几何菱纹边缘呈絣状晕化。",
+    "source": "hermes-explore",
+    "image": "styles/1368-endek.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
