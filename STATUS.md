@@ -3734,6 +3734,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1373, PNG count 1373. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 267 (exactly 5, h1331–h1335)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh       | image                           |
+|-------|---------------|---------------|---------------------------------|
+| h1331 | Lincrusta     | 林克拉斯塔    | styles/1374-lincrusta.png       |
+| h1332 | Gesso Grosso  | 粗石膏地      | styles/1375-gesso-grosso.png    |
+| h1333 | Senjafuda     | 千社札        | styles/1376-senjafuda.png       |
+| h1334 | Wolff Carbon  | 沃尔夫碳笔    | styles/1377-wolff-carbon.png    |
+| h1335 | Lishu         | 隶书          | styles/1378-lishu.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1378, PNG count 1378. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

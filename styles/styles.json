@@ -17847,5 +17847,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1331",
+    "slug": "lincrusta",
+    "name_en": "Lincrusta",
+    "name_zh": "林克拉斯塔",
+    "description_en": "Victorian Lincrusta: linseed-oil putty pressed into deep low-relief wall ornament, raking light on leather-like ridges.",
+    "description_zh": "维多利亚林克拉斯塔：亚麻油腻子压成深浅浮雕墙饰，侧光扫过皮革般棱脊。",
+    "source": "hermes-explore",
+    "image": "styles/1374-lincrusta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1332",
+    "slug": "gesso-grosso",
+    "name_en": "Gesso Grosso",
+    "name_zh": "粗石膏地",
+    "description_en": "Italian panel gesso grosso: coarse gypsum and glue ground, visible grit, matte absorbent crust before sottile layers.",
+    "description_zh": "意大利木板粗石膏地：石膏加胶的粗底，颗粒可见，吸水哑光，细石膏之前的底层。",
+    "source": "hermes-explore",
+    "image": "styles/1375-gesso-grosso.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1333",
+    "slug": "senjafuda",
+    "name_en": "Senjafuda",
+    "name_zh": "千社札",
+    "description_en": "Edo senjafuda: votive woodblock name-slip print, bold keyblock, flat mineral color, decorative slip borders, baren texture.",
+    "description_zh": "江户千社札：神社奉纳木版名刺，墨线主版、矿物平涂、装饰边框与马连拓痕。",
+    "source": "hermes-explore",
+    "image": "styles/1376-senjafuda.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1334",
+    "slug": "wolff-carbon",
+    "name_en": "Wolff Carbon",
+    "name_zh": "沃尔夫碳笔",
+    "description_en": "Wolff carbon pencil: dense velvety matte black on cream paper, no graphite shine, hatching and controlled smudge.",
+    "description_zh": "沃尔夫碳笔：奶油纸上浓密丝绒哑光黑，无石墨反光，排线与可控擦晕。",
+    "source": "hermes-explore",
+    "image": "styles/1377-wolff-carbon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1335",
+    "slug": "lishu",
+    "name_en": "Lishu",
+    "name_zh": "隶书",
+    "description_en": "Han clerical script as pictorial technique: silkworm-head and swallow-tail flares, even lishu rhythm in ink on paper.",
+    "description_zh": "隶书入画：蚕头燕尾的波磔，均匀隶势，墨纸上的笔画结构而非楷草。",
+    "source": "hermes-explore",
+    "image": "styles/1378-lishu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
