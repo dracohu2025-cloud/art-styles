@@ -3748,6 +3748,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1378, PNG count 1378. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 268 (exactly 5, h1336–h1340)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                           |
+|-------|---------------|-------------|---------------------------------|
+| h1336 | Tinsel Print  | 金箔贴印    | styles/1379-tinsel-print.png    |
+| h1337 | Zellij        | 泽利吉      | styles/1380-zellij.png          |
+| h1338 | Tazhib        | 描金装饰    | styles/1381-tazhib.png          |
+| h1339 | Heta-uma      | 拙巧        | styles/1382-heta-uma.png        |
+| h1340 | Solargraphy   | 日轨摄影    | styles/1383-solargraphy.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1383, PNG count 1383. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

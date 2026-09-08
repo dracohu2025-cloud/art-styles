@@ -17912,5 +17912,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1336",
+    "slug": "tinsel-print",
+    "name_en": "Tinsel Print",
+    "name_zh": "金箔贴印",
+    "description_en": "Victorian popular prints with glued metallic foil patches on cheap chromolithographs — crumpled gold and silver catching light on paper.",
+    "description_zh": "维多利亚通俗版画：廉价套色石印上粘贴金箔银箔，褶皱金属光斑成为画面主调。",
+    "source": "hermes-explore",
+    "image": "styles/1379-tinsel-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1337",
+    "slug": "zellij",
+    "name_en": "Zellij",
+    "name_zh": "泽利吉",
+    "description_en": "Moroccan zellige mosaic: small cut glazed terracotta tiles in geometric star-and-polygon tessellation, grout lines and pooled enamel glazes.",
+    "description_zh": "摩洛哥泽利吉镶嵌：切割釉陶小砖拼成星形与多边形几何网，缝线与釉池构成画面。",
+    "source": "hermes-explore",
+    "image": "styles/1380-zellij.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1338",
+    "slug": "tazhib",
+    "name_en": "Tazhib",
+    "name_zh": "描金装饰",
+    "description_en": "Persian illumination: burnished gold-leaf arabesques, lapis and vermilion khataei, ruled gold frames and shamsah medallions on sized paper.",
+    "description_zh": "波斯描金装饰：碾金缠枝、群青与朱红花叶、栏界金线与日轮纹章铺满笺面。",
+    "source": "hermes-explore",
+    "image": "styles/1381-tazhib.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1339",
+    "slug": "heta-uma",
+    "name_en": "Heta-uma",
+    "name_zh": "拙巧",
+    "description_en": "Japanese underground drawing that is deliberately clumsy and skilled at once — wobbly contour, uneven fill, raw cheap-print energy.",
+    "description_zh": "日本地下漫画拙巧：故意笨拙又熟练的抖线与不均填色，廉价印刷的生猛感。",
+    "source": "hermes-explore",
+    "image": "styles/1382-heta-uma.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1340",
+    "slug": "solargraphy",
+    "name_en": "Solargraphy",
+    "name_zh": "日轨摄影",
+    "description_en": "Ultra-long pinhole exposures on photographic paper: curved solar arcs, chemical fog, paper stain, reversed analog tones.",
+    "description_zh": "针孔超长曝光日轨摄影：相纸上的弧形日迹、化学雾翳、污渍与反转影调。",
+    "source": "hermes-explore",
+    "image": "styles/1383-solargraphy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
