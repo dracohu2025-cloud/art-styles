@@ -3580,6 +3580,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1318, PNG count 1318. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 256 (exactly 5, h1276–h1280)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                  |
+|-------|--------------------|-----------------|----------------------------------------|
+| h1276 | Pulp Painting      | 纸浆绘画        | styles/1319-pulp-painting.png          |
+| h1277 | Matter Painting    | 物质绘画        | styles/1320-matter-painting.png        |
+| h1278 | Transavanguardia   | 超前卫          | styles/1321-transavanguardia.png       |
+| h1279 | Kaika-e            | 开化绘          | styles/1322-kaika-e.png                |
+| h1280 | Lost-block Woodcut | 失版套色木刻    | styles/1323-lost-block-woodcut.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1323, PNG count 1323. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

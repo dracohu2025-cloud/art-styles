@@ -17132,5 +17132,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1276",
+    "slug": "pulp-painting",
+    "name_en": "Pulp Painting",
+    "name_zh": "纸浆绘画",
+    "description_en": "Pulp painting: beaten colored rag pulp couched in layers, cellulose fiber fields, felt-hair marks, wet-into-wet paper pigment.",
+    "description_zh": "纸浆绘画：春打染色棉麻纸浆分层抄造，纤维色域，毛毡痕，湿接湿纸色。",
+    "source": "hermes-explore",
+    "image": "styles/1319-pulp-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1277",
+    "slug": "matter-painting",
+    "name_en": "Matter Painting",
+    "name_zh": "物质绘画",
+    "description_en": "Matter painting / haute pâte: oil mixed with sand, plaster and grit, troweled crust, gouged relief, earth-and-soot seams.",
+    "description_zh": "物质绘画：油彩掺沙、石膏与砂砾，厚涂结壳，刮凿浮雕，土色与煤烟接缝。",
+    "source": "hermes-explore",
+    "image": "styles/1320-matter-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1278",
+    "slug": "transavanguardia",
+    "name_en": "Transavanguardia",
+    "name_zh": "超前卫",
+    "description_en": "Transavanguardia: early-1980s Italian neo-expressionist oil, mythic color, raw canvas, loose heroic brush, return-to-figuration.",
+    "description_zh": "超前卫：1980年代初意大利新表现主义油画，神话色彩，裸露画布，奔放笔触，回归具象。",
+    "source": "hermes-explore",
+    "image": "styles/1321-transavanguardia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1279",
+    "slug": "kaika-e",
+    "name_en": "Kaika-e",
+    "name_zh": "开化绘",
+    "description_en": "Kaika-e: Meiji woodblock mixing ukiyo-e contour with Western one-point perspective, aniline dyes, bokashi skies, kento shift.",
+    "description_zh": "开化绘：明治木版，浮世绘轮廓混入西洋一点透视，苯胺色料，空摺晕染，見当微偏。",
+    "source": "hermes-explore",
+    "image": "styles/1322-kaika-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1280",
+    "slug": "lost-block-woodcut",
+    "name_en": "Lost-block Woodcut",
+    "name_zh": "失版套色木刻",
+    "description_en": "Lost-block (reduction) woodcut: one block carved in successive stages, nested color shapes, leftover ink rims, baren grain.",
+    "description_zh": "失版套色木刻：同一木版逐次雕减，嵌套色块，前层油墨残边，马连摩擦纹理。",
+    "source": "hermes-explore",
+    "image": "styles/1323-lost-block-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
