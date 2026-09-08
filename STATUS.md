@@ -3874,6 +3874,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1423, PNG count 1423. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 277 (exactly 5, h1381–h1385)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h1381 | Thuluth         | 苏鲁斯体    | styles/1424-thuluth.png            |
+| h1382 | Colorito        | 色彩法      | styles/1425-colorito.png           |
+| h1383 | Disegno         | 素描法      | styles/1426-disegno.png            |
+| h1384 | Orthochromatic  | 正色片      | styles/1427-orthochromatic.png     |
+| h1385 | Zurag           | 祖拉格      | styles/1428-zurag.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1428, PNG count 1428. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

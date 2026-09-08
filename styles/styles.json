@@ -18497,5 +18497,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1381",
+    "slug": "thuluth",
+    "name_en": "Thuluth",
+    "name_zh": "苏鲁斯体",
+    "description_en": "Thuluth: elongated Islamic calligraphy, sweeping bowls, rhythmic ligatures, soot ink and gold on paper.",
+    "description_zh": "苏鲁斯体：拉长阿拉伯书法、开张弧碗、节奏连笔、松烟墨与金箔。",
+    "source": "hermes-explore",
+    "image": "styles/1424-thuluth.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1382",
+    "slug": "colorito",
+    "name_en": "Colorito",
+    "name_zh": "色彩法",
+    "description_en": "Colorito: Venetian color-first oil, layered glazes, melted contour, form built by hue not line.",
+    "description_zh": "色彩法：威尼斯以色造形的油画、层层釉染、融化轮廓、以色而非线塑形。",
+    "source": "hermes-explore",
+    "image": "styles/1425-colorito.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1383",
+    "slug": "disegno",
+    "name_en": "Disegno",
+    "name_zh": "素描法",
+    "description_en": "Disegno: Florentine design-before-color, decisive contour, hatching, pentimenti on paper.",
+    "description_zh": "素描法：佛罗伦萨先设计后赋色、肯定轮廓、排线与修改痕迹。",
+    "source": "hermes-explore",
+    "image": "styles/1426-disegno.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1384",
+    "slug": "orthochromatic",
+    "name_en": "Orthochromatic",
+    "name_zh": "正色片",
+    "description_en": "Orthochromatic: blue-sensitive B&W plate, reds go black, skies bleach pale, silver gelatin grain.",
+    "description_zh": "正色片：感蓝黑白干版、红色变黑、天空发白、银盐颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1427-orthochromatic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1385",
+    "slug": "zurag",
+    "name_en": "Zurag",
+    "name_zh": "祖拉格",
+    "description_en": "Zurag: Mongolian painting, flat mineral color, crisp outline, even light, decorative narrative space.",
+    "description_zh": "祖拉格：蒙古绘画、平涂矿物色、清晰勾线、均匀光、装饰性叙事空间。",
+    "source": "hermes-explore",
+    "image": "styles/1428-zurag.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
