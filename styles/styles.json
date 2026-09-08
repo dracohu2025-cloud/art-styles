@@ -17652,5 +17652,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1316",
+    "slug": "scanography",
+    "name_en": "Scanography",
+    "name_zh": "扫描成像",
+    "description_en": "Flatbed-scanner photograph: contact-plane sharpness, scanner-bar wrap, cool fluorescent smear.",
+    "description_zh": "平板扫描仪成像：接触面极锐、扫描灯条包光、冷荧光拖影。",
+    "source": "hermes-explore",
+    "image": "styles/1359-scanography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1317",
+    "slug": "kimedashi",
+    "name_en": "Kimedashi",
+    "name_zh": "木目出",
+    "description_en": "Ukiyo-e blind embossing that raises paper forms under raking light without extra ink.",
+    "description_zh": "浮世绘无墨压凸：侧光下纸面肌理隆起成形，不另着墨。",
+    "source": "hermes-explore",
+    "image": "styles/1360-kimedashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1318",
+    "slug": "xing-ware",
+    "name_en": "Xing Ware",
+    "name_zh": "邢窑白瓷",
+    "description_en": "Tang Xing kiln porcelain: hard ivory-white body, icy cream glaze, incised pooling.",
+    "description_zh": "唐邢窑白瓷：致密牙白胎、透亮牙釉、刻花积釉。",
+    "source": "hermes-explore",
+    "image": "styles/1361-xing-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1319",
+    "slug": "chamba-rumal",
+    "name_en": "Chamba Rumal",
+    "name_zh": "昌巴鲁马尔绣",
+    "description_en": "Do-rukha silk-floss embroidery that reads as a Pahari miniature on both faces of the cloth.",
+    "description_zh": "昌巴双面丝绣：正反同纹，如帕哈里细密画绣于布面。",
+    "source": "hermes-explore",
+    "image": "styles/1362-chamba-rumal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1320",
+    "slug": "carnival-glass",
+    "name_en": "Carnival Glass",
+    "name_zh": "嘉年华玻璃",
+    "description_en": "Pressed marigold glass with metallic-salt iridescence, hobnail and peacock mold relief.",
+    "description_zh": "压铸万寿菊玻璃：金属盐虹彩、凸点与孔雀模纹浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1363-carnival-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

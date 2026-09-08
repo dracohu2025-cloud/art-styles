@@ -3692,6 +3692,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1358, PNG count 1358. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 264 (exactly 5, h1316–h1320)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                               |
+|-------|-----------------|-----------------|-------------------------------------|
+| h1316 | Scanography     | 扫描成像        | styles/1359-scanography.png         |
+| h1317 | Kimedashi       | 木目出          | styles/1360-kimedashi.png           |
+| h1318 | Xing Ware       | 邢窑白瓷        | styles/1361-xing-ware.png           |
+| h1319 | Chamba Rumal    | 昌巴鲁马尔绣    | styles/1362-chamba-rumal.png        |
+| h1320 | Carnival Glass  | 嘉年华玻璃      | styles/1363-carnival-glass.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1363, PNG count 1363. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
