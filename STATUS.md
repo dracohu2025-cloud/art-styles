@@ -3636,6 +3636,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1338, PNG count 1338. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 260 (exactly 5, h1296–h1300)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh           | image                          |
+|-------|-------------|-------------------|--------------------------------|
+| h1296 | Lavis       | 蚀刻水洗          | styles/1339-lavis.png          |
+| h1297 | Satista     | 萨蒂斯塔印相      | styles/1340-satista.png        |
+| h1298 | Hindeloopen | 辛德洛彭绘        | styles/1341-hindeloopen.png    |
+| h1299 | Zwischgold  | 夹金箔            | styles/1342-zwischgold.png     |
+| h1300 | Pelangi     | 佩兰吉扎染        | styles/1343-pelangi.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1343, PNG count 1343. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

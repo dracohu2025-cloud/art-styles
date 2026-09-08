@@ -17392,5 +17392,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1296",
+    "slug": "lavis",
+    "name_en": "Lavis",
+    "name_zh": "蚀刻水洗",
+    "description_en": "Lavis: acid-wash intaglio; bitten tonal pools on cream laid paper, plate mark, bistre and graphite grain, almost no hard outline.",
+    "description_zh": "蚀刻水洗：酸洗凹版，米色布纹纸上的咬色色潭、版痕、褐墨与石墨颗粒，几乎不见硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1339-lavis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1297",
+    "slug": "satista",
+    "name_en": "Satista",
+    "name_zh": "萨蒂斯塔印相",
+    "description_en": "Satista: platinum-silver photographic paper; warm taupe midtones, velvety dmax, faint metallic sheen, baryta tooth, no modern color.",
+    "description_zh": "萨蒂斯塔印相：铂银相纸，暖褐灰中间调、绒密最大密度、微金属光泽与钡地纸纹，无现代彩色。",
+    "source": "hermes-explore",
+    "image": "styles/1340-satista.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1298",
+    "slug": "hindeloopen",
+    "name_en": "Hindeloopen",
+    "name_zh": "辛德洛彭绘",
+    "description_en": "Hindeloopen: Frisian decorative painting; liner-brush acanthus and tulips in vermilion, leaf-green, ochre and white on deep pine-green ground.",
+    "description_zh": "辛德洛彭绘：弗里斯兰装饰绘画，松绿底上朱红、叶绿、赭黄与铅白的卷叶郁金香细线笔。",
+    "source": "hermes-explore",
+    "image": "styles/1341-hindeloopen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1299",
+    "slug": "zwischgold",
+    "name_en": "Zwischgold",
+    "name_zh": "夹金箔",
+    "description_en": "Zwischgold: laminated silver-gold leaf on bole; cool silver showing through worn gold, punchwork, leaf joins, tarnish bloom.",
+    "description_zh": "夹金箔：银金夹层箔贴于胶赤，磨损处透出冷银、錾点、箔接缝与氧化晕。",
+    "source": "hermes-explore",
+    "image": "styles/1342-zwischgold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1300",
+    "slug": "pelangi",
+    "name_en": "Pelangi",
+    "name_zh": "佩兰吉扎染",
+    "description_en": "Pelangi: Malay rainbow tie-dye; concentric resist rings, magenta-turquoise-saffron-indigo bleeds, cloth puckers, undyed starbursts.",
+    "description_zh": "佩兰吉扎染：马来彩虹扎染，同心防染圈、品红青绿橙黄靛蓝渗化、布褶与未染色星点。",
+    "source": "hermes-explore",
+    "image": "styles/1343-pelangi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
