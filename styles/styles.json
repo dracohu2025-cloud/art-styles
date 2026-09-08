@@ -16872,5 +16872,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1256",
+    "slug": "sentoku",
+    "name_en": "Sentoku",
+    "name_zh": "宣德铜",
+    "description_en": "Japanese sentoku bronze-brass: honey-gold highlights, olive-brown recesses, fine metal grain and dark patina in chased creases.",
+    "description_zh": "宣德铜：蜜金高光、橄榄褐凹处、细密金属颗粒与錾线积锈。",
+    "source": "hermes-explore",
+    "image": "styles/1299-sentoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1257",
+    "slug": "needlepoint",
+    "name_en": "Needlepoint",
+    "name_zh": "针点绣",
+    "description_en": "Tent-stitch canvas needlepoint: dense diagonal wool stitches on a visible grid, discrete yarn pixels, no smooth digital shading.",
+    "description_zh": "针点绣：帆布斜向绒线针、可见网格、纱线像素代替平滑渲染。",
+    "source": "hermes-explore",
+    "image": "styles/1300-needlepoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1258",
+    "slug": "combed-marbling",
+    "name_en": "Combed Marbling",
+    "name_zh": "梳纹大理石",
+    "description_en": "Combed get-gel marbling: ox-gall inks raked into parallel waves and chevrons on sized paper, wet-ink veins not stone texture.",
+    "description_zh": "梳纹大理石：牛胆汁墨水梳成平行波与人字纹，湿墨脉非石纹。",
+    "source": "hermes-explore",
+    "image": "styles/1301-combed-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1259",
+    "slug": "tokoname",
+    "name_en": "Tokoname",
+    "name_zh": "常滑",
+    "description_en": "Unglazed Tokoname iron-red stoneware: raw clay body, natural ash blush, wheel rings, matte-to-satin ceramic skin without enamel.",
+    "description_zh": "常滑：铁红素胎、自然灰釉晕、拉坯弦纹、无彩无釉的陶肤。",
+    "source": "hermes-explore",
+    "image": "styles/1302-tokoname.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1260",
+    "slug": "kagome",
+    "name_en": "Kagome",
+    "name_zh": "笼目",
+    "description_en": "Kagome hexagonal lattice weave: repeating six-pointed star hexes of bamboo or rattan, figure built from openwork strips.",
+    "description_zh": "笼目：六角星竹编格子，人物由镂空编条构成。",
+    "source": "hermes-explore",
+    "image": "styles/1303-kagome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

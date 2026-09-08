@@ -3524,6 +3524,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1298, PNG count 1298. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 252 (exactly 5, h1256–h1260)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1256 | Sentoku          | 宣德铜      | styles/1299-sentoku.png             |
+| h1257 | Needlepoint      | 针点绣      | styles/1300-needlepoint.png         |
+| h1258 | Combed Marbling  | 梳纹大理石  | styles/1301-combed-marbling.png     |
+| h1259 | Tokoname         | 常滑        | styles/1302-tokoname.png            |
+| h1260 | Kagome           | 笼目        | styles/1303-kagome.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1303. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
