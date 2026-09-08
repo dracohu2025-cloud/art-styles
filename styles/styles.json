@@ -16352,5 +16352,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1216",
+    "slug": "scherenchnitte",
+    "name_en": "Scherenchnitte",
+    "name_zh": "剪影剪纸",
+    "description_en": "German Scherenchnitte: scissor-cut black paper silhouette, lace interior voids, cream mount, binary edge craft.",
+    "description_zh": "德国剪影剪纸：黑纸剪刀剪影、镂空花边负形、乳色衬底、二元锋利边缘。",
+    "source": "hermes-explore",
+    "image": "styles/1259-scherenchnitte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1217",
+    "slug": "low-poly-bake",
+    "name_en": "Low-poly Bake",
+    "name_zh": "低模烘焙",
+    "description_en": "Low-poly bake: faceted triangle mesh with baked ambient occlusion and lightmaps, planar folds, vertex-color warmth.",
+    "description_zh": "低模烘焙：三角面低模、烘焙环境光遮蔽与光照贴图、块面衣褶、顶点色暖调。",
+    "source": "hermes-explore",
+    "image": "styles/1260-low-poly-bake.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1218",
+    "slug": "slip-trailing",
+    "name_en": "Slip Trailing",
+    "name_zh": "泥浆挤绘",
+    "description_en": "Slip trailing: raised piped liquid-clay lines and beads on matte earthenware ground, icing-like relief, wet-clay sheen.",
+    "description_zh": "泥浆挤绘：化妆土挤成凸线与珠点、哑光陶土底、糖霜般浮雕、湿泥微光。",
+    "source": "hermes-explore",
+    "image": "styles/1261-slip-trailing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1219",
+    "slug": "taisho-roman",
+    "name_en": "Taisho Roman",
+    "name_zh": "大正浪漫",
+    "description_en": "Taisho Roman: 1910s–20s Japanese romantic modernism, soft lithographic magazine color, nouveau curves, rose-cream-teal grain.",
+    "description_zh": "大正浪漫：一九一〇–二〇年代日本浪漫现代主义、柔和石版杂志色、新艺术曲线、玫奶青绿纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/1262-taisho-roman.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1220",
+    "slug": "tapestry-weave",
+    "name_en": "Tapestry Weave",
+    "name_zh": "织锦织造",
+    "description_en": "Pictorial tapestry weave: visible weft rib, wool hatchure color mixing, stepped yarn edges, interlaced thread modeling.",
+    "description_zh": "织锦织造：可见纬棱、羊毛排线混色、阶梯纱边、交织线建模。",
+    "source": "hermes-explore",
+    "image": "styles/1263-tapestry-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3412,6 +3412,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1258, PNG count 1258. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 244 (exactly 5, h1216–h1220)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|-------------------------------------|
+| h1216 | Scherenchnitte   | 剪影剪纸    | styles/1259-scherenchnitte.png      |
+| h1217 | Low-poly Bake    | 低模烘焙    | styles/1260-low-poly-bake.png       |
+| h1218 | Slip Trailing    | 泥浆挤绘    | styles/1261-slip-trailing.png       |
+| h1219 | Taisho Roman     | 大正浪漫    | styles/1262-taisho-roman.png        |
+| h1220 | Tapestry Weave   | 织锦织造    | styles/1263-tapestry-weave.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1263, PNG count 1263. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
