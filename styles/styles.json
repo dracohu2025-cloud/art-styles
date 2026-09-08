@@ -16742,5 +16742,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1246",
+    "slug": "cel-vinyl",
+    "name_en": "Cel Vinyl",
+    "name_zh": "赛璐珞乙烯",
+    "description_en": "Opaque vinyl acrylic on acetate: hard-edged color holds, reverse ink lines, light-table punch holes, enamel-flat cel pools.",
+    "description_zh": "赛璐珞乙烯颜料：醋酸片上不透明平涂、背面墨线、定位孔与色块边缘积色。",
+    "source": "hermes-explore",
+    "image": "styles/1289-cel-vinyl.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1247",
+    "slug": "lithotine-wash",
+    "name_en": "Lithotine Wash",
+    "name_zh": "石版松节洗",
+    "description_en": "Tusche dissolved in lithotine on limestone: greasy reticulation, solvent-bitten midtones, crayon scumbles, printer's black.",
+    "description_zh": "石版松节洗：油脂墨溶于lithotine、网状开裂、溶剂咬出中间调与蜡笔擦痕。",
+    "source": "hermes-explore",
+    "image": "styles/1290-lithotine-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1248",
+    "slug": "nagaita-chugata",
+    "name_en": "Nagaita Chugata",
+    "name_zh": "长板中形",
+    "description_en": "Long-board stencil dyeing: katagami repeats on cotton stretched over a nagaita, rice-paste resist, indigo medium-scale chugata.",
+    "description_zh": "长板中形：棉布绷于长板、型纸重复、米糊防染与靛蓝中形纹样。",
+    "source": "hermes-explore",
+    "image": "styles/1291-nagaita-chugata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1249",
+    "slug": "kanagai",
+    "name_en": "Kanagai",
+    "name_zh": "金贝",
+    "description_en": "Cut gold and silver foil inlaid flush in urushi: hard-edged metal sheets, engraved foil, lacquer sheen without sprinkled maki-e.",
+    "description_zh": "金贝：切金切银箔嵌于漆面、硬边金属片、刻纹箔与漆光，非洒粉莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/1292-kanagai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1250",
+    "slug": "indienne",
+    "name_en": "Indienne",
+    "name_zh": "印度印花布",
+    "description_en": "18th-century indienne cotton printing: madder, indigo and reserved white, trailing palampore florals, wooden-block registration.",
+    "description_zh": "印度印花布：茜红靛蓝与留白、帕兰波尔缠枝、木模套印错位轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1293-indienne.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

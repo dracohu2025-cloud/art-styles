@@ -3496,6 +3496,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1288, PNG count 1288. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 250 (exactly 5, h1246–h1250)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1246 | Cel Vinyl        | 赛璐珞乙烯  | styles/1289-cel-vinyl.png           |
+| h1247 | Lithotine Wash   | 石版松节洗  | styles/1290-lithotine-wash.png      |
+| h1248 | Nagaita Chugata  | 长板中形    | styles/1291-nagaita-chugata.png     |
+| h1249 | Kanagai          | 金贝        | styles/1292-kanagai.png             |
+| h1250 | Indienne         | 印度印花布  | styles/1293-indienne.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1293, PNG count 1293. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
