@@ -3790,6 +3790,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1393, PNG count 1393. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 271 (exactly 5, h1351–h1355)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh       | image                                  |
+|-------|-----------------------|---------------|----------------------------------------|
+| h1351 | Isotype               | 伊索类型      | styles/1394-isotype.png                |
+| h1352 | Banknote Engraving    | 钞票线雕      | styles/1395-banknote-engraving.png     |
+| h1353 | Waterless Lithography | 无水石版      | styles/1396-waterless-lithography.png  |
+| h1354 | X-ray Style           | 骨骼透视画    | styles/1397-x-ray-style.png            |
+| h1355 | Zhuanshu              | 篆书          | styles/1398-zhuanshu.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1398, PNG count 1398. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

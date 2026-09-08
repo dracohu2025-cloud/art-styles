@@ -18107,5 +18107,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1351",
+    "slug": "isotype",
+    "name_en": "Isotype",
+    "name_zh": "伊索类型",
+    "description_en": "Neurath–Arntz Isotype: even-weight pictogram contours, unshaded industrial flat fills, statistical-chart negative space, no gradient or hatch.",
+    "description_zh": "纽拉特–阿恩茨伊索类型：等粗象形轮廓、无明暗工业平涂、统计图留白，无渐变无排线。",
+    "source": "hermes-explore",
+    "image": "styles/1394-isotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1352",
+    "slug": "banknote-engraving",
+    "name_en": "Banknote Engraving",
+    "name_zh": "钞票线雕",
+    "description_en": "Security-line intaglio: swelling burin parallels, portrait rosettes and micro-hatching in black-green ink on cream rag, no painterly stroke.",
+    "description_zh": "钞票线雕凹版：胀缩雕刀平行线、肖像玫瑰纹与微排线，黑绿墨于米色棉纸，无画笔笔触。",
+    "source": "hermes-explore",
+    "image": "styles/1395-banknote-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1353",
+    "slug": "waterless-lithography",
+    "name_en": "Waterless Lithography",
+    "name_zh": "无水石版",
+    "description_en": "Silicone-plate waterless lithography: non-scumming solids, greasy crayon and tusche with sudden clean edges and slight rejection texture.",
+    "description_zh": "硅胶版无水石版：不起脏实地、油性蜡笔与药墨、骤净边缘与轻微拒墨肌理。",
+    "source": "hermes-explore",
+    "image": "styles/1396-waterless-lithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1354",
+    "slug": "x-ray-style",
+    "name_en": "X-ray Style",
+    "name_zh": "骨骼透视画",
+    "description_en": "Arnhem Land x-ray style: ochre and pipeclay on bark, inner spine and organs as decorative diagrams inside a silhouetted figure, not medical drawing.",
+    "description_zh": "阿纳姆地骨骼透视画：树皮上赭石与白管土，体内脊柱脏器作装饰图式而非医学解剖。",
+    "source": "hermes-explore",
+    "image": "styles/1397-x-ray-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1355",
+    "slug": "zhuanshu",
+    "name_en": "Zhuanshu",
+    "name_zh": "篆书",
+    "description_en": "Seal-script zhuanshu as pictorial look: even rounded bronze-inscription strokes, wrapping ligatures and centered gravity on aged xuan paper.",
+    "description_zh": "篆书入画：匀圆金文笔、萦带盘曲与重心居中，写于旧宣。",
+    "source": "hermes-explore",
+    "image": "styles/1398-zhuanshu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
