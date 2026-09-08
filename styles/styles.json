@@ -17977,5 +17977,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1341",
+    "slug": "horse-tooth-cun",
+    "name_en": "Horse-tooth Cun",
+    "name_zh": "马牙皴",
+    "description_en": "Northern Song horse-tooth cun: short chopping ink strokes like overlapping horse teeth, faceted cliffs built from angular texture hatching on paper.",
+    "description_zh": "北宋马牙皴：短促砍斫如叠马牙的墨痕，棱面山石由角形皴笔堆成。",
+    "source": "hermes-explore",
+    "image": "styles/1384-horse-tooth-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1342",
+    "slug": "oil-on-glass",
+    "name_en": "Oil-on-glass",
+    "name_zh": "玻璃油画",
+    "description_en": "Oil-on-glass animation still: wet oils smeared on a backlit glass pane, translucent pigment, bristle ridges, dragged streaks and luminous underlighting.",
+    "description_zh": "玻璃油画动画定格：湿油彩抹在透光玻璃上，半透明颜料、刷脊、拖痕与底光。",
+    "source": "hermes-explore",
+    "image": "styles/1385-oil-on-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1343",
+    "slug": "matte-painting",
+    "name_en": "Matte Painting",
+    "name_zh": "遮片绘景",
+    "description_en": "Classic cinematic matte painting: painted environment plate, aerial perspective, hand-painted architecture and sky fused with live-action scale.",
+    "description_zh": "经典电影遮片绘景：手绘环境板、空气透视、建筑与天空和实拍尺度融合。",
+    "source": "hermes-explore",
+    "image": "styles/1386-matte-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1344",
+    "slug": "pentimento",
+    "name_en": "Pentimento",
+    "name_zh": "底层显影",
+    "description_en": "Oil pentimento: earlier underdrawing and abandoned contours ghosting through translucent aged paint, visible revisions in the finished layer.",
+    "description_zh": "油画底层显影：被放弃的底稿与旧轮廓透过半透明老化色层隐现，完成层可见改笔。",
+    "source": "hermes-explore",
+    "image": "styles/1387-pentimento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1345",
+    "slug": "thin-film-interference",
+    "name_en": "Thin-film Interference",
+    "name_zh": "薄膜干涉",
+    "description_en": "Thin-film interference as pictorial look: Newton rings, soap-film and oil-slick spectral bands, magenta-cyan-gold fringes modeling form instead of local color.",
+    "description_zh": "薄膜干涉入画：牛顿环、皂膜与油膜光谱条带，品红-青-金干涉条纹代替固有色塑形。",
+    "source": "hermes-explore",
+    "image": "styles/1388-thin-film-interference.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

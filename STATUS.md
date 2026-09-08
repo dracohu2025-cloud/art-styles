@@ -3762,6 +3762,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1383, PNG count 1383. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 269 (exactly 5, h1341–h1345)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh     | image                                   |
+|-------|-------------------------|-------------|-----------------------------------------|
+| h1341 | Horse-tooth Cun         | 马牙皴      | styles/1384-horse-tooth-cun.png         |
+| h1342 | Oil-on-glass            | 玻璃油画    | styles/1385-oil-on-glass.png            |
+| h1343 | Matte Painting          | 遮片绘景    | styles/1386-matte-painting.png          |
+| h1344 | Pentimento              | 底层显影    | styles/1387-pentimento.png              |
+| h1345 | Thin-film Interference  | 薄膜干涉    | styles/1388-thin-film-interference.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1388, PNG count 1388. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
