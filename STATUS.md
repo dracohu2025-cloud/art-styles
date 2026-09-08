@@ -3664,6 +3664,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1348, PNG count 1348. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 262 (exactly 5, h1306–h1310)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh     | image                           |
+|-------|------------|-------------|---------------------------------|
+| h1306 | Lithyalin  | 石纹玻璃    | styles/1349-lithyalin.png       |
+| h1307 | Chayazome  | 茶屋染      | styles/1350-chayazome.png       |
+| h1308 | Faux Bois  | 仿木纹      | styles/1351-faux-bois.png       |
+| h1309 | Zhangmo    | 涨墨        | styles/1352-zhangmo.png         |
+| h1310 | Stannotype | 锡版碳印    | styles/1353-stannotype.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1353, PNG count 1353. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

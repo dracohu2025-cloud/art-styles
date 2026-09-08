@@ -17522,5 +17522,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1306",
+    "slug": "lithyalin",
+    "name_en": "Lithyalin",
+    "name_zh": "石纹玻璃",
+    "description_en": "Lithyalin: Egermann Bohemian opaque glass; swirled agate-jasper veins, oxblood and moss bands, cut and wheel-polished like hardstone.",
+    "description_zh": "石纹玻璃：埃格曼波希米亚乳浊玻，玛瑙碧玉纹、牛血红与苔绿带，切割抛光如宝石。",
+    "source": "hermes-explore",
+    "image": "styles/1349-lithyalin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1307",
+    "slug": "chayazome",
+    "name_en": "Chayazome",
+    "name_zh": "茶屋染",
+    "description_en": "Chayazome: Kyoto tea-house resist dyeing; pale indigo and tea-brown on raw silk, fine paste-resist komon, hush not loud yuzen.",
+    "description_zh": "茶屋染：京都茶屋防染，淡蓝与茶褐生丝，细糊防小纹，克制而非友禅浓彩。",
+    "source": "hermes-explore",
+    "image": "styles/1350-chayazome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1308",
+    "slug": "faux-bois",
+    "name_en": "Faux Bois",
+    "name_zh": "仿木纹",
+    "description_en": "Faux bois: decorative wood-graining; oil glaze over buff ground, flogger and comb marks, painted oak pores and mahogany figure.",
+    "description_zh": "仿木纹：装饰木纹绘，浅地罩油釉，甩刷与钢梳痕迹，绘出橡木孔与红木心纹。",
+    "source": "hermes-explore",
+    "image": "styles/1351-faux-bois.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1309",
+    "slug": "zhangmo",
+    "name_en": "Zhangmo",
+    "name_zh": "涨墨",
+    "description_en": "Zhangmo: blooming ink on xuan; dense cores flood into fibers beyond the stroke, dark hearts with feathery gray halos.",
+    "description_zh": "涨墨：宣纸上墨核涨开入纤维，浓心外晕成羽状灰边，笔痕之外的渗涨。",
+    "source": "hermes-explore",
+    "image": "styles/1352-zhangmo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1310",
+    "slug": "stannotype",
+    "name_en": "Stannotype",
+    "name_zh": "锡版碳印",
+    "description_en": "Stannotype: Woodbury tin-supported carbon print; continuous-tone pigment relief, warm lampblack, faint metallic tin in the lights.",
+    "description_zh": "锡版碳印：伍德伯里锡承碳印，连续调颜料浮雕，暖灯黑，高光隐现锡金属泽。",
+    "source": "hermes-explore",
+    "image": "styles/1353-stannotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
