@@ -3804,6 +3804,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1398, PNG count 1398. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 272 (exactly 5, h1356–h1360)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh     | image                                |
+|-------|---------------------|-------------|--------------------------------------|
+| h1356 | Arabesque           | 阿拉伯纹样  | styles/1399-arabesque.png            |
+| h1357 | White Vine          | 白藤纹      | styles/1400-white-vine.png           |
+| h1358 | Reverse Perspective | 反透视      | styles/1401-reverse-perspective.png  |
+| h1359 | Stochastic Screen   | 调频网点    | styles/1402-stochastic-screen.png    |
+| h1360 | Contre-jour         | 逆光画      | styles/1403-contre-jour.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1403, PNG count 1403. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

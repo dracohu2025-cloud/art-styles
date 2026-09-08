@@ -18172,5 +18172,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1356",
+    "slug": "arabesque",
+    "name_en": "Arabesque",
+    "name_zh": "阿拉伯纹样",
+    "description_en": "Interlaced vegetal arabesque as the whole pictorial method: palmettes, mirrored vine scrolls and infinite geometry filling the field.",
+    "description_zh": "以缠枝阿拉伯纹样为画面方法：棕叶饰、镜像卷草与无限几何铺满画面。",
+    "source": "hermes-explore",
+    "image": "styles/1399-arabesque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1357",
+    "slug": "white-vine",
+    "name_en": "White Vine",
+    "name_zh": "白藤纹",
+    "description_en": "Renaissance bianchi girari illumination: pale interlacing vine stems and tiny leaves on dyed parchment, not gold-ground icons.",
+    "description_zh": "文艺复兴白藤纹写本装饰：浅色交缠藤茎与细叶铺于染色皮纸，而非金地圣像。",
+    "source": "hermes-explore",
+    "image": "styles/1400-white-vine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1358",
+    "slug": "reverse-perspective",
+    "name_en": "Reverse Perspective",
+    "name_zh": "反透视",
+    "description_en": "Inverted linear perspective: far edges wider than near ones, receding lines diverge, Byzantine icon space instead of a vanishing point.",
+    "description_zh": "反透视：远边宽于近边，后退线发散，拜占庭圣像空间而非灭点透视。",
+    "source": "hermes-explore",
+    "image": "styles/1401-reverse-perspective.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1359",
+    "slug": "stochastic-screen",
+    "name_en": "Stochastic Screen",
+    "name_zh": "调频网点",
+    "description_en": "Frequency-modulation screening: random-frequency microdots without a regular halftone rosette, the whole image built as FM stipple.",
+    "description_zh": "调频加网：无规则玫瑰网点的随机微点，整幅以调频点刻构成。",
+    "source": "hermes-explore",
+    "image": "styles/1402-stochastic-screen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1360",
+    "slug": "contre-jour",
+    "name_en": "Contre-jour",
+    "name_zh": "逆光画",
+    "description_en": "Against-the-light painting: figure seen into a fierce source, rim-lit contour, interior falling dark while edges burn with light.",
+    "description_zh": "逆光画法：人物迎向强光，轮廓镶边，形体内部偏暗而边缘灼亮。",
+    "source": "hermes-explore",
+    "image": "styles/1403-contre-jour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
