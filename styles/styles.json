@@ -16222,5 +16222,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1206",
+    "slug": "lippmann-plate",
+    "name_en": "Lippmann Plate",
+    "name_zh": "李普曼彩照",
+    "description_en": "Interference-color photography on a mercury-backed glass plate: standing-wave spectral hues, grainless glass depth, no pigment dyes.",
+    "description_zh": "汞背玻璃干涉彩照：驻波光谱色、无颗粒玻璃纵深、无颜料染料。",
+    "source": "hermes-explore",
+    "image": "styles/1249-lippmann-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1207",
+    "slug": "soap-ground",
+    "name_en": "Soap Ground",
+    "name_zh": "皂地蚀刻",
+    "description_en": "Soap-ground etching: greasy soap resist painted on copper, bitten as painterly open washes, velvety plate tone on rag paper.",
+    "description_zh": "皂地蚀刻：油脂皂抗蚀绘于铜版，酸咬成绘画性开调，绒面余墨印于棉纸。",
+    "source": "hermes-explore",
+    "image": "styles/1250-soap-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1208",
+    "slug": "gesso-relief",
+    "name_en": "Gesso Relief",
+    "name_zh": "石膏浮雕底",
+    "description_en": "Raised gesso ground tooled on panel: chalk-glue built in low relief, punchwork, bole and gold catching on ridges.",
+    "description_zh": "木板堆塑石膏底：白垩胶低浮雕、打点纹、赤土与金箔贴于凸脊。",
+    "source": "hermes-explore",
+    "image": "styles/1251-gesso-relief.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1209",
+    "slug": "pounced-cartoon",
+    "name_en": "Pounced Cartoon",
+    "name_zh": "针孔粉本",
+    "description_en": "Renaissance spolvero cartoon: pricked contours, charcoal pounce dust, workshop transfer dots on cartoon paper.",
+    "description_zh": "文艺复兴针孔粉本：刺孔轮廓、炭粉扑打、作坊转印点散布于粉本纸。",
+    "source": "hermes-explore",
+    "image": "styles/1252-pounced-cartoon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1210",
+    "slug": "nezumi-shino",
+    "name_en": "Nezumi-shino",
+    "name_zh": "鼠志野",
+    "description_en": "Nezumi-shino Mino glaze: iron slip under crawling feldspar Shino, mouse-grey pinholes, orange-fire flashing.",
+    "description_zh": "鼠志野美浓釉：铁化妆土上厚长石志野、鼠灰针孔、火色橙闪。",
+    "source": "hermes-explore",
+    "image": "styles/1253-nezumi-shino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

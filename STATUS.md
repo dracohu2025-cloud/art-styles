@@ -3384,6 +3384,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1248, PNG count 1248. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 242 (exactly 5, h1206–h1210)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1206 | Lippmann Plate   | 李普曼彩照  | styles/1249-lippmann-plate.png      |
+| h1207 | Soap Ground      | 皂地蚀刻    | styles/1250-soap-ground.png         |
+| h1208 | Gesso Relief     | 石膏浮雕底  | styles/1251-gesso-relief.png        |
+| h1209 | Pounced Cartoon  | 针孔粉本    | styles/1252-pounced-cartoon.png     |
+| h1210 | Nezumi-shino     | 鼠志野      | styles/1253-nezumi-shino.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1253, PNG count 1253. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
