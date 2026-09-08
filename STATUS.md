@@ -3468,6 +3468,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1278, PNG count 1278. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 248 (exactly 5, h1236–h1240)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                               |
+|-------|------------------|---------------|-------------------------------------|
+| h1236 | Yusen Shippo     | 有线七宝      | styles/1279-yusen-shippo.png        |
+| h1237 | Kanoko Shibori   | 鹿子绞        | styles/1280-kanoko-shibori.png      |
+| h1238 | Hyalotype        | 玻璃幻灯正片  | styles/1281-hyalotype.png           |
+| h1239 | Basohli          | 巴索利细密    | styles/1282-basohli.png             |
+| h1240 | Tegaki Yuzen     | 手描友禅      | styles/1283-tegaki-yuzen.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1283, PNG count 1283. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

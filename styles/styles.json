@@ -16612,5 +16612,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1236",
+    "slug": "yusen-shippo",
+    "name_en": "Yusen Shippo",
+    "name_zh": "有线七宝",
+    "description_en": "Wired cloisonné enamel: gold and silver cloison cells filled with vitreous color, glossy high-fire surface, metal-wire outlines.",
+    "description_zh": "有线七宝：金银丝隔成细格、填入玻璃质珐琅、高温釉面与金属线轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1279-yusen-shippo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1237",
+    "slug": "kanoko-shibori",
+    "name_en": "Kanoko Shibori",
+    "name_zh": "鹿子绞",
+    "description_en": "Fawn-spot shibori: dense bound-resist dots on indigo silk, tiny pale rings in a rhythmic all-over dappled field.",
+    "description_zh": "鹿子绞：靛蓝丝绸上密结防染小点，浅色细环铺成均匀鹿子斑地。",
+    "source": "hermes-explore",
+    "image": "styles/1280-kanoko-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1238",
+    "slug": "hyalotype",
+    "name_en": "Hyalotype",
+    "name_zh": "玻璃幻灯正片",
+    "description_en": "Albumen-on-glass lantern-slide positive: milky translucent plate, cream highlights, projected-slide luminosity and faint sepia density.",
+    "description_zh": "玻璃幻灯正片：蛋白玻璃正像、乳浊透光、乳色高光与淡棕密度。",
+    "source": "hermes-explore",
+    "image": "styles/1281-hyalotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1239",
+    "slug": "basohli",
+    "name_en": "Basohli",
+    "name_zh": "巴索利细密",
+    "description_en": "Early Pahari Basohli miniature: hot unmodulated mineral planes, beetle-wing greens, bold profiles, pearl-white pigment dots.",
+    "description_zh": "巴索利细密：早期帕哈里画派，热色平涂矿物颜料、甲虫翅绿、侧面轮廓与珍珠白点。",
+    "source": "hermes-explore",
+    "image": "styles/1282-basohli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1240",
+    "slug": "tegaki-yuzen",
+    "name_en": "Tegaki Yuzen",
+    "name_zh": "手描友禅",
+    "description_en": "Hand-painted yuzen on silk: rice-paste resist outlines, dye brushed into reserved shapes, silk sheen and soft interior blooms.",
+    "description_zh": "手描友禅：丝上米糊防染轮廓、色糊填染、绸面光泽与轮廓内柔晕。",
+    "source": "hermes-explore",
+    "image": "styles/1283-tegaki-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
