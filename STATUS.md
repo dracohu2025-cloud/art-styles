@@ -3356,6 +3356,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1238, PNG count 1238. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 240 (exactly 5, h1196–h1200)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                            |
+|-------|---------------|------------|----------------------------------|
+| h1196 | Thermography  | 热熔粉印   | styles/1239-thermography.png     |
+| h1197 | Ice Dye       | 冰染       | styles/1240-ice-dye.png          |
+| h1198 | Foil Stamp    | 烫箔       | styles/1241-foil-stamp.png       |
+| h1199 | Relief Roll   | 凸辊上墨   | styles/1242-relief-roll.png      |
+| h1200 | Kitchen Litho | 厨房石版   | styles/1243-kitchen-litho.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1243, PNG count 1243. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

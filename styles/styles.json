@@ -16092,5 +16092,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1196",
+    "slug": "thermography",
+    "name_en": "Thermography",
+    "name_zh": "热熔粉印",
+    "description_en": "Heat-fused raised powder print: puffy toner ridges, orange-peel gloss, spot inks on cream stock.",
+    "description_zh": "热熔粉末凸印：粉粒隆起、橘皮光泽、乳色纸上专色油墨。",
+    "source": "hermes-explore",
+    "image": "styles/1239-thermography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1197",
+    "slug": "ice-dye",
+    "name_en": "Ice Dye",
+    "name_zh": "冰染",
+    "description_en": "Ice-melt fiber-reactive dyeing: crystalline blooms, freeze channels, mottled dye fronts on cotton.",
+    "description_zh": "冰块融染：结晶色晕、融冰沟槽、棉布上斑驳色锋。",
+    "source": "hermes-explore",
+    "image": "styles/1240-ice-dye.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1198",
+    "slug": "foil-stamp",
+    "name_en": "Foil Stamp",
+    "name_zh": "烫箔",
+    "description_en": "Hot-foil stamping: metallic leaf burnished into pigmented paper, crisp stamp crush, specular sheen.",
+    "description_zh": "热烫箔印：金属箔压入色纸、锐利印口、镜面高光。",
+    "source": "hermes-explore",
+    "image": "styles/1241-foil-stamp.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1199",
+    "slug": "relief-roll",
+    "name_en": "Relief Roll",
+    "name_zh": "凸辊上墨",
+    "description_en": "Intaglio plate with a transparent colored surface roll: etched line plus brayer veil and plate mark.",
+    "description_zh": "凹版加透明色凸辊：蚀刻线、辊痕色膜与版痕压印。",
+    "source": "hermes-explore",
+    "image": "styles/1242-relief-roll.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1200",
+    "slug": "kitchen-litho",
+    "name_en": "Kitchen Litho",
+    "name_zh": "厨房石版",
+    "description_en": "Aluminum-foil kitchen lithography: greasy crayon, cola etch, wrinkle artifacts, oily DIY print grain.",
+    "description_zh": "铝箔厨房石版：油性蜡笔、可乐蚀版、褶皱伪影、自制油墨颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1243-kitchen-litho.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
