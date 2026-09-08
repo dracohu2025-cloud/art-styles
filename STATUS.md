@@ -3566,6 +3566,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1313, PNG count 1313. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 255 (exactly 5, h1271–h1275)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                  |
+|-------|--------------------|-----------------|----------------------------------------|
+| h1271 | Tubism             | 管状立体主义    | styles/1314-tubism.png                 |
+| h1272 | Yingqing           | 影青瓷          | styles/1315-yingqing.png               |
+| h1273 | Ichimonji-bokashi  | 一文字晕        | styles/1316-ichimonji-bokashi.png      |
+| h1274 | Ko-Kutani          | 古九谷          | styles/1317-ko-kutani.png              |
+| h1275 | Chromoluminarism   | 色彩光辉主义    | styles/1318-chromoluminarism.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1318, PNG count 1318. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

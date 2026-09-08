@@ -17067,5 +17067,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1271",
+    "slug": "tubism",
+    "name_en": "Tubism",
+    "name_zh": "管状立体主义",
+    "description_en": "Tubism: Léger-style cylindrical cubism, stacked tubes and cones, bold black contour, poster primaries.",
+    "description_zh": "管状立体主义：莱热式圆柱立体构成，管锥叠积、粗黑轮廓、海报三原色。",
+    "source": "hermes-explore",
+    "image": "styles/1314-tubism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1272",
+    "slug": "yingqing",
+    "name_en": "Yingqing",
+    "name_zh": "影青瓷",
+    "description_en": "Yingqing / Qingbai: translucent bluish-white glaze pooling sky-blue in carved recesses, warm porcelain body.",
+    "description_zh": "影青瓷：半透明青白釉在刻花凹处积成淡天蓝，胎色温润透出。",
+    "source": "hermes-explore",
+    "image": "styles/1315-yingqing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1273",
+    "slug": "ichimonji-bokashi",
+    "name_en": "Ichimonji-bokashi",
+    "name_zh": "一文字晕",
+    "description_en": "Ichimonji-bokashi: woodblock keyblock plus a straight ruler-brushed one-band sky gradation on washi.",
+    "description_zh": "一文字晕：木版主版线加尺刷一字形天空渐层，和纸与马连质感。",
+    "source": "hermes-explore",
+    "image": "styles/1316-ichimonji-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1274",
+    "slug": "ko-kutani",
+    "name_en": "Ko-Kutani",
+    "name_zh": "古九谷",
+    "description_en": "Ko-Kutani iro-e: thick overglaze green, yellow, cobalt, aubergine and iron-red on crackled off-white porcelain.",
+    "description_zh": "古九谷色绘：厚釉上绿、黄、钴蓝、茄紫与铁红，开片牙白瓷地。",
+    "source": "hermes-explore",
+    "image": "styles/1317-ko-kutani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1275",
+    "slug": "chromoluminarism",
+    "name_en": "Chromoluminarism",
+    "name_zh": "色彩光辉主义",
+    "description_en": "Chromoluminarism: neo-impressionist divided color, spectral tesserae, complementary optical mix, high-key light.",
+    "description_zh": "色彩光辉主义：新印象派分光色点，光谱色块并置，补色光学混合，高调光。",
+    "source": "hermes-explore",
+    "image": "styles/1318-chromoluminarism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
