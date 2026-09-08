@@ -3846,6 +3846,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1413, PNG count 1413. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 275 (exactly 5, h1371–h1375)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                 |
+|-------|--------------------|-------------|---------------------------------------|
+| h1371 | Ottonian           | 奥托风格    | styles/1414-ottonian.png              |
+| h1372 | Chiyogami          | 千代纸      | styles/1415-chiyogami.png             |
+| h1373 | Proto-Corinthian   | 原科林斯    | styles/1416-proto-corinthian.png      |
+| h1374 | Oxgall Watercolor  | 牛胆水彩    | styles/1417-oxgall-watercolor.png     |
+| h1375 | Wheatpaste         | 浆糊招贴    | styles/1418-wheatpaste.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1418, PNG count 1418. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

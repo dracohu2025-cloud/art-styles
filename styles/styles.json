@@ -18367,5 +18367,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1371",
+    "slug": "ottonian",
+    "name_en": "Ottonian",
+    "name_zh": "奥托风格",
+    "description_en": "Ottonian illumination: burnished gold ground, heavy contour, flat mineral blocks, jeweled borders.",
+    "description_zh": "奥托泥金：烫金底、重轮廓、平涂矿彩、宝石边框。",
+    "source": "hermes-explore",
+    "image": "styles/1414-ottonian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1372",
+    "slug": "chiyogami",
+    "name_en": "Chiyogami",
+    "name_zh": "千代纸",
+    "description_en": "Chiyogami: dense woodblock paper patterns, stencil-like flats, slight misregister on washi.",
+    "description_zh": "千代纸：密铺木版纸纹、镂版平涂、和纸上轻微套印偏移。",
+    "source": "hermes-explore",
+    "image": "styles/1415-chiyogami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1373",
+    "slug": "proto-corinthian",
+    "name_en": "Proto-Corinthian",
+    "name_zh": "原科林斯",
+    "description_en": "Proto-Corinthian vase-painting: pale clay ground, miniature black-figure with incision, palmette-lotus friezes.",
+    "description_zh": "原科林斯陶绘：浅黄陶地、微型黑绘阴刻、棕叶莲纹饰带。",
+    "source": "hermes-explore",
+    "image": "styles/1416-proto-corinthian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1374",
+    "slug": "oxgall-watercolor",
+    "name_en": "Oxgall Watercolor",
+    "name_zh": "牛胆水彩",
+    "description_en": "Oxgall watercolor: wetting-agent blooms, cauliflower backruns, high-flow transparent washes.",
+    "description_zh": "牛胆水彩：润湿剂开花、菜花回流、高流透明渲染。",
+    "source": "hermes-explore",
+    "image": "styles/1417-oxgall-watercolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1375",
+    "slug": "wheatpaste",
+    "name_en": "Wheatpaste",
+    "name_zh": "浆糊招贴",
+    "description_en": "Wheatpaste: layered posters on rough wall, torn edges, glue wrinkles, weather-stained sheets.",
+    "description_zh": "浆糊招贴：墙面叠贴海报、撕边、胶皱、风化纸层。",
+    "source": "hermes-explore",
+    "image": "styles/1418-wheatpaste.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
