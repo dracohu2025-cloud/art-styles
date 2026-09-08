@@ -18562,5 +18562,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1386",
+    "slug": "kufic",
+    "name_en": "Kufic",
+    "name_zh": "库法体",
+    "description_en": "Kufic: angular Arabic calligraphy, geometric square letterforms, gold leaf and carbon ink, manuscript illumination, no cursive flow.",
+    "description_zh": "库法体：角形阿拉伯书法、几何方块字母、金箔与碳墨、手稿泥金、无草书流动。",
+    "source": "hermes-explore",
+    "image": "styles/1429-kufic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1387",
+    "slug": "soft-pastel",
+    "name_en": "Soft Pastel",
+    "name_zh": "软粉彩",
+    "description_en": "Soft Pastel: velvety dry pigment on toothed paper, scumbled layers, dusty bloomed edges, broken color, no hard ink line.",
+    "description_zh": "软粉彩：齿纹纸上绒面干颜料、擦层、粉尘晕边、碎色、无硬墨线。",
+    "source": "hermes-explore",
+    "image": "styles/1430-soft-pastel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1388",
+    "slug": "cased-glass",
+    "name_en": "Cased Glass",
+    "name_zh": "罩层玻璃",
+    "description_en": "Cased Glass: overlay gathers of colored glass over clear, cut-back layers, translucent cobalt and cranberry veils, kiln-polished surface.",
+    "description_zh": "罩层玻璃：透明胎上罩色聚集、切削回层、钴蓝与酒红半透明纱、窑抛光面。",
+    "source": "hermes-explore",
+    "image": "styles/1431-cased-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1389",
+    "slug": "stumping",
+    "name_en": "Stumping",
+    "name_zh": "纸笔擦晕",
+    "description_en": "Stumping: graphite and charcoal blended with a paper stump, smoky tonal modeling, stump drag marks, kneaded-eraser lifts.",
+    "description_zh": "纸笔擦晕：石墨与木炭用纸卷擦融、烟晕调子、擦痕、揉擦提亮。",
+    "source": "hermes-explore",
+    "image": "styles/1432-stumping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1390",
+    "slug": "uncial",
+    "name_en": "Uncial",
+    "name_zh": "安色尔体",
+    "description_en": "Uncial: late antique rounded majuscule book-hand, even thick strokes, compact bowls, vellum page, minium initials, no blackletter.",
+    "description_zh": "安色尔体：晚古圆形大写书体、均匀粗笔、紧凑字腹、羊皮纸页、铅丹首字母、无哥特黑体。",
+    "source": "hermes-explore",
+    "image": "styles/1433-uncial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

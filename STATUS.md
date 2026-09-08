@@ -3888,6 +3888,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1428, PNG count 1428. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 278 (exactly 5, h1386–h1390)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                          |
+|-------|--------------|-------------|--------------------------------|
+| h1386 | Kufic        | 库法体      | styles/1429-kufic.png          |
+| h1387 | Soft Pastel  | 软粉彩      | styles/1430-soft-pastel.png    |
+| h1388 | Cased Glass  | 罩层玻璃    | styles/1431-cased-glass.png    |
+| h1389 | Stumping     | 纸笔擦晕    | styles/1432-stumping.png       |
+| h1390 | Uncial       | 安色尔体    | styles/1433-uncial.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1433, PNG count 1433. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
