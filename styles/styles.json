@@ -16287,5 +16287,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1211",
+    "slug": "glue-chip-glass",
+    "name_en": "Glue-chip Glass",
+    "name_zh": "胶裂玻璃",
+    "description_en": "Glue-chip decorative glass: animal-glue shrinkage ferns, dendritic frost, silvery cracked chips on translucent glass.",
+    "description_zh": "胶裂装饰玻璃：动物胶收缩蕨纹、树枝状霜晶、半透明玻璃上的银色碎裂片。",
+    "source": "hermes-explore",
+    "image": "styles/1254-glue-chip-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1212",
+    "slug": "kodalith",
+    "name_en": "Kodalith",
+    "name_zh": "高反差制版",
+    "description_en": "Kodalith lith film: extreme graphic black and chalk white, zero midtones, process-camera line shot, pepper-fog grain.",
+    "description_zh": "柯达制版片：极端黑白、无中间调、制版相机线画、胡椒雾状颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1255-kodalith.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1213",
+    "slug": "isohelie",
+    "name_en": "Isohelie",
+    "name_zh": "等密度色层",
+    "description_en": "Isohélie posterization: discrete equidensity tone bands, stepped color plates, contour rings, no smooth gradients.",
+    "description_zh": "等密度色层：分立等密度色带、分层色版、轮廓环、无平滑渐变。",
+    "source": "hermes-explore",
+    "image": "styles/1256-isohelie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1214",
+    "slug": "uranium-glass",
+    "name_en": "Uranium Glass",
+    "name_zh": "铀玻璃",
+    "description_en": "Uranium glass: translucent yellow-green vaseline glass, uranium-oxide fluorescence, trapped bubbles, pressed-glass glow.",
+    "description_zh": "铀玻璃：半透明黄绿凡士林玻璃、氧化铀荧光、气泡、压铸玻璃辉光。",
+    "source": "hermes-explore",
+    "image": "styles/1257-uranium-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1215",
+    "slug": "pontypool",
+    "name_en": "Pontypool",
+    "name_zh": "庞蒂浦漆器",
+    "description_en": "Pontypool japanware: glossy black asphaltum lacquer on tinplate with gold-powder chinoiserie, 18th-century japanning.",
+    "description_zh": "庞蒂浦漆器：锡板上光亮黑漆与金粉描金，十八世纪日本漆仿作。",
+    "source": "hermes-explore",
+    "image": "styles/1258-pontypool.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3398,6 +3398,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1253, PNG count 1253. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 243 (exactly 5, h1211–h1215)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1211 | Glue-chip Glass  | 胶裂玻璃    | styles/1254-glue-chip-glass.png     |
+| h1212 | Kodalith         | 高反差制版  | styles/1255-kodalith.png            |
+| h1213 | Isohelie         | 等密度色层  | styles/1256-isohelie.png            |
+| h1214 | Uranium Glass    | 铀玻璃      | styles/1257-uranium-glass.png       |
+| h1215 | Pontypool        | 庞蒂浦漆器  | styles/1258-pontypool.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1258, PNG count 1258. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
