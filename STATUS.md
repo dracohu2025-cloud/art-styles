@@ -3832,6 +3832,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1408, PNG count 1408. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 274 (exactly 5, h1366–h1370)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                  | name_zh         | image                                     |
+|-------|--------------------------|-----------------|-------------------------------------------|
+| h1366 | Jiaguwen                 | 甲骨文          | styles/1409-jiaguwen.png                  |
+| h1367 | Mewar Miniature          | 梅瓦尔细密      | styles/1410-mewar-miniature.png           |
+| h1368 | Mechlin Lace             | 梅赫伦蕾丝      | styles/1411-mechlin-lace.png              |
+| h1369 | Pompeian Fourth Style    | 庞贝第四风格    | styles/1412-pompeian-fourth-style.png     |
+| h1370 | Mozarabic Illumination   | 莫萨拉布泥金    | styles/1413-mozarabic-illumination.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1413, PNG count 1413. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

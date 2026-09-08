@@ -18302,5 +18302,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1366",
+    "slug": "jiaguwen",
+    "name_en": "Jiaguwen",
+    "name_zh": "甲骨文",
+    "description_en": "Oracle-bone script: incised pictographs, angular knife-cut strokes on cracked plastron.",
+    "description_zh": "甲骨文：契刻象形、方折刀笔、龟甲裂纹地。",
+    "source": "hermes-explore",
+    "image": "styles/1409-jiaguwen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1367",
+    "slug": "mewar-miniature",
+    "name_en": "Mewar Miniature",
+    "name_zh": "梅瓦尔细密",
+    "description_en": "Udaipur-school miniature: flat jewel planes, bold outline, stacked architecture, profile eye.",
+    "description_zh": "梅瓦尔细密：平涂宝石色、重勾勒、层叠建筑、侧面大眼。",
+    "source": "hermes-explore",
+    "image": "styles/1410-mewar-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1368",
+    "slug": "mechlin-lace",
+    "name_en": "Mechlin Lace",
+    "name_zh": "梅赫伦蕾丝",
+    "description_en": "Malines bobbin lace: hexagonal réseau, floral sprigs, silky gimp outline on dark ground.",
+    "description_zh": "梅赫伦蕾丝：六角网底、花卉枝叶、光亮轮廓线压在深底上。",
+    "source": "hermes-explore",
+    "image": "styles/1411-mechlin-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1369",
+    "slug": "pompeian-fourth-style",
+    "name_en": "Pompeian Fourth Style",
+    "name_zh": "庞贝第四风格",
+    "description_en": "Roman Fourth Style fresco: fantastical architecture, candelabra motifs, picture-in-panel plaster.",
+    "description_zh": "庞贝第四风格：幻视建筑、烛台式纹样、画中画湿壁画。",
+    "source": "hermes-explore",
+    "image": "styles/1412-pompeian-fourth-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1370",
+    "slug": "mozarabic-illumination",
+    "name_en": "Mozarabic Illumination",
+    "name_zh": "莫萨拉布泥金",
+    "description_en": "Beatus-tradition illumination: flat mineral blocks, horseshoe arches, patterned grounds, strong outline.",
+    "description_zh": "莫萨拉布泥金：平涂矿彩、马蹄拱、几何地纹、重轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1413-mozarabic-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
