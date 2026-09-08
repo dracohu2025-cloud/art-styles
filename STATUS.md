@@ -3860,6 +3860,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1418, PNG count 1418. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 276 (exactly 5, h1376–h1380)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h1376 | Ross Board         | 罗斯网点板      | styles/1419-ross-board.png            |
+| h1377 | Paper Lithography  | 纸石版          | styles/1420-paper-lithography.png     |
+| h1378 | Gaslight Paper     | 气灯光相纸      | styles/1421-gaslight-paper.png        |
+| h1379 | Magic Lantern      | 魔法灯          | styles/1422-magic-lantern.png         |
+| h1380 | Karagöz            | 卡拉格兹皮影    | styles/1423-karagoz.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1423, PNG count 1423. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

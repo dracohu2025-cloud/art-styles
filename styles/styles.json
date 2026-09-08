@@ -18432,5 +18432,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1376",
+    "slug": "ross-board",
+    "name_en": "Ross Board",
+    "name_zh": "罗斯网点板",
+    "description_en": "Ross Board: raised stipple drawing board, litho crayon catch, scratch-white highlights.",
+    "description_zh": "罗斯网点板：凸点画板、蜡笔咬点、刮白高光。",
+    "source": "hermes-explore",
+    "image": "styles/1419-ross-board.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1377",
+    "slug": "paper-lithography",
+    "name_en": "Paper Lithography",
+    "name_zh": "纸石版",
+    "description_en": "Paper Lithography: gum paper plate, greasy tusche drawing, blotchy hand-rolled ink.",
+    "description_zh": "纸石版：树胶纸版、油性涂绘、手工滚墨斑驳。",
+    "source": "hermes-explore",
+    "image": "styles/1420-paper-lithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1378",
+    "slug": "gaslight-paper",
+    "name_en": "Gaslight Paper",
+    "name_zh": "气灯光相纸",
+    "description_en": "Gaslight Paper: warm chloride developing-out print, olive-brown silver, creamy baryta.",
+    "description_zh": "气灯光相纸：暖调氯化显影相纸、橄榄棕银影、钡地纸。",
+    "source": "hermes-explore",
+    "image": "styles/1421-gaslight-paper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1379",
+    "slug": "magic-lantern",
+    "name_en": "Magic Lantern",
+    "name_zh": "魔法灯",
+    "description_en": "Magic Lantern: hand-painted glass slide, transparent pigments, projected circular glow.",
+    "description_zh": "魔法灯：手绘玻璃幻灯片、透明颜料、圆形投射光晕。",
+    "source": "hermes-explore",
+    "image": "styles/1422-magic-lantern.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1380",
+    "slug": "karagoz",
+    "name_en": "Karagöz",
+    "name_zh": "卡拉格兹皮影",
+    "description_en": "Karagöz: translucent dyed leather puppet, perforations, backlit Ottoman shadow screen.",
+    "description_zh": "卡拉格兹皮影：染色透光皮偶、镂孔、背光奥斯曼影幕。",
+    "source": "hermes-explore",
+    "image": "styles/1423-karagoz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
