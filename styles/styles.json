@@ -16677,5 +16677,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1241",
+    "slug": "shotai-shippo",
+    "name_en": "Shotai Shippo",
+    "name_zh": "省胎七宝",
+    "description_en": "Plique-à-jour cloisonné with the metal body dissolved after firing: translucent vitreous cells, gold-wire cloisons, light through jewel glass.",
+    "description_zh": "省胎七宝：烧成后溶去金属胎，透光珐琅格与金丝隔线，如微型彩窗玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1284-shotai-shippo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1242",
+    "slug": "craftint-doubletone",
+    "name_en": "Craftint Doubletone",
+    "name_zh": "双调底纸",
+    "description_en": "Vintage Craftint board: ink contours plus two chemically developed mechanical hatches, limited to board-white, mid tone, dark cross-hatch, and black.",
+    "description_zh": "双调底纸：墨线加化学显影的两套机械排线，仅有纸白、中灰斜线、深交叉线与实地黑。",
+    "source": "hermes-explore",
+    "image": "styles/1285-craftint-doubletone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1243",
+    "slug": "roketsuzome",
+    "name_en": "Roketsuzome",
+    "name_zh": "蜡缬染",
+    "description_en": "Japanese wax-resist dyeing: brushed beeswax, vat color, wax-crackle veins, reserved cloth, indigo and mineral dyes on visible weave.",
+    "description_zh": "蜡缬染：蜂蜡笔绘防染、浸染上色、蜡裂细纹与留白布地，靛蓝与矿物色透出织纹。",
+    "source": "hermes-explore",
+    "image": "styles/1286-roketsuzome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1244",
+    "slug": "buon-fresco",
+    "name_en": "Buon Fresco",
+    "name_zh": "真湿壁画",
+    "description_en": "True wet-plaster fresco: earth pigments painted into damp lime so color binds as the wall carbonates; matte bloom, no oil gloss.",
+    "description_zh": "真湿壁画：矿物颜料画入未干石灰底，随墙面碳化固色；粉雾哑光、无油泽。",
+    "source": "hermes-explore",
+    "image": "styles/1287-buon-fresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1245",
+    "slug": "serigraph",
+    "name_en": "Serigraph",
+    "name_zh": "丝网版画",
+    "description_en": "Fine-art silkscreen: discrete opaque ink films, hard stencil edges, limited color separations, slight misregister, satin ink on paper.",
+    "description_zh": "丝网版画：分色实底油墨层、镂版硬边、有限套色与轻微套印错位，纸上缎面墨膜。",
+    "source": "hermes-explore",
+    "image": "styles/1288-serigraph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

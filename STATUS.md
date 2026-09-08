@@ -3482,6 +3482,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1283, PNG count 1283. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 249 (exactly 5, h1241–h1245)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh     | image                                  |
+|-------|---------------------|-------------|----------------------------------------|
+| h1241 | Shotai Shippo       | 省胎七宝    | styles/1284-shotai-shippo.png          |
+| h1242 | Craftint Doubletone | 双调底纸    | styles/1285-craftint-doubletone.png    |
+| h1243 | Roketsuzome         | 蜡缬染      | styles/1286-roketsuzome.png            |
+| h1244 | Buon Fresco         | 真湿壁画    | styles/1287-buon-fresco.png            |
+| h1245 | Serigraph           | 丝网版画    | styles/1288-serigraph.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1288, PNG count 1288. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
