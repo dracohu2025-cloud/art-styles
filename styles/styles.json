@@ -16547,5 +16547,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1231",
+    "slug": "feathered-slip",
+    "name_en": "Feathered Slip",
+    "name_zh": "羽纹泥浆",
+    "description_en": "Staffordshire feathered slipware: two wet contrasting slips dragged with a feather into chevrons, commas, and marbled plumes under a lead glaze.",
+    "description_zh": "羽纹泥浆：双色湿泥浆用羽毛拖出人字、逗点与大理石羽纹，罩铅釉。",
+    "source": "hermes-explore",
+    "image": "styles/1274-feathered-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1232",
+    "slug": "penwork",
+    "name_en": "Penwork",
+    "name_zh": "线描漆绘",
+    "description_en": "Regency penwork: dense India-ink hatching and stipple on cream japanned or satinwood ground, imitating copperplate engraving.",
+    "description_zh": "线描漆绘：乳白漆地或缎木上密排墨线排线与点刻，仿铜版线刻。",
+    "source": "hermes-explore",
+    "image": "styles/1275-penwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1233",
+    "slug": "katatype",
+    "name_en": "Katatype",
+    "name_zh": "染色转印",
+    "description_en": "Traube katatype dye-imbibition: dichromated gelatin relief soaked with aniline dyes, velvety continuous-tone color in a swollen colloid film.",
+    "description_zh": "染色转印：重铬酸盐明胶浮雕吸入苯胺染料，绒面连续色调、胶体微膨边缘。",
+    "source": "hermes-explore",
+    "image": "styles/1276-katatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1234",
+    "slug": "ciselure",
+    "name_en": "Ciselure",
+    "name_zh": "錾刻追花",
+    "description_en": "Goldsmith ciselure: chased gold-and-silver relief with punches, matting tools, and liners; planished highlights on a punched sparkling ground.",
+    "description_zh": "錾刻追花：金工追錾金银浮雕，錾子、打毛与线錾，抛光高光与点錾地纹。",
+    "source": "hermes-explore",
+    "image": "styles/1277-ciselure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1235",
+    "slug": "hallotype",
+    "name_en": "Hallotype",
+    "name_zh": "哈洛叠印",
+    "description_en": "1850s Hallotype: two superimposed salted-paper positives, one waxed translucent, slight register offset, warm honey-to-mauve paper depth.",
+    "description_zh": "哈洛叠印：两张盐纸正像叠合，一张上蜡半透明、轻微套合错位、蜜棕至紫棕色纸层。",
+    "source": "hermes-explore",
+    "image": "styles/1278-hallotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

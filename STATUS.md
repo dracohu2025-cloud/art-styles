@@ -3454,6 +3454,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1273, PNG count 1273. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 247 (exactly 5, h1231–h1235)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1231 | Feathered Slip   | 羽纹泥浆    | styles/1274-feathered-slip.png      |
+| h1232 | Penwork          | 线描漆绘    | styles/1275-penwork.png             |
+| h1233 | Katatype         | 染色转印    | styles/1276-katatype.png            |
+| h1234 | Ciselure         | 錾刻追花    | styles/1277-ciselure.png            |
+| h1235 | Hallotype        | 哈洛叠印    | styles/1278-hallotype.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1278, PNG count 1278. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
