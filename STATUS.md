@@ -3426,6 +3426,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1263, PNG count 1263. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 245 (exactly 5, h1221–h1225)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1221 | Pronto Plate     | 聚酯平版    | styles/1264-pronto-plate.png        |
+| h1222 | Sprigging        | 贴花浮雕    | styles/1265-sprigging.png           |
+| h1223 | Auricular Style  | 耳状纹样    | styles/1266-auricular-style.png     |
+| h1224 | Vytynanky        | 乌克兰剪纸  | styles/1267-vytynanky.png           |
+| h1225 | Shagreen         | 鲨革镶饰    | styles/1268-shagreen.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1268, PNG count 1268. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -16417,5 +16417,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1221",
+    "slug": "pronto-plate",
+    "name_en": "Pronto Plate",
+    "name_zh": "聚酯平版",
+    "description_en": "Polyester pronto-plate lithography: greasy crayon and tusche on a plastic plate, reticulated washes, crayon grain, printed on paper.",
+    "description_zh": "聚酯平版：蜡笔与油墨水绘制于聚酯版、网状水墨、蜡笔颗粒、纸本印出。",
+    "source": "hermes-explore",
+    "image": "styles/1264-pronto-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1222",
+    "slug": "sprigging",
+    "name_en": "Sprigging",
+    "name_zh": "贴花浮雕",
+    "description_en": "Ceramic sprigging: separately molded clay relief sprigs luted onto a slip-coated body, undercut edges, biscuit or pale glaze, applied ornament.",
+    "description_zh": "贴花浮雕：分模泥塑花饰贴于色浆器身、底切边缘、素烧或淡釉、贴塑纹样。",
+    "source": "hermes-explore",
+    "image": "styles/1265-sprigging.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1223",
+    "slug": "auricular-style",
+    "name_en": "Auricular Style",
+    "name_zh": "耳状纹样",
+    "description_en": "Dutch auricular (kwab) ornament: fleshy ear-cartilage scrolls, lobe volutes, molten silver-gilt frames, Lutma/van Vianen metalwork language.",
+    "description_zh": "耳状纹样：软骨般耳形卷涡、耳垂旋纹、熔金银边框、卢特马/范维亚宁金工语言。",
+    "source": "hermes-explore",
+    "image": "styles/1266-auricular-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1224",
+    "slug": "vytynanky",
+    "name_en": "Vytynanky",
+    "name_zh": "乌克兰剪纸",
+    "description_en": "Ukrainian vytynanky paper-cutting: single-sheet openwork, folk symmetry, tree-of-life and bird cuts, scissor-cut edges on a contrasting ground.",
+    "description_zh": "乌克兰剪纸：单层透雕、民俗对称、生命树与鸟纹镂空、色底上的剪刀边缘。",
+    "source": "hermes-explore",
+    "image": "styles/1267-vytynanky.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1225",
+    "slug": "shagreen",
+    "name_en": "Shagreen",
+    "name_zh": "鲨革镶饰",
+    "description_en": "Galuchat shagreen: dyed stingray denticle pebble grain, pearl crown nodule, jade-green skin with ivory or silver inlaid contours.",
+    "description_zh": "鲨革镶饰：染色鳐皮齿珠粒面、中央冠齿、翠绿鲨革与牙色或银线镶边。",
+    "source": "hermes-explore",
+    "image": "styles/1268-shagreen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
