@@ -18887,5 +18887,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1411",
+    "slug": "beuronese",
+    "name_en": "Beuronese",
+    "name_zh": "博伊伦风格",
+    "description_en": "Beuronese: hieratic Beuron-school mural, gold-leaf geometric ground, parallel Jugendstil-Byzantine drapery folds, limited gold-ivory-olive palette; not Renaissance modeling, photoreal icons, or Gothic fashion.",
+    "description_zh": "博伊伦风格：博伊伦画派的圣像式平涂壁画、金箔几何底、拜占庭与新艺术平行衣褶、金象牙橄榄有限色，非文艺复兴体积、超写实圣像或哥特时装。",
+    "source": "hermes-explore",
+    "image": "styles/1454-beuronese.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1412",
+    "slug": "churrigueresque",
+    "name_en": "Churrigueresque",
+    "name_zh": "丘里格拉风格",
+    "description_en": "Churrigueresque: Spanish ultra-Baroque retablo density, gilded estipite pilasters, broken pediments and horror-vacui carved gold; not sober Herrera stone, pastel Rococo, or photoreal architecture.",
+    "description_zh": "丘里格拉风格：西班牙极端巴洛克祭坛墙的密饰、贴金柱式、断裂山花与满饰雕金，非埃雷拉素石、洛可可粉彩或超写实建筑。",
+    "source": "hermes-explore",
+    "image": "styles/1455-churrigueresque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1413",
+    "slug": "tukutuku",
+    "name_en": "Tukutuku",
+    "name_zh": "图库图库",
+    "description_en": "Tukutuku: Māori lattice panels of horizontal laths and criss-cross dyed flax, poutama stairs and star crosses in red, ochre, black and white; not kowhaiwhai scroll, formline, or pixel mosaic.",
+    "description_zh": "图库图库：毛利格子墙板的横木条与十字亚麻缝线、阶梯纹与星叉纹，红赭黑白，非考怀怀卷云、西北海岸形线或像素镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/1456-tukutuku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1414",
+    "slug": "sixs-technique",
+    "name_en": "Six's Technique",
+    "name_zh": "西克斯加彩",
+    "description_en": "Six's Technique: Attic black-gloss ground with opaque yellowish-white and brick-red overpaint plus incised contour; not reserved-clay red-figure, black-figure silhouette, or marble relief.",
+    "description_zh": "西克斯加彩：阿提卡黑釉底上以乳白与砖红不透明加彩并刻画轮廓，非留胎红绘、剪影黑绘或大理石浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1457-sixs-technique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1415",
+    "slug": "figuration-libre",
+    "name_en": "Figuration Libre",
+    "name_zh": "自由具象",
+    "description_en": "Figuration Libre: 1980s French raw cartoon outline, graffiti spray, clashing fluorescent and dirty color, slapdash neo-expressionist figuration; not clean kawaii, American Pop, or Superflat.",
+    "description_zh": "自由具象：1980年代法国粗卡通勾线、喷漆涂鸦、荧光与脏色对撞、率性新表现具象，非干净甜美风、美国波普或超扁平。",
+    "source": "hermes-explore",
+    "image": "styles/1458-figuration-libre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

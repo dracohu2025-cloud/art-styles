@@ -3958,6 +3958,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1453, PNG count 1453. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 283 (exactly 5, h1411–h1415)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                             |
+|-------|------------------|---------------|-----------------------------------|
+| h1411 | Beuronese        | 博伊伦风格    | styles/1454-beuronese.png         |
+| h1412 | Churrigueresque  | 丘里格拉风格  | styles/1455-churrigueresque.png   |
+| h1413 | Tukutuku         | 图库图库      | styles/1456-tukutuku.png          |
+| h1414 | Six's Technique  | 西克斯加彩    | styles/1457-sixs-technique.png    |
+| h1415 | Figuration Libre | 自由具象      | styles/1458-figuration-libre.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1458, PNG count 1458. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
