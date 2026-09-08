@@ -3440,6 +3440,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1268, PNG count 1268. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 246 (exactly 5, h1226–h1230)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1226 | Creamware        | 奶油陶      | styles/1269-creamware.png           |
+| h1227 | Onggi            | 瓮器        | styles/1270-onggi.png               |
+| h1228 | Paper Negative   | 纸底负片    | styles/1271-paper-negative.png      |
+| h1229 | Honiton Lace     | 霍尼顿花边  | styles/1272-honiton-lace.png        |
+| h1230 | Paget Plate      | 佩吉特彩屏  | styles/1273-paget-plate.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1273, PNG count 1273. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

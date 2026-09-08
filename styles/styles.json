@@ -16482,5 +16482,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1226",
+    "slug": "creamware",
+    "name_en": "Creamware",
+    "name_zh": "奶油陶",
+    "description_en": "English creamware: pale cream lead-glazed earthenware, Queen's ware tint, thin glossy glaze, light crazing, sprig-molded relief on a warm ivory body.",
+    "description_zh": "奶油陶：浅奶油铅釉精陶、王后陶色调、薄亮釉、细开片、暖象牙胎上的贴花浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1269-creamware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1227",
+    "slug": "onggi",
+    "name_en": "Onggi",
+    "name_zh": "瓮器",
+    "description_en": "Korean onggi: coil-built dark earthenware, grog texture, iron-rich natural glaze drips, lugs and coil ridges, wood-kiln flash on brown-black ceramic.",
+    "description_zh": "瓮器：盘筑深色粗陶、熟料颗粒、铁釉垂流、耳钮与泥条脊、柴窑火痕的褐黑陶面。",
+    "source": "hermes-explore",
+    "image": "styles/1270-onggi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1228",
+    "slug": "paper-negative",
+    "name_en": "Paper Negative",
+    "name_zh": "纸底负片",
+    "description_en": "Calotype paper negative: reversed tonalities, fibrous laid-paper grain, waxed-paper translucency, yellowish base, soft chemical blur—not a digital invert.",
+    "description_zh": "纸底负片：反转影调、布纹纸纤维、蜡纸半透明、淡黄底、柔和药液晕影，而非数字反相。",
+    "source": "hermes-explore",
+    "image": "styles/1271-paper-negative.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1229",
+    "slug": "honiton-lace",
+    "name_en": "Honiton Lace",
+    "name_zh": "霍尼顿花边",
+    "description_en": "Devon Honiton bobbin lace: raised floral sprigs, cloth stitch and half stitch, honeycomb ground, cream linen thread, openwork portrait in lace.",
+    "description_zh": "霍尼顿花边：德文郡线轴蕾丝、浮雕花枝、布纹针与半针、蜂巢网地、米色亚麻线透雕人像。",
+    "source": "hermes-explore",
+    "image": "styles/1272-honiton-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1230",
+    "slug": "paget-plate",
+    "name_en": "Paget Plate",
+    "name_zh": "佩吉特彩屏",
+    "description_en": "Paget additive colour screen plate: regular RGB mosaic viewing screen, muted 1910s palette, glass-plate grain—not Autochrome starch, not modern digital color.",
+    "description_zh": "佩吉特彩屏：规则RGB马赛克滤屏、1910年代淡彩、玻璃干版颗粒，而非奥托铬淀粉屏或现代数码色。",
+    "source": "hermes-explore",
+    "image": "styles/1273-paget-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
