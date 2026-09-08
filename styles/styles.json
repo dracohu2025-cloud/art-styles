@@ -16807,5 +16807,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1251",
+    "slug": "brocatelle",
+    "name_en": "Brocatelle",
+    "name_zh": "浮纹织锦",
+    "description_en": "Raised extra-weft silk: lampas-like floats sculpted over a satin ground, baroque acanthus and pomegranate, high-low weave topography.",
+    "description_zh": "浮纹织锦：缎地上起额外纬浮、巴洛克莨苕与石榴纹、高低织纹起伏。",
+    "source": "hermes-explore",
+    "image": "styles/1294-brocatelle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1252",
+    "slug": "chalk-manner",
+    "name_en": "Chalk Manner",
+    "name_zh": "粉笔铜版",
+    "description_en": "18th-century chalk-manner intaglio: roulette and mattoir grains simulating red and black chalk, dotted crayon-like plate tone.",
+    "description_zh": "粉笔铜版：轮点刀与槌点仿红黑粉笔、颗粒铜版调子。",
+    "source": "hermes-explore",
+    "image": "styles/1295-chalk-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1253",
+    "slug": "kakiotoshi",
+    "name_en": "Kakiotoshi",
+    "name_zh": "掻落",
+    "description_en": "Carved-away slip on stoneware: pale slip scraped to the darker body, incised negatives, iron clay vs cream resist.",
+    "description_zh": "掻落：白化妆土刮去露出胎土、阴刻纹样、铁褐胎与乳白化妆土对照。",
+    "source": "hermes-explore",
+    "image": "styles/1296-kakiotoshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1254",
+    "slug": "aburidashi",
+    "name_en": "Aburidashi",
+    "name_zh": "炙出",
+    "description_en": "Heat-revealed invisible ink on washi: alum or citrus lines toasted brown, scorched paper, latent drawing developed by fire.",
+    "description_zh": "炙出：明矾或柑橘隐墨经火显出焦褐线、和纸焦边、潜像热显。",
+    "source": "hermes-explore",
+    "image": "styles/1297-aburidashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1255",
+    "slug": "nishikide",
+    "name_en": "Nishikide",
+    "name_zh": "锦手",
+    "description_en": "Overglaze brocade enamel on porcelain: aka-e red, green, yellow, purple and gold on white glaze, packed karakusa, glossy melt.",
+    "description_zh": "锦手：白瓷上赤绘绿黄紫金上釉、唐草密填、釉面熔融光泽。",
+    "source": "hermes-explore",
+    "image": "styles/1298-nishikide.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

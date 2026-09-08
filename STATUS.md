@@ -3510,6 +3510,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1293, PNG count 1293. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 251 (exactly 5, h1251–h1255)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|--------------------------|
+| h1251 | Brocatelle       | 浮纹织锦    | styles/1294-brocatelle.png          |
+| h1252 | Chalk Manner     | 粉笔铜版    | styles/1295-chalk-manner.png        |
+| h1253 | Kakiotoshi       | 掻落        | styles/1296-kakiotoshi.png          |
+| h1254 | Aburidashi       | 炙出        | styles/1297-aburidashi.png          |
+| h1255 | Nishikide        | 锦手        | styles/1298-nishikide.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1298, PNG count 1298. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
