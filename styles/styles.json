@@ -17262,5 +17262,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1286",
+    "slug": "kati",
+    "name_en": "Katı",
+    "name_zh": "卡图剪纸",
+    "description_en": "Katı: Ottoman knife-cut paper inlay, stacked colored sheets, rumi arabesque voids, gold-paper accents.",
+    "description_zh": "卡图剪纸：奥斯曼刀刻纸镶贴，层叠色纸，鲁米纹镂空，金纸点缀。",
+    "source": "hermes-explore",
+    "image": "styles/1329-kati.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1287",
+    "slug": "ozalid",
+    "name_en": "Ozalid",
+    "name_zh": "奥扎利德晒图",
+    "description_en": "Ozalid diazotype: ammonia-developed mauve-violet line on ivory-buff paper, chemical stain, matte tooth.",
+    "description_zh": "奥扎利德晒图：氨显重氮工艺，象牙底上紫褐线条，化学渍痕，亚光纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/1330-ozalid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1288",
+    "slug": "clayboard",
+    "name_en": "Clayboard",
+    "name_zh": "白垩刮板",
+    "description_en": "Clayboard: India ink on kaolin board, whites scraped with knife and stipple, velvety residual black.",
+    "description_zh": "白垩刮板：高岭土板上墨，刀刮与点刮提白，残留丝绒黑。",
+    "source": "hermes-explore",
+    "image": "styles/1331-clayboard.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1289",
+    "slug": "burin-engraving",
+    "name_en": "Burin Engraving",
+    "name_zh": "雕刀线刻",
+    "description_en": "Burin engraving: swelling-and-tapering graver lines, lozenge hatch, flick dots, cream laid paper.",
+    "description_zh": "雕刀线刻：膨收雕刀线，菱形交叉排线，点剔中间调，奶油色罗纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/1332-burin-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1290",
+    "slug": "anscochrome",
+    "name_en": "Anscochrome",
+    "name_zh": "安斯克彩正",
+    "description_en": "Anscochrome: 1950s–60s reversal film, warm brick-reds, cyan-green shadows, fine grain, dye-fade transparency.",
+    "description_zh": "安斯克彩正：五十至六十年代反转片，砖红暖调，青绿阴影，细颗粒与染料褪色。",
+    "source": "hermes-explore",
+    "image": "styles/1333-anscochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3608,6 +3608,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1328, PNG count 1328. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 258 (exactly 5, h1286–h1290)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h1286 | Katı            | 卡图剪纸        | styles/1329-kati.png               |
+| h1287 | Ozalid          | 奥扎利德晒图    | styles/1330-ozalid.png             |
+| h1288 | Clayboard       | 白垩刮板        | styles/1331-clayboard.png          |
+| h1289 | Burin Engraving | 雕刀线刻        | styles/1332-burin-engraving.png    |
+| h1290 | Anscochrome     | 安斯克彩正      | styles/1333-anscochrome.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1333, PNG count 1333. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
