@@ -17587,5 +17587,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1311",
+    "slug": "gold-tooling",
+    "name_en": "Gold Tooling",
+    "name_zh": "烫金压纹",
+    "description_en": "Gold tooling: gilt stamps and rolls on morocco; raised gold leaf, fleurons and palmettes, leather grain under raked light.",
+    "description_zh": "烫金压纹：摩洛哥皮上烫金戳与滚轮，凸起金箔、花饰与棕叶纹，侧光下见皮革毛孔。",
+    "source": "hermes-explore",
+    "image": "styles/1354-gold-tooling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1312",
+    "slug": "insular-interlace",
+    "name_en": "Insular Interlace",
+    "name_zh": "岛国交织纹",
+    "description_en": "Insular interlace: Hiberno-Saxon knotwork on vellum; ribbon plaits, trumpet spirals, dotted contours, red-yellow-green-blue cells.",
+    "description_zh": "岛国交织纹：海伯诺-撒克逊羊皮纸结纹，缎带编结、喇叭涡卷、点描轮廓，红黄绿蓝色块。",
+    "source": "hermes-explore",
+    "image": "styles/1355-insular-interlace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1313",
+    "slug": "kiln-formed-glass",
+    "name_en": "Kiln-formed Glass",
+    "name_zh": "窑制玻璃",
+    "description_en": "Kiln-formed glass: slumped fused sheets; fire-polished sag, trapped bubbles, kiln-wash matte vs melt gloss, layered transparent color.",
+    "description_zh": "窑制玻璃：熔叠热弯片材，火抛垂坠、气泡夹层，窑灰哑面与熔泽对照，透明色层叠。",
+    "source": "hermes-explore",
+    "image": "styles/1356-kiln-formed-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1314",
+    "slug": "rangoli",
+    "name_en": "Rangoli",
+    "name_zh": "朗戈利地绘",
+    "description_en": "Rangoli: dry colored powder on a courtyard floor; rice-flour dots, pulled petal lines, vermilion turmeric green white grain.",
+    "description_zh": "朗戈利地绘：庭院地面干粉，米粉点线牵出花瓣，朱红姜黄叶绿与白粉颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1357-rangoli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1315",
+    "slug": "sign-painting",
+    "name_en": "Sign Painting",
+    "name_zh": "招牌手绘",
+    "description_en": "Sign painting: one-shot enamel on tin; gold-leaf outlines, pinstripes, varnish gloss, showcard color blocks and hand-cut edges.",
+    "description_zh": "招牌手绘：马口铁上一笔瓷漆，金箔勾边、细线、清漆高光，招贴色块与手切边缘。",
+    "source": "hermes-explore",
+    "image": "styles/1358-sign-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

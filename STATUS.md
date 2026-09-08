@@ -3678,6 +3678,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1353, PNG count 1353. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 263 (exactly 5, h1311–h1315)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h1311 | Gold Tooling       | 烫金压纹        | styles/1354-gold-tooling.png          |
+| h1312 | Insular Interlace  | 岛国交织纹      | styles/1355-insular-interlace.png     |
+| h1313 | Kiln-formed Glass  | 窑制玻璃        | styles/1356-kiln-formed-glass.png     |
+| h1314 | Rangoli            | 朗戈利地绘      | styles/1357-rangoli.png               |
+| h1315 | Sign Painting      | 招牌手绘        | styles/1358-sign-painting.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1358, PNG count 1358. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
