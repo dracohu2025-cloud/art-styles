@@ -17782,5 +17782,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1326",
+    "slug": "dami-e",
+    "name_en": "Dami-e",
+    "name_zh": "浓绘",
+    "description_en": "Heian Yamato-e mineral filling: opaque azurite, malachite, and cinnabar stacked over gold leaf, contours buried in dense unmodulated color.",
+    "description_zh": "平安大和绘浓绘：石青石绿朱砂厚填金地，墨线被矿物色块淹没，平面装饰空间。",
+    "source": "hermes-explore",
+    "image": "styles/1369-dami-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1327",
+    "slug": "pathecolor",
+    "name_en": "Pathécolor",
+    "name_zh": "百代彩",
+    "description_en": "1910s Pathé stencil color: silver-grain cinema still with discrete aniline dye regions and slight stencil misregistration.",
+    "description_zh": "1910年代百代镂版上色：银盐胶片底上分区苯胺染料，套版边缘略错位。",
+    "source": "hermes-explore",
+    "image": "styles/1370-pathecolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1328",
+    "slug": "tessuto-glass",
+    "name_en": "Tessuto Glass",
+    "name_zh": "织物纹玻璃",
+    "description_en": "Murano vetro tessuto: parallel pulled glass canes fused into a woven optical field of refractive warp-and-weft striations.",
+    "description_zh": "穆拉诺织物纹玻璃：平行拉丝玻璃棒熔合成经纬般折光条纹。",
+    "source": "hermes-explore",
+    "image": "styles/1371-tessuto-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1329",
+    "slug": "sandblasted-glass",
+    "name_en": "Sandblasted Glass",
+    "name_zh": "喷砂玻璃",
+    "description_en": "Multi-stage abrasive frosting: matte white blast versus polished clear glass, stepped resist depths, raking light on ground silica.",
+    "description_zh": "多层喷砂玻璃：磨砂白蚀与抛光通透对照，分次遮罩形成阶梯霜面。",
+    "source": "hermes-explore",
+    "image": "styles/1372-sandblasted-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1330",
+    "slug": "agfacolor",
+    "name_en": "Agfacolor",
+    "name_zh": "爱克发彩",
+    "description_en": "1930s–50s Agfacolor Neu chromogenic look: muted brick reds, cyan-leaning greens, honey highlights, soft contrast and fine vintage dye-coupler grain.",
+    "description_zh": "1930–50年代爱克发彩：砖红偏闷、青绿偏青、蜜色高光，软反差与染料成色颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1373-agfacolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -3720,6 +3720,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1368, PNG count 1368. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 266 (exactly 5, h1326–h1330)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                  |
+|-------|--------------------|-----------------|----------------------------------------|
+| h1326 | Dami-e             | 浓绘            | styles/1369-dami-e.png                 |
+| h1327 | Pathécolor         | 百代彩          | styles/1370-pathecolor.png             |
+| h1328 | Tessuto Glass      | 织物纹玻璃      | styles/1371-tessuto-glass.png          |
+| h1329 | Sandblasted Glass  | 喷砂玻璃        | styles/1372-sandblasted-glass.png      |
+| h1330 | Agfacolor          | 爱克发彩        | styles/1373-agfacolor.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1373, PNG count 1373. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
