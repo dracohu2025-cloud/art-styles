@@ -4381,6 +4381,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1603, PNG count 1603. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 313 (exactly 5, h1561–h1565)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                             |
+|-------|------------------|---------------|-----------------------------------|
+| h1561 | Goryeo Celadon   | 高丽青瓷      | styles/1604-goryeo-celadon.png    |
+| h1562 | Double Ikat      | 双重絣织      | styles/1605-double-ikat.png       |
+| h1563 | Ormolu           | 鎏金铜        | styles/1606-ormolu.png            |
+| h1564 | Hisizashi        | 菱刺し        | styles/1607-hisizashi.png         |
+| h1565 | Cranberry Glass  | 蔓越莓玻璃    | styles/1608-cranberry-glass.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1608, PNG count 1608. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

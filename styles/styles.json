@@ -20837,5 +20837,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1561",
+    "slug": "goryeo-celadon",
+    "name_en": "Goryeo Celadon",
+    "name_zh": "高丽青瓷",
+    "description_en": "Goryeo celadon: kingfisher-to-jade translucent glaze, ice crackle, carved lotus under milky green depth; not Longquan, not Yue ware, not hakuji, not sanggam-inlay-first.",
+    "description_zh": "高丽青瓷：翡绿半透釉、冰裂纹、釉下刻莲与乳青厚度；非龙泉、非越窑、非白磁、非以镶嵌青瓷为先。",
+    "source": "hermes-explore",
+    "image": "styles/1604-goryeo-celadon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1562",
+    "slug": "double-ikat",
+    "name_en": "Double Ikat",
+    "name_zh": "双重絣织",
+    "description_en": "Double ikat: warp and weft both resist-dyed before weaving, feathered misregistered motifs, indigo rust ivory black; not kasuri-only, not Patola-as-object, not Binakol, not songket.",
+    "description_zh": "双重絣织：经纬皆先防染再织、羽化错位纹样、靛锈牙白与黑；非单絣、非帕托拉实物、非比纳科尔、非宋葛。",
+    "source": "hermes-explore",
+    "image": "styles/1605-double-ikat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1563",
+    "slug": "ormolu",
+    "name_en": "Ormolu",
+    "name_zh": "鎏金铜",
+    "description_en": "Ormolu: mercury fire-gilded bronze, matte chased fields vs burnished high points, honey-to-lemon gilt; not water gilding, not kinpaku, not vermeil jewelry.",
+    "description_zh": "鎏金铜：汞齐火镀金青铜、哑光錾地与抛光高光、蜜金至柠金；非水贴金、非金箔屏、非镀金银饰。",
+    "source": "hermes-explore",
+    "image": "styles/1606-ormolu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1564",
+    "slug": "hisizashi",
+    "name_en": "Hisizashi",
+    "name_zh": "菱刺し",
+    "description_en": "Hisizashi: Tsugaru diamond darning, counted running stitches building nested lozenges on indigo hemp; not kogin-zashi, not sashiko quilting, not kantha, not blackwork.",
+    "description_zh": "菱刺し：津轻菱形纳绣、计数直行针在靛蓝麻上叠菱；非こぎん刺し、非刺子绗缝、非康塔、非黑线绣。",
+    "source": "hermes-explore",
+    "image": "styles/1607-hisizashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1565",
+    "slug": "cranberry-glass",
+    "name_en": "Cranberry Glass",
+    "name_zh": "蔓越莓玻璃",
+    "description_en": "Cranberry glass: gold-chloride ruby blown glass, raspberry-to-rose gathered color, seed bubbles and fire-polish; not amberina, not peachblow, not carnival iridescence, not stained-glass leading.",
+    "description_zh": "蔓越莓玻璃：金氯红宝石吹制玻璃、莓红至玫红积色、气泡与火抛光；非琥珀渐变、非桃吹、非嘉年华虹彩、非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/1608-cranberry-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
