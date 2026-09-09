@@ -4409,6 +4409,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1613, PNG count 1613. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 315 (exactly 5, h1571–h1575)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                              |
+|-------|--------------------|-----------------|------------------------------------|
+| h1571 | Holography         | 全息术          | styles/1614-holography.png         |
+| h1572 | Reduction Woodcut  | 减版木刻        | styles/1615-reduction-woodcut.png  |
+| h1573 | Phong Shading      | 冯氏着色        | styles/1616-phong-shading.png      |
+| h1574 | Polaroid Lift      | 乳剂转移        | styles/1617-polaroid-lift.png      |
+| h1575 | Datamosh           | 数据融帧        | styles/1618-datamosh.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1618, PNG count 1618. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

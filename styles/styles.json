@@ -20967,5 +20967,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1571",
+    "slug": "holography",
+    "name_en": "Holography",
+    "name_zh": "全息术",
+    "description_en": "Holography: Denisyuk reflection-hologram look, rainbow spectral diffraction, laser-speckle grain, depth-layered ghost volumes, cyan-magenta-gold interference; not Lippmann process, not lenticular, not RGB glitch, not iridescent foil.",
+    "description_zh": "全息术：杰尼修克反射全息观感、彩虹光谱衍射、激光散斑、分层幽灵体积、青品红金干涉；非李普曼干涉、非光栅立体、非RGB故障、非幻彩箔。",
+    "source": "hermes-explore",
+    "image": "styles/1614-holography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1572",
+    "slug": "reduction-woodcut",
+    "name_en": "Reduction Woodcut",
+    "name_zh": "减版木刻",
+    "description_en": "Reduction woodcut: single-block suicide print, successive gouging, stacked opaque ink layers, registration kiss, carved-away light; not reduction linocut, not ukiyo-e multi-block, not wood engraving, not linoleum.",
+    "description_zh": "减版木刻：单版自杀印、逐次铲刻、层叠不透明油墨、套准吻印、刻去见亮；非减版麻胶、非浮世绘多版、非木口木刻、非麻胶版。",
+    "source": "hermes-explore",
+    "image": "styles/1615-reduction-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1573",
+    "slug": "phong-shading",
+    "name_en": "Phong Shading",
+    "name_zh": "冯氏着色",
+    "description_en": "Phong shading: per-pixel interpolated normals, specular highlight lobes, smooth plastic-to-skin CG lighting, glossy falloff unlike Gouraud; not cel shading, not Gouraud vertex lighting, not photoreal path tracing, not matcap.",
+    "description_zh": "冯氏着色：逐像素法线插值、高光瓣、光滑塑胶至皮肤的三维光照、异于高洛德的光泽衰减；非赛璐珞着色、非顶点高洛德、非路径追踪写实、非材质捕捉。",
+    "source": "hermes-explore",
+    "image": "styles/1616-phong-shading.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1574",
+    "slug": "polaroid-lift",
+    "name_en": "Polaroid Lift",
+    "name_zh": "乳剂转移",
+    "description_en": "Polaroid lift: instant-film emulsion peeled and transferred, wrinkled translucent skin, torn ragged edges, chemical stain, paper fibers showing through; not Polaroid frame snapshot, not emulsion-lift without wrinkles, not watercolor, not distressed filter.",
+    "description_zh": "乳剂转移：即影菲林乳剂剥离转印、皱褶半透明皮膜、撕边、药液渍、纸纤维透出；非宝丽来白框快照、非无皱转印、非水彩、非做旧滤镜。",
+    "source": "hermes-explore",
+    "image": "styles/1617-polaroid-lift.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1575",
+    "slug": "datamosh",
+    "name_en": "Datamosh",
+    "name_zh": "数据融帧",
+    "description_en": "Datamosh: inter-frame codec smear, I-frame knockout, melted macroblocks, temporal ghost trails, compressed-color bleed; not RGB glitch, not databend file corruption, not chromatic aberration, not scanline CRT.",
+    "description_zh": "数据融帧：帧间编码涂抹、关键帧抽空、宏块熔流、时间残影、压缩色渗；非RGB故障、非文件数据扭曲、非色差、非显像管扫描线。",
+    "source": "hermes-explore",
+    "image": "styles/1618-datamosh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
