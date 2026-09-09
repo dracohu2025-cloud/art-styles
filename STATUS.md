@@ -4170,6 +4170,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1528, PNG count 1528. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 298 (exactly 5, h1486–h1490)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                            |
+|-------|----------------|-------------|----------------------------------|
+| h1486 | Gubbio Lustre  | 古比奥虹彩  | styles/1529-gubbio-lustre.png    |
+| h1487 | Yue Ware       | 越窑青瓷    | styles/1530-yue-ware.png         |
+| h1488 | Bashofu        | 芭蕉布      | styles/1531-bashofu.png          |
+| h1489 | Kuangcao       | 狂草        | styles/1532-kuangcao.png         |
+| h1490 | Canton Enamel  | 广珐琅      | styles/1533-canton-enamel.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1533, PNG count 1533. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

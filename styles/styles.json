@@ -19862,5 +19862,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1486",
+    "slug": "gubbio-lustre",
+    "name_en": "Gubbio Lustre",
+    "name_zh": "古比奥虹彩",
+    "description_en": "Italian Gubbio maiolica lustre: tin-glazed cream ground with cobalt drawing, then ruby-gold metallic lustre flashing; not oil gilt, not stained glass, not ordinary underglaze.",
+    "description_zh": "意大利古比奥虹彩陶：锡釉白地钴蓝勾绘，再烧出金红金属虹光；非油画描金，非彩绘玻璃，非普通釉下彩。",
+    "source": "hermes-explore",
+    "image": "styles/1529-gubbio-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1487",
+    "slug": "yue-ware",
+    "name_en": "Yue Ware",
+    "name_zh": "越窑青瓷",
+    "description_en": "Early Zhejiang Yue celadon: olive-grey translucent ash glaze over incised stoneware, fine crazing, muted jade-olive tone; not Longquan, not porcelain blanc, not jade carving.",
+    "description_zh": "早期越窑青瓷：橄榄灰透青釉覆刻花炻器，细开片，闷青玉色；非龙泉，非白瓷，非玉雕。",
+    "source": "hermes-explore",
+    "image": "styles/1530-yue-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1488",
+    "slug": "bashofu",
+    "name_en": "Bashofu",
+    "name_zh": "芭蕉布",
+    "description_en": "Okinawan bashōfu: pale yellow-green banana-fiber plain weave with slubby yarn and faint kasuri dashes; not ramie linen, not kasuri cotton, not embroidery.",
+    "description_zh": "冲绳芭蕉布：浅黄绿蕉茎纤维平织，纱线略粗，隐约絣纹；非苎麻，非棉絣，非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1531-bashofu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1489",
+    "slug": "kuangcao",
+    "name_en": "Kuangcao",
+    "name_zh": "狂草",
+    "description_en": "Wild-cursive calligraphy as image: explosive grass-script ligatures, flying-white splits, wet-ink spatters on xuan paper; not regular kai, not xieyi wash, not charcoal sketch.",
+    "description_zh": "狂草入画：崩连草书法，飞白枯笔，宣纸湿墨飞溅；非楷书，非写意水墨，非炭笔速写。",
+    "source": "hermes-explore",
+    "image": "styles/1532-kuangcao.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1490",
+    "slug": "canton-enamel",
+    "name_en": "Canton Enamel",
+    "name_zh": "广珐琅",
+    "description_en": "Guangzhou painted enamel on copper: glossy famille-rose reserves, gilt rims, fire-polished enamel on metal; not cloisonné wires, not porcelain fencai, not oil miniature.",
+    "description_zh": "广州铜胎画珐琅：粉彩锦地开光，描金口沿，金属上烧亮珐琅；非掐丝景泰蓝，非瓷上粉彩，非油画微绘。",
+    "source": "hermes-explore",
+    "image": "styles/1533-canton-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
