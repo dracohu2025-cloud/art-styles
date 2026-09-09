@@ -4353,6 +4353,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1593, PNG count 1593. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 311 (exactly 5, h1551–h1555)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                               |
+|-------|------------------|-----------------|-------------------------------------|
+| h1551 | Xingshu          | 行书            | styles/1594-xingshu.png             |
+| h1552 | Paithani         | 派塔尼织金      | styles/1595-paithani.png            |
+| h1553 | Kashan Lustre    | 卡尚虹彩        | styles/1596-kashan-lustre.png       |
+| h1554 | Moche Fine Line  | 莫切细线        | styles/1597-moche-fine-line.png     |
+| h1555 | Pis Syabit       | 皮斯夏比特织    | styles/1598-pis-syabit.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1598, PNG count 1598. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

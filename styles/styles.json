@@ -20707,5 +20707,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1551",
+    "slug": "xingshu",
+    "name_en": "Xingshu",
+    "name_zh": "行书",
+    "description_en": "Xingshu: Chinese running script, semi-cursive linked strokes, rhythmic speed, wet-to-dry ink and flying-white on xuan paper; not kaishu, not kuangcao, not seal script.",
+    "description_zh": "行书：半草相连、节奏变速、浓淡飞白、宣纸墨韵；非楷书、非狂草、非篆书。",
+    "source": "hermes-explore",
+    "image": "styles/1594-xingshu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1552",
+    "slug": "paithani",
+    "name_en": "Paithani",
+    "name_zh": "派塔尼织金",
+    "description_en": "Paithani: Maharashtrian silk brocade, gold zari weft, lotus parrot peacock butis, oblique interlocking pallu; not Banarasi, not Kanchipuram, not songket.",
+    "description_zh": "派塔尼织金：马哈拉施特拉丝绸织金、金纬、莲雀纹、斜向交织 Pallu；非波罗奈斯、非康契普兰、非宋葛。",
+    "source": "hermes-explore",
+    "image": "styles/1595-paithani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1553",
+    "slug": "kashan-lustre",
+    "name_en": "Kashan Lustre",
+    "name_zh": "卡尚虹彩",
+    "description_en": "Kashan lustreware: copper-gold reduction lustre over tin-white glaze, cobalt accents, palmette arabesque; not Gubbio lustre, not Hispano-Moresque, not minai.",
+    "description_zh": "卡尚虹彩：铜金还原虹彩、锡白釉、钴蓝点缀、棕叶卷草；非古比奥虹彩、非西班牙摩尔、非米奈彩。",
+    "source": "hermes-explore",
+    "image": "styles/1596-kashan-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1554",
+    "slug": "moche-fine-line",
+    "name_en": "Moche Fine Line",
+    "name_zh": "莫切细线",
+    "description_en": "Moche fine-line: cream slip, dense iron-oxide contour, narrative registers and stipple on stirrup-spout pictorial space; not Nazca polychrome, not Maya, not woodcut.",
+    "description_zh": "莫切细线：乳白化妆土、密铁红线描、叙事分层与点填、马镫壶画面；非纳斯卡色块、非玛雅、非木刻。",
+    "source": "hermes-explore",
+    "image": "styles/1597-moche-fine-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1555",
+    "slug": "pis-syabit",
+    "name_en": "Pis Syabit",
+    "name_zh": "皮斯夏比特织",
+    "description_en": "Pis syabit: Tausug tapestry-woven headcloth geometry, diamonds zigzags and hooks in magenta gold emerald black; not songket, not inabel, not tnalak.",
+    "description_zh": "皮斯夏比特织：陶苏格缂织头巾几何、菱形折钩、品红金翠绿与黑；非宋葛、非伊纳贝尔、非特纳拉克。",
+    "source": "hermes-explore",
+    "image": "styles/1598-pis-syabit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
