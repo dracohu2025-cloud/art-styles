@@ -19342,5 +19342,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1446",
+    "slug": "pith-paper-painting",
+    "name_en": "Pith Paper Painting",
+    "name_zh": "通草纸画",
+    "description_en": "Pith paper painting (tongcao): gouache on translucent rice-pith sheets, velvety pigment on milky fibrous ground with a thin-paper glow; not cotton-rag watercolor, ink outline, or oil.",
+    "description_zh": "通草纸画：水粉绘于半透明通草片，绒面颜料坐在乳白纤维地上，薄处透光；非棉水彩、墨线或油画。",
+    "source": "hermes-explore",
+    "image": "styles/1489-pith-paper-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1447",
+    "slug": "barro-negro",
+    "name_en": "Barro Negro",
+    "name_zh": "黑陶抛光",
+    "description_en": "Barro negro: Oaxacan reduction-fired carbon-black clay burnished to a satin-jet sheen with incised pottery lines; not matte charcoal, mezzotint, or Qing mirror-black glaze.",
+    "description_zh": "黑陶抛光：瓦哈卡还原烧碳黑陶土，抛至缎面乌光并阴刻陶纹；非炭粉哑光、美柔汀或清代乌金釉。",
+    "source": "hermes-explore",
+    "image": "styles/1490-barro-negro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1448",
+    "slug": "fish-roe-crackle",
+    "name_en": "Fish-roe Crackle",
+    "name_zh": "鱼子纹",
+    "description_en": "Fish-roe crackle (yuzi wen): Ge-type glaze of dense tiny brown crackle grains like fish roe over pale gray-cream porcelain; not large ice-crackle shards or stained-glass leading.",
+    "description_zh": "鱼子纹：哥窑类釉，灰白釉上密布细如鱼子的褐开片；非大块冰裂纹或彩窗铅条。",
+    "source": "hermes-explore",
+    "image": "styles/1491-fish-roe-crackle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1449",
+    "slug": "tambour-embroidery",
+    "name_en": "Tambour Embroidery",
+    "name_zh": "绷圈钩绣",
+    "description_en": "Tambour embroidery: continuous hooked chain-stitch in silk on taut muslin, raised cord-like loops; not satin stitch, cross-stitch, or printed cloth.",
+    "description_zh": "绷圈钩绣：在绷紧细布上用钩针连成链式丝线，线环如细绳隆起；非缎纹绣、十字绣或印花布。",
+    "source": "hermes-explore",
+    "image": "styles/1492-tambour-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1450",
+    "slug": "spongeware",
+    "name_en": "Spongeware",
+    "name_zh": "海绵印陶",
+    "description_en": "Spongeware: mineral-color slip dabbed with sponge on cream earthenware—cobalt, copper-green, manganese mottling; not watercolor splatter, pointillism, or airbrush.",
+    "description_zh": "海绵印陶：在奶油色陶器上用海绵蘸矿物色泥浆点印，钴蓝、铜绿、锰紫斑驳；非水彩飞溅、点彩或喷绘。",
+    "source": "hermes-explore",
+    "image": "styles/1493-spongeware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

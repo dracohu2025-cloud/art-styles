@@ -4057,6 +4057,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1488, PNG count 1488. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 290 (exactly 5, h1446–h1450)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh     | image                                   |
+|-------|----------------------|-------------|-----------------------------------------|
+| h1446 | Pith Paper Painting  | 通草纸画    | styles/1489-pith-paper-painting.png     |
+| h1447 | Barro Negro          | 黑陶抛光    | styles/1490-barro-negro.png             |
+| h1448 | Fish-roe Crackle     | 鱼子纹      | styles/1491-fish-roe-crackle.png        |
+| h1449 | Tambour Embroidery   | 绷圈钩绣    | styles/1492-tambour-embroidery.png      |
+| h1450 | Spongeware           | 海绵印陶    | styles/1493-spongeware.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1493, PNG count 1493. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
