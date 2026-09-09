@@ -20447,5 +20447,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1531",
+    "slug": "lai-rod-nam",
+    "name_en": "Lai Rod Nam",
+    "name_zh": "沥水金漆",
+    "description_en": "Lai rod nam: Thai gold-washed lacquer, incised black ground, water-washed gold remaining only in the cuts, kranok filigree; not maki-e sprinkled gold, not chinkin, not painted metallic gilt.",
+    "description_zh": "沥水金漆：泰式水洗贴金、黑漆阴刻、金箔仅留于刻线、火焰纹细金；非莳绘洒金、非沉金、非描金。",
+    "source": "hermes-explore",
+    "image": "styles/1574-lai-rod-nam.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1532",
+    "slug": "mokumezuri",
+    "name_en": "Mokumezuri",
+    "name_zh": "木目摺",
+    "description_en": "Mokumezuri: ukiyo-e woodgrain printing, baren-pressed plank figure and annual rings as the image surface on washi; not mokume-gane metal, not wood engraving, not a wood photograph.",
+    "description_zh": "木目摺：浮世绘木纹拓印、马连压出年轮与板目作为画面；非木目金、非木口木刻、非木材照片。",
+    "source": "hermes-explore",
+    "image": "styles/1575-mokumezuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1533",
+    "slug": "inabel",
+    "name_en": "Inabel",
+    "name_zh": "伊纳贝尔织",
+    "description_en": "Inabel: Ilocano warp-faced cotton handweaving, binakol whirlwind geometry, supplementary-weft bands and loom texture; not ikat blur, not tapestry pictorial weave, not embroidery.",
+    "description_zh": "伊纳贝尔织：伊洛戈经面棉织、比纳科尔旋纹几何、铺纬色带与织机肌理；非絣织晕色、非织锦画、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1576-inabel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1534",
+    "slug": "raqqa-ware",
+    "name_en": "Raqqa Ware",
+    "name_zh": "拉卡陶",
+    "description_en": "Raqqa ware: medieval Syrian black underglaze under transparent turquoise alkaline glaze, vegetal-calligraphic rhythm, ceramic crackle; not Iznik, not celadon, not metallic lustreware.",
+    "description_zh": "拉卡陶：中世纪叙利亚黑彩罩透明松石碱釉、草木书法纹、釉面开片；非伊兹尼克、非青瓷、非虹彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/1577-raqqa-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1535",
+    "slug": "jeweled-porcelain",
+    "name_en": "Jeweled Porcelain",
+    "name_zh": "宝石点瓷",
+    "description_en": "Jeweled porcelain: Sèvres jewelling, raised enamel gem-drops on gilt rococo and painted porcelain; not cloisonné wires, not mosaic tesserae, not rhinestone collage.",
+    "description_zh": "宝石点瓷：塞夫尔点珐琅宝石滴、洛可可描金与瓷绘；非掐丝珐琅、非马赛克粒、非水钻拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/1578-jeweled-porcelain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

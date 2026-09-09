@@ -4296,6 +4296,22 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1573, PNG count 1573. No REJECT names. UI left flat (no filters/tabs).
 
+
+## Hermes-explore batch 307 (exactly 5, h1531–h1535)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                               |
+|-------|--------------------|---------------|-------------------------------------|
+| h1531 | Lai Rod Nam        | 沥水金漆      | styles/1574-lai-rod-nam.png         |
+| h1532 | Mokumezuri         | 木目摺        | styles/1575-mokumezuri.png          |
+| h1533 | Inabel             | 伊纳贝尔织    | styles/1576-inabel.png              |
+| h1534 | Raqqa Ware         | 拉卡陶        | styles/1577-raqqa-ware.png          |
+| h1535 | Jeweled Porcelain  | 宝石点瓷      | styles/1578-jeweled-porcelain.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1578, PNG count 1578. No REJECT names. UI left flat (no filters/tabs).
+
+
 ## Verified
 
 - Catalog length and PNG count match
