@@ -4142,6 +4142,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1518, PNG count 1518. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 296 (exactly 5, h1476–h1480)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh         | image                                   |
+|-------|-----------------------|-----------------|-----------------------------------------|
+| h1476 | Safavid Miniature     | 萨法维细密画    | styles/1519-safavid-miniature.png       |
+| h1477 | Finish Fetish         | 光洁拜物        | styles/1520-finish-fetish.png           |
+| h1478 | Andamento             | 镶嵌走向        | styles/1521-andamento.png               |
+| h1479 | Khayamiya             | 卡亚米亚贴花    | styles/1522-khayamiya.png               |
+| h1480 | Oscillation Painting  | 摆动绘画        | styles/1523-oscillation-painting.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1523, PNG count 1523. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

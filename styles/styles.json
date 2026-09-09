@@ -19732,5 +19732,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1476",
+    "slug": "safavid-miniature",
+    "name_en": "Safavid Miniature",
+    "name_zh": "萨法维细密画",
+    "description_en": "Tabriz–Isfahan manuscript illumination: mineral lapis and vermilion, burnished gold leaf, flattened stacked space, dense vegetal arabesque; not Mughal, not Ottoman, not cel animation.",
+    "description_zh": "大不里士–伊斯法罕细密画：矿物青金与朱红、烫金箔、平铺叠视与繁密植物纹；非莫卧儿、非奥斯曼、非赛璐珞动画。",
+    "source": "hermes-explore",
+    "image": "styles/1519-safavid-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1477",
+    "slug": "finish-fetish",
+    "name_en": "Finish Fetish",
+    "name_zh": "光洁拜物",
+    "description_en": "1960s Los Angeles Look: candy automotive lacquer, sprayed polymer, vacuum-formed gloss and specular showroom surface; not matte sculpture, not chrome-only, not studio portrait.",
+    "description_zh": "1960年代洛杉矶光洁拜物：糖果汽车漆、喷涂聚合物、真空成型高光展厅表面；非哑光雕塑，非纯铬面，非影棚肖像。",
+    "source": "hermes-explore",
+    "image": "styles/1520-finish-fetish.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1478",
+    "slug": "andamento",
+    "name_en": "Andamento",
+    "name_zh": "镶嵌走向",
+    "description_en": "Mosaic tesserae laid in flowing directional courses that describe form; smalti, stone cubes, visible grout; not pixel art, not photo collage, not embroidery.",
+    "description_zh": "按形体走向铺排的马赛克镶嵌：熔块玻璃与石粒、可见填缝；非像素画，非照片拼贴，非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1521-andamento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1479",
+    "slug": "khayamiya",
+    "name_en": "Khayamiya",
+    "name_zh": "卡亚米亚贴花",
+    "description_en": "Egyptian tentmaker appliqué: dense cotton overlay, bold geometric arabesque tent panels, hand-stitched edges; not quilting, not Kuna mola, not sampler embroidery.",
+    "description_zh": "埃及帐篷贴花：厚棉布叠贴、高对比几何蔓藤纹与手缝边；非拼布被、非库纳莫拉、非刺绣样本。",
+    "source": "hermes-explore",
+    "image": "styles/1522-khayamiya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1480",
+    "slug": "oscillation-painting",
+    "name_en": "Oscillation Painting",
+    "name_zh": "摆动绘画",
+    "description_en": "Surrealist pendulum automatism: looping sinusoidal drips, chance-controlled nested coils of thin paint; not Action Painting splatters, not Spirograph, not string-pull.",
+    "description_zh": "超现实摆锤自动绘画：正弦回环滴痕与偶然套叠线圈；非行动绘画泼溅，非螺线规，非拉线彩。",
+    "source": "hermes-explore",
+    "image": "styles/1523-oscillation-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
