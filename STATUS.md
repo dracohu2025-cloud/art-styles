@@ -4465,6 +4465,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1633, PNG count 1633. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 319 (exactly 5, h1591–h1595)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                              |
+|-------|------------------|-----------------|------------------------------------|
+| h1591 | Krokbragd        | 克罗克布拉格织  | styles/1634-krokbragd.png          |
+| h1592 | Puncetto         | 蓬切托蕾丝      | styles/1635-puncetto.png           |
+| h1593 | Iron Rust Glaze  | 铁锈花釉        | styles/1636-iron-rust-glaze.png    |
+| h1594 | Granito          | 砂雕玻璃        | styles/1637-granito.png            |
+| h1595 | Radiosity        | 辐射度          | styles/1638-radiosity.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1638, PNG count 1638. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -21227,5 +21227,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1591",
+    "slug": "krokbragd",
+    "name_en": "Krokbragd",
+    "name_zh": "克罗克布拉格织",
+    "description_en": "Krokbragd: Norwegian weft-faced boundweave, repeating geometric bands, weft ribs covering the warp, stepped diamonds and chevrons; not kilim, not Bargello, not brocade, not pixel art.",
+    "description_zh": "克罗克布拉格织：挪威纬面绑织、重复几何色带、纬线覆盖经线、阶梯菱形与人字纹；非基里姆、非巴杰洛、非织锦、非像素画。",
+    "source": "hermes-explore",
+    "image": "styles/1634-krokbragd.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1592",
+    "slug": "puncetto",
+    "name_en": "Puncetto",
+    "name_zh": "蓬切托蕾丝",
+    "description_en": "Puncetto: Valsesia knotted needle lace, dense geometric knots and picots built stitch-by-stitch with no bobbins; not tatting, not bobbin lace, not filet crochet, not embroidery on cloth.",
+    "description_zh": "蓬切托蕾丝：瓦尔塞西亚打结针绣蕾丝、密几何结与皮柯、纯针结无梭；非梭织蕾丝、非梭结蕾丝、非网眼钩针、非布面刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1635-puncetto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1593",
+    "slug": "iron-rust-glaze",
+    "name_en": "Iron Rust Glaze",
+    "name_zh": "铁锈花釉",
+    "description_en": "Iron Rust Glaze: Cizhou-type white slip with iron-oxide underglaze that fires rust-brown to tea-black, calligraphic floral brushwork under clear glaze; not underglaze blue, not overglaze enamel, not tenmoku, not ink on paper.",
+    "description_zh": "铁锈花釉：磁州系白化妆土上铁绘、烧成锈褐至茶黑、透明釉下书法式花卉；非青花、非釉上彩、非天目、非纸本水墨。",
+    "source": "hermes-explore",
+    "image": "styles/1636-iron-rust-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1594",
+    "slug": "granito",
+    "name_en": "Granito",
+    "name_zh": "砂雕玻璃",
+    "description_en": "Granito: Murano cold-worked glass, densely sand-abraded granulated matte skin with sparse polished windows; not scavo, not battuto, not cut crystal, not pate de verre.",
+    "description_zh": "砂雕玻璃：穆拉诺冷加工、密砂磨颗粒哑光皮层与少量抛光窗；非考古毛玻璃、非锤纹、非切割水晶、非玻粉熔铸。",
+    "source": "hermes-explore",
+    "image": "styles/1637-granito.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1595",
+    "slug": "radiosity",
+    "name_en": "Radiosity",
+    "name_zh": "辐射度",
+    "description_en": "Radiosity: precomputed global illumination, patch-based color bleeding, soft indirect light without specular ray spikes; not path tracing, not ray marching, not Phong, not ambient occlusion alone.",
+    "description_zh": "辐射度：预计算全局光照、面片色溢、柔间接光无镜面光线尖峰；非路径追踪、非光线行进、非冯氏高光、非单纯环境光遮蔽。",
+    "source": "hermes-explore",
+    "image": "styles/1638-radiosity.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
