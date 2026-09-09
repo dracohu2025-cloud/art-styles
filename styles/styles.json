@@ -20187,5 +20187,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1511",
+    "slug": "paracas",
+    "name_en": "Paracas",
+    "name_zh": "帕拉卡斯绣",
+    "description_en": "Paracas embroidery: dense stem- and satin-stitch on dark camelid wool, stepped frets and flying-figure contours in acid reds yellows blues; not Nazca pottery painting, not Inca tocapu, not a mantle relic shot.",
+    "description_zh": "帕拉卡斯绣：深色驼羊毛地密针平绣与阶梯回纹、飞人轮廓；非纳斯卡陶绘、非印加托卡普、非斗篷文物静物。",
+    "source": "hermes-explore",
+    "image": "styles/1554-paracas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1512",
+    "slug": "tughra",
+    "name_en": "Tughra",
+    "name_zh": "图格拉",
+    "description_en": "Ottoman tuğra illumination: soaring shafts, almond sere loops, interlaced gold ribbons, rumi and hatayi on olive-indigo; not Diwani running script, not Nastaliq, not square Kufic.",
+    "description_zh": "图格拉：竖笔、杏仁环、金带交织与鲁米花叶于橄榄靛蓝地；非迪瓦尼行书、非纳斯塔利克、非方库法。",
+    "source": "hermes-explore",
+    "image": "styles/1555-tughra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1513",
+    "slug": "cuenca",
+    "name_en": "Cuenca",
+    "name_zh": "凹陷填釉",
+    "description_en": "Spanish cuenca / arista tile: stamped clay ridges holding pooled tin-glaze in wells, copper-green cobalt manganese honey; not cuerda seca grease lines, not flat painted azulejo, not Iznik.",
+    "description_zh": "凹陷填釉：模印棱脊蓄釉、铜绿钴蓝锰褐蜜黄；非干绳隔线、非平面阿兹勒霍、非伊兹尼克。",
+    "source": "hermes-explore",
+    "image": "styles/1556-cuenca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1514",
+    "slug": "dymkovo",
+    "name_en": "Dymkovo",
+    "name_zh": "德姆科沃",
+    "description_en": "Dymkovo painting: chalk-white ground with crimson, gold-yellow, sky-blue and soot-black spots, circles and dotted flowers; not Khokhloma scroll, not Gzhel cobalt, not Filimonovo elongation.",
+    "description_zh": "德姆科沃：白粉底上绯红、金黄、天蓝与煤黑圆点条纹；非霍赫洛玛卷草、非格热利青花、非菲利莫诺沃细长形。",
+    "source": "hermes-explore",
+    "image": "styles/1557-dymkovo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1515",
+    "slug": "slag-glass",
+    "name_en": "Slag Glass",
+    "name_zh": "熔渣玻璃",
+    "description_en": "Victorian pressed slag glass: opaque marbled streaks of chocolate, cream, malachite and plum with vitreous mold sheen; not carnival iridescence, not uranium vaseline, not millefiori canes.",
+    "description_zh": "熔渣玻璃：巧克力、奶油、孔雀石与梅紫不透明绞纹压模玻璃光；非嘉年华虹彩、非铀凡士林玻璃、非千花棒。",
+    "source": "hermes-explore",
+    "image": "styles/1558-slag-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

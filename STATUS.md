@@ -4240,6 +4240,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1553, PNG count 1553. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 303 (exactly 5, h1511–h1515)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh     | image                          |
+|-------|------------|-------------|--------------------------------|
+| h1511 | Paracas    | 帕拉卡斯绣  | styles/1554-paracas.png        |
+| h1512 | Tughra     | 图格拉      | styles/1555-tughra.png         |
+| h1513 | Cuenca     | 凹陷填釉    | styles/1556-cuenca.png         |
+| h1514 | Dymkovo    | 德姆科沃    | styles/1557-dymkovo.png        |
+| h1515 | Slag Glass | 熔渣玻璃    | styles/1558-slag-glass.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1558, PNG count 1558. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
