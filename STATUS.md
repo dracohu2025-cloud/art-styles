@@ -4100,6 +4100,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1503, PNG count 1503. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 293 (exactly 5, h1461–h1465)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                               |
+|-------|-----------------|-----------------|-------------------------------------|
+| h1461 | Mise            | 秘色            | styles/1504-mise.png                |
+| h1462 | Foldforming     | 折叠成形        | styles/1505-foldforming.png         |
+| h1463 | Memphis Milano  | 孟菲斯米兰      | styles/1506-memphis-milano.png      |
+| h1464 | Shifu           | 纸布织          | styles/1507-shifu.png               |
+| h1465 | Pen Plotter     | 绘图仪线描      | styles/1508-pen-plotter.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1508, PNG count 1508. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

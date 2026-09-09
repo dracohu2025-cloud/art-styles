@@ -19537,5 +19537,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1461",
+    "slug": "mise",
+    "name_en": "Mise",
+    "name_zh": "秘色",
+    "description_en": "Tang Yue secret-color celadon: thin olive-jade glaze, watery ice luster, almost no crackle; not Longquan, not sanggam inlay.",
+    "description_zh": "越窑秘色：薄匀橄榄青釉，水色玻璃光，几乎无开片；非龙泉青瓷，非镶嵌青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/1504-mise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1462",
+    "slug": "foldforming",
+    "name_en": "Foldforming",
+    "name_zh": "折叠成形",
+    "description_en": "Metalsmith foldforming: sheet folded, forged, annealed, unfolded into T-folds and synclastic ridges; not origami, not mokume-gane.",
+    "description_zh": "金属折叠成形：薄板折叠、锻打、退火后再展开成T折与对曲脊线；非折纸，非木目金。",
+    "source": "hermes-explore",
+    "image": "styles/1505-foldforming.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1463",
+    "slug": "memphis-milano",
+    "name_en": "Memphis Milano",
+    "name_zh": "孟菲斯米兰",
+    "description_en": "1980s Memphis Group laminate geometry: Bacterio squiggles, candy teal-pink-yellow-black, fake terrazzo; not vaporwave, not Bauhaus.",
+    "description_zh": "1980年代孟菲斯小组：层压板几何、细菌纹涂鸦、糖果色与仿水磨石；非蒸汽波，非包豪斯。",
+    "source": "hermes-explore",
+    "image": "styles/1506-memphis-milano.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1464",
+    "slug": "shifu",
+    "name_en": "Shifu",
+    "name_zh": "纸布织",
+    "description_en": "Japanese shifu: washi twisted into kami-ito and woven as cloth with paper-fiber slubs; not origami, not papercut, not ordinary linen.",
+    "description_zh": "和纸捻成纸纱再织成布，可见纸纤维粗节与干爽垂感；非折纸、非剪纸、非普通麻布。",
+    "source": "hermes-explore",
+    "image": "styles/1507-shifu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1465",
+    "slug": "pen-plotter",
+    "name_en": "Pen Plotter",
+    "name_zh": "绘图仪线描",
+    "description_en": "Mechanical HPGL/AxiDraw pen plot: single-stroke fineliner paths, contour hatching, registration ticks on cream paper; not raster, not charcoal.",
+    "description_zh": "机械绘图仪线描：单笔触针管笔路径、等高排线、套准十字与米色绘图纸；非光栅，非炭笔。",
+    "source": "hermes-explore",
+    "image": "styles/1508-pen-plotter.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
