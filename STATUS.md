@@ -4156,6 +4156,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1523, PNG count 1523. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 297 (exactly 5, h1481–h1485)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                  |
+|-------|----------------------|-----------------|----------------------------------------|
+| h1481 | Hedwig Glass         | 海德维希玻璃    | styles/1524-hedwig-glass.png           |
+| h1482 | Raised Paste Gilding | 堆粉描金        | styles/1525-raised-paste-gilding.png   |
+| h1483 | Baibaoqian           | 百宝嵌          | styles/1526-baibaoqian.png             |
+| h1484 | E-garatsu            | 绘唐津          | styles/1527-e-garatsu.png              |
+| h1485 | Diatreta             | 镂空套玻璃      | styles/1528-diatreta.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1528, PNG count 1528. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

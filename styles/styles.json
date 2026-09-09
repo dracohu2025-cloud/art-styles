@@ -19797,5 +19797,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1481",
+    "slug": "hedwig-glass",
+    "name_en": "Hedwig Glass",
+    "name_zh": "海德维希玻璃",
+    "description_en": "Medieval Hedwigsgläser: thick greenish potash glass, wheel-cut high-relief lions, eagles, palmettes and beveled facets; not stained glass, not crystal cutware, not porcelain.",
+    "description_zh": "中世纪海德维希玻璃杯：厚青绿钾玻璃、轮刻高浮雕狮鹰棕叶与斜切棱面；非彩绘玻璃，非水晶刻花，非瓷器。",
+    "source": "hermes-explore",
+    "image": "styles/1524-hedwig-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1482",
+    "slug": "raised-paste-gilding",
+    "name_en": "Raised Paste Gilding",
+    "name_zh": "堆粉描金",
+    "description_en": "Sèvres/Chelsea raised gold paste jeweling: tooled rococo scrolls and dots, burnished vs matte gold on glazed porcelain; not flat leaf gilding, not oil paint, not mosaic.",
+    "description_zh": "塞夫尔/切尔西堆粉描金：可塑金膏洛可可卷纹与珠点、亮哑金对比于釉瓷地；非平面金箔，非油画，非镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/1525-raised-paste-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1483",
+    "slug": "baibaoqian",
+    "name_en": "Baibaoqian",
+    "name_zh": "百宝嵌",
+    "description_en": "Yangzhou hundred-treasure inlay: jade, agate, coral, turquoise, lapis and mother-of-pearl set into dark lacquer or hardwood; not cloisonné, not Florentine pietra dura, not glass mosaic.",
+    "description_zh": "扬州百宝嵌：玉、玛瑙、珊瑚、松石、青金石与螺钿嵌于深色漆木；非掐丝珐琅，非佛罗伦萨硬石镶嵌，非玻璃马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/1526-baibaoqian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1484",
+    "slug": "e-garatsu",
+    "name_en": "E-garatsu",
+    "name_zh": "绘唐津",
+    "description_en": "Painted Karatsu stoneware: iron-oxide brush on sandy clay, reeds and birds, wood-fired toast and white-slip flashes; not blue-and-white porcelain, not ink-on-paper, not Oribe green.",
+    "description_zh": "绘唐津：砂质陶上铁绘芦苇飞鸟、柴烧火色与白化妆土闪斑；非青花瓷，非纸本水墨，非织部绿釉。",
+    "source": "hermes-explore",
+    "image": "styles/1527-e-garatsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1485",
+    "slug": "diatreta",
+    "name_en": "Diatreta",
+    "name_zh": "镂空套玻璃",
+    "description_en": "Roman vasa diatreta cage cup: undercut openwork glass network standing free of the inner vessel on tiny bridges; not stained glass, not wire sculpture, not 3D-print lattice.",
+    "description_zh": "罗马镂空套杯：内壁外游离的镂空玻璃网，仅以细桥相连；非彩绘玻璃，非金属丝雕塑，非3D打印网格。",
+    "source": "hermes-explore",
+    "image": "styles/1528-diatreta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
