@@ -4000,6 +4000,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1468, PNG count 1468. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 286 (exactly 5, h1426–h1430)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                               |
+|-------|------------------|---------------|-------------------------------------|
+| h1426 | Hyalith          | 墨玉玻璃      | styles/1469-hyalith.png             |
+| h1427 | Kraak Porcelain  | 克拉克瓷      | styles/1470-kraak-porcelain.png     |
+| h1428 | Boutis           | 马赛绗缝      | styles/1471-boutis.png              |
+| h1429 | Fikellura        | 菲克卢拉      | styles/1472-fikellura.png           |
+| h1430 | Amberina         | 琥珀红玻璃    | styles/1473-amberina.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1473, PNG count 1473. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

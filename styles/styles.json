@@ -19082,5 +19082,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1426",
+    "slug": "hyalith",
+    "name_en": "Hyalith",
+    "name_zh": "墨玉玻璃",
+    "description_en": "Hyalith: 19th-century Bohemian opaque jet-black glass, dense coal-black body, satin kiln sheen, Empire gilt-enamel arabesques on the black; not chrome CGI, carnival iridescence, or stained-glass leading.",
+    "description_zh": "墨玉玻璃：19世纪波希米亚不透明墨黑玻璃、煤黑致密胎、窑冷缎光、帝国风金彩卷草贴于黑地，非铬面三维、嘉年华虹彩或彩绘玻璃铅条。",
+    "source": "hermes-explore",
+    "image": "styles/1469-hyalith.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1427",
+    "slug": "kraak-porcelain",
+    "name_en": "Kraak Porcelain",
+    "name_zh": "克拉克瓷",
+    "description_en": "Kraak Porcelain: late-Ming Jingdezhen export blue-and-white, paneled kraak borders, cobalt underglaze on warm porcelain white, kiln grit; not Imari polychrome, Delftware, or modern sometsuke.",
+    "description_zh": "克拉克瓷：晚明景德镇外销青花、分格克拉克开光、暖白瓷地钴蓝釉下、窑砂，非伊万里彩、代尔夫特陶或现代染付。",
+    "source": "hermes-explore",
+    "image": "styles/1470-kraak-porcelain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1428",
+    "slug": "boutis",
+    "name_en": "Boutis",
+    "name_zh": "马赛绗缝",
+    "description_en": "Boutis: Marseille Provençal white corded quilting, stuffed needle-run channels, all-white relief floral-scroll covering figure and ground; not colored trapunto, satin-stitch embroidery, or lace.",
+    "description_zh": "马赛绗缝：普罗旺斯白地夹线绗缝、针走填棉槽、满幅白浮雕卷草覆盖人物与地，非彩色trapunto、缎绣或蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/1471-boutis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1429",
+    "slug": "fikellura",
+    "name_en": "Fikellura",
+    "name_zh": "菲克卢拉",
+    "description_en": "Fikellura: East Greek 6th-century vase-painting, creamy buff slip, black-glaze silhouettes without incision, crescent and volute fillers; not Attic incised black-figure, red-figure, or tattoo flash.",
+    "description_zh": "菲克卢拉：东希腊前六世纪陶绘、乳黄化妆土、无刻线黑釉剪影、新月与涡卷填充，非雅典刻线黑绘、红绘或现代纹身稿。",
+    "source": "hermes-explore",
+    "image": "styles/1472-fikellura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1430",
+    "slug": "amberina",
+    "name_en": "Amberina",
+    "name_zh": "琥珀红玻璃",
+    "description_en": "Amberina: 1880s New England heat-shaded art glass, continuous amber-gold to fuchsia-ruby furnace gradient, fire-polished translucent body; not uniform gold-ruby, cranberry overlay, or sunset illustration.",
+    "description_zh": "琥珀红玻璃：1880年代新英格兰窑变套色、琥珀金至品红宝石红连续炉火渐变、火抛半透明胎，非均匀金红玻璃、覆层蔓越莓或夕阳插画。",
+    "source": "hermes-explore",
+    "image": "styles/1473-amberina.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
