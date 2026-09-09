@@ -4212,6 +4212,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1543, PNG count 1543. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 301 (exactly 5, h1501–h1505)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                |
+|-------|--------------------|-------------|--------------------------------------|
+| h1501 | Diwani             | 迪瓦尼体    | styles/1544-diwani.png               |
+| h1502 | Stiacciato         | 薄肉浮雕    | styles/1545-stiacciato.png           |
+| h1503 | Akwete             | 阿奎特织    | styles/1546-akwete.png               |
+| h1504 | Partridge Feather  | 鹧鸪斑      | styles/1547-partridge-feather.png    |
+| h1505 | Maya Blue          | 玛雅蓝      | styles/1548-maya-blue.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1548, PNG count 1548. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

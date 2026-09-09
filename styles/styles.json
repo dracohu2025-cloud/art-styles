@@ -20057,5 +20057,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1501",
+    "slug": "diwani",
+    "name_en": "Diwani",
+    "name_zh": "迪瓦尼体",
+    "description_en": "Ottoman chancery script: extreme rightward slope, stacked ligatures, nested loops in gold-brown ink; not thuluth, not naskh, not nastaliq, not kufic.",
+    "description_zh": "奥斯曼宫廷文书体：极度右倾、叠合连写、套环金褐墨；非苏鲁斯、非纳斯赫、非纳斯塔利克、非库法。",
+    "source": "hermes-explore",
+    "image": "styles/1544-diwani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1502",
+    "slug": "stiacciato",
+    "name_en": "Stiacciato",
+    "name_zh": "薄肉浮雕",
+    "description_en": "Rilievo schiacciato: forms barely rising millimeters, depth drawn by incision and stone sfumato; not high relief, not bas-relief projection, not cameo.",
+    "description_zh": "薄肉浮雕：形体仅隆起数毫米，以阴刻与石面晕影造深；非高浮雕、非浅浮雕凸起、非浮雕宝石。",
+    "source": "hermes-explore",
+    "image": "styles/1545-stiacciato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1503",
+    "slug": "akwete",
+    "name_en": "Akwete",
+    "name_zh": "阿奎特织",
+    "description_en": "Igbo weft-float prestige cloth: geometric ikaki lattices, chevrons, warp-faced stripes in red-indigo-gold; not kente, not aso-oke, not ndop.",
+    "description_zh": "伊博纬浮盛装织：几何龟纹格、人字纹、红靛金经面条纹；非肯泰、非阿索奥克、非恩多普。",
+    "source": "hermes-explore",
+    "image": "styles/1546-akwete.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1504",
+    "slug": "partridge-feather",
+    "name_en": "Partridge Feather",
+    "name_zh": "鹧鸪斑",
+    "description_en": "Jian partridge-feather glaze: small russet speckles on glossy iron-black ground; not hare's-fur streaks, not yuteki oil-spot, not tenmoku crystals.",
+    "description_zh": "建窑鹧鸪斑釉：漆黑铁地上细碎赭斑；非兔毫条纹、非油滴圆斑、非天目结晶。",
+    "source": "hermes-explore",
+    "image": "styles/1547-partridge-feather.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1505",
+    "slug": "maya-blue",
+    "name_en": "Maya Blue",
+    "name_zh": "玛雅蓝",
+    "description_en": "Mesoamerican mural: indigo-palygorskite Maya blue with hematite red and lime white on stucco, flat unshaded fields; not Mixtec codex, not Aztec codex, not amate.",
+    "description_zh": "中美洲壁画：靛蓝-坡缕石玛雅蓝配赤铁矿红与石灰白于灰泥，平涂无晕；非米斯特克抄本、非阿兹特克抄本、非阿马特树皮纸。",
+    "source": "hermes-explore",
+    "image": "styles/1548-maya-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
