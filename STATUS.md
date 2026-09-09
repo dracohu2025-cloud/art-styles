@@ -4451,6 +4451,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1628, PNG count 1628. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 318 (exactly 5, h1586–h1590)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                             |
+|-------|------------------|-------------|-----------------------------------|
+| h1586 | Teletext         | 图文电视    | styles/1629-teletext.png          |
+| h1587 | Icon Painting    | 圣像画      | styles/1630-icon-painting.png     |
+| h1588 | Dutch Wax        | 荷兰蜡印    | styles/1631-dutch-wax.png         |
+| h1589 | Ray Marching     | 光线行进    | styles/1632-ray-marching.png      |
+| h1590 | Double Exposure  | 双重曝光    | styles/1633-double-exposure.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1633, PNG count 1633. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

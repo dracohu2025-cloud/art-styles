@@ -21162,5 +21162,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1586",
+    "slug": "teletext",
+    "name_en": "Teletext",
+    "name_zh": "图文电视",
+    "description_en": "Teletext: World System Teletext / Ceefax mosaic, 2×3 block characters, hard 8-color palette, double-height headers, no anti-alias; not PETSCII, not ANSI, not pixel-art sprites, not CRT photograph.",
+    "description_zh": "图文电视：WST/Ceefax马赛克、2×3色块字符、硬8色、双倍行高标题、无抗锯齿；非PETSCII、非ANSI、非精灵像素、非CRT实拍。",
+    "source": "hermes-explore",
+    "image": "styles/1629-teletext.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1587",
+    "slug": "icon-painting",
+    "name_en": "Icon Painting",
+    "name_zh": "圣像画",
+    "description_en": "Icon Painting: Orthodox/Byzantine egg tempera on gesso, burnished gold-leaf ground, reverse perspective, sankir underpainting, linear drapery; not oil realism, not sfumato, not stained glass, not fresco.",
+    "description_zh": "圣像画：东正/拜占庭石膏地蛋彩、磨光金地、反向透视、桑基尔底色、线描衣褶；非油画写实、非烟雾法、非彩绘玻璃、非湿壁画。",
+    "source": "hermes-explore",
+    "image": "styles/1630-icon-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1588",
+    "slug": "dutch-wax",
+    "name_en": "Dutch Wax",
+    "name_zh": "荷兰蜡印",
+    "description_en": "Dutch Wax: industrial wax-resist cotton print, superimposed complementary layers, factory crackle veins, repeating graphic motifs; not hand batik, not ikat, not shibori, not kalamkari.",
+    "description_zh": "荷兰蜡印：工业蜡防印花棉、互补色叠层、工厂裂纹脉络、重复图形纹样；非手绘蜡染、非絣织、非绞缬、非卡拉姆卡里。",
+    "source": "hermes-explore",
+    "image": "styles/1631-dutch-wax.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1589",
+    "slug": "ray-marching",
+    "name_en": "Ray Marching",
+    "name_zh": "光线行进",
+    "description_en": "Ray Marching: sphere-tracing of signed distance fields, step-fog AO, implicit surfaces, Shadertoy SDF look; not path tracing, not polygon raster, not voxels, not marching cubes.",
+    "description_zh": "光线行进：符号距离场球面追踪、步进雾遮蔽、隐式曲面、Shadertoy SDF感；非路径追踪、非多边形光栅、非体素、非行进立方体。",
+    "source": "hermes-explore",
+    "image": "styles/1632-ray-marching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1590",
+    "slug": "double-exposure",
+    "name_en": "Double Exposure",
+    "name_zh": "双重曝光",
+    "description_en": "Double Exposure: in-camera multiple film exposure, translucent silhouette blend, shared highlights, analog grain; not digital collage, not hologram, not lenticular, not photogram.",
+    "description_zh": "双重曝光：机内多次胶片曝光、半透明剪影叠合、共享高光、模拟颗粒；非数字拼贴、非全息、非光栅立体、非物影照片。",
+    "source": "hermes-explore",
+    "image": "styles/1633-double-exposure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
