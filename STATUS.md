@@ -4367,6 +4367,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1598, PNG count 1598. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 312 (exactly 5, h1556–h1560)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                         |
+|-------|--------------|-------------|-------------------------------|
+| h1556 | Naskh        | 纳斯赫体    | styles/1599-naskh.png         |
+| h1557 | Tiefschnitt  | 深雕玻璃    | styles/1600-tiefschnitt.png   |
+| h1558 | Kundan       | 昆丹镶嵌    | styles/1601-kundan.png        |
+| h1559 | Rigatino     | 细线补绘    | styles/1602-rigatino.png      |
+| h1560 | Binakol      | 比纳科尔织  | styles/1603-binakol.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1603, PNG count 1603. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -20772,5 +20772,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1556",
+    "slug": "naskh",
+    "name_en": "Naskh",
+    "name_zh": "纳斯赫体",
+    "description_en": "Naskh: proportional Arabic book-hand, even reed-pen width, rounded connecting baseline, black ink on cream with gold roundels; not Thuluth, not Kufic, not Diwani, not Nastaliq.",
+    "description_zh": "纳斯赫体：比例匀称的阿拉伯抄经体、等宽芦笔、圆转连写基线、米色底黑墨金圆饰；非苏鲁斯、非库法、非迪瓦尼、非波斯体。",
+    "source": "hermes-explore",
+    "image": "styles/1599-naskh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1557",
+    "slug": "tiefschnitt",
+    "name_en": "Tiefschnitt",
+    "name_zh": "深雕玻璃",
+    "description_en": "Tiefschnitt: Bohemian/German intaglio cut glass, wheel-cut sunken relief in thick crystal, frosted recesses against polished facets; not Hochschnitt cameo, not Inciso, not kiriko.",
+    "description_zh": "深雕玻璃：波希米亚/德意志凹雕水晶、轮刻沉浮雕、磨砂凹槽对抛光棱面；非高浮雕玻璃、非阴刻玻璃、非切子。",
+    "source": "hermes-explore",
+    "image": "styles/1600-tiefschnitt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1558",
+    "slug": "kundan",
+    "name_en": "Kundan",
+    "name_zh": "昆丹镶嵌",
+    "description_en": "Kundan: 24k gold-foil pads setting uncut polki and cabochons flush in closed-back gold cells, Jaipur-Mughal jeweled plaque; not Meenakari-first, not Thewa, not filigree.",
+    "description_zh": "昆丹镶嵌：二十四K金箔垫镶未切波尔基与素面宝石、封闭金底、斋浦尔-莫卧儿宝饰面；非首重米纳卡里、非特瓦、非花丝。",
+    "source": "hermes-explore",
+    "image": "styles/1601-kundan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1559",
+    "slug": "rigatino",
+    "name_en": "Rigatino",
+    "name_zh": "细线补绘",
+    "description_en": "Rigatino: Italian fresco conservation hatching, fine parallel vertical paint strokes reconstructing lost plaster in mineral pigments; not tratteggio cross-hatch, not pointillism.",
+    "description_zh": "细线补绘：意大利湿壁画修复排线、细密平行竖笔以矿物颜料补全缺失灰泥；非交叉补笔、非点彩。",
+    "source": "hermes-explore",
+    "image": "styles/1602-rigatino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1560",
+    "slug": "binakol",
+    "name_en": "Binakol",
+    "name_zh": "比纳科尔织",
+    "description_en": "Binakol: Ilocano optical cotton weaving, rotating squares and stepped diamonds in high-contrast warp-weft, black white red indigo moiré; not ikat, not pis syabit, not inabel stripes, not songket.",
+    "description_zh": "比纳科尔织：伊洛戈光学棉织、旋转方格与阶梯菱形、黑白红靛高对比经纬波纹；非扎经、非皮斯夏比特、非伊纳贝尔条纹、非宋葛。",
+    "source": "hermes-explore",
+    "image": "styles/1603-binakol.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
