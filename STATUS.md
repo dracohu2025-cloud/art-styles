@@ -4437,6 +4437,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1623, PNG count 1623. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 317 (exactly 5, h1581–h1585)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh           | image                          |
+|-------|---------------|-------------------|--------------------------------|
+| h1581 | Blue Calico   | 蓝印花布          | styles/1624-blue-calico.png    |
+| h1582 | Scumble Glaze | 薄擦罩染          | styles/1625-scumble-glaze.png  |
+| h1583 | Path Tracing  | 路径追踪          | styles/1626-path-tracing.png   |
+| h1584 | Karatsu Slip  | 唐津化妆          | styles/1627-karatsu-slip.png   |
+| h1585 | PETSCII       | PETSCII字符画     | styles/1628-petscii.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1628, PNG count 1628. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

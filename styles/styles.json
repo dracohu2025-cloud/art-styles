@@ -21097,5 +21097,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1581",
+    "slug": "blue-calico",
+    "name_en": "Blue Calico",
+    "name_zh": "蓝印花布",
+    "description_en": "Blue Calico: Chinese indigo lime-resist stencil on cotton, white folk florals on a deep indigo field, visible weave and hand-cut stencil edges; not batik wax crackle, not katazome rice-paste, not shibori tie-dye, not cyanotype.",
+    "description_zh": "蓝印花布：靛蓝石灰防染型印、深蓝底白花、布纹与手刻型边可见；非蜡染冰纹、非型染米糊、非绞染、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/1624-blue-calico.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1582",
+    "slug": "scumble-glaze",
+    "name_en": "Scumble Glaze",
+    "name_zh": "薄擦罩染",
+    "description_en": "Scumble Glaze: broken semi-opaque light pigment dragged over a darker dry underlayer, chalky optical haze; not transparent oil glaze, not impasto, not alla prima wet-into-wet, not sfumato.",
+    "description_zh": "薄擦罩染：浅色半透明干擦覆于深色干底、粉雾光学混合；非透明罩染、非厚涂、非直接湿画、非烟雾法。",
+    "source": "hermes-explore",
+    "image": "styles/1625-scumble-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1583",
+    "slug": "path-tracing",
+    "name_en": "Path Tracing",
+    "name_zh": "路径追踪",
+    "description_en": "Path Tracing: unbiased Monte Carlo light transport, multi-bounce GI, color bleed, microfacet materials, residual sample grain; not Phong, not Gouraud, not cel-shading, not raster NPR.",
+    "description_zh": "路径追踪：无偏蒙特卡洛光传输、多次反弹全局光、溢色、微表面材质、残余采样噪点；非冯氏、非高洛德、非赛璐珞着色、非光栅非真实感。",
+    "source": "hermes-explore",
+    "image": "styles/1626-path-tracing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1584",
+    "slug": "karatsu-slip",
+    "name_en": "Karatsu Slip",
+    "name_zh": "唐津化妆",
+    "description_en": "Karatsu Slip: e-karatsu iron and white slip on sandy gray stoneware, dry ash glaze pools, feldspar grit; not Arita porcelain, not Imari overglaze, not Oribe green, not Shino feldspar white.",
+    "description_zh": "唐津化妆：绘唐津铁绘与白化妆土于砂灰陶、灰釉积洼、长石砂粒；非有田瓷、非伊万里上绘、非织部绿、非志野长石白。",
+    "source": "hermes-explore",
+    "image": "styles/1627-karatsu-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1585",
+    "slug": "petscii",
+    "name_en": "PETSCII",
+    "name_zh": "PETSCII字符画",
+    "description_en": "PETSCII: Commodore PET/C64 character-set mosaic, 8×8 glyph tiles, reverse-video blocks, limited phosphor/VIC-II palette; not ASCII, not ANSI code-page, not teletext mosaic, not sprite pixel-art.",
+    "description_zh": "PETSCII字符画：PET/C64字符集马赛克、8×8字形砖、反相色块、磷光/VIC-II有限色；非ASCII、非ANSI码页、非图文电视、非精灵像素画。",
+    "source": "hermes-explore",
+    "image": "styles/1628-petscii.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
