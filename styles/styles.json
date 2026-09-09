@@ -20317,5 +20317,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1521",
+    "slug": "encarnacion",
+    "name_en": "Encarnación",
+    "name_zh": "肉色妆銮",
+    "description_en": "Spanish colonial encarnación: lifelike tempera flesh over gessoed wood, blush glazes, glass eyes, punch-gilded bole; not oil portrait, not marble, not estofado brocade.",
+    "description_zh": "肉色妆銮：石膏木胎写实肤色蛋彩、颊红罩染、玻璃眼、錾金地仗；非油画肖像、非大理石、非锦纹妆金。",
+    "source": "hermes-explore",
+    "image": "styles/1564-encarnacion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1522",
+    "slug": "fused-glass",
+    "name_en": "Fused Glass",
+    "name_zh": "熔融玻璃",
+    "description_en": "Kiln-fused sheet glass: stacked transparent color plates, slumped edges, trapped bubbles and stringers, fire-polish gloss; not leaded stained glass, not lampwork, not pâte-de-verre granules.",
+    "description_zh": "熔融玻璃：叠层彩玻窑熔、塌边、气泡与色丝、火抛光；非铅条彩窗、非灯工、非粉熔颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1565-fused-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1523",
+    "slug": "batavia-ware",
+    "name_en": "Batavia Ware",
+    "name_zh": "巴达维亚瓷",
+    "description_en": "Batavia ware café-au-lait: chocolate-brown overall glaze with reserved white panels of underglaze cobalt and famille-rose; not Imari, not Kraak paneled borders, not celadon.",
+    "description_zh": "巴达维亚瓷：酱褐满釉、开光白地青花与粉彩；非伊万里、非克拉克开光、非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/1566-batavia-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1524",
+    "slug": "gros-point",
+    "name_en": "Gros Point",
+    "name_zh": "粗点绣",
+    "description_en": "Gros point canvaswork: large diagonal tent stitches of thick wool covering open mesh, geometric florals; not petit point silk, not cross-stitch sampler, not Bargello flame stitch.",
+    "description_zh": "粗点绣：大斜针厚羊毛铺满粗网、几何花卉；非细点丝绣、非十字绣样本、非火焰针。",
+    "source": "hermes-explore",
+    "image": "styles/1567-gros-point.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1525",
+    "slug": "schwabacher",
+    "name_en": "Schwabacher",
+    "name_zh": "施瓦巴赫体",
+    "description_en": "Schwabacher blackletter: broken-cursive German type, rounder than Textura, hooked g and h, red rubrication on laid paper; not Fraktur, not Textura quadrata, not copperplate.",
+    "description_zh": "施瓦巴赫体：德文碎草书黑体、圆于纹理体、钩形g与h、红字标题铺纹纸；非Fractur、非方正纹理体、非铜板圆体。",
+    "source": "hermes-explore",
+    "image": "styles/1568-schwabacher.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

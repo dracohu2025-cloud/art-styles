@@ -4268,6 +4268,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1563, PNG count 1563. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 305 (exactly 5, h1521–h1525)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh   | image                         |
+|-------|--------------|-----------|-------------------------------|
+| h1521 | Encarnación  | 肉色妆銮  | styles/1564-encarnacion.png   |
+| h1522 | Fused Glass  | 熔融玻璃  | styles/1565-fused-glass.png   |
+| h1523 | Batavia Ware | 巴达维亚瓷 | styles/1566-batavia-ware.png  |
+| h1524 | Gros Point   | 粗点绣    | styles/1567-gros-point.png    |
+| h1525 | Schwabacher  | 施瓦巴赫体 | styles/1568-schwabacher.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1568, PNG count 1568. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
