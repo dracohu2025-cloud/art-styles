@@ -4395,6 +4395,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1608, PNG count 1608. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 314 (exactly 5, h1566–h1570)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h1566 | Cancellaresca  | 文书斜体        | styles/1609-cancellaresca.png    |
+| h1567 | Gyobu          | 鱼々吕          | styles/1610-gyobu.png            |
+| h1568 | Brussels Lace  | 布鲁塞尔蕾丝    | styles/1611-brussels-lace.png    |
+| h1569 | Nixing         | 坭兴陶          | styles/1612-nixing.png           |
+| h1570 | Utsushi-e      | 写し絵          | styles/1613-utsushi-e.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1613, PNG count 1613. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

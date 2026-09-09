@@ -20902,5 +20902,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1566",
+    "slug": "cancellaresca",
+    "name_en": "Cancellaresca",
+    "name_zh": "文书斜体",
+    "description_en": "Cancellaresca: Renaissance chancery italic, pointed-pen oval counters, 45-degree joins, long ascenders on cream laid paper; not copperplate roundhand, not Spencerian, not Fraktur, not brush calligraphy.",
+    "description_zh": "文书斜体：文艺复兴文书斜体、尖笔椭圆字怀、四十五度连笔、长上延于布纹纸；非圆体铜板、非斯宾塞体、非哥特体、非毛笔书法。",
+    "source": "hermes-explore",
+    "image": "styles/1609-cancellaresca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1567",
+    "slug": "gyobu",
+    "name_en": "Gyobu",
+    "name_zh": "鱼々吕",
+    "description_en": "Gyobu: large square-cut gold flakes set in translucent amber urushi, staggered lamp-gold scales on dark lacquer; not fine nashiji, not hirameji, not kinpaku leaf, not kirikane.",
+    "description_zh": "鱼々吕：大方切金屑嵌于半透明琥珀漆、错落灯金鳞于深漆；非细梨地、非平目地、非整张金箔、非截金。",
+    "source": "hermes-explore",
+    "image": "styles/1610-gyobu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1568",
+    "slug": "brussels-lace",
+    "name_en": "Brussels Lace",
+    "name_zh": "布鲁塞尔蕾丝",
+    "description_en": "Brussels lace: bobbin-made hexagonal réseau, cloth-stitch toiles, raised plaited ribs, creamy linen on void; not Chantilly, not Honiton, not needle lace, not crochet.",
+    "description_zh": "布鲁塞尔蕾丝：梭结六角网地、布纹实花、凸起编棱、米白亚麻置于虚空；非尚蒂伊、非霍尼顿、非针绣花边、非钩针。",
+    "source": "hermes-explore",
+    "image": "styles/1611-brussels-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1569",
+    "slug": "nixing",
+    "name_en": "Nixing",
+    "name_zh": "坭兴陶",
+    "description_en": "Nixing: unglazed Guangxi dual-clay purple-brown stoneware, satin burnish, kiln-blush oxblood-to-bronze, incised inlay; not Yixing zisha, not Jian glaze, not raku, not terracotta.",
+    "description_zh": "坭兴陶：广西无釉双泥紫褐炻器、缎面压光、窑变牛血至青铜、刻填；非宜兴紫砂、非建盏釉、非乐烧、非红陶。",
+    "source": "hermes-explore",
+    "image": "styles/1612-nixing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1570",
+    "slug": "utsushi-e",
+    "name_en": "Utsushi-e",
+    "name_zh": "写し絵",
+    "description_en": "Utsushi-e: magic-lantern glass painting, translucent aniline dyes, black lacquer outline, projected lantern glow; not stained-glass leading, not ukiyo-e, not verre églomisé, not cel acetate.",
+    "description_zh": "写し絵：幻灯玻璃画、半透明苯胺染料、黑漆勾线、投射灯晕；非镶铅彩窗、非浮世绘、非玻璃背绘、非赛璐珞。",
+    "source": "hermes-explore",
+    "image": "styles/1613-utsushi-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
