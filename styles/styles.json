@@ -20642,5 +20642,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1546",
+    "slug": "muhaqqaq",
+    "name_en": "Muhaqqaq",
+    "name_zh": "穆哈卡克体",
+    "description_en": "Muhaqqaq: monumental Arabic script, elongated horizontals, deep sweeping bowls, even heavy qalam ink on gold-leaf manuscript ground; not nasta'liq, not square Kufic, not diwani.",
+    "description_zh": "穆哈卡克体：纪念性阿拉伯书体、拉长横画、深弧字碗、均匀厚重芦管墨、金箔写本底；非波斯体、非方库法、非迪瓦尼。",
+    "source": "hermes-explore",
+    "image": "styles/1589-muhaqqaq.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1547",
+    "slug": "loetz",
+    "name_en": "Loetz",
+    "name_zh": "勒茨虹彩",
+    "description_en": "Loetz Phänomen: Bohemian iridescent art glass, oil-spot pulled silver-yellow threads, peacock metallic sheen, hot-glass stretch; not Tiffany Favrile, not Steuben Aurene, not millefiori.",
+    "description_zh": "勒茨虹彩：波西米亚幻彩玻璃、油滴拉丝银黄纹、孔雀金属光、热玻璃拉伸；非法夫莱尔、非奥伦、非千花。",
+    "source": "hermes-explore",
+    "image": "styles/1590-loetz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1548",
+    "slug": "pua-kumbu",
+    "name_en": "Pua Kumbu",
+    "name_zh": "普瓦昆布",
+    "description_en": "Pua kumbu: Iban ceremonial warp ikat, morinda rust and indigo on undyed cotton, feathered ikat edges, crocodile and anthropomorphic motifs; not songket, not batik, not generic fashion ikat.",
+    "description_zh": "普瓦昆布：伊班礼仪经絣、茜红与靛蓝本色棉、絣织羽边、鳄纹与人形纹；非宋葛、非蜡染、非时装絣。",
+    "source": "hermes-explore",
+    "image": "styles/1591-pua-kumbu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1549",
+    "slug": "kubachi",
+    "name_en": "Kubachi",
+    "name_zh": "库巴奇陶",
+    "description_en": "Kubachi ware: Caucasian/Persian polychrome ceramic, black contour, sage green, tomato red and yellow on white slip, floral palmettes; not Iznik, not minai, not Delftware.",
+    "description_zh": "库巴奇陶：高加索/波斯多彩陶、黑线、灰绿与番茄红黄、白化妆土卷草；非伊兹尼克、非米奈彩、非代尔夫特。",
+    "source": "hermes-explore",
+    "image": "styles/1592-kubachi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1550",
+    "slug": "satsuma-kiriko",
+    "name_en": "Satsuma Kiriko",
+    "name_zh": "萨摩切子",
+    "description_en": "Satsuma kiriko: crimson-over-clear cut overlay glass, geometric kiriko facets, flashing internal reflections; not Edo kiriko alone, not cameo glass, not stained glass.",
+    "description_zh": "萨摩切子：红套透明切子玻璃、几何切面、内反射闪光；非江户切子单独、非浮雕套料、非彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1593-satsuma-kiriko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

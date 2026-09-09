@@ -4339,6 +4339,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1588, PNG count 1588. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 310 (exactly 5, h1546–h1550)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh       | image                              |
+|-------|-----------------|---------------|------------------------------------|
+| h1546 | Muhaqqaq        | 穆哈卡克体    | styles/1589-muhaqqaq.png           |
+| h1547 | Loetz           | 勒茨虹彩      | styles/1590-loetz.png              |
+| h1548 | Pua Kumbu       | 普瓦昆布      | styles/1591-pua-kumbu.png          |
+| h1549 | Kubachi         | 库巴奇陶      | styles/1592-kubachi.png            |
+| h1550 | Satsuma Kiriko  | 萨摩切子      | styles/1593-satsuma-kiriko.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1593, PNG count 1593. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
