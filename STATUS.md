@@ -4198,6 +4198,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1538, PNG count 1538. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 300 (exactly 5, h1496–h1500)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh         | image                                 |
+|-------|---------------------|-----------------|---------------------------------------|
+| h1496 | Nastaliq            | 纳斯塔利克体    | styles/1539-nastaliq.png              |
+| h1497 | Kaishu              | 楷书            | styles/1540-kaishu.png                |
+| h1498 | Western Desert Dot  | 西部沙漠点绘    | styles/1541-western-desert-dot.png    |
+| h1499 | Aso-oke             | 阿索奥克织      | styles/1542-aso-oke.png               |
+| h1500 | Ndop                | 恩多普          | styles/1543-ndop.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1543, PNG count 1543. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

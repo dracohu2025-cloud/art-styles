@@ -19992,5 +19992,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1496",
+    "slug": "nastaliq",
+    "name_en": "Nastaliq",
+    "name_zh": "纳斯塔利克体",
+    "description_en": "Persian hanging script: stacked diagonal letterforms, hairline connections, sweeping bowls on burnished cream paper; not kufic, not kaishu, not tezhip illumination.",
+    "description_zh": "波斯悬体书法：斜向叠字、发丝连笔、舒展字腹于砑光素纸；非库法、非楷书、非泥金装饰。",
+    "source": "hermes-explore",
+    "image": "styles/1539-nastaliq.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1497",
+    "slug": "kaishu",
+    "name_en": "Kaishu",
+    "name_zh": "楷书",
+    "description_en": "Regular-script calligraphy: even, centered strokes with clear start-stop on xuan paper, vermilion seals; not caoshu, not lishu, not ink-wash landscape.",
+    "description_zh": "楷书：端正起收、结字匀称的宣纸墨书，朱印点缀；非狂草、非隶书、非水墨山水。",
+    "source": "hermes-explore",
+    "image": "styles/1540-kaishu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1498",
+    "slug": "western-desert-dot",
+    "name_en": "Western Desert Dot",
+    "name_zh": "西部沙漠点绘",
+    "description_en": "Papunya Tula acrylic: ochre, oxide, white and black built from discrete round dots in concentric paths; not rarrk crosshatch, not x-ray style, not pointillism.",
+    "description_zh": "帕普尼亚图拉丙烯点绘：赭石、氧化铁、白与黑的独立圆点同心铺陈；非拉尔克交叉线、非骨骼透视、非点彩。",
+    "source": "hermes-explore",
+    "image": "styles/1541-western-desert-dot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1499",
+    "slug": "aso-oke",
+    "name_en": "Aso-oke",
+    "name_zh": "阿索奥克织",
+    "description_en": "Yoruba strip-woven prestige cloth: narrow handloom bands sewn selvedge to selvedge, lurex weft stripes, warp-faced color blocks; not kente, not songket, not embroidery.",
+    "description_zh": "约鲁巴条织盛装布：窄幅手织条缝合、金银纬闪、经面色块；非肯泰、非宋葛、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1542-aso-oke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1500",
+    "slug": "ndop",
+    "name_en": "Ndop",
+    "name_zh": "恩多普",
+    "description_en": "Bamileke indigo stitch-resist prestige cloth: fermented indigo ground, reserved geometric diamonds and royal emblems; not adire, not shibori, not batik.",
+    "description_zh": "巴米累克靛蓝缝绞盛装布：发酵靛蓝底、防染几何菱格与徽纹；非阿迪勒、非绞缬、非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/1543-ndop.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
