@@ -3972,6 +3972,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1458, PNG count 1458. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 284 (exactly 5, h1416–h1420)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh       | image                                    |
+|-------|-------------------------|---------------|------------------------------------------|
+| h1416 | Calligraffiti           | 书法涂鸦      | styles/1459-calligraffiti.png            |
+| h1417 | Infrared False Color    | 红外伪彩      | styles/1460-infrared-false-color.png     |
+| h1418 | Opus Signinum           | 碎陶马赛克    | styles/1461-opus-signinum.png            |
+| h1419 | Pattern and Decoration  | 图案与装饰    | styles/1462-pattern-and-decoration.png   |
+| h1420 | Light Painting          | 光绘          | styles/1463-light-painting.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1463, PNG count 1463. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

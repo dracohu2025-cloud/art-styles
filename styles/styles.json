@@ -18952,5 +18952,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1416",
+    "slug": "calligraffiti",
+    "name_en": "Calligraffiti",
+    "name_zh": "书法涂鸦",
+    "description_en": "Calligraffiti: monumental hybrid of calligraphy and street graffiti, sweeping ink-and-spray ligatures, gold-crimson drips on concrete; not clean digital lettering, throw-up tags, or traditional ink-wash landscape.",
+    "description_zh": "书法涂鸦：书法与街头涂鸦的巨幅混合、挥扫墨喷连笔、金红滴淌于混凝土，非干净数字字体、气泡涂鸦或传统水墨山水。",
+    "source": "hermes-explore",
+    "image": "styles/1459-calligraffiti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1417",
+    "slug": "infrared-false-color",
+    "name_en": "Infrared False Color",
+    "name_zh": "红外伪彩",
+    "description_en": "Infrared False Color: Aerochrome near-IR film, magenta-pink foliage, cyan-teal sky, pale olive-magenta skin, fine IR grain; not normal color photo, thermal camera, or neon cyberpunk.",
+    "description_zh": "红外伪彩：空中红外伪彩胶片、品红粉叶、青蓝天空、橄榄品红肤色与红外颗粒，非正常彩色照片、热成像或霓虹赛博。",
+    "source": "hermes-explore",
+    "image": "styles/1460-infrared-false-color.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1418",
+    "slug": "opus-signinum",
+    "name_en": "Opus Signinum",
+    "name_zh": "碎陶马赛克",
+    "description_en": "Opus Signinum: Roman crushed-terracotta tesserae in lime mortar, brick-red ochre aggregate, white-stone meander borders; not marble opus tessellatum, ceramic tile, or pixel mosaic.",
+    "description_zh": "碎陶马赛克：罗马碎陶片嵌于石灰砂浆、砖红赭色骨料、白石回纹边，非大理石方石镶嵌、瓷砖或像素马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/1461-opus-signinum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1419",
+    "slug": "pattern-and-decoration",
+    "name_en": "Pattern and Decoration",
+    "name_zh": "图案与装饰",
+    "description_en": "Pattern and Decoration: 1970s P&D all-over floral-geometric ornament, metallic gold and jewel-tone pattern fields covering figure and ground; not Superflat, Morris wallpaper copy, or kawaii deco stickers.",
+    "description_zh": "图案与装饰：1970年代P&D满幅花卉几何纹、金箔与宝石色图案覆盖人物与背景，非超扁平、莫里斯壁纸翻版或甜美贴纸风。",
+    "source": "hermes-explore",
+    "image": "styles/1462-pattern-and-decoration.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1420",
+    "slug": "light-painting",
+    "name_en": "Light Painting",
+    "name_zh": "光绘",
+    "description_en": "Light Painting: long-exposure dark-field drawing with tungsten and LED trails, gold-cyan filaments and orbs in black; not neon-sign illustration, cyberpunk city, or CGI glow.",
+    "description_zh": "光绘：长时间曝光暗场以钨丝与LED光迹作画、金青细丝与光球于黑底，非霓虹招牌插画、赛博都市或三维发光。",
+    "source": "hermes-explore",
+    "image": "styles/1463-light-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
