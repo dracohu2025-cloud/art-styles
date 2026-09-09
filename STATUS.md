@@ -4311,6 +4311,19 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1578, PNG count 1578. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 308 (exactly 5, h1536–h1540)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                              |
+|-------|-------------------|-----------------|------------------------------------|
+| h1536 | Square Kufic      | 方库法体        | styles/1579-square-kufic.png       |
+| h1537 | Shekasteh         | 什卡斯泰体      | styles/1580-shekasteh.png          |
+| h1538 | Aurene            | 奥伦虹彩玻璃    | styles/1581-aurene.png             |
+| h1539 | Velvet Painting   | 丝绒画          | styles/1582-velvet-painting.png    |
+| h1540 | Graphite Dust     | 石墨粉画        | styles/1583-graphite-dust.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1583, PNG count 1583. No REJECT names. UI left flat (no filters/tabs).
 
 ## Verified
 

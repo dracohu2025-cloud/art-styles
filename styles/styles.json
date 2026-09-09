@@ -20512,5 +20512,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1536",
+    "slug": "square-kufic",
+    "name_en": "Square Kufic",
+    "name_zh": "方库法体",
+    "description_en": "Square Kufic: geometric Kufic on a brick grid, right-angle letterforms in glazed and unglazed masonry; not cursive thuluth, not floral arabesque, not pixel art.",
+    "description_zh": "方库法体：方砖网格上的几何库法、釉砖与素砖直角字母；非草书苏鲁斯、非花卉阿拉伯纹、非像素画。",
+    "source": "hermes-explore",
+    "image": "styles/1579-square-kufic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1537",
+    "slug": "shekasteh",
+    "name_en": "Shekasteh",
+    "name_zh": "什卡斯泰体",
+    "description_en": "Shekasteh: broken Persian cursive, stacked ligatures, flying strokes, reed-pen thick-thin cascade on cream paper; not nastaʿlīq calm, not kufic geometry, not copperplate.",
+    "description_zh": "什卡斯泰体：波斯破体草书、叠连字、飞白笔、芦管粗细对比斜向倾泻；非工整波斯体、非库法几何、非铜版圆体。",
+    "source": "hermes-explore",
+    "image": "styles/1580-shekasteh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1538",
+    "slug": "aurene",
+    "name_en": "Aurene",
+    "name_zh": "奥伦虹彩玻璃",
+    "description_en": "Aurene: gold-to-rose iridescent glass luster, translucent volume, pulled rims and peacock sheen; not stained glass leading, not dichroic coating collage, not chrome metal.",
+    "description_zh": "奥伦虹彩玻璃：金至玫红虹彩光泽、半透明体量、拉口与孔雀晕光；非彩绘铅条玻璃、非二向色贴膜、非镀铬金属。",
+    "source": "hermes-explore",
+    "image": "styles/1581-aurene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1539",
+    "slug": "velvet-painting",
+    "name_en": "Velvet Painting",
+    "name_zh": "丝绒画",
+    "description_en": "Velvet painting: saturated oils on black flocked velvet, glowing chroma against void pile; not oil on canvas, not flock print wallpaper, not airbrush on suede.",
+    "description_zh": "丝绒画：黑丝绒底高饱和油彩，绒毛空隙透出深黑；非布面油画、非植绒壁纸、非麂皮喷绘。",
+    "source": "hermes-explore",
+    "image": "styles/1582-velvet-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1540",
+    "slug": "graphite-dust",
+    "name_en": "Graphite Dust",
+    "name_zh": "石墨粉画",
+    "description_en": "Graphite dust: powdered graphite rubbed into paper, finger blends, eraser lifts, silvery carbon grain; not graphite pencil line, not charcoal stick, not silverpoint.",
+    "description_zh": "石墨粉画：石墨粉揉入纸面、指擦晕染、橡皮提亮、银灰碳粒；非铅笔线描、非炭棒、非银尖笔。",
+    "source": "hermes-explore",
+    "image": "styles/1583-graphite-dust.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
