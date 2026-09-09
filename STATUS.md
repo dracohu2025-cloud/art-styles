@@ -4071,6 +4071,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1493, PNG count 1493. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 291 (exactly 5, h1451–h1455)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                            |
+|-------|---------------|-------------|----------------------------------|
+| h1451 | Cangiantismo  | 变彩法      | styles/1494-cangiantismo.png     |
+| h1452 | Needlelace    | 针绣花边    | styles/1495-needlelace.png       |
+| h1453 | Hapa-zome     | 叶拓染      | styles/1496-hapa-zome.png        |
+| h1454 | Ishizuri      | 石摺        | styles/1497-ishizuri.png         |
+| h1455 | Blind Emboss  | 盲压凸印    | styles/1498-blind-emboss.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1498, PNG count 1498. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

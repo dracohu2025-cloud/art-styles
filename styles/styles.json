@@ -19407,5 +19407,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1451",
+    "slug": "cangiantismo",
+    "name_en": "Cangiantismo",
+    "name_zh": "变彩法",
+    "description_en": "Cangiantismo: form modeled by shifting to a different hue across a fold—yellow into crimson, green into violet—rather than tinting one color; not chiaroscuro, sfumato, or rainbow fashion.",
+    "description_zh": "变彩法：以换色塑造体积，褶皱从黄转入绯红、从绿转入紫，而非单色明暗；非明暗法、烟雾法或彩虹时装渐变。",
+    "source": "hermes-explore",
+    "image": "styles/1494-cangiantismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1452",
+    "slug": "needlelace",
+    "name_en": "Needlelace",
+    "name_zh": "针绣花边",
+    "description_en": "Needlelace (punto in aria): sculptural lace built in air with buttonhole stitches, cordonnet, picots, and mesh grounds—no woven cloth base; not bobbin lace, crochet, or machine lace.",
+    "description_zh": "针绣花边：以扣眼针、轮廓加粗线、珠饰与网地在空中塑形，无织底；非梭结花边、钩针或机织蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/1495-needlelace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1453",
+    "slug": "hapa-zome",
+    "name_en": "Hapa-zome",
+    "name_zh": "叶拓染",
+    "description_en": "Hapa-zome: hammered botanical contact dye—chlorophyll, tannin, and petal juices bruised into cloth as leaf silhouettes and vein maps; not cyanotype, steamed eco-print, or watercolor botanicals.",
+    "description_zh": "叶拓染：捶打鲜叶与花瓣，使叶绿素、单宁与花汁渗入布面成叶影与叶脉；非蓝晒、汽蒸植物印或水彩花卉。",
+    "source": "hermes-explore",
+    "image": "styles/1496-hapa-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1454",
+    "slug": "ishizuri",
+    "name_en": "Ishizuri",
+    "name_zh": "石摺",
+    "description_en": "Ishizuri-e: reverse stone-rubbing print—creamy reserved lines on a sooty black field as if a carved stele were ink-rubbed and inverted; not woodblock color, sumi wash, or scratchboard.",
+    "description_zh": "石摺：反向碑拓，烟灰黑底上留出乳白色阴刻线，如碑面拓墨后反转；非套色木版、水墨渲染或刮画。",
+    "source": "hermes-explore",
+    "image": "styles/1497-ishizuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1455",
+    "slug": "blind-emboss",
+    "name_en": "Blind Emboss",
+    "name_zh": "盲压凸印",
+    "description_en": "Blind emboss: inkless paper relief—image only as raised and recessed cotton-rag planes under raking light; not inked linocut, stone bas-relief, or origami.",
+    "description_zh": "盲压凸印：无墨纸浮雕，仅靠棉浆纸凹凸在侧光下成形；非着墨油毡版、石浮雕或折纸。",
+    "source": "hermes-explore",
+    "image": "styles/1498-blind-emboss.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
