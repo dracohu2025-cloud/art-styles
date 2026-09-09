@@ -4014,6 +4014,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1473, PNG count 1473. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 287 (exactly 5, h1431–h1435)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                                |
+|-------|-------------------|-----------------|--------------------------------------|
+| h1431 | Spencerian        | 斯宾塞体        | styles/1474-spencerian.png           |
+| h1432 | Tôle Peinte       | 彩绘铁皮        | styles/1475-tole-peinte.png          |
+| h1433 | Façon de Venise   | 威尼斯风格玻璃  | styles/1476-facon-de-venise.png      |
+| h1434 | Dry Lacquer       | 夹纻            | styles/1477-dry-lacquer.png          |
+| h1435 | Jomon Cord-mark   | 绳文压印        | styles/1478-jomon-cord-mark.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1478, PNG count 1478. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

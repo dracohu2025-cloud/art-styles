@@ -19147,5 +19147,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1431",
+    "slug": "spencerian",
+    "name_en": "Spencerian",
+    "name_zh": "斯宾塞体",
+    "description_en": "Spencerian: 19th-century American ornamental penmanship, oval-based hairline upstrokes and shaded downstrokes, offhand flourishing on laid paper; not copperplate roundhand, brush lettering, or tattoo flash.",
+    "description_zh": "斯宾塞体：十九世纪美国装饰钢笔字、椭圆骨架细上粗下、衬纸上即兴花饰，非铜版圆手、毛笔字或纹身闪画。",
+    "source": "hermes-explore",
+    "image": "styles/1474-spencerian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1432",
+    "slug": "tole-peinte",
+    "name_en": "Tôle Peinte",
+    "name_zh": "彩绘铁皮",
+    "description_en": "Tôle Peinte: French japanned tinware, asphaltum-black metal ground, oil-and-varnish gold vermilion chinoiserie, punched-tray rim; not wood lacquer, porcelain, or folk tole illustration.",
+    "description_zh": "彩绘铁皮：法国漆铁器、沥青黑金属底、油彩金朱红中国风纹、冲孔托盘边，非木漆、瓷器或民俗托盘插画。",
+    "source": "hermes-explore",
+    "image": "styles/1475-tole-peinte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1433",
+    "slug": "facon-de-venise",
+    "name_en": "Façon de Venise",
+    "name_zh": "威尼斯风格玻璃",
+    "description_en": "Façon de Venise: 16th–17th-century cristallo in the Venetian manner, lattimo filigrana canes, winged serpent stems, pincered crests; not stained-glass windows, neon Murano souvenirs, or modern studio glass.",
+    "description_zh": "威尼斯风格玻璃：十六至十七世纪仿威尼斯水晶料、乳丝绞花、翼蛇形柄、钳花冠饰，非彩绘玻璃窗、霓虹穆拉诺礼品或现代工作室玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1476-facon-de-venise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1434",
+    "slug": "dry-lacquer",
+    "name_en": "Dry Lacquer",
+    "name_zh": "夹纻",
+    "description_en": "Dry Lacquer: kanshitsu / 夹纻 hollow sculpture of hemp cloth laminated in urushi, cloth tooth under amber-brown lacquer shell; not wood-body lacquer painting, bronze, ceramic, or resin.",
+    "description_zh": "夹纻：乾漆夹纻中空造像、麻布叠生漆、琥珀褐漆壳下可见布纹，非木胎漆绘、青铜、陶瓷或树脂。",
+    "source": "hermes-explore",
+    "image": "styles/1477-dry-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1435",
+    "slug": "jomon-cord-mark",
+    "name_en": "Jomon Cord-mark",
+    "name_zh": "绳文压印",
+    "description_en": "Jomon Cord-mark: low-fired coiled earthenware rolled with cord (jōmon), flame-rim silhouettes, soot-black and earth-red clay; not smooth porcelain, Greek black-figure, or wood carving.",
+    "description_zh": "绳文压印：低温盘筑土器、绳滚压纹、火焰口沿、烟灰与土红陶色，非光滑瓷器、希腊黑绘或木雕。",
+    "source": "hermes-explore",
+    "image": "styles/1478-jomon-cord-mark.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
