@@ -19667,5 +19667,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1471",
+    "slug": "hari-e",
+    "name_en": "Hari-e",
+    "name_zh": "贴绘",
+    "description_en": "Japanese hari-e pasted-paper collage: torn and cut washi planes, visible fibers and deckle edges, graphic overlaps; not watercolor, not photoreal paint.",
+    "description_zh": "日式贴绘：撕贴和裁切和纸色块、纸纤维与毛边、图形叠层；非水彩渲染，非写实油彩。",
+    "source": "hermes-explore",
+    "image": "styles/1514-hari-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1472",
+    "slug": "taaniko",
+    "name_en": "Taaniko",
+    "name_zh": "塔阿尼科编织",
+    "description_en": "Māori tāniko finger-weaving: weft-twined chevrons, triangles and stepped diamonds in high-contrast yarn; not embroidery, not printed kowhaiwhai.",
+    "description_zh": "毛利塔阿尼科指织：纬向绞织人字、三角与阶梯菱形高对比纱线；非刺绣，非印刷考怀怀纹。",
+    "source": "hermes-explore",
+    "image": "styles/1515-taaniko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1473",
+    "slug": "sgraffiato",
+    "name_en": "Sgraffiato",
+    "name_zh": "伊斯兰刮花陶",
+    "description_en": "Islamic sgraffiato slipware: cream slip over dark earthenware, drawing incised to the body, glaze pooling in cuts; not Italian plaster sgraffito, not underglaze painting.",
+    "description_zh": "伊斯兰刮花陶：白化妆土覆深色陶胎、刻画露胎、釉在刻线积聚；非意大利灰泥刮刻，非釉下彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/1516-sgraffiato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1474",
+    "slug": "yellow-stain",
+    "name_en": "Yellow Stain",
+    "name_zh": "银染黄玻璃",
+    "description_en": "Medieval silver stain (yellow stain) on glass: fired amber-gold silver compounds, vitreous paint contours, lead cames; not full enamel stained glass, not oil glaze.",
+    "description_zh": "中世纪银染黄：玻璃上烧成琥珀金黄的银化合物、釉料轮廓与铅条；非全珐琅彩绘玻璃，非油画罩染。",
+    "source": "hermes-explore",
+    "image": "styles/1517-yellow-stain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1475",
+    "slug": "roulette-print",
+    "name_en": "Roulette Print",
+    "name_zh": "滚点版画",
+    "description_en": "Copperplate roulette intaglio: dotted roulette-tooled fields, plate tone on rag paper, warm intaglio ink; not mezzotint rocker, not photogravure, not digital stipple.",
+    "description_zh": "铜版滚点凹印：滚点刀密点调子、铜版底调与温暖凹印墨；非美柔汀摇刀，非照相凹版，非数字点绘。",
+    "source": "hermes-explore",
+    "image": "styles/1518-roulette-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

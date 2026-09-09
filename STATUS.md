@@ -4128,6 +4128,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1513, PNG count 1513. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 295 (exactly 5, h1471–h1475)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h1471 | Hari-e         | 贴绘            | styles/1514-hari-e.png           |
+| h1472 | Taaniko        | 塔阿尼科编织    | styles/1515-taaniko.png          |
+| h1473 | Sgraffiato     | 伊斯兰刮花陶    | styles/1516-sgraffiato.png       |
+| h1474 | Yellow Stain   | 银染黄玻璃      | styles/1517-yellow-stain.png     |
+| h1475 | Roulette Print | 滚点版画        | styles/1518-roulette-print.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1518, PNG count 1518. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
