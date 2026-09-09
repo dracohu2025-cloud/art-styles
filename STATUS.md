@@ -4254,6 +4254,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1558, PNG count 1558. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 304 (exactly 5, h1516–h1520)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                              |
+|-------|-------------------|---------------|------------------------------------|
+| h1516 | Copper Red        | 铜红釉        | styles/1559-copper-red.png         |
+| h1517 | Opalescent Glass  | 乳光玻璃      | styles/1560-opalescent-glass.png   |
+| h1518 | Gutta             | 古塔胶防染    | styles/1561-gutta.png              |
+| h1519 | Tablet Weaving    | 卡片织        | styles/1562-tablet-weaving.png     |
+| h1520 | Maghribi          | 马格里布体    | styles/1563-maghribi.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1563, PNG count 1563. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

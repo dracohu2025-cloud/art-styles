@@ -20252,5 +20252,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1516",
+    "slug": "copper-red",
+    "name_en": "Copper Red",
+    "name_zh": "铜红釉",
+    "description_en": "Copper-red porcelain glaze (sang-de-boeuf / jihong): oxblood and crushed-strawberry pooling into black-oxblood at rims, celadon-white breaking on high points, glassy reduction flash; not underglaze cobalt, not famille rose, not celadon.",
+    "description_zh": "铜红釉：牛血红与草莓红在口沿积成黑红、高处露青白、还原窑变玻璃光；非青花、非粉彩、非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/1559-copper-red.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1517",
+    "slug": "opalescent-glass",
+    "name_en": "Opalescent Glass",
+    "name_zh": "乳光玻璃",
+    "description_en": "Opalescent glass: milky cream-to-aqua-to-peach shifts, internal striations, folded fire-polished edges, thickness bloom; not leaded stained glass, not slag marbling, not millefiori, not dichroic film.",
+    "description_zh": "乳光玻璃：奶油至青绿至桃粉乳浊变色、内纹与火抛折边；非铅条彩窗、非熔渣绞纹、非千花、非二向色镀膜。",
+    "source": "hermes-explore",
+    "image": "styles/1560-opalescent-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1518",
+    "slug": "gutta",
+    "name_en": "Gutta",
+    "name_zh": "古塔胶防染",
+    "description_en": "Gutta serti on silk: raised resist lines holding jewel dye ponds on habotai, slight capillary bleed, translucent silk sheen; not batik crackle, not katazome stencil, not yuzen rice-paste, not paper watercolor.",
+    "description_zh": "古塔胶防染：凸起防染线蓄宝石色丝绸染料、轻微渗边与薄绸光；非蜡染开裂、非型染、非友禅糊、非纸本水彩。",
+    "source": "hermes-explore",
+    "image": "styles/1561-gutta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1519",
+    "slug": "tablet-weaving",
+    "name_en": "Tablet Weaving",
+    "name_zh": "卡片织",
+    "description_en": "Tablet / card weaving: warp-twined double-face bands, packed weft ridges, chevron and diamond warp-float geometry; not brocade satin, not inkle loom, not kilim tapestry, not embroidery.",
+    "description_zh": "卡片织：经线扭转双面带、密纬棱脊、人字与菱形经浮纹；非缎纹织锦、非墨尔织带、非基里姆、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1562-tablet-weaving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1520",
+    "slug": "maghribi",
+    "name_en": "Maghribi",
+    "name_zh": "马格里布体",
+    "description_en": "Maghribi calligraphy illumination: large round nūn bowls, deep sweeping descenders, generous spacing, brown-black ink and gold on parchment; not square Kufic, not Thuluth, not Diwani, not tughra.",
+    "description_zh": "马格里布体：大圆努恩碗、深垂笔、疏朗字距、棕黑墨与金箔羊皮；非方库法、非苏鲁斯、非迪瓦尼、非图格拉。",
+    "source": "hermes-explore",
+    "image": "styles/1563-maghribi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
