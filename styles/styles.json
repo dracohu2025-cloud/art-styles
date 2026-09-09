@@ -19017,5 +19017,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1421",
+    "slug": "wayang-kulit",
+    "name_en": "Wayang Kulit",
+    "name_zh": "爪哇皮影",
+    "description_en": "Wayang Kulit: Javanese water-buffalo hide shadow-puppet, perforated filigree, gilt-vermilion-lampblack polychrome, backlit translucent parchment; not a tourist-puppet photo, wayang orang dance, or CGI silhouette.",
+    "description_zh": "爪哇皮影：水牛皮镂空影偶、金朱红灯黑彩绘、背光半透明羊皮纸，非旅游木偶照片、人偶舞或三维剪影。",
+    "source": "hermes-explore",
+    "image": "styles/1464-wayang-kulit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1422",
+    "slug": "verre-de-soie",
+    "name_en": "Verre de Soie",
+    "name_zh": "缎面虹彩玻璃",
+    "description_en": "Verre de Soie: Steuben satin-etched iridescent glass, milky gold-pink-blue bloom, hydrofluoric matte sheen not high gloss; not Favrile peacock metallic, carnival glass, or chrome CGI.",
+    "description_zh": "缎面虹彩玻璃：斯托本酸蚀缎面虹彩、乳金粉蓝雾光、氢氟酸哑光而非高亮，非法夫莱孔雀金属光、嘉年华玻璃或铬面三维。",
+    "source": "hermes-explore",
+    "image": "styles/1465-verre-de-soie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1423",
+    "slug": "kusazoshi",
+    "name_en": "Kusazoshi",
+    "name_zh": "草双纸",
+    "description_en": "Kusazoshi: Edo cheap popular-fiction woodblock, bold keyblock, limited vegetable pigments, flat unmodeled color on worm-holed washi; not deluxe nishiki-e, manga screentone, or luxury bijin-ga.",
+    "description_zh": "草双纸：江户通俗读物木版、粗主版线、有限植物颜料、蛀孔和纸上平涂无明暗，非锦绘精品、漫画网点或豪华美人画。",
+    "source": "hermes-explore",
+    "image": "styles/1466-kusazoshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1424",
+    "slug": "coptic-tapestry",
+    "name_en": "Coptic Tapestry",
+    "name_zh": "科普特织锦",
+    "description_en": "Coptic Tapestry: late-antique Egyptian weft-faced wool, ivory ground, rust-indigo-green with black contour wefts and slit hatching; not Byzantine mosaic, kilim souvenir, or cross-stitch.",
+    "description_zh": "科普特织锦：晚古埃及纬面羊毛、象牙底、赭靛绿加黑轮廓纬与开缝排线，非拜占庭马赛克、旅游基里姆或十字绣。",
+    "source": "hermes-explore",
+    "image": "styles/1467-coptic-tapestry.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1425",
+    "slug": "kamishibai",
+    "name_en": "Kamishibai",
+    "name_zh": "纸芝居",
+    "description_en": "Kamishibai: 1930s–1950s Japanese street-theater gouache card, opaque board color, thick black contours, theatrical spotlight, worn corners; not anime cel vinyl, gekiga, or watercolor wash.",
+    "description_zh": "纸芝居：1930–50年代日本街头剧场水粉画卡、不透明纸板设色、粗黑轮廓、舞台聚光与磨损边角，非赛璐珞乙烯、剧画或水彩晕染。",
+    "source": "hermes-explore",
+    "image": "styles/1468-kamishibai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

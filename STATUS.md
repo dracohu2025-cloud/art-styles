@@ -3986,6 +3986,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1463, PNG count 1463. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 285 (exactly 5, h1421–h1425)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                               |
+|-------|------------------|-----------------|-------------------------------------|
+| h1421 | Wayang Kulit     | 爪哇皮影        | styles/1464-wayang-kulit.png        |
+| h1422 | Verre de Soie    | 缎面虹彩玻璃    | styles/1465-verre-de-soie.png       |
+| h1423 | Kusazoshi        | 草双纸          | styles/1466-kusazoshi.png           |
+| h1424 | Coptic Tapestry  | 科普特织锦      | styles/1467-coptic-tapestry.png     |
+| h1425 | Kamishibai       | 纸芝居          | styles/1468-kamishibai.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1468, PNG count 1468. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
