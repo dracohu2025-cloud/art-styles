@@ -4114,6 +4114,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1508, PNG count 1508. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 294 (exactly 5, h1466–h1470)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                         |
+|-------|--------------|-------------|-------------------------------|
+| h1466 | Hashira-e    | 柱绘        | styles/1509-hashira-e.png     |
+| h1467 | Nalbinding   | 钉绑编织    | styles/1510-nalbinding.png    |
+| h1468 | Matcap       | 材质捕获    | styles/1511-matcap.png        |
+| h1469 | Pad Print    | 移印        | styles/1512-pad-print.png     |
+| h1470 | Powder Blue  | 洒蓝釉      | styles/1513-powder-blue.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1513, PNG count 1513. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

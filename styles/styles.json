@@ -19602,5 +19602,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1466",
+    "slug": "hashira-e",
+    "name_en": "Hashira-e",
+    "name_zh": "柱绘",
+    "description_en": "Edo ukiyo-e pillar print: tall nishiki-e panels, keyblock sumi, bokashi skies, baren grain on washi; not modern cel, not a byobu screen.",
+    "description_zh": "江户柱绘：窄长锦绘联屏、墨线主版、ぼかし天空、和纸马楝纹理；非现代赛璐珞，非屏风绘。",
+    "source": "hermes-explore",
+    "image": "styles/1509-hashira-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1467",
+    "slug": "nalbinding",
+    "name_en": "Nalbinding",
+    "name_zh": "钉绑编织",
+    "description_en": "Needle-binding (naalbinding): short interlocking Coptic/Oslo loops, irregular handmade wool, felted halo; not knitting, not crochet.",
+    "description_zh": "钉绑针织：短环互锁的科普特/奥斯陆针法、手工羊毛粗细不均、毡化绒晕；非棒针，非钩针。",
+    "source": "hermes-explore",
+    "image": "styles/1510-nalbinding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1468",
+    "slug": "matcap",
+    "name_en": "Matcap",
+    "name_zh": "材质捕获",
+    "description_en": "Viewport material-capture shading: lighting baked into spherical gradients, candy-jade and rose-quartz sheen, no PBR maps; not claymation photo, not cel.",
+    "description_zh": "视口材质捕获着色：光照烘焙进球形渐变、糖果玉与粉晶高光、无PBR贴图；非黏土定格，非赛璐珞。",
+    "source": "hermes-explore",
+    "image": "styles/1511-matcap.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1469",
+    "slug": "pad-print",
+    "name_en": "Pad Print",
+    "name_zh": "移印",
+    "description_en": "Tampography: silicone-pad transfer, convex kiss, thin cyan-red-black films, micro-bubbles and lift streaks; not screenprint, not lithograph.",
+    "description_zh": "移印：硅胶头转印、微凸吻痕、青红黑薄墨层、微泡与抬版拖影；非丝网，非石版。",
+    "source": "hermes-explore",
+    "image": "styles/1512-pad-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1470",
+    "slug": "powder-blue",
+    "name_en": "Powder Blue",
+    "name_zh": "洒蓝釉",
+    "description_en": "Qing powder-blue (saolan/snowflake blue): blown cobalt on porcelain, mottled reserve whites, glassy pooling, gold tracing; not qinghua underglaze, not pastel.",
+    "description_zh": "清代洒蓝（雪花蓝）：吹喷钴料、留白雪斑、釉玻璃积釉与描金；非青花釉下彩，非粉彩笔。",
+    "source": "hermes-explore",
+    "image": "styles/1513-powder-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
