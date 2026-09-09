@@ -19472,5 +19472,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1456",
+    "slug": "glasgow-style",
+    "name_en": "Glasgow Style",
+    "name_zh": "格拉斯哥风格",
+    "description_en": "Glasgow Style: Mackintosh linear roses, elongated verticals, stained-glass leading and stencil geometry on a gesso-pale plane; not Mucha Art Nouveau or Glasgow Boys oil.",
+    "description_zh": "格拉斯哥风格：麦金托什线描玫瑰、拉长垂直形、彩铅轮廓与模版几何铺在石膏白地上；非穆夏新艺术或格拉斯哥男孩油画。",
+    "source": "hermes-explore",
+    "image": "styles/1499-glasgow-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1457",
+    "slug": "longquan",
+    "name_en": "Longquan",
+    "name_zh": "龙泉青瓷",
+    "description_en": "Longquan celadon: thick jade-green glaze, ice crackle and carved relief under watery plum-green pooling; not qinghua blue-and-white, tenmoku, or blanc de Chine.",
+    "description_zh": "龙泉青瓷：厚玉青釉、开片与釉下浅浮雕，梅子青积釉；非青花、天目或德化白瓷。",
+    "source": "hermes-explore",
+    "image": "styles/1500-longquan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1458",
+    "slug": "zaffera",
+    "name_en": "Zaffera",
+    "name_zh": "扎费拉钴蓝",
+    "description_en": "Zaffera: raised cobalt zaffre blobs on opaque tin-glaze maiolica, pigment sitting proud with bled halos; not Delft underglaze, qinghua brushwork, or lustre.",
+    "description_zh": "扎费拉钴蓝：锡白釉上堆起的钴蓝熔斑与渗晕；非代尔夫特釉下蓝、青花笔意或虹彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/1501-zaffera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1459",
+    "slug": "tsuzure",
+    "name_en": "Tsuzure",
+    "name_zh": "缀织",
+    "description_en": "Tsuzure-ori: weft-faced Japanese tapestry with hatch joins and ribbed silk wefts building pictorial color; not embroidery, yūzen, or kasuri.",
+    "description_zh": "缀织：纬面织成的日本织锦画，色块交界见回纬齿接与横肋丝光；非刺绣、友禅或絣织。",
+    "source": "hermes-explore",
+    "image": "styles/1502-tsuzure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1460",
+    "slug": "catoptric-anamorphosis",
+    "name_en": "Catoptric Anamorphosis",
+    "name_zh": "反射变形透视",
+    "description_en": "Catoptric anamorphosis: radially stretched painting resolved in a cylindrical mirror; not street-art anamorphosis or fisheye photography.",
+    "description_zh": "反射变形透视：径向拉伸的画面经圆柱镜还原成形；非街头地面变形画或鱼眼摄影。",
+    "source": "hermes-explore",
+    "image": "styles/1503-catoptric-anamorphosis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

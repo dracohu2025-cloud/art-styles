@@ -4085,6 +4085,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1498, PNG count 1498. No REJECT names. UI left flat (no filters/tabs).
 
+
+## Hermes-explore batch 292 (exactly 5, h1456–h1460)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh         | image                                       |
+|-------|-------------------------|-----------------|---------------------------------------------|
+| h1456 | Glasgow Style           | 格拉斯哥风格    | styles/1499-glasgow-style.png               |
+| h1457 | Longquan                | 龙泉青瓷        | styles/1500-longquan.png                    |
+| h1458 | Zaffera                 | 扎费拉钴蓝      | styles/1501-zaffera.png                     |
+| h1459 | Tsuzure                 | 缀织            | styles/1502-tsuzure.png                     |
+| h1460 | Catoptric Anamorphosis  | 反射变形透视    | styles/1503-catoptric-anamorphosis.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1503, PNG count 1503. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
