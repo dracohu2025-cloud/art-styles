@@ -19212,5 +19212,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1436",
+    "slug": "kage-e",
+    "name_en": "Kage-e",
+    "name_zh": "影绘",
+    "description_en": "Kage-e: lantern-cast Japanese shadow-picture on glowing washi or shoji, sharp umbra silhouettes and paper-fiber glow; not Western scherenschnitte, kirie cut-paper, or full-color cel.",
+    "description_zh": "影绘：灯影投在和纸或障子上的剪影、锐利本影与纸纤维透光，非西方剪影剪纸、切绘或全彩赛璐珞。",
+    "source": "hermes-explore",
+    "image": "styles/1479-kage-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1437",
+    "slug": "elementarism",
+    "name_en": "Elementarism",
+    "name_zh": "要素主义",
+    "description_en": "Elementarism: van Doesburg diagonal neoplasticism — tilted primary planes, lozenges, and 45-degree bars in red, yellow, blue, black, white, gray; not orthogonal Mondrian De Stijl, cubism, or suprematism.",
+    "description_zh": "要素主义：范杜斯堡斜向新造型——原色斜面、菱形与四十五度色条，非正交蒙德里安风格派、立体派或至上主义。",
+    "source": "hermes-explore",
+    "image": "styles/1480-elementarism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1438",
+    "slug": "candlewicking",
+    "name_en": "Candlewicking",
+    "name_zh": "烛芯绣",
+    "description_en": "Candlewicking: colonial white-on-white tufted embroidery of French and colonial knots on unbleached muslin; not cross-stitch, stumpwork, hardanger, or lace.",
+    "description_zh": "烛芯绣：殖民时期本色细布上的白对白簇绒、法式结与殖民结，非十字绣、凸绣、哈当厄尔镂空或蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/1481-candlewicking.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1439",
+    "slug": "torchon-lace",
+    "name_en": "Torchon Lace",
+    "name_zh": "火把花边",
+    "description_en": "Torchon Lace: geometric bobbin lace with squarish torchon ground, half-stitch diamonds, spiders, and fans in cream linen thread; not Chantilly, punto in aria, guipure, or embroidery.",
+    "description_zh": "火把花边：几何梭结蕾丝、方形火把网地、半针菱形、蜘蛛纹与扇形米亚麻线，非尚蒂伊、空中针绣、吉普尔蕾丝或刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1482-torchon-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1440",
+    "slug": "pittura-analitica",
+    "name_en": "Pittura Analitica",
+    "name_zh": "分析绘画",
+    "description_en": "Pittura Analitica: 1970s Italian analytical painting — raw canvas weave, pencil grid, taped bands, serial measured strokes, thin paint skins as the image; not color-field soak-stain, hard-edge, or photoreal atelier illustration.",
+    "description_zh": "分析绘画：1970年代意大利分析绘画——粗麻布纹、铅笔网格、胶带分区、序列量笔与薄色皮即画面，非色域渗透、硬边或照相写实画室插画。",
+    "source": "hermes-explore",
+    "image": "styles/1483-pittura-analitica.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

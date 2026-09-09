@@ -4028,6 +4028,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1478, PNG count 1478. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 288 (exactly 5, h1436–h1440)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                 |
+|-------|--------------------|-------------|---------------------------------------|
+| h1436 | Kage-e             | 影绘        | styles/1479-kage-e.png                |
+| h1437 | Elementarism       | 要素主义    | styles/1480-elementarism.png          |
+| h1438 | Candlewicking      | 烛芯绣      | styles/1481-candlewicking.png         |
+| h1439 | Torchon Lace       | 火把花边    | styles/1482-torchon-lace.png          |
+| h1440 | Pittura Analitica  | 分析绘画    | styles/1483-pittura-analitica.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1483, PNG count 1483. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
