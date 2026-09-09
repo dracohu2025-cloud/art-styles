@@ -4325,6 +4325,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1583, PNG count 1583. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 309 (exactly 5, h1541–h1545)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                       |
+|-------|-------------|-------------|-----------------------------|
+| h1541 | Komai       | 驹井象嵌    | styles/1584-komai.png       |
+| h1542 | Sawasa      | 萨瓦萨金工  | styles/1585-sawasa.png      |
+| h1543 | Yangshao    | 仰韶彩陶    | styles/1586-yangshao.png    |
+| h1544 | Bright Cut  | 亮切雕花    | styles/1587-bright-cut.png  |
+| h1545 | Hakuji      | 白磁        | styles/1588-hakuji.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1588, PNG count 1588. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

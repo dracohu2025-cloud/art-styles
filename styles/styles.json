@@ -20577,5 +20577,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1541",
+    "slug": "komai",
+    "name_en": "Komai",
+    "name_zh": "驹井象嵌",
+    "description_en": "Komai damascene: pictorial gold and silver wire inlay on black iron, hair-thin zogan contours, gold-leaf fill; not maki-e lacquer, not cloisonné, not niello.",
+    "description_zh": "驹井象嵌：黑铁地金银丝嵌绘、发丝细线轮廓、金箔填饰；非莳绘、非掐丝珐琅、非黑金镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/1584-komai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1542",
+    "slug": "sawasa",
+    "name_en": "Sawasa",
+    "name_zh": "萨瓦萨金工",
+    "description_en": "Sawasa ware: black-lacquered brass with raised gilt relief, Nagasaki export chasing, warm gold on jet; not maki-e, not Komai damascene, not bronze cast.",
+    "description_zh": "萨瓦萨金工：黑漆黄铜上浮雕鎏金、长崎外销錾花、漆黑托暖金；非莳绘、非驹井象嵌、非青铜铸造。",
+    "source": "hermes-explore",
+    "image": "styles/1585-sawasa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1543",
+    "slug": "yangshao",
+    "name_en": "Yangshao",
+    "name_zh": "仰韶彩陶",
+    "description_en": "Yangshao painted pottery: red terracotta body, mineral black and cream pigments, swirling fish and geometric bands, burnished Neolithic clay; not Greek vase, not porcelain qinghua.",
+    "description_zh": "仰韶彩陶：红陶胎、矿物黑白彩、漩涡鱼纹与几何带、新石器磨光陶面；非希腊陶瓶、非青花瓷。",
+    "source": "hermes-explore",
+    "image": "styles/1586-yangshao.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1544",
+    "slug": "bright-cut",
+    "name_en": "Bright Cut",
+    "name_zh": "亮切雕花",
+    "description_en": "Bright-cut engraving: glittering faceted graver cuts on polished silver, chevron sparkle, flashing cold metal; not gold damascene, not niello, not aquatint.",
+    "description_zh": "亮切雕花：抛光银面多棱刻刀闪光、人字折光、冷金属高光；非金银嵌丝、非黑金镶、非飞尘蚀刻。",
+    "source": "hermes-explore",
+    "image": "styles/1587-bright-cut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1545",
+    "slug": "hakuji",
+    "name_en": "Hakuji",
+    "name_zh": "白磁",
+    "description_en": "Hakuji: Japanese pure white porcelain, milky translucent glaze, unpainted luminous paste, soft pooled white; not Dehua blanc-de-Chine, not celadon, not qinghua.",
+    "description_zh": "白磁：日本纯白瓷、乳浊透釉、无彩莹白胎、柔积釉；非德化白瓷、非青磁、非青花。",
+    "source": "hermes-explore",
+    "image": "styles/1588-hakuji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
