@@ -20122,5 +20122,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1506",
+    "slug": "savonnerie",
+    "name_en": "Savonnerie",
+    "name_zh": "萨伏纳里",
+    "description_en": "French knotted-pile carpet: dense wool cut pile, floral medallions and acanthus on ivory, royal blue rose and gold; not Gobelin tapestry, not Aubusson, not Beauvais.",
+    "description_zh": "法国打结绒毯：密羊毛剪绒、象牙地上团花与卷叶、宝蓝玫红与金；非戈布兰织锦、非奥布松、非博韦。",
+    "source": "hermes-explore",
+    "image": "styles/1549-savonnerie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1507",
+    "slug": "tsakli",
+    "name_en": "Tsakli",
+    "name_zh": "擦卡利",
+    "description_en": "Tibetan miniature initiation-card painting: mineral pigments, gold outline, flat hierarchical space and aureole on gesso; not thangka, not a photo of cards, not mandala sand.",
+    "description_zh": "藏式擦卡利小幅画：矿物颜料、金线、平涂层级空间与背光于石膏地；非唐卡、非卡片实物、非坛城沙画。",
+    "source": "hermes-explore",
+    "image": "styles/1550-tsakli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1508",
+    "slug": "sue-ware",
+    "name_en": "Sue Ware",
+    "name_zh": "须惠器",
+    "description_en": "Sueki stoneware: reduction-fired bluish-gray to olive body, natural ash-glaze runs, paddle and comb marks; not Bizen, not Sue as a pot-object, not Haji ware.",
+    "description_zh": "须惠器：还原烧青灰至橄榄胎、自然灰釉垂流、拍打与梳纹；非备前、非器物摆拍、非土师器。",
+    "source": "hermes-explore",
+    "image": "styles/1551-sue-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1509",
+    "slug": "beauvais",
+    "name_en": "Beauvais",
+    "name_zh": "博韦织锦",
+    "description_en": "Beauvais low-warp tapestry: wool-silk weft, ribbed weave, hachure blends, floral border and pastoral cartouche; not Gobelin, not Aubusson, not Savonnerie pile.",
+    "description_zh": "博韦低经织锦：毛丝纬、罗纹组织、影线晕色、花边与田园开光；非戈布兰、非奥布松、非萨伏纳里绒毯。",
+    "source": "hermes-explore",
+    "image": "styles/1552-beauvais.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1510",
+    "slug": "iro-e",
+    "name_en": "Iro-e",
+    "name_zh": "色绘",
+    "description_en": "Japanese overglaze enamel on porcelain: white ground, reds greens yellows and gold with enamel pooling; not sometsuke underglaze blue, not aka-e red-only, not kinrande.",
+    "description_zh": "色绘：白瓷地釉上红绿黄金、珐琅积釉；非染付青花、非赤绘单红、非金襕手。",
+    "source": "hermes-explore",
+    "image": "styles/1553-iro-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

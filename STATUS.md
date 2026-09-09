@@ -4226,6 +4226,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1548, PNG count 1548. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 302 (exactly 5, h1506–h1510)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh     | image                          |
+|-------|------------|-------------|--------------------------------|
+| h1506 | Savonnerie | 萨伏纳里    | styles/1549-savonnerie.png     |
+| h1507 | Tsakli     | 擦卡利      | styles/1550-tsakli.png         |
+| h1508 | Sue Ware   | 须惠器      | styles/1551-sue-ware.png       |
+| h1509 | Beauvais   | 博韦织锦    | styles/1552-beauvais.png       |
+| h1510 | Iro-e      | 色绘        | styles/1553-iro-e.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1553, PNG count 1553. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
