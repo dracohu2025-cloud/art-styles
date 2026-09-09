@@ -21032,5 +21032,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1576",
+    "slug": "gouraud-shading",
+    "name_en": "Gouraud Shading",
+    "name_zh": "高洛德着色",
+    "description_en": "Gouraud shading: per-vertex Lambertian lighting interpolated across triangle faces, 1990s realtime mesh look, faceted silhouette with smooth face gradients; not Phong pixel specular, not cel-shading bands, not PBR, not Gouraud-free flat shading.",
+    "description_zh": "高洛德着色：顶点漫反射光照在三角面上插值、1990年代实时网格感、棱面轮廓配平滑面内渐变；非冯氏像素高光、非赛璐璐色带、非物理渲染、非无插值平涂着色。",
+    "source": "hermes-explore",
+    "image": "styles/1619-gouraud-shading.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1577",
+    "slug": "random-stitch-embroidery",
+    "name_en": "Random-stitch Embroidery",
+    "name_zh": "乱针绣",
+    "description_en": "Random-stitch embroidery (luanzhenxiu): painterly picture built from dense multidirectional crossing silk stitches, broken-color floss strokes, visible needle crossings; not satin stitch, not cross-stitch, not petit point, not tapestry weave.",
+    "description_zh": "乱针绣：以多向交叉丝线密绣构成绘画感画面、碎色线迹如油彩笔触、针脚交错可见；非平针绣、非十字绣、非细点绣、非织锦绣。",
+    "source": "hermes-explore",
+    "image": "styles/1620-random-stitch-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1578",
+    "slug": "shu-brocade",
+    "name_en": "Shu Brocade",
+    "name_zh": "蜀锦",
+    "description_en": "Shu brocade: Sichuan warp-patterned polychrome silk, repeating geometric medallions, auspicious cloud-and-beast motifs, warp-weft color interchange, jewel-toned woven sheen; not embroidery, not Songket gold weft, not tapestry, not printed cloth.",
+    "description_zh": "蜀锦：四川经纹多彩丝织、重复几何团窠、祥云瑞兽纹、经纬换色、宝石色织光；非刺绣、非宋葛织金、非挂毯、非印花布。",
+    "source": "hermes-explore",
+    "image": "styles/1621-shu-brocade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1579",
+    "slug": "autostereogram",
+    "name_en": "Autostereogram",
+    "name_zh": "自立体图",
+    "description_en": "Autostereogram: single-image random-dot / wallpaper stereogram, repeating disparity-shifted columns encoding hidden depth, SIRDS field; not anaglyph red-cyan, not lenticular ridges, not holography, not datamosh.",
+    "description_zh": "自立体图：单幅随机点/壁纸立体图、重复视差位移列编码隐藏深度、SIRDS场；非红青分色、非光栅立体、非全息、非数据融帧。",
+    "source": "hermes-explore",
+    "image": "styles/1622-autostereogram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1580",
+    "slug": "jumputan",
+    "name_en": "Jumputan",
+    "name_zh": "琼普坦扎染",
+    "description_en": "Jumputan: Palembang bound-resist tie-dye, squeezed-and-tied cloudy concentric blooms, overlapping dye aureoles in crimson, marigold, indigo, magenta; not Japanese shibori, not pelangi rainbow, not tritik stitch-resist, not batik wax line.",
+    "description_zh": "琼普坦扎染：巨港捆扎防染、挤扎而成的云状同心晕、绯红/金盏/靛蓝/洋红叠晕；非日本绞染、非佩兰吉彩虹扎、非缝绞防染、非蜡染线。",
+    "source": "hermes-explore",
+    "image": "styles/1623-jumputan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

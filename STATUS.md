@@ -4423,6 +4423,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1618, PNG count 1618. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 316 (exactly 5, h1576–h1580)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                   | name_zh         | image                                   |
+|-------|---------------------------|-----------------|-----------------------------------------|
+| h1576 | Gouraud Shading           | 高洛德着色      | styles/1619-gouraud-shading.png         |
+| h1577 | Random-stitch Embroidery  | 乱针绣          | styles/1620-random-stitch-embroidery.png |
+| h1578 | Shu Brocade               | 蜀锦            | styles/1621-shu-brocade.png             |
+| h1579 | Autostereogram            | 自立体图        | styles/1622-autostereogram.png          |
+| h1580 | Jumputan                  | 琼普坦扎染      | styles/1623-jumputan.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1623, PNG count 1623. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match
