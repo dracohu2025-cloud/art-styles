@@ -4184,6 +4184,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1533, PNG count 1533. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 299 (exactly 5, h1491–h1495)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                             |
+|-------|-----------------|-------------|-----------------------------------|
+| h1491 | Meissen         | 迈森瓷      | styles/1534-meissen.png           |
+| h1492 | Genoese Velvet  | 热那亚丝绒  | styles/1535-genoese-velvet.png    |
+| h1493 | Waldglas        | 森林玻璃    | styles/1536-waldglas.png          |
+| h1494 | Bird-worm Seal  | 鸟虫篆      | styles/1537-bird-worm-seal.png    |
+| h1495 | Mopa-mopa       | 莫帕莫帕    | styles/1538-mopa-mopa.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1538, PNG count 1538. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

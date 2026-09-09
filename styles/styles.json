@@ -19927,5 +19927,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1491",
+    "slug": "meissen",
+    "name_en": "Meissen",
+    "name_zh": "迈森瓷",
+    "description_en": "Saxon hard-paste porcelain painting: white kaolin body, glassy feldspathic glaze, overglaze puce-cobalt-iron-red-gold enamel, deutsche Blumen and rococo scrolls; not famille-rose, not Delft tin-glaze, not transferware.",
+    "description_zh": "萨克森硬质瓷绘：高岭土白胎、长石亮釉，洋红钴蓝矾红描金釉上彩，德意志花卉与洛可可卷草；非粉彩、非代尔夫特锡釉、非贴花转印。",
+    "source": "hermes-explore",
+    "image": "styles/1534-meissen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1492",
+    "slug": "genoese-velvet",
+    "name_en": "Genoese Velvet",
+    "name_zh": "热那亚丝绒",
+    "description_en": "Genoese voided silk velvet: cut pile in crimson and bottle green, satin voided ground, gold-thread brocading, ciselé two-height pile; not printed cloth, not lampas, not Gobelin tapestry.",
+    "description_zh": "热那亚镂空丝绒：绯红与墨绿割绒，缎地露底，金线织纹，高低绒剪绒；非印花布、非妆花织锦、非戈布兰织毯。",
+    "source": "hermes-explore",
+    "image": "styles/1535-genoese-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1493",
+    "slug": "waldglas",
+    "name_en": "Waldglas",
+    "name_zh": "森林玻璃",
+    "description_en": "German forest glass: wood-ash potash-lime melt, olive bottle-green tint, seed bubbles, sand specks, wavy striae and prunts; not Venetian cristallo, not lead crystal, not stained-glass leading.",
+    "description_zh": "德意志森林玻璃：草木灰钾钙熔体，橄榄绿瓶色，气泡砂点、波纹与乳钉；非威尼斯水晶玻璃、非铅晶、非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/1536-waldglas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1494",
+    "slug": "bird-worm-seal",
+    "name_en": "Bird-worm Seal",
+    "name_zh": "鸟虫篆",
+    "description_en": "Niaochong zhuan: Warring-States zoomorphic seal strokes that morph into birds, worms, fish and dragons, gold-inlaid bronze or vermilion clay; not kaishu, not kuangcao, not Japanese kana.",
+    "description_zh": "鸟虫篆：战国金文笔画像化为鸟虫鱼龙，金错青铜或朱砂印泥地；非楷书、非狂草、非假名。",
+    "source": "hermes-explore",
+    "image": "styles/1537-bird-worm-seal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1495",
+    "slug": "mopa-mopa",
+    "name_en": "Mopa-mopa",
+    "name_zh": "莫帕莫帕",
+    "description_en": "Pasto mopa-mopa resin veneer: stretched colored tree-resin skins cut and inlaid on carved wood, saturated vegetable dyes, glossy translucent sheets; not urushi, not oil paint, not découpage.",
+    "description_zh": "帕斯托莫帕莫帕树脂贴：拉伸着色树胶薄膜裁切镶于木雕，植物色泽、透亮树脂皮；非漆、非油画、非剪贴。",
+    "source": "hermes-explore",
+    "image": "styles/1538-mopa-mopa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
