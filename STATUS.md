@@ -4042,6 +4042,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1483, PNG count 1483. No REJECT names. UI left flat (no filters/tabs).
 
+
+## Hermes-explore batch 289 (exactly 5, h1441–h1445)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                 |
+|-------|--------------------|-------------|---------------------------------------|
+| h1441 | Bone Method        | 骨法用笔    | styles/1484-bone-method.png           |
+| h1442 | Pâte de Cristal    | 水晶粉铸    | styles/1485-pate-de-cristal.png       |
+| h1443 | Peachblow          | 桃吹玻璃    | styles/1486-peachblow.png             |
+| h1444 | Robin's-egg Glaze  | 炉钧釉      | styles/1487-robins-egg-glaze.png      |
+| h1445 | Mirror Black       | 乌金釉      | styles/1488-mirror-black.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1488, PNG count 1488. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

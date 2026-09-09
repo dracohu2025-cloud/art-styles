@@ -19277,5 +19277,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1441",
+    "slug": "bone-method",
+    "name_en": "Bone Method",
+    "name_zh": "骨法用笔",
+    "description_en": "Bone Method (gufa yongbi): Xie He's structural brushbone — sinewy calligraphic ink that builds form like skeleton and tendon, flying-white dry ridges, pale xuan paper; not gongbi fill, mogu boneless wash, or watercolor illustration.",
+    "description_zh": "骨法用笔：谢赫六法之骨法——以筋骨般的书法用笔结构形体、飞白枯笔与素宣，非工笔填色、没骨晕染或水彩插画。",
+    "source": "hermes-explore",
+    "image": "styles/1484-bone-method.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1442",
+    "slug": "pate-de-cristal",
+    "name_en": "Pâte de Cristal",
+    "name_zh": "水晶粉铸",
+    "description_en": "Pâte de cristal: fine kiln-cast crystal paste — inner powdered-color veils, sugar-grain, frosted optical mass and trapped bubbles; not blown glass, stained-glass leading, or millefiori canework.",
+    "description_zh": "水晶粉铸：精细窑铸水晶粉——内含色粉纱幕、砂糖晶粒、雾面光学体块与气泡，非吹制玻璃、镶铅彩窗或千花玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1485-pate-de-cristal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1443",
+    "slug": "peachblow",
+    "name_en": "Peachblow",
+    "name_zh": "桃吹玻璃",
+    "description_en": "Peachblow: 1880s American art glass shading from dusty peach-rose into milky cream-white, satin or gloss skin; not cranberry glass, amberina, or painted sunset illustration.",
+    "description_zh": "桃吹玻璃：1880年代美国艺术玻璃，由尘粉桃玫渐变至乳白，缎面或高光表层，非蔓越莓玻璃、琥珀红玻璃或手绘夕照插画。",
+    "source": "hermes-explore",
+    "image": "styles/1486-peachblow.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1444",
+    "slug": "robins-egg-glaze",
+    "name_en": "Robin's-egg Glaze",
+    "name_zh": "炉钧釉",
+    "description_en": "Robin's-egg glaze (Lu-jun): mottled turquoise-aqua and lavender-purple flecks, orange-peel pinholes, opalescent Jun-type kiln transmutation; not celadon, crackle celadon, or flat turquoise enamel.",
+    "description_zh": "炉钧釉：松石蓝与紫藤色斑驳、橘皮针孔、乳浊窑变，非青瓷、开片青瓷或平整松石珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/1487-robins-egg-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1445",
+    "slug": "mirror-black",
+    "name_en": "Mirror Black",
+    "name_zh": "乌金釉",
+    "description_en": "Mirror Black (wujin you): Qing high-gloss jet porcelain glaze, liquid specular black with faint warm undertone only at thin rims; not matte charcoal, mezzotint, or black-velvet painting.",
+    "description_zh": "乌金釉：清代高光乌金瓷釉，镜面液态黑，仅薄口现暖褐，非炭粉哑光、美柔汀或黑绒画。",
+    "source": "hermes-explore",
+    "image": "styles/1488-mirror-black.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
