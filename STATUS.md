@@ -4282,6 +4282,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1568, PNG count 1568. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 306 (exactly 5, h1526–h1530)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                 |
+|-------|----------------------|-----------------|---------------------------------------|
+| h1526 | Heliochrome          | 日光彩印        | styles/1569-heliochrome.png           |
+| h1527 | Ukara                | 乌卡拉蓝染      | styles/1570-ukara.png                 |
+| h1528 | Venetian Pastellone  | 威尼斯粉浆地    | styles/1571-venetian-pastellone.png   |
+| h1529 | Masi Kesakesa        | 马西手绘        | styles/1572-masi-kesakesa.png         |
+| h1530 | Gold Tesserae        | 金箔马赛克粒    | styles/1573-gold-tesserae.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1573, PNG count 1573. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

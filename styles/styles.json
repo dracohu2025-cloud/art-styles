@@ -20382,5 +20382,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1526",
+    "slug": "heliochrome",
+    "name_en": "Heliochrome",
+    "name_zh": "日光彩印",
+    "description_en": "Heliochrome early color photography: overlapping faded cyan-magenta-yellow dye layers slightly out of register, dusty emulsion stains, spectral fringing; not Autochrome mosaic, not modern color film, not hand-tinted albumen.",
+    "description_zh": "日光彩印：叠层褪色青品红黄染料微错位、尘斑乳剂、光谱色散；非奥托克罗姆嵌网、非现代彩胶、非手绘蛋白银。",
+    "source": "hermes-explore",
+    "image": "styles/1569-heliochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1527",
+    "slug": "ukara",
+    "name_en": "Ukara",
+    "name_zh": "乌卡拉蓝染",
+    "description_en": "Ukara indigo resist cloth: deep indigo ground, white nsibidi-like geometric grids and symbolic marks, hand-dyed textile grain; not Adire, not batik, not Adinkra stamp.",
+    "description_zh": "乌卡拉蓝染：深蓝靛地、白色恩西比迪几何格与符号、手染布纹；非阿迪雷、非蜡染、非阿丁克拉印。",
+    "source": "hermes-explore",
+    "image": "styles/1570-ukara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1528",
+    "slug": "venetian-pastellone",
+    "name_en": "Venetian Pastellone",
+    "name_zh": "威尼斯粉浆地",
+    "description_en": "Venetian pastellone: lime plaster mixed with brick dust, burnished terracotta-pink and ochre fields, waxed sheen and aggregate specks; not fresco buon, not terrazzo chips, not tadelakt soap polish.",
+    "description_zh": "威尼斯粉浆地：石灰掺砖粉、烧磨陶粉红与赭色云斑、蜡光细骨料；非湿壁画、非水磨石粒、非塔德拉特皂抛。",
+    "source": "hermes-explore",
+    "image": "styles/1571-venetian-pastellone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1529",
+    "slug": "masi-kesakesa",
+    "name_en": "Masi Kesakesa",
+    "name_zh": "马西手绘",
+    "description_en": "Masi kesakesa: freehand-painted Fijian tapa, beaten barkcloth tooth, soot-black with rust-red and turmeric bands; not stenciled masi kesa, not Siapo rubbing, not Ngatu rubbing boards.",
+    "description_zh": "马西手绘：斐济树皮布自由手绘、打制纤维齿、煤黑配锈红姜黄条带；非型版马西、非西亚波拓印、非恩加图搓板。",
+    "source": "hermes-explore",
+    "image": "styles/1572-masi-kesakesa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1530",
+    "slug": "gold-tesserae",
+    "name_en": "Gold Tesserae",
+    "name_zh": "金箔马赛克粒",
+    "description_en": "Gold tesserae: angled glass cubes sandwiching gold leaf, glittering Byzantine gold-ground mosaic, irregular grout; not smalti color cubes alone, not micromosaic enamel, not painted gilt.",
+    "description_zh": "金箔马赛克粒：夹金箔斜铺玻璃方粒、拜占庭金地闪光、不规则填缝；非单色斯马尔蒂、非微马赛克珐琅、非描金。",
+    "source": "hermes-explore",
+    "image": "styles/1573-gold-tesserae.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
