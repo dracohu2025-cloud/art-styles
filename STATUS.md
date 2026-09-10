@@ -4675,6 +4675,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1708, PNG count 1708. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 334 (exactly 5, h1666–h1670)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh           | image                                 |
+|-------|---------------------|-------------------|---------------------------------------|
+| h1666 | Haft Rang           | 七彩釉            | styles/1709-haft-rang.png             |
+| h1667 | Fair Isle           | 费尔岛提花        | styles/1710-fair-isle.png             |
+| h1668 | Timurid Miniature   | 帖木儿细密画      | styles/1711-timurid-miniature.png     |
+| h1669 | Shohekiga           | 障壁画            | styles/1712-shohekiga.png             |
+| h1670 | Uwa-e               | 上绘              | styles/1713-uwa-e.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1713, PNG count 1713. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

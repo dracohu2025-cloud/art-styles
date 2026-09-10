@@ -22202,5 +22202,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1666",
+    "slug": "haft-rang",
+    "name_en": "Haft Rang",
+    "name_zh": "七彩釉",
+    "description_en": "Persian seven-color overglaze tile: opaque unmixed enamels (cobalt, turquoise, manganese, green, red, yellow, white) in outlined fields on tin-glazed ware.",
+    "description_zh": "波斯七彩釉：钴、松石、锰紫、绿、红、黄、白等不混色的釉上珐琅，以轮廓分色填于锡釉砖面。",
+    "source": "hermes-explore",
+    "image": "styles/1709-haft-rang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1667",
+    "slug": "fair-isle",
+    "name_en": "Fair Isle",
+    "name_zh": "费尔岛提花",
+    "description_en": "Shetland stranded colorwork: two yarns per row, peerie X-O and diamond bands, visible knit stitches and wool halo as the picture surface.",
+    "description_zh": "费尔岛提花：每行两色夹织，细小X-O与菱形横带，织纹与羊毛绒晕构成画面。",
+    "source": "hermes-explore",
+    "image": "styles/1710-fair-isle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1668",
+    "slug": "timurid-miniature",
+    "name_en": "Timurid Miniature",
+    "name_zh": "帖木儿细密画",
+    "description_en": "Herat-school manuscript painting: fine brush, lapis and shell gold, flattened space, high horizon, ruled borders and floral arabesques.",
+    "description_zh": "帖木儿细密画（赫拉特派）：细毫、青金石与贝金、平面空间、高地平、栏界与花纹缠枝。",
+    "source": "hermes-explore",
+    "image": "styles/1711-timurid-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1669",
+    "slug": "shohekiga",
+    "name_en": "Shohekiga",
+    "name_zh": "障壁画",
+    "description_en": "Japanese architectural painting on gold-leaf fusuma: mineral pigments, panel seams, black lacquer frames, gold-cloud bands at room scale.",
+    "description_zh": "障壁画：金箔襖面上的岩彩，可见分扇接缝与黑漆框，金云带按室内尺度铺开。",
+    "source": "hermes-explore",
+    "image": "styles/1712-shohekiga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1670",
+    "slug": "uwa-e",
+    "name_en": "Uwa-e",
+    "name_zh": "上绘",
+    "description_en": "Japanese porcelain overglaze enamel (iro-e): iron-red, green, gold sitting on already-glazed white ware with raised kiln-fired sheen.",
+    "description_zh": "上绘：在已施釉白瓷上再绘铁红、绿、金等釉上珐琅，微凸窑烧光泽。",
+    "source": "hermes-explore",
+    "image": "styles/1713-uwa-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
