@@ -5011,6 +5011,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1828, PNG count 1828. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 358 (exactly 5, h1786–h1790)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                            |
+|-------|--------------|-------------|----------------------------------|
+| h1786 | Kurinuki     | 刳贯        | styles/1829-kurinuki.png         |
+| h1787 | Nomarski     | 微分干涉    | styles/1830-nomarski.png         |
+| h1788 | Cissing      | 缩油        | styles/1831-cissing.png          |
+| h1789 | Niiro        | 煮色        | styles/1832-niiro.png            |
+| h1790 | Hydrodipping | 水转印      | styles/1833-hydrodipping.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1833, PNG count 1833. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

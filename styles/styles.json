@@ -23762,5 +23762,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1786",
+    "slug": "kurinuki",
+    "name_en": "Kurinuki",
+    "name_zh": "刳贯",
+    "description_en": "Kurinuki: Japanese subtractive ceramic forming, a solid clay mass hollowed by gouging, thick remaining walls, knife-cut facets and scooped cavities, not coil-built, not wheel-thrown, not porcelain slipcast.",
+    "description_zh": "刳贯：从整块泥体掏空成型，厚壁、刀切棱面与刮挖空腔，非盘泥条、非拉坯、非注浆瓷塑。",
+    "source": "hermes-explore",
+    "image": "styles/1829-kurinuki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1787",
+    "slug": "nomarski",
+    "name_en": "Nomarski",
+    "name_zh": "微分干涉",
+    "description_en": "Nomarski: differential interference contrast microscopy look, pseudo-relief phase edges, cyan-magenta-gold optical-path tints on a gray field, not SEM, not darkfield sparkle, not ordinary bevel shading.",
+    "description_zh": "微分干涉：DIC显微成像，相位浮雕边、青品红金光程色与灰场，非电镜、非暗场闪点、非普通立体倒角。",
+    "source": "hermes-explore",
+    "image": "styles/1830-nomarski.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1788",
+    "slug": "cissing",
+    "name_en": "Cissing",
+    "name_zh": "缩油",
+    "description_en": "Cissing: oil-paint film that dewets and crawls into islands, cratered openings to the ground, thickened rims around voids, not craquelure, not salted-wash blooms, not watercolor backruns.",
+    "description_zh": "缩油：油膜回缩成岛，露出底子的孔洞与加厚孔缘，非龟裂、非撒盐开花、非水彩回纹。",
+    "source": "hermes-explore",
+    "image": "styles/1831-cissing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1789",
+    "slug": "niiro",
+    "name_en": "Niiro",
+    "name_zh": "煮色",
+    "description_en": "Niiro: Japanese boiled-color patination on copper alloys, deep chemical browns, plum, olive and satiny black metal grain, not painted enamel, not anodized rainbow aluminum, not rust.",
+    "description_zh": "煮色：铜合金化学着色，深褐、紫褐、橄榄与缎黑金属肌理，非珐琅彩绘、非阳极氧化铝虹彩、非铁锈。",
+    "source": "hermes-explore",
+    "image": "styles/1832-niiro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1790",
+    "slug": "hydrodipping",
+    "name_en": "Hydrodipping",
+    "name_zh": "水转印",
+    "description_en": "Hydrodipping: water-transfer hydrographics, PVA ink film dipped onto a form so swirl pattern wraps 3D contours, not Ebru paper marbling, not Suminagashi, not acrylic-pour cells.",
+    "description_zh": "水转印：PVA油墨膜浸覆立体表面，纹样贴合轮廓，非水拓纸、非墨流、非流体丙烯细胞纹。",
+    "source": "hermes-explore",
+    "image": "styles/1833-hydrodipping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
