@@ -4857,6 +4857,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1773, PNG count 1773. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 347 (exactly 5, h1731–h1735)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh       | image                                |
+|-------|---------------------|---------------|--------------------------------------|
+| h1731 | Posterization       | 色调分离      | styles/1774-posterization.png        |
+| h1732 | Holographic Foil    | 全息烫箔      | styles/1775-holographic-foil.png     |
+| h1733 | Electroluminescent  | 电致发光      | styles/1776-electroluminescent.png   |
+| h1734 | Toon Ramp           | 卡通渐变着色  | styles/1777-toon-ramp.png            |
+| h1735 | Thermal Print       | 热敏打印      | styles/1778-thermal-print.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1778, PNG count 1778. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

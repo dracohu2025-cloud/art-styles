@@ -23047,5 +23047,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1731",
+    "slug": "posterization",
+    "name_en": "Posterization",
+    "name_zh": "色调分离",
+    "description_en": "Hard poster steps: 5–7 flat value bands, snapped edges, no blend, graphic silkscreen planes.",
+    "description_zh": "色调分离：五至七档平涂色阶、硬边跳阶、无渐变、招贴丝网面。",
+    "source": "hermes-explore",
+    "image": "styles/1774-posterization.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1732",
+    "slug": "holographic-foil",
+    "name_en": "Holographic Foil",
+    "name_zh": "全息烫箔",
+    "description_en": "Rainbow diffraction foil stamp: prismatic cyan-magenta-gold shift over matte print ink.",
+    "description_zh": "全息烫箔：衍射彩虹箔、青品红金位移叠哑光油墨。",
+    "source": "hermes-explore",
+    "image": "styles/1775-holographic-foil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1733",
+    "slug": "electroluminescent",
+    "name_en": "Electroluminescent",
+    "name_zh": "电致发光",
+    "description_en": "EL-panel phosphor glow: even aqua-lime emission on dark dielectric, printed lamp outlines.",
+    "description_zh": "电致发光：磷光粉均匀青绿辉光、暗介质底、印刷灯轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1776-electroluminescent.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1734",
+    "slug": "toon-ramp",
+    "name_en": "Toon Ramp",
+    "name_zh": "卡通渐变着色",
+    "description_en": "Realtime toon ramps: stepped value bands, hard specular disks, crisp terminator, stylized 3D.",
+    "description_zh": "卡通渐变着色：阶跃明暗带、硬高光圆斑、清晰明暗界、程式卡通三维。",
+    "source": "hermes-explore",
+    "image": "styles/1777-toon-ramp.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1735",
+    "slug": "thermal-print",
+    "name_en": "Thermal Print",
+    "name_zh": "热敏打印",
+    "description_en": "Thermal-paper burn: warm-gray heat dots, printhead banding, two-tone receipt-stock grain.",
+    "description_zh": "热敏打印：暖灰热灼点、打印头条带、热敏纸双色颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1778-thermal-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
