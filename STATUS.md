@@ -4605,6 +4605,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1683, PNG count 1683. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 329 (exactly 5, h1641–h1645)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                              |
+|-------|------------------|-------------|------------------------------------|
+| h1641 | Pattern Welding  | 花纹锻焊    | styles/1684-pattern-welding.png    |
+| h1642 | Cast Paper       | 铸纸        | styles/1685-cast-paper.png         |
+| h1643 | Pixel Sorting    | 像素排序    | styles/1686-pixel-sorting.png      |
+| h1644 | Brutalism        | 粗野主义    | styles/1687-brutalism.png          |
+| h1645 | Wet Folding      | 湿折        | styles/1688-wet-folding.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1688, PNG count 1688. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -21877,5 +21877,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1641",
+    "slug": "pattern-welding",
+    "name_en": "Pattern Welding",
+    "name_zh": "花纹锻焊",
+    "description_en": "Forge-welded stacked steels acid-etched into flowing damascus grain, twist bars and raindrop figures in niter-blued valleys.",
+    "description_zh": "层叠钢锻焊后再酸蚀，大马士革水纹、绞纹与雨滴纹，硝蓝低谷与亮镍高光。",
+    "source": "hermes-explore",
+    "image": "styles/1684-pattern-welding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1642",
+    "slug": "cast-paper",
+    "name_en": "Cast Paper",
+    "name_zh": "铸纸",
+    "description_en": "Cotton-rag pulp pressed in a relief mold: deckled edges, visible flax fiber, low sculptural planes and wet-pressed translucency.",
+    "description_zh": "棉浆入模压成浮雕：毛边、可见麻棉纤维、浅浮雕体面与湿压半透明。",
+    "source": "hermes-explore",
+    "image": "styles/1685-cast-paper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1643",
+    "slug": "pixel-sorting",
+    "name_en": "Pixel Sorting",
+    "name_zh": "像素排序",
+    "description_en": "Glitch technique that sorts pixel columns by luminance into long rainbow streaks, torn slices and intact facial islands.",
+    "description_zh": "按亮度排序像素列的故障技法：彩虹长条、撕裂切片与尚可辨认的面部孤岛。",
+    "source": "hermes-explore",
+    "image": "styles/1686-pixel-sorting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1644",
+    "slug": "brutalism",
+    "name_en": "Brutalism",
+    "name_zh": "粗野主义",
+    "description_en": "Béton brut: board-formed concrete grain, monumental block geometry, bush-hammer pitting and a greige-charcoal palette.",
+    "description_zh": "清水混凝土：模板木纹、巨块几何、斩凿蜂窝孔与灰米色-木炭有限色。",
+    "source": "hermes-explore",
+    "image": "styles/1687-brutalism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1645",
+    "slug": "wet-folding",
+    "name_en": "Wet Folding",
+    "name_zh": "湿折",
+    "description_en": "Yoshizawa wet-folded paper sculpture: damp single-sheet curves, rounded ridges, visible fiber and cockled sculptural creases.",
+    "description_zh": "吉泽章湿折：单张潮纸弯折出圆脊、可见纸纤维与微皱的雕塑折痕。",
+    "source": "hermes-explore",
+    "image": "styles/1688-wet-folding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
