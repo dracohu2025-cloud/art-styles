@@ -21812,5 +21812,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1636",
+    "slug": "sulphur-tint",
+    "name_en": "Sulphur Tint",
+    "name_zh": "硫熏铜版",
+    "description_en": "Intaglio sulphur tint: oil-bound sulphur dust bitten into copper as an irregular warm-brown granular ground, softer and blotchier than rosin aquatint.",
+    "description_zh": "硫熏铜版：油调硫粉咬入铜板，形成不规则暖褐颗粒地纹，比松香飞尘更软、更斑驳。",
+    "source": "hermes-explore",
+    "image": "styles/1679-sulphur-tint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1637",
+    "slug": "tsuyazumi",
+    "name_en": "Tsuyazumi",
+    "name_zh": "艶墨",
+    "description_en": "Ukiyo-e tsuyazumi: extra-glue lustrous sumi printed as wet lacquer-black on hair and contour against matte color blocks.",
+    "description_zh": "浮世绘艶墨：加胶光泽墨印出湿润漆黑的发与轮廓，衬以哑光色块。",
+    "source": "hermes-explore",
+    "image": "styles/1680-tsuyazumi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1638",
+    "slug": "chemogram",
+    "name_en": "Chemogram",
+    "name_zh": "化学光图",
+    "description_en": "Cameraless chemogram: developer, fixer and bleach painted on gelatin silver paper, crystalline veils and reticulated emulsion stains.",
+    "description_zh": "无相机化学光图：显影、定影与漂白涂刷明胶银纸，结晶薄纱与网纹乳剂渍。",
+    "source": "hermes-explore",
+    "image": "styles/1681-chemogram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1639",
+    "slug": "talbotype",
+    "name_en": "Talbotype",
+    "name_zh": "塔尔博特法",
+    "description_en": "1840s Talbotype/calotype: warm walnut salted-paper print from a paper negative, fibrous softness and long brown tonal scale.",
+    "description_zh": "1840年代塔尔博特法：纸底负片印出的暖核桃盐纸正片，纤维柔焦与绵长褐色阶调。",
+    "source": "hermes-explore",
+    "image": "styles/1682-talbotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1640",
+    "slug": "takuzuri",
+    "name_en": "Takuzuri",
+    "name_zh": "拓摺",
+    "description_en": "Japanese takuzuri: paper laid over carved wood relief and rubbed with ink, dry-brush grain and broken raised ridges.",
+    "description_zh": "日式拓摺：纸覆雕木凸面再擦墨，干刷木纹与断裂凸棱。",
+    "source": "hermes-explore",
+    "image": "styles/1683-takuzuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

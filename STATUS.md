@@ -4591,6 +4591,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1678, PNG count 1678. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 328 (exactly 5, h1636–h1640)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh   | image                         |
+|-------|--------------|-----------|-------------------------------|
+| h1636 | Sulphur Tint | 硫熏铜版  | styles/1679-sulphur-tint.png  |
+| h1637 | Tsuyazumi    | 艶墨      | styles/1680-tsuyazumi.png     |
+| h1638 | Chemogram    | 化学光图  | styles/1681-chemogram.png     |
+| h1639 | Talbotype    | 塔尔博特法 | styles/1682-talbotype.png     |
+| h1640 | Takuzuri     | 拓摺      | styles/1683-takuzuri.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1683, PNG count 1683. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
