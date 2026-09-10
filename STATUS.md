@@ -4969,6 +4969,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1813, PNG count 1813. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 355 (exactly 5, h1771–h1775)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh       | image                           |
+|-------|-------------|---------------|---------------------------------|
+| h1771 | Line Boil   | 线沸          | styles/1814-line-boil.png       |
+| h1772 | Limewash    | 石灰水刷      | styles/1815-limewash.png        |
+| h1773 | Tonking     | 汤金法        | styles/1816-tonking.png         |
+| h1774 | Gobo Light  | 造型遮片光    | styles/1817-gobo-light.png      |
+| h1775 | Pastel Dust | 色粉扬尘      | styles/1818-pastel-dust.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1818, PNG count 1818. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

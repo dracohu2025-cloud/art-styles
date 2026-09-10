@@ -23567,5 +23567,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1771",
+    "slug": "line-boil",
+    "name_en": "Line Boil",
+    "name_zh": "线沸",
+    "description_en": "Line boil: hand-traced animation contours that jitter frame-to-frame, vibrating outlines and wobbling interior ticks with flat fills trapped inside, not clean vector, not still photography.",
+    "description_zh": "线沸：手描动画轮廓帧间微颤，外轮廓振动、内部线条晃动，平涂色块锁在沸线内，非干净矢量、非静帧摄影。",
+    "source": "hermes-explore",
+    "image": "styles/1814-line-boil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1772",
+    "slug": "limewash",
+    "name_en": "Limewash",
+    "name_zh": "石灰水刷",
+    "description_en": "Limewash: thin mineral lime slurry on rough plaster, chalky matte calcium veils, brush-drag streaks and dusty bloom, not oil gloss, not buon fresco.",
+    "description_zh": "石灰水刷：稀石灰浆刷于粗灰泥，粉质哑光钙膜、刷痕拖曳与粉尘晕，非油彩光泽、非湿壁画。",
+    "source": "hermes-explore",
+    "image": "styles/1815-limewash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1773",
+    "slug": "tonking",
+    "name_en": "Tonking",
+    "name_zh": "汤金法",
+    "description_en": "Tonking: wet oil blotted with absorbent paper so pigment thins, highlights lift, and paper-fiber imprint remains, not thick impasto, not glaze-only.",
+    "description_zh": "汤金法：湿油画用吸油纸按压减薄，高光被揭起、纸纤维印留在余色中，非厚涂堆塑、非单纯罩染。",
+    "source": "hermes-explore",
+    "image": "styles/1816-tonking.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1774",
+    "slug": "gobo-light",
+    "name_en": "Gobo Light",
+    "name_zh": "造型遮片光",
+    "description_en": "Gobo light: hard theatrical beam through a cut gobo, cookie-breaker patterned shadows marching across figure and ground, not soft beauty lighting, not painterly brushwork.",
+    "description_zh": "造型遮片光：硬舞台光束穿过镂空遮片，饼干碎影图案铺过人物与地面，非柔光美妆灯、非笔触绘画。",
+    "source": "hermes-explore",
+    "image": "styles/1817-gobo-light.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1775",
+    "slug": "pastel-dust",
+    "name_en": "Pastel Dust",
+    "name_zh": "色粉扬尘",
+    "description_en": "Pastel dust: airborne pastel powder settled on toned paper as velvety bloom and granular haze, finger-smudged clouds with sparse hard ticks, not oil paint, not linear hard-pastel only.",
+    "description_zh": "色粉扬尘：色粉粉末落在色纸上成绒面晕与颗粒雾，指抹云团辅以稀疏硬笔触，非油画、非纯硬粉线条。",
+    "source": "hermes-explore",
+    "image": "styles/1818-pastel-dust.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
