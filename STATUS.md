@@ -4731,6 +4731,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1728, PNG count 1728. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 338 (exactly 5, h1686–h1690)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh           | image                              |
+|-------|-----------------|-------------------|------------------------------------|
+| h1686 | Kumo Shibori    | 蜘蛛绞            | styles/1729-kumo-shibori.png       |
+| h1687 | Prattware       | 普拉特彩陶        | styles/1730-prattware.png          |
+| h1688 | Teneriffe Lace  | 特内里费蕾丝      | styles/1731-teneriffe-lace.png     |
+| h1689 | Atsuita         | 厚板              | styles/1732-atsuita.png            |
+| h1690 | Bengara         | 弁柄染            | styles/1733-bengara.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1733, PNG count 1733. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

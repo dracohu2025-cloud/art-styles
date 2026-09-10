@@ -22462,5 +22462,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1686",
+    "slug": "kumo-shibori",
+    "name_en": "Kumo Shibori",
+    "name_zh": "蜘蛛绞",
+    "description_en": "Spider-web shibori: cloth bound from a point into radiating puckers, indigo resist rings and spokes like a web on gathered cotton.",
+    "description_zh": "蜘蛛绞：从一点捆扎出放射褶皱，靛蓝防染成同心环与辐线，如蛛网覆于皱棉。",
+    "source": "hermes-explore",
+    "image": "styles/1729-kumo-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1687",
+    "slug": "prattware",
+    "name_en": "Prattware",
+    "name_zh": "普拉特彩陶",
+    "description_en": "English Prattware: high-fire underglaze on cream earthenware in ochre, cobalt, copper green, manganese brown and iron red under glossy lead glaze.",
+    "description_zh": "普拉特彩陶：乳白陶上高温釉下彩，赭黄、钴蓝、铜绿、锰棕与铁红，罩铅釉光泽。",
+    "source": "hermes-explore",
+    "image": "styles/1730-prattware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1688",
+    "slug": "teneriffe-lace",
+    "name_en": "Teneriffe Lace",
+    "name_zh": "特内里费蕾丝",
+    "description_en": "Sol lace wheels: needle-made circular sunbursts with wrapped radiating bars and picots, ecru thread openwork on a dark ground.",
+    "description_zh": "特内里费日轮蕾丝：针结圆形辐射轮，绕线辐条与皮科边，米白线镂空覆于深地。",
+    "source": "hermes-explore",
+    "image": "styles/1731-teneriffe-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1689",
+    "slug": "atsuita",
+    "name_en": "Atsuita",
+    "name_zh": "厚板",
+    "description_en": "Noh atsuita brocade: stiff gold-wrapped weft, large geometric lozenges and checks in gold, black, red and green, unsagging ceremonial weave.",
+    "description_zh": "厚板：能装金纬织，大几何菱格与方纹，金、黑、红、绿，挺括无垂坠。",
+    "source": "hermes-explore",
+    "image": "styles/1732-atsuita.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1690",
+    "slug": "bengara",
+    "name_en": "Bengara",
+    "name_zh": "弁柄染",
+    "description_en": "Bengara iron-oxide red: matte ferric earth dye and pigment, rust-brown mineral grain on cloth or washi, oxidized iron not vermilion.",
+    "description_zh": "弁柄染：氧化铁红土染料与颜料，哑光锈棕矿物颗粒覆于布或和纸，非朱红。",
+    "source": "hermes-explore",
+    "image": "styles/1733-bengara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
