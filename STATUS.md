@@ -4493,6 +4493,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1643, PNG count 1643. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 321 (exactly 5, h1601–h1605)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                         |
+|-------|-------------|-------------|-------------------------------|
+| h1601 | Paj Ntaub   | 帕瑙绣      | styles/1644-paj-ntaub.png     |
+| h1602 | Oshiguma    | 押隈        | styles/1645-oshiguma.png      |
+| h1603 | Non-Finito  | 未完成雕    | styles/1646-non-finito.png    |
+| h1604 | Tatenishiki | 经锦        | styles/1647-tatenishiki.png   |
+| h1605 | Wireframe   | 线框        | styles/1648-wireframe.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1648, PNG count 1648. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

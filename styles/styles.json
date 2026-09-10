@@ -21357,5 +21357,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1601",
+    "slug": "paj-ntaub",
+    "name_en": "Paj Ntaub",
+    "name_zh": "帕瑙绣",
+    "description_en": "Paj Ntaub: Hmong reverse-appliqué and geometric stitchwork; layered cloth cut-backs, satin-stitch borders, snail-spiral and triangle motifs; not mola, not sashiko, not ordinary patchwork.",
+    "description_zh": "帕瑙绣：苗族反向贴花与几何密绣，多层布料挖窗、缎纹锁边、螺线与三角纹；非莫拉贴花、非刺子绣、非普通拼布。",
+    "source": "hermes-explore",
+    "image": "styles/1644-paj-ntaub.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1602",
+    "slug": "oshiguma",
+    "name_en": "Oshiguma",
+    "name_zh": "押隈",
+    "description_en": "Oshiguma: kabuki kumadori greasepaint pressed into silk; smeared crimson-indigo blooms, cloth-fiber soak, ghosted impression edges; not ukiyo-e, not sumi-e, not batik.",
+    "description_zh": "押隈：歌舞伎隈取油彩压印于绢，朱红靛蓝晕渗、织纹吸色、残影轮廓；非浮世绘、非水墨、非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/1645-oshiguma.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1603",
+    "slug": "non-finito",
+    "name_en": "Non-Finito",
+    "name_zh": "未完成雕",
+    "description_en": "Non-Finito: unfinished marble carving; polished emerging form against claw-chisel tracks, drill holes, and raw block; not finished neoclassical statue, not plaster cast, not photogrammetry scan.",
+    "description_zh": "未完成雕：大理石未竟雕刻，抛光形体从爪凿痕、钻洞与荒料中脱出；非完成新古典雕像、非石膏模、非扫描网格。",
+    "source": "hermes-explore",
+    "image": "styles/1646-non-finito.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1604",
+    "slug": "tatenishiki",
+    "name_en": "Tatenishiki",
+    "name_zh": "经锦",
+    "description_en": "Tatenishiki: ancient Japanese warp-faced compound brocade; polychrome warp floats in geometric lattice and floral-cloud medallions, wefts buried; not weft nishiki, not yunjin, not kesi tapestry.",
+    "description_zh": "经锦：日本古代经显花重组织锦，彩色经浮几何格与花云团窠、纬线被埋；非纬锦、非云锦、非缂丝。",
+    "source": "hermes-explore",
+    "image": "styles/1647-tatenishiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1605",
+    "slug": "wireframe",
+    "name_en": "Wireframe",
+    "name_zh": "线框",
+    "description_en": "Wireframe: 3D edge-mesh rendering; cyan-white tessellation on void, hidden-line faint, no filled shading or textures; not cel shading, not low-poly bake, not ligne claire.",
+    "description_zh": "线框：三维棱边网格，青白镶嵌于虚空、隐线淡灰、无填充着色与贴图；非赛璐珞着色、非低模烘焙、非清晰线条。",
+    "source": "hermes-explore",
+    "image": "styles/1648-wireframe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
