@@ -4871,6 +4871,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1778, PNG count 1778. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 348 (exactly 5, h1736–h1740)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh    | image                       |
+|-------|------------|------------|-----------------------------|
+| h1736 | Spot UV    | 局部UV     | styles/1779-spot-uv.png     |
+| h1737 | 1-Bit      | 一位图     | styles/1780-one-bit.png     |
+| h1738 | Itto-bori  | 一刀雕     | styles/1781-itto-bori.png   |
+| h1739 | Day-Glo    | 日光荧光   | styles/1782-day-glo.png     |
+| h1740 | Quadtone   | 四色调     | styles/1783-quadtone.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1783, PNG count 1783. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -23112,5 +23112,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1736",
+    "slug": "spot-uv",
+    "name_en": "Spot UV",
+    "name_zh": "局部UV",
+    "description_en": "Spot-UV finishing: matte uncoated ink vs thick glossy varnish islands, hard specular pools.",
+    "description_zh": "局部UV：哑光胶印底与厚亮光油岛、硬高光积液。",
+    "source": "hermes-explore",
+    "image": "styles/1779-spot-uv.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1737",
+    "slug": "one-bit",
+    "name_en": "1-Bit",
+    "name_zh": "一位图",
+    "description_en": "1-bit bitmap: pure black/white, no gray, clustered-dot dither, hard pixel poster.",
+    "description_zh": "一位图：纯黑白无灰、聚集网点抖动、硬像素海报。",
+    "source": "hermes-explore",
+    "image": "styles/1780-one-bit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1738",
+    "slug": "itto-bori",
+    "name_en": "Itto-bori",
+    "name_zh": "一刀雕",
+    "description_en": "Itto-bori one-knife carving: bold chisel facets, wood grain, mineral-pigment tints.",
+    "description_zh": "一刀雕：阔刀切面、木纹、矿物颜料点染。",
+    "source": "hermes-explore",
+    "image": "styles/1781-itto-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1739",
+    "slug": "day-glo",
+    "name_en": "Day-Glo",
+    "name_zh": "日光荧光",
+    "description_en": "Day-Glo fluorescent pigment: blazing chartreuse-magenta-orange that appears to emit light.",
+    "description_zh": "日光荧光：黄绿洋红橙高饱和荧光颜料，如在黑灯下发光。",
+    "source": "hermes-explore",
+    "image": "styles/1782-day-glo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1740",
+    "slug": "quadtone",
+    "name_en": "Quadtone",
+    "name_zh": "四色调",
+    "description_en": "Quadtone print: four gray inks (warm/cool carbon, olive, selenium) for split-tone grain.",
+    "description_zh": "四色调：四路灰墨（暖冷碳、橄榄、硒调）分裂色调颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1783-quadtone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
