@@ -21682,5 +21682,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1626",
+    "slug": "ray-tracing",
+    "name_en": "Ray Tracing",
+    "name_zh": "光线追踪",
+    "description_en": "Recursive ray-traced CGI: mirror reflections, glass refraction, sharp caustics, and bounced speculars computed along light paths.",
+    "description_zh": "递归光线追踪：镜面反射、玻璃折射、锐利焦散，以及沿光路计算的二次高光。",
+    "source": "hermes-explore",
+    "image": "styles/1669-ray-tracing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1627",
+    "slug": "ilfochrome",
+    "name_en": "Ilfochrome",
+    "name_zh": "银漂法",
+    "description_en": "Silver-dye-bleach color print: azo-dye saturation, polyester gloss, deep Dmax blacks, and razor acutance of the Ilfochrome/Cibachrome process.",
+    "description_zh": "银漂法彩色印相：偶氮染料高饱和、涤纶片基光泽、极深黑位与锐利轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1670-ilfochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1628",
+    "slug": "macrame",
+    "name_en": "Macramé",
+    "name_zh": "马克拉梅",
+    "description_en": "Knotted-cord construction as image: square knots, half-hitches, lark’s-head mounts, gathered fringe, and sculptural negative space between cords.",
+    "description_zh": "编结作画：平结、半结、锁边结、流苏与绳结之间的雕塑负空间。",
+    "source": "hermes-explore",
+    "image": "styles/1671-macrame.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1629",
+    "slug": "lurik",
+    "name_en": "Lurik",
+    "name_zh": "卢里克条织",
+    "description_en": "Javanese lurik handloom: warp-faced cotton stripes in cream, rust, and indigo, even stripe rhythm, matte loom texture, no ikat feathering.",
+    "description_zh": "爪哇卢里克手织：经面棉条纹，米、锈、靛蓝有限色，匀整条纹节奏与哑光织机质感。",
+    "source": "hermes-explore",
+    "image": "styles/1672-lurik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1630",
+    "slug": "uncut-velvet",
+    "name_en": "Uncut Velvet",
+    "name_zh": "未割绒天鹅绒",
+    "description_en": "Silk uncut velvet: loop pile left unsheared against a voided ground, raking light on loop ribs, damask contrast of pile versus flattened weave.",
+    "description_zh": "未割绒丝绒：保留线圈绒头对照镂空地组织，侧光扫过线圈肋纹，绒面与平地形成织锦对比。",
+    "source": "hermes-explore",
+    "image": "styles/1673-uncut-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

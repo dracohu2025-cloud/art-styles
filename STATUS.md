@@ -4563,6 +4563,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1668, PNG count 1668. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 326 (exactly 5, h1626–h1630)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                            |
+|-------|----------------|-------------------|----------------------------------|
+| h1626 | Ray Tracing    | 光线追踪          | styles/1669-ray-tracing.png      |
+| h1627 | Ilfochrome     | 银漂法            | styles/1670-ilfochrome.png       |
+| h1628 | Macramé        | 马克拉梅          | styles/1671-macrame.png          |
+| h1629 | Lurik          | 卢里克条织        | styles/1672-lurik.png            |
+| h1630 | Uncut Velvet   | 未割绒天鹅绒      | styles/1673-uncut-velvet.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1673, PNG count 1673. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
