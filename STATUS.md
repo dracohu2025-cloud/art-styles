@@ -4997,6 +4997,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1823, PNG count 1823. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 357 (exactly 5, h1781–h1785)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                  |
+|-------|--------------------|-------------|----------------------------------------|
+| h1781 | Cuttlebone Casting | 墨鱼骨铸造  | styles/1824-cuttlebone-casting.png     |
+| h1782 | Anticlastic Raising | 反曲锻起   | styles/1825-anticlastic-raising.png    |
+| h1783 | Negative Painting  | 负形水彩    | styles/1826-negative-painting.png      |
+| h1784 | Salted Wash        | 撒盐水彩    | styles/1827-salted-wash.png            |
+| h1785 | Katagiri-bori      | 片切雕      | styles/1828-katagiri-bori.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1828, PNG count 1828. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

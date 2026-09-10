@@ -23697,5 +23697,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1781",
+    "slug": "cuttlebone-casting",
+    "name_en": "Cuttlebone Casting",
+    "name_zh": "墨鱼骨铸造",
+    "description_en": "Cuttlebone casting: metal poured in a cuttlefish-bone mold, organic parallel ridges and porous dendritic grain, matte pewter-bronze, not CNC polish, not engraving, not lost-wax smooth.",
+    "description_zh": "墨鱼骨铸造：金属注入墨鱼骨模具，平行波脊与多孔枝状肌理，哑光锡青铜，非数控抛光、非雕刻、非失蜡光滑。",
+    "source": "hermes-explore",
+    "image": "styles/1824-cuttlebone-casting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1782",
+    "slug": "anticlastic-raising",
+    "name_en": "Anticlastic Raising",
+    "name_zh": "反曲锻起",
+    "description_en": "Anticlastic raising: saddle-curved sheet metal with opposing convex and concave curves, planished highlights, not synclastic bowls, not cast ingots, not origami.",
+    "description_zh": "反曲锻起：薄金属板对向凸凹成马鞍曲面，锤光高光，非同曲碗形、非铸锭、非折纸。",
+    "source": "hermes-explore",
+    "image": "styles/1825-anticlastic-raising.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1783",
+    "slug": "negative-painting",
+    "name_en": "Negative Painting",
+    "name_zh": "负形水彩",
+    "description_en": "Negative painting: transparent watercolor forms built by painting around reserved paper-white shapes in stacked glazes, not positive line-and-fill, not gouache, not ink contour.",
+    "description_zh": "负形水彩：透明水彩层层罩染、绕留白成形，非正向勾填、非水粉、非墨线轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/1826-negative-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1784",
+    "slug": "salted-wash",
+    "name_en": "Salted Wash",
+    "name_zh": "撒盐水彩",
+    "description_en": "Salted wash: wet watercolor sprinkled with coarse salt, crystal starbursts and lichen blooms drinking pigment, not salt-print photography, not salt glaze, not alcohol ink.",
+    "description_zh": "撒盐水彩：湿水彩洒粗盐，晶体吸色成星爆与地衣斑，非盐纸印相、非盐釉、非酒精墨水。",
+    "source": "hermes-explore",
+    "image": "styles/1827-salted-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1785",
+    "slug": "katagiri-bori",
+    "name_en": "Katagiri-bori",
+    "name_zh": "片切雕",
+    "description_en": "Katagiri-bori: Japanese slanted-chisel engraving, triangular V-section grooves with one vertical wall and one bevel, light on facets, not kebori hairline, not etching, not woodcut.",
+    "description_zh": "片切雕：斜刀錾刻，一壁垂直一壁斜切的三角槽，棱面受光，非毛雕细线、非蚀刻、非木刻。",
+    "source": "hermes-explore",
+    "image": "styles/1828-katagiri-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
