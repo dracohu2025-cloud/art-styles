@@ -22917,5 +22917,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1721",
+    "slug": "higo-zogan",
+    "name_en": "Higo Zōgan",
+    "name_zh": "肥后象嵌",
+    "description_en": "Kumamoto Higo damascene: gold and silver wire inlay on blackened iron, hammered tooth, crisp karakusa hatching.",
+    "description_zh": "肥后象嵌：黑铁地金银丝镶嵌、锤纹齿面、唐草细线清晰。",
+    "source": "hermes-explore",
+    "image": "styles/1764-higo-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1722",
+    "slug": "momigami",
+    "name_en": "Momigami",
+    "name_zh": "揉纸",
+    "description_en": "Kneaded kozo washi: crumpled-then-flattened fiber, ink pooling in crease valleys, dry pigment on ridges.",
+    "description_zh": "揉纸：搓皱再展平的楮纸、墨积皱谷、干色擦于纸脊。",
+    "source": "hermes-explore",
+    "image": "styles/1765-momigami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1723",
+    "slug": "kimkhwab",
+    "name_en": "Kimkhwab",
+    "name_zh": "金卡瓦布",
+    "description_en": "Mughal kimkhwab (kincob): extra-weft gold zari brocade, floral butis on jewel silk, metallic lampas rib.",
+    "description_zh": "金卡瓦布：金线纬锦、宝石色地花叶纹、金属光泽罗纹。",
+    "source": "hermes-explore",
+    "image": "styles/1766-kimkhwab.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1724",
+    "slug": "banko",
+    "name_en": "Banko",
+    "name_zh": "万古烧",
+    "description_en": "Yokkaichi Banko shidei: purple-brown unglazed iron clay, throwing-ring hatch, stamped seals, wood-ash kiss.",
+    "description_zh": "万古烧紫泥：紫褐无釉铁质土、拉坯弦纹、印款、柴灰吻痕。",
+    "source": "hermes-explore",
+    "image": "styles/1767-banko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1725",
+    "slug": "ojiya-chijimi",
+    "name_en": "Ojiya-chijimi",
+    "name_zh": "小千谷缩",
+    "description_en": "Niigata ramie crepe: high-twist chijimi weave, raspy shibo wrinkle, ash-snow bleached ecru fiber tooth.",
+    "description_zh": "小千谷缩：强捻苎麻绉、粗涩绉皱、灰雪漂白本色纤维。",
+    "source": "hermes-explore",
+    "image": "styles/1768-ojiya-chijimi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
