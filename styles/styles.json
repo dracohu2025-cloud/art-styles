@@ -21747,5 +21747,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1631",
+    "slug": "halftone",
+    "name_en": "Halftone",
+    "name_zh": "半色调",
+    "description_en": "Offset CMYK rosette screening, visible dot gain, plate misregister, newsprint tooth, coarse shadows and fine lights.",
+    "description_zh": "胶印CMYK玫瑰网点、网点扩大、套印偏移、新闻纸齿孔，暗部粗点、亮部细点。",
+    "source": "hermes-explore",
+    "image": "styles/1674-halftone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1632",
+    "slug": "reductive-charcoal",
+    "name_en": "Reductive Charcoal",
+    "name_zh": "减法炭笔",
+    "description_en": "Full charcoal ground on rag paper, lights lifted with kneaded eraser and chamois, compressed charcoal restated in the darks.",
+    "description_zh": "全幅炭粉底于棉浆纸，用可塑橡皮与麂皮提出亮部，压缩炭笔重申暗部。",
+    "source": "hermes-explore",
+    "image": "styles/1675-reductive-charcoal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1633",
+    "slug": "byzantine-mosaic",
+    "name_en": "Byzantine Mosaic",
+    "name_zh": "拜占庭马赛克",
+    "description_en": "Gold-leaf tesserae ground, angled smalti cubes, opus vermiculatum around the face, discrete glass and stone tiles only.",
+    "description_zh": "金箔马赛克地、倾斜斯马尔蒂玻璃块、面部蠕虫铺法，仅用离散玻璃与石片。",
+    "source": "hermes-explore",
+    "image": "styles/1676-byzantine-mosaic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1634",
+    "slug": "horsehair-raku",
+    "name_en": "Horsehair Raku",
+    "name_zh": "马毛乐烧",
+    "description_en": "Naked raku crackle slip, carbon-trapped horsehair burn lines, feathered smoke ghosts on a fired ceramic body.",
+    "description_zh": "裸烧乐烧开片化妆土，马毛碳化烧痕细线，熏烟羽状残影落在陶体上。",
+    "source": "hermes-explore",
+    "image": "styles/1677-horsehair-raku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1635",
+    "slug": "phosphor-glow",
+    "name_en": "Phosphor Glow",
+    "name_zh": "磷光辉",
+    "description_en": "CRT P22 phosphor triad, RGB shadow-mask dots, scan-bloom and persistence trails on dark faceplate glass.",
+    "description_zh": "CRT P22磷光三色点、RGB荫罩网点、扫描辉光与余辉拖尾落在暗玻璃屏上。",
+    "source": "hermes-explore",
+    "image": "styles/1678-phosphor-glow.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

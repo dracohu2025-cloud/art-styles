@@ -4577,6 +4577,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1673, PNG count 1673. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 327 (exactly 5, h1631–h1635)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh         | image                                  |
+|-------|---------------------|-----------------|----------------------------------------|
+| h1631 | Halftone            | 半色调          | styles/1674-halftone.png               |
+| h1632 | Reductive Charcoal  | 减法炭笔        | styles/1675-reductive-charcoal.png     |
+| h1633 | Byzantine Mosaic    | 拜占庭马赛克    | styles/1676-byzantine-mosaic.png       |
+| h1634 | Horsehair Raku      | 马毛乐烧        | styles/1677-horsehair-raku.png         |
+| h1635 | Phosphor Glow       | 磷光辉          | styles/1678-phosphor-glow.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1678, PNG count 1678. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
