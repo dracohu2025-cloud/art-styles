@@ -23242,5 +23242,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1746",
+    "slug": "mudmee",
+    "name_en": "Mudmee",
+    "name_zh": "泰絣",
+    "description_en": "Thai mudmee weft ikat: feathered dye-joins, lightning chevrons, indigo-marigold-brick silk weave as the drawing language.",
+    "description_zh": "泰絣纬絣：羽化接色、闪电折纹，靛蓝姜黄砖红丝织作为造型语言。",
+    "source": "hermes-explore",
+    "image": "styles/1789-mudmee.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1747",
+    "slug": "velvia",
+    "name_en": "Velvia",
+    "name_zh": "富士Velvia",
+    "description_en": "Fujifilm Velvia 50 chrome: hyper-saturated greens and reds, dense cyan shadows, fine grain, drum-scanned slide acutance.",
+    "description_zh": "富士Velvia 50反转片：极饱和绿红、青密阴影、细颗粒与鼓扫锐度。",
+    "source": "hermes-explore",
+    "image": "styles/1790-velvia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1748",
+    "slug": "gelli-print",
+    "name_en": "Gelli Print",
+    "name_zh": "凝胶版画",
+    "description_en": "Gelli-plate monoprint: brayer-pulled translucent acrylic, ghost impressions, botanical masks, roller chatter on deckle paper.",
+    "description_zh": "凝胶版画：滚筒转印半透明丙烯、残影层、植物遮罩与滚痕。",
+    "source": "hermes-explore",
+    "image": "styles/1791-gelli-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1749",
+    "slug": "uvachrome",
+    "name_en": "Uvachrome",
+    "name_zh": "乌瓦铬彩",
+    "description_en": "1920s Uvachrome assembly print: stacked CMY dyed-gelatin reliefs on matte baryta, slight misregister and soft dye bleed.",
+    "description_zh": "乌瓦铬彩：青品黄染色明胶叠层于钡地纸，微套准偏移与染料渗边。",
+    "source": "hermes-explore",
+    "image": "styles/1792-uvachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1750",
+    "slug": "photo-encaustic",
+    "name_en": "Photo Encaustic",
+    "name_zh": "蜡封照片",
+    "description_en": "Photo-encaustic: photographic image fused under beeswax and damar, scraped incisions, embedded fibers, raking-light wax skin.",
+    "description_zh": "蜡封照片：影像熔于蜂蜡达玛层下，刮刻痕迹、嵌纤维与侧光蜡皮。",
+    "source": "hermes-explore",
+    "image": "styles/1793-photo-encaustic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

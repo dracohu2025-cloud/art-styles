@@ -4899,6 +4899,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1788, PNG count 1788. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 350 (exactly 5, h1746–h1750)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h1746 | Mudmee          | 泰絣        | styles/1789-mudmee.png             |
+| h1747 | Velvia          | 富士Velvia  | styles/1790-velvia.png             |
+| h1748 | Gelli Print     | 凝胶版画    | styles/1791-gelli-print.png        |
+| h1749 | Uvachrome       | 乌瓦铬彩    | styles/1792-uvachrome.png          |
+| h1750 | Photo Encaustic | 蜡封照片    | styles/1793-photo-encaustic.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1793, PNG count 1793. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
