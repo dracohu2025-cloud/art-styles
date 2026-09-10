@@ -21552,5 +21552,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1616",
+    "slug": "camera-obscura",
+    "name_en": "Camera Obscura",
+    "name_zh": "暗箱",
+    "description_en": "Dark-chamber optical projection: inverted luminous image, circular light cone, vignetting, and dusty beam on a matte wall.",
+    "description_zh": "暗室光学投影：倒置的光影人像、圆形光锥、暗角与落在哑光墙面上的尘埃光束。",
+    "source": "hermes-explore",
+    "image": "styles/1659-camera-obscura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1617",
+    "slug": "tilt-shift",
+    "name_en": "Tilt-Shift",
+    "name_zh": "移轴",
+    "description_en": "Tilt-shift optics: a thin plane of focus, miniature diorama scale, and creamy blur above and below the subject.",
+    "description_zh": "移轴光学：极薄的焦平面、微缩立体景观尺度，以及主体上下的柔焦虚化。",
+    "source": "hermes-explore",
+    "image": "styles/1660-tilt-shift.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1618",
+    "slug": "parsemage",
+    "name_en": "Parsemage",
+    "name_zh": "撒色",
+    "description_en": "Surrealist dust-on-water lift: powdered pigment scattered on water, then transferred as mottled veils onto paper.",
+    "description_zh": "超现实主义撒色：将色粉撒于水面再拓到纸上，形成斑驳漂浮的尘雾纹理。",
+    "source": "hermes-explore",
+    "image": "styles/1661-parsemage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1619",
+    "slug": "cross-contour",
+    "name_en": "Cross-Contour",
+    "name_zh": "横断轮廓",
+    "description_en": "Cross-contour drawing: topographic lines wrap around form to describe volume instead of silhouette outlines.",
+    "description_zh": "横断轮廓线：以贴合形体的地形等高线描述体积，而非外轮廓描边。",
+    "source": "hermes-explore",
+    "image": "styles/1662-cross-contour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1620",
+    "slug": "origami",
+    "name_en": "Origami",
+    "name_zh": "折纸",
+    "description_en": "Folded-paper planar rendering: crease ridges, overlapping facets, paper grain, and hard valley/mountain folds.",
+    "description_zh": "折纸平面造型：折痕棱线、层叠纸面、纸纤维纹理与明确的山谷折。",
+    "source": "hermes-explore",
+    "image": "styles/1663-origami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

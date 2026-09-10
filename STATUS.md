@@ -4535,6 +4535,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1658, PNG count 1658. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 324 (exactly 5, h1616–h1620)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                             |
+|-------|-----------------|-------------|-----------------------------------|
+| h1616 | Camera Obscura  | 暗箱        | styles/1659-camera-obscura.png    |
+| h1617 | Tilt-Shift      | 移轴        | styles/1660-tilt-shift.png        |
+| h1618 | Parsemage       | 撒色        | styles/1661-parsemage.png         |
+| h1619 | Cross-Contour   | 横断轮廓    | styles/1662-cross-contour.png     |
+| h1620 | Origami         | 折纸        | styles/1663-origami.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1663, PNG count 1663. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
