@@ -22982,5 +22982,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1726",
+    "slug": "miyako-jofu",
+    "name_en": "Miyako Jofu",
+    "name_zh": "宫古上布",
+    "description_en": "Miyako ramie jōfu: ultra-fine choma plain weave, indigo kasuri ticks, dry summer fiber tooth.",
+    "description_zh": "宫古上布：极细苎麻平织、蓝絣点、干爽夏布齿感。",
+    "source": "hermes-explore",
+    "image": "styles/1769-miyako-jofu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1727",
+    "slug": "irabo",
+    "name_en": "Irabo",
+    "name_zh": "伊罗保",
+    "description_en": "Irabo tea glaze: coarse iron-ash khaki, burnt-sugar scorch, pinholes, sandy grit, dry crawl.",
+    "description_zh": "伊罗保：粗铁灰黄褐釉、焦糖烧痕、针孔、砂砾、干缩釉。",
+    "source": "hermes-explore",
+    "image": "styles/1770-irabo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1728",
+    "slug": "minsaa",
+    "name_en": "Minsaa",
+    "name_zh": "明萨织",
+    "description_en": "Yaeyama minsaa: indigo warp-faced cotton, white five-and-four kasuri squares, island-cotton tooth.",
+    "description_zh": "八重山明萨织：蓝经面棉、白五四絣格、岛棉齿感。",
+    "source": "hermes-explore",
+    "image": "styles/1771-minsaa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1729",
+    "slug": "swatow-ware",
+    "name_en": "Swatow Ware",
+    "name_zh": "汕头器",
+    "description_en": "Zhangzhou Swatow export: sandy body, turquoise and iron-red overglaze, hasty folk birds and flowers.",
+    "description_zh": "漳州汕头器：粗砂胎、松石与铁红釉上彩、率意花鸟。",
+    "source": "hermes-explore",
+    "image": "styles/1772-swatow-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1730",
+    "slug": "bidoro",
+    "name_en": "Bidoro",
+    "name_zh": "玻璃滴釉",
+    "description_en": "Bidoro glass-drip glaze: thick teal vitreous runs, bottle-glass beads over dark iron clay.",
+    "description_zh": "玻璃滴釉：厚青绿熔玻璃流、瓶玻璃珠挂暗铁胎。",
+    "source": "hermes-explore",
+    "image": "styles/1773-bidoro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

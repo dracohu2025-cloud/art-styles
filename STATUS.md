@@ -4843,6 +4843,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1768, PNG count 1768. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 346 (exactly 5, h1726–h1730)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                         |
+|-------|--------------|------------|-------------------------------|
+| h1726 | Miyako Jofu  | 宫古上布   | styles/1769-miyako-jofu.png   |
+| h1727 | Irabo        | 伊罗保     | styles/1770-irabo.png         |
+| h1728 | Minsaa       | 明萨织     | styles/1771-minsaa.png        |
+| h1729 | Swatow Ware  | 汕头器     | styles/1772-swatow-ware.png   |
+| h1730 | Bidoro       | 玻璃滴釉   | styles/1773-bidoro.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1773, PNG count 1773. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
