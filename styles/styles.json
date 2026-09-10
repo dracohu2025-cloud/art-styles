@@ -22007,5 +22007,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1651",
+    "slug": "french-curl-marbling",
+    "name_en": "French Curl Marbling",
+    "name_zh": "法式卷纹大理石纹",
+    "description_en": "Bookbinder French-curl (escargot) marbling: oxgall-separated inks combed into tight snail spirals on sized paper.",
+    "description_zh": "书籍装帧法式卷纹大理石纹：牛胆汁分水墨在胶矾纸上梳成紧密蜗牛螺旋。",
+    "source": "hermes-explore",
+    "image": "styles/1694-french-curl-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1652",
+    "slug": "floyd-steinberg-dither",
+    "name_en": "Floyd-Steinberg Dither",
+    "name_zh": "弗洛伊德-斯坦伯格抖动",
+    "description_en": "Error-diffusion dither with the Floyd–Steinberg kernel: wormy 1-bit grain, serpentine scan, limited ink.",
+    "description_zh": "弗洛伊德-斯坦伯格误差扩散抖动：蠕虫状一比特颗粒、蛇形扫描、有限油墨。",
+    "source": "hermes-explore",
+    "image": "styles/1695-floyd-steinberg-dither.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1653",
+    "slug": "cini",
+    "name_en": "Çini",
+    "name_zh": "契尼釉下彩",
+    "description_en": "Ottoman underglaze tile painting on tin-glazed quartz-frit: cobalt, turquoise, bole red, black tahrir contours.",
+    "description_zh": "奥斯曼契尼釉下彩：锡釉石英坯上钴蓝、松石绿、铁红与黑色轮廓线。",
+    "source": "hermes-explore",
+    "image": "styles/1696-cini.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1654",
+    "slug": "vue-doptique",
+    "name_en": "Vue d'Optique",
+    "name_zh": "光学透视版画",
+    "description_en": "18th-century perspective optical print for the zograscope: copperplate line, hand tints, exaggerated recession.",
+    "description_zh": "十八世纪光学透视版画：铜版细线、手工淡彩、为窥视镜夸张的纵深。",
+    "source": "hermes-explore",
+    "image": "styles/1697-vue-doptique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1655",
+    "slug": "egyptian-paste",
+    "name_en": "Egyptian Paste",
+    "name_zh": "埃及自釉浆",
+    "description_en": "Self-glazing alkaline quartz-frit faience: turquoise vitreous bloom over a sandy sintered body.",
+    "description_zh": "埃及自釉浆：碱性石英坯自釉，松石色玻璃质釉膜覆于砂质烧结胎。",
+    "source": "hermes-explore",
+    "image": "styles/1698-egyptian-paste.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -4633,6 +4633,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1693, PNG count 1693. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 331 (exactly 5, h1651–h1655)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh                 | image                                   |
+|-------|-------------------------|-------------------------|-----------------------------------------|
+| h1651 | French Curl Marbling    | 法式卷纹大理石纹        | styles/1694-french-curl-marbling.png    |
+| h1652 | Floyd-Steinberg Dither  | 弗洛伊德-斯坦伯格抖动   | styles/1695-floyd-steinberg-dither.png  |
+| h1653 | Çini                    | 契尼釉下彩              | styles/1696-cini.png                    |
+| h1654 | Vue d'Optique           | 光学透视版画            | styles/1697-vue-doptique.png            |
+| h1655 | Egyptian Paste          | 埃及自釉浆              | styles/1698-egyptian-paste.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1698, PNG count 1698. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
