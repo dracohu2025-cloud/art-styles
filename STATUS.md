@@ -5025,6 +5025,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1833, PNG count 1833. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 359 (exactly 5, h1791–h1795)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                  |
+|-------|----------------------|-----------------|----------------------------------------|
+| h1791 | Dutch Pour           | 荷兰倾倒        | styles/1834-dutch-pour.png             |
+| h1792 | Wax Resist           | 蜡防水彩        | styles/1835-wax-resist.png             |
+| h1793 | Gothic Illumination  | 哥特细密金饰    | styles/1836-gothic-illumination.png    |
+| h1794 | Crawling Glaze       | 缩釉            | styles/1837-crawling-glaze.png         |
+| h1795 | Toner Transfer       | 碳粉转印        | styles/1838-toner-transfer.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1838, PNG count 1838. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

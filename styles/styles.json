@@ -23827,5 +23827,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1791",
+    "slug": "dutch-pour",
+    "name_en": "Dutch Pour",
+    "name_zh": "荷兰倾倒",
+    "description_en": "Dutch pour: tilted high-flow acrylics that lace into silicone cells and river veins, not watercolor blooms, not hydrodipping film, not paper marbling.",
+    "description_zh": "荷兰倾倒：高流丙烯酸倾斜形成硅油细胞与河流纹，非水彩渗化、非水转印膜、非纸面大理石纹。",
+    "source": "hermes-explore",
+    "image": "styles/1834-dutch-pour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1792",
+    "slug": "wax-resist",
+    "name_en": "Wax Resist",
+    "name_zh": "蜡防水彩",
+    "description_en": "Wax resist watercolor: paraffin or crayon wax scribbles that watercolors bead off, leaving unpainted ridges, not batik cloth, not masking-fluid frisket, not oil pastel.",
+    "description_zh": "蜡防水彩：石蜡或蜡笔划线后水彩绕开，留下未着色脊线，非蜡染布、非护膜遮挡、非油蜡笔。",
+    "source": "hermes-explore",
+    "image": "styles/1835-wax-resist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1793",
+    "slug": "gothic-illumination",
+    "name_en": "Gothic Illumination",
+    "name_zh": "哥特细密金饰",
+    "description_en": "Gothic illumination: burnished gold leaf, raised bole, ultramarine tempera and vine-scroll filigree on a manuscript ground, not Renaissance oil, not Byzantine mosaic, not comic foil.",
+    "description_zh": "哥特细密金饰：打磨金箔、凸起胶矾、群青蛋彩与藤蔓纹饰于手抄本底，非文艺复兴油画、非拜占庭马赛克、非漫画金箔。",
+    "source": "hermes-explore",
+    "image": "styles/1836-gothic-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1794",
+    "slug": "crawling-glaze",
+    "name_en": "Crawling Glaze",
+    "name_zh": "缩釉",
+    "description_en": "Crawling glaze: high-shrinkage glaze that pulls into islands with bare clay in the gaps, not crazing crackle, not raku smoke, not mosaic tesserae.",
+    "description_zh": "缩釉：高收缩釉拉开成岛，缝隙露胎，非开片裂纹、非乐烧烟熏、非马赛克镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/1837-crawling-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1795",
+    "slug": "toner-transfer",
+    "name_en": "Toner Transfer",
+    "name_zh": "碳粉转印",
+    "description_en": "Toner transfer: solvent-lifted laser/xerox toner grain with incomplete lift and ghosted blacks, not silkscreen, not lithograph, not graphite drawing.",
+    "description_zh": "碳粉转印：溶剂揭起的激光/复印碳粉颗粒，残缺转印与幽灵黑，非丝网、非石版、非石墨素描。",
+    "source": "hermes-explore",
+    "image": "styles/1838-toner-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
