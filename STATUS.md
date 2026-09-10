@@ -4801,6 +4801,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1753, PNG count 1753. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 343 (exactly 5, h1711–h1715)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh           | image                              |
+|-------|------------------|-------------------|------------------------------------|
+| h1711 | Verre de Nevers  | 讷韦尔灯工        | styles/1754-verre-de-nevers.png    |
+| h1712 | Deutsche Blumen  | 德意志花卉        | styles/1755-deutsche-blumen.png    |
+| h1713 | Gold-band Glass  | 金带玻璃          | styles/1756-gold-band-glass.png    |
+| h1714 | Namako Glaze     | 海鼠釉            | styles/1757-namako-glaze.png       |
+| h1715 | Yuki Tsumugi     | 结城紬            | styles/1758-yuki-tsumugi.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1758, PNG count 1758. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

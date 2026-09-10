@@ -22787,5 +22787,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1711",
+    "slug": "verre-de-nevers",
+    "name_en": "Verre de Nevers",
+    "name_zh": "讷韦尔灯工",
+    "description_en": "17th–18th-century Nevers lampwork: milky soda-glass figurines, enamel-colored stringers, pulled-glass threads, furnace-shine joins.",
+    "description_zh": "十七至十八世纪讷韦尔灯工：乳白钠钙玻璃人偶、珐琅色灯丝、拉制玻璃线、炉火接痕高光。",
+    "source": "hermes-explore",
+    "image": "styles/1754-verre-de-nevers.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1712",
+    "slug": "deutsche-blumen",
+    "name_en": "Deutsche Blumen",
+    "name_zh": "德意志花卉",
+    "description_en": "Meissen overglaze botanical enamel on hard-paste porcelain: naturalistic German garden flowers, insects, gilt rims, white kaolin glaze.",
+    "description_zh": "迈森硬瓷釉上珐琅植物画：写实德意志园花与昆虫、描金边、高岭白釉。",
+    "source": "hermes-explore",
+    "image": "styles/1755-deutsche-blumen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1713",
+    "slug": "gold-band-glass",
+    "name_en": "Gold-band Glass",
+    "name_zh": "金带玻璃",
+    "description_en": "Hellenistic/Roman gold-band mosaic glass: cobalt, amber, and white ribbons with sandwich gold foil, dragged, twisted, and polished.",
+    "description_zh": "希腊化/罗马金带马赛克玻璃：钴蓝、琥珀与白条夹金箔，拖拽扭转后抛光。",
+    "source": "hermes-explore",
+    "image": "styles/1756-gold-band-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1714",
+    "slug": "namako-glaze",
+    "name_en": "Namako Glaze",
+    "name_zh": "海鼠釉",
+    "description_en": "Japanese sea-cucumber glaze on stoneware: thick running cobalt-teal-lavender namako pools, crawling breaks, iron-brown body at the rim.",
+    "description_zh": "日本炻器海鼠釉：钴蓝—青绿—藕紫厚釉流淌、缩釉开裂、口沿露出铁褐胎。",
+    "source": "hermes-explore",
+    "image": "styles/1757-namako-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1715",
+    "slug": "yuki-tsumugi",
+    "name_en": "Yuki Tsumugi",
+    "name_zh": "结城紬",
+    "description_en": "Hand-spun Yuki pongee: slubby raw-silk tsumugi, plant-dyed indigo and persimmon kasuri flecks, matte hon-tsumugi weave.",
+    "description_zh": "手纺结城紬：生丝瘤节、草木染靛蓝与柿涩絣点、哑光本紬织理。",
+    "source": "hermes-explore",
+    "image": "styles/1758-yuki-tsumugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
