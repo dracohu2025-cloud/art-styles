@@ -4717,6 +4717,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1723, PNG count 1723. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 337 (exactly 5, h1681–h1685)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                | name_zh           | image                                    |
+|-------|------------------------|-------------------|------------------------------------------|
+| h1681 | Pompeian First Style   | 庞贝第一风格      | styles/1724-pompeian-first-style.png     |
+| h1682 | Rotunda                | 圆哥特体          | styles/1725-rotunda.png                  |
+| h1683 | Hon-zōgan              | 本镶嵌            | styles/1726-hon-zogan.png                |
+| h1684 | Gosu Akae              | 吴须赤绘          | styles/1727-gosu-akae.png                |
+| h1685 | Feathering Slip        | 羽状化妆土        | styles/1728-feathering-slip.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1728, PNG count 1728. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

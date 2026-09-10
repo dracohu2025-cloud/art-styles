@@ -22397,5 +22397,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1681",
+    "slug": "pompeian-first-style",
+    "name_en": "Pompeian First Style",
+    "name_zh": "庞贝第一风格",
+    "description_en": "Incrustation wall painting: faux-marble stucco panels, painted porphyry and Numidian veining, flat architectural dado without deep perspective.",
+    "description_zh": "镶砌壁画：仿大理石灰泥嵌板、绘制斑岩与努米底亚石纹、无纵深透视的平面建筑墙裙。",
+    "source": "hermes-explore",
+    "image": "styles/1724-pompeian-first-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1682",
+    "slug": "rotunda",
+    "name_en": "Rotunda",
+    "name_zh": "圆哥特体",
+    "description_en": "Southern Gothic book hand: rounded closed minuscule, short verticals, honeycomb texture of circular bows in iron-gall ink on vellum.",
+    "description_zh": "南欧哥特书体：圆闭合小写、短竖笔、铁胆墨在犊皮纸上形成蜂窝般圆弧肌理。",
+    "source": "hermes-explore",
+    "image": "styles/1725-rotunda.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1683",
+    "slug": "hon-zogan",
+    "name_en": "Hon-zōgan",
+    "name_zh": "本镶嵌",
+    "description_en": "True Japanese metal inlay: gold and silver hammered flush into cut recesses on iron or shakudō, polished level, no raised relief.",
+    "description_zh": "日本真镶嵌：金银锤入铁或赤铜凹槽后磨平齐面，无凸起浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1726-hon-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1684",
+    "slug": "gosu-akae",
+    "name_en": "Gosu Akae",
+    "name_zh": "吴须赤绘",
+    "description_en": "Zhangzhou/Swatow overglaze: folk-bold iron-red aka-e and cobalt gosu on white porcelain, coarse lively export-ware brushwork.",
+    "description_zh": "漳州/汕头上绘：白瓷上民间大胆的铁红赤绘与钴蓝吴须，粗放出口瓷笔触。",
+    "source": "hermes-explore",
+    "image": "styles/1727-gosu-akae.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1685",
+    "slug": "feathering-slip",
+    "name_en": "Feathering Slip",
+    "name_zh": "羽状化妆土",
+    "description_en": "Slipware feathering: parallel trailed slips dragged with a feather into chevrons and plumes on earthenware, cream against honey-brown.",
+    "description_zh": "化妆土羽纹：平行沥浆再用羽毛拖出人字与羽脉，乳白对蜜棕陶面。",
+    "source": "hermes-explore",
+    "image": "styles/1728-feathering-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
