@@ -21487,5 +21487,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1611",
+    "slug": "resingrave",
+    "name_en": "Resingrave",
+    "name_zh": "树脂木口刻",
+    "description_en": "End-grain engraving on synthetic polymer blocks: burin-cut white lines, lozenge hatch, and stipple printed as velvet black relief.",
+    "description_zh": "在合成树脂端纹块上木口雕刻：刻刀白线、菱形排线与点刻，印成丝绒般的黑地白线。",
+    "source": "hermes-explore",
+    "image": "styles/1654-resingrave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1612",
+    "slug": "poche",
+    "name_en": "Poché",
+    "name_zh": "建筑涂黑",
+    "description_en": "Beaux-Arts section drawing that fills cut wall masses with solid India-ink poché, leaving residual space in pale wash.",
+    "description_zh": "学院派剖面图法：以浓墨实填被剖墙体（poché），剩余空间留作淡墨渲染。",
+    "source": "hermes-explore",
+    "image": "styles/1655-poche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1613",
+    "slug": "deep-bite-etching",
+    "name_en": "Deep-bite Etching",
+    "name_zh": "深咬蚀刻",
+    "description_en": "Open-bite intaglio: long acid baths excavate cavernous pits and sculptural plate tone in rich wiped ink.",
+    "description_zh": "开口深咬凹版：长时间酸浴挖出洞穴般蚀坑与雕塑感版调，以浓墨擦印。",
+    "source": "hermes-explore",
+    "image": "styles/1656-deep-bite-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1614",
+    "slug": "letraset",
+    "name_en": "Letraset",
+    "name_zh": "转印字体",
+    "description_en": "Dry-transfer Instant Lettering: rub-down type with wax-sheet sheen, cracked incomplete transfers, and rubylith overlays.",
+    "description_zh": "干式转印即时字体：蜡膜转贴字母、裂纹与未转全的缺口，叠加红膜拼版。",
+    "source": "hermes-explore",
+    "image": "styles/1657-letraset.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1615",
+    "slug": "genga",
+    "name_en": "Genga",
+    "name_zh": "原画",
+    "description_en": "Japanese key-animation drawings: graphite and blue pencil on punched paper, construction lines, volume, and pose breakdown.",
+    "description_zh": "日本动画原画：打孔动画纸上的石墨与蓝铅，结构线、体积与关键动作分解。",
+    "source": "hermes-explore",
+    "image": "styles/1658-genga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

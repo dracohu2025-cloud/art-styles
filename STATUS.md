@@ -4521,6 +4521,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1653, PNG count 1653. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 323 (exactly 5, h1611–h1615)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                |
+|-------|--------------------|-----------------|--------------------------------------|
+| h1611 | Resingrave         | 树脂木口刻      | styles/1654-resingrave.png           |
+| h1612 | Poché              | 建筑涂黑        | styles/1655-poche.png                |
+| h1613 | Deep-bite Etching  | 深咬蚀刻        | styles/1656-deep-bite-etching.png    |
+| h1614 | Letraset           | 转印字体        | styles/1657-letraset.png             |
+| h1615 | Genga              | 原画            | styles/1658-genga.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1658, PNG count 1658. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
