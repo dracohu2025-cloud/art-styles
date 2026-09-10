@@ -4647,6 +4647,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1698, PNG count 1698. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 332 (exactly 5, h1656–h1660)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                              |
+|-------|--------------------|-------------------|------------------------------------|
+| h1656 | Textura Quadrata   | 四分哥特体        | styles/1699-textura-quadrata.png   |
+| h1657 | Diancui            | 点翠              | styles/1700-diancui.png            |
+| h1658 | Mashiko            | 益子烧            | styles/1701-mashiko.png            |
+| h1659 | Nirmal Painting    | 尼尔默尔金漆画    | styles/1702-nirmal-painting.png    |
+| h1660 | Pearlware          | 珍珠釉陶          | styles/1703-pearlware.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1703, PNG count 1703. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

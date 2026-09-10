@@ -22072,5 +22072,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1656",
+    "slug": "textura-quadrata",
+    "name_en": "Textura Quadrata",
+    "name_zh": "四分哥特体",
+    "description_en": "Northern Gothic book-hand: packed vertical minims, diamond feet, iron-gall on ruled vellum, vermilion rubrics and gold versals.",
+    "description_zh": "北欧四分哥特体：密集竖笔、菱形字脚、罫线羊皮上的五倍子铁墨、朱红与金箔首字母。",
+    "source": "hermes-explore",
+    "image": "styles/1699-textura-quadrata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1657",
+    "slug": "diancui",
+    "name_en": "Diancui",
+    "name_zh": "点翠",
+    "description_en": "Kingfisher-feather inlay in gilt cloison cells: iridescent cyan tesserae, gold filigree, coral and jade accents.",
+    "description_zh": "点翠：金掐丝格中镶翠羽，虹彩青蓝、花丝金地、珊瑚与白玉点缀。",
+    "source": "hermes-explore",
+    "image": "styles/1700-diancui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1658",
+    "slug": "mashiko",
+    "name_en": "Mashiko",
+    "name_zh": "益子烧",
+    "description_en": "Tochigi mingei pottery: iron-rich clay, kaki amber glaze, namako runs, hakeme white slip, kiln flash and ash.",
+    "description_zh": "益子烧：铁分土、柿釉、海鼠流釉、刷毛目白化妆、窑变与落灰。",
+    "source": "hermes-explore",
+    "image": "styles/1701-mashiko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1659",
+    "slug": "nirmal-painting",
+    "name_en": "Nirmal Painting",
+    "name_zh": "尼尔默尔金漆画",
+    "description_en": "Telangana lacquer-wood painting: dark lacquer ground, raised gold, Deccani floral arabesques, earth red and forest green.",
+    "description_zh": "尼尔默尔金漆画：深色漆地、堆金、德干花纹、土红与墨绿。",
+    "source": "hermes-explore",
+    "image": "styles/1702-nirmal-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1660",
+    "slug": "pearlware",
+    "name_en": "Pearlware",
+    "name_zh": "珍珠釉陶",
+    "description_en": "Staffordshire pearl-tinted earthenware: blue-white glaze over cream body, cobalt underglaze, faint crazing and kiln pool.",
+    "description_zh": "珍珠釉陶：乳白胎上微蓝釉、钴下彩、细开片与窑积釉。",
+    "source": "hermes-explore",
+    "image": "styles/1703-pearlware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
