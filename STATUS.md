@@ -4913,6 +4913,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1793, PNG count 1793. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 351 (exactly 5, h1751–h1755)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                           |
+|-------|--------------|-------------|---------------------------------|
+| h1751 | Dutch Metal  | 铜锌金箔    | styles/1794-dutch-metal.png     |
+| h1752 | Yupo Wash    | 合成纸水彩  | styles/1795-yupo-wash.png       |
+| h1753 | Claybord     | 陶土刮绘    | styles/1796-claybord.png        |
+| h1754 | Scratch Film | 刮片动画    | styles/1797-scratch-film.png    |
+| h1755 | Blind Deboss | 盲压凹      | styles/1798-blind-deboss.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1798, PNG count 1798. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

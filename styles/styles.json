@@ -23307,5 +23307,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1751",
+    "slug": "dutch-metal",
+    "name_en": "Dutch Metal",
+    "name_zh": "铜锌金箔",
+    "description_en": "Dutch metal (schlagmetal): thin copper-zinc imitation leaf on red bole, brassy not 24k, crinkle, holidays, and burnished overlaps.",
+    "description_zh": "铜锌金箔：红地仗上的铜锌代用金叶，偏黄铜而非足金，皱箔、漏贴与抛光叠层。",
+    "source": "hermes-explore",
+    "image": "styles/1794-dutch-metal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1752",
+    "slug": "yupo-wash",
+    "name_en": "Yupo Wash",
+    "name_zh": "合成纸水彩",
+    "description_en": "Watercolor on Yupo: pigment pooling on non-absorbent polypropylene, cauliflower blooms, hard drying rings, slick white ground.",
+    "description_zh": "合成纸水彩：颜料在聚丙烯不吸水纸上汇积，菜花斑、硬边干环与光滑白底。",
+    "source": "hermes-explore",
+    "image": "styles/1795-yupo-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1753",
+    "slug": "claybord",
+    "name_en": "Claybord",
+    "name_zh": "陶土刮绘",
+    "description_en": "India ink on kaolin Claybord with scratch-out: absorbent white clay panel, wash layers, needle whites cut back to the ground.",
+    "description_zh": "陶土刮绘：高岭土硬板上的墨洗，再用针刮露出白黏土地子。",
+    "source": "hermes-explore",
+    "image": "styles/1796-claybord.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1754",
+    "slug": "scratch-film",
+    "name_en": "Scratch Film",
+    "name_zh": "刮片动画",
+    "description_en": "Cameraless scratch-film: black emulsion incised to clear stock, jittery gouged line, optional dye in the scratches, sprocket edge.",
+    "description_zh": "刮片动画：在黑乳剂上刮露透明片基，抖动刻线、刮痕染色与片孔边缘。",
+    "source": "hermes-explore",
+    "image": "styles/1797-scratch-film.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1755",
+    "slug": "blind-deboss",
+    "name_en": "Blind Deboss",
+    "name_zh": "盲压凹",
+    "description_en": "Blind deboss: uninked deep paper impression, raking light, cotton-rag fiber crush, figure only as topography.",
+    "description_zh": "盲压凹：无墨深压纸浮雕，侧光下仅靠纸面起伏与棉浆纤维塌陷成像。",
+    "source": "hermes-explore",
+    "image": "styles/1798-blind-deboss.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
