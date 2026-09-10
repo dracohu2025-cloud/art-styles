@@ -23632,5 +23632,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1776",
+    "slug": "pounce-stencil",
+    "name_en": "Pounce Stencil",
+    "name_zh": "扑粉漏印",
+    "description_en": "Pounce stencil: pricked cartoon transfer with charcoal or chalk dust beaten through needle holes, dotted construction contours and powder bloom on toned paper, not ink lineart, not digital vector.",
+    "description_zh": "扑粉漏印：针孔透稿后以炭粉或白粉拍过，色纸上呈点状轮廓与粉尘晕，非墨线、非矢量描边。",
+    "source": "hermes-explore",
+    "image": "styles/1819-pounce-stencil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1777",
+    "slug": "flocking",
+    "name_en": "Flocking",
+    "name_zh": "植绒",
+    "description_en": "Flocking: electrostatic nylon or rayon pile planted into adhesive as velour cut-out fields, fiber halo at edges and suede sheen, not embroidery stitches, not felt collage.",
+    "description_zh": "植绒：静电将尼龙或人造丝绒毛植入胶层成丝绒色块，边缘有纤维晕与麂皮光泽，非刺绣针迹、非毡拼。",
+    "source": "hermes-explore",
+    "image": "styles/1820-flocking.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1778",
+    "slug": "platinum-palladium",
+    "name_en": "Platinum Palladium",
+    "name_zh": "铂钯印相",
+    "description_en": "Platinum palladium: Pt/Pd contact print in cotton paper with long matte metallic greys, image embedded in fibers, no silver-gelatin gloss, no color, no cyanotype blue.",
+    "description_zh": "铂钯印相：铂钯接触印相嵌于棉纸纤维，长调亚光金属灰，非银盐亮面、非彩色、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/1821-platinum-palladium.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1779",
+    "slug": "interference-paint",
+    "name_en": "Interference Paint",
+    "name_zh": "干涉色颜料",
+    "description_en": "Interference paint: mica-coated pigments that flip hue with angle over a dark ground, green-to-magenta travel and flake sheen, not metal leaf, not holographic foil.",
+    "description_zh": "干涉色颜料：云母包覆颜料随角度变色，深底上呈绿品红游移与片状闪光，非金箔、非全息贴纸。",
+    "source": "hermes-explore",
+    "image": "styles/1822-interference-paint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1780",
+    "slug": "huck-weaving",
+    "name_en": "Huck Weaving",
+    "name_zh": "哈克织",
+    "description_en": "Huck weaving: huckaback evenweave with counted floats skipping warp and weft into lattice and chevron runs, visible cloth grid, not cross-stitch only, not tapestry, not pixel art.",
+    "description_zh": "哈克织：哈克巴克斯平纹布上计针浮线跨经纬成网格与人字纹，布纹可见，非纯十字绣、非挂毯、非像素画。",
+    "source": "hermes-explore",
+    "image": "styles/1823-huck-weaving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

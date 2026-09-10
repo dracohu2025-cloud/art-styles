@@ -4983,6 +4983,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1818, PNG count 1818. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 356 (exactly 5, h1776–h1780)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                 |
+|-------|--------------------|-------------|---------------------------------------|
+| h1776 | Pounce Stencil     | 扑粉漏印    | styles/1819-pounce-stencil.png        |
+| h1777 | Flocking           | 植绒        | styles/1820-flocking.png              |
+| h1778 | Platinum Palladium | 铂钯印相    | styles/1821-platinum-palladium.png    |
+| h1779 | Interference Paint | 干涉色颜料  | styles/1822-interference-paint.png    |
+| h1780 | Huck Weaving       | 哈克织      | styles/1823-huck-weaving.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1823, PNG count 1823. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
