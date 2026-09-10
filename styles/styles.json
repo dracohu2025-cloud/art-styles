@@ -22852,5 +22852,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1716",
+    "slug": "willow-pattern",
+    "name_en": "Willow Pattern",
+    "name_zh": "柳树纹",
+    "description_en": "Staffordshire blue-and-white willow transfer: cobalt chinoiserie willow, pagoda, bridge, and swallows with engraved hatch and spearhead borders.",
+    "description_zh": "斯塔福德郡青花柳树纹转印：钴蓝柳树、宝塔、拱桥与飞燕，细线影线与矛头边饰。",
+    "source": "hermes-explore",
+    "image": "styles/1759-willow-pattern.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1717",
+    "slug": "egyptian-faience",
+    "name_en": "Egyptian Faience",
+    "name_zh": "埃及釉砂",
+    "description_en": "Self-glazing Egyptian faience: sintered quartz with turquoise alkaline glaze, darker pooled recesses, craze pits, and sandy crystalline sparkle.",
+    "description_zh": "埃及自釉釉砂：烧结石英、青绿碱釉、凹处积釉、开片砂眼与砂晶闪光。",
+    "source": "hermes-explore",
+    "image": "styles/1760-egyptian-faience.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1718",
+    "slug": "shonzui",
+    "name_en": "Shonzui",
+    "name_zh": "祥瑞",
+    "description_en": "Japanese Shonzui porcelain: dense gosu sometsuke brocade, shippo and kikko grounds, paneled peony-and-rock reserves, warm white glaze.",
+    "description_zh": "日本祥瑞瓷：浓吴须染付锦地、七宝龟甲纹、开光牡丹山石、暖白釉。",
+    "source": "hermes-explore",
+    "image": "styles/1761-shonzui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1719",
+    "slug": "mashru",
+    "name_en": "Mashru",
+    "name_zh": "马什鲁",
+    "description_en": "Mashru satin: silk face over cotton back, warp-ikat chevrons with feathered edges, jewel magenta-saffron-indigo sheen and fine warp ribs.",
+    "description_zh": "马什鲁缎：丝面棉里、经絣人字与羽化边缘、品红姜黄靛蓝缎光与细经棱。",
+    "source": "hermes-explore",
+    "image": "styles/1762-mashru.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1720",
+    "slug": "sultanabad",
+    "name_en": "Sultanabad",
+    "name_zh": "苏丹阿巴德陶",
+    "description_en": "Ilkhanid Sultanabad ware: grey-white slip, underglaze black contour, grey-green and cobalt lotus-palmette fill, rustic alkaline glaze pools.",
+    "description_zh": "伊尔汗苏丹阿巴德陶：灰白化妆土、釉下黑线、灰绿钴蓝莲纹满地、碱釉积釉。",
+    "source": "hermes-explore",
+    "image": "styles/1763-sultanabad.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -4815,6 +4815,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1758, PNG count 1758. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 344 (exactly 5, h1716–h1720)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                              |
+|-------|--------------------|-------------------|------------------------------------|
+| h1716 | Willow Pattern     | 柳树纹            | styles/1759-willow-pattern.png     |
+| h1717 | Egyptian Faience   | 埃及釉砂          | styles/1760-egyptian-faience.png   |
+| h1718 | Shonzui            | 祥瑞              | styles/1761-shonzui.png            |
+| h1719 | Mashru             | 马什鲁            | styles/1762-mashru.png             |
+| h1720 | Sultanabad         | 苏丹阿巴德陶      | styles/1763-sultanabad.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1763, PNG count 1763. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
