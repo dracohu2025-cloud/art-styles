@@ -4927,6 +4927,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1798, PNG count 1798. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 352 (exactly 5, h1756–h1760)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh       | image                                   |
+|-------|----------------------|---------------|-----------------------------------------|
+| h1756 | Spirit Fresco        | 酒精湿壁画    | styles/1799-spirit-fresco.png           |
+| h1757 | Vetro a Retorti      | 扭转玻璃      | styles/1800-vetro-a-retorti.png         |
+| h1758 | Binche Lace          | 宾什蕾丝      | styles/1801-binche-lace.png             |
+| h1759 | Bright-cut Engraving | 亮切雕        | styles/1802-bright-cut-engraving.png    |
+| h1760 | Gaudy Welsh          | 威尔士艳彩陶  | styles/1803-gaudy-welsh.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1803, PNG count 1803. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

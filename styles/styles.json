@@ -23372,5 +23372,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1756",
+    "slug": "spirit-fresco",
+    "name_en": "Spirit Fresco",
+    "name_zh": "酒精湿壁画",
+    "description_en": "Gambier-Parry spirit fresco: wax-resin and elemi in spirits on plaster, matte mineral mural, terre verte and ochre, no oil gloss.",
+    "description_zh": "酒精湿壁画：蜡树脂与榄香脂酒精介质画于灰泥，无油光的矿物湿壁画质感。",
+    "source": "hermes-explore",
+    "image": "styles/1799-spirit-fresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1757",
+    "slug": "vetro-a-retorti",
+    "name_en": "Vetro a Retorti",
+    "name_zh": "扭转玻璃",
+    "description_en": "Venetian vetro a retorti: cristallo embedding tightly twisted lattimo and color canes, helical filigrana, furnace-glass refraction.",
+    "description_zh": "扭转玻璃：威尼斯扭转玻璃棒技法，乳白色与彩色玻璃棒螺旋嵌入水晶玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1800-vetro-a-retorti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1758",
+    "slug": "binche-lace",
+    "name_en": "Binche Lace",
+    "name_zh": "宾什蕾丝",
+    "description_en": "Binche lace: Flemish continuous bobbin lace, snowflake ground, dense linen motifs, pin-prick hexagonal réseau, no tape lace.",
+    "description_zh": "宾什蕾丝：佛兰德斯连续梭结蕾丝，雪花地网、细密亚麻花纹与针孔六角网眼。",
+    "source": "hermes-explore",
+    "image": "styles/1801-binche-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1759",
+    "slug": "bright-cut-engraving",
+    "name_en": "Bright-cut Engraving",
+    "name_zh": "亮切雕",
+    "description_en": "Bright-cut engraving: small glittering faceted cuts on polished silver, zigzag borders and wriggle-work, raking-light sparkle, no niello.",
+    "description_zh": "亮切雕：抛光银上细碎切面刻纹，折线边饰与扭线纹，侧光下闪烁，无黑金嵌填。",
+    "source": "hermes-explore",
+    "image": "styles/1802-bright-cut-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1760",
+    "slug": "gaudy-welsh",
+    "name_en": "Gaudy Welsh",
+    "name_zh": "威尔士艳彩陶",
+    "description_en": "Gaudy Welsh: 19th-century Welsh earthenware overglaze, copper luster, cobalt, burnt orange and folk floral cartouches on white body.",
+    "description_zh": "威尔士艳彩陶：十九世纪威尔士陶器釉上彩，铜光泽、钴蓝、焦橙与民间花卉开光。",
+    "source": "hermes-explore",
+    "image": "styles/1803-gaudy-welsh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
