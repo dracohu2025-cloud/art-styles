@@ -22267,5 +22267,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1671",
+    "slug": "half-uncial",
+    "name_en": "Half-Uncial",
+    "name_zh": "半安色尔体",
+    "description_en": "Early medieval bookhand: plump rounded minuscule with uncial a/g, iron-gall ink, quill ductus, dry-point ruling on vellum.",
+    "description_zh": "中世纪早期半安色尔书体：圆润小写、安色尔形 a/g、铁胆墨、羽毛笔提按、羊皮纸干针栏线。",
+    "source": "hermes-explore",
+    "image": "styles/1714-half-uncial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1672",
+    "slug": "ataurique",
+    "name_en": "Ataurique",
+    "name_zh": "阿陶里克纹",
+    "description_en": "Hispano-Umayyad densely scrolling vegetal stucco: palmettes, split leaves, deep undercutting, traces of polychrome.",
+    "description_zh": "伊比利亚-倭马亚密卷草灰泥：棕叶饰、裂叶、深底起位、残留彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/1715-ataurique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1673",
+    "slug": "sujani",
+    "name_en": "Sujani",
+    "name_zh": "苏贾尼绣",
+    "description_en": "Bihar running-stitch narrative quilt: pale khadi ground, puckered layered cloth, dense colored running stitches.",
+    "description_zh": "比哈尔苏贾尼绣：浅色卡迪布底、多层绗缝起皱、密铺彩色跑针叙事。",
+    "source": "hermes-explore",
+    "image": "styles/1716-sujani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1674",
+    "slug": "taquete",
+    "name_en": "Taqueté",
+    "name_zh": "纬面复合织",
+    "description_en": "Weft-faced compound weave: complementary wefts in color-block mosaic, ribbed surface, Coptic/Sasanian wool structure.",
+    "description_zh": "纬面复合组织：多组补纬拼色块、棱纹表面，科普特/萨珊羊毛结构。",
+    "source": "hermes-explore",
+    "image": "styles/1717-taquete.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1675",
+    "slug": "muqarnas",
+    "name_en": "Muqarnas",
+    "name_zh": "穆卡纳斯",
+    "description_en": "Honeycomb stalactite vaulting: stacked nichelet cells, faceted squinches, geometric tiers and self-shadow in each cell.",
+    "description_zh": "蜂窝钟乳拱：层层龛格、多面突角拱、几何退层与格内自阴影。",
+    "source": "hermes-explore",
+    "image": "styles/1718-muqarnas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

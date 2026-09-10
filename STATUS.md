@@ -4689,6 +4689,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1713, PNG count 1713. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 335 (exactly 5, h1671–h1675)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                          |
+|-------|--------------|-----------------|--------------------------------|
+| h1671 | Half-Uncial  | 半安色尔体      | styles/1714-half-uncial.png    |
+| h1672 | Ataurique    | 阿陶里克纹      | styles/1715-ataurique.png      |
+| h1673 | Sujani       | 苏贾尼绣        | styles/1716-sujani.png         |
+| h1674 | Taqueté      | 纬面复合织      | styles/1717-taquete.png        |
+| h1675 | Muqarnas     | 穆卡纳斯        | styles/1718-muqarnas.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1718, PNG count 1718. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
