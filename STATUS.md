@@ -4479,6 +4479,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1638, PNG count 1638. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 320 (exactly 5, h1596–h1600)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                |
+|-------|--------------------|-----------------|--------------------------------------|
+| h1596 | Joomchi            | 韩纸揉毡        | styles/1639-joomchi.png              |
+| h1597 | Rya                | 瑞亚绒织        | styles/1640-rya.png                  |
+| h1598 | Hold-And-Modify    | 保持并修改      | styles/1641-hold-and-modify.png      |
+| h1599 | Photon Mapping     | 光子映射        | styles/1642-photon-mapping.png       |
+| h1600 | Valenciennes Lace  | 瓦朗谢讷蕾丝    | styles/1643-valenciennes-lace.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1643, PNG count 1643. No REJECT names. UI left flat (no filters/tabs).
+
 ## Verified
 
 - Catalog length and PNG count match

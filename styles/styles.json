@@ -21292,5 +21292,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1596",
+    "slug": "joomchi",
+    "name_en": "Joomchi",
+    "name_zh": "韩纸揉毡",
+    "description_en": "Joomchi: Korean hanji felting, mulberry sheets soaked, crumpled and laminated into dense fibrous felt with cloudy veils and pulp ridges; not nuno felt, not needle felting, not papier-collé, not watercolor.",
+    "description_zh": "韩纸揉毡：桑皮韩纸浸湿揉搓层压成密纤维毡、云状透光层与纸浆脊；非湿毡贴织、非针刺毡、非贴纸拼贴、非水彩。",
+    "source": "hermes-explore",
+    "image": "styles/1639-joomchi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1597",
+    "slug": "rya",
+    "name_en": "Rya",
+    "name_zh": "瑞亚绒织",
+    "description_en": "Rya: Scandinavian knotted-pile weaving, long shaggy wool tufts on a woven ground, geometric Nordic bands, visible warp at the selvedge; not kilim, not flossa short pile, not embroidery, not fur photography.",
+    "description_zh": "瑞亚绒织：北欧打结长绒、织底上垂羊毛簇、几何色带、布边可见经纬；非基里姆平织、非短绒弗洛萨、非刺绣、非毛皮摄影。",
+    "source": "hermes-explore",
+    "image": "styles/1640-rya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1598",
+    "slug": "hold-and-modify",
+    "name_en": "Hold-And-Modify",
+    "name_zh": "保持并修改",
+    "description_en": "Hold-And-Modify: Amiga HAM6 12-bit paint, 4096-color range with hue-smear fringing on neighboring pixels, Deluxe Paint OCS look; not VGA 256-color dither, not ANSI/PETSCII, not modern 24-bit painting.",
+    "description_zh": "保持并修改：Amiga HAM6 十二位绘画、四千零九十六色、邻像素色相拖尾、Deluxe Paint OCS貌；非VGA二百五十六色抖动、非ANSI/PETSCII、非现代二十四位厚涂。",
+    "source": "hermes-explore",
+    "image": "styles/1641-hold-and-modify.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1599",
+    "slug": "photon-mapping",
+    "name_en": "Photon Mapping",
+    "name_zh": "光子映射",
+    "description_en": "Photon Mapping: discrete photon hits gathered into caustic concentrations and blotchy irradiance, color-bleeding GI with photon-map grain; not path tracing, not radiosity patches, not ray marching, not Phong.",
+    "description_zh": "光子映射：离散光子命中聚成焦散与斑驳辐照、色溢全局光带光子图颗粒；非路径追踪、非辐射度面片、非光线行进、非冯氏着色。",
+    "source": "hermes-explore",
+    "image": "styles/1642-photon-mapping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1600",
+    "slug": "valenciennes-lace",
+    "name_en": "Valenciennes Lace",
+    "name_zh": "瓦朗谢讷蕾丝",
+    "description_en": "Valenciennes Lace: continuous round-ground vrai réseau, even hexagonal mesh, fine linen floral sprigs with no raised cordonnet; not Chantilly, not Alençon, not torchon, not embroidery on tulle.",
+    "description_zh": "瓦朗谢讷蕾丝：连续圆形网地、均匀六角网眼、细亚麻小花无凸起轮廓线；非尚蒂伊、非阿朗松、非火把花边、非网纱刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/1643-valenciennes-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
