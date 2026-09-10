@@ -4941,6 +4941,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1803, PNG count 1803. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 353 (exactly 5, h1761–h1765)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh   | image                         |
+|-------|-------------|-----------|-------------------------------|
+| h1761 | Anagama     | 穴窑      | styles/1804-anagama.png       |
+| h1762 | Okibirame   | 置平目    | styles/1805-okibirame.png     |
+| h1763 | Gold Assist | 金线提亮  | styles/1806-gold-assist.png   |
+| h1764 | Ginran      | 银襕      | styles/1807-ginran.png        |
+| h1765 | Nuritate    | 涂立漆    | styles/1808-nuritate.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1808, PNG count 1808. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

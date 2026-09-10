@@ -23437,5 +23437,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1761",
+    "slug": "anagama",
+    "name_en": "Anagama",
+    "name_zh": "穴窑",
+    "description_en": "Anagama: long-chamber wood firing, natural ash-glaze drips, ember flashing, fly-ash crust and fire scars on iron clay, no raku crackle, no tenmoku oil-spot.",
+    "description_zh": "穴窑：长室柴烧，自然灰釉流挂、火痕闪色、落灰结壳与铁质胎火伤疤，非乐烧开片、非天目油滴。",
+    "source": "hermes-explore",
+    "image": "styles/1804-anagama.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1762",
+    "slug": "okibirame",
+    "name_en": "Okibirame",
+    "name_zh": "置平目",
+    "description_en": "Okibirame: cut gold and silver squares placed in a geometric mosaic on roiro-black urushi, facet sparkle, not sprinkled sunago, not hirameji.",
+    "description_zh": "置平目：黑漆上几何铺贴切金切银方片，切面闪光，非砂子金、非平目地洒箔。",
+    "source": "hermes-explore",
+    "image": "styles/1805-okibirame.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1763",
+    "slug": "gold-assist",
+    "name_en": "Gold Assist",
+    "name_zh": "金线提亮",
+    "description_en": "Gold assist: ultra-fine gold-leaf hatching that models tempera drapery and hair, chrysography sparkle, not solid gold-ground, not punchwork, not or nué.",
+    "description_zh": "金线提亮：蛋彩上极细金箔排线塑造衣褶与发丝，金墨闪光，非满铺金地、非錾点、非晕金绣。",
+    "source": "hermes-explore",
+    "image": "styles/1806-gold-assist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1764",
+    "slug": "ginran",
+    "name_en": "Ginran",
+    "name_zh": "银襕",
+    "description_en": "Ginran: silver-foil wrapped weft brocade, cool metallic floral-cloud pattern on charcoal silk warp, not gold kinran, not kinrande porcelain.",
+    "description_zh": "银襕：银箔纸捻纬线织锦，炭色经丝上冷调银花云纹，非金襕、非金襴手彩瓷。",
+    "source": "hermes-explore",
+    "image": "styles/1807-ginran.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1765",
+    "slug": "nuritate",
+    "name_en": "Nuritate",
+    "name_zh": "涂立漆",
+    "description_en": "Nuritate: unpolished high-gloss wet urushi, candy-apple mirror depth and viscous brush-flow, not charcoal-polished roiro, not maki-e powder.",
+    "description_zh": "涂立漆：不打磨的高光湿漆，镜面糖浆深度与未流平笔痕，非炭研蜡色、非莳绘洒粉。",
+    "source": "hermes-explore",
+    "image": "styles/1808-nuritate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
