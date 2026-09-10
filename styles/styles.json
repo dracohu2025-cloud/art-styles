@@ -21942,5 +21942,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1646",
+    "slug": "uchiwa-e",
+    "name_en": "Uchiwa-e",
+    "name_zh": "团扇绘",
+    "description_en": "Edo uchiwa-e woodblock: oval fan-print composition, keyblock outlines, flat mineral pigments, bokashi sky on washi.",
+    "description_zh": "江户团扇绘：扇面构图、墨线主版、矿物颜料平涂与和纸上的ぼかし天空。",
+    "source": "hermes-explore",
+    "image": "styles/1689-uchiwa-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1647",
+    "slug": "encre-de-chine",
+    "name_en": "Encre de Chine",
+    "name_zh": "墨彩",
+    "description_en": "Export-porcelain grisaille: black overglaze enamel washes and hatching on white glaze, ink-like enamel painting.",
+    "description_zh": "外销瓷墨彩：白釉上以黑色釉上彩渲染与排线，如墨的瓷绘。",
+    "source": "hermes-explore",
+    "image": "styles/1690-encre-de-chine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1648",
+    "slug": "atkinson-dither",
+    "name_en": "Atkinson Dither",
+    "name_zh": "阿特金森抖动",
+    "description_en": "1-bit Macintosh Atkinson error-diffusion: clustered speckle midtones, pure black/white bitmap, no gray.",
+    "description_zh": "麦金塔阿特金森误差扩散：团状网点中间调，纯黑白位图，无灰阶。",
+    "source": "hermes-explore",
+    "image": "styles/1691-atkinson-dither.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1649",
+    "slug": "berrettino",
+    "name_en": "Berrettino",
+    "name_zh": "青地马约利卡",
+    "description_en": "Tin-glazed maiolica on berrettino blue ground, bianco-sopra-bianco lights, in-glaze ochre, copper green, and manganese.",
+    "description_zh": "贝雷蒂诺青地锡釉马约利卡：白上白高光，赭石、铜绿与锰紫釉下彩。",
+    "source": "hermes-explore",
+    "image": "styles/1692-berrettino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1650",
+    "slug": "gaussian-splatting",
+    "name_en": "Gaussian Splatting",
+    "name_zh": "高斯溅射",
+    "description_en": "3D Gaussian splatting: overlapping anisotropic splat kernels, volumetric blob reconstruction rather than mesh or pixels.",
+    "description_zh": "三维高斯溅射：各向异性椭圆核叠合，以体积光斑重建而非网格或像素。",
+    "source": "hermes-explore",
+    "image": "styles/1693-gaussian-splatting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

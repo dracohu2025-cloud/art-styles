@@ -4619,6 +4619,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1688, PNG count 1688. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 330 (exactly 5, h1646–h1650)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh           | image                                 |
+|-------|---------------------|-------------------|---------------------------------------|
+| h1646 | Uchiwa-e            | 团扇绘            | styles/1689-uchiwa-e.png              |
+| h1647 | Encre de Chine      | 墨彩              | styles/1690-encre-de-chine.png        |
+| h1648 | Atkinson Dither     | 阿特金森抖动      | styles/1691-atkinson-dither.png       |
+| h1649 | Berrettino          | 青地马约利卡      | styles/1692-berrettino.png            |
+| h1650 | Gaussian Splatting  | 高斯溅射          | styles/1693-gaussian-splatting.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1693, PNG count 1693. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
