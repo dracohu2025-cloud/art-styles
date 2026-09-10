@@ -22592,5 +22592,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1696",
+    "slug": "plateresque",
+    "name_en": "Plateresque",
+    "name_zh": "银匠风格",
+    "description_en": "Spanish plateresco surface: dense silver-work filigree, candelabra pilasters, grottesque medallions in limestone and gilt.",
+    "description_zh": "西班牙银匠式表面：密织银饰纹、烛台式壁柱、怪诞纹圆徽，石灰石与鎏金浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1739-plateresque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1697",
+    "slug": "nui-shibori",
+    "name_en": "Nui Shibori",
+    "name_zh": "缝绞染",
+    "description_en": "Stitched-resist shibori: running-stitch gathers, dashed reserved lines, puckered indigo cloth.",
+    "description_zh": "缝纹防染绞：平缝抽褶、虚线留白、褶皱靛蓝布面。",
+    "source": "hermes-explore",
+    "image": "styles/1740-nui-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1698",
+    "slug": "changsha-ware",
+    "name_en": "Changsha Ware",
+    "name_zh": "长沙窑",
+    "description_en": "Tang Changsha painted stoneware: iron-brown and copper-green underglaze on buff body, splash glaze, folk brush.",
+    "description_zh": "唐长沙窑彩绘炻器：灰黄胎上铁褐与铜绿釉下彩、泼釉、民间笔意。",
+    "source": "hermes-explore",
+    "image": "styles/1741-changsha-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1699",
+    "slug": "vaseline-glass",
+    "name_en": "Vaseline Glass",
+    "name_zh": "铀黄玻璃",
+    "description_en": "Uranium vaseline glass: canary yellow-green translucency, oily sheen, faint lime fluorescence, molded ribs.",
+    "description_zh": "铀黄凡士林玻璃：金丝雀黄绿半透明、油光、淡柠檬荧光、模压棱肋。",
+    "source": "hermes-explore",
+    "image": "styles/1742-vaseline-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1700",
+    "slug": "telia-rumal",
+    "name_en": "Telia Rumal",
+    "name_zh": "泰利亚鲁马尔",
+    "description_en": "Andhra oil-treated double ikat rumal: red-black-white lattice, feathered warp-weft edges, geometric stars.",
+    "description_zh": "安德拉油纱双经纬絣头巾：红黑白格子、经纬羽化边缘、几何星纹。",
+    "source": "hermes-explore",
+    "image": "styles/1743-telia-rumal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -4759,6 +4759,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1738, PNG count 1738. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 340 (exactly 5, h1696–h1700)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh           | image                              |
+|-------|-----------------|-------------------|------------------------------------|
+| h1696 | Plateresque     | 银匠风格          | styles/1739-plateresque.png        |
+| h1697 | Nui Shibori     | 缝绞染            | styles/1740-nui-shibori.png        |
+| h1698 | Changsha Ware   | 长沙窑            | styles/1741-changsha-ware.png      |
+| h1699 | Vaseline Glass  | 铀黄玻璃          | styles/1742-vaseline-glass.png     |
+| h1700 | Telia Rumal     | 泰利亚鲁马尔      | styles/1743-telia-rumal.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1743, PNG count 1743. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
