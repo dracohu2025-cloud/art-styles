@@ -4773,6 +4773,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1743, PNG count 1743. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 341 (exactly 5, h1701–h1705)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh           | image                              |
+|-------|---------------------|-------------------|------------------------------------|
+| h1701 | Le Blond Print      | 勒布隆套色        | styles/1744-le-blond-print.png     |
+| h1702 | Sigiriya Fresco     | 狮子岩湿壁画      | styles/1745-sigiriya-fresco.png    |
+| h1703 | Bundi Miniature     | 本迪细密          | styles/1746-bundi-miniature.png    |
+| h1704 | Earthworm Slip      | 蚯蚓纹化妆土      | styles/1747-earthworm-slip.png     |
+| h1705 | Bianco sopra Bianco | 白上白            | styles/1748-bianco-sopra-bianco.png |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1748, PNG count 1748. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

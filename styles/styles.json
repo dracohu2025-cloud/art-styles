@@ -22657,5 +22657,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1701",
+    "slug": "le-blond-print",
+    "name_en": "Le Blond Print",
+    "name_zh": "勒布隆套色",
+    "description_en": "Trichromatic mezzotint à la poupée: rocked-plate grain, fused yellow-red-blue inks, velvety paper tone.",
+    "description_zh": "三原色美柔汀套印：摇点铜版颗粒、黄红蓝油墨融合、绒面纸色。",
+    "source": "hermes-explore",
+    "image": "styles/1744-le-blond-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1702",
+    "slug": "sigiriya-fresco",
+    "name_en": "Sigiriya Fresco",
+    "name_zh": "狮子岩湿壁画",
+    "description_en": "Mineral fresco-secco on lime plaster: terracotta ochre green-earth, powdery bloom, flaked rock-palace ground.",
+    "description_zh": "石灰地矿物干壁画：土红赭石绿土、粉质Bloom、剥落岩宫地仗。",
+    "source": "hermes-explore",
+    "image": "styles/1745-sigiriya-fresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1703",
+    "slug": "bundi-miniature",
+    "name_en": "Bundi Miniature",
+    "name_zh": "本迪细密",
+    "description_en": "Rajasthani Bundi court miniature: malachite jungle, white pavilions, jewel flat color, fine outlines on wasli.",
+    "description_zh": "拉贾斯坦本迪宫廷细密：孔雀石丛林、白亭、宝石平涂、松鼠毫勾线于画纸。",
+    "source": "hermes-explore",
+    "image": "styles/1746-bundi-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1704",
+    "slug": "earthworm-slip",
+    "name_en": "Earthworm Slip",
+    "name_zh": "蚯蚓纹化妆土",
+    "description_en": "Mocha-ware dendritic earthworm slip: acid-branching brown-blue trails on cream earthenware, lathe bands.",
+    "description_zh": "摩卡陶蚯蚓纹化妆土：酸性枝状褐蓝流纹于奶油陶、车旋弦纹。",
+    "source": "hermes-explore",
+    "image": "styles/1747-earthworm-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1705",
+    "slug": "bianco-sopra-bianco",
+    "name_en": "Bianco sopra Bianco",
+    "name_zh": "白上白",
+    "description_en": "Faenza white-on-white tin-glaze: milky ground, raised white slip tendrils, faint gray-blue glaze shadows.",
+    "description_zh": "法恩扎白上白锡釉：乳浊地、凸起白化妆土卷草、淡灰蓝釉影。",
+    "source": "hermes-explore",
+    "image": "styles/1748-bianco-sopra-bianco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
