@@ -22722,5 +22722,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1706",
+    "slug": "sebka",
+    "name_en": "Sebka",
+    "name_zh": "塞布卡网纹",
+    "description_en": "Andalusian rhomboid lattice of interlaced pointed arches; Nasrid/Mudéjar stucco-and-tile sebka screens in repeating lozenges.",
+    "description_zh": "安达卢西亚尖拱交织菱网：纳斯瑞德/穆德哈尔灰泥与釉砖塞布卡屏，重复菱格。",
+    "source": "hermes-explore",
+    "image": "styles/1749-sebka.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1707",
+    "slug": "picotage",
+    "name_en": "Picotage",
+    "name_zh": "针点印花",
+    "description_en": "18th-century woodblock textile print from pin-studded blocks: reserved white picot dots on indigo or madder grounds.",
+    "description_zh": "十八世纪针钉木版印花：靛蓝或茜红地上留白针点颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/1750-picotage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1708",
+    "slug": "knorpelwerk",
+    "name_en": "Knorpelwerk",
+    "name_zh": "软骨纹饰",
+    "description_en": "Northern Mannerist auricular ornament: swollen cartilage scrolls, fleshy auricle ridges, gilt-wood Kwab relief.",
+    "description_zh": "北方样式主义耳状软骨纹：鼓胀卷耳、肉质棱脊、镀金木雕夸布浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1751-knorpelwerk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1709",
+    "slug": "himroo",
+    "name_en": "Himroo",
+    "name_zh": "希姆鲁",
+    "description_en": "Aurangabad extra-weft cotton-silk brocade: matte cotton ground, satin silk figures, muted jewel palmette lattice.",
+    "description_zh": "奥兰加巴德棉丝特纬织锦：哑光棉地、缎面丝花、沉稳宝石色棕叶格。",
+    "source": "hermes-explore",
+    "image": "styles/1752-himroo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1710",
+    "slug": "burmese-glass",
+    "name_en": "Burmese Glass",
+    "name_zh": "缅甸玻璃",
+    "description_en": "1880s Queen's Burmese ware: opaque satin glass shaded lemon-yellow to blush-pink, acid-matte inner glow.",
+    "description_zh": "一八八〇年代女王缅甸玻璃：不透明缎面，柠檬黄过渡腮粉，酸蚀内光。",
+    "source": "hermes-explore",
+    "image": "styles/1753-burmese-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

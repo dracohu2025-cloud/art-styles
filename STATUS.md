@@ -4787,6 +4787,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1748, PNG count 1748. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 342 (exactly 5, h1706–h1710)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                              |
+|-------|----------------|-------------------|------------------------------------|
+| h1706 | Sebka          | 塞布卡网纹        | styles/1749-sebka.png              |
+| h1707 | Picotage       | 针点印花          | styles/1750-picotage.png           |
+| h1708 | Knorpelwerk    | 软骨纹饰          | styles/1751-knorpelwerk.png        |
+| h1709 | Himroo         | 希姆鲁            | styles/1752-himroo.png             |
+| h1710 | Burmese Glass  | 缅甸玻璃          | styles/1753-burmese-glass.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1753, PNG count 1753. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
