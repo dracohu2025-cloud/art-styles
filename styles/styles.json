@@ -22137,5 +22137,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1661",
+    "slug": "italian-vein-marbling",
+    "name_en": "Italian Vein Marbling",
+    "name_zh": "意大利脉络大理石纹",
+    "description_en": "Paper marbling in the Italian vein: oxgall-thinned dark inks ramify into stone fissures across a pale calico ground, cream-gray rust and indigo.",
+    "description_zh": "意大利脉络大理石纹：牛胆汁稀释深墨在浅底上裂成石纹脉络，乳白、灰、锈与靛蓝。",
+    "source": "hermes-explore",
+    "image": "styles/1704-italian-vein-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1662",
+    "slug": "chitrakathi",
+    "name_en": "Chitrakathi",
+    "name_zh": "奇特拉卡提",
+    "description_en": "Maharashtra Pinguli Chitrakathi pata: mineral flat color on cotton, thick black contour, ochre ground, frontal stylized eyes, geometric borders.",
+    "description_zh": "奇特拉卡提：棉布矿物平涂、粗黑轮廓、赭地、正面大眼与几何边饰。",
+    "source": "hermes-explore",
+    "image": "styles/1705-chitrakathi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1663",
+    "slug": "xilankapu",
+    "name_en": "Xilankapu",
+    "name_zh": "西兰卡普",
+    "description_en": "Tujia brocade weaving: warp-faced geometric supplementary weft, diamond lattices, hooked meanders, vermilion indigo black and raw cotton.",
+    "description_zh": "西兰卡普：土家织锦，经面几何纬花、菱格钩纹，朱红靛蓝黑与本白棉。",
+    "source": "hermes-explore",
+    "image": "styles/1706-xilankapu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1664",
+    "slug": "ko-sometsuke",
+    "name_en": "Ko-Sometsuke",
+    "name_zh": "古染付",
+    "description_en": "Tianqi–Chongzhen ko-sometsuke blue-and-white: sketchy gray-blue cobalt, moth-eaten mushikui rims, watery blooms, kiln grit on a coarse body.",
+    "description_zh": "古染付：天启崇祯粗胎青花，灰蓝钴料、虫食边、水晕与窑渣。",
+    "source": "hermes-explore",
+    "image": "styles/1707-ko-sometsuke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1665",
+    "slug": "pompeian-second-style",
+    "name_en": "Pompeian Second Style",
+    "name_zh": "庞贝第二风格",
+    "description_en": "Second Style Roman fresco: illusionistic painted architecture, receding colonnades and podia in mineral pigments on plaster.",
+    "description_zh": "庞贝第二风格：壁画错觉建筑，矿物颜料在湿灰泥上画出后退柱廊与台座。",
+    "source": "hermes-explore",
+    "image": "styles/1708-pompeian-second-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

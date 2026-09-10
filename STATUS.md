@@ -4661,6 +4661,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1703, PNG count 1703. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 333 (exactly 5, h1661–h1665)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                  | name_zh             | image                                    |
+|-------|--------------------------|---------------------|------------------------------------------|
+| h1661 | Italian Vein Marbling    | 意大利脉络大理石纹  | styles/1704-italian-vein-marbling.png    |
+| h1662 | Chitrakathi              | 奇特拉卡提          | styles/1705-chitrakathi.png              |
+| h1663 | Xilankapu                | 西兰卡普            | styles/1706-xilankapu.png                |
+| h1664 | Ko-Sometsuke             | 古染付              | styles/1707-ko-sometsuke.png             |
+| h1665 | Pompeian Second Style    | 庞贝第二风格        | styles/1708-pompeian-second-style.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1708, PNG count 1708. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
