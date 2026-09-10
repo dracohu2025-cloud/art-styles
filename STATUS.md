@@ -4885,6 +4885,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1783, PNG count 1783. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 349 (exactly 5, h1741–h1745)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                 |
+|-------|--------------------|------------|---------------------------------------|
+| h1741 | Bayer Dither       | 拜尔抖动   | styles/1784-bayer-dither.png          |
+| h1742 | Reaction-Diffusion | 反应扩散   | styles/1785-reaction-diffusion.png    |
+| h1743 | Metalflake         | 金属鳞片   | styles/1786-metalflake.png            |
+| h1744 | Hàng Trống         | 杭仲版画   | styles/1787-hang-trong.png            |
+| h1745 | Kranok             | 克拉诺克   | styles/1788-kranok.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1788, PNG count 1788. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

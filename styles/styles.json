@@ -23177,5 +23177,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1741",
+    "slug": "bayer-dither",
+    "name_en": "Bayer Dither",
+    "name_zh": "拜尔抖动",
+    "description_en": "Bayer ordered dither: 8×8 threshold matrix, clustered cross-hatch tones, no error diffusion.",
+    "description_zh": "拜尔有序抖动：8×8阈值矩阵，交叉网点成调，无误差扩散。",
+    "source": "hermes-explore",
+    "image": "styles/1784-bayer-dither.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1742",
+    "slug": "reaction-diffusion",
+    "name_en": "Reaction-Diffusion",
+    "name_zh": "反应扩散",
+    "description_en": "Reaction-diffusion (Turing) rendering: spots, stripes, and labyrinths as if Gray-Scott patterned the form.",
+    "description_zh": "反应扩散：斑点、条纹与迷宫纹如Gray-Scott模拟生成形体。",
+    "source": "hermes-explore",
+    "image": "styles/1785-reaction-diffusion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1743",
+    "slug": "metalflake",
+    "name_en": "Metalflake",
+    "name_zh": "金属鳞片",
+    "description_en": "Metalflake candy lacquer: suspended metallic flakes in deep clearcoat, show-car sparkle and wet gloss.",
+    "description_zh": "金属鳞片漆：清漆中悬浮金属片，车漆般闪光与湿润高光。",
+    "source": "hermes-explore",
+    "image": "styles/1786-metalflake.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1744",
+    "slug": "hang-trong",
+    "name_en": "Hàng Trống",
+    "name_zh": "杭仲版画",
+    "description_en": "Hàng Trống folk woodblock: black key-block, vermilion-ochre-indigo mineral fills on warm handmade paper.",
+    "description_zh": "杭仲版画：墨线主版，朱红赭石靛蓝矿物色填于温纸。",
+    "source": "hermes-explore",
+    "image": "styles/1787-hang-trong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1745",
+    "slug": "kranok",
+    "name_en": "Kranok",
+    "name_zh": "克拉诺克",
+    "description_en": "Thai kranok (kanok): tapering flame-leaf gold scrolls on lacquer-red ground as the drawing language.",
+    "description_zh": "克拉诺克：火焰叶形金线卷草于朱红漆地，作为造型语言。",
+    "source": "hermes-explore",
+    "image": "styles/1788-kranok.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
