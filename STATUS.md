@@ -4745,6 +4745,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1733, PNG count 1733. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 339 (exactly 5, h1691–h1695)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh           | image                              |
+|-------|-----------------|-------------------|------------------------------------|
+| h1691 | Ablaq           | 阿布拉克砌石      | styles/1734-ablaq.png              |
+| h1692 | Caneware        | 蔗色炻器          | styles/1735-caneware.png           |
+| h1693 | Hazarbaf        | 千织砖饰          | styles/1736-hazarbaf.png           |
+| h1694 | Floriated Kufic | 花卉库法体        | styles/1737-floriated-kufic.png    |
+| h1695 | Rutile Glaze    | 金红石釉          | styles/1738-rutile-glaze.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1738, PNG count 1738. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

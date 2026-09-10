@@ -22527,5 +22527,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1691",
+    "slug": "ablaq",
+    "name_en": "Ablaq",
+    "name_zh": "阿布拉克砌石",
+    "description_en": "Islamic masonry of alternating light limestone and dark basalt courses, crisp striped ashlar.",
+    "description_zh": "伊斯兰双色砌石：浅色石灰岩与深色玄武岩交替层砌，条纹方石墙面。",
+    "source": "hermes-explore",
+    "image": "styles/1734-ablaq.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1692",
+    "slug": "caneware",
+    "name_en": "Caneware",
+    "name_zh": "蔗色炻器",
+    "description_en": "Unglazed dry-body stoneware in pale cane-yellow, matte biscuit, engine-turned reeding and sprigs.",
+    "description_zh": "无釉干体炻器，浅蔗黄素坯，车花棱纹与贴花浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1735-caneware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1693",
+    "slug": "hazarbaf",
+    "name_en": "Hazarbaf",
+    "name_zh": "千织砖饰",
+    "description_en": "Persian hazār-bāf brick bonding: geometric stars and chevrons woven from brick ends.",
+    "description_zh": "波斯千织砖：以砖端砌出星形与人字几何纹，如织物般的砌饰。",
+    "source": "hermes-explore",
+    "image": "styles/1736-hazarbaf.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1694",
+    "slug": "floriated-kufic",
+    "name_en": "Floriated Kufic",
+    "name_zh": "花卉库法体",
+    "description_en": "Angular Kufic letterforms whose terminals blossom into palmettes and vine scrolls.",
+    "description_zh": "早期库法体：笔画末端绽为棕叶饰与藤蔓卷草，碑铭与写本饰带。",
+    "source": "hermes-explore",
+    "image": "styles/1737-floriated-kufic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1695",
+    "slug": "rutile-glaze",
+    "name_en": "Rutile Glaze",
+    "name_zh": "金红石釉",
+    "description_en": "High-fire titanium rutile glaze: amber-to-blue striations, crystalline streaks, breaking melt.",
+    "description_zh": "高温金红石釉：琥珀至蓝灰条纹、结晶流痕、棱脊处破釉。",
+    "source": "hermes-explore",
+    "image": "styles/1738-rutile-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
