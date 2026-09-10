@@ -4703,6 +4703,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1718, PNG count 1718. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 336 (exactly 5, h1676–h1680)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                | name_zh           | image                                    |
+|-------|------------------------|-------------------|------------------------------------------|
+| h1676 | Pompeian Third Style   | 庞贝第三风格      | styles/1719-pompeian-third-style.png     |
+| h1677 | Cubomania              | 方块拼贴          | styles/1720-cubomania.png                |
+| h1678 | Seikai-nuri            | 青海涂            | styles/1721-seikai-nuri.png              |
+| h1679 | Opus Incertum          | 不规则砌石        | styles/1722-opus-incertum.png            |
+| h1680 | Combed Slip            | 梳纹化妆土        | styles/1723-combed-slip.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1723, PNG count 1723. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

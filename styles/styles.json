@@ -22332,5 +22332,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1676",
+    "slug": "pompeian-third-style",
+    "name_en": "Pompeian Third Style",
+    "name_zh": "庞贝第三风格",
+    "description_en": "Candelabra-style Roman wall painting: slender grottesche, floating medallions, miniature landscapes on large flat fields of black, cinnabar, and cream plaster.",
+    "description_zh": "烛台式庞贝壁画：纤细怪诞纹、悬浮圆框、微型风景嵌于大面积黑、朱红与奶油色平涂墙面。",
+    "source": "hermes-explore",
+    "image": "styles/1719-pompeian-third-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1677",
+    "slug": "cubomania",
+    "name_en": "Cubomania",
+    "name_zh": "方块拼贴",
+    "description_en": "Surrealist collage: a finished image cut into equal squares and reassembled so contours jump, seams step, and paper tiles sit slightly proud.",
+    "description_zh": "超现实拼贴：成品切成等大方块再重排，轮廓错位、接缝错层、纸片微微隆起。",
+    "source": "hermes-explore",
+    "image": "styles/1720-cubomania.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1678",
+    "slug": "seikai-nuri",
+    "name_en": "Seikai-nuri",
+    "name_zh": "青海涂",
+    "description_en": "Japanese urushi wave-ground: concentric seikai-nami cells in high-gloss black and amber lacquer, each ring catching a sharp specular.",
+    "description_zh": "日本漆青海波地：同心波格以高光黑漆与琥珀漆层层套叠，每环收一束锐利高光。",
+    "source": "hermes-explore",
+    "image": "styles/1721-seikai-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1679",
+    "slug": "opus-incertum",
+    "name_en": "Opus Incertum",
+    "name_zh": "不规则砌石",
+    "description_en": "Roman wall facing of irregular polygonal tuff and limestone set in lime mortar; random stone sizes, no reticulate grid, no ashlar courses.",
+    "description_zh": "罗马不规则砌面：多边形凝灰岩与石灰岩嵌于灰缝，石块大小错落，无网状斜铺、无整石层砌。",
+    "source": "hermes-explore",
+    "image": "styles/1722-opus-incertum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1680",
+    "slug": "combed-slip",
+    "name_en": "Combed Slip",
+    "name_zh": "梳纹化妆土",
+    "description_en": "Ceramic combing: contrasting slip dragged with a toothed comb through leather-hard clay, parallel and wavy grooves revealing the body color.",
+    "description_zh": "陶梳纹：对比化妆土在半干坯上被齿梳拖过，平行与波浪沟槽露出胎色。",
+    "source": "hermes-explore",
+    "image": "styles/1723-combed-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
