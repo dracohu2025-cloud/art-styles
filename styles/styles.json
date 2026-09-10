@@ -21422,5 +21422,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1606",
+    "slug": "photobashing",
+    "name_en": "Photobashing",
+    "name_zh": "照片混绘",
+    "description_en": "Concept-art photobashing: photographic textures composited into a painted still with hand-painted edges.",
+    "description_zh": "概念艺术照片混绘：将照片纹理拼入绘画，并以手绘边缘缝合。",
+    "source": "hermes-explore",
+    "image": "styles/1649-photobashing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1607",
+    "slug": "camera-lucida",
+    "name_en": "Camera Lucida",
+    "name_zh": "明箱",
+    "description_en": "Lucida-aided observational drawing: optical-trace contours, graphite tremor, and pale wash on paper tooth.",
+    "description_zh": "明箱辅助写生：光学叠影轮廓、石墨微颤与纸齿上的淡彩。",
+    "source": "hermes-explore",
+    "image": "styles/1650-camera-lucida.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1608",
+    "slug": "oil-on-copper",
+    "name_en": "Oil on Copper",
+    "name_zh": "铜板油画",
+    "description_en": "Oil on polished copper panel: enamel-smooth blends, luminous darks, and metal warmth through thin glazes.",
+    "description_zh": "抛光铜板上的油画：珐琅般融合、透亮暗部与薄釉中隐现的金属暖光。",
+    "source": "hermes-explore",
+    "image": "styles/1651-oil-on-copper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1609",
+    "slug": "crt-scanline",
+    "name_en": "CRT Scanline",
+    "name_zh": "CRT扫描线",
+    "description_en": "Cathode-ray phosphor image: horizontal RGB scanlines, shadow-mask grain, bloom, and analog interlace jitter.",
+    "description_zh": "阴极射线荧光成像：横向RGB扫描线、荫罩颗粒、辉光与模拟隔行抖动。",
+    "source": "hermes-explore",
+    "image": "styles/1652-crt-scanline.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1610",
+    "slug": "subsurface-scattering",
+    "name_en": "Subsurface Scattering",
+    "name_zh": "次表面散射",
+    "description_en": "Physically based SSS: light penetrating translucent skin, wax, and resin with internal color bleed and glowing rims.",
+    "description_zh": "基于物理的次表面散射：光线透入皮肤、蜡与树脂，内部渗色与边缘透光。",
+    "source": "hermes-explore",
+    "image": "styles/1653-subsurface-scattering.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

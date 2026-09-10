@@ -4507,6 +4507,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1648, PNG count 1648. No REJECT names. UI left flat (no filters/tabs).
 
+## Hermes-explore batch 322 (exactly 5, h1606–h1610)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                | name_zh         | image                                  |
+|-------|------------------------|-----------------|----------------------------------------|
+| h1606 | Photobashing           | 照片混绘        | styles/1649-photobashing.png           |
+| h1607 | Camera Lucida          | 明箱            | styles/1650-camera-lucida.png          |
+| h1608 | Oil on Copper          | 铜板油画        | styles/1651-oil-on-copper.png          |
+| h1609 | CRT Scanline           | CRT扫描线       | styles/1652-crt-scanline.png           |
+| h1610 | Subsurface Scattering  | 次表面散射      | styles/1653-subsurface-scattering.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1653, PNG count 1653. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
