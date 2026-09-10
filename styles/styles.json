@@ -23502,5 +23502,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1766",
+    "slug": "yoshidaya",
+    "name_en": "Yoshidaya",
+    "name_zh": "吉田屋",
+    "description_en": "Yoshidaya: Kutani Aote overglaze revival in viridian, mustard, Prussian blue, and purple only — no red — dense karakusa fills on porcelain-white reserve.",
+    "description_zh": "吉田屋：九谷青手再兴上绘，仅用翠绿、姜黄、普蓝与茄紫，不用红，密缠唐草填满瓷白留白。",
+    "source": "hermes-explore",
+    "image": "styles/1809-yoshidaya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1767",
+    "slug": "miura-shibori",
+    "name_en": "Miura Shibori",
+    "name_zh": "三浦绞",
+    "description_en": "Miura shibori: loop-bound tie-dye of tiny plucked bindings, fine dotted diagonal pebble resist in indigo, not kanoko rings, not kumo spider-web.",
+    "description_zh": "三浦绞：细环结扎绞缬，靛蓝底上细密斜向点粒防染，非鹿子圈、非蜘蛛绞。",
+    "source": "hermes-explore",
+    "image": "styles/1810-miura-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1768",
+    "slug": "clair-de-lune",
+    "name_en": "Clair de Lune",
+    "name_zh": "月光釉",
+    "description_en": "Clair de lune: Kangxi moonlight porcelain glaze, pale lavender-blue watery sheen and orange-peel, not green celadon, not robin's-egg stipple.",
+    "description_zh": "月光釉：康熙淡蓝紫月色瓷釉，水色光泽与轻微橘皮，非青绿瓷、非炉钧点彩。",
+    "source": "hermes-explore",
+    "image": "styles/1811-clair-de-lune.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1769",
+    "slug": "ganosis",
+    "name_en": "Ganosis",
+    "name_zh": "蜡油封光",
+    "description_en": "Ganosis: ancient warmed beeswax-and-oil rub on polychromy or marble, living satin sheen and tawny pore bloom, not hard varnish, not encaustic impasto.",
+    "description_zh": "蜡油封光：古代温蜂蜡与油擦入彩绘或大理石，活缎光与微黄孔隙，非硬清漆、非热蜡堆厚。",
+    "source": "hermes-explore",
+    "image": "styles/1812-ganosis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1770",
+    "slug": "fold-forming",
+    "name_en": "Fold Forming",
+    "name_zh": "折叠成型",
+    "description_en": "Fold forming: sheet metal folded, forged, annealed, and unfolded into ridge spines and compressed valleys with heat-color bloom, not chasing, not repoussé.",
+    "description_zh": "折叠成型：金属片折叠锻打退火再展开，脊线与压缩谷及火色晕，非敲花、非锤揲浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1813-fold-forming.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -4955,6 +4955,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1808, PNG count 1808. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 354 (exactly 5, h1766–h1770)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                            |
+|-------|---------------|------------|----------------------------------|
+| h1766 | Yoshidaya     | 吉田屋     | styles/1809-yoshidaya.png        |
+| h1767 | Miura Shibori | 三浦绞     | styles/1810-miura-shibori.png    |
+| h1768 | Clair de Lune | 月光釉     | styles/1811-clair-de-lune.png    |
+| h1769 | Ganosis       | 蜡油封光   | styles/1812-ganosis.png          |
+| h1770 | Fold Forming  | 折叠成型   | styles/1813-fold-forming.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1813, PNG count 1813. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
