@@ -4549,6 +4549,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1663, PNG count 1663. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 325 (exactly 5, h1621–h1625)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                  |
+|-------|--------------------|-----------------|----------------------------------------|
+| h1621 | Douga              | 动画描线        | styles/1664-douga.png                  |
+| h1622 | Blind Contour      | 盲轮廓线        | styles/1665-blind-contour.png          |
+| h1623 | Volumetric Fog     | 体积雾          | styles/1666-volumetric-fog.png         |
+| h1624 | Normal Mapping     | 法线贴图        | styles/1667-normal-mapping.png         |
+| h1625 | Copperplate Script | 铜版手写体      | styles/1668-copperplate-script.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1668, PNG count 1668. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

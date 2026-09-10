@@ -21617,5 +21617,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1621",
+    "slug": "douga",
+    "name_en": "Douga",
+    "name_zh": "动画描线",
+    "description_en": "Animation clean-up drawings: even black contours on punched paper, peg holes, registration marks, faint construction still under the inked line.",
+    "description_zh": "动画描线：打孔赛璐纸上的均匀黑轮廓、定位孔、十字标记，墨线下落隐约可见的结构稿。",
+    "source": "hermes-explore",
+    "image": "styles/1664-douga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1622",
+    "slug": "blind-contour",
+    "name_en": "Blind Contour",
+    "name_zh": "盲轮廓线",
+    "description_en": "Eyes-off continuous-line drawing: one unbroken graphite path, overlapping loops, searching edges, almost no shading.",
+    "description_zh": "不看纸的连续线描：一笔不断的石墨轨迹、交叠回环、摸索边缘，几乎不设明暗。",
+    "source": "hermes-explore",
+    "image": "styles/1665-blind-contour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1623",
+    "slug": "volumetric-fog",
+    "name_en": "Volumetric Fog",
+    "name_zh": "体积雾",
+    "description_en": "Participating-media CGI: density fields, multiple scattering, haze occlusion, light bloom inside volume, atmospheric depth.",
+    "description_zh": "参与介质三维雾：密度场、多次散射、霾遮挡、体积内光晕与空气透视。",
+    "source": "hermes-explore",
+    "image": "styles/1666-volumetric-fog.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1624",
+    "slug": "normal-mapping",
+    "name_en": "Normal Mapping",
+    "name_zh": "法线贴图",
+    "description_en": "Tangent-space normal-map view: periwinkle-magenta-teal orientation colors, baked surface detail, no albedo beauty pass.",
+    "description_zh": "切线空间法线贴图视图：紫蓝-品红-青绿的朝向编码、烘焙表面细节，无反照率美渲。",
+    "source": "hermes-explore",
+    "image": "styles/1667-normal-mapping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1625",
+    "slug": "copperplate-script",
+    "name_en": "Copperplate Script",
+    "name_zh": "铜版手写体",
+    "description_en": "Pointed-pen copperplate as image-making: shaded downstrokes, hairline upstrokes, oval forms and flourished swashes in iron-gall ink.",
+    "description_zh": "尖头笔铜版手写体作画：加粗下行、发丝上行、椭圆骨架与铁胆墨花饰。",
+    "source": "hermes-explore",
+    "image": "styles/1668-copperplate-script.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
