@@ -25582,5 +25582,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1926",
+    "slug": "greek-geometric",
+    "name_en": "Greek Geometric",
+    "name_zh": "几何陶绘",
+    "description_en": "Dipylon Geometric vase painting: black slip on buff terracotta, meander registers, hatched triangles, silhouette figures, filling ornament.",
+    "description_zh": "迪皮隆几何陶绘：淡黄陶上黑釉、回纹分区、斜线三角、剪影人物与填饰纹样。",
+    "source": "hermes-explore",
+    "image": "styles/1969-greek-geometric.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1927",
+    "slug": "achaemenid",
+    "name_en": "Achaemenid",
+    "name_zh": "阿契美尼德",
+    "description_en": "Achaemenid glazed brick and low relief: palmette-lotus borders, rosette fields, turquoise-ochre-cream processional monumentality.",
+    "description_zh": "阿契美尼德釉砖浅浮雕：棕叶莲纹边饰、玫瑰纹地、青绿赭白仪仗纪念性。",
+    "source": "hermes-explore",
+    "image": "styles/1970-achaemenid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1928",
+    "slug": "olmec",
+    "name_en": "Olmec",
+    "name_zh": "奥尔梅克",
+    "description_en": "Olmec basalt and jade carving: colossal polished stone, incised hardstone inlay, flame-brow grammar, tropical patina.",
+    "description_zh": "奥尔梅克玄武岩与玉石雕刻：巨石抛光、硬玉线刻镶嵌、焰眉语汇与热带包浆。",
+    "source": "hermes-explore",
+    "image": "styles/1971-olmec.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1929",
+    "slug": "khmer",
+    "name_en": "Khmer",
+    "name_zh": "高棉",
+    "description_en": "Khmer Angkor sandstone bas-relief: dense gallery carving, sampot drapery, lotus pedestals, laterite-warm narrative registers.",
+    "description_zh": "高棉吴哥砂岩浅浮雕：密雕廊壁、纱笼衣褶、莲座与红土暖调叙事分区。",
+    "source": "hermes-explore",
+    "image": "styles/1972-khmer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1930",
+    "slug": "scythian",
+    "name_en": "Scythian",
+    "name_zh": "斯基泰",
+    "description_en": "Scythian animal-style goldwork: zoomorphic plaques, granulation, chased S-curves, interlocking stags and griffins in kurgan gold.",
+    "description_zh": "斯基泰动物纹金工：动物形饰片、金粒、锤揲S曲线，交错牡鹿与格里芬库尔干金饰。",
+    "source": "hermes-explore",
+    "image": "styles/1973-scythian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -5403,6 +5403,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1968, PNG count 1968. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 386 (exactly 5, h1926–h1930)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                              |
+|-------|------------------|-------------|------------------------------------|
+| h1926 | Greek Geometric  | 几何陶绘    | styles/1969-greek-geometric.png    |
+| h1927 | Achaemenid       | 阿契美尼德  | styles/1970-achaemenid.png         |
+| h1928 | Olmec            | 奥尔梅克    | styles/1971-olmec.png              |
+| h1929 | Khmer            | 高棉        | styles/1972-khmer.png              |
+| h1930 | Scythian         | 斯基泰      | styles/1973-scythian.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1973, PNG count 1973. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
