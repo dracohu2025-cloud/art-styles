@@ -5672,6 +5672,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2063, PNG count 2063. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 405 (exactly 5, h2021–h2025)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh            | image                                 |
+|-------|---------------------|--------------------|---------------------------------------|
+| h2021 | Verism              | 真实主义           | styles/2064-verism.png                |
+| h2022 | Crystal Cubism      | 晶体立体主义       | styles/2065-crystal-cubism.png        |
+| h2023 | Stroganov School    | 斯特罗加诺夫画派   | styles/2066-stroganov-school.png      |
+| h2024 | Armenian Miniature  | 亚美尼亚细密画     | styles/2067-armenian-miniature.png    |
+| h2025 | Hispano-Flemish     | 西佛兰德斯派       | styles/2068-hispano-flemish.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2068, PNG count 2068. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

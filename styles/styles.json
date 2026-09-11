@@ -26817,5 +26817,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2021",
+    "slug": "verism",
+    "name_en": "Verism",
+    "name_zh": "真实主义",
+    "description_en": "Verism: Roman Republican unidealized portrait, wax-like skin, drilled hair, documentary marble-polychromy realism.",
+    "description_zh": "真实主义：罗马共和肖像不美化、蜡质肤质、钻孔发丝与彩绘大理石纪实感。",
+    "source": "hermes-explore",
+    "image": "styles/2064-verism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2022",
+    "slug": "crystal-cubism",
+    "name_en": "Crystal Cubism",
+    "name_zh": "晶体立体主义",
+    "description_en": "Crystal Cubism: late Cubist crystalline planes, ordered facets, Juan Gris clarity, stained-glass geometry.",
+    "description_zh": "晶体立体主义：晚期立体派晶体切面、有序棱面、格里斯式清晰与彩窗几何。",
+    "source": "hermes-explore",
+    "image": "styles/2065-crystal-cubism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2023",
+    "slug": "stroganov-school",
+    "name_en": "Stroganov School",
+    "name_zh": "斯特罗加诺夫画派",
+    "description_en": "Stroganov School: small-scale Russian icon tempera, burnished gold ground, elongated miniature drapery, tooled gold assist.",
+    "description_zh": "斯特罗加诺夫画派：小尺幅俄罗斯圣像蛋彩、烫金底、细长衣纹与压印金线。",
+    "source": "hermes-explore",
+    "image": "styles/2066-stroganov-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2024",
+    "slug": "armenian-miniature",
+    "name_en": "Armenian Miniature",
+    "name_zh": "亚美尼亚细密画",
+    "description_en": "Armenian Miniature: Cilician manuscript illumination, knotted headpieces, mineral reds and ultramarine, gold-leaf canon tables.",
+    "description_zh": "亚美尼亚细密画：西里西亚手抄本彩饰、结饰头栏、矿物红与群青、金箔卡农表。",
+    "source": "hermes-explore",
+    "image": "styles/2067-armenian-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2025",
+    "slug": "hispano-flemish",
+    "name_en": "Hispano-Flemish",
+    "name_zh": "西佛兰德斯派",
+    "description_en": "Hispano-Flemish: 15th-century Spanish–Flemish oil on panel, Eyckian glaze with Castilian brocade gravity.",
+    "description_zh": "西佛兰德斯派：十五世纪西班牙-佛兰德斯嵌板油画，艾克式釉染与卡斯蒂利亚织锦分量。",
+    "source": "hermes-explore",
+    "image": "styles/2068-hispano-flemish.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
