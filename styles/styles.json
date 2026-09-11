@@ -26232,5 +26232,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1976",
+    "slug": "milk-paint",
+    "name_en": "Milk Paint",
+    "name_zh": "牛奶漆",
+    "description_en": "Historic casein milk paint: chalky matte opaque coats, dusty velvety film, overlapping furniture-like ridges in ochre, barn red, sap green, and lampblack.",
+    "description_zh": "牛奶漆：酪蛋白哑光厚涂、粉质绒面、赭石与谷仓红等色层如家具漆般交叠起棱。",
+    "source": "hermes-explore",
+    "image": "styles/2019-milk-paint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1977",
+    "slug": "carved-lacquer",
+    "name_en": "Carved Lacquer",
+    "name_zh": "雕漆",
+    "description_en": "Chinese qidiao carved lacquer: stacked cinnabar and black urushi strata cut into deep pictorial relief, V-grooves revealing layered bands.",
+    "description_zh": "雕漆：朱黑漆层堆叠后深雕成像，V形刀口露出层带。",
+    "source": "hermes-explore",
+    "image": "styles/2020-carved-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1978",
+    "slug": "metalpoint",
+    "name_en": "Metalpoint",
+    "name_zh": "金属针笔",
+    "description_en": "Silver stylus on prepared cream gesso: fine gray metallic hatch, faint burnish in the line, no graphite shine and no ink wash.",
+    "description_zh": "金属针笔：银尖划于粉底，细灰金属排线微有抛光，无石墨反光、无墨晕。",
+    "source": "hermes-explore",
+    "image": "styles/2021-metalpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1979",
+    "slug": "shuanggou",
+    "name_en": "Shuanggou",
+    "name_zh": "双钩",
+    "description_en": "Chinese double-hook outline: every form described by two parallel fine ink contours, interiors empty or palest tint on white paper.",
+    "description_zh": "双钩：物象皆以两道平行细墨线勾成，腹内留白或极淡赋色。",
+    "source": "hermes-explore",
+    "image": "styles/2022-shuanggou.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1980",
+    "slug": "gold-leaf",
+    "name_en": "Gold Leaf",
+    "name_zh": "金箔",
+    "description_en": "Water gilding: burnished 23k gold leaf over red bole, leaf seams, punch patterns, and bole showing at the breaks—not yellow paint.",
+    "description_zh": "金箔：红托上水贴锤亮金箔，箔缝、錾花与破口露托，非黄颜料。",
+    "source": "hermes-explore",
+    "image": "styles/2023-gold-leaf.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
