@@ -26492,5 +26492,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1996",
+    "slug": "prussian-blue",
+    "name_en": "Prussian Blue",
+    "name_zh": "普鲁士蓝",
+    "description_en": "Ferrocyanide Prussian blue: inky Berlin/Milori cool blue glazes, dense millori shadows, 19th-century pigment body.",
+    "description_zh": "普鲁士蓝：亚铁氰化铁柏林蓝釉染，密实米洛里冷蓝阴影，十九世纪颜料体色。",
+    "source": "hermes-explore",
+    "image": "styles/2039-prussian-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1997",
+    "slug": "vermilion",
+    "name_en": "Vermilion",
+    "name_zh": "朱红",
+    "description_en": "Vermilion cinnabar red: opaque mercuric-sulfide scarlet with orange undertone, dry mineral grain, classical body color.",
+    "description_zh": "朱红：硫化汞朱砂红，不透明朱红偏橙，干燥矿物颗粒，古典体色。",
+    "source": "hermes-explore",
+    "image": "styles/2040-vermilion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1998",
+    "slug": "viridian",
+    "name_en": "Viridian",
+    "name_zh": "翠绿",
+    "description_en": "Viridian hydrate chromium-oxide green: transparent emerald-teal glazes, glassy 19th-century watercolor viridian.",
+    "description_zh": "翠绿：水合氧化铬绿，透明翠绿偏青绿釉，玻璃感十九世纪水彩翠绿。",
+    "source": "hermes-explore",
+    "image": "styles/2041-viridian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1999",
+    "slug": "caput-mortuum",
+    "name_en": "Caput Mortuum",
+    "name_zh": "死头紫",
+    "description_en": "Caput mortuum iron-oxide earth: dusty maroon-violet hematite, closed-furnace colcothar, muted purple-brown body.",
+    "description_zh": "死头紫：铁氧化物土色，粉尘褐紫赤铁矿，闷炉枯矾，沉闷紫棕色体。",
+    "source": "hermes-explore",
+    "image": "styles/2042-caput-mortuum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2000",
+    "slug": "indian-yellow",
+    "name_en": "Indian Yellow",
+    "name_zh": "印度黄",
+    "description_en": "Indian yellow euxanthic lake: luminous mango-gold transparent glazes, historical warm golden-yellow watercolor.",
+    "description_zh": "印度黄：柚苷金黄淀，通透芒果金釉染，历史暖金黄水彩。",
+    "source": "hermes-explore",
+    "image": "styles/2043-indian-yellow.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
