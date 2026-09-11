@@ -5137,6 +5137,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1873, PNG count 1873. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 367 (exactly 5, h1831–h1835)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh         | image                         |
+|-------|-------------|-----------------|-------------------------------|
+| h1831 | Guadamecil  | 镀金压花皮画    | styles/1874-guadamecil.png    |
+| h1832 | Merz        | 梅尔兹拼贴      | styles/1875-merz.png          |
+| h1833 | Retablo     | 墨西哥锡画      | styles/1876-retablo.png       |
+| h1834 | Unkoku      | 云谷派          | styles/1877-unkoku.png        |
+| h1835 | Kibyoshi    | 黄表纸          | styles/1878-kibyoshi.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1878, PNG count 1878. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

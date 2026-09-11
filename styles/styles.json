@@ -24347,5 +24347,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1831",
+    "slug": "guadamecil",
+    "name_en": "Guadamecil",
+    "name_zh": "镀金压花皮画",
+    "description_en": "Guadamecil: Spanish polychrome gilt tooled leather, punched gold grounds, embossed arabesques, oil-color on hide — not oil on canvas, not Mexican tin retablo, not bookbinding-as-object.",
+    "description_zh": "镀金压花皮画：西班牙彩绘镀金压花皮革、打孔金地、浮雕卷草、皮上油彩，非布面油画、非墨西哥锡画、非装帧器物。",
+    "source": "hermes-explore",
+    "image": "styles/1874-guadamecil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1832",
+    "slug": "merz",
+    "name_en": "Merz",
+    "name_zh": "梅尔兹拼贴",
+    "description_en": "Merz: Schwitters Dada collage-assemblage of torn tickets, newsprint, cardboard, wood scraps and glue stains — not photomontage, not Cubist oil, not Constructivist poster.",
+    "description_zh": "梅尔兹拼贴：施维特斯达达废料拼贴、车票新闻纸纸板木屑与胶渍，非摄影蒙太奇、非立体派油画、非构成主义海报。",
+    "source": "hermes-explore",
+    "image": "styles/1875-merz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1833",
+    "slug": "retablo",
+    "name_en": "Retablo",
+    "name_zh": "墨西哥锡画",
+    "description_en": "Retablo: Mexican oil or enamel on tinplate lámina, metal sheen at worn edges, folk workshop modeling, varnish pooling — not Quito colonial oil, not Cuzco flattened gold, not Spanish tenebrism.",
+    "description_zh": "墨西哥锡画：锡板油彩或珐琅、磨损边缘金属反光、作坊民间塑造、清漆积淀，非基多殖民油画、非库斯科平金、非西班牙暗绘。",
+    "source": "hermes-explore",
+    "image": "styles/1876-retablo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1834",
+    "slug": "unkoku",
+    "name_en": "Unkoku",
+    "name_zh": "云谷派",
+    "description_en": "Unkoku: Unkoku-ha ink in the Sesshū lineage, axe-cut rocks, misted mountains, pale silk ground, restrained mineral tint — not Haboku splash, not Kanō gold, not Nanga literati.",
+    "description_zh": "云谷派：雪舟一系水墨、斧劈山石、烟岚远山、素绢底与克制石色，非破墨泼墨、非狩野金碧、非南画文人。",
+    "source": "hermes-explore",
+    "image": "styles/1877-unkoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1835",
+    "slug": "kibyoshi",
+    "name_en": "Kibyoshi",
+    "name_zh": "黄表纸",
+    "description_en": "Kibyōshi: Edo yellow-cover illustrated fiction woodblock, dense calligraphic line, flat mineral color, comic page grammar without readable text — not ukiyo-e actor prints, not generic kusazōshi, not modern manga.",
+    "description_zh": "黄表纸：江户黄封面通俗绘本木版、密实书法线、平涂石色、无字的戏画页法，非役者浮世绘、非泛称草双纸、非现代漫画。",
+    "source": "hermes-explore",
+    "image": "styles/1878-kibyoshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
