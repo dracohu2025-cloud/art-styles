@@ -25192,5 +25192,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1896",
+    "slug": "section-dor",
+    "name_en": "Section d'Or",
+    "name_zh": "黄金分割派",
+    "description_en": "Section d'Or: 1912 Golden Section cubism — faceted simultaneous planes, Orphic prismatic discs, golden-section diagonals, overlapping viewpoints — not Futurist force-lines, not De Stijl grids.",
+    "description_zh": "黄金分割派：1912年黄金分割立体主义——同时性切面、俄耳甫斯光谱圆盘、黄金分割斜线、重叠视点，非未来主义力线，非风格派网格。",
+    "source": "hermes-explore",
+    "image": "styles/1939-section-dor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1897",
+    "slug": "echoppe-line",
+    "name_en": "Échoppe Line",
+    "name_zh": "蚀针曲线",
+    "description_en": "Échoppe line: intaglio etching with swelling-and-tapering échoppe-cut strokes on ivory laid paper, spare hatch, faint plate tone — not aquatint grain, not mezzotint velvet.",
+    "description_zh": "蚀针曲线：铜版蚀刻中段粗两端细的蚀针线、象牙色手工纸、疏朗排线、淡印版调，非飞尘颗粒，非美柔汀绒黑。",
+    "source": "hermes-explore",
+    "image": "styles/1940-echoppe-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1898",
+    "slug": "carbro-print",
+    "name_en": "Carbro Print",
+    "name_zh": "卡溴印相",
+    "description_en": "Carbro print: 1920s carbon-bromide trichrome pigment photograph — velvety matte gelatin relief, deep saturated color, slight registration fringing — not Kodachrome gloss, not Cibachrome.",
+    "description_zh": "卡溴印相：1920年代碳溴三色色素照片——绒面明胶浮雕、深饱和色、轻微套准边，非柯达克罗姆高光，非西巴克罗姆。",
+    "source": "hermes-explore",
+    "image": "styles/1941-carbro-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1899",
+    "slug": "guan-crackle",
+    "name_en": "Guan Crackle",
+    "name_zh": "官窑开片",
+    "description_en": "Guan crackle: Song Guan celadon glaze as pictorial skin — pale gray-green, dense gold-silk and iron-wire double crazing — glaze technique on the figure, not a vase still-life, not Ru or Tenmoku.",
+    "description_zh": "官窑开片：以宋代官窑青瓷釉为画面表层——月白灰绿、金丝铁线双重开片，釉面技法铺于人物，非瓶罐静物，非汝窑或天目。",
+    "source": "hermes-explore",
+    "image": "styles/1942-guan-crackle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1900",
+    "slug": "hypermannerism",
+    "name_en": "Hypermannerism",
+    "name_zh": "超手法主义",
+    "description_en": "Hypermannerism: 1970s Italian Ipermannerismo — elongated Mannerist proportions, acid jewel color, enamel-smooth oil, theatrical contraposto as anachronism — not High Renaissance harmony, not tenebrism.",
+    "description_zh": "超手法主义：1970年代意大利Ipermannerismo——拉长手法主义比例、酸宝石色、珐琅般光滑油彩、剧场性对立式作为错时引用，非盛期文艺复兴和谐，非暗色主义。",
+    "source": "hermes-explore",
+    "image": "styles/1943-hypermannerism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

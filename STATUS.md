@@ -5319,6 +5319,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1938, PNG count 1938. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 380 (exactly 5, h1896–h1900)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h1896 | Section d'Or    | 黄金分割派  | styles/1939-section-dor.png        |
+| h1897 | Échoppe Line    | 蚀针曲线    | styles/1940-echoppe-line.png       |
+| h1898 | Carbro Print    | 卡溴印相    | styles/1941-carbro-print.png       |
+| h1899 | Guan Crackle    | 官窑开片    | styles/1942-guan-crackle.png       |
+| h1900 | Hypermannerism  | 超手法主义  | styles/1943-hypermannerism.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1943, PNG count 1943. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
