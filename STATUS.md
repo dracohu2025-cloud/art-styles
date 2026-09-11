@@ -5389,6 +5389,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1963, PNG count 1963. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 385 (exactly 5, h1921–h1925)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                                 |
+|-------|-------------------|---------------|---------------------------------------|
+| h1921 | Cycladic          | 基克拉泽斯    | styles/1964-cycladic.png              |
+| h1922 | Sasanian          | 萨珊          | styles/1965-sasanian.png              |
+| h1923 | Minoan            | 米诺斯        | styles/1966-minoan.png                |
+| h1924 | Decorated Gothic  | 装饰式哥特    | styles/1967-decorated-gothic.png      |
+| h1925 | Hellenistic       | 希腊化        | styles/1968-hellenistic.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1968, PNG count 1968. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

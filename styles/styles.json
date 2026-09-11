@@ -25517,5 +25517,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1921",
+    "slug": "cycladic",
+    "name_en": "Cycladic",
+    "name_zh": "基克拉泽斯",
+    "description_en": "Early Cycladic marble-figure language: folded-arm canon, wedge nose, Parian-white planes, faint chisel abrasion, Aegean austerity.",
+    "description_zh": "早期基克拉泽斯大理石偶像语法：交臂程式、楔形鼻、帕罗斯白平面、浅凿痕与爱琴克制。",
+    "source": "hermes-explore",
+    "image": "styles/1964-cycladic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1922",
+    "slug": "sasanian",
+    "name_en": "Sasanian",
+    "name_zh": "萨珊",
+    "description_en": "Sasanian court metalwork and rock relief: pearl roundels, flying ribbons, palmette arabesques, silver-gilt chasing, Taq-e Bostan line.",
+    "description_zh": "萨珊宫廷金银器与岩刻：联珠团窠、飞扬绶带、棕叶卷草、鎏金银錾与塔克·布斯坦线法。",
+    "source": "hermes-explore",
+    "image": "styles/1965-sasanian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1923",
+    "slug": "minoan",
+    "name_en": "Minoan",
+    "name_zh": "米诺斯",
+    "description_en": "Knossos palace fresco: Egyptian blue and red ochre on plaster, flowing curls, profile with frontal eye, marine spirals, mineral pigment.",
+    "description_zh": "克诺索斯宫壁画：埃及蓝与红赭于灰泥、卷曲长发、侧面正眼、海洋螺旋与矿物颜料。",
+    "source": "hermes-explore",
+    "image": "styles/1966-minoan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1924",
+    "slug": "decorated-gothic",
+    "name_en": "Decorated Gothic",
+    "name_zh": "装饰式哥特",
+    "description_en": "English Decorated Gothic: ogee arches, ballflower, flowing curvilinear tracery, nodding ogees, diapered grounds, stained-glass jewels.",
+    "description_zh": "英国装饰式哥特：葱形拱、球花饰、流动窗花格、点头葱拱、菱格底与彩窗宝石色。",
+    "source": "hermes-explore",
+    "image": "styles/1967-decorated-gothic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1925",
+    "slug": "hellenistic",
+    "name_en": "Hellenistic",
+    "name_zh": "希腊化",
+    "description_en": "Hellenistic Pergamene baroque: deep-drilled hair, wet drapery, contrapposto, luminous marble flesh, theatrical raking light.",
+    "description_zh": "希腊化帕加马巴洛克：深钻卷发、湿衣褶、对站姿、发光大理石肌理与戏剧侧光。",
+    "source": "hermes-explore",
+    "image": "styles/1968-hellenistic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
