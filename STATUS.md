@@ -5123,6 +5123,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1868, PNG count 1868. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 366 (exactly 5, h1826–h1830)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h1826 | Scapigliatura   | 乱发派          | styles/1869-scapigliatura.png      |
+| h1827 | Kalaga          | 缅甸贴花绣      | styles/1870-kalaga.png             |
+| h1828 | Okir            | 奥基尔纹        | styles/1871-okir.png               |
+| h1829 | Hermannsburg    | 赫曼斯堡水彩    | styles/1872-hermannsburg.png       |
+| h1830 | Quito School    | 基多画派        | styles/1873-quito-school.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1873, PNG count 1873. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

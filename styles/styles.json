@@ -24282,5 +24282,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1826",
+    "slug": "scapigliatura",
+    "name_en": "Scapigliatura",
+    "name_zh": "乱发派",
+    "description_en": "Scapigliatura: Italian 1860s–80s loose vibrating brushwork, melted contours, smoky earth scumbles, anti-academic unfinished haze — not Impressionism, not Macchiaioli, not Academic salon polish.",
+    "description_zh": "乱发派：意大利1860–80年代松动颤笔、轮廓溶化、烟霭土色擦染、反学院未完成感，非印象派、非斑点派、非沙龙细绘。",
+    "source": "hermes-explore",
+    "image": "styles/1869-scapigliatura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1827",
+    "slug": "kalaga",
+    "name_en": "Kalaga",
+    "name_zh": "缅甸贴花绣",
+    "description_en": "Kalaga: Burmese shwe chi doe tapestry, gold-thread couching, sequins and mirrored glass on dark velvet, raised appliqué floral-flame density — not Thai gold lacquer, not kesi, not zardozi.",
+    "description_zh": "缅甸贴花绣：金线钉绣、亮片与镜片缀于深色丝绒、浮起贴花火焰纹密铺，非泰金漆、非缂丝、非扎尔多齐金绣。",
+    "source": "hermes-explore",
+    "image": "styles/1870-kalaga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1828",
+    "slug": "okir",
+    "name_en": "Okir",
+    "name_zh": "奥基尔纹",
+    "description_en": "Okir: Maranao and Tausug vegetal S-scroll carving, naga-leaf tendrils, okir-a-datu curvilinear relief, panolong wing scrolls on wood — not batik, not paisley, not Celtic knotwork.",
+    "description_zh": "奥基尔纹：马拉瑙与陶苏格植物S卷雕、那伽叶卷、贵族曲纹浮雕、帕诺隆翼卷铺满木面，非蜡染、非佩斯利、非凯尔特结。",
+    "source": "hermes-explore",
+    "image": "styles/1871-okir.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1829",
+    "slug": "hermannsburg",
+    "name_en": "Hermannsburg",
+    "name_zh": "赫曼斯堡水彩",
+    "description_en": "Hermannsburg: Central Australian watercolor school, translucent ochre washes, receding blue-violet ranges, dotted ghost gums and paper-white reserves — not Papunya Tula dots, not European picturesque watercolor, not gouache.",
+    "description_zh": "赫曼斯堡水彩：中澳水彩流派、半透明赭石罩染、远退蓝紫山脉、点疏白桉与纸白留白，非帕普尼亚点绘、非欧洲风景水彩、非水粉。",
+    "source": "hermes-explore",
+    "image": "styles/1872-hermannsburg.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1830",
+    "slug": "quito-school",
+    "name_en": "Quito School",
+    "name_zh": "基多画派",
+    "description_en": "Quito School: Escuela Quiteña colonial Andean oil, gold-leaf brocade drapery, soft modeled flesh, crimson-and-gold Baroque fused with Andean textile ornament — not Cuzco flattened gold, not Spanish tenebrism, not Mexican retablo.",
+    "description_zh": "基多画派：基多殖民安第斯油画、金箔织锦衣褶、柔和肉色塑造、绯红与金的巴洛克融安第斯织物纹，非库斯科平金、非西班牙暗绘、非墨西哥还愿画。",
+    "source": "hermes-explore",
+    "image": "styles/1873-quito-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
