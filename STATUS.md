@@ -5291,6 +5291,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1928, PNG count 1928. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 378 (exactly 5, h1886–h1890)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh   | image                               |
+|-------|-------------------|-----------|-------------------------------------|
+| h1886 | Fluxus            | 激浪派    | styles/1929-fluxus.png              |
+| h1887 | Bad Painting      | 坏画      | styles/1930-bad-painting.png        |
+| h1888 | Mir Iskusstva     | 艺术世界  | styles/1931-mir-iskusstva.png       |
+| h1889 | Arte Programmata  | 程序艺术  | styles/1932-arte-programmata.png    |
+| h1890 | Aestheticism      | 唯美主义  | styles/1933-aestheticism.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1933, PNG count 1933. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -25062,5 +25062,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1886",
+    "slug": "fluxus",
+    "name_en": "Fluxus",
+    "name_zh": "激浪派",
+    "description_en": "Fluxus: 1960s intermedia graphic — cheap offset collage, rubber-stamp ink, event-score diagrams, boxed-multiple packaging, xerox grain, anti-precious black/red/white typography — not a girl posing in front of Fluxus relics.",
+    "description_zh": "激浪派：1960年代跨媒介图形——廉价胶印拼贴、橡皮图章、事件乐谱图式、盒装作品包装、复印颗粒、反珍贵的黑红白字体，非站在激浪派文物前的人物。",
+    "source": "hermes-explore",
+    "image": "styles/1929-fluxus.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1887",
+    "slug": "bad-painting",
+    "name_en": "Bad Painting",
+    "name_zh": "坏画",
+    "description_en": "Bad Painting: late-1970s anti-virtuoso oil — sour off-key color, crude energetic brush, flattened clumsy space, visible pentimenti, garish highlights — not polished academic realism.",
+    "description_zh": "坏画：1970年代末反精湛油画——酸涩走调色彩、粗粝有力笔触、扁平笨拙空间、可见修改痕迹、刺目高光，非打磨过的学院写实。",
+    "source": "hermes-explore",
+    "image": "styles/1930-bad-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1888",
+    "slug": "mir-iskusstva",
+    "name_en": "Mir Iskusstva",
+    "name_zh": "艺术世界",
+    "description_en": "Mir Iskusstva (World of Art): Russian 1898–1924 theatrical illustration — Bakst/Benois/Somov contour, pale cream and muted jewels, stage-design flatness, ballet-set ornament — not generic Art Nouveau.",
+    "description_zh": "艺术世界：俄国1898–1924戏剧性插图——巴克斯特/贝努瓦/索莫夫式轮廓、奶油底与暗宝石色、舞台平面、芭蕾布景纹样，非泛新艺术。",
+    "source": "hermes-explore",
+    "image": "styles/1931-mir-iskusstva.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1889",
+    "slug": "arte-programmata",
+    "name_en": "Arte Programmata",
+    "name_zh": "程序艺术",
+    "description_en": "Arte Programmata: 1960s Italian programmed/optical art — modular geometric units, black-white-primary kinetic grids, industrial precision, systematic variation — not freehand pop geometry.",
+    "description_zh": "程序艺术：1960年代意大利程序/视幻艺术——模块几何单元、黑白原色动态网格、工业精度、系统变奏，非手绘波普几何。",
+    "source": "hermes-explore",
+    "image": "styles/1932-arte-programmata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1890",
+    "slug": "aestheticism",
+    "name_en": "Aestheticism",
+    "name_zh": "唯美主义",
+    "description_en": "Aestheticism: late-Victorian art-for-art's-sake — Whistler nocturne harmony, arrangement in grey and gold, Peacock Room decorative flatness, japoniste ornament as design language — not a costume title.",
+    "description_zh": "唯美主义：维多利亚晚期为艺术而艺术——惠斯勒夜曲式和谐、灰与金的经营、孔雀厅装饰平面、日本趣味纹样作为设计语言，非服饰标题。",
+    "source": "hermes-explore",
+    "image": "styles/1933-aestheticism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
