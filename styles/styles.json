@@ -25777,5 +25777,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1941",
+    "slug": "pallava",
+    "name_en": "Pallava",
+    "name_zh": "帕拉瓦",
+    "description_en": "Pallava temple sculpture: granite bas-relief, lion pilasters, Dravidian vimana silhouettes, chisel-faceted drapery in honey-grey stone.",
+    "description_zh": "帕拉瓦神庙雕刻：花岗岩浅浮雕、狮柱、达罗毗荼塔影、蜜灰色石面凿刻衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/1984-pallava.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1942",
+    "slug": "safavid",
+    "name_en": "Safavid",
+    "name_zh": "萨法维",
+    "description_en": "Safavid miniature and haft-rangi tile: fine ink outline, lapis-vermilion-gold, chahar-bagh garden planes, floral arabesque.",
+    "description_zh": "萨法维细密画与七彩瓷砖：细墨勾线、青金朱红金箔、四分园平面、花卉阿拉贝斯克。",
+    "source": "hermes-explore",
+    "image": "styles/1985-safavid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1943",
+    "slug": "moche",
+    "name_en": "Moche",
+    "name_zh": "莫切",
+    "description_en": "Moche fineline painting: cream slip, iron-red contour, parallel hatching, narrative registers, step-fret and feline motifs.",
+    "description_zh": "莫切细线彩绘：乳白陶衣、铁红轮廓、平行排线、叙事分栏、台阶回纹与猫科纹样。",
+    "source": "hermes-explore",
+    "image": "styles/1986-moche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1944",
+    "slug": "goryeo",
+    "name_en": "Goryeo",
+    "name_zh": "高丽",
+    "description_en": "Goryeo Buddhist painting and celadon: kingfisher-green glaze, sanggam inlay, gold-outlined mineral pigment, lotus-cloud medallions.",
+    "description_zh": "高丽佛画与青瓷：翠青釉色、镶嵌阴刻、金线矿物颜料、莲云团纹。",
+    "source": "hermes-explore",
+    "image": "styles/1987-goryeo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1945",
+    "slug": "seljuk",
+    "name_en": "Seljuk",
+    "name_zh": "塞尔柱",
+    "description_en": "Seljuk Anatolian-Persian ornament: turquoise star-cross tiles, rumi palmette, girih geometry, brick chevrons, stucco muqarnas.",
+    "description_zh": "塞尔柱安纳托利亚-波斯纹样：青绿星十字砖、鲁米棕叶、几何结纹、砖砌人字、灰泥钟乳。",
+    "source": "hermes-explore",
+    "image": "styles/1988-seljuk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
