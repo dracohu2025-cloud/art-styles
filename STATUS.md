@@ -5572,6 +5572,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2028, PNG count 2028. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 398 (exactly 5, h1986–h1990)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh     | image                                    |
+|-------|-------------------------|-------------|------------------------------------------|
+| h1986 | Quill Pen               | 羽毛笔      | styles/2029-quill-pen.png                |
+| h1987 | G-pen                   | G笔         | styles/2030-g-pen.png                    |
+| h1988 | Poster Color            | 广告颜料    | styles/2031-poster-color.png             |
+| h1989 | Water-soluble Graphite  | 水溶性石墨  | styles/2032-water-soluble-graphite.png   |
+| h1990 | Azurite                 | 石青        | styles/2033-azurite.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2033, PNG count 2033. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

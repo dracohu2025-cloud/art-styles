@@ -26362,5 +26362,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1986",
+    "slug": "quill-pen",
+    "name_en": "Quill Pen",
+    "name_zh": "羽毛笔",
+    "description_en": "Goose-quill nib and iron-gall ink: scratchy calligraphic line, split-nib double tracks, pause pools, feathered downstrokes on laid paper.",
+    "description_zh": "羽毛笔：鹅管尖与铁胆墨，刮擦书法线、分叉双轨、停顿墨潭、下行飞白于罗纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/2029-quill-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1987",
+    "slug": "g-pen",
+    "name_en": "G-pen",
+    "name_zh": "G笔",
+    "description_en": "Japanese G-pen manga inking: extreme variable line weight, hairline to swollen contour, tapered ends, jet-black ink on white Bristol.",
+    "description_zh": "G笔：日式漫画沾水笔，极强粗细变化、发丝到涨墨轮廓、收尖利落，白卡纸上的纯黑墨线。",
+    "source": "hermes-explore",
+    "image": "styles/2030-g-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1988",
+    "slug": "poster-color",
+    "name_en": "Poster Color",
+    "name_zh": "广告颜料",
+    "description_en": "Opaque designers' poster paint: matte chalky body color, flat graphic fields, limited blending, velvety pigment, school-poster opacity.",
+    "description_zh": "广告颜料：哑光粉质不透明色、平面色块、少混色、绒面颜料感、海报式覆盖力。",
+    "source": "hermes-explore",
+    "image": "styles/2031-poster-color.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1989",
+    "slug": "water-soluble-graphite",
+    "name_en": "Water-soluble Graphite",
+    "name_zh": "水溶性石墨",
+    "description_en": "Graphite washed with water: silver-gray melts into cool washes, bloom edges, leftover dry strokes on paper tooth.",
+    "description_zh": "水溶性石墨：水洗后银灰色化开成冷灰渲染，开花边，纸齿上残留干笔。",
+    "source": "hermes-explore",
+    "image": "styles/2032-water-soluble-graphite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1990",
+    "slug": "azurite",
+    "name_en": "Azurite",
+    "name_zh": "石青",
+    "description_en": "Coarse azurite mineral blue: crystalline copper-blue particles, layered rock-color body, granular light catch on sized ground.",
+    "description_zh": "石青：粗颗粒蓝铜矿矿物色，层层岩彩体色，颗粒折光于胶矾底。",
+    "source": "hermes-explore",
+    "image": "styles/2033-azurite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
