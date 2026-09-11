@@ -26297,5 +26297,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1981",
+    "slug": "acrylic-gouache",
+    "name_en": "Acrylic Gouache",
+    "name_zh": "丙烯水粉",
+    "description_en": "Matte vinyl-acrylic gouache: velvety opaque planes, chalky covering power, dry-brush scumble, no plastic gloss.",
+    "description_zh": "丙烯水粉：绒面不透明色块、粉质覆盖力与干刷擦扫，无塑料高光。",
+    "source": "hermes-explore",
+    "image": "styles/2024-acrylic-gouache.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1982",
+    "slug": "lampblack",
+    "name_en": "Lampblack",
+    "name_zh": "油烟墨",
+    "description_en": "Oil-soot carbon black ink: warm-black velvety washes, wet calligraphic lines, soot-grain in thin gray, bone-dry matte mass.",
+    "description_zh": "油烟墨：暖黑绒面渲染、湿书法线、淡灰烟炱颗粒与骨干哑光墨块。",
+    "source": "hermes-explore",
+    "image": "styles/2025-lampblack.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1983",
+    "slug": "continuous-line",
+    "name_en": "Continuous Line",
+    "name_zh": "一笔线描",
+    "description_en": "One unbroken contour that never lifts: looping lyrical line describing form, almost no shading, paper ground.",
+    "description_zh": "一笔线描：笔不离纸的连续轮廓，回环抒情线造型，几乎无明暗，纸地留白。",
+    "source": "hermes-explore",
+    "image": "styles/2026-continuous-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1984",
+    "slug": "fountain-pen",
+    "name_en": "Fountain Pen",
+    "name_zh": "钢笔",
+    "description_en": "Steel-nib fountain pen: pressure flex, blue-black ink, pause blobs, dry scratch on paper tooth, wet downstrokes.",
+    "description_zh": "钢笔：钢尖压力粗细、蓝黑墨、停顿墨点、纸齿干刮与饱墨下行。",
+    "source": "hermes-explore",
+    "image": "styles/2027-fountain-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1985",
+    "slug": "wax-crayon",
+    "name_en": "Wax Crayon",
+    "name_zh": "蜡笔",
+    "description_en": "Artist wax crayon: broken waxy strokes, scumble, wax bloom, paper tooth showing through, blunt-edge and on-end hatching.",
+    "description_zh": "蜡笔：蜡质断笔、擦扫、起霜、纸齿透底，钝边与直立排线。",
+    "source": "hermes-explore",
+    "image": "styles/2028-wax-crayon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

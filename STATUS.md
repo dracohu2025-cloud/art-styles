@@ -5558,6 +5558,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2023, PNG count 2023. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 397 (exactly 5, h1981–h1985)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh    | image                              |
+|-------|-----------------|------------|------------------------------------|
+| h1981 | Acrylic Gouache | 丙烯水粉   | styles/2024-acrylic-gouache.png    |
+| h1982 | Lampblack       | 油烟墨     | styles/2025-lampblack.png          |
+| h1983 | Continuous Line | 一笔线描   | styles/2026-continuous-line.png    |
+| h1984 | Fountain Pen    | 钢笔       | styles/2027-fountain-pen.png       |
+| h1985 | Wax Crayon      | 蜡笔       | styles/2028-wax-crayon.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2028, PNG count 2028. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
