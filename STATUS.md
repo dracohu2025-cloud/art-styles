@@ -5235,6 +5235,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1908, PNG count 1908. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 374 (exactly 5, h1866–h1870)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                |
+|-------|--------------------|-------------|--------------------------------------|
+| h1866 | Combine Painting   | 组合绘画    | styles/1909-combine-painting.png     |
+| h1867 | Supports/Surfaces  | 支撑与表面  | styles/1910-supports-surfaces.png    |
+| h1868 | Neue Wilde         | 新野兽派    | styles/1911-neue-wilde.png           |
+| h1869 | Pittura Colta      | 博学绘画    | styles/1912-pittura-colta.png        |
+| h1870 | ZERO Group         | 零派        | styles/1913-zero-group.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1913, PNG count 1913. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

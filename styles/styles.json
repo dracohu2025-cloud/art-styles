@@ -24802,5 +24802,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1866",
+    "slug": "combine-painting",
+    "name_en": "Combine Painting",
+    "name_zh": "组合绘画",
+    "description_en": "Combine Painting: Rauschenberg 1950s–60s Combines — oil, silkscreen, newsprint and attached found-object fragments (fabric, metal, wood) on one canvas plane, painting fused with junk relief — not collage-only, not pure assemblage sculpture, not clean Pop silkscreen.",
+    "description_zh": "组合绘画：劳森伯格1950–60年代Combine，油彩、丝网、新闻纸与织物金属木条等实物残片同处一画布，绘画与废件浮雕融合，非纯拼贴、非纯集合雕塑、非干净波普丝网。",
+    "source": "hermes-explore",
+    "image": "styles/1909-combine-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1867",
+    "slug": "supports-surfaces",
+    "name_en": "Supports/Surfaces",
+    "name_zh": "支撑与表面",
+    "description_en": "Supports/Surfaces: French late-1960s group — unstretched stained canvas, visible stretcher bars, draped or pinned fabric as the picture plane, painting that declares its own support — not Color Field soak-stain, not Arte Povera junk, not fashion drapery.",
+    "description_zh": "支撑与表面：法国1960年代末画派，未绷染色画布、外露内框、垂挂或钉住的织物即画面，绘画自我揭示支撑，非色域浸泡染色、非贫穷艺术废件、非时装垂坠。",
+    "source": "hermes-explore",
+    "image": "styles/1910-supports-surfaces.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1868",
+    "slug": "neue-wilde",
+    "name_en": "Neue Wilde",
+    "name_zh": "新野兽派",
+    "description_en": "Neue Wilde: German 1980s Junge Wilde neo-expressionism — crude thick impasto, raw contour, saturated complementary clashes, graffiti-like speed — not Die Brücke woodcut angularity, not Basquiat crowns, not decorative Fauvism.",
+    "description_zh": "新野兽派：德国1980年代青年狂野新表现主义，粗厚厚涂、生硬轮廓、高饱和补色对撞、涂鸦式速度，非桥社木刻棱角、非巴斯奎特王冠、非装饰野兽派。",
+    "source": "hermes-explore",
+    "image": "styles/1911-neue-wilde.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1869",
+    "slug": "pittura-colta",
+    "name_en": "Pittura Colta",
+    "name_zh": "博学绘画",
+    "description_en": "Pittura Colta: Italian 1970s–80s Anacronismo citationism — polished neoclassical oil quoting Greco-Roman statue light and Mannerist pose, academic glaze, anachronistic contemporary face in antique painting language — not Pre-Raphaelite, not Photorealism, not Valori Plastici mannequins.",
+    "description_zh": "博学绘画：意大利1970–80年代错时引用派，精研新古典油画引用希腊罗马雕像光与样式主义姿态、学院釉染、古董画语中的当代面孔，非拉斐尔前派、非照相写实、非造型价值假人。",
+    "source": "hermes-explore",
+    "image": "styles/1912-pittura-colta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1870",
+    "slug": "zero-group",
+    "name_en": "ZERO Group",
+    "name_zh": "零派",
+    "description_en": "ZERO Group: Düsseldorf 1957–66 (Mack, Piene, Uecker) — white monochrome relief, nail fields, fire-stenciled soot circles, structured kinetic light, pale metallic vibration — not Fontana Spatialism slashes, not Minimalist boxes, not Op Art geometry.",
+    "description_zh": "零派：杜塞尔多夫1957–66年（麦克、皮内、乌克尔），白色单色浮雕、钉阵、火熏烟圈、结构动态光、浅金属颤动，非丰塔纳空间主义割裂、非极简盒子、非欧普几何。",
+    "source": "hermes-explore",
+    "image": "styles/1913-zero-group.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
