@@ -5686,6 +5686,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2068, PNG count 2068. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 406 (exactly 5, h2026–h2030)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                           |
+|-------|----------------|-------------|---------------------------------|
+| h2026 | Fluorotype     | 氟盐印相    | styles/2069-fluorotype.png      |
+| h2027 | Bodycolor      | 不透明水色  | styles/2070-bodycolor.png       |
+| h2028 | Fusuma-e       | 襖绘        | styles/2071-fusuma-e.png        |
+| h2029 | Taille Directe | 直接雕刻    | styles/2072-taille-directe.png  |
+| h2030 | Etched Glass   | 蚀刻玻璃    | styles/2073-etched-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2073, PNG count 2073. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

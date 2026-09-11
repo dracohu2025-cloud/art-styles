@@ -26882,5 +26882,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2026",
+    "slug": "fluorotype",
+    "name_en": "Fluorotype",
+    "name_zh": "氟盐印相",
+    "description_en": "Fluorotype: 1840s fluoride-salt print, mustard-to-tawny chemical stain on rag paper with fogged midtones.",
+    "description_zh": "氟盐印相：1840年代氟盐印相，芥黄至褐黄化学渍染于棉纸，中间调微雾。",
+    "source": "hermes-explore",
+    "image": "styles/2069-fluorotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2027",
+    "slug": "bodycolor",
+    "name_en": "Bodycolor",
+    "name_zh": "不透明水色",
+    "description_en": "Bodycolor: British bodycolour — matte opaque watercolor in covering layers, highlights painted last, no oil glaze.",
+    "description_zh": "不透明水色：英式不透明水彩，覆盖性哑光层叠，高光后提，无油性罩染。",
+    "source": "hermes-explore",
+    "image": "styles/2070-bodycolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2028",
+    "slug": "fusuma-e",
+    "name_en": "Fusuma-e",
+    "name_zh": "襖绘",
+    "description_en": "Fusuma-e: Japanese sliding-door painting in mineral pigment on gold-leaf paper, panel seams and architectural scale.",
+    "description_zh": "襖绘：日本隔扇画，金箔纸上岩彩，门扇接缝与建筑尺度。",
+    "source": "hermes-explore",
+    "image": "styles/2071-fusuma-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2029",
+    "slug": "taille-directe",
+    "name_en": "Taille Directe",
+    "name_zh": "直接雕刻",
+    "description_en": "Taille directe: modernist direct carving — form found by chisel in stone, faceted planes and visible tool marks.",
+    "description_zh": "直接雕刻：现代主义直接雕法，以凿入石发现形体，棱面与刀痕可见。",
+    "source": "hermes-explore",
+    "image": "styles/2072-taille-directe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2030",
+    "slug": "etched-glass",
+    "name_en": "Etched Glass",
+    "name_zh": "蚀刻玻璃",
+    "description_en": "Etched glass: acid-frosted plate glass, matte bite versus clear polish, translucent depth — not paper intaglio.",
+    "description_zh": "蚀刻玻璃：酸蚀磨砂平板玻璃，哑光咬蚀对透明抛光，通透纵深，非纸本凹版。",
+    "source": "hermes-explore",
+    "image": "styles/2073-etched-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
