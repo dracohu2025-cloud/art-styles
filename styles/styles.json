@@ -24672,5 +24672,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1856",
+    "slug": "kapism",
+    "name_en": "Kapism",
+    "name_zh": "卡皮主义",
+    "description_en": "Kapism: 1930s Polish Kapists (Komitet Paryski) colorism — constructive Cézanne-like oil planes, muted dusty rose, warm grey, ochre and sage, volume built by adjacent color, no black contour — not Fauvist riot, not Impressionist broken stroke, not photoreal finish.",
+    "description_zh": "卡皮主义：1930年代波兰卡皮派（巴黎委员会）色彩主义，塞尚式建构色面、灰粉赭绿低饱和、以色块邻接塑形、无黑轮廓，非野兽派狂色、非印象派碎笔、非照片写实。",
+    "source": "hermes-explore",
+    "image": "styles/1899-kapism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1857",
+    "slug": "white-writing",
+    "name_en": "White Writing",
+    "name_zh": "白色书写",
+    "description_en": "White Writing: Mark Tobey calligraphic all-over — dense flickering pale linear script over tempera-gouache, figure dissolving into a white-web field, cool grey umber chalk — not asemic blot, not Zenga splash, not Action Painting drip, not readable letters.",
+    "description_zh": "白色书写：托比式全幅书法网，浅色细线密织于水粉底、人物溶入白线场、冷灰褐白闪烁，非无字天书色块、非禅画泼墨、非行动绘画滴洒、非可读文字。",
+    "source": "hermes-explore",
+    "image": "styles/1900-white-writing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1858",
+    "slug": "scuola-romana",
+    "name_en": "Scuola Romana",
+    "name_zh": "罗马画派",
+    "description_en": "Scuola Romana: 1920s–40s Scuola di via Cavour (Scipione, Mafai, Raphaël) — tonal expressionist oil, bituminous darks, feverish crimson and copper, thick loaded brush, baroque-twisted modern Rome — not Novecento Italiano monumentality, not Valori Plastici mannequins, not Pittura Metafisica arcades.",
+    "description_zh": "罗马画派：1920–40年代卡武尔街画派（西皮奥内／马法伊／拉斐尔），调性表现油画、沥青暗部、炽热绯红与铜褐、厚涂、巴洛克扭曲的现代罗马，非二十世纪派纪念碑、非造型价值假人、非形而上空廊。",
+    "source": "hermes-explore",
+    "image": "styles/1901-scuola-romana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1859",
+    "slug": "young-poland",
+    "name_en": "Young Poland",
+    "name_zh": "青年波兰",
+    "description_en": "Young Poland: Młoda Polska symbolist-decorative painting c.1895–1914 — Wyspiański-like stained-glass contour, pastel and tempera, muted jewel greens and dusty violet, national-romantic flora, poster-flat space — not French Art Nouveau, not Jugendstil, not Vienna Secession gold.",
+    "description_zh": "青年波兰：约1895–1914年波兰象征装饰绘画，维斯皮安斯基式彩窗轮廓、粉彩与蛋彩、沉宝石绿与灰紫、民族浪漫花卉、海报式浅空间，非法式新艺术、非青春风格、非维也纳分离派金地。",
+    "source": "hermes-explore",
+    "image": "styles/1902-young-poland.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1860",
+    "slug": "formism",
+    "name_en": "Formism",
+    "name_zh": "波兰形式派",
+    "description_en": "Formism: Polish Formizm 1917–1922 (Chwistek, Czyżewski) — decorative cubist fragmentation, crystalline facets, folkloric high-key color, Zakopane-modernist geometry, rhythmic broken planes that still read as figure — not analytical Cubism, not Futurist speed lines, not Unism flat unity.",
+    "description_zh": "波兰形式派：1917–1922年波兰形式主义（赫维斯特克／奇热夫斯基），装饰立体碎面、结晶体块、民俗高调色彩、扎科帕内现代几何、仍可读为人形的节奏碎面，非分析立体主义、非未来主义速度线、非单质主义平面统一。",
+    "source": "hermes-explore",
+    "image": "styles/1903-formism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

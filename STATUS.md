@@ -5207,6 +5207,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1898, PNG count 1898. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 372 (exactly 5, h1856–h1860)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                            |
+|-------|----------------|-------------|----------------------------------|
+| h1856 | Kapism         | 卡皮主义    | styles/1899-kapism.png           |
+| h1857 | White Writing  | 白色书写    | styles/1900-white-writing.png    |
+| h1858 | Scuola Romana  | 罗马画派    | styles/1901-scuola-romana.png    |
+| h1859 | Young Poland   | 青年波兰    | styles/1902-young-poland.png     |
+| h1860 | Formism        | 波兰形式派  | styles/1903-formism.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1903, PNG count 1903. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
