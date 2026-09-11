@@ -5347,6 +5347,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1948, PNG count 1948. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 382 (exactly 5, h1906–h1910)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh        | image                              |
+|-------|----------------|----------------|------------------------------------|
+| h1906 | Simultanism    | 同时主义       | styles/1949-simultanism.png        |
+| h1907 | Manueline      | 曼努埃尔式     | styles/1950-manueline.png          |
+| h1908 | Hiberno-Saxon  | 希伯诺-撒克逊  | styles/1951-hiberno-saxon.png      |
+| h1909 | Borre Style    | 博勒风格       | styles/1952-borre-style.png        |
+| h1910 | Hallstatt      | 哈尔施塔特     | styles/1953-hallstatt.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1953, PNG count 1953. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

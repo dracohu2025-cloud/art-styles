@@ -25322,5 +25322,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1906",
+    "slug": "simultanism",
+    "name_en": "Simultanism",
+    "name_zh": "同时主义",
+    "description_en": "Overlapping spectral discs and complementary color chords; Delaunay simultaneous contrast.",
+    "description_zh": "交叠光谱圆盘与互补色和弦；德劳内同时对比。",
+    "source": "hermes-explore",
+    "image": "styles/1949-simultanism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1907",
+    "slug": "manueline",
+    "name_en": "Manueline",
+    "name_zh": "曼努埃尔式",
+    "description_en": "Portuguese late-Gothic stone: twisted ropes, armillary spheres, maritime flora.",
+    "description_zh": "葡萄牙晚期哥特石雕：绞绳、浑仪、航海植物纹。",
+    "source": "hermes-explore",
+    "image": "styles/1950-manueline.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1908",
+    "slug": "hiberno-saxon",
+    "name_en": "Hiberno-Saxon",
+    "name_zh": "希伯诺-撒克逊",
+    "description_en": "Insular carpet-page knotwork, trumpet spirals, zoomorphic interlace on vellum.",
+    "description_zh": "岛国地毯页结饰、喇叭涡卷、兽形交织与犊皮纸彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/1951-hiberno-saxon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1909",
+    "slug": "borre-style",
+    "name_en": "Borre Style",
+    "name_zh": "博勒风格",
+    "description_en": "Viking ring-chain interlace and gripping-beast masks in low-relief metal.",
+    "description_zh": "维京环链交织与抓握兽面的浅浮雕金属饰。",
+    "source": "hermes-explore",
+    "image": "styles/1952-borre-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1910",
+    "slug": "hallstatt",
+    "name_en": "Hallstatt",
+    "name_zh": "哈尔施塔特",
+    "description_en": "Early Iron Age geometric meanders, concentric bosses, situla-art incision.",
+    "description_zh": "早期铁器时代几何回纹、同心凸饰与坐桶纹刻。",
+    "source": "hermes-explore",
+    "image": "styles/1953-hallstatt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
