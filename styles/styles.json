@@ -24542,5 +24542,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1846",
+    "slug": "neo-concretism",
+    "name_en": "Neo-Concretism",
+    "name_zh": "新具体主义",
+    "description_en": "Neo-Concretism: Brazilian Neoconcretismo after Clark, Oiticica, Pape — hinged organic geometry, tactile painted slabs, spatial color planes that fold like Bicho reliefs, saturated primaries with black and raw canvas — not De Stijl grids, not Op Art dazzle, not Constructivist photomontage.",
+    "description_zh": "新具体主义：巴西Neoconcretismo克拉克／奥伊蒂西卡／帕佩一路，铰接有机几何、可触色板、如Bicho浮雕般折叠的空间色面、饱和原色配黑与生画布，非风格派网格、非欧普眩光、非构成主义照片拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/1889-neo-concretism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1847",
+    "slug": "valori-plastici",
+    "name_en": "Valori Plastici",
+    "name_zh": "造型价值",
+    "description_en": "Valori Plastici: Italian return-to-order painting around the 1918–22 journal — closed contours, chalky tempera-oil, solid cubes cylinders bottles and plaster as plastic values, still-air atelier light — not Metaphysical empty piazzas, not Neoclassical marble heroics, not Cubist facets.",
+    "description_zh": "造型价值：1918–22年同名期刊一系意大利回归秩序绘画，闭合轮廓、粉质蛋彩油画、立方圆柱瓶罐与石膏作为造型价值、静气画室光，非形而上空广场、非新古典大理石英雄、非立体派切面。",
+    "source": "hermes-explore",
+    "image": "styles/1890-valori-plastici.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1848",
+    "slug": "fantastic-realism",
+    "name_en": "Fantastic Realism",
+    "name_zh": "幻想现实主义",
+    "description_en": "Fantastic Realism: Vienna School (Fuchs, Brauer, Hausner) — old-master oil glazes, jewel-enamel density, Mannerist space, alchemical botanicals and crystalline architecture, microscopic filigree — not Surrealist melt, not Magic Realism suburb, not Byzantine gold-ground icons.",
+    "description_zh": "幻想现实主义：维也纳学派（福克斯／布劳尔／豪斯纳），古典多层釉染、宝石珐琅密度、样式主义空间、炼金植物与晶石建筑、微观金银丝，非超现实融化、非魔幻现实市郊、非拜占庭金地圣像。",
+    "source": "hermes-explore",
+    "image": "styles/1891-fantastic-realism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1849",
+    "slug": "hairy-who",
+    "name_en": "Hairy Who",
+    "name_zh": "毛发帮",
+    "description_en": "Hairy Who: 1960s Chicago Imagism subgroup (Nutt, Nilsson, Wirsum, Rocca) — hot enamel acrylic, rubbery cartoon joints, pattern-packed interiors, black comic outlines, clashing complements, word-balloon shapes as mute graphic blobs — not Pop Art Ben-Day ads, not Superflat, not underground comix grit.",
+    "description_zh": "毛发帮：1960年代芝加哥意象派支系（纳特／尼尔森／沃森／罗卡），热珐琅丙烯、橡胶卡通关节、图案堆满室内、黑漫画线、互补色对撞、无字气球作为纯图形团块，非波普本戴网点广告、非超扁平、非地下漫画粗粝。",
+    "source": "hermes-explore",
+    "image": "styles/1892-hairy-who.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1850",
+    "slug": "bay-area-figurative",
+    "name_en": "Bay Area Figurative",
+    "name_zh": "湾区具象",
+    "description_en": "Bay Area Figurative: 1950s–60s San Francisco (Park, Bischoff, Diebenkorn figurative years) — loaded oil slabs that still describe a body, warm ochre Bay light, painterly studio or sun-porch, visible canvas weave — not pure AbEx, not Ocean Park grids, not plein-air Impressionism, not photoreal finish.",
+    "description_zh": "湾区具象：1950–60年代旧金山（帕克／比肖夫／迪本科恩具象时期），厚油色块仍能塑形、暖赭湾区光、画室或日光廊、可见画布织纹，非纯抽象表现、非海洋公园网格、非外光印象派、非照片写实。",
+    "source": "hermes-explore",
+    "image": "styles/1893-bay-area-figurative.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

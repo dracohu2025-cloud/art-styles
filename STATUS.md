@@ -5179,6 +5179,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1888, PNG count 1888. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 370 (exactly 5, h1846–h1850)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                  |
+|-------|----------------------|-----------------|----------------------------------------|
+| h1846 | Neo-Concretism       | 新具体主义      | styles/1889-neo-concretism.png         |
+| h1847 | Valori Plastici      | 造型价值        | styles/1890-valori-plastici.png        |
+| h1848 | Fantastic Realism    | 幻想现实主义    | styles/1891-fantastic-realism.png      |
+| h1849 | Hairy Who            | 毛发帮          | styles/1892-hairy-who.png              |
+| h1850 | Bay Area Figurative  | 湾区具象        | styles/1893-bay-area-figurative.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1893, PNG count 1893. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
