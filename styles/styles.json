@@ -26427,5 +26427,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1991",
+    "slug": "malachite",
+    "name_en": "Malachite",
+    "name_zh": "石绿",
+    "description_en": "Coarse malachite mineral green: crystalline copper-green particles, layered rock-color body, granular light catch on sized ground.",
+    "description_zh": "石绿：粗颗粒孔雀石矿物色，层层岩彩体色，颗粒折光于胶矾底。",
+    "source": "hermes-explore",
+    "image": "styles/2034-malachite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1992",
+    "slug": "orpiment",
+    "name_en": "Orpiment",
+    "name_zh": "雌黄",
+    "description_en": "Historic orpiment yellow: lemon-gold arsenic-sulfide mineral body, sparkling crystalline grains, opaque rock-color on sized silk or paper.",
+    "description_zh": "雌黄：柠檬金硫化砷矿物色，结晶闪光颗粒，不透明岩彩体于胶矾纸绢。",
+    "source": "hermes-explore",
+    "image": "styles/2035-orpiment.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1993",
+    "slug": "verdigris",
+    "name_en": "Verdigris",
+    "name_zh": "铜绿",
+    "description_en": "Copper-acetate verdigris: translucent teal-to-emerald glazes, glassy resinous sheen, slightly unstable Renaissance copper-green over warm ground.",
+    "description_zh": "铜绿：醋酸铜透明青绿釉层，树脂玻璃光泽，略不安定的文艺复兴铜绿罩于暖底。",
+    "source": "hermes-explore",
+    "image": "styles/2036-verdigris.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1994",
+    "slug": "gamboge",
+    "name_en": "Gamboge",
+    "name_zh": "藤黄",
+    "description_en": "Gum-resin gamboge yellow: saffron-gold transparent washes, glowing vine-yellow stain, slightly sticky resin bloom on paper.",
+    "description_zh": "藤黄：树胶树脂黄，藏红金色透明渲染，藤黄渍染微黏开花于纸上。",
+    "source": "hermes-explore",
+    "image": "styles/2037-gamboge.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1995",
+    "slug": "ultramarine",
+    "name_en": "Ultramarine",
+    "name_zh": "群青",
+    "description_en": "Ground lapis ultramarine: deep royal-to-violet blue, granular lapis with gold pyrite specks, costly medieval pigment body.",
+    "description_zh": "群青：研磨青金石蓝，皇家蓝偏紫，颗粒中夹黄铁矿金点，昂贵中世纪矿物体色。",
+    "source": "hermes-explore",
+    "image": "styles/2038-ultramarine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
