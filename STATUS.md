@@ -5473,6 +5473,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1993, PNG count 1993. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 391 (exactly 5, h1951–h1955)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh  | image                         |
+|-------|-------------|---------|-------------------------------|
+| h1951 | Sumerian    | 苏美尔   | styles/1994-sumerian.png      |
+| h1952 | Phoenician  | 腓尼基   | styles/1995-phoenician.png    |
+| h1953 | Kushan      | 贵霜     | styles/1996-kushan.png        |
+| h1954 | Baekje      | 百济     | styles/1997-baekje.png        |
+| h1955 | Chavin      | 查文     | styles/1998-chavin.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1998, PNG count 1998. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

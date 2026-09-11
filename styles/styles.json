@@ -25907,5 +25907,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1951",
+    "slug": "sumerian",
+    "name_en": "Sumerian",
+    "name_zh": "苏美尔",
+    "description_en": "Sumerian votive-inlay language: calcite and bitumen, lapis-shell eyes, kaunakes petal locks, cylinder-seal registers, gold-edged cuneiform bands.",
+    "description_zh": "苏美尔还愿镶嵌语汇：方解石与沥青、青金石贝壳眼、羊毛裙瓣状叠纹、滚筒印章分栏、金边楔形字带。",
+    "source": "hermes-explore",
+    "image": "styles/1994-sumerian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1952",
+    "slug": "phoenician",
+    "name_en": "Phoenician",
+    "name_zh": "腓尼基",
+    "description_en": "Phoenician ivory-gold language: openwork plaques, palmette-lotus chains, Tyrian purple, glass-paste eyes, Egyptianizing winged-disk frames.",
+    "description_zh": "腓尼基象牙金工语汇：透雕牙板、棕叶莲花链、推罗紫、玻璃料嵌眼、埃及化翼日轮边框。",
+    "source": "hermes-explore",
+    "image": "styles/1995-phoenician.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1953",
+    "slug": "kushan",
+    "name_en": "Kushan",
+    "name_zh": "贵霜",
+    "description_en": "Kushan syncretic sculpture: Mathura red sandstone, Gandharan drapery, round halo, drill-cut jewelry, coral-turquoise inlay, tribhanga stance.",
+    "description_zh": "贵霜融合雕塑：马图拉红砂岩、犍陀罗衣褶、圆光、钻孔珠宝、珊瑚松石镶嵌、三屈姿态。",
+    "source": "hermes-explore",
+    "image": "styles/1996-kushan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1954",
+    "slug": "baekje",
+    "name_en": "Baekje",
+    "name_zh": "百济",
+    "description_en": "Baekje gilt-bronze aesthetic: gentle smile, flame nimbus, lotus pedestal, pale gilt on dark lacquer, incised vine scrolls, soft rounded modeling.",
+    "description_zh": "百济金铜语汇：温和笑意、火焰举身光、莲座、浅金对黑漆、阴刻卷草、圆润塑形。",
+    "source": "hermes-explore",
+    "image": "styles/1997-baekje.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1955",
+    "slug": "chavin",
+    "name_en": "Chavin",
+    "name_zh": "查文",
+    "description_en": "Chavín contour-rivalry relief: incised granite, anatropic line, staff-god symmetry, jaguar-serpent pattern, Strombus motifs, planar stone volumes.",
+    "description_zh": "查文轮廓对读浮雕：阴刻花岗石、可倒置线条、权杖神对称、美洲豹-蛇纹、法螺母题、块面石体。",
+    "source": "hermes-explore",
+    "image": "styles/1998-chavin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
