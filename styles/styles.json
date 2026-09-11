@@ -24022,5 +24022,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1806",
+    "slug": "reticulation",
+    "name_en": "Reticulation",
+    "name_zh": "网纹熔银",
+    "description_en": "Reticulation: heated sterling whose surface wrinkles into orange-peel fire-scale, dendritic freeze ridges and black oxide valleys — not mokume-gane, not reticello glass, not opus reticulatum masonry.",
+    "description_zh": "网纹熔银：银面过热起皱的橘皮火垢、枝状凝固脊与氧化谷，非木目金、非网纹玻璃、非网状砌工。",
+    "source": "hermes-explore",
+    "image": "styles/1849-reticulation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1807",
+    "slug": "kuancai",
+    "name_en": "Kuancai",
+    "name_zh": "款彩",
+    "description_en": "Kuancai: incised-and-filled polychrome lacquer, knife-cut channels packed with mineral color on a glossy black ground — not tihong carved layers, not qiangjin gold-only engraving, not cloisonné wire.",
+    "description_zh": "款彩：阴刻填彩漆、刀刻凹槽填入矿物色与黑漆亮地，非剔红层雕、非戗金、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/1850-kuancai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1808",
+    "slug": "fixe-sous-verre",
+    "name_en": "Fixé-sous-verre",
+    "name_zh": "玻璃下固色",
+    "description_en": "Fixé-sous-verre: a thin painting or print varnished face-down and sealed under glass, drowned color, Newton rings and sliding speculars — not hinterglasmalerei reverse painting, not verre églomisé gold.",
+    "description_zh": "玻璃下固色：薄画或印纸正面刷胶贴于玻璃下、水色下沉与牛顿环反光，非玻璃背面彩绘、非反画镀金。",
+    "source": "hermes-explore",
+    "image": "styles/1851-fixe-sous-verre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1809",
+    "slug": "mizuhiki",
+    "name_en": "Mizuhiki",
+    "name_zh": "水引",
+    "description_en": "Mizuhiki: ceremonial twisted washi cords in awaji and plum knots, red-white-gold bundles building the figure — not macramé, not kumihimo braid, not embroidery floss.",
+    "description_zh": "水引：和纸捻线礼仪结、淡路结与梅结、红白金束构成形象，非马克拉梅、非组纽、非绣线。",
+    "source": "hermes-explore",
+    "image": "styles/1852-mizuhiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1810",
+    "slug": "kimekomi",
+    "name_en": "Kimekomi",
+    "name_zh": "木目込",
+    "description_en": "Kimekomi: silk and chirimen tucked into grooved paulownia channels, padded cloth facets and visible slit-lines — not a doll catalog object, not patchwork quilt, not kintsugi.",
+    "description_zh": "木目込：绸与缩缅嵌入桐木刻槽、布面鼓起与缝线槽口，非人偶商品照、非拼布、非金缮。",
+    "source": "hermes-explore",
+    "image": "styles/1853-kimekomi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

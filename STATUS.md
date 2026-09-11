@@ -5067,6 +5067,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1848, PNG count 1848. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 362 (exactly 5, h1806–h1810)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                               |
+|-------|------------------|---------------|-------------------------------------|
+| h1806 | Reticulation     | 网纹熔银      | styles/1849-reticulation.png        |
+| h1807 | Kuancai          | 款彩          | styles/1850-kuancai.png             |
+| h1808 | Fixé-sous-verre  | 玻璃下固色    | styles/1851-fixe-sous-verre.png     |
+| h1809 | Mizuhiki         | 水引          | styles/1852-mizuhiki.png            |
+| h1810 | Kimekomi         | 木目込        | styles/1853-kimekomi.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1853, PNG count 1853. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
