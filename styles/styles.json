@@ -25452,5 +25452,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1916",
+    "slug": "daedalic",
+    "name_en": "Daedalic",
+    "name_zh": "代达罗斯式",
+    "description_en": "Early Archaic Greek Daedalic carving: triangular faces, Etagenperücke hair, incised peplos folds, limestone kore frontality.",
+    "description_zh": "早期古风希腊代达罗斯式雕刻：三角面、层叠假发、阴刻佩普洛斯褶与石灰石正面律。",
+    "source": "hermes-explore",
+    "image": "styles/1959-daedalic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1917",
+    "slug": "perpendicular-gothic",
+    "name_en": "Perpendicular Gothic",
+    "name_zh": "垂直式哥特",
+    "description_en": "English Perpendicular Gothic: rectilinear panel tracery, fan vaults, four-centered arches, grid stained glass.",
+    "description_zh": "英格兰垂直式哥特：网格窗花、扇形拱顶、四心拱与大幅彩色玻璃格。",
+    "source": "hermes-explore",
+    "image": "styles/1960-perpendicular-gothic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1918",
+    "slug": "urnes-style",
+    "name_en": "Urnes Style",
+    "name_zh": "乌尔内斯风格",
+    "description_en": "Late Viking Urnes wood-carving: slender figure-eight ribbon beasts, open interlace, stave-church portal relief.",
+    "description_zh": "晚期维京乌尔内斯木雕：细长8字环带兽、疏朗交缠与木板教堂门廊浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/1961-urnes-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1919",
+    "slug": "gupta",
+    "name_en": "Gupta",
+    "name_zh": "笈多",
+    "description_en": "Gupta classical Indian form: Sarnath softness, lotus eyes, tribhanga sway, clinging wet drapery in warm sandstone.",
+    "description_zh": "笈多古典印度造型：鹿野苑柔润、莲瓣眼、三屈势与暖砂岩湿衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/1962-gupta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1920",
+    "slug": "fatimid",
+    "name_en": "Fatimid",
+    "name_zh": "法蒂玛",
+    "description_en": "Fatimid figural luster and ivory: gold-on-cream roundels, palmette arabesques, Kufic borders, Fustat court line.",
+    "description_zh": "法蒂玛人物虹彩与象牙：金米色团窠、棕叶卷草、库法边饰与福斯塔特宫廷线描。",
+    "source": "hermes-explore",
+    "image": "styles/1963-fatimid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

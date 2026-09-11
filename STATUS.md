@@ -5375,6 +5375,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1958, PNG count 1958. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 384 (exactly 5, h1916–h1920)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh       | image                                   |
+|-------|-----------------------|---------------|-----------------------------------------|
+| h1916 | Daedalic              | 代达罗斯式    | styles/1959-daedalic.png                |
+| h1917 | Perpendicular Gothic  | 垂直式哥特    | styles/1960-perpendicular-gothic.png    |
+| h1918 | Urnes Style           | 乌尔内斯风格  | styles/1961-urnes-style.png             |
+| h1919 | Gupta                 | 笈多          | styles/1962-gupta.png                   |
+| h1920 | Fatimid               | 法蒂玛        | styles/1963-fatimid.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1963, PNG count 1963. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
