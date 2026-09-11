@@ -25127,5 +25127,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1891",
+    "slug": "quattrocento",
+    "name_en": "Quattrocento",
+    "name_zh": "十五世纪绘画",
+    "description_en": "Quattrocento: 15th-century Early Renaissance Italian panel — egg tempera hatching, clear local color, linear perspective tiled floor, shallow architectural box, gold-leaf brocade, Botticelli/Ghirlandaio contour — not High Renaissance sfumato, not International Gothic.",
+    "description_zh": "十五世纪绘画：意大利早期文艺复兴木板——蛋彩排线、明确固有色、一点透视地砖、浅进深建筑盒、金箔织锦、波提切利/吉兰达约式轮廓，非盛期文艺复兴烟雾法，非国际哥特。",
+    "source": "hermes-explore",
+    "image": "styles/1934-quattrocento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1892",
+    "slug": "gothic-revival",
+    "name_en": "Gothic Revival",
+    "name_zh": "哥特复兴",
+    "description_en": "Gothic Revival: 19th-century Neo-Gothic pictorial language — lancet arches, bar tracery, soaring ribs, polychrome stone, encaustic tile, stained-glass jewel light, Pugin-Barry Victorian medievalism — not International Gothic, not Flamboyant manuscript.",
+    "description_zh": "哥特复兴：19世纪新哥特绘画语言——尖券、花式窗棂、高耸肋架、多色石材、釉面花砖、彩窗宝石光、普金/巴里式维多利亚中世纪主义，非国际哥特，非火焰哥特手稿。",
+    "source": "hermes-explore",
+    "image": "styles/1935-gothic-revival.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1893",
+    "slug": "grand-manner",
+    "name_en": "Grand Manner",
+    "name_zh": "宏大体",
+    "description_en": "Grand Manner: Reynolds/academic elevated portrait oil — full-length bravura drapery, classical column and park backdrop, warm flesh, noble triangular composition — not Mannerism, not Rococo fête galante, not photorealism.",
+    "description_zh": "宏大体：雷诺兹式学院高华肖像油画——全身衣褶挥写、古典柱与园林背景、暖色肌理、稳定三角构图，非样式主义，非洛可可游乐，非照片写实。",
+    "source": "hermes-explore",
+    "image": "styles/1936-grand-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1894",
+    "slug": "vanitas",
+    "name_en": "Vanitas",
+    "name_zh": "虚空静物",
+    "description_en": "Vanitas: Dutch Golden Age vanitas oil — skull, snuffed candle, hourglass, soap bubble, wilting roses, overturned goblet, brown-gold studio chiaroscuro as moral transience system — not generic still life, not horror.",
+    "description_zh": "虚空静物：荷兰黄金时代虚空油画——颅骨、熄烛、沙漏、肥皂泡、凋玫瑰、倾覆酒杯、棕金画室明暗作为无常图像系统，非普通静物，非恐怖。",
+    "source": "hermes-explore",
+    "image": "styles/1937-vanitas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1895",
+    "slug": "pronkstilleven",
+    "name_en": "Pronkstilleven",
+    "name_zh": "炫耀静物",
+    "description_en": "Pronkstilleven: 17th-century Dutch ostentatious banquet still life — piled silver, kraak porcelain, lemon spiral, lobster, grapes on Persian carpet, rich glaze and raking window light — not breakfast piece, not vanitas skulls.",
+    "description_zh": "炫耀静物：17世纪荷兰豪华宴席静物——堆叠银器、克拉克瓷、螺旋柠檬皮、龙虾、波斯毯上的葡萄、厚釉与侧窗光，非早餐小品，非虚空颅骨。",
+    "source": "hermes-explore",
+    "image": "styles/1938-pronkstilleven.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

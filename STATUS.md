@@ -5305,6 +5305,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1933, PNG count 1933. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 379 (exactly 5, h1891–h1895)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                              |
+|-------|------------------|-------------|------------------------------------|
+| h1891 | Quattrocento     | 十五世纪绘画 | styles/1934-quattrocento.png      |
+| h1892 | Gothic Revival   | 哥特复兴    | styles/1935-gothic-revival.png     |
+| h1893 | Grand Manner     | 宏大体      | styles/1936-grand-manner.png       |
+| h1894 | Vanitas          | 虚空静物    | styles/1937-vanitas.png            |
+| h1895 | Pronkstilleven   | 炫耀静物    | styles/1938-pronkstilleven.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1938, PNG count 1938. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
