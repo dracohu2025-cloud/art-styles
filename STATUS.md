@@ -5249,6 +5249,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1913, PNG count 1913. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 375 (exactly 5, h1871–h1875)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh           | image                                     |
+|-------|-------------------------|-------------------|-------------------------------------------|
+| h1871 | Light and Space         | 光与空间          | styles/1914-light-and-space.png           |
+| h1872 | New Leipzig School      | 新莱比锡画派      | styles/1915-new-leipzig-school.png        |
+| h1873 | Fillmore Poster         | 菲尔莫尔海报      | styles/1916-fillmore-poster.png           |
+| h1874 | Washington Color School | 华盛顿色彩学派    | styles/1917-washington-color-school.png   |
+| h1875 | Figuration Narrative    | 叙事具象          | styles/1918-figuration-narrative.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1918, PNG count 1918. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

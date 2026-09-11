@@ -24867,5 +24867,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1871",
+    "slug": "light-and-space",
+    "name_en": "Light and Space",
+    "name_zh": "光与空间",
+    "description_en": "Light and Space: California 1960s–70s (Irwin, Turrell, Bell, Wheeler) — perceptual haze, translucent acrylic/resin planes, glowing edge-lit volumes, dematerialized white-to-pale void — not neon cyberpunk, not Color Field pours, not stained glass.",
+    "description_zh": "光与空间：加州1960–70年代（欧文、特瑞尔、贝尔、惠勒），知觉雾霭、半透明亚克力/树脂平面、发光包边体量、去物质化白到浅空，非霓虹赛博、非色域倾倒、非彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1914-light-and-space.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1872",
+    "slug": "new-leipzig-school",
+    "name_en": "New Leipzig School",
+    "name_zh": "新莱比锡画派",
+    "description_en": "New Leipzig School: post-1990s HGB Leipzig figurative oil — muted ochre-gray-green cinematic tableau, dry brush, flattened theatrical depth, enigmatic workshop props — not Magic Realism, not Socialist Realism, not Neue Wilde impasto.",
+    "description_zh": "新莱比锡画派：1990年代后莱比锡图形与书籍艺术学院具象油画，赭灰绿压暗电影式场面、干刷、压平剧场纵深、谜样工作室道具，非魔幻现实、非社会主义现实、非新野兽厚涂。",
+    "source": "hermes-explore",
+    "image": "styles/1915-new-leipzig-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1873",
+    "slug": "fillmore-poster",
+    "name_en": "Fillmore Poster",
+    "name_zh": "菲尔莫尔海报",
+    "description_en": "Fillmore Poster: San Francisco 1966–69 psychedelic concert poster (Wes Wilson, Mouse & Kelley) — vibrating complementary hot-pink/acid-green, swelling biomorphic ornament, paisley-peacock fill, photo-mechanical halftone — not Art Nouveau proper, not Lichtenstein Pop, not vaporwave.",
+    "description_zh": "菲尔莫尔海报：旧金山1966–69迷幻音乐会海报（韦斯·威尔逊、老鼠与凯利），热粉/酸绿互补颤动、膨胀生物形纹样、佩斯利孔雀填充、照相网目，非正统新艺术、非利希滕斯坦波普、非蒸汽波。",
+    "source": "hermes-explore",
+    "image": "styles/1916-fillmore-poster.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1874",
+    "slug": "washington-color-school",
+    "name_en": "Washington Color School",
+    "name_zh": "华盛顿色彩学派",
+    "description_en": "Washington Color School: 1960s D.C. stain painting (Louis, Noland, Davis) — unsized cotton-duck, poured acrylic veils and stripe/chevron soaks, dye-like bleed, no impasto — not Rothko Color Field rectangles, not Hard-edge tape, not Frankenthaler Soak-Stain landscape.",
+    "description_zh": "华盛顿色彩学派：1960年代华盛顿渍染绘画（路易斯、诺兰、戴维斯），未上胶棉布、倾倒丙烯纱幕与条带/人字渍染、染料渗化、无厚涂，非罗斯科色域方块、非硬边胶带、非弗兰肯撒勒浸染风景。",
+    "source": "hermes-explore",
+    "image": "styles/1917-washington-color-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1875",
+    "slug": "figuration-narrative",
+    "name_en": "Figuration Narrative",
+    "name_zh": "叙事具象",
+    "description_en": "Figuration Narrative: French 1960s–70s contemporary figuration (Fromanger, Rancillac, Klasen) — flat poster color planes, photomechanical transfer, comic-adjacent contour, enamel reds and cobalts on cool gray urban freeze — not Warhol Pop, not ligne claire, not photorealism.",
+    "description_zh": "叙事具象：法国1960–70年代当代具象（弗罗芒热、朗西亚克、克拉森），海报式平涂色面、照相转印感、漫画邻接轮廓、珐琅红与钴蓝压在冷灰都市定格上，非沃霍尔波普、非清晰线条、非照相写实。",
+    "source": "hermes-explore",
+    "image": "styles/1918-figuration-narrative.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
