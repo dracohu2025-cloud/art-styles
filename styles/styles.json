@@ -26102,5 +26102,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1966",
+    "slug": "white-chalk",
+    "name_en": "White Chalk",
+    "name_zh": "白粉笔",
+    "description_en": "Pierre blanche drawing: matte powdery white chalk, hatched planes and stump, sparkling dust on warm mid-tone laid paper.",
+    "description_zh": "白粉笔画：哑光粉质白垩、排线与擦笔、暖中间调布纹纸上的粉笔微尘。",
+    "source": "hermes-explore",
+    "image": "styles/2009-white-chalk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1967",
+    "slug": "graphite-stick",
+    "name_en": "Graphite Stick",
+    "name_zh": "石墨条",
+    "description_en": "Woodless graphite bar: broad silvery planes, chisel-edge strokes, smudged gradients, specular graphite shine on paper.",
+    "description_zh": "无木石墨条：宽幅银灰色块面、凿刃笔触、擦晕渐变、纸上的石墨反光。",
+    "source": "hermes-explore",
+    "image": "styles/2010-graphite-stick.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1968",
+    "slug": "zone-plate",
+    "name_en": "Zone Plate",
+    "name_zh": "波带片成像",
+    "description_en": "Zone-plate optics: concentric diffraction rings, radial halo bokeh, interference fringes, no glass-lens sharpness.",
+    "description_zh": "波带片光学：同心衍射环、放射光晕散景、干涉条纹、无玻璃镜头锐度。",
+    "source": "hermes-explore",
+    "image": "styles/2011-zone-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1969",
+    "slug": "india-ink",
+    "name_en": "India Ink",
+    "name_zh": "印度墨",
+    "description_en": "Waterproof carbon-black ink: velvet dense blacks, dip-pen and brush lines, diluted gray washes, high contrast on white paper.",
+    "description_zh": "防水碳黑墨：丝绒浓黑、蘸水笔与毛笔线条、稀释灰洗、白纸上的高反差。",
+    "source": "hermes-explore",
+    "image": "styles/2012-india-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1970",
+    "slug": "watercolor-pencil",
+    "name_en": "Watercolor Pencil",
+    "name_zh": "水彩铅笔",
+    "description_en": "Soluble colored pencil: dry hatching partially activated with water, pigment blooms beside unsulubilized grain on cold-press paper.",
+    "description_zh": "水溶性彩铅：干排线局部水溶、色绽与未溶颗粒并存于冷压水彩纸。",
+    "source": "hermes-explore",
+    "image": "styles/2013-watercolor-pencil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

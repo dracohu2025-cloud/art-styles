@@ -5515,6 +5515,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2008, PNG count 2008. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 394 (exactly 5, h1966–h1970)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                                |
+|-------|-------------------|-------------|--------------------------------------|
+| h1966 | White Chalk       | 白粉笔      | styles/2009-white-chalk.png          |
+| h1967 | Graphite Stick    | 石墨条      | styles/2010-graphite-stick.png       |
+| h1968 | Zone Plate        | 波带片成像  | styles/2011-zone-plate.png           |
+| h1969 | India Ink         | 印度墨      | styles/2012-india-ink.png            |
+| h1970 | Watercolor Pencil | 水彩铅笔    | styles/2013-watercolor-pencil.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2013, PNG count 2013. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
