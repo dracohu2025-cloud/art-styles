@@ -23892,5 +23892,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1796",
+    "slug": "ghost-print",
+    "name_en": "Ghost Print",
+    "name_zh": "残版印",
+    "description_en": "Ghost print: pale second-pull residual ink from a previously printed plate, whisper-thin incomplete transfer and ghosted greys, not a heavy first-state print, not silkscreen, not watercolor.",
+    "description_zh": "残版印：前次印版残留的浅淡二次转印，薄墨残影与未完全着墨，非厚墨初印、非丝网、非水彩。",
+    "source": "hermes-explore",
+    "image": "styles/1839-ghost-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1797",
+    "slug": "phase-contrast",
+    "name_en": "Phase Contrast",
+    "name_zh": "相位差显微",
+    "description_en": "Phase contrast: grey haloed optical microscopy with phase-halo rings and translucent greys, not Nomarski DIC color, not SEM, not fluorescence.",
+    "description_zh": "相位差显微：灰边光晕与半透明灰度的光学显微，非微分干涉彩棱、非扫描电镜、非荧光。",
+    "source": "hermes-explore",
+    "image": "styles/1840-phase-contrast.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1798",
+    "slug": "penrose-tiling",
+    "name_en": "Penrose Tiling",
+    "name_zh": "彭罗斯铺砌",
+    "description_en": "Penrose tiling: aperiodic thin/thick rhombi and kite-dart geometry as the rendering method, not Islamic girih, not regular hexagons, not Voronoi.",
+    "description_zh": "彭罗斯铺砌：非周期的厚薄菱形与风筝-飞镖几何作为整幅造型法，非伊斯兰几何、非正六边、非泰森多边形。",
+    "source": "hermes-explore",
+    "image": "styles/1841-penrose-tiling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1799",
+    "slug": "hard-pastel",
+    "name_en": "Hard Pastel",
+    "name_zh": "硬粉彩",
+    "description_en": "Hard pastel: firm stick strokes, hatched linear layers caught on paper tooth, not soft-pastel blend, not pan-pastel dust, not oil pastel.",
+    "description_zh": "硬粉彩：硬棒线性笔触与纸纹咬住的排线层，非软粉晕染、非盘装色粉扬尘、非油粉彩。",
+    "source": "hermes-explore",
+    "image": "styles/1842-hard-pastel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1800",
+    "slug": "kizil-mural",
+    "name_en": "Kizil Mural",
+    "name_zh": "克孜尔壁画",
+    "description_en": "Kizil mural: Central Asian cave wall painting in mineral pigments on weathered plaster, lapis-malachite-vermilion palette and contour fields, not Dunhuang, not Ajanta, not thangka.",
+    "description_zh": "克孜尔壁画：中亚石窟矿物颜料与风化灰泥，青金石-孔雀石-朱砂平涂勾线，非敦煌、非阿旃陀、非唐卡。",
+    "source": "hermes-explore",
+    "image": "styles/1843-kizil-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

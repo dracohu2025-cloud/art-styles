@@ -5039,6 +5039,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1838, PNG count 1838. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 360 (exactly 5, h1796–h1800)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h1796 | Ghost Print     | 残版印          | styles/1839-ghost-print.png        |
+| h1797 | Phase Contrast  | 相位差显微      | styles/1840-phase-contrast.png     |
+| h1798 | Penrose Tiling  | 彭罗斯铺砌      | styles/1841-penrose-tiling.png     |
+| h1799 | Hard Pastel     | 硬粉彩          | styles/1842-hard-pastel.png        |
+| h1800 | Kizil Mural     | 克孜尔壁画      | styles/1843-kizil-mural.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1843, PNG count 1843. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
