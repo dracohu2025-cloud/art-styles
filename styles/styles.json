@@ -25257,5 +25257,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1901",
+    "slug": "sfregazzi",
+    "name_en": "Sfregazzi",
+    "name_zh": "擦扫笔法",
+    "description_en": "Sfregazzi: Venetian oil dragging — opaque color wiped over warm transparent glazes, broken melted strokes, smoky umber, varnish glow — not smooth glaze-only, not Impressionist dabs.",
+    "description_zh": "擦扫笔法：威尼斯油画擦扫——不透明色擦过温暖透明釉层、断裂融化笔触、烟熏赭影、树脂光泽，非纯罩染平滑，非印象派点戳。",
+    "source": "hermes-explore",
+    "image": "styles/1944-sfregazzi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1902",
+    "slug": "quadro-riportato",
+    "name_en": "Quadro Riportato",
+    "name_zh": "嵌框天顶",
+    "description_en": "Quadro riportato: ceiling fresco as easel pictures set into fictive frames on a vault — matte lime plaster, coffers, giornata joins — not di sotto in sù extreme foreshortening, not quadratura illusion rooms.",
+    "description_zh": "嵌框天顶：把天顶湿壁画当作嵌在虚构画框里的架上画——哑光石灰泥、藻井、工作日接缝，非极度仰视缩短，非透视建筑幻景。",
+    "source": "hermes-explore",
+    "image": "styles/1945-quadro-riportato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1903",
+    "slug": "nim-qalam",
+    "name_en": "Nim-qalam",
+    "name_zh": "半墨细密",
+    "description_en": "Nim-qalam: Mughal half-pen tinted drawing — grey-brown wash, spare local color, reed-pen contour on ivory wasli, album-page restraint — not full polychrome miniature, not Siyah Qalam demons.",
+    "description_zh": "半墨细密：莫卧儿半墨淡彩——灰褐渲染、克制局部设色、芦苇笔轮廓、象牙色画纸、册页留白，非全彩细密，非黑笔魔鬼图。",
+    "source": "hermes-explore",
+    "image": "styles/1946-nim-qalam.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1904",
+    "slug": "commesso",
+    "name_en": "Commesso",
+    "name_zh": "硬石拼画",
+    "description_en": "Commesso: Florentine pictorial pietre dure — cut lapis, jasper, agate, chalcedony and marble fitted with hairline joints, polished mineral blocks, no brushstrokes — not micromosaic tesserae, not painted faux-marble.",
+    "description_zh": "硬石拼画：佛罗伦萨硬石镶嵌绘画——切割青金石、碧玉、玛瑙、玉髓与大理石严丝合缝、抛光矿物色块、无笔触，非微型马赛克，非画仿大理石。",
+    "source": "hermes-explore",
+    "image": "styles/1947-commesso.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1905",
+    "slug": "codex-purpureus",
+    "name_en": "Codex Purpureus",
+    "name_zh": "紫皮金书",
+    "description_en": "Codex Purpureus: Late Antique luxury manuscript — Tyrian-purple dyed parchment, gold and silver chrysography, burnished metal line, faint ruling — not gold-ground icon, not Gothic historiated initial.",
+    "description_zh": "紫皮金书：晚期古典豪华抄本——泰尔紫染羊皮、金银书金、抛光金属线、隐约格线，非金地圣像，非哥特叙事首字母。",
+    "source": "hermes-explore",
+    "image": "styles/1948-codex-purpureus.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

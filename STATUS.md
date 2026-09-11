@@ -5333,6 +5333,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1943, PNG count 1943. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 381 (exactly 5, h1901–h1905)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                                |
+|-------|-------------------|-------------|--------------------------------------|
+| h1901 | Sfregazzi         | 擦扫笔法    | styles/1944-sfregazzi.png            |
+| h1902 | Quadro Riportato  | 嵌框天顶    | styles/1945-quadro-riportato.png     |
+| h1903 | Nim-qalam         | 半墨细密    | styles/1946-nim-qalam.png            |
+| h1904 | Commesso          | 硬石拼画    | styles/1947-commesso.png             |
+| h1905 | Codex Purpureus   | 紫皮金书    | styles/1948-codex-purpureus.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1948, PNG count 1948. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
