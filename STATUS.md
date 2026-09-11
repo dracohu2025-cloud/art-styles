@@ -5657,6 +5657,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2058, PNG count 2058. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+
+## Hermes-explore batch 404 (exactly 5, h2016–h2020)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh       | image                              |
+|-------|-----------------|---------------|------------------------------------|
+| h2016 | Paduan School   | 帕多瓦画派    | styles/2059-paduan-school.png      |
+| h2017 | Ravenna Mosaic  | 拉文纳马赛克  | styles/2060-ravenna-mosaic.png     |
+| h2018 | Bolognese School| 博洛尼亚画派  | styles/2061-bolognese-school.png   |
+| h2019 | Nancy School    | 南锡学派      | styles/2062-nancy-school.png       |
+| h2020 | Cologne School  | 科隆画派      | styles/2063-cologne-school.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2063, PNG count 2063. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

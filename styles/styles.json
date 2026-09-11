@@ -26752,5 +26752,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2016",
+    "slug": "paduan-school",
+    "name_en": "Paduan School",
+    "name_zh": "帕多瓦画派",
+    "description_en": "Paduan School: stone-hard linear perspective, antique relief modeling, dry tempera-oil, sculptural marble drapery.",
+    "description_zh": "帕多瓦画派：坚硬线性透视、古风浮雕塑形、干涩蛋彩油画与大理石般衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2059-paduan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2017",
+    "slug": "ravenna-mosaic",
+    "name_en": "Ravenna Mosaic",
+    "name_zh": "拉文纳马赛克",
+    "description_en": "Ravenna Mosaic: gold-leaf tesserae ground, cube-cut smalti, hierarchical frontal figure, glittering glass grout grid.",
+    "description_zh": "拉文纳马赛克：金箔马赛克地、切粒彩色琉璃、正面层级人物与闪光嵌缝网格。",
+    "source": "hermes-explore",
+    "image": "styles/2060-ravenna-mosaic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2018",
+    "slug": "bolognese-school",
+    "name_en": "Bolognese School",
+    "name_zh": "博洛尼亚画派",
+    "description_en": "Bolognese School: Carracci academic classicism, Venetian color fused with Florentine disegno, warm oil glaze.",
+    "description_zh": "博洛尼亚画派：卡拉奇学院古典、威尼斯色彩与佛罗伦萨素描融合的暖色油釉。",
+    "source": "hermes-explore",
+    "image": "styles/2061-bolognese-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2019",
+    "slug": "nancy-school",
+    "name_en": "Nancy School",
+    "name_zh": "南锡学派",
+    "description_en": "Nancy School: École de Nancy organic Art Nouveau, cameo-glass layers, plant-stem contour, dragonfly and umbel motifs.",
+    "description_zh": "南锡学派：南锡有机新艺术、浮雕玻璃叠层、植物茎线与蜻蜓伞形花纹。",
+    "source": "hermes-explore",
+    "image": "styles/2062-nancy-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2020",
+    "slug": "cologne-school",
+    "name_en": "Cologne School",
+    "name_zh": "科隆画派",
+    "description_en": "Cologne School: Late Gothic gold-ground panel, enamel-smooth tempera, punch-patterned gilding, Rhine jewel brocade.",
+    "description_zh": "科隆画派：晚期哥特金地嵌板、珐琅般蛋彩、压印鎏金与莱茵宝石织锦。",
+    "source": "hermes-explore",
+    "image": "styles/2063-cologne-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
