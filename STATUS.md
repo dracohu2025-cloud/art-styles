@@ -5277,6 +5277,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1923, PNG count 1923. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 377 (exactly 5, h1881–h1885)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                     | name_zh           | image                                         |
+|-------|-----------------------------|-------------------|-----------------------------------------------|
+| h1881 | Arte Nucleare               | 核艺术            | styles/1924-arte-nucleare.png                 |
+| h1882 | Massurrealism               | 大众超现实主义    | styles/1925-massurrealism.png                 |
+| h1883 | Post-Painterly Abstraction  | 后绘画性抽象      | styles/1926-post-painterly-abstraction.png    |
+| h1884 | All-Over Painting           | 满幅绘画          | styles/1927-all-over-painting.png             |
+| h1885 | Shaped Canvas               | 异形画布          | styles/1928-shaped-canvas.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1928, PNG count 1928. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

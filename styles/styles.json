@@ -24997,5 +24997,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1881",
+    "slug": "arte-nucleare",
+    "name_en": "Arte Nucleare",
+    "name_zh": "核艺术",
+    "description_en": "Arte Nucleare: Milan 1951–57 (Baj, Dangelo) — enamel-and-oil matter exploded into radioactive crusts, gold-leaf and fabric collage in cratered impasto, atomic spray dissolving form — not sci-fi illustration, not Informel, not Tachisme.",
+    "description_zh": "核艺术：米兰1951–57（巴伊、丹杰洛），瓷漆与油画炸成放射性结壳、金箔与织物拼贴嵌入坑洼厚涂、原子喷雾溶解形体，非科幻插画、非非定形、非塔希主义。",
+    "source": "hermes-explore",
+    "image": "styles/1924-arte-nucleare.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1882",
+    "slug": "massurrealism",
+    "name_en": "Massurrealism",
+    "name_zh": "大众超现实主义",
+    "description_en": "Massurrealism: 1990s mass-media surrealism (Seehafer lineage) — TV scanlines and print-halftone skins, advertising-layout texture, VHS bloom melting into painted flesh — not 1920s Surrealism, not glitch, not vaporwave.",
+    "description_zh": "大众超现实主义：1990年代大众媒介超现实（西哈弗谱系），电视扫描线与印刷网点皮肤、广告版式肌理、VHS光晕溶入绘制肌肤，非1920年代超现实、非故障、非蒸汽波。",
+    "source": "hermes-explore",
+    "image": "styles/1925-massurrealism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1883",
+    "slug": "post-painterly-abstraction",
+    "name_en": "Post-Painterly Abstraction",
+    "name_zh": "后绘画性抽象",
+    "description_en": "Post-Painterly Abstraction: Greenberg 1964 (Louis veils, Noland chevrons, early Stella bands) — unmodulated stained Magna on raw canvas, thin paint, optical hue, no AbEx gesture or impasto — not Color Field alone, not Hard-Edge alone.",
+    "description_zh": "后绘画性抽象：格林伯格1964（路易斯薄染、诺兰山形纹、早期斯特拉色带），未调制染色马尼亚颜料于生画布、薄涂、光学色相，无抽象表现笔势或厚涂，非单纯色域、非单纯硬边。",
+    "source": "hermes-explore",
+    "image": "styles/1926-post-painterly-abstraction.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1884",
+    "slug": "all-over-painting",
+    "name_en": "All-Over Painting",
+    "name_zh": "满幅绘画",
+    "description_en": "All-Over Painting: equal-weight marks edge to edge (Pollock/Tobey/Riopelle principle) — no hierarchical focal point, no portrait-versus-ground split, shallow interwoven field — not a figure posed in front of drips.",
+    "description_zh": "满幅绘画：等权重笔迹铺满画幅（波洛克/托比/里奥佩尔原则），无等级焦点、无肖像与背景分裂、浅空间交织场域，非站在滴画前的人物。",
+    "source": "hermes-explore",
+    "image": "styles/1927-all-over-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1885",
+    "slug": "shaped-canvas",
+    "name_en": "Shaped Canvas",
+    "name_zh": "异形画布",
+    "description_en": "Shaped Canvas: 1960s non-rectangular support (Stella, Kelly, Hinman) — chevron/polygon silhouette as composition, flat Magna bands, the cut edge doing pictorial work — not a rectangular picture of a shape.",
+    "description_zh": "异形画布：1960年代非矩形画支撑（斯特拉、凯利、欣曼），山形/多边形外轮廓即构图、平坦马尼亚色带、切割边缘参与画面，非画着形状的矩形画。",
+    "source": "hermes-explore",
+    "image": "styles/1928-shaped-canvas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
