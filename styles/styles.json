@@ -24087,5 +24087,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1811",
+    "slug": "koma-nuri",
+    "name_en": "Koma-nuri",
+    "name_zh": "独乐涂",
+    "description_en": "Koma-nuri: spinning-top urushi of concentric polished color rings — cinnabar, black, ochre, green-gold — glassy turned bands, not Komai metal inlay, not mokume-gane, not wood grain.",
+    "description_zh": "独乐涂：如陀螺剖面的同心漆环、朱黑赭绿金、高光抛光色带，非驹井象嵌、非木目金、非木纹。",
+    "source": "hermes-explore",
+    "image": "styles/1854-koma-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1812",
+    "slug": "girasole-glass",
+    "name_en": "Girasole Glass",
+    "name_zh": "向日葵玻璃",
+    "description_en": "Girasole glass: Venetian opal soda glass shifting sunflower-yellow in reflection to sky-blue in transmission, fire-polish and internal arsenate haze — not aventurine goldstone, not favrile, not lattimo.",
+    "description_zh": "向日葵玻璃：威尼斯乳光钠玻、反射葵黄透射天蓝、火抛与砷乳白雾，非金星玻璃、非法夫莱、非乳浊白玻。",
+    "source": "hermes-explore",
+    "image": "styles/1855-girasole-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1813",
+    "slug": "hex-sign",
+    "name_en": "Hex Sign",
+    "name_zh": "六角星纹",
+    "description_en": "Hex sign: Pennsylvania Dutch compass-drawn barn medallions, six- and eight-point stars, scalloped roundels and flat oil on weathered boards — not Fraktur lettering, not quilt piecing, not sand mandala.",
+    "description_zh": "六角星纹：宾州德裔圆规星纹与圆盘、六八角星、齿边与板壁平涂油彩，非弗拉克图尔文字、非拼布、非沙坛城。",
+    "source": "hermes-explore",
+    "image": "styles/1856-hex-sign.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1814",
+    "slug": "bezeklik-mural",
+    "name_en": "Bezeklik Mural",
+    "name_zh": "柏孜克里克壁画",
+    "description_en": "Bezeklik mural: Turfan cave plaster with gypsum ground, red-brown underdrawing, malachite-azurite-cinnabar minerals and sand-abraded flake — not Dunhuang, not Kizil, not thangka gold.",
+    "description_zh": "柏孜克里克壁画：吐鲁番洞窟石膏地、红棕起稿、石绿石青朱砂与风沙剥蚀，非敦煌、非克孜尔、非唐卡金箔。",
+    "source": "hermes-explore",
+    "image": "styles/1857-bezeklik-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1815",
+    "slug": "nasca-polychrome",
+    "name_en": "Nasca Polychrome",
+    "name_zh": "纳斯卡彩陶",
+    "description_en": "Nasca polychrome: burnished slip painting with bold black contour, brick-red cream ochre orange flats and geometric fillers — not a pottery-object catalog, not Moche fine line, not Paracas embroidery.",
+    "description_zh": "纳斯卡彩陶：磨光色浆、粗黑勾线、砖红奶油赭橙平涂与几何填纹，非陶器商品照、非莫切细线、非帕拉卡斯绣。",
+    "source": "hermes-explore",
+    "image": "styles/1858-nasca-polychrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -5081,6 +5081,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1853, PNG count 1853. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 363 (exactly 5, h1811–h1815)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh           | image                                 |
+|-------|------------------|-------------------|---------------------------------------|
+| h1811 | Koma-nuri        | 独乐涂            | styles/1854-koma-nuri.png             |
+| h1812 | Girasole Glass   | 向日葵玻璃        | styles/1855-girasole-glass.png        |
+| h1813 | Hex Sign         | 六角星纹          | styles/1856-hex-sign.png              |
+| h1814 | Bezeklik Mural   | 柏孜克里克壁画    | styles/1857-bezeklik-mural.png        |
+| h1815 | Nasca Polychrome | 纳斯卡彩陶        | styles/1858-nasca-polychrome.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1858, PNG count 1858. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
