@@ -5221,6 +5221,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1903, PNG count 1903. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 373 (exactly 5, h1861–h1865)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                                |
+|-------|--------------------|---------------|--------------------------------------|
+| h1861 | Analytical Cubism  | 分析立体主义  | styles/1904-analytical-cubism.png    |
+| h1862 | Synthetic Cubism   | 综合立体主义  | styles/1905-synthetic-cubism.png     |
+| h1863 | Funk Art           | 放克艺术      | styles/1906-funk-art.png             |
+| h1864 | Neo-Geo            | 新几何        | styles/1907-neo-geo.png              |
+| h1865 | Perceptism         | 知觉主义      | styles/1908-perceptism.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1908, PNG count 1908. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

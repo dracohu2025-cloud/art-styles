@@ -24737,5 +24737,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1861",
+    "slug": "analytical-cubism",
+    "name_en": "Analytical Cubism",
+    "name_zh": "分析立体主义",
+    "description_en": "Analytical Cubism: Picasso/Braque 1909–1912 — overlapping translucent facets, multiple simultaneous viewpoints, muted ochre-gray-umber oil, shallow compressed space, dry brush volumes that still read as a figure — not Synthetic Cubism collage letters, not Futurist speed lines, not Formism folk color.",
+    "description_zh": "分析立体主义：毕加索／布拉克1909–1912，半透明叠面、多视点同时、沉赭灰棕油画、浅压缩空间、仍可读为人形的干笔体块，非综合立体拼贴字母、非未来主义速度线、非波兰形式派民俗色。",
+    "source": "hermes-explore",
+    "image": "styles/1904-analytical-cubism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1862",
+    "slug": "synthetic-cubism",
+    "name_en": "Synthetic Cubism",
+    "name_zh": "综合立体主义",
+    "description_en": "Synthetic Cubism: Picasso/Braque/Gris 1912–1914 — papier collé, faux bois wood-grain, painted newsprint, stenciled letter-signs, larger flatter color planes, decorative still-life construction of the figure — not Analytical Cubism brown facets, not photoreal collage, not Pop.",
+    "description_zh": "综合立体主义：毕加索／布拉克／格里斯1912–1914，贴纸拼贴、仿木纹、绘制新闻纸、镂花字母符号、更大更平的色块、静物式构成人形，非分析立体褐面、非照片拼贴、非波普。",
+    "source": "hermes-explore",
+    "image": "styles/1905-synthetic-cubism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1863",
+    "slug": "funk-art",
+    "name_en": "Funk Art",
+    "name_zh": "放克艺术",
+    "description_en": "Funk Art: 1960s Bay Area (Arneson, Wiley, De Forest) — glossy ceramic-glaze skin, lumpy handmade biomorphs, irreverent cartoon outline, stoneware earth plus loud enamel, studio-funk clutter — not Pop slickness, not Hairy Who Chicago Imagism, not ceramic-as-object product shot.",
+    "description_zh": "放克艺术：1960年代湾区（阿尼森／威利／德福雷斯特），釉面光泽、手制瘤状有机体、戏谑卡通轮廓、炻器土色加刺目珐琅、工作室杂陈，非波普光滑、非芝加哥毛发帮意象、非陶瓷器物产品照。",
+    "source": "hermes-explore",
+    "image": "styles/1906-funk-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1864",
+    "slug": "neo-geo",
+    "name_en": "Neo-Geo",
+    "name_zh": "新几何",
+    "description_en": "Neo-Geo: 1980s Neo-Geometric Conceptualism (Halley cells and conduits, Bickerton industrial finish) — Day-Glo institutional color, Roll-a-Tex stucco, flowchart rectangles, simulated geometric abstraction — not De Stijl, not Hard-Edge painting, not Op Art vibration.",
+    "description_zh": "新几何：1980年代新几何观念主义（哈利细胞与管道、比克顿工业表面），日光荧光制度色、滚纹灰泥、流程图矩形、模拟几何抽象，非风格派、非硬边绘画、非欧普颤动。",
+    "source": "hermes-explore",
+    "image": "styles/1907-neo-geo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1865",
+    "slug": "perceptism",
+    "name_en": "Perceptism",
+    "name_zh": "知觉主义",
+    "description_en": "Perceptism: Raúl Lozza Perceptismo, Argentine 1940s–50s — irregular coplanar color plaques on a plain even field, no illusionistic depth, hard-edge structured perception, shaped planes flush with the ground — not Concrete Art grid modules, not Neo-Concretism organic, not Suprematism floating rectangles.",
+    "description_zh": "知觉主义：劳尔·洛萨阿根廷1940–50年代知觉派，不规则共面色块浮于匀净底、无幻觉深度、硬边结构知觉、与底齐平的形色平面，非具体艺术网格、非新具体有机、非至上主义悬浮矩形。",
+    "source": "hermes-explore",
+    "image": "styles/1908-perceptism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
