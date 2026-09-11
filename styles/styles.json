@@ -25387,5 +25387,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1911",
+    "slug": "amarna",
+    "name_en": "Amarna",
+    "name_zh": "阿马尔那",
+    "description_en": "18th-Dynasty Egyptian wall painting: intimate naturalism, elongated heads, Aten-ray plaster fresco-secco.",
+    "description_zh": "第十八王朝埃及壁画：亲密自然主义、拉长头颅与阿吞光线湿壁画感。",
+    "source": "hermes-explore",
+    "image": "styles/1954-amarna.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1912",
+    "slug": "gandhara",
+    "name_en": "Gandhara",
+    "name_zh": "犍陀罗",
+    "description_en": "Greco-Buddhist schist carving look: Hellenistic wet-fold drapery, wavy drill-cut hair, acanthus pilasters.",
+    "description_zh": "犍陀罗希腊式佛教片岩雕刻感：湿褶衣纹、波浪钻刻发型与莨苕壁柱。",
+    "source": "hermes-explore",
+    "image": "styles/1955-gandhara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1913",
+    "slug": "rayonnant",
+    "name_en": "Rayonnant",
+    "name_zh": "辐射式哥特",
+    "description_en": "High Gothic radiating bar tracery, rose-window geometry, jeweled stained-glass light on limestone.",
+    "description_zh": "盛期哥特辐射窗棂、玫瑰窗几何与宝石彩窗投在石灰石上的光。",
+    "source": "hermes-explore",
+    "image": "styles/1956-rayonnant.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1914",
+    "slug": "sukhothai",
+    "name_en": "Sukhothai",
+    "name_zh": "素可泰",
+    "description_en": "Thai Sukhothai bronze idiom: flame-like S-curve silhouette, smooth gold-bronze sheen, oval serene face.",
+    "description_zh": "泰国素可泰青铜语汇：火焰般S形轮廓、光滑金铜光泽与椭圆面庞。",
+    "source": "hermes-explore",
+    "image": "styles/1957-sukhothai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1915",
+    "slug": "palmyrene",
+    "name_en": "Palmyrene",
+    "name_zh": "帕尔米拉",
+    "description_en": "Palmyra limestone relief frontality: oversized incised eyes, Parthian-Roman drapery, desert stone.",
+    "description_zh": "帕尔米拉石灰石浮雕正面律：放大刻瞳、帕提亚-罗马衣褶与沙漠石面。",
+    "source": "hermes-explore",
+    "image": "styles/1958-palmyrene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

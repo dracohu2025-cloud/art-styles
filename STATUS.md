@@ -5361,6 +5361,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1953, PNG count 1953. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 383 (exactly 5, h1911–h1915)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                         |
+|-------|-------------|-------------|-------------------------------|
+| h1911 | Amarna      | 阿马尔那    | styles/1954-amarna.png        |
+| h1912 | Gandhara    | 犍陀罗      | styles/1955-gandhara.png      |
+| h1913 | Rayonnant   | 辐射式哥特  | styles/1956-rayonnant.png     |
+| h1914 | Sukhothai   | 素可泰      | styles/1957-sukhothai.png     |
+| h1915 | Palmyrene   | 帕尔米拉    | styles/1958-palmyrene.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1958, PNG count 1958. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
