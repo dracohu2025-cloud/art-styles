@@ -24412,5 +24412,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1836",
+    "slug": "pictish",
+    "name_en": "Pictish",
+    "name_zh": "皮克特石刻",
+    "description_en": "Pictish: early medieval Scottish low-relief sandstone, pecked grooves, double-disc and Z-rod, interlaced zoomorphs, mirror-and-comb symbols, lichen-flecked chip-carved stone — not Insular gospel knotwork, not La Tène metalwork, not Celtic tattoo flash.",
+    "description_zh": "皮克特石刻：中世纪早期苏格兰浅浮雕砂岩、啄刻凹槽、双圆盘与Z杖、交缠兽形、镜梳符号、地衣斑驳的凿刻石面，非岛国福音书结纹、非拉坦诺金属工、非凯尔特纹身稿。",
+    "source": "hermes-explore",
+    "image": "styles/1879-pictish.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1837",
+    "slug": "la-tene",
+    "name_en": "La Tène",
+    "name_zh": "拉坦诺纹",
+    "description_en": "La Tène: Celtic Iron Age ornamental language of trumpet spirals, broken-back S-curves, palmette tendrils, compass-drawn lobes, red-and-yellow enamel cells on chased bronze — not Pictish stones, not Book of Kells, not Art Nouveau.",
+    "description_zh": "拉坦诺纹：凯尔特铁器时代喇叭涡卷、折背S曲线、棕叶卷须、圆规瓣形、锤揲青铜上红黄珐琅格，非皮克特石刻、非凯尔经、非新艺术。",
+    "source": "hermes-explore",
+    "image": "styles/1880-la-tene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1838",
+    "slug": "proun",
+    "name_en": "Proun",
+    "name_zh": "普朗构成",
+    "description_en": "Proun: Lissitzky axonometric floating planes, intersecting black-red-white bars, isometric cubes and grids on sparse beige, constructivist gouache-print geometry without vanishing-point space — not Suprematism, not Bauhaus poster, not De Stijl.",
+    "description_zh": "普朗构成：利西茨基轴测漂浮平面、黑红白相交杆件、米色疏底上的等轴立方与网格、无灭点的构成主义水粉印几何，非至上主义、非包豪斯海报、非风格派。",
+    "source": "hermes-explore",
+    "image": "styles/1881-proun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1839",
+    "slug": "madi",
+    "name_en": "Madí",
+    "name_zh": "马迪主义",
+    "description_en": "Madí: 1940s Río de la Plata Arte Madí — irregular polygonal shaped-canvas logic, hard-edge flat primaries, diagonal bars, enamel-smooth planes, no modeling — not De Stijl, not Constructivism, not Op-art vibration.",
+    "description_zh": "马迪主义：1940年代拉普拉塔河Arte Madí，不规则多边形画布逻辑、硬边平涂原色、斜杆、珐琅般光滑色面、无明暗，非风格派、非构成主义、非欧普颤动。",
+    "source": "hermes-explore",
+    "image": "styles/1882-madi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1840",
+    "slug": "estridentismo",
+    "name_en": "Estridentismo",
+    "name_zh": "喧嚣派",
+    "description_en": "Estridentismo: Mexican 1920s avant-garde of angular urban dynamism, radio towers and factory diagonals, jagged typographic geometry without readable letters, woodcut-plus-poster clash — not Italian Futurism, not Art Deco travel poster, not muralismo fresco.",
+    "description_zh": "喧嚣派：墨西哥1920年代先锋，棱角都市动能、无线电塔与工厂斜线、无字的锯齿字体几何、木刻加海报冲撞，非意大利未来主义、非装饰艺术旅行海报、非壁画派湿壁。",
+    "source": "hermes-explore",
+    "image": "styles/1883-estridentismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

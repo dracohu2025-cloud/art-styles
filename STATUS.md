@@ -5151,6 +5151,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1878, PNG count 1878. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 368 (exactly 5, h1836–h1840)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                             |
+|-------|---------------|-------------|-----------------------------------|
+| h1836 | Pictish       | 皮克特石刻  | styles/1879-pictish.png           |
+| h1837 | La Tène       | 拉坦诺纹    | styles/1880-la-tene.png           |
+| h1838 | Proun         | 普朗构成    | styles/1881-proun.png             |
+| h1839 | Madí          | 马迪主义    | styles/1882-madi.png              |
+| h1840 | Estridentismo | 喧嚣派      | styles/1883-estridentismo.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1883, PNG count 1883. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
