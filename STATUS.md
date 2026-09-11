@@ -5501,6 +5501,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2003, PNG count 2003. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 393 (exactly 5, h1961–h1965)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                           |
+|-------|----------------|------------|---------------------------------|
+| h1961 | Cinnabar Ink   | 朱砂墨     | styles/2004-cinnabar-ink.png    |
+| h1962 | Indigo Wash    | 靛蓝水洗   | styles/2005-indigo-wash.png     |
+| h1963 | Oiled Charcoal | 油炭       | styles/2006-oiled-charcoal.png  |
+| h1964 | Black Chalk    | 黑粉笔     | styles/2007-black-chalk.png     |
+| h1965 | Pinhole        | 针孔成像   | styles/2008-pinhole.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2008, PNG count 2008. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

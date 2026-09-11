@@ -26037,5 +26037,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1961",
+    "slug": "cinnabar-ink",
+    "name_en": "Cinnabar Ink",
+    "name_zh": "朱砂墨",
+    "description_en": "Vermilion mineral ink: ground cinnabar in glue on xuan, scarlet pools, crystalline sparkle, calligraphic dry-brush skips.",
+    "description_zh": "朱砂矿物墨：胶矾朱砂写于宣纸，朱红积墨、晶体微光、飞白枯笔。",
+    "source": "hermes-explore",
+    "image": "styles/2004-cinnabar-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1962",
+    "slug": "indigo-wash",
+    "name_en": "Indigo Wash",
+    "name_zh": "靛蓝水洗",
+    "description_en": "Layered indigo dye wash: aizome blues, granulating tides, pale-to-midnight pooling on damp paper.",
+    "description_zh": "靛蓝分层水洗：蓝染颗粒、潮汐水痕、从浅靛到午夜的积色。",
+    "source": "hermes-explore",
+    "image": "styles/2005-indigo-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1963",
+    "slug": "oiled-charcoal",
+    "name_en": "Oiled Charcoal",
+    "name_zh": "油炭",
+    "description_en": "Oil-soaked charcoal: velvety greasy blacks, rag wipes, warm gray midtones on cream toned paper.",
+    "description_zh": "油浸炭笔：丝绒油黑、布擦晕染、奶油色调纸上的暖灰中间调。",
+    "source": "hermes-explore",
+    "image": "styles/2006-oiled-charcoal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1964",
+    "slug": "black-chalk",
+    "name_en": "Black Chalk",
+    "name_zh": "黑粉笔",
+    "description_en": "Pierre noire drawing: matte granular black chalk, hatching and stump, cream laid paper with chain lines.",
+    "description_zh": "黑粉笔素描：哑光颗粒、排线与擦笔、带帘纹的奶油色布纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/2007-black-chalk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1965",
+    "slug": "pinhole",
+    "name_en": "Pinhole",
+    "name_zh": "针孔成像",
+    "description_en": "Pinhole optics: no glass lens, equal softness at every plane, long-exposure dream, circular vignette, paper-negative tone.",
+    "description_zh": "针孔光学：无玻璃镜头、全场均等柔焦、长曝梦感、圆形暗角、纸底片影调。",
+    "source": "hermes-explore",
+    "image": "styles/2008-pinhole.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
