@@ -26687,5 +26687,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2011",
+    "slug": "antwerp-mannerists",
+    "name_en": "Antwerp Mannerists",
+    "name_zh": "安特卫普风格主义",
+    "description_en": "Antwerp Mannerists: elongated Flemish Mannerism, jewel-bright oil, ornate loggia crowding, enamel highlights.",
+    "description_zh": "安特卫普风格主义：修长佛兰德斯风格主义，宝石般油彩，繁饰廊柱与珐琅高光。",
+    "source": "hermes-explore",
+    "image": "styles/2054-antwerp-mannerists.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2012",
+    "slug": "utrecht-caravaggisti",
+    "name_en": "Utrecht Caravaggisti",
+    "name_zh": "乌得勒支卡拉瓦乔派",
+    "description_en": "Utrecht Caravaggisti: candlelit tenebrism, raking half-length oil, umber void, theatrical chiaroscuro.",
+    "description_zh": "乌得勒支卡拉瓦乔派：烛光暗绘、半身油彩、深褐虚空与戏剧明暗。",
+    "source": "hermes-explore",
+    "image": "styles/2055-utrecht-caravaggisti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2013",
+    "slug": "ferrara-school",
+    "name_en": "Ferrara School",
+    "name_zh": "费拉拉画派",
+    "description_en": "Ferrara School: wiry metallic contour, enamel-hard tempera-oil, mineral jewels, crystalline drapery.",
+    "description_zh": "费拉拉画派：金属感细线、珐琅般蛋彩油画、矿物宝石色与晶体衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2056-ferrara-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2014",
+    "slug": "modernisme",
+    "name_en": "Modernisme",
+    "name_zh": "加泰罗尼亚现代主义",
+    "description_en": "Modernisme: Catalan trencadís mosaic shards, organic wrought-iron line, stained-glass color fields.",
+    "description_zh": "加泰罗尼亚现代主义：碎瓷马赛克、有机锻铁线与彩窗色块。",
+    "source": "hermes-explore",
+    "image": "styles/2057-modernisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2015",
+    "slug": "umbrian-school",
+    "name_en": "Umbrian School",
+    "name_zh": "翁布里亚画派",
+    "description_en": "Umbrian School: silver-gray recession, pale luminous sky, enamel-smooth tempera-oil, gentle pyramidal pose.",
+    "description_zh": "翁布里亚画派：银灰纵深、澄澈天光、珐琅般蛋彩油画与温和金字塔构图。",
+    "source": "hermes-explore",
+    "image": "styles/2058-umbrian-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

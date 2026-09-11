@@ -5643,6 +5643,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2053, PNG count 2053. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 403 (exactly 5, h2011–h2015)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh                | image                                    |
+|-------|---------------------|------------------------|------------------------------------------|
+| h2011 | Antwerp Mannerists  | 安特卫普风格主义       | styles/2054-antwerp-mannerists.png       |
+| h2012 | Utrecht Caravaggisti| 乌得勒支卡拉瓦乔派     | styles/2055-utrecht-caravaggisti.png     |
+| h2013 | Ferrara School      | 费拉拉画派             | styles/2056-ferrara-school.png           |
+| h2014 | Modernisme          | 加泰罗尼亚现代主义     | styles/2057-modernisme.png               |
+| h2015 | Umbrian School      | 翁布里亚画派           | styles/2058-umbrian-school.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2058, PNG count 2058. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
