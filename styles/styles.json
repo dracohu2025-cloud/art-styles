@@ -25712,5 +25712,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1936",
+    "slug": "assyrian",
+    "name_en": "Assyrian",
+    "name_zh": "亚述",
+    "description_en": "Neo-Assyrian palace relief: gypsum alabaster low-relief, incised contours, ochre-and-carbon pigment traces, rosette borders, winged guardian motifs, cuneiform register.",
+    "description_zh": "新亚述宫墙浮雕：石膏雪花石膏浅浮雕、阴刻轮廓、赭石与炭黑残彩、莲花边饰、带翼守护纹、楔形文字饰带。",
+    "source": "hermes-explore",
+    "image": "styles/1979-assyrian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1937",
+    "slug": "hoysala",
+    "name_en": "Hoysala",
+    "name_zh": "霍伊萨拉",
+    "description_en": "Hoysala soapstone sculpture: dense high-relief chloritic schist, star-plan canopies, lathe-turned pillars, jewelry-like undercutting, stacked miniature friezes.",
+    "description_zh": "霍伊萨拉皂石雕刻：绿泥石密集高浮雕、星形华盖、车旋柱、珠宝般掏底、层层微型饰带。",
+    "source": "hermes-explore",
+    "image": "styles/1980-hoysala.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1938",
+    "slug": "visigothic",
+    "name_en": "Visigothic",
+    "name_zh": "西哥特",
+    "description_en": "Visigothic Iberian art: horseshoe arches, gold votive-crown filigree, garnet cloisonné, millefiori inlay, chip-carved animal interlacing.",
+    "description_zh": "西哥特伊比利亚艺术：马蹄拱、金祭冠花丝、石榴石掐丝、千花玻璃镶嵌、錾刻动物交织。",
+    "source": "hermes-explore",
+    "image": "styles/1981-visigothic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1939",
+    "slug": "goguryeo",
+    "name_en": "Goguryeo",
+    "name_zh": "高句丽",
+    "description_en": "Goguryeo tomb mural: mineral pigment on plaster, bold black outline, flattened space, hunting-procession borders, lotus ceilings, ochre and malachite.",
+    "description_zh": "高句丽墓室壁画：灰泥矿物颜料、粗黑线、平面空间、狩猎仪仗边饰、莲花藻井、赭石与石绿。",
+    "source": "hermes-explore",
+    "image": "styles/1982-goguryeo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1940",
+    "slug": "nasrid",
+    "name_en": "Nasrid",
+    "name_zh": "纳斯里德",
+    "description_en": "Nasrid Alhambra ornament: carved stucco arabesque, muqarnas vaults, sebka lattice, zellij mosaic in turquoise, honey-gold, and ivory.",
+    "description_zh": "纳斯里德阿尔罕布拉纹样：灰泥蔓藤雕刻、钟乳拱顶、塞卜卡网格、青绿蜜金牙白马赛克瓷砖。",
+    "source": "hermes-explore",
+    "image": "styles/1983-nasrid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

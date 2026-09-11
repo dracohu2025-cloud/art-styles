@@ -5431,6 +5431,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1978, PNG count 1978. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 388 (exactly 5, h1936–h1940)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                         |
+|-------|-------------|-------------|-------------------------------|
+| h1936 | Assyrian    | 亚述        | styles/1979-assyrian.png      |
+| h1937 | Hoysala     | 霍伊萨拉    | styles/1980-hoysala.png       |
+| h1938 | Visigothic  | 西哥特      | styles/1981-visigothic.png    |
+| h1939 | Goguryeo    | 高句丽      | styles/1982-goguryeo.png      |
+| h1940 | Nasrid      | 纳斯里德    | styles/1983-nasrid.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1983, PNG count 1983. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
