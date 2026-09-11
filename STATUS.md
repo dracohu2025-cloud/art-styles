@@ -5487,6 +5487,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1998, PNG count 1998. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 392 (exactly 5, h1956–h1960)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh     | image                          |
+|-------|------------|-------------|--------------------------------|
+| h1956 | Elamite    | 埃兰        | styles/1999-elamite.png        |
+| h1957 | Srivijaya  | 室利佛逝    | styles/2000-srivijaya.png      |
+| h1958 | Aksumite   | 阿克苏姆    | styles/2001-aksumite.png       |
+| h1959 | Zapotec    | 萨波特克    | styles/2002-zapotec.png        |
+| h1960 | Nabataean  | 纳巴泰      | styles/2003-nabataean.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2003, PNG count 2003. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

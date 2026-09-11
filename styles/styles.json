@@ -25972,5 +25972,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1956",
+    "slug": "elamite",
+    "name_en": "Elamite",
+    "name_zh": "埃兰",
+    "description_en": "Elamite glazed-brick language: Susa polychrome tiles, griffin-lion registers, mustard-turquoise-bitumen, cuneiform bands, rosette borders, lost-wax bronze sheen.",
+    "description_zh": "埃兰釉砖语汇：苏萨彩釉砖、狮鹫分栏、芥黄松石沥青、楔形字带、玫瑰纹边、失蜡青铜光泽。",
+    "source": "hermes-explore",
+    "image": "styles/1999-elamite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1957",
+    "slug": "srivijaya",
+    "name_en": "Srivijaya",
+    "name_zh": "室利佛逝",
+    "description_en": "Srivijaya gold-bronze language: Palembang maritime gold, high-tin lost-wax bronze, kala-makara arches, lotus pedestals, granulation-filigree, flame aureoles.",
+    "description_zh": "室利佛逝金铜语汇：巨港海贸金工、高锡失蜡铜、迦楼-摩羯拱、莲座、金粒细丝、火焰背光。",
+    "source": "hermes-explore",
+    "image": "styles/2000-srivijaya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1958",
+    "slug": "aksumite",
+    "name_en": "Aksumite",
+    "name_zh": "阿克苏姆",
+    "description_en": "Aksumite granite-stela language: dressed granite, Ge'ez bands, false-door timber-end carving, disc-and-crescent, gold coin profiles, ivory inlay.",
+    "description_zh": "阿克苏姆花岗石碑语汇：琢石、吉兹文带、假门梁端雕、日轮新月、金币侧面像、象牙镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/2001-aksumite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1959",
+    "slug": "zapotec",
+    "name_en": "Zapotec",
+    "name_zh": "萨波特克",
+    "description_en": "Zapotec Monte Albán language: grey ceramic urn modeling, glyph cartouches, greenstone mosaic, lightning-scroll relief, trapezoidal headdress geometry.",
+    "description_zh": "萨波特克蒙特阿尔班语汇：灰陶骨灰瓮塑形、字形卡图什、绿石马赛克、闪电涡卷浮雕、梯形头饰几何。",
+    "source": "hermes-explore",
+    "image": "styles/2002-zapotec.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1960",
+    "slug": "nabataean",
+    "name_en": "Nabataean",
+    "name_zh": "纳巴泰",
+    "description_en": "Nabataean rock-cut language: Petra rose sandstone, Hellenistic tomb facades, floral volute capitals, ochre-and-Egyptian-blue plaster, incense-route grain.",
+    "description_zh": "纳巴泰岩凿语汇：佩特拉玫瑰砂岩、希腊化墓阙立面、花卉涡卷柱头、赭石埃及蓝灰泥、香料之路石纹。",
+    "source": "hermes-explore",
+    "image": "styles/2003-nabataean.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
