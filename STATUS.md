@@ -5417,6 +5417,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1973, PNG count 1973. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 387 (exactly 5, h1931–h1935)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh       | image                            |
+|-------|--------------|---------------|----------------------------------|
+| h1931 | Mycenaean    | 迈锡尼        | styles/1974-mycenaean.png        |
+| h1932 | Parthian     | 帕提亚        | styles/1975-parthian.png         |
+| h1933 | Teotihuacan  | 特奥蒂瓦坎    | styles/1976-teotihuacan.png      |
+| h1934 | Chola        | 朱罗          | styles/1977-chola.png            |
+| h1935 | Merovingian  | 墨洛温        | styles/1978-merovingian.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1978, PNG count 1978. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

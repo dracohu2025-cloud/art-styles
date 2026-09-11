@@ -25647,5 +25647,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1931",
+    "slug": "mycenaean",
+    "name_en": "Mycenaean",
+    "name_zh": "迈锡尼",
+    "description_en": "Mycenaean palatial fresco: earth-red and Egyptian-blue lime plaster, thick contour, profile eye, marine-style octopus spirals, banded dado.",
+    "description_zh": "迈锡尼宫壁画：土红与埃及蓝灰泥、粗轮廓、侧面眼、海生章鱼螺旋纹、条带墙裙。",
+    "source": "hermes-explore",
+    "image": "styles/1974-mycenaean.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1932",
+    "slug": "parthian",
+    "name_en": "Parthian",
+    "name_zh": "帕提亚",
+    "description_en": "Parthian frontal relief: staring face, schematic patterned drapery, glazed turquoise and ochre brick, palmette borders, hybrid Hellenistic-Iranian modeling.",
+    "description_zh": "帕提亚正面浮雕：直视面容、图式衣褶、青绿赭色釉砖、棕榈纹边饰、希腊-伊朗混合造型。",
+    "source": "hermes-explore",
+    "image": "styles/1975-parthian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1933",
+    "slug": "teotihuacan",
+    "name_en": "Teotihuacan",
+    "name_zh": "特奥蒂瓦坎",
+    "description_en": "Teotihuacan mural: hematite-red plaster, talud-tablero frames, speech-scroll glyphs, jade-green and shell-white, rigid profile-frontal mix, no perspective.",
+    "description_zh": "特奥蒂瓦坎壁画：赤铁矿红灰泥、塔卢德-塔布雷罗边框、话语卷轴符号、玉绿与贝白、侧面正面混用、无透视。",
+    "source": "hermes-explore",
+    "image": "styles/1976-teotihuacan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1934",
+    "slug": "chola",
+    "name_en": "Chola",
+    "name_zh": "朱罗",
+    "description_en": "Chola lost-wax bronze: dark patinated metal, tribhanga stance, flaming prabha aureole, temple jewelry cast in bronze, granite niche.",
+    "description_zh": "朱罗失蜡铜像：深色包浆金属、三折姿、火焰光背、铸出寺饰、花岗岩神龛。",
+    "source": "hermes-explore",
+    "image": "styles/1977-chola.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1935",
+    "slug": "merovingian",
+    "name_en": "Merovingian",
+    "name_zh": "墨洛温",
+    "description_en": "Merovingian cloisonné: gold cells packed with almandine garnets, millefiori glass inlay, animal-interlace boars and birds, chip-carved gold.",
+    "description_zh": "墨洛温掐丝：金格填铁铝榴石、千花玻璃镶嵌、动物交织野猪与鸟、錾刻金地。",
+    "source": "hermes-explore",
+    "image": "styles/1978-merovingian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
