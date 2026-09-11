@@ -23957,5 +23957,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1801",
+    "slug": "mordant-gilding",
+    "name_en": "Mordant Gilding",
+    "name_zh": "胶金贴箔",
+    "description_en": "Mordant gilding: gold leaf laid on tacky oil size with visible leaf seams, wrinkled matte vs burnished metal, bole at breaks — not water gilding, not kintsugi, not illumination.",
+    "description_zh": "胶金贴箔：油性胶金上贴金箔，箔缝与皱箔、亚光与抛光对比、破口露出红褐色底，非水贴金、非金缮、非泥金细密画。",
+    "source": "hermes-explore",
+    "image": "styles/1844-mordant-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1802",
+    "slug": "angel-gilding",
+    "name_en": "Angel Gilding",
+    "name_zh": "天使镀金",
+    "description_en": "Angel gilding: chemical silver deposited on the reverse of glass, mirror bloom and pour marks in a fogged antique-silver film — not verre églomisé, not daguerreotype, not chrome.",
+    "description_zh": "天使镀金：玻璃背面化学镀银，镜面雾斑与倾倒痕迹，非玻璃贴金、非达盖尔银版、非镀铬。",
+    "source": "hermes-explore",
+    "image": "styles/1845-angel-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1803",
+    "slug": "kiln-casting",
+    "name_en": "Kiln Casting",
+    "name_zh": "窑铸玻璃",
+    "description_en": "Kiln casting: lost-wax kiln-cast glass with mold skin, trapped bubbles, internal veils and cold-worked faces — not blown glass, not pâte de verre, not stained glass.",
+    "description_zh": "窑铸玻璃：失蜡窑铸，模皮、气泡、内絮与冷加工切面，非吹制、非玻璃粉熔铸、非彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/1846-kiln-casting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1804",
+    "slug": "entopic-graphomania",
+    "name_en": "Entopic Graphomania",
+    "name_zh": "内视狂写",
+    "description_en": "Entopic graphomania: dots on paper impurities joined by straight ink lines into a dense geometric web that still reads as a figure — not scribble automatic drawing, not asemic writing, not stipple.",
+    "description_zh": "内视狂写：在纸疵点上落点并以直线相连成密网仍可读出形象，非涂鸦自动素描、非无义书写、非点刻。",
+    "source": "hermes-explore",
+    "image": "styles/1847-entopic-graphomania.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1805",
+    "slug": "dominote",
+    "name_en": "Dominoté",
+    "name_zh": "多米诺花纸",
+    "description_en": "Dominoté: 18th-century French block-printed papers, small woodblock repeats and stencil distemper with misregistration on rag paper — not chiyogami, not toile de Jouy, not digital wallpaper.",
+    "description_zh": "多米诺花纸：十八世纪法国木版小循环与漏版胶色、套印错位与粗纸底，非千代纸、非茹伊图案、非数字墙纸。",
+    "source": "hermes-explore",
+    "image": "styles/1848-dominote.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

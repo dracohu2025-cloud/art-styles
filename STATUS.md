@@ -5053,6 +5053,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1843, PNG count 1843. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 361 (exactly 5, h1801–h1805)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                   |
+|-------|----------------------|-----------------|-----------------------------------------|
+| h1801 | Mordant Gilding      | 胶金贴箔        | styles/1844-mordant-gilding.png         |
+| h1802 | Angel Gilding        | 天使镀金        | styles/1845-angel-gilding.png           |
+| h1803 | Kiln Casting         | 窑铸玻璃        | styles/1846-kiln-casting.png            |
+| h1804 | Entopic Graphomania  | 内视狂写        | styles/1847-entopic-graphomania.png     |
+| h1805 | Dominoté             | 多米诺花纸      | styles/1848-dominote.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1848, PNG count 1848. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
