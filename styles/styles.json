@@ -24932,5 +24932,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1876",
+    "slug": "nouveau-realisme",
+    "name_en": "Nouveau Réalisme",
+    "name_zh": "新现实主义",
+    "description_en": "Nouveau Réalisme: French 1960s (Klein, Arman, Spoerri, Villeglé) — IKB ultramarine fields, torn affiche layers, accumulation of mass-produced objects, gold-leaf ritual sheen, urban décollage grain — not Warhol Pop, not Rauschenberg Combine, not generic collage.",
+    "description_zh": "新现实主义：法国1960年代（克莱因、阿尔曼、斯波里、维勒格雷），IKB群青色场、撕裂海报层、批量物件堆积、金箔仪式光泽、都市撕贴颗粒，非沃霍尔波普、非劳申伯格组合、非普通拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/1919-nouveau-realisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1877",
+    "slug": "concrete-art",
+    "name_en": "Concrete Art",
+    "name_zh": "具体艺术",
+    "description_en": "Concrete Art / Art Concret: Max Bill and Swiss Konkrete Kunst — mathematically constructed geometry, enamel-flat pure color planes, ruled circles and intersecting fields, no symbolism and no illusionistic space — not De Stijl, not Hard-Edge, not Neo-Geo, not Op Art.",
+    "description_zh": "具体艺术：马克斯·比尔与瑞士具体艺术，数学建构几何、珐琅平涂纯色面、规尺圆与交错色域、无象征无幻觉空间，非风格派、非硬边、非新几何、非欧普。",
+    "source": "hermes-explore",
+    "image": "styles/1920-concrete-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1878",
+    "slug": "kinetic-art",
+    "name_en": "Kinetic Art",
+    "name_zh": "动态艺术",
+    "description_en": "Kinetic Art: Soto, Cruz-Diez, Agam, Tinguely, Calder — moiré vibration of hanging rods, chromatic additive planes that seem to shift, suspended mobile discs, industrial wire and plexi, motion implied by interference — not Vasarely Op Art, not Light and Space, not Finish Fetish.",
+    "description_zh": "动态艺术：索托、克鲁斯-迭斯、阿甘、丁格利、考尔德，悬挂细杆的莫尔振动、看似位移的加色平面、悬浮活动圆盘、工业金属丝与有机玻璃，干涉暗示运动，非瓦萨雷利欧普、非光与空间、非完成拜物。",
+    "source": "hermes-explore",
+    "image": "styles/1921-kinetic-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1879",
+    "slug": "les-automatistes",
+    "name_en": "Les Automatistes",
+    "name_zh": "自动主义派",
+    "description_en": "Les Automatistes: Montreal Refus Global 1948 (Borduas, Riopelle) — all-over automatic gesture, mosaic palette-knife tesserae of pure color, black-and-white calligraphic automatism, thick oil chips — not Pollock drip, not Tachisme, not Art Informel, not CoBrA.",
+    "description_zh": "自动主义派：蒙特利尔1948《全面拒绝》（博尔迪亚斯、里奥佩尔），满幅自动笔触、纯色马赛克刮刀碎块、黑白书法式自动主义、厚油色片，非波洛克滴画、非塔希主义、非非定形艺术、非眼镜蛇。",
+    "source": "hermes-explore",
+    "image": "styles/1922-les-automatistes.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1880",
+    "slug": "school-of-london",
+    "name_en": "School of London",
+    "name_zh": "伦敦画派",
+    "description_en": "School of London: Freud, Auerbach, Kossoff, Andrews — scraped and reloaded impasto flesh, claustrophobic studio, earth pigments, sculptural paint crust, clinical yet painterly observation — not photorealism, not generic oil impasto, not Expressionist scream, not Neue Wilde.",
+    "description_zh": "伦敦画派：弗洛伊德、奥尔巴赫、科索夫、安德鲁斯，刮除再堆的厚涂肌肤、逼仄画室、土色颜料、雕塑般色壳、临床却仍绘画性的观察，非照相写实、非普通厚涂、非表现主义嘶喊、非新野兽。",
+    "source": "hermes-explore",
+    "image": "styles/1923-school-of-london.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

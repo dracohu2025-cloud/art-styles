@@ -5263,6 +5263,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1918, PNG count 1918. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 376 (exactly 5, h1876–h1880)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                |
+|-------|--------------------|-------------|--------------------------------------|
+| h1876 | Nouveau Réalisme   | 新现实主义  | styles/1919-nouveau-realisme.png     |
+| h1877 | Concrete Art       | 具体艺术    | styles/1920-concrete-art.png         |
+| h1878 | Kinetic Art        | 动态艺术    | styles/1921-kinetic-art.png          |
+| h1879 | Les Automatistes   | 自动主义派  | styles/1922-les-automatistes.png     |
+| h1880 | School of London   | 伦敦画派    | styles/1923-school-of-london.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1923, PNG count 1923. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
