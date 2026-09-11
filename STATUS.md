@@ -5629,6 +5629,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2048, PNG count 2048. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 402 (exactly 5, h2006–h2010)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh          | image                                   |
+|-------|---------------------|------------------|-----------------------------------------|
+| h2006 | Weicher Stil        | 柔美风格         | styles/2049-weicher-stil.png            |
+| h2007 | Italo-Byzantine     | 意大利拜占庭     | styles/2050-italo-byzantine.png         |
+| h2008 | Haarlem Classicists | 哈勒姆古典派     | styles/2051-haarlem-classicists.png     |
+| h2009 | Earthworm Line      | 蚯蚓描           | styles/2052-earthworm-line.png          |
+| h2010 | Delft School        | 代尔夫特画派     | styles/2053-delft-school.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2053, PNG count 2053. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -26622,5 +26622,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2006",
+    "slug": "weicher-stil",
+    "name_en": "Weicher Stil",
+    "name_zh": "柔美风格",
+    "description_en": "Weicher Stil: German International Gothic Soft Style, S-curve drapery, pastel tempera on gold.",
+    "description_zh": "柔美风格：德国国际哥特软风格，S形衣褶，金地淡彩蛋彩。",
+    "source": "hermes-explore",
+    "image": "styles/2049-weicher-stil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2007",
+    "slug": "italo-byzantine",
+    "name_en": "Italo-Byzantine",
+    "name_zh": "意大利拜占庭",
+    "description_en": "Italo-Byzantine: gold-leaf ground, linear folds, chrysography, hieratic egg-tempera on panel.",
+    "description_zh": "意大利拜占庭：金地、线描衣褶、金线纹饰、圣像式蛋彩板画。",
+    "source": "hermes-explore",
+    "image": "styles/2050-italo-byzantine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2008",
+    "slug": "haarlem-classicists",
+    "name_en": "Haarlem Classicists",
+    "name_zh": "哈勒姆古典派",
+    "description_en": "Haarlem Classicists: cool north light, sculptural drapery, enamel-smooth classicizing oil.",
+    "description_zh": "哈勒姆古典派：北光清冷、雕塑感衣褶、珐琅般古典油画。",
+    "source": "hermes-explore",
+    "image": "styles/2051-haarlem-classicists.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2009",
+    "slug": "earthworm-line",
+    "name_en": "Earthworm Line",
+    "name_zh": "蚯蚓描",
+    "description_en": "Earthworm Line (qiu-yin-miao): even round slightly trembling ink of uniform thickness.",
+    "description_zh": "蚯蚓描：粗细均匀、微颤圆转、如蚯蚓游走的墨线。",
+    "source": "hermes-explore",
+    "image": "styles/2052-earthworm-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2010",
+    "slug": "delft-school",
+    "name_en": "Delft School",
+    "name_zh": "代尔夫特画派",
+    "description_en": "Delft School: pearl window light, camera-obscura softness, tiled recession, optical grain.",
+    "description_zh": "代尔夫特画派：窗边珍珠光、暗箱般柔焦、地砖纵深与光学颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2053-delft-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
