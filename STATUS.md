@@ -5193,6 +5193,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1893, PNG count 1893. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 371 (exactly 5, h1851–h1855)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh         | image                                  |
+|-------|----------------------|-----------------|----------------------------------------|
+| h1851 | Cubo-Futurism        | 立体未来主义    | styles/1894-cubo-futurism.png          |
+| h1852 | Maniera Greca        | 希腊式          | styles/1895-maniera-greca.png          |
+| h1853 | Dragestil            | 龙风格          | styles/1896-dragestil.png              |
+| h1854 | Antropofagia         | 食人主义        | styles/1897-antropofagia.png           |
+| h1855 | Novecento Italiano   | 二十世纪派      | styles/1898-novecento-italiano.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1898, PNG count 1898. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

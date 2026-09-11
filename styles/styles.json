@@ -24607,5 +24607,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1851",
+    "slug": "cubo-futurism",
+    "name_en": "Cubo-Futurism",
+    "name_zh": "立体未来主义",
+    "description_en": "Cubo-Futurism: Russian 1912–15 (Goncharova, pre-Suprematist Malevich, Lentulov, Rozanova) — simultaneous motion, cylindrical and conical body shards, overlapping viewpoints, prismatic metallic planes, stenciled letter fragments — not Italian aeropainting, not Analytical Cubism beige grids, not Constructivist posters, not Rayonist laser lines.",
+    "description_zh": "立体未来主义：俄国1912–15年（冈察洛娃／至上主义前马列维奇／连图洛夫／罗扎诺娃），同时运动、圆柱圆锥体块、多重视点、棱镜金属色面、漏印字母碎片，非意大利航空绘画、非分析立体主义米色网格、非构成主义海报、非射线主义光束。",
+    "source": "hermes-explore",
+    "image": "styles/1894-cubo-futurism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1852",
+    "slug": "maniera-greca",
+    "name_en": "Maniera Greca",
+    "name_zh": "希腊式",
+    "description_en": "Maniera Greca: 13th-century Italo-Byzantine panel painting — gold-leaf ground, egg tempera on wood, linear drapery striations, punchwork halo, chrysography, greenish underpaint, panel craquelure — not Paleologan mosaic, not International Gothic S-curve, not Sienese narrative trecento, not later Russian icons.",
+    "description_zh": "希腊式：13世纪意大利–拜占庭板面画，金箔地、木板蛋彩、线性衣褶条纹、冲压光轮、描金、绿调底色、板面龟裂，非帕里奥洛格镶嵌、非国际哥特S形、非锡耶纳叙事、非后期俄罗斯圣像。",
+    "source": "hermes-explore",
+    "image": "styles/1895-maniera-greca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1853",
+    "slug": "dragestil",
+    "name_en": "Dragestil",
+    "name_zh": "龙风格",
+    "description_en": "Dragestil: Norwegian Dragon Style, 1890s–1910s National Romantic wood-carving — tarred pine, Viking-revival interlaced dragons, dragon-head terminals, chip-carved acanthus mixed with Norse beasts, carved-relief pictorial surface — not Art Nouveau whiplash, not Celtic Insular knotwork, not Japanese dragon painting, not a stave-church photograph.",
+    "description_zh": "龙风格：挪威1890–1910年代民族浪漫木雕，焦油松木、维京复兴交缠龙纹、龙头端饰、芯片雕茛苕混北欧神兽、浮雕画面，非新艺术鞭线、非凯尔特岛民结饰、非日本龙图、非木板教堂照片。",
+    "source": "hermes-explore",
+    "image": "styles/1896-dragestil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1854",
+    "slug": "antropofagia",
+    "name_en": "Antropofagia",
+    "name_zh": "食人主义",
+    "description_en": "Antropofagia: Brazilian Anthropophagic Modernism (Tarsila do Amaral 1920s) — tropical volumetric simplification, cactus and banana-leaf biomorphs, earth pinks and industrial sky blues, naive-monumental modeling, distant chimneys — not Superflat, not Mexican muralism, not Rousseau jungle naive, not Pop.",
+    "description_zh": "食人主义：巴西食人现代主义（塔尔西拉1920年代），热带体积简化、仙人掌与蕉叶生物形、土粉与工业天蓝、稚拙纪念碑造型、远景烟囱，非超扁平、非墨西哥壁画、非卢梭稚拙丛林、非波普。",
+    "source": "hermes-explore",
+    "image": "styles/1897-antropofagia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1855",
+    "slug": "novecento-italiano",
+    "name_en": "Novecento Italiano",
+    "name_zh": "二十世纪派",
+    "description_en": "Novecento Italiano: 1920s Italian Novecento (Sironi, Funi, Carrà) — fresco-like matte earth architecture, archaic simplified volumes, solid sculptural modeling, muted ochres and umbers, still monumental classicism — not Valori Plastici mannequins, not Pittura Metafisica empty arcades, not Neoclassical marble, not photoreal finish.",
+    "description_zh": "二十世纪派：1920年代意大利诺万琴托（西罗尼／富尼／卡拉），湿壁画般哑光土色建筑、古风简化体积、雕塑般结实塑形、低饱和赭褐、静谧纪念碑古典，非造型价值假人、非形而上空廊、非新古典大理石、非照片写实。",
+    "source": "hermes-explore",
+    "image": "styles/1898-novecento-italiano.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
