@@ -25842,5 +25842,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1946",
+    "slug": "umayyad",
+    "name_en": "Umayyad",
+    "name_zh": "倭马亚",
+    "description_en": "Umayyad mosaic-fresco language: gold and lapis tesserae, vine-scroll arabesques, horseshoe-arch frames, desert-palace ochre wash.",
+    "description_zh": "倭马亚镶嵌湿壁画语汇：金与青金石马赛克、藤蔓卷草、马蹄拱框、沙漠宫殿赭色罩染。",
+    "source": "hermes-explore",
+    "image": "styles/1989-umayyad.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1947",
+    "slug": "vijayanagara",
+    "name_en": "Vijayanagara",
+    "name_zh": "毗奢耶那伽罗",
+    "description_en": "Vijayanagara temple sculpture: granite high-relief, yali beasts, kirtimukha, stacked gopuram tiers, dense jewelry undercutting.",
+    "description_zh": "毗奢耶那伽罗神庙雕刻：花岗石高浮雕、牙厉神兽、吉祥面、层叠门塔、密饰镂刻。",
+    "source": "hermes-explore",
+    "image": "styles/1990-vijayanagara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1948",
+    "slug": "silla",
+    "name_en": "Silla",
+    "name_zh": "新罗",
+    "description_en": "Silla gold-and-granite art: tree-branch openwork crowns, jade gogok, granulation filigree, pale gold against stone-gray sculpture.",
+    "description_zh": "新罗金工与花岗石造像：树枝形透雕金冠、曲玉、金粒细丝、浅金对石灰。",
+    "source": "hermes-explore",
+    "image": "styles/1991-silla.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1949",
+    "slug": "tiwanaku",
+    "name_en": "Tiwanaku",
+    "name_zh": "蒂瓦纳科",
+    "description_en": "Tiwanaku andesite relief: fitted ashlar, Gateway of the Sun lintel, staff-god frontality, stepped chakana frets, planar stone volumes.",
+    "description_zh": "蒂瓦纳科安山岩浮雕：精密砌石、太阳门楣、权杖神像正面性、阶梯查卡纳纹、块面石体。",
+    "source": "hermes-explore",
+    "image": "styles/1992-tiwanaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1950",
+    "slug": "hittite",
+    "name_en": "Hittite",
+    "name_zh": "赫梯",
+    "description_en": "Hittite orthostat relief: basalt processional slabs, lion and sphinx gates, Luwian hieroglyph blocks, shallow chisel profile carving.",
+    "description_zh": "赫梯墙板浮雕：玄武岩仪仗石板、狮与斯芬克斯门、卢维象形字块、浅刻侧面雕。",
+    "source": "hermes-explore",
+    "image": "styles/1993-hittite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

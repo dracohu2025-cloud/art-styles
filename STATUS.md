@@ -5459,6 +5459,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1988, PNG count 1988. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 390 (exactly 5, h1946–h1950)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh         | image                           |
+|-------|---------------|-----------------|---------------------------------|
+| h1946 | Umayyad       | 倭马亚          | styles/1989-umayyad.png         |
+| h1947 | Vijayanagara  | 毗奢耶那伽罗    | styles/1990-vijayanagara.png    |
+| h1948 | Silla         | 新罗            | styles/1991-silla.png           |
+| h1949 | Tiwanaku      | 蒂瓦纳科        | styles/1992-tiwanaku.png        |
+| h1950 | Hittite       | 赫梯            | styles/1993-hittite.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1993, PNG count 1993. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
