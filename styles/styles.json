@@ -26557,5 +26557,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2001",
+    "slug": "yu-lin-cun",
+    "name_en": "Yu Lin Cun",
+    "name_zh": "鱼鳞皴",
+    "description_en": "Fish-scale cun: overlapping scalloped ink strokes modeling rock like stacked scales.",
+    "description_zh": "鱼鳞皴：层层鳞状短皴叠石，如鱼鳞铺岩。",
+    "source": "hermes-explore",
+    "image": "styles/2044-yu-lin-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2002",
+    "slug": "dot-and-lozenge",
+    "name_en": "Dot-and-Lozenge",
+    "name_zh": "点菱排线",
+    "description_en": "Copperplate burin system: diamond cross-hatch with a dot at each intersection.",
+    "description_zh": "点菱排线：铜凹版菱形交叉排线，交点加点。",
+    "source": "hermes-explore",
+    "image": "styles/2045-dot-and-lozenge.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2003",
+    "slug": "herrerian",
+    "name_en": "Herrerian",
+    "name_zh": "埃雷拉风格",
+    "description_en": "Estilo herreriano: austere granite geometry, unornamented Spanish late-Renaissance hush.",
+    "description_zh": "埃雷拉风格：花岗岩几何、少饰、西班牙晚期文艺复兴的肃静。",
+    "source": "hermes-explore",
+    "image": "styles/2046-herrerian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2004",
+    "slug": "mosan",
+    "name_en": "Mosan",
+    "name_zh": "默兹艺术",
+    "description_en": "Mosan Romanesque: champlevé enamel on gilt copper, jewel cells, engraved metal line.",
+    "description_zh": "默兹艺术：錾胎珐琅贴金铜，宝石色凹槽与金属刻线。",
+    "source": "hermes-explore",
+    "image": "styles/2047-mosan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2005",
+    "slug": "franco-saxon",
+    "name_en": "Franco-Saxon",
+    "name_zh": "法兰克-撒克逊",
+    "description_en": "Franco-Saxon illumination: Insular interlace frames, animal terminals, minium and gold on parchment.",
+    "description_zh": "法兰克-撒克逊：岛风编织框、兽首终端、朱砂与金箔羊皮细密。",
+    "source": "hermes-explore",
+    "image": "styles/2048-franco-saxon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

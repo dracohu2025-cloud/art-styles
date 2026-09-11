@@ -5615,6 +5615,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2043, PNG count 2043. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 401 (exactly 5, h2001–h2005)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh          | image                               |
+|-------|-----------------|------------------|-------------------------------------|
+| h2001 | Yu Lin Cun      | 鱼鳞皴           | styles/2044-yu-lin-cun.png          |
+| h2002 | Dot-and-Lozenge | 点菱排线         | styles/2045-dot-and-lozenge.png     |
+| h2003 | Herrerian       | 埃雷拉风格       | styles/2046-herrerian.png           |
+| h2004 | Mosan           | 默兹艺术         | styles/2047-mosan.png               |
+| h2005 | Franco-Saxon    | 法兰克-撒克逊    | styles/2048-franco-saxon.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2048, PNG count 2048. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
