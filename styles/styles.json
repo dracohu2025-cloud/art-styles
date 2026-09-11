@@ -24152,5 +24152,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1816",
+    "slug": "grosvenor-school",
+    "name_en": "Grosvenor School",
+    "name_zh": "格罗夫纳派",
+    "description_en": "Grosvenor School linocut: machine-age gouge facets, rhythmic diagonals, limited flat inks of black brick-red ochre and slate teal — not Vorticism oil, not Art Deco poster litho, not white-line woodcut.",
+    "description_zh": "格罗夫纳派：机械时代麻胶刻刀面、节奏斜线、黑砖红赭与青灰平涂油墨，非漩涡派油画、非装饰艺术石版海报、非白线木刻。",
+    "source": "hermes-explore",
+    "image": "styles/1859-grosvenor-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1817",
+    "slug": "rocaille",
+    "name_en": "Rocaille",
+    "name_zh": "岩状洛可可",
+    "description_en": "Rocaille: asymmetric C-scroll shell-and-rockwork, pierced cartouches, nacre ribs and cream-gold-celadon foam — not generic Rococo painting, not chinoiserie, not strapwork.",
+    "description_zh": "岩状洛可可：不对称C形涡卷、贝壳岩状、镂空卡图什与珠光奶金青绿浪沫，非泛称洛可可绘画、非中国风、非皮带纹。",
+    "source": "hermes-explore",
+    "image": "styles/1860-rocaille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1818",
+    "slug": "zhuang-brocade",
+    "name_en": "Zhuang Brocade",
+    "name_zh": "壮锦",
+    "description_en": "Zhuang brocade: supplementary-weft geometry, diamond-hook octagons, crimson indigo saffron black blocks and visible interlacing — not Song brocade, not Shu brocade, not kesi tapestry.",
+    "description_zh": "壮锦：纬显花几何、菱钩八角、绯红靛蓝姜黄黑块与可见交织，非宋锦、非蜀锦、非缂丝。",
+    "source": "hermes-explore",
+    "image": "styles/1861-zhuang-brocade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1819",
+    "slug": "blot-drawing",
+    "name_en": "Blot Drawing",
+    "name_zh": "墨渍构形",
+    "description_en": "Blot drawing: Cozens method of accidental bistre blots on damp laid paper developed into spare figure and landscape — not ink wash painting, not Rorschach psychology, not fumage.",
+    "description_zh": "墨渍构形：科曾斯法，湿铺纸上偶然褐墨渍再疏笔成形，非水墨写意、非墨迹心理图、非烟熏绘。",
+    "source": "hermes-explore",
+    "image": "styles/1862-blot-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1820",
+    "slug": "tjap-batik",
+    "name_en": "Tjap Batik",
+    "name_zh": "铜戳蜡染",
+    "description_en": "Tjap batik: copper cap stamps, cracked wax resist, indigo and soga brown on cream cotton with dotted stamp seams and slight misregister — not canting tulis, not generic batik, not katazome.",
+    "description_zh": "铜戳蜡染：铜戳盖印、裂纹蜡防、靛蓝与梭加棕于乳白棉、戳缝网点与轻微错位，非蜡壶手绘、非泛称蜡染、非型染。",
+    "source": "hermes-explore",
+    "image": "styles/1863-tjap-batik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

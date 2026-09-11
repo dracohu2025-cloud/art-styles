@@ -5095,6 +5095,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1858, PNG count 1858. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 364 (exactly 5, h1816–h1820)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                                |
+|-------|------------------|---------------|--------------------------------------|
+| h1816 | Grosvenor School | 格罗夫纳派    | styles/1859-grosvenor-school.png     |
+| h1817 | Rocaille         | 岩状洛可可    | styles/1860-rocaille.png             |
+| h1818 | Zhuang Brocade   | 壮锦          | styles/1861-zhuang-brocade.png       |
+| h1819 | Blot Drawing     | 墨渍构形      | styles/1862-blot-drawing.png         |
+| h1820 | Tjap Batik       | 铜戳蜡染      | styles/1863-tjap-batik.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1863, PNG count 1863. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
