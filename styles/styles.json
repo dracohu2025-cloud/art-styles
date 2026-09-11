@@ -26167,5 +26167,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1971",
+    "slug": "compressed-charcoal",
+    "name_en": "Compressed Charcoal",
+    "name_zh": "压缩炭精",
+    "description_en": "Dense compressed-charcoal sticks: velvety matte blacks, powdered smudge gradients, kneaded-eraser lifts on toothy laid paper.",
+    "description_zh": "压缩炭精：丝绒哑光深黑、粉擦渐层、揉擦橡皮提白于粗纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/2014-compressed-charcoal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1972",
+    "slug": "brush-pen",
+    "name_en": "Brush Pen",
+    "name_zh": "毛笔钢笔",
+    "description_en": "Fude brush-pen ink: calligraphic swell-and-taper strokes, dry-brush skips, jet black water-based line on white paper.",
+    "description_zh": "毛笔钢笔：提按粗细变化、枯笔飞白、水性浓墨线于白纸。",
+    "source": "hermes-explore",
+    "image": "styles/2015-brush-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1973",
+    "slug": "dip-pen",
+    "name_en": "Dip Pen",
+    "name_zh": "蘸水笔",
+    "description_en": "Flexible steel nib and bottled ink: downstroke swell, hairline upstrokes, pooling, spatters, classic pen-and-ink hatching.",
+    "description_zh": "蘸水笔：下笔膨胀、提笔发丝细线、积墨飞溅与排线。",
+    "source": "hermes-explore",
+    "image": "styles/2016-dip-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1974",
+    "slug": "ruling-pen",
+    "name_en": "Ruling Pen",
+    "name_zh": "鸭嘴笔",
+    "description_en": "Bow ruling-pen drafting: even parallel line weights, compass curves, hatched tone on cream vellum with construction ticks.",
+    "description_zh": "鸭嘴笔：等宽平行线、圆规弧、排线调子绘于奶油色描图纸。",
+    "source": "hermes-explore",
+    "image": "styles/2017-ruling-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1975",
+    "slug": "glass-pen",
+    "name_en": "Glass Pen",
+    "name_zh": "玻璃笔",
+    "description_en": "Spiral glass-nib dip pen: start-stop skips, overlapping translucent bottled inks pooling in the groove on cream paper.",
+    "description_zh": "玻璃笔：螺旋玻璃尖起止跳墨、半透明瓶装墨交叠积于纸纹。",
+    "source": "hermes-explore",
+    "image": "styles/2018-glass-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

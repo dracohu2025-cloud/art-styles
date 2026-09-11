@@ -5529,6 +5529,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2013, PNG count 2013. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 395 (exactly 5, h1971–h1975)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh    | image                                 |
+|-------|---------------------|------------|---------------------------------------|
+| h1971 | Compressed Charcoal | 压缩炭精   | styles/2014-compressed-charcoal.png   |
+| h1972 | Brush Pen           | 毛笔钢笔   | styles/2015-brush-pen.png             |
+| h1973 | Dip Pen             | 蘸水笔     | styles/2016-dip-pen.png               |
+| h1974 | Ruling Pen          | 鸭嘴笔     | styles/2017-ruling-pen.png            |
+| h1975 | Glass Pen           | 玻璃笔     | styles/2018-glass-pen.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2018, PNG count 2018. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
