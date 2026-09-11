@@ -5109,6 +5109,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1863, PNG count 1863. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 365 (exactly 5, h1821–h1825)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                  | name_zh           | image                                      |
+|-------|--------------------------|-------------------|--------------------------------------------|
+| h1821 | Ringerike                | 林厄里克          | styles/1864-ringerike.png                  |
+| h1822 | Intaglio Gem             | 凹刻宝石          | styles/1865-intaglio-gem.png               |
+| h1823 | Salt Bloom Watercolor    | 盐渍水彩          | styles/1866-salt-bloom-watercolor.png      |
+| h1824 | Winchester School        | 温彻斯特派        | styles/1867-winchester-school.png          |
+| h1825 | Ethiopian Illumination   | 埃塞俄比亚彩饰    | styles/1868-ethiopian-illumination.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1868, PNG count 1868. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

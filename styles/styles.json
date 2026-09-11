@@ -24217,5 +24217,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1821",
+    "slug": "ringerike",
+    "name_en": "Ringerike",
+    "name_zh": "林厄里克",
+    "description_en": "Ringerike: Viking Age tendril ornament, figure-eight loops, gripping beasts with lip-lappets, pearled outlines on stone and gilt-bronze — not Urnes, not Jellinge, not generic Celtic knotwork.",
+    "description_zh": "林厄里克：维京卷草纹、8字环结、唇瓣抓兽、石与鎏金铜上的联珠轮廓，非乌尔内斯、非耶林、非泛称凯尔特结。",
+    "source": "hermes-explore",
+    "image": "styles/1864-ringerike.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1822",
+    "slug": "intaglio-gem",
+    "name_en": "Intaglio Gem",
+    "name_zh": "凹刻宝石",
+    "description_en": "Intaglio gem: incised negative-relief in carnelian and sardonyx, recessed tool facets, honey-red to milk-white strata — not cameo glass, not raised cameo, not niello.",
+    "description_zh": "凹刻宝石：红玉髓与缠丝玛瑙阴刻、凹陷刀痕、蜜红至乳白层理，非浮雕套色玻璃、非凸雕Cameo、非乌银。",
+    "source": "hermes-explore",
+    "image": "styles/1865-intaglio-gem.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1823",
+    "slug": "salt-bloom-watercolor",
+    "name_en": "Salt Bloom Watercolor",
+    "name_zh": "盐渍水彩",
+    "description_en": "Salt bloom watercolor: coarse salt in wet washes, crystalline starbursts, pigment push and tide-lines on paper tooth — not salt print, not salt glaze, not alcohol ink.",
+    "description_zh": "盐渍水彩：湿色上撒粗盐、结晶星爆、颜料推移与纸纹潮线，非盐纸印相、非盐釉、非酒精墨。",
+    "source": "hermes-explore",
+    "image": "styles/1866-salt-bloom-watercolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1824",
+    "slug": "winchester-school",
+    "name_en": "Winchester School",
+    "name_zh": "温彻斯特派",
+    "description_en": "Winchester School: late Anglo-Saxon colored-outline illumination, fluttering drapery, acanthus frames, tinted washes on vellum — not Hiberno-Saxon, not Ottonian, not Gothic illumination.",
+    "description_zh": "温彻斯特派：晚期盎格鲁-撒克逊色线泥金、翻飞衣褶、莨苕边框、羊皮纸淡彩，非海岛风、非奥托、非哥特细密。",
+    "source": "hermes-explore",
+    "image": "styles/1867-winchester-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1825",
+    "slug": "ethiopian-illumination",
+    "name_en": "Ethiopian Illumination",
+    "name_zh": "埃塞俄比亚彩饰",
+    "description_en": "Ethiopian illumination: Ge'ez Gospel painting, bold outlines, large frontal eyes, flat red-yellow-green-blue fields, knotted borders on parchment — not Coptic tapestry, not Byzantine mosaic, not Armenian miniature.",
+    "description_zh": "埃塞俄比亚彩饰：吉兹福音书绘画、粗黑线、正面大眼、红黄绿蓝平涂、羊皮纸结纹边框，非科普特织锦、非拜占庭马赛克、非亚美尼亚细密。",
+    "source": "hermes-explore",
+    "image": "styles/1868-ethiopian-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
