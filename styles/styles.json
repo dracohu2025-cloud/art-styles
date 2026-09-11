@@ -26947,5 +26947,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2031",
+    "slug": "chiarismo",
+    "name_en": "Chiarismo",
+    "name_zh": "明澄主义",
+    "description_en": "Italian Chiarismo: high-key milky light, dissolved shadow, pearly cream-silver oil — anti-tenebrism, not noir chiaroscuro.",
+    "description_zh": "意大利明澄主义：高调乳光、消融阴影、珍珠奶油银灰油画，反暗色法，非黑白明暗对照。",
+    "source": "hermes-explore",
+    "image": "styles/2074-chiarismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2032",
+    "slug": "de-ploeg",
+    "name_en": "De Ploeg",
+    "name_zh": "犁社",
+    "description_en": "Groningen De Ploeg: bold unmixed northern color, heavy contour, Fauvist-like Dutch expressionist stroke — not Hague School tonal mist.",
+    "description_zh": "格罗宁根犁社：未调北部纯色、重轮廓、野兽派式荷兰表现笔触，非海牙画派色调薄雾。",
+    "source": "hermes-explore",
+    "image": "styles/2075-de-ploeg.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2033",
+    "slug": "berlin-secession",
+    "name_en": "Berlin Secession",
+    "name_zh": "柏林分离派",
+    "description_en": "Berlin Secession: painterly naturalism with Jugendstil linear elegance, cool urban oil — neither salon finish nor Impressionist dabs.",
+    "description_zh": "柏林分离派：绘画性自然主义加新艺术线韵，冷调都市油画，非沙龙抛光亦非印象派碎笔。",
+    "source": "hermes-explore",
+    "image": "styles/2076-berlin-secession.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2034",
+    "slug": "productivism",
+    "name_en": "Productivism",
+    "name_zh": "生产主义",
+    "description_en": "Productivism: industrial constructivist photomontage geometry, utilitarian material planes, diagonal dynamism — no slogans or flags.",
+    "description_zh": "生产主义：工业构成派蒙太奇几何、实用材质平面、斜向动势，无标语无旗帜。",
+    "source": "hermes-explore",
+    "image": "styles/2077-productivism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2035",
+    "slug": "euston-road-school",
+    "name_en": "Euston Road School",
+    "name_zh": "尤斯顿路画派",
+    "description_en": "Euston Road School: muted London greys, measured observational oil, sober tonal realism — anti-surreal, honest proportion.",
+    "description_zh": "尤斯顿路画派：伦敦灰褐、审慎观察油画、克制色调写实，反超现实，比例诚实。",
+    "source": "hermes-explore",
+    "image": "styles/2078-euston-road-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

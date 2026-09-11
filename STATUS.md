@@ -5700,6 +5700,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2073, PNG count 2073. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 407 (exactly 5, h2031–h2035)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h2031 | Chiarismo          | 明澄主义        | styles/2074-chiarismo.png             |
+| h2032 | De Ploeg           | 犁社            | styles/2075-de-ploeg.png              |
+| h2033 | Berlin Secession   | 柏林分离派      | styles/2076-berlin-secession.png      |
+| h2034 | Productivism       | 生产主义        | styles/2077-productivism.png          |
+| h2035 | Euston Road School | 尤斯顿路画派    | styles/2078-euston-road-school.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2078, PNG count 2078. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
