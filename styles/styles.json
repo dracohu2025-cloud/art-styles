@@ -24477,5 +24477,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h1841",
+    "slug": "unism",
+    "name_en": "Unism",
+    "name_zh": "单质主义",
+    "description_en": "Unism: Strzemiński Unizm afterimage painting — close-value colors melt into one optical continuum, no isolated contours or contrast accents, rhythmic lines continue the afterimage, matte gouache-like planes — not Suprematism, not Constructivism, not De Stijl.",
+    "description_zh": "单质主义：斯特热明斯基Unizm余像绘画，近明度色彩熔成连续视场、无孤立轮廓与强对比、节奏线延续余像、哑光水粉色面，非至上主义、非构成主义、非风格派。",
+    "source": "hermes-explore",
+    "image": "styles/1884-unism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1842",
+    "slug": "poetism",
+    "name_en": "Poetism",
+    "name_zh": "诗主义",
+    "description_en": "Poetism: Czech Devětsil Poetismus lyric picture-poem — circus-bright sun disks, sailor-stripe bands, airy photomontage without readable type, optimistic machine-age lightness — not Dada shock, not Constructivist poster, not Surrealism.",
+    "description_zh": "诗主义：捷克德维齐尔Poetismus抒情图画诗，马戏明丽日盘、水手条带、无字的轻快照片拼贴、乐观机器时代轻盈，非达达冲击、非构成主义海报、非超现实。",
+    "source": "hermes-explore",
+    "image": "styles/1885-poetism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1843",
+    "slug": "bamboccianti",
+    "name_en": "Bamboccianti",
+    "name_zh": "班博乔派",
+    "description_en": "Bamboccianti: 17th-c. Dutch–Flemish painters in Rome — small cabinet oil, warm umbers and terracotta, low courtyard light, humble alley architecture, genre-scale figures without heroic tenebrism — not Caravaggio altar drama, not Vermeer interiors, not Rococo fête.",
+    "description_zh": "班博乔派：十七世纪旅罗马荷佛兰画家，小幅柜画油画、暖褐与陶土红、低庭院光、朴素巷弄建筑、风俗尺度人物而无祭坛式暗部戏剧，非卡拉瓦乔祭坛、非维米尔室内、非洛可可游乐。",
+    "source": "hermes-explore",
+    "image": "styles/1886-bamboccianti.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1844",
+    "slug": "jingyeong",
+    "name_en": "Jingyeong",
+    "name_zh": "真景山水",
+    "description_en": "Jingyeong: late Joseon true-view landscape (진경산수) after Jeong Seon — actual Korean granite peaks, hemp-fiber and axe-cut cun, diamond-dot pines, pale mineral washes and mist bands — not Chinese court qinglü, not Nihonga, not plein-air watercolor.",
+    "description_zh": "真景山水：朝鲜后期真景（진경산수）郑敾一路，实见朝鲜花岗峰、披麻与斧劈皴、菱点松、淡矿彩与云气带，非中国院体青绿、非日本画、非外光水彩。",
+    "source": "hermes-explore",
+    "image": "styles/1887-jingyeong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h1845",
+    "slug": "toba-e",
+    "name_en": "Toba-e",
+    "name_zh": "鸟羽绘",
+    "description_en": "Toba-e: Japanese caricature painting in the Toba Sōjō / Chōjū-giga lineage — abbreviated wet ink, elastic humorous distortion, pale paper, light umber wash, handscroll comic rhythm — not nishiki-e ukiyo-e, not modern manga screentone, not Zenga splash.",
+    "description_zh": "鸟羽绘：鸟羽僧正／鸟兽戏画一系日本戏画，湿墨简笔、弹性谐谑变形、素纸浅赭洗、手卷漫画节奏，非锦绘浮世绘、非现代网点漫画、非禅画泼墨。",
+    "source": "hermes-explore",
+    "image": "styles/1888-toba-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

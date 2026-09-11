@@ -5165,6 +5165,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1883, PNG count 1883. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 369 (exactly 5, h1841–h1845)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                             |
+|-------|---------------|-------------|-----------------------------------|
+| h1841 | Unism         | 单质主义    | styles/1884-unism.png             |
+| h1842 | Poetism       | 诗主义      | styles/1885-poetism.png           |
+| h1843 | Bamboccianti  | 班博乔派    | styles/1886-bamboccianti.png      |
+| h1844 | Jingyeong     | 真景山水    | styles/1887-jingyeong.png         |
+| h1845 | Toba-e        | 鸟羽绘      | styles/1888-toba-e.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 1888, PNG count 1888. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
