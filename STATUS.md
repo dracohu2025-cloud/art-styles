@@ -5938,6 +5938,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2158, PNG count 2158. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 424 (exactly 5, h2116–h2120)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|-------------------------------------|
+| h2116 | Zhuxian Nianhua  | 朱仙镇年画  | styles/2159-zhuxian-nianhua.png     |
+| h2117 | Donkey's Tail    | 驴尾社      | styles/2160-donkeys-tail.png        |
+| h2118 | Omega Workshops  | 欧米茄工坊  | styles/2161-omega-workshops.png     |
+| h2119 | Little Masters   | 小大师版画  | styles/2162-little-masters.png      |
+| h2120 | Cézannism        | 塞尚主义    | styles/2163-cezannism.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2163, PNG count 2163. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

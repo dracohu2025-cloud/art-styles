@@ -28052,5 +28052,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2116",
+    "slug": "zhuxian-nianhua",
+    "name_en": "Zhuxian Nianhua",
+    "name_zh": "朱仙镇年画",
+    "description_en": "Zhuxian Town New Year woodblock: thick key-block outlines, mineral vermilion-orpiment-indigo-green overprint, coarse paper tooth, slight misregister, Henan folk graphic flatness.",
+    "description_zh": "朱仙镇年画：粗黑主版线、朱砂雄黄靛蓝石绿套色、粗纸肌理、轻微错版、河南民间木版图形平涂。",
+    "source": "hermes-explore",
+    "image": "styles/2159-zhuxian-nianhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2117",
+    "slug": "donkeys-tail",
+    "name_en": "Donkey's Tail",
+    "name_zh": "驴尾社",
+    "description_en": "Donkey's Tail: 1912 Moscow cubo-futurist neoprimitivism, lubok contours fractured into raw pigment planes, peasant-modern tilt, Larionov–Goncharova workshop energy.",
+    "description_zh": "驴尾社：一九一二年莫斯科立体未来新原始、民间木版轮廓碎成原色色面、农民现代倾斜空间、拉里奥诺夫–冈察洛娃工坊能量。",
+    "source": "hermes-explore",
+    "image": "styles/2160-donkeys-tail.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2118",
+    "slug": "omega-workshops",
+    "name_en": "Omega Workshops",
+    "name_zh": "欧米茄工坊",
+    "description_en": "Omega Workshops: Bloomsbury applied-arts painting, Post-Impressionist color patches, hand-painted screens and textiles, matte decorative interior rhythm after Fry–Bell–Grant.",
+    "description_zh": "欧米茄工坊：布鲁姆斯伯里应用绘画、后印象派色块、手绘屏风与织物、弗莱–贝尔–格兰特式哑光装饰室内节奏。",
+    "source": "hermes-explore",
+    "image": "styles/2161-omega-workshops.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2119",
+    "slug": "little-masters",
+    "name_en": "Little Masters",
+    "name_zh": "小大师版画",
+    "description_en": "Little Masters (Kleinmeister): 16th-century German copper engraving, dense burin hatching, silvery laid paper, Northern Renaissance ornamental landscape line without copying a plate.",
+    "description_zh": "小大师版画：十六世纪德国铜版细刻、密排线与交叉排线、银白布纹纸、北方文艺复兴装饰风景线刻。",
+    "source": "hermes-explore",
+    "image": "styles/2162-little-masters.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2120",
+    "slug": "cezannism",
+    "name_en": "Cézannism",
+    "name_zh": "塞尚主义",
+    "description_en": "Cézannism: constructive parallel brush-planes, form as cylinder sphere cone, muted Provençal ochre-viridian-grey, contour dissolving into facets, tilted table-orchard space.",
+    "description_zh": "塞尚主义：平行笔触建构色面、形体作圆柱圆球圆锥、普罗旺斯赭绿灰蓝、轮廓溶入切面、倾斜桌面与果园空间。",
+    "source": "hermes-explore",
+    "image": "styles/2163-cezannism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
