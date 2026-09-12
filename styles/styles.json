@@ -27532,5 +27532,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2076",
+    "slug": "songjiang-school",
+    "name_en": "Songjiang School",
+    "name_zh": "松江画派",
+    "description_en": "Late-Ming Songjiang / Huating literati landscape: dry pale ink on silk, hemp-fiber cun, mist bands, calligraphic contour, scholarly restraint.",
+    "description_zh": "晚明松江/华亭文人山水：干淡墨、披麻皴、云气留白、书法性轮廓、简淡克制。",
+    "source": "hermes-explore",
+    "image": "styles/2119-songjiang-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2077",
+    "slug": "loudong-school",
+    "name_en": "Loudong School",
+    "name_zh": "娄东画派",
+    "description_en": "Qing orthodox Loudong landscape after Wang Yuanqi: piled ridges, hemp-fiber texture, ochre-ink on yellowed silk, dry-on-wet layering.",
+    "description_zh": "清娄东正统山水（王原祁一脉）：积石层峦、披麻皴、赭墨绢色、干湿互破。",
+    "source": "hermes-explore",
+    "image": "styles/2120-loudong-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2078",
+    "slug": "yushan-school",
+    "name_en": "Yushan School",
+    "name_zh": "虞山画派",
+    "description_en": "Qing Yushan grand landscape after Wang Hui: monumental blue-green and ink peaks, long hemp-fiber cun, Song structure with Qing brush.",
+    "description_zh": "清虞山派大山水（王翚一脉）：青绿与水墨高峰、长披麻皴、宋人格局清人笔。",
+    "source": "hermes-explore",
+    "image": "styles/2121-yushan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2079",
+    "slug": "seville-school",
+    "name_en": "Seville School",
+    "name_zh": "塞维利亚画派",
+    "description_en": "Spanish Golden Age Seville School oil: warm tenebrism, ochre-umber-carmine, Murillo softness and Zurbarán drapery in earth light.",
+    "description_zh": "西班牙黄金时代塞维利亚画派油画：暖色明暗法、赭棕胭脂、穆里略柔光与苏巴朗衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2122-seville-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2080",
+    "slug": "isabelline-gothic",
+    "name_en": "Isabelline Gothic",
+    "name_zh": "伊莎贝尔哥特",
+    "description_en": "Late-15th-c. Isabelline Gothic: florid limestone tracery, gilt on pale stone, heraldic carving, late-Gothic arches as picture language.",
+    "description_zh": "十五世纪末伊莎贝尔哥特：繁密石雕窗花、浅石贴金、纹章浮雕、晚期哥特拱券作为画面语言。",
+    "source": "hermes-explore",
+    "image": "styles/2123-isabelline-gothic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

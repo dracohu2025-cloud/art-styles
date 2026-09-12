@@ -5826,6 +5826,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2118, PNG count 2118. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 416 (exactly 5, h2076–h2080)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h2076 | Songjiang School   | 松江画派        | styles/2119-songjiang-school.png      |
+| h2077 | Loudong School     | 娄东画派        | styles/2120-loudong-school.png        |
+| h2078 | Yushan School      | 虞山画派        | styles/2121-yushan-school.png         |
+| h2079 | Seville School     | 塞维利亚画派    | styles/2122-seville-school.png        |
+| h2080 | Isabelline Gothic  | 伊莎贝尔哥特    | styles/2123-isabelline-gothic.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2123, PNG count 2123. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
