@@ -6064,6 +6064,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2203, PNG count 2203. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 433 (exactly 5, h2161–h2165)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh         | image                            |
+|-------|---------------|-----------------|----------------------------------|
+| h2161 | Pazyryk       | 巴泽雷克        | styles/2204-pazyryk.png          |
+| h2162 | Ayutthaya     | 大城风格        | styles/2205-ayutthaya.png        |
+| h2163 | Paleologan    | 帕里奥洛格      | styles/2206-paleologan.png       |
+| h2164 | Tabriz School | 大不里士画派    | styles/2207-tabriz-school.png    |
+| h2165 | Nazca         | 纳斯卡陶绘      | styles/2208-nazca.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2208, PNG count 2208. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

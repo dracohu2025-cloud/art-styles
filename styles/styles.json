@@ -28637,5 +28637,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2161",
+    "slug": "pazyryk",
+    "name_en": "Pazyryk",
+    "name_zh": "巴泽雷克",
+    "description_en": "Pazyryk: Iron Age Altai felt appliqué — stacked saddle-red, indigo and ochre zoomorphs with stepped contours and chain-stitch outlines.",
+    "description_zh": "巴泽雷克：阿尔泰铁器时代毡贴——鞍红、靛蓝与赭色动物纹，阶梯轮廓与链式缝线。",
+    "source": "hermes-explore",
+    "image": "styles/2204-pazyryk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2162",
+    "slug": "ayutthaya",
+    "name_en": "Ayutthaya",
+    "name_zh": "大城风格",
+    "description_en": "Ayutthaya: Thai temple-mural painting — mineral pigments and gold leaf on plaster, flattened registers, flame outlines, red-lacquer ground.",
+    "description_zh": "大城风格：泰式寺壁画——灰泥上矿物颜料与金箔，分层构图、火焰轮廓与红漆底。",
+    "source": "hermes-explore",
+    "image": "styles/2205-ayutthaya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2163",
+    "slug": "paleologan",
+    "name_en": "Paleologan",
+    "name_zh": "帕里奥洛格",
+    "description_en": "Paleologan: Late Byzantine Palaiologan painting — returning volume in nested drapery, gold-ground tesserae, jewel tempera, architectural space.",
+    "description_zh": "帕里奥洛格：晚期拜占庭绘画——层层衣褶恢复体积，金地马赛克、宝石色蛋彩与建筑空间。",
+    "source": "hermes-explore",
+    "image": "styles/2206-paleologan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2164",
+    "slug": "tabriz-school",
+    "name_en": "Tabriz School",
+    "name_zh": "大不里士画派",
+    "description_en": "Tabriz School: Safavid royal miniature — jewel opaque watercolor, dense garden carpets, high horizon, lapis-malachite-gold illumination.",
+    "description_zh": "大不里士画派：萨法维宫廷细密画——宝石色不透明水彩，繁密花园毯纹、高地平与青金石—孔雀石—金箔。",
+    "source": "hermes-explore",
+    "image": "styles/2207-tabriz-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2165",
+    "slug": "nazca",
+    "name_en": "Nazca",
+    "name_zh": "纳斯卡陶绘",
+    "description_en": "Nazca: South-coast Andean polychrome slip painting — cream-orange ground, closed black-red-white contours, mythical-being ceramic registers.",
+    "description_zh": "纳斯卡陶绘：安第斯南岸多彩陶衣——乳白橙地、黑红白闭合轮廓与神话形象陶绘分栏。",
+    "source": "hermes-explore",
+    "image": "styles/2208-nazca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
