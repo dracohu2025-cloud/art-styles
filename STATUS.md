@@ -5742,6 +5742,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2088, PNG count 2088. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 410 (exactly 5, h2046–h2050)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh             | image                               |
+|-------|--------------------|---------------------|-------------------------------------|
+| h2046 | Arts and Crafts    | 工艺美术运动        | styles/2089-arts-and-crafts.png     |
+| h2047 | Socialist Realism  | 社会主义现实主义    | styles/2090-socialist-realism.png   |
+| h2048 | Costumbrismo       | 风俗主义            | styles/2091-costumbrismo.png        |
+| h2049 | Florentine School  | 佛罗伦萨画派        | styles/2092-florentine-school.png   |
+| h2050 | Strapaese          | 乡土主义            | styles/2093-strapaese.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2093, PNG count 2093. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

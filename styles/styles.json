@@ -27142,5 +27142,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2046",
+    "slug": "arts-and-crafts",
+    "name_en": "Arts and Crafts",
+    "name_zh": "工艺美术运动",
+    "description_en": "Arts and Crafts: Morris–Ashbee medieval-revival craft painting, flattened botanical acanthus and trellis, woodcut-like contour, sage-indigo-madder-ochre, honest-material wallpaper plane.",
+    "description_zh": "工艺美术运动：莫里斯–阿什比中世纪复兴手工艺绘画、扁平莨苕与棚架纹样、木刻式轮廓、鼠尾草-靛蓝-茜红-赭石、诚实材料墙纸平面。",
+    "source": "hermes-explore",
+    "image": "styles/2089-arts-and-crafts.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2047",
+    "slug": "socialist-realism",
+    "name_en": "Socialist Realism",
+    "name_zh": "社会主义现实主义",
+    "description_en": "Socialist Realism: 1930s–50s academic monumental oil, sculptural volumes, noon daylight, idealized healthy figure, polished blended brush, red-gold-sky-blue, plaza-scale poster-clarity edges.",
+    "description_zh": "社会主义现实主义：1930–50年代学院纪念碑油画、雕塑体量、正午日光、理想化健康形体、光滑融合笔触、红-金-天蓝、广场尺度海报式清晰边缘。",
+    "source": "hermes-explore",
+    "image": "styles/2090-socialist-realism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2048",
+    "slug": "costumbrismo",
+    "name_en": "Costumbrismo",
+    "name_zh": "风俗主义",
+    "description_en": "Costumbrismo: 19th-century Spanish and Latin American costumbrista genre oil, folkloric local-customs plaza, glazed-tile and shawl ornament, dusty ochre and cobalt, romantic-realist brush.",
+    "description_zh": "风俗主义：19世纪西班牙与拉丁美洲风俗油画、民俗地方习俗广场、釉砖与披肩纹样、尘赭与钴蓝、浪漫写实笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2091-costumbrismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2049",
+    "slug": "florentine-school",
+    "name_en": "Florentine School",
+    "name_zh": "佛罗伦萨画派",
+    "description_en": "Florentine School: Italian Quattrocento linear tradition, egg-tempera clarity, sculptural drapery, perspective tiled floor, local color, crisp contour, calm daylight volumetric modeling.",
+    "description_zh": "佛罗伦萨画派：意大利十五世纪线性传统、蛋彩清晰、雕塑式衣褶、透视地砖、固有色、明确轮廓、平静日光体积塑造。",
+    "source": "hermes-explore",
+    "image": "styles/2092-florentine-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2050",
+    "slug": "strapaese",
+    "name_en": "Strapaese",
+    "name_zh": "乡土主义",
+    "description_en": "Strapaese: 1920s Italian rural traditionalist oil, ochre plaster, cypress and terracotta, simplified volumes, earthy brown-green-sienna, folk-modern contour, sunbaked midday village.",
+    "description_zh": "乡土主义：1920年代意大利乡村传统油画、赭色灰泥、柏树与陶瓦、简化体量、褐绿赭土色、民俗现代轮廓、曝晒正午村落。",
+    "source": "hermes-explore",
+    "image": "styles/2093-strapaese.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
