@@ -6078,6 +6078,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2208, PNG count 2208. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 434 (exactly 5, h2166–h2170)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh         | image                         |
+|-------|------------|-----------------|-------------------------------|
+| h2166 | Momoyama   | 桃山障壁画      | styles/2209-momoyama.png      |
+| h2167 | Lanna      | 兰纳壁画        | styles/2210-lanna.png         |
+| h2168 | Haniwa     | 埴轮            | styles/2211-haniwa.png        |
+| h2169 | Komnenian  | 科穆宁风格      | styles/2212-komnenian.png     |
+| h2170 | Recuay     | 雷夸伊陶绘      | styles/2213-recuay.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2213, PNG count 2213. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

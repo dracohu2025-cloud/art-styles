@@ -28702,5 +28702,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2166",
+    "slug": "momoyama",
+    "name_en": "Momoyama",
+    "name_zh": "桃山障壁画",
+    "description_en": "Momoyama: Japanese gold-ground screen painting — kinpeki folding screens, bold ink, azurite-malachite mineral color, gold cloud bands.",
+    "description_zh": "桃山障壁画：金碧障屏——金箔折屏、浓墨勾勒、石青石绿矿物色与金云纹。",
+    "source": "hermes-explore",
+    "image": "styles/2209-momoyama.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2167",
+    "slug": "lanna",
+    "name_en": "Lanna",
+    "name_zh": "兰纳壁画",
+    "description_en": "Lanna: Northern Thai temple mural — gold-leaf on red-gold-green mineral palette, sinuous outlines, dense narrative registers.",
+    "description_zh": "兰纳壁画：北泰寺壁——红金绿矿物色上贴金、游丝轮廓与稠密叙事分栏。",
+    "source": "hermes-explore",
+    "image": "styles/2210-lanna.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2168",
+    "slug": "haniwa",
+    "name_en": "Haniwa",
+    "name_zh": "埴轮",
+    "description_en": "Haniwa: Kofun-period hollow terracotta — unglazed reddish clay cylinders, incised slit features, combed earthenware volumes.",
+    "description_zh": "埴轮：古坟时代中空陶俑——素烧红褐陶筒、阴刻细缝五官与拍印泥塑体量。",
+    "source": "hermes-explore",
+    "image": "styles/2211-haniwa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2169",
+    "slug": "komnenian",
+    "name_en": "Komnenian",
+    "name_zh": "科穆宁风格",
+    "description_en": "Komnenian: 12th-century Byzantine renaissance painting — gold ground, nested linear drapery, enamel-like jewel tempera.",
+    "description_zh": "科穆宁风格：十二世纪拜占庭复兴绘画——金地、层层线描衣褶与珐琅般宝石色蛋彩。",
+    "source": "hermes-explore",
+    "image": "styles/2212-komnenian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2170",
+    "slug": "recuay",
+    "name_en": "Recuay",
+    "name_zh": "雷夸伊陶绘",
+    "description_en": "Recuay: Andean cream-slip ceramic painting — resist-paint negatives, red-black-cream contours, geometric-feline registers.",
+    "description_zh": "雷夸伊陶绘：安第斯乳白陶衣——防染阴纹、红黑乳白轮廓与几何猫科纹样分栏。",
+    "source": "hermes-explore",
+    "image": "styles/2213-recuay.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
