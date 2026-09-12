@@ -6106,6 +6106,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2218, PNG count 2218. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 436 (exactly 5, h2176–h2180)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh         | image                         |
+|-------|------------|-----------------|-------------------------------|
+| h2176 | Tiraz      | 提拉兹          | styles/2219-tiraz.png         |
+| h2177 | Muromachi  | 室町水墨        | styles/2220-muromachi.png     |
+| h2178 | Almohad    | 穆瓦希德        | styles/2221-almohad.png       |
+| h2179 | Chōkin     | 彫金            | styles/2222-chokin.png        |
+| h2180 | Urartian   | 乌拉尔图        | styles/2223-urartian.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2223, PNG count 2223. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

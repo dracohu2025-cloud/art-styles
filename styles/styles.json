@@ -28832,5 +28832,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2176",
+    "slug": "tiraz",
+    "name_en": "Tiraz",
+    "name_zh": "提拉兹",
+    "description_en": "Tiraz: Abbasid–Fatimid inscribed textiles — tapestry-woven Kufic bands, gold-silk thread on linen and mulham, palmette fillers.",
+    "description_zh": "提拉兹：阿拔斯–法蒂玛铭文织物——缂织库法体饰带、亚麻与穆勒哈姆上的金丝、棕叶填充。",
+    "source": "hermes-explore",
+    "image": "styles/2219-tiraz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2177",
+    "slug": "muromachi",
+    "name_en": "Muromachi",
+    "name_zh": "室町水墨",
+    "description_en": "Muromachi: Higashiyama ink on silk — spare sumi, wet mist, broken-ink pines and rocks, pale gold-flecked ground, mineral accents.",
+    "description_zh": "室町水墨：东山院体绢本——简净墨法、湿雾、破墨松石、淡洒金地与矿物点色。",
+    "source": "hermes-explore",
+    "image": "styles/2220-muromachi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2178",
+    "slug": "almohad",
+    "name_en": "Almohad",
+    "name_zh": "穆瓦希德",
+    "description_en": "Almohad: Maghrebi–Andalusian ornament — sebka interlaces, cut-brick and stucco geometry, austere whitewash, cedar-ochre, Kufic bands.",
+    "description_zh": "穆瓦希德：马格里布–安达卢斯纹样——塞卜卡交织、砍砖与灰泥几何、素白灰、雪松赭与库法饰带。",
+    "source": "hermes-explore",
+    "image": "styles/2221-almohad.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2179",
+    "slug": "chokin",
+    "name_en": "Chōkin",
+    "name_zh": "彫金",
+    "description_en": "Chōkin: Japanese metal chasing — chisel-cut lines in shakudō and shibuichi, gold-silver inlay, punched grounds, patinated plaque.",
+    "description_zh": "彫金：日本金属錾刻——赤铜与四分一上的錾刀线、金银镶嵌、敲打地纹与包浆牌面。",
+    "source": "hermes-explore",
+    "image": "styles/2222-chokin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2180",
+    "slug": "urartian",
+    "name_en": "Urartian",
+    "name_zh": "乌拉尔图",
+    "description_en": "Urartian: Anatolian highland metal-relief — bronze belt processions, winged solar disc, composite beasts, fortress basalt, cuneiform borders.",
+    "description_zh": "乌拉尔图：安纳托利亚高原金属浮雕——青铜腰带行列、翼日轮、复合神兽、堡垒玄武岩与楔形饰边。",
+    "source": "hermes-explore",
+    "image": "styles/2223-urartian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
