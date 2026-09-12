@@ -5966,6 +5966,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2168, PNG count 2168. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 426 (exactly 5, h2126–h2130)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                         |
+|-------|--------------|-------------|-------------------------------|
+| h2126 | Mavo         | 玛沃        | styles/2169-mavo.png          |
+| h2127 | Forma 1      | 形式一集团  | styles/2170-forma-1.png       |
+| h2128 | Unit One     | 第一单元    | styles/2171-unit-one.png      |
+| h2129 | Corrente     | 潮流画会    | styles/2172-corrente.png      |
+| h2130 | Empire Style | 帝政风格    | styles/2173-empire-style.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2173, PNG count 2173. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

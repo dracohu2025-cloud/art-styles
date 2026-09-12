@@ -28182,5 +28182,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2126",
+    "slug": "mavo",
+    "name_en": "Mavo",
+    "name_zh": "玛沃",
+    "description_en": "Mavo: Tokyo 1923–1925 Dada-Constructivist avant-garde, anarchic collage of letterpress shards, industrial diagrams, primary geometric fragments and photomontage grit.",
+    "description_zh": "玛沃：东京一九二三至一九二五年达达构成主义前卫、活字碎片无政府拼贴、工业图纸、原色几何碎块与摄影蒙太奇粗粝。",
+    "source": "hermes-explore",
+    "image": "styles/2169-mavo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2127",
+    "slug": "forma-1",
+    "name_en": "Forma 1",
+    "name_zh": "形式一集团",
+    "description_en": "Forma 1: Italian 1947 abstract-concrete group, lucid hard-edge color planes, post-cubist structure, enamel-smooth geometry and rational interlocking fields.",
+    "description_zh": "形式一集团：意大利一九四七年抽象具体团体、清晰硬边色面、后立体派结构、珐琅般平滑几何与理性咬合色域。",
+    "source": "hermes-explore",
+    "image": "styles/2170-forma-1.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2128",
+    "slug": "unit-one",
+    "name_en": "Unit One",
+    "name_zh": "第一单元",
+    "description_en": "Unit One: British 1933 modernist group, biomorphic carved volumes against taut geometric relief, pale plaster and slate, seaside-object constructivism.",
+    "description_zh": "第一单元：英国一九三三年现代主义团体、生物形态雕体积块对峙绷紧几何浮雕、浅石膏与板岩色、海滨物件构成主义。",
+    "source": "hermes-explore",
+    "image": "styles/2171-unit-one.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2129",
+    "slug": "corrente",
+    "name_en": "Corrente",
+    "name_zh": "潮流画会",
+    "description_en": "Corrente: Milan 1938–1943 expressionist painting, earthy urgent oil, broken directional stroke, anti-Novecento moral heat and atelier interiors.",
+    "description_zh": "潮流画会：米兰一九三八至一九四三年表现主义绘画、泥土色急促油画、断裂方向笔触、反二十世纪派道德热度与画室室内。",
+    "source": "hermes-explore",
+    "image": "styles/2172-corrente.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2130",
+    "slug": "empire-style",
+    "name_en": "Empire Style",
+    "name_zh": "帝政风格",
+    "description_en": "Empire Style: Napoleonic 1800–1815 decorative neoclassicism, mahogany and ormolu, palmette and laurel, imperial crimson-gold, cameo-clear antique contour.",
+    "description_zh": "帝政风格：拿破仑一八〇〇至一八一五年装饰新古典、桃花心木与镀金铜饰、掌叶与月桂、帝政绯红金色、浮雕般清晰古典轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2173-empire-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
