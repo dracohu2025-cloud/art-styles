@@ -5770,6 +5770,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2098, PNG count 2098. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 412 (exactly 5, h2056–h2060)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                                 |
+|-------|--------------------|---------------|---------------------------------------|
+| h2056 | Lowbrow            | 低俗艺术      | styles/2099-lowbrow.png               |
+| h2057 | Toyism             | 玩具主义      | styles/2100-toyism.png                |
+| h2058 | Neapolitan School  | 那不勒斯画派  | styles/2101-neapolitan-school.png     |
+| h2059 | Bruges School      | 布鲁日画派    | styles/2102-bruges-school.png         |
+| h2060 | Return to Order    | 回归秩序      | styles/2103-return-to-order.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2103, PNG count 2103. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

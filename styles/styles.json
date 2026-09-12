@@ -27272,5 +27272,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2056",
+    "slug": "lowbrow",
+    "name_en": "Lowbrow",
+    "name_zh": "低俗艺术",
+    "description_en": "Los Angeles underground pop-culture painting: high-chroma enamel surfaces, cartoon-pop contours, tattoo-flash graphics, and glossy candy highlights.",
+    "description_zh": "洛杉矶地下波普绘画：高饱和搪瓷质感、卡通描边、纹身闪图图形与糖果高光。",
+    "source": "hermes-explore",
+    "image": "styles/2099-lowbrow.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2057",
+    "slug": "toyism",
+    "name_en": "Toyism",
+    "name_zh": "玩具主义",
+    "description_en": "1990s Dutch figurative movement: toy-like volumes, thick closed outlines, enamel primaries, and puzzle-piece patterning with plastic-toy clarity.",
+    "description_zh": "1990年代荷兰具象运动：玩具体积、闭合粗轮廓、搪瓷原色与拼图形图案，塑料玩具般清晰。",
+    "source": "hermes-explore",
+    "image": "styles/2100-toyism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2058",
+    "slug": "neapolitan-school",
+    "name_en": "Neapolitan School",
+    "name_zh": "那不勒斯画派",
+    "description_en": "17th-century Naples Baroque: theatrical tenebrism, warm umber darks, honeyed raking light, and bravura brush on rumpled drapery.",
+    "description_zh": "十七世纪那不勒斯巴洛克：戏剧性暗色法、温暖赭褐暗部、蜜色侧光与褶皱衣饰上的奔放笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2101-neapolitan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2059",
+    "slug": "bruges-school",
+    "name_en": "Bruges School",
+    "name_zh": "布鲁日画派",
+    "description_en": "Early Netherlandish oil of Memling’s Bruges: luminous glazes, jewel local color, microscopic fabric detail, and enamel-smooth flesh.",
+    "description_zh": "梅姆林一系的早期尼德兰油画：透明罩染、宝石般固有色、织物微距细节与珐琅般肌肤。",
+    "source": "hermes-explore",
+    "image": "styles/2102-bruges-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2060",
+    "slug": "return-to-order",
+    "name_en": "Return to Order",
+    "name_zh": "回归秩序",
+    "description_en": "Post-WWI Rappel à l’ordre classicism: calm monumental volumes, unbroken contour, sculptural drapery, and fresco-like earth color after Cubism.",
+    "description_zh": "一战后回归秩序的古典风：沉稳纪念碑体积、连贯轮廓、雕塑般衣褶与立体主义之后的湿壁画土色。",
+    "source": "hermes-explore",
+    "image": "styles/2103-return-to-order.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
