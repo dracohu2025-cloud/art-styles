@@ -28962,5 +28962,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2186",
+    "slug": "nang-yai",
+    "name_en": "Nang Yai",
+    "name_zh": "南艾皮影",
+    "description_en": "Thai grand shadow-play hide: perforated buffalo leather, lacquered red-green-gold, lamplit screen.",
+    "description_zh": "泰国大皮影：镂空水牛皮、红绿金漆、灯影幕。",
+    "source": "hermes-explore",
+    "image": "styles/2229-nang-yai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2187",
+    "slug": "filimonovo",
+    "name_en": "Filimonovo",
+    "name_zh": "菲利莫诺沃彩绘",
+    "description_en": "Russian whistle-toy painting: elongated clay, white slip, aniline crimson-yellow-green stripes.",
+    "description_zh": "俄罗斯口哨陶偶彩绘：细长泥胎、白化妆土、品红黄绿条纹。",
+    "source": "hermes-explore",
+    "image": "styles/2230-filimonovo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2188",
+    "slug": "sand-ground",
+    "name_en": "Sand Ground",
+    "name_zh": "砂地飞尘",
+    "description_en": "Intaglio sand-ground aquatint: peppery bitten grain, velvety plate-tone, cream laid paper.",
+    "description_zh": "砂粒飞尘蚀刻：胡椒状咬腐颗粒、丝绒版调、米色手工纸。",
+    "source": "hermes-explore",
+    "image": "styles/2231-sand-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2189",
+    "slug": "spaterie",
+    "name_en": "Späterie",
+    "name_zh": "麦秸镶嵌",
+    "description_en": "Straw marquetry: split rye veneers in chevron and sunburst grain on dark wood.",
+    "description_zh": "麦秸镶嵌：剖开黑麦秸秆人字与放射拼贴于深色木地。",
+    "source": "hermes-explore",
+    "image": "styles/2232-spaterie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2190",
+    "slug": "opishnia",
+    "name_en": "Opishnia",
+    "name_zh": "奥皮什尼亚陶绘",
+    "description_en": "Ukrainian Opishnia ceramic painting: cobalt-green-iron florals, dotted contours, glossy folk glaze.",
+    "description_zh": "乌克兰奥皮什尼亚陶绘：钴绿铁红花卉、点状勾边、亮釉民俗器。",
+    "source": "hermes-explore",
+    "image": "styles/2233-opishnia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -6134,6 +6134,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2228, PNG count 2228. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 438 (exactly 5, h2186–h2190)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh           | image                           |
+|-------|--------------|-------------------|---------------------------------|
+| h2186 | Nang Yai     | 南艾皮影          | styles/2229-nang-yai.png        |
+| h2187 | Filimonovo   | 菲利莫诺沃彩绘    | styles/2230-filimonovo.png      |
+| h2188 | Sand Ground  | 砂地飞尘          | styles/2231-sand-ground.png     |
+| h2189 | Späterie     | 麦秸镶嵌          | styles/2232-spaterie.png        |
+| h2190 | Opishnia     | 奥皮什尼亚陶绘    | styles/2233-opishnia.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2233, PNG count 2233. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
