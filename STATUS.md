@@ -6092,6 +6092,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2213, PNG count 2213. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 435 (exactly 5, h2171–h2175)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh         | image                         |
+|-------|------------|-----------------|-------------------------------|
+| h2171 | Ilkhanid   | 伊尔汗细密画    | styles/2214-ilkhanid.png      |
+| h2172 | Dong Son   | 东山铜鼓        | styles/2215-dong-son.png      |
+| h2173 | Dvaravati  | 堕罗钵底        | styles/2216-dvaravati.png     |
+| h2174 | Majapahit  | 满者伯夷        | styles/2217-majapahit.png     |
+| h2175 | Chimú      | 奇穆            | styles/2218-chimu.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2218, PNG count 2218. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

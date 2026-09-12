@@ -28767,5 +28767,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2171",
+    "slug": "ilkhanid",
+    "name_en": "Ilkhanid",
+    "name_zh": "伊尔汗细密画",
+    "description_en": "Ilkhanid: 14th-century Persian Mongol miniature — gold-flecked paper, Chinese cloud scrolls, jewel mineral pigments, fine contour.",
+    "description_zh": "伊尔汗细密画：十四世纪波斯蒙古细密画——洒金纸地、中式云纹、宝石矿物颜料与细线勾勒。",
+    "source": "hermes-explore",
+    "image": "styles/2214-ilkhanid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2172",
+    "slug": "dong-son",
+    "name_en": "Dong Son",
+    "name_zh": "东山铜鼓",
+    "description_en": "Dong Son: Đông Sơn bronze-drum language — concentric registers, incised boats and birds, green-brown patina, solar tympanum.",
+    "description_zh": "东山铜鼓：东山铜鼓视觉语言——同心圈带、阴刻船鸟、青绿铜锈与太阳鼓面。",
+    "source": "hermes-explore",
+    "image": "styles/2215-dong-son.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2173",
+    "slug": "dvaravati",
+    "name_en": "Dvaravati",
+    "name_zh": "堕罗钵底",
+    "description_en": "Dvaravati: Mon Buddhist sandstone-stucco — laterite warmth, schematic drapery folds, lotus and wheel motifs, temple-niche volumes.",
+    "description_zh": "堕罗钵底：孟族佛教砂岩灰泥——红土暖色、程式化衣褶、莲轮纹样与龛像体量。",
+    "source": "hermes-explore",
+    "image": "styles/2216-dvaravati.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2174",
+    "slug": "majapahit",
+    "name_en": "Majapahit",
+    "name_zh": "满者伯夷",
+    "description_en": "Majapahit: East Javanese temple relief — shallow andesite carving, wayang-like court figures, kala-makara frames, brick-stone texture.",
+    "description_zh": "满者伯夷：东爪哇寺壁浮雕——浅刻安山岩、哇扬式宫廷人物、卡拉摩羯罗边框与砖石肌理。",
+    "source": "hermes-explore",
+    "image": "styles/2217-majapahit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2175",
+    "slug": "chimu",
+    "name_en": "Chimú",
+    "name_zh": "奇穆",
+    "description_en": "Chimú: Chan Chan Andean language — burnished blackware, adobe-relief birds and waves, tumi crescents, hammered silver-gold sheet.",
+    "description_zh": "奇穆：昌昌安第斯语汇——抛光黑陶、土坯浮雕鸟浪、图米新月与锤揲金银箔。",
+    "source": "hermes-explore",
+    "image": "styles/2218-chimu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
