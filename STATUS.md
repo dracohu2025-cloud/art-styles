@@ -5812,6 +5812,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2113, PNG count 2113. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 415 (exactly 5, h2071–h2075)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh     | image                                   |
+|-------|----------------------|-------------|-----------------------------------------|
+| h2071 | Jinling School       | 金陵画派    | styles/2114-jinling-school.png          |
+| h2072 | Xin'an School        | 新安画派    | styles/2115-xinan-school.png            |
+| h2073 | Changzhou School     | 常州画派    | styles/2116-changzhou-school.png        |
+| h2074 | Yangzhou Eccentrics  | 扬州八怪    | styles/2117-yangzhou-eccentrics.png     |
+| h2075 | Nouvelle Tendance    | 新趋势      | styles/2118-nouvelle-tendance.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2118, PNG count 2118. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

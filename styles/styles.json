@@ -27467,5 +27467,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2071",
+    "slug": "jinling-school",
+    "name_en": "Jinling School",
+    "name_zh": "金陵画派",
+    "description_en": "20th-century Nanjing Jinling School: rain-soaked splash-ink, pink-ochre mist, moist gray-green washes, vaporous river flats.",
+    "description_zh": "二十世纪南京金陵画派：雨意泼墨、粉赭岚气、湿润灰绿渲染、江天溶入水汽。",
+    "source": "hermes-explore",
+    "image": "styles/2114-jinling-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2072",
+    "slug": "xinan-school",
+    "name_en": "Xin'an School",
+    "name_zh": "新安画派",
+    "description_en": "Ming-Qing Xin'an / Huangshan school: spare dry-brush rock scaffolding, reserved paper white, pale ink, angular peaks.",
+    "description_zh": "明清新安画派：干笔线性山骨、大量留白、淡墨、棱角黄山。",
+    "source": "hermes-explore",
+    "image": "styles/2115-xinan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2073",
+    "slug": "changzhou-school",
+    "name_en": "Changzhou School",
+    "name_zh": "常州画派",
+    "description_en": "Changzhou / Yun Shouping boneless flower-and-bird: no outline, wet-in-wet mineral blooms, malachite and cinnabar pooling.",
+    "description_zh": "常州画派恽寿平没骨花鸟：无勾勒、湿撞矿物色、石绿与朱砂晕化。",
+    "source": "hermes-explore",
+    "image": "styles/2116-changzhou-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2074",
+    "slug": "yangzhou-eccentrics",
+    "name_en": "Yangzhou Eccentrics",
+    "name_zh": "扬州八怪",
+    "description_en": "Yangzhou Eight Eccentrics: calligraphy-into-painting, dripping ink, abrupt dry-brush, eccentric off-balance composition.",
+    "description_zh": "扬州八怪：以书入画、淋漓墨渍、骤起枯笔、偏侧奇局。",
+    "source": "hermes-explore",
+    "image": "styles/2117-yangzhou-eccentrics.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2075",
+    "slug": "nouvelle-tendance",
+    "name_en": "Nouvelle Tendance",
+    "name_zh": "新趋势",
+    "description_en": "1960s Nouvelle Tendance / programmed optical art: kinetic moiré, hard-edge black-white-silver grids, afterimage flicker.",
+    "description_zh": "一九六〇年代新趋势：程序化视错、动态波纹、硬边黑白银网格、残像闪烁。",
+    "source": "hermes-explore",
+    "image": "styles/2118-nouvelle-tendance.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
