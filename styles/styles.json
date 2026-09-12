@@ -27402,5 +27402,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2066",
+    "slug": "noucentisme",
+    "name_en": "Noucentisme",
+    "name_zh": "新世纪主义",
+    "description_en": "Catalan Noucentista classicism: calm volumes, clear contour, sun-bleached plaster and terracotta, ordered Mediterranean architecture without Modernista flourish.",
+    "description_zh": "加泰罗尼亚新世纪主义古典风：沉静体量、清晰轮廓、晒白灰泥与陶土色、有序的地中海建筑，摒弃现代主义花饰。",
+    "source": "hermes-explore",
+    "image": "styles/2109-noucentisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2067",
+    "slug": "changan-school",
+    "name_en": "Chang'an School",
+    "name_zh": "长安画派",
+    "description_en": "20th-century Chang'an School ink-and-color: monumental loess-plateau masses, bold dry-brush bones, ochre earth and dusty haze of northwest China.",
+    "description_zh": "二十世纪长安画派水墨设色：纪念碑式黄土高原体量、苍劲枯笔骨法、西北赭黄与烟尘气韵。",
+    "source": "hermes-explore",
+    "image": "styles/2110-changan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2068",
+    "slug": "nanyang-style",
+    "name_en": "Nanyang Style",
+    "name_zh": "南洋风格",
+    "description_en": "Mid-century Nanyang Academy painting: equatorial chroma, Chinese ink structure fused with oil body, batik-adjacent contour, tropical foliage as color masses.",
+    "description_zh": "世纪中叶南洋画风：赤道饱和色、水墨骨架与油彩体量融合、蜡染式轮廓、热带植被作色块。",
+    "source": "hermes-explore",
+    "image": "styles/2111-nanyang-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2069",
+    "slug": "northwest-school",
+    "name_en": "Northwest School",
+    "name_zh": "太平洋西北画派",
+    "description_en": "Pacific Northwest School mystic modernism: calligraphic white-writing, gray-green fog, rain-soaked veils, Asian-ink influence in muted coastal light.",
+    "description_zh": "太平洋西北画派神秘现代主义：书法性白写笔迹、灰绿雾气、雨湿层纱、亚洲水墨影响下的低饱和海岸光。",
+    "source": "hermes-explore",
+    "image": "styles/2112-northwest-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2070",
+    "slug": "jack-of-diamonds",
+    "name_en": "Jack of Diamonds",
+    "name_zh": "方块杰克",
+    "description_en": "1910s Moscow Jack of Diamonds (Bubnovy Valet): Cézannist faceted volumes, Fauvist chroma, primitive still-life flattening, thick oil slabs.",
+    "description_zh": "一九一〇年代莫斯科方块杰克：塞尚式切面体量、野兽派高彩、稚拙静物压平、厚涂油彩色块。",
+    "source": "hermes-explore",
+    "image": "styles/2113-jack-of-diamonds.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

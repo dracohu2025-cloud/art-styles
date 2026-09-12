@@ -5798,6 +5798,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2108, PNG count 2108. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 414 (exactly 5, h2066–h2070)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh           | image                                |
+|-------|-------------------|-------------------|--------------------------------------|
+| h2066 | Noucentisme       | 新世纪主义        | styles/2109-noucentisme.png          |
+| h2067 | Chang'an School   | 长安画派          | styles/2110-changan-school.png       |
+| h2068 | Nanyang Style     | 南洋风格          | styles/2111-nanyang-style.png        |
+| h2069 | Northwest School  | 太平洋西北画派    | styles/2112-northwest-school.png     |
+| h2070 | Jack of Diamonds  | 方块杰克          | styles/2113-jack-of-diamonds.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2113, PNG count 2113. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
