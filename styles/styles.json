@@ -28247,5 +28247,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2131",
+    "slug": "devetsil",
+    "name_en": "Devětsil",
+    "name_zh": "九力社",
+    "description_en": "Devětsil: Czech 1920s avant-garde picture-poem modernism, photomontage planes, toy-like machines, circus-red and sky-blue, playful Poetism collage.",
+    "description_zh": "九力社：捷克一九二〇年代先锋图画诗现代主义、摄影蒙太奇平面、玩具般机械、马戏红与天蓝、戏谑诗主义拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/2174-devetsil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2132",
+    "slug": "cercle-et-carre",
+    "name_en": "Cercle et Carré",
+    "name_zh": "圆与方",
+    "description_en": "Cercle et Carré: 1929–1930 Paris geometric abstraction, circle-and-square vocabulary, primary red-yellow-blue plus black, orthogonal and compass planes.",
+    "description_zh": "圆与方：一九二九至一九三〇年巴黎几何抽象、圆与正方形语汇、原色红黄蓝加黑、正交与圆规平面。",
+    "source": "hermes-explore",
+    "image": "styles/2175-cercle-et-carre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2133",
+    "slug": "abstraction-creation",
+    "name_en": "Abstraction-Création",
+    "name_zh": "抽象-创造",
+    "description_en": "Abstraction-Création: 1931–1936 international non-objective painting, biomorphic curves beside hard geometry, clean manifesto color planes, Arp–Herbin language.",
+    "description_zh": "抽象-创造：一九三一至一九三六年国际非具象绘画、有机曲线与硬边几何并存、干净宣言式色面、阿尔普与埃尔宾语汇。",
+    "source": "hermes-explore",
+    "image": "styles/2176-abstraction-creation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2134",
+    "slug": "karelianism",
+    "name_en": "Karelianism",
+    "name_zh": "卡累利阿主义",
+    "description_en": "Karelianism: Finnish National Romantic painting, Kalevala ornament, bold contour, jewel folk color, lakeside pine and granite, Gallen-Kallela fresco flatness.",
+    "description_zh": "卡累利阿主义：芬兰民族浪漫绘画、卡勒瓦拉纹样、浓重轮廓、宝石般民俗色彩、湖岸松与花岗岩、加伦-卡勒拉壁画般平面。",
+    "source": "hermes-explore",
+    "image": "styles/2177-karelianism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2135",
+    "slug": "stile-floreale",
+    "name_en": "Stile Floreale",
+    "name_zh": "花叶风格",
+    "description_en": "Stile Floreale: Italian Liberty floral Art Nouveau, sinuous whiplash, iris and peony, gilt contour, stained-glass color, Chini mural-poster flatness.",
+    "description_zh": "花叶风格：意大利自由风格花卉新艺术、鞭梢曲线、鸢尾与牡丹、描金轮廓、彩窗色彩、基尼壁画招贴般平面。",
+    "source": "hermes-explore",
+    "image": "styles/2178-stile-floreale.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

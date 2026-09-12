@@ -5980,6 +5980,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2173, PNG count 2173. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 427 (exactly 5, h2131–h2135)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh     | image                                   |
+|-------|----------------------|-------------|-----------------------------------------|
+| h2131 | Devětsil             | 九力社      | styles/2174-devetsil.png                |
+| h2132 | Cercle et Carré      | 圆与方      | styles/2175-cercle-et-carre.png         |
+| h2133 | Abstraction-Création | 抽象-创造   | styles/2176-abstraction-creation.png    |
+| h2134 | Karelianism          | 卡累利阿主义| styles/2177-karelianism.png             |
+| h2135 | Stile Floreale       | 花叶风格    | styles/2178-stile-floreale.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2178, PNG count 2178. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
