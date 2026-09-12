@@ -5910,6 +5910,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2148, PNG count 2148. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 422 (exactly 5, h2106–h2110)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh           | image                                  |
+|-------|----------------------|-------------------|----------------------------------------|
+| h2106 | Katsukawa School     | 胜川派            | styles/2149-katsukawa-school.png       |
+| h2107 | Four Monks           | 四僧              | styles/2150-four-monks.png             |
+| h2108 | Rocky Mountain School| 落基山画派        | styles/2151-rocky-mountain-school.png  |
+| h2109 | Les XX               | 二十人团          | styles/2152-les-xx.png                 |
+| h2110 | Kishi School         | 岸派              | styles/2153-kishi-school.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2153, PNG count 2153. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

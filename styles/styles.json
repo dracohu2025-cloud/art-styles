@@ -27922,5 +27922,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2106",
+    "slug": "katsukawa-school",
+    "name_en": "Katsukawa School",
+    "name_zh": "胜川派",
+    "description_en": "Katsukawa School: Edo ukiyo-e actor-print lineage, thick keyblock outlines, flat mineral color, mica skin, striped and checkered kimono as printed textile, empty pale ground.",
+    "description_zh": "胜川派：江户浮世绘役者绘谱系、粗墨主版线、平涂矿物色、云母肤色、条纹棋格和服如套色木版、留白地。",
+    "source": "hermes-explore",
+    "image": "styles/2149-katsukawa-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2107",
+    "slug": "four-monks",
+    "name_en": "Four Monks",
+    "name_zh": "四僧",
+    "description_en": "Four Monks: Qing individualist ink, wet-into-wet bloom, flying-white dry brush, spare xuan ground, eccentric composition, pale mineral notes, broken bone-method contour.",
+    "description_zh": "四僧：清初个性派水墨、湿墨渗化、飞白枯笔、留白宣纸、奇构图、淡设色点、断续骨法线。",
+    "source": "hermes-explore",
+    "image": "styles/2150-four-monks.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2108",
+    "slug": "rocky-mountain-school",
+    "name_en": "Rocky Mountain School",
+    "name_zh": "落基山画派",
+    "description_en": "Rocky Mountain School: 19th-c American sublime landscape oil, Bierstadt–Moran circle, glazed atmospheric peaks, theatrical alpenglow, crystalline air, botanical foreground.",
+    "description_zh": "落基山画派：十九世纪美国崇高风景油画、比尔施塔特–莫兰圈、罩染大气群峰、戏剧晚霞、澄澈空气、前景植物细描。",
+    "source": "hermes-explore",
+    "image": "styles/2151-rocky-mountain-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2109",
+    "slug": "les-xx",
+    "name_en": "Les XX",
+    "name_zh": "二十人团",
+    "description_en": "Les XX: Belgian fin-de-siècle exhibition painting, japonisme flatten, decorative contour, jewel enamel color, Pointillist notes, patterned interior as a field.",
+    "description_zh": "二十人团：比利时世纪末展览绘画、日本主义压平、装饰轮廓、宝石珐琅色、点彩笔触、室内图案化场域。",
+    "source": "hermes-explore",
+    "image": "styles/2152-les-xx.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2110",
+    "slug": "kishi-school",
+    "name_en": "Kishi School",
+    "name_zh": "岸派",
+    "description_en": "Kishi School: Ganku Kyoto lineage, Chinese-influenced Japanese brush, vigorous bone-method ink, light mineral wash, calligraphic contour on silk-paper ground.",
+    "description_zh": "岸派：岸驹京都谱系、受中国影响的日本笔法、强骨法墨线、淡矿物色渲染、绢纸地书法性轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2153-kishi-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
