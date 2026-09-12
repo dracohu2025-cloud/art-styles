@@ -27792,5 +27792,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2096",
+    "slug": "torii-school",
+    "name_en": "Torii School",
+    "name_zh": "鸟居派",
+    "description_en": "Torii School: tar-black even outlines, flat vermillion-cream-pine fields, mica ground, graphic actor-print planes, Edo theatrical woodblock.",
+    "description_zh": "鸟居派：均匀焦黑勾线、朱红-牙白-松绿平涂、云母地、役者绘式平面、江户剧画木版。",
+    "source": "hermes-explore",
+    "image": "styles/2139-torii-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2097",
+    "slug": "new-hope-school",
+    "name_en": "New Hope School",
+    "name_zh": "新希望画派",
+    "description_en": "New Hope School: Pennsylvania Impressionism, broken complementary oil, Delaware river glitter, loaded-brush trees, high-chroma plein-air.",
+    "description_zh": "新希望画派：宾夕法尼亚印象派、互补色断笔、特拉华河光、厚涂树形、高彩外光。",
+    "source": "hermes-explore",
+    "image": "styles/2140-new-hope-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2098",
+    "slug": "worpswede-school",
+    "name_en": "Worpswede School",
+    "name_zh": "沃普斯韦德画派",
+    "description_en": "Worpswede School: peat-moor atmosphere, birch and sodden meadow, pewter northern sky, earth-green tonal masses, North German colony lyricism.",
+    "description_zh": "沃普斯韦德画派：泥炭沼气、白桦与湿草甸、锡色北天、土绿团块、北德艺术家村抒情。",
+    "source": "hermes-explore",
+    "image": "styles/2141-worpswede-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2099",
+    "slug": "old-lyme-school",
+    "name_en": "Old Lyme School",
+    "name_zh": "老莱姆画派",
+    "description_en": "Old Lyme School: Connecticut tonal impressionism, Barbizon haze in America, moonlit gold-grey, porch-and-elm broken strokes, quiet luminous greys.",
+    "description_zh": "老莱姆画派：康涅狄格色调印象、美洲巴比松雾、月金灰光、门廊榆树断笔、静谧辉灰。",
+    "source": "hermes-explore",
+    "image": "styles/2142-old-lyme-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2100",
+    "slug": "sumiyoshi-school",
+    "name_en": "Sumiyoshi School",
+    "name_zh": "住吉派",
+    "description_en": "Sumiyoshi School: Edo Yamato-e revival, gold kasumi clouds, malachite-azurite minerals, iron-wire outline, bird's-eye court space.",
+    "description_zh": "住吉派：江户大和绘复兴、金霞云、石绿石青矿物色、铁线描、俯瞰宫廷空间。",
+    "source": "hermes-explore",
+    "image": "styles/2143-sumiyoshi-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

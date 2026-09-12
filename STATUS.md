@@ -5882,6 +5882,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2138, PNG count 2138. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 420 (exactly 5, h2096–h2100)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                               |
+|-------|--------------------|-------------------|-------------------------------------|
+| h2096 | Torii School       | 鸟居派            | styles/2139-torii-school.png        |
+| h2097 | New Hope School    | 新希望画派        | styles/2140-new-hope-school.png     |
+| h2098 | Worpswede School   | 沃普斯韦德画派    | styles/2141-worpswede-school.png    |
+| h2099 | Old Lyme School    | 老莱姆画派        | styles/2142-old-lyme-school.png     |
+| h2100 | Sumiyoshi School   | 住吉派            | styles/2143-sumiyoshi-school.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2143, PNG count 2143. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
