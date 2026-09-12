@@ -6036,6 +6036,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2193, PNG count 2193. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 431 (exactly 5, h2151–h2155)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh      | image                            |
+|-------|--------------|--------------|----------------------------------|
+| h2151 | Sogdian      | 粟特壁画     | styles/2194-sogdian.png          |
+| h2152 | Jelling      | 耶灵风格     | styles/2195-jelling.png          |
+| h2153 | Mamluk       | 马穆鲁克     | styles/2196-mamluk.png           |
+| h2154 | Dipylon      | 迪皮隆陶绘   | styles/2197-dipylon.png          |
+| h2155 | Herat School | 赫拉特画派   | styles/2198-herat-school.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2198, PNG count 2198. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

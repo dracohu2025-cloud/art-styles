@@ -28507,5 +28507,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2151",
+    "slug": "sogdian",
+    "name_en": "Sogdian",
+    "name_zh": "粟特壁画",
+    "description_en": "Sogdian mural: Afrasiab/Panjakent mineral pigments on plaster, pearl-roundel textiles, terracotta-lapis-malachite registers, linear drapery.",
+    "description_zh": "粟特壁画：阿弗拉西阿卜/喷赤干矿物颜料泥壁、联珠纹锦、土红-青金-孔雀石分层、线描衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2194-sogdian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2152",
+    "slug": "jelling",
+    "name_en": "Jelling",
+    "name_zh": "耶灵风格",
+    "description_en": "Jelling style: 10th-century Viking gripping-beast ribbon interlace, pretzel knots, shallow chip-carved wood and granite planes.",
+    "description_zh": "耶灵风格：十世纪维京抓兽带状交缠、椒盐结、浅浮雕木石铲刻平面。",
+    "source": "hermes-explore",
+    "image": "styles/2195-jelling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2153",
+    "slug": "mamluk",
+    "name_en": "Mamluk",
+    "name_zh": "马穆鲁克",
+    "description_en": "Mamluk luxury arts: Cairo inlaid brass, cobalt mosque-lamp enamel, star polygons, arabesque scrolls, blazon roundels as ornament.",
+    "description_zh": "马穆鲁克：开罗错金银铜器、钴蓝清真寺灯珐琅、星形多边形、卷草、作为纹样的纹章圆饰。",
+    "source": "hermes-explore",
+    "image": "styles/2196-mamluk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2154",
+    "slug": "dipylon",
+    "name_en": "Dipylon",
+    "name_zh": "迪皮隆陶绘",
+    "description_en": "Dipylon style: Late Geometric Attic black-figure on orange clay, meander friezes, triangular torsos, hatched silhouettes of the Dipylon Master.",
+    "description_zh": "迪皮隆陶绘：晚期几何阿提卡橙陶黑绘、回纹饰带、三角躯干、迪皮隆大师式排线剪影。",
+    "source": "hermes-explore",
+    "image": "styles/2197-dipylon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2155",
+    "slug": "herat-school",
+    "name_en": "Herat School",
+    "name_zh": "赫拉特画派",
+    "description_en": "Herat School: Timurid miniature of the Bihzad circle — opaque watercolor and gold, tiled pavilions, high horizon, jewel stacking space.",
+    "description_zh": "赫拉特画派：比赫扎德圈子帖木儿细密画——不透明水彩与金、瓷砖亭榭、高视平线、宝石叠层空间。",
+    "source": "hermes-explore",
+    "image": "styles/2198-herat-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
