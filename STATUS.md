@@ -6050,6 +6050,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2198, PNG count 2198. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 432 (exactly 5, h2156–h2160)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh          | image                            |
+|-------|----------------|------------------|----------------------------------|
+| h2156 | Cucuteni       | 库库泰尼陶绘     | styles/2199-cucuteni.png         |
+| h2157 | Bevelled Style | 斜切纹样         | styles/2200-bevelled-style.png   |
+| h2158 | Mathura        | 马图拉造像       | styles/2201-mathura.png          |
+| h2159 | Beneventan     | 贝内文托书体     | styles/2202-beneventan.png       |
+| h2160 | Kosiv          | 科西夫陶绘       | styles/2203-kosiv.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2203, PNG count 2203. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

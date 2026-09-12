@@ -28572,5 +28572,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2156",
+    "slug": "cucuteni",
+    "name_en": "Cucuteni",
+    "name_zh": "库库泰尼陶绘",
+    "description_en": "Cucuteni: Neolithic painted ware — cream slip, running spirals and meanders in dark brown and red-ochre on fired earthenware.",
+    "description_zh": "库库泰尼陶绘：新石器彩陶——奶油色陶衣、深棕与红赭螺旋与回纹绘于素烧陶面。",
+    "source": "hermes-explore",
+    "image": "styles/2199-cucuteni.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2157",
+    "slug": "bevelled-style",
+    "name_en": "Bevelled Style",
+    "name_zh": "斜切纹样",
+    "description_en": "Bevelled Style: Abbasid Samarra Style C stucco — all-over palmette units cut on a slant so motifs emerge as faceted planes without outline.",
+    "description_zh": "斜切纹样：阿拔斯萨马拉C式灰泥——满铺棕叶单元斜切成形，无轮廓线、以斜面起伏显纹。",
+    "source": "hermes-explore",
+    "image": "styles/2200-bevelled-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2158",
+    "slug": "mathura",
+    "name_en": "Mathura",
+    "name_zh": "马图拉造像",
+    "description_en": "Mathura: Kushan-period red Sikri sandstone sculpture — soft volumes, clinging schematic drapery, the characteristic slight smile.",
+    "description_zh": "马图拉造像：贵霜红砂岩雕刻——柔和体积、贴体示意衣纹、标志性浅笑。",
+    "source": "hermes-explore",
+    "image": "styles/2201-mathura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2159",
+    "slug": "beneventan",
+    "name_en": "Beneventan",
+    "name_zh": "贝内文托书体",
+    "description_en": "Beneventan: South-Italian medieval minuscule on parchment — broken-backed letterforms, dense minims, historiated Cassinese initials.",
+    "description_zh": "贝内文托书体：南意大利中世纪小写羊皮纸书体——折背字母、密集竖笔、卡西诺装饰首字母。",
+    "source": "hermes-explore",
+    "image": "styles/2202-beneventan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2160",
+    "slug": "kosiv",
+    "name_en": "Kosiv",
+    "name_zh": "科西夫陶绘",
+    "description_en": "Kosiv: Hutsul painted ceramics — white slip, green-yellow-brown floral-and-bird overglaze with a fine dark contour under lead glaze.",
+    "description_zh": "科西夫陶绘：胡楚尔彩陶——白陶衣上绿黄棕花鸟纹，细深轮廓覆铅釉。",
+    "source": "hermes-explore",
+    "image": "styles/2203-kosiv.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
