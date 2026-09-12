@@ -29027,5 +29027,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2191",
+    "slug": "maque",
+    "name_en": "Maque",
+    "name_zh": "墨西哥漆绘",
+    "description_en": "Michoacán maque lacquer: layered chia-oil mineral pigment, burnished gold tendrils, scarlet-black floral reserves.",
+    "description_zh": "米却肯漆绘：奇亚油矿物颜料层层打磨、金箔卷草、朱红黑地开光花卉。",
+    "source": "hermes-explore",
+    "image": "styles/2234-maque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2192",
+    "slug": "shukufe",
+    "name_en": "Shukufe",
+    "name_zh": "舒库菲",
+    "description_en": "Ottoman şükûfe illumination: gold-leaf ground, tulip-carnation-hyacinth sprays, rumi leaves, shell-gold hatayi.",
+    "description_zh": "奥斯曼舒库菲彩绘：金地、郁金香康乃馨风信子折枝、鲁米卷叶、泥金哈塔伊。",
+    "source": "hermes-explore",
+    "image": "styles/2235-shukufe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2193",
+    "slug": "cinetismo",
+    "name_en": "Cinetismo",
+    "name_zh": "动态光学",
+    "description_en": "Latin American cinetismo: concentric moiré, hanging rod-planes, vibrating complementary stripes, kinetic modules.",
+    "description_zh": "拉丁美洲动态光学：同心波纹、悬杆平面、互补色颤动条纹、动态模块。",
+    "source": "hermes-explore",
+    "image": "styles/2236-cinetismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2194",
+    "slug": "atom-style",
+    "name_en": "Atom Style",
+    "name_zh": "原子风格",
+    "description_en": "Franco-Belgian style atome: elastic ligne, globular mid-century silhouettes, speed lines, flat color with one hard shadow.",
+    "description_zh": "法比漫画原子风格：弹性清晰线、球形中世纪家具剪影、速度线、平涂加单一硬阴影。",
+    "source": "hermes-explore",
+    "image": "styles/2237-atom-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2195",
+    "slug": "chromosaturation",
+    "name_en": "Chromosaturation",
+    "name_zh": "色彩饱和",
+    "description_en": "Chromosaturation: overlapping primary light chambers, additive RGB volumes, colored shadows, gallery-scale color atmosphere.",
+    "description_zh": "色彩饱和：交叠原色光室、加色红绿蓝体块、彩色投影、展厅尺度色氛。",
+    "source": "hermes-explore",
+    "image": "styles/2238-chromosaturation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -6148,6 +6148,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2233, PNG count 2233. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 439 (exactly 5, h2191–h2195)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                                |
+|-------|-------------------|---------------|--------------------------------------|
+| h2191 | Maque             | 墨西哥漆绘    | styles/2234-maque.png                |
+| h2192 | Shukufe           | 舒库菲        | styles/2235-shukufe.png              |
+| h2193 | Cinetismo         | 动态光学      | styles/2236-cinetismo.png            |
+| h2194 | Atom Style        | 原子风格      | styles/2237-atom-style.png           |
+| h2195 | Chromosaturation  | 色彩饱和      | styles/2238-chromosaturation.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2238, PNG count 2238. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
