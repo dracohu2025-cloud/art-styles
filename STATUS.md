@@ -5756,6 +5756,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2093, PNG count 2093. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 411 (exactly 5, h2051–h2055)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                  | name_zh             | image                                       |
+|-------|--------------------------|---------------------|---------------------------------------------|
+| h2051 | Lombard School           | 伦巴第画派          | styles/2094-lombard-school.png              |
+| h2052 | Flemish Baroque          | 佛兰德斯巴洛克      | styles/2095-flemish-baroque.png             |
+| h2053 | Group f/64               | f/64小组            | styles/2096-group-f64.png                   |
+| h2054 | Chicago Imagists         | 芝加哥意象派        | styles/2097-chicago-imagists.png            |
+| h2055 | Amsterdam Impressionism  | 阿姆斯特丹印象派    | styles/2098-amsterdam-impressionism.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2098, PNG count 2098. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

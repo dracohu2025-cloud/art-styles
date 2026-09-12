@@ -27207,5 +27207,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2051",
+    "slug": "lombard-school",
+    "name_en": "Lombard School",
+    "name_zh": "伦巴第画派",
+    "description_en": "Lombard School: Milanese Renaissance oil, Leonardesque sfumato, muted earth-olive-umber glazes, soft flesh modeling, quiet loggia opening to a hazy Lombard landscape, Foppa–Bergognone–Luini circle panel look.",
+    "description_zh": "伦巴第画派：米兰文艺复兴油画、达芬奇式烟雾法、沉闷土绿褐釉、柔和肌理塑造、凉廊外伦巴第烟岚远景、福帕–贝尔戈尼奥内–卢伊尼圈木板面貌。",
+    "source": "hermes-explore",
+    "image": "styles/2094-lombard-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2052",
+    "slug": "flemish-baroque",
+    "name_en": "Flemish Baroque",
+    "name_zh": "佛兰德斯巴洛克",
+    "description_en": "Flemish Baroque: Rubens–Jordaens Antwerp workshop oil, warm carmine-gold-ivory, swirling drapery, pearly flesh with cool half-tones, energetic diagonal, lush impasto highlights, 17th-century studio light.",
+    "description_zh": "佛兰德斯巴洛克：鲁本斯–约尔丹斯安特卫普工作室油画、暖胭脂金象牙、旋转帷幔、珠光肌肤冷半调、动能对角线、厚涂高光、十七世纪画室光。",
+    "source": "hermes-explore",
+    "image": "styles/2095-flemish-baroque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2053",
+    "slug": "group-f64",
+    "name_en": "Group f/64",
+    "name_zh": "f/64小组",
+    "description_en": "Group f/64: large-format gelatin-silver straight photography, f/64 depth of field, Zone System tonal scale, razor-edged texture, Weston–Adams–Cunningham circle, deep blacks and luminous mid-grays, unmanipulated sharp focus.",
+    "description_zh": "f/64小组：大画幅明胶银盐直接摄影、f/64景深、区域曝光影调、锐利纹理、韦斯顿–亚当斯–坎宁安圈、深黑与通透中灰、未经操纵的锐焦。",
+    "source": "hermes-explore",
+    "image": "styles/2096-group-f64.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2054",
+    "slug": "chicago-imagists",
+    "name_en": "Chicago Imagists",
+    "name_zh": "芝加哥意象派",
+    "description_en": "Chicago Imagists: Hairy Who circle enamel-acrylic, thick comic contour, packed obsessive pattern, rubbery graphic anatomy, clashing complementary color, storefront-window intensity, Nutt–Nilsson–Wirsum adjacent.",
+    "description_zh": "芝加哥意象派：毛茸茸一伙圈瓷漆丙烯、粗漫画轮廓、密集强迫图案、橡胶图形解剖、互补色对撞、橱窗强度、纳特–尼尔森–沃瑟姆邻近。",
+    "source": "hermes-explore",
+    "image": "styles/2097-chicago-imagists.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2055",
+    "slug": "amsterdam-impressionism",
+    "name_en": "Amsterdam Impressionism",
+    "name_zh": "阿姆斯特丹印象派",
+    "description_en": "Amsterdam Impressionism: Breitner–Israels rapid wet oil, brown-gray-olive urban palette, wet cobbles and canal atmosphere, cropped snapshot composition, loose broken brush, 1890s Amsterdam street light.",
+    "description_zh": "阿姆斯特丹印象派：布莱特纳–伊斯拉尔斯快速湿油、褐灰橄榄都市色、湿石板与运河气氛、截切快照构图、松散碎笔、1890年代阿姆斯特丹街光。",
+    "source": "hermes-explore",
+    "image": "styles/2098-amsterdam-impressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
