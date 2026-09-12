@@ -27012,5 +27012,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2036",
+    "slug": "glasgow-school",
+    "name_en": "Glasgow School",
+    "name_zh": "格拉斯哥画派",
+    "description_en": "Glasgow School: Mackintosh-circle attenuated line, Glasgow rose, lilac-sage stained-glass geometry, white-line contours, Celtic interlacing on gesso-smooth panels.",
+    "description_zh": "格拉斯哥画派：麦金托什圈细长线、格拉斯哥玫瑰、紫灰彩窗几何、白线轮廓、凯尔特交织与石膏般平滑面板。",
+    "source": "hermes-explore",
+    "image": "styles/2079-glasgow-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2037",
+    "slug": "scuola-di-posillipo",
+    "name_en": "Scuola di Posillipo",
+    "name_zh": "波西利波画派",
+    "description_en": "Scuola di Posillipo: Neapolitan plein-air oil sketch, luminous Bay light, warm ground, wet-into-wet silver haze, fluid loaded brush.",
+    "description_zh": "波西利波画派：那不勒斯外光油画速写、海湾强光、暖色底、湿接湿银雾、流畅厚笔。",
+    "source": "hermes-explore",
+    "image": "styles/2080-scuola-di-posillipo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2038",
+    "slug": "sottobosco",
+    "name_en": "Sottobosco",
+    "name_zh": "林下静物",
+    "description_en": "Sottobosco: Dutch forest-floor still life, umber glazes, moss and fungi, entomological detail, theatrical undergrowth chiaroscuro.",
+    "description_zh": "林下静物：荷兰林下静物、棕褐釉层、苔藓菌菇、昆虫学细节、戏剧性林荫明暗。",
+    "source": "hermes-explore",
+    "image": "styles/2081-sottobosco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2039",
+    "slug": "troubadour-style",
+    "name_en": "Troubadour Style",
+    "name_zh": "行吟风格",
+    "description_en": "Troubadour Style: French Restauration historicism, enamel-smooth academic oil, jewel local color, precise underdrawing, medievalizing interior light.",
+    "description_zh": "行吟风格：法国复辟期历史风俗、珐琅般平滑学院油画、宝石固有色、精确底稿、中世纪化室内光。",
+    "source": "hermes-explore",
+    "image": "styles/2082-troubadour-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2040",
+    "slug": "painters-eleven",
+    "name_en": "Painters Eleven",
+    "name_zh": "十一画家",
+    "description_en": "Painters Eleven: 1950s Toronto abstraction, thick knife impasto, colliding primaries against tar black, raw canvas tooth, gestural studio energy.",
+    "description_zh": "十一画家：1950年代多伦多抽象、厚刮刀堆叠、原色撞击焦黑、粗画布齿、手势性画室能量。",
+    "source": "hermes-explore",
+    "image": "styles/2083-painters-eleven.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
