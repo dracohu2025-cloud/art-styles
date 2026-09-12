@@ -28897,5 +28897,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2181",
+    "slug": "moku-hanga",
+    "name_en": "Moku-hanga",
+    "name_zh": "木版画",
+    "description_en": "Moku-hanga: Japanese water-based color woodblock — keyblock outlines, kento register, baren swirl, bokashi skies, visible woodgrain in flat pigment on washi.",
+    "description_zh": "木版画：日本水性套色木版——主版线、見当套准、马楝拓痕、ぼかし天空与和纸上可见的木纹色块。",
+    "source": "hermes-explore",
+    "image": "styles/2224-moku-hanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2182",
+    "slug": "vernis-mou-grain",
+    "name_en": "Vernis Mou Grain",
+    "name_zh": "软蜡颗粒",
+    "description_en": "Vernis Mou Grain: soft-ground etching — fabric and pencil bite into a tacky ground, velvety crumpled grain, warm plate tone, wiped copper highlights.",
+    "description_zh": "软蜡颗粒：软蜡蚀刻——织物与铅笔咬入黏性地子，绒面皱纹颗粒、暖色版调与擦亮的铜版高光。",
+    "source": "hermes-explore",
+    "image": "styles/2225-vernis-mou-grain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2183",
+    "slug": "lumiprint",
+    "name_en": "Lumiprint",
+    "name_zh": "光印版画",
+    "description_en": "Lumiprint: photographic printmaking on wood or gelatin panel — emulsion fused with pigment, board grain showing through, chemical stain edges, solarized midtones.",
+    "description_zh": "光印版画：木板或明胶面板上的照相版画——乳剂与颜料融合、木纹透出、化学渍边与中途曝光中间调。",
+    "source": "hermes-explore",
+    "image": "styles/2226-lumiprint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2184",
+    "slug": "solvent-transfer",
+    "name_en": "Solvent Transfer",
+    "name_zh": "溶剂转印",
+    "description_en": "Solvent Transfer: magazine ink dissolved and rubbed onto paper — reversed halftone, solvent blooms, ghosted newsprint, smeared CMYK over abrasion.",
+    "description_zh": "溶剂转印：杂志油墨溶解后擦转到纸上——反向网点、溶剂晕开、残影新闻纸与磨损上的CMYK拖色。",
+    "source": "hermes-explore",
+    "image": "styles/2227-solvent-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2185",
+    "slug": "mica-ground",
+    "name_en": "Mica Ground",
+    "name_zh": "云母地",
+    "description_en": "Mica Ground: kirazuri luxury print field — crushed mica sparkle vs matte pigment, silver-grey metallic plane, crisp keyblock figure on deluxe Edo ground.",
+    "description_zh": "云母地：云母摺豪华印地——碎云母闪光对哑光颜料、银灰色金属平面与豪华江户地上的清晰主版人物。",
+    "source": "hermes-explore",
+    "image": "styles/2228-mica-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

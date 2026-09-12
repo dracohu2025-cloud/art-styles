@@ -6120,6 +6120,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2223, PNG count 2223. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 437 (exactly 5, h2181–h2185)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                              |
+|-------|-------------------|-------------|------------------------------------|
+| h2181 | Moku-hanga        | 木版画      | styles/2224-moku-hanga.png         |
+| h2182 | Vernis Mou Grain  | 软蜡颗粒    | styles/2225-vernis-mou-grain.png   |
+| h2183 | Lumiprint         | 光印版画    | styles/2226-lumiprint.png          |
+| h2184 | Solvent Transfer  | 溶剂转印    | styles/2227-solvent-transfer.png   |
+| h2185 | Mica Ground       | 云母地      | styles/2228-mica-ground.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2228, PNG count 2228. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
