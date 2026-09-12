@@ -29222,5 +29222,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2206",
+    "slug": "haute-pate",
+    "name_en": "Haute Pate",
+    "name_zh": "厚浆物质画",
+    "description_en": "Art Informel haute pâte: centimeter-thick oil-plaster-sand crusts, palette-knife cliffs, tar scabs, gouged pits.",
+    "description_zh": "非正式艺术厚浆：厘米级油膏砂泥结壳、刮刀断崖、焦油痂、凿坑。",
+    "source": "hermes-explore",
+    "image": "styles/2249-haute-pate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2207",
+    "slug": "affichisme",
+    "name_en": "Affichisme",
+    "name_zh": "撕贴海报派",
+    "description_en": "Torn-poster affichisme: layered ripped bills, CMYK shards, glue stains, lacerated underlayers, street-wall décollage.",
+    "description_zh": "撕贴海报派：多层撕裂招贴、CMYK碎片、胶渍、下层撕裂、街头揭贴。",
+    "source": "hermes-explore",
+    "image": "styles/2250-affichisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2208",
+    "slug": "lumia",
+    "name_en": "Lumia",
+    "name_zh": "光色律动",
+    "description_en": "Wilfred lumia: slow kinetic colored light, translucent amber-viridian-magenta veils, no pigment, void-projected volumes.",
+    "description_zh": "威尔弗雷德光色律动：缓慢动态彩光、琥珀翠绿品红半透明帷幕、无颜料、虚空投射体量。",
+    "source": "hermes-explore",
+    "image": "styles/2251-lumia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2209",
+    "slug": "shoowa",
+    "name_en": "Shoowa",
+    "name_zh": "舒瓦绒绣",
+    "description_en": "Kuba Shoowa raffia: cut-pile velvet nap, interlocking chevrons and diamonds, brick-indigo-natural stitch geometry.",
+    "description_zh": "库巴舒瓦绒绣：割绒绒头、咬合人字与菱形、砖红靛蓝本色几何针迹。",
+    "source": "hermes-explore",
+    "image": "styles/2252-shoowa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2210",
+    "slug": "dust-grain-gravure",
+    "name_en": "Dust-grain Gravure",
+    "name_zh": "飞尘凹版",
+    "description_en": "Talbot-Klič dust-grain photogravure: resin-dust intaglio, velvet plate tone, wiped highlights, warm copper-black ink.",
+    "description_zh": "塔尔博特-克利奇飞尘凹版：树脂粉凹刻、丝绒版调、擦亮高光、暖铜黑墨。",
+    "source": "hermes-explore",
+    "image": "styles/2253-dust-grain-gravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

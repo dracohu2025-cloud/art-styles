@@ -6190,6 +6190,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2248, PNG count 2248. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 442 (exactly 5, h2206–h2210)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                                 |
+|-------|--------------------|---------------|---------------------------------------|
+| h2206 | Haute Pate         | 厚浆物质画    | styles/2249-haute-pate.png            |
+| h2207 | Affichisme         | 撕贴海报派    | styles/2250-affichisme.png            |
+| h2208 | Lumia              | 光色律动      | styles/2251-lumia.png                 |
+| h2209 | Shoowa             | 舒瓦绒绣      | styles/2252-shoowa.png                |
+| h2210 | Dust-grain Gravure | 飞尘凹版      | styles/2253-dust-grain-gravure.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2253, PNG count 2253. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
