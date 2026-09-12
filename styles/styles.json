@@ -28312,5 +28312,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2136",
+    "slug": "mi-dot-landscape",
+    "name_en": "Mi-dot Landscape",
+    "name_zh": "米点山水",
+    "description_en": "Mi-dot Landscape: Song-Yuan literati 米点山水, stacked wet round ink dots, misty vapor, hemp-paper ground, no hard outline, Mi Fu / Mi Youren dotted mountains.",
+    "description_zh": "米点山水：宋元文人点法、湿墨圆点层积、烟岚、麻纸底、无硬勾、米芾米友仁式点簇山树。",
+    "source": "hermes-explore",
+    "image": "styles/2179-mi-dot-landscape.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2137",
+    "slug": "photo-secession",
+    "name_en": "Photo-Secession",
+    "name_zh": "摄影分离派",
+    "description_en": "Photo-Secession: 1902 Stieglitz-circle pictorialism, soft-focus gum-bichromate / photogravure, platinum-cream haze, painterly grain, not sharp digital.",
+    "description_zh": "摄影分离派：1902斯蒂格利茨圈子画意摄影、柔焦树胶重铬酸盐/照相凹版、铂金乳色雾气、绘画性颗粒、非锐利数码。",
+    "source": "hermes-explore",
+    "image": "styles/2180-photo-secession.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2138",
+    "slug": "zenitism",
+    "name_en": "Zenitism",
+    "name_zh": "泽尼特主义",
+    "description_en": "Zenitism: 1920s Balkan Zenit avant-garde, constructivist diagonals, expressionist contour, baroque dynamism, red-black-gold, fractured space, no readable type.",
+    "description_zh": "泽尼特主义：1920年代巴尔干《泽尼特》先锋、构成斜线、表现轮廓、巴洛克动势、红黑金、碎裂空间、无可读文字。",
+    "source": "hermes-explore",
+    "image": "styles/2181-zenitism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2139",
+    "slug": "pau-brasil",
+    "name_en": "Pau-Brasil",
+    "name_zh": "巴西木主义",
+    "description_en": "Pau-Brasil: 1924 Brazilian modernist movement, simplified tropical volumes, folk-modern contour, viridian-earth-banana local color, sun-flattened space.",
+    "description_zh": "巴西木主义：1924巴西现代主义运动、简化热带体块、民间现代轮廓、翠绿土红蕉黄本地色、日照压平空间。",
+    "source": "hermes-explore",
+    "image": "styles/2182-pau-brasil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2140",
+    "slug": "automatism",
+    "name_en": "Automatism",
+    "name_zh": "自动技法",
+    "description_en": "Automatism: Surrealist automatic drawing, wandering continuous ink, chance meanders coalescing into figure, Masson-like psychic doodle, pale ground, sparse stain.",
+    "description_zh": "自动技法：超现实自动描画、游走连线墨迹、偶然曲线聚成形象、马松式心灵涂鸦、浅底、疏淡色渍。",
+    "source": "hermes-explore",
+    "image": "styles/2183-automatism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
