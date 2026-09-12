@@ -6176,6 +6176,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2243, PNG count 2243. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 441 (exactly 5, h2201–h2205)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                               |
+|-------|-------------------|---------------|-------------------------------------|
+| h2201 | ANSI Art          | ANSI字符画    | styles/2244-ansi-art.png            |
+| h2202 | Chromostereopsis  | 色立体视      | styles/2245-chromostereopsis.png    |
+| h2203 | Birchbark Bite    | 桦皮咬纹      | styles/2246-birchbark-bite.png      |
+| h2204 | Benigirai-e       | 嫌红绘        | styles/2247-benigirai-e.png         |
+| h2205 | Harris Shutter    | 哈里斯快门    | styles/2248-harris-shutter.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2248, PNG count 2248. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

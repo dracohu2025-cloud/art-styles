@@ -29157,5 +29157,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2201",
+    "slug": "ansi-art",
+    "name_en": "ANSI Art",
+    "name_zh": "ANSI字符画",
+    "description_en": "1990s BBS textmode graphics: 16-color VGA palette, CP437 block glyphs, hard pixel grid, no anti-alias.",
+    "description_zh": "1990年代BBS字符画：16色VGA、CP437色块字形、硬像素网格、无抗锯齿。",
+    "source": "hermes-explore",
+    "image": "styles/2244-ansi-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2202",
+    "slug": "chromostereopsis",
+    "name_en": "Chromostereopsis",
+    "name_zh": "色立体视",
+    "description_en": "Chromatic stereopsis: advancing saturated red against receding pure blue, retinal-rivalry depth.",
+    "description_zh": "色立体视：前进饱和红对后退纯蓝，视网膜竞争造成的深度。",
+    "source": "hermes-explore",
+    "image": "styles/2245-chromostereopsis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2203",
+    "slug": "birchbark-bite",
+    "name_en": "Birchbark Bite",
+    "name_zh": "桦皮咬纹",
+    "description_en": "Anishinaabe birchbark biting: translucent bark, teeth-pressed symmetric dentate filigree, backlight lace.",
+    "description_zh": "奥吉布瓦桦皮咬纹：半透明桦皮、齿压对称齿状细纹、背光蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/2246-birchbark-bite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2204",
+    "slug": "benigirai-e",
+    "name_en": "Benigirai-e",
+    "name_zh": "嫌红绘",
+    "description_en": "Edo red-avoiding woodblock: muted yellow, Prussian blue, gray-green, ink keyblock, no bright crimson.",
+    "description_zh": "江户嫌红绘：淡黄、普鲁士蓝、灰绿、墨线主版，避开鲜红。",
+    "source": "hermes-explore",
+    "image": "styles/2247-benigirai-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2205",
+    "slug": "harris-shutter",
+    "name_en": "Harris Shutter",
+    "name_zh": "哈里斯快门",
+    "description_en": "Sequential RGB channel exposures: still ground stays registered, motion leaves red-green-blue temporal fringes.",
+    "description_zh": "RGB通道分时曝光：静止背景对齐，运动留下红绿蓝时间色边。",
+    "source": "hermes-explore",
+    "image": "styles/2248-harris-shutter.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
