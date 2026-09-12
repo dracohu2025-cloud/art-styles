@@ -5784,6 +5784,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2103, PNG count 2103. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 413 (exactly 5, h2061–h2065)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                    | name_zh       | image                                       |
+|-------|----------------------------|---------------|---------------------------------------------|
+| h2061 | Munich School              | 慕尼黑画派    | styles/2104-munich-school.png               |
+| h2062 | Taos School                | 陶斯画派      | styles/2105-taos-school.png                 |
+| h2063 | California Impressionism   | 加州印象派    | styles/2106-california-impressionism.png    |
+| h2064 | Liberty Style              | 自由风格      | styles/2107-liberty-style.png               |
+| h2065 | Stracittà                  | 超城市主义    | styles/2108-stracitta.png                   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2108, PNG count 2108. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

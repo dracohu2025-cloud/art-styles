@@ -27337,5 +27337,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2061",
+    "slug": "munich-school",
+    "name_en": "Munich School",
+    "name_zh": "慕尼黑画派",
+    "description_en": "19th-century Münchner Schule academic oil: enamel-smooth glaze, brown-gold studio light, precise drawing, and porcelain flesh against velvet umber.",
+    "description_zh": "十九世纪慕尼黑画派学院油画：珐琅般罩染、褐金画室光、精准素描，丝绒棕地上的瓷质肤色。",
+    "source": "hermes-explore",
+    "image": "styles/2104-munich-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2062",
+    "slug": "taos-school",
+    "name_en": "Taos School",
+    "name_zh": "陶斯画派",
+    "description_en": "Early-20th-century Taos painter colony: high desert sun, adobe ochre and turquoise, Pueblo-color blocks, and broken plein-air brush in mountain air.",
+    "description_zh": "二十世纪初陶斯画家群落：高原沙漠阳光、土坯赭与松石色、普韦布洛色块，山风中的外光笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2105-taos-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2063",
+    "slug": "california-impressionism",
+    "name_en": "California Impressionism",
+    "name_zh": "加州印象派",
+    "description_en": "Pacific-coast American Impressionism: high-key broken color, eucalyptus green, golden California light, and flickering plein-air dabs on water and cliffs.",
+    "description_zh": "太平洋岸美国印象派：高调碎色、桉树绿、加州金光，以及水岸与悬崖上闪烁的外光点染。",
+    "source": "hermes-explore",
+    "image": "styles/2106-california-impressionism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2064",
+    "slug": "liberty-style",
+    "name_en": "Liberty Style",
+    "name_zh": "自由风格",
+    "description_en": "Italian Stile Liberty: whiplash floral ironwork, stained-glass jewel color, sinuous botanical line, and gilt Milanese 1900 ornament.",
+    "description_zh": "意大利自由风格：鞭绳花铁、彩绘玻璃宝石色、蜿蜒植物线，以及1900年米兰镀金装饰。",
+    "source": "hermes-explore",
+    "image": "styles/2107-liberty-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2065",
+    "slug": "stracitta",
+    "name_en": "Stracittà",
+    "name_zh": "超城市主义",
+    "description_en": "1920s Italian urban modernism opposite Strapaese: machine-age street geometry, cool Novecento volumes, chrome-and-concrete cosmopolitan night.",
+    "description_zh": "二十年代意大利超城市主义（乡土主义的都市对体）：机械时代街道几何、冷静的二十世纪派体量、铬与混凝土的都会夜色。",
+    "source": "hermes-explore",
+    "image": "styles/2108-stracitta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
