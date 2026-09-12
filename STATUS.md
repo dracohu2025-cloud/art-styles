@@ -5854,6 +5854,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2128, PNG count 2128. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 418 (exactly 5, h2086–h2090)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                   | name_zh             | image                                        |
+|-------|---------------------------|---------------------|----------------------------------------------|
+| h2086 | Kaigetsudo School         | 怀月堂派            | styles/2129-kaigetsudo-school.png            |
+| h2087 | Latem School              | 拉特姆画派          | styles/2130-latem-school.png                 |
+| h2088 | Ghent-Bruges School       | 根特-布鲁日画派     | styles/2131-ghent-bruges-school.png          |
+| h2089 | Huxian Peasant Painting   | 户县农民画          | styles/2132-huxian-peasant-painting.png      |
+| h2090 | Reichenau School          | 赖兴瑙画派          | styles/2133-reichenau-school.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2133, PNG count 2133. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

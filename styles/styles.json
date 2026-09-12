@@ -27662,5 +27662,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2086",
+    "slug": "kaigetsudo-school",
+    "name_en": "Kaigetsudo School",
+    "name_zh": "怀月堂派",
+    "description_en": "Kaigetsudo School bijin-ga: monumental standing beauty, thick calligraphic outline, spare empty ground, limited mineral color, grand kimono silhouette.",
+    "description_zh": "怀月堂派美人画：纪念碑式立姿、粗阔墨线、大片留白、矿物限色、宽袍剪影。",
+    "source": "hermes-explore",
+    "image": "styles/2129-kaigetsudo-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2087",
+    "slug": "latem-school",
+    "name_en": "Latem School",
+    "name_zh": "拉特姆画派",
+    "description_en": "Latem School luminism: misty Lys-river light, muted earth greens and grey-gold, softened rural Symbolist oil, damp Flemish hush.",
+    "description_zh": "拉特姆画派光辉主义：利斯河薄雾、灰绿土黄、柔边乡村象征油画、佛兰德斯湿润静谧。",
+    "source": "hermes-explore",
+    "image": "styles/2130-latem-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2088",
+    "slug": "ghent-bruges-school",
+    "name_en": "Ghent-Bruges School",
+    "name_zh": "根特-布鲁日画派",
+    "description_en": "Ghent-Bruges miniature: jewel egg-tempera on vellum, strewn-flower illusionistic border, shell gold, microscopic stipple, book-of-hours preciousness.",
+    "description_zh": "根特-布鲁日细密画：羊皮蛋彩珠宝色、散花错视边饰、贝壳金、微点塑造、时祷书精贵感。",
+    "source": "hermes-explore",
+    "image": "styles/2131-ghent-bruges-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2089",
+    "slug": "huxian-peasant-painting",
+    "name_en": "Huxian Peasant Painting",
+    "name_zh": "户县农民画",
+    "description_en": "Huxian Peasant Painting: flat folk gouache, bold black contour, saturated primaries, no linear perspective, decorative crop-and-village fill.",
+    "description_zh": "户县农民画：平面民间水粉、粗黑轮廓、饱和原色、取消透视、庄稼与村落纹样铺满。",
+    "source": "hermes-explore",
+    "image": "styles/2132-huxian-peasant-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2090",
+    "slug": "reichenau-school",
+    "name_en": "Reichenau School",
+    "name_zh": "赖兴瑙画派",
+    "description_en": "Reichenau School Ottonian illumination: burnished gold ground, linear V-fold drapery, minium red and lapis, hierarchical frontal figure, jeweled border.",
+    "description_zh": "赖兴瑙画派奥托手抄：烫金底、V形线褶衣纹、朱砂与青金石、正面层级人物、宝石边饰。",
+    "source": "hermes-explore",
+    "image": "styles/2133-reichenau-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
