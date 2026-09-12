@@ -28117,5 +28117,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2121",
+    "slug": "huating-school",
+    "name_en": "Huating School",
+    "name_zh": "华亭派",
+    "description_en": "Huating School: late-Ming Songjiang literati dry-brush hemp-fiber cun, layered pale ink, calligraphic contour, large xuan-paper voids, mist-separated planes, pine-soot black with faint umber.",
+    "description_zh": "华亭派：晚明松江文人干笔披麻皴、层层淡墨、书法性轮廓、大片宣纸留白、烟云分境、松烟墨带微赭。",
+    "source": "hermes-explore",
+    "image": "styles/2164-huating-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2122",
+    "slug": "dresden-secession",
+    "name_en": "Dresden Secession",
+    "name_zh": "德累斯顿分离派",
+    "description_en": "Dresden Secession: 1909–1914 decorative modern painting, enamel-smooth fields edged by Jugendstil contour, muted teal-garnet-gold-dove, elongated figure, flattened ornamental space.",
+    "description_zh": "德累斯顿分离派：一九〇九至一四年装饰性现代绘画、珐琅平滑色面配青春风格轮廓、青绿石榴金与鸽灰、修长形体、平面化装饰空间。",
+    "source": "hermes-explore",
+    "image": "styles/2165-dresden-secession.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2123",
+    "slug": "dachau-school",
+    "name_en": "Dachau School",
+    "name_zh": "达豪画派",
+    "description_en": "Dachau School: Bavarian plein-air naturalism, gray-green moor and wet meadow, pearly overcast sky, Barbizon-like broken brush, damp atmospheric perspective, soft earth pigments.",
+    "description_zh": "达豪画派：巴伐利亚外光自然主义、灰绿沼泽湿草地、珍珠色阴天、巴比松式碎笔、潮湿空气透视、柔和土色颜料。",
+    "source": "hermes-explore",
+    "image": "styles/2166-dachau-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2124",
+    "slug": "etaples-school",
+    "name_en": "Étaples School",
+    "name_zh": "埃塔普勒画派",
+    "description_en": "Étaples School: Channel-coast colony painting, silvery North-Sea light, muted ochre-gray-blue tonalism, dunes and fisher cottages, wind-scoured impressionist-naturalism.",
+    "description_zh": "埃塔普勒画派：海峡沿岸聚落绘画、北海银色光线、赭灰蓝低调色、沙丘与渔屋、风蚀印象自然主义。",
+    "source": "hermes-explore",
+    "image": "styles/2167-etaples-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2125",
+    "slug": "die-scholle",
+    "name_en": "Die Scholle",
+    "name_zh": "土块社",
+    "description_en": "Die Scholle: Munich 1899–1911 decorative Jugendstil-impressionism, sun-dappled color patches, festive poster-like clarity with painterly dabs, ornamental flattening mixed with plein-air light.",
+    "description_zh": "土块社：慕尼黑一八九九至一九一一年装饰性青春风格印象主义、阳光斑驳色块、节日海报般清晰兼笔触点染、平面装饰与外光交融。",
+    "source": "hermes-explore",
+    "image": "styles/2168-die-scholle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

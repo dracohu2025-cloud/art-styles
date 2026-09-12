@@ -5952,6 +5952,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2163, PNG count 2163. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 425 (exactly 5, h2121–h2125)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                                  |
+|-------|--------------------|-------------------|----------------------------------------|
+| h2121 | Huating School     | 华亭派            | styles/2164-huating-school.png         |
+| h2122 | Dresden Secession  | 德累斯顿分离派    | styles/2165-dresden-secession.png      |
+| h2123 | Dachau School      | 达豪画派          | styles/2166-dachau-school.png          |
+| h2124 | Étaples School     | 埃塔普勒画派      | styles/2167-etaples-school.png         |
+| h2125 | Die Scholle        | 土块社            | styles/2168-die-scholle.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2168, PNG count 2168. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
