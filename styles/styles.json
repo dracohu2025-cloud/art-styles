@@ -28377,5 +28377,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2141",
+    "slug": "nuagisme",
+    "name_en": "Nuagisme",
+    "name_zh": "云雾主义",
+    "description_en": "Nuagisme: 1950s French vapor-painting, diluted oil veils, blooming mist edges, peach-lilac-gold haze, figure dissolving into chromatic fog, no hard contour.",
+    "description_zh": "云雾主义：1950年代法国雾状绘画、稀释油彩帷幔、晕开雾边、桃紫金雾、形象溶入色雾、无硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2184-nuagisme.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2142",
+    "slug": "saqqakhaneh",
+    "name_en": "Saqqakhaneh",
+    "name_zh": "饮水房画派",
+    "description_en": "Saqqakhaneh: Iranian folk-modern school, brass votive plaque texture, stamped metal, turquoise enamel, shrine-niche geometry, illegible talismanic marks.",
+    "description_zh": "饮水房画派：伊朗民间现代派、黄铜还愿牌肌理、冲压金属、松石珐琅、神龛几何、不可读护符纹样。",
+    "source": "hermes-explore",
+    "image": "styles/2185-saqqakhaneh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2143",
+    "slug": "islimi",
+    "name_en": "Islimi",
+    "name_zh": "伊斯利米",
+    "description_en": "Islimi: classical vegetal illumination, rhythmic vine and palmette scrolls, gold on lapis and ivory, manuscript arabesque fill, no readable script.",
+    "description_zh": "伊斯利米：古典植物纹装饰、节奏藤蔓与棕叶涡卷、金箔叠青金石与牙白、写本卷草铺底、无可读文字。",
+    "source": "hermes-explore",
+    "image": "styles/2186-islimi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2144",
+    "slug": "systemic-painting",
+    "name_en": "Systemic Painting",
+    "name_zh": "系统绘画",
+    "description_en": "Systemic Painting: 1960s serial modular color, even grid of geometric units, impersonal paint film, programmatic hue sequences, no gestural stroke.",
+    "description_zh": "系统绘画：1960年代序列模块色彩、均匀几何单元网格、冷静色膜、程序化色序、无表现性笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2187-systemic-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2145",
+    "slug": "lumino-kinetic",
+    "name_en": "Lumino-kinetic",
+    "name_zh": "光动艺术",
+    "description_en": "Lumino-kinetic: projected colored light, kinetic grids, plexiglass moiré, spectral beams in a dark void, translucent color planes, figure lit only by moving light.",
+    "description_zh": "光动艺术：投射色光、动态网格、有机玻璃莫尔纹、暗虚空中的光谱光束、半透明色面、形象仅由移动光照明。",
+    "source": "hermes-explore",
+    "image": "styles/2188-lumino-kinetic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

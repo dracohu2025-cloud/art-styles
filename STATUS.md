@@ -6008,6 +6008,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2183, PNG count 2183. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 429 (exactly 5, h2141–h2145)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh      | image                                 |
+|-------|--------------------|--------------|---------------------------------------|
+| h2141 | Nuagisme           | 云雾主义     | styles/2184-nuagisme.png              |
+| h2142 | Saqqakhaneh        | 饮水房画派   | styles/2185-saqqakhaneh.png           |
+| h2143 | Islimi             | 伊斯利米     | styles/2186-islimi.png                |
+| h2144 | Systemic Painting  | 系统绘画     | styles/2187-systemic-painting.png     |
+| h2145 | Lumino-kinetic     | 光动艺术     | styles/2188-lumino-kinetic.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2188, PNG count 2188. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
