@@ -29352,5 +29352,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2216",
+    "slug": "hollow-cut-silhouette",
+    "name_en": "Hollow-cut Silhouette",
+    "name_zh": "镂空剪影",
+    "description_en": "Scissors-cut paper portrait: figure excised as a hollow in cream wove sheet, lampblack backing, interior bridges, deckled edge, no modeled gray.",
+    "description_zh": "剪刀镂空纸肖像：在米色纸上挖出形影、灯黑衬底、内部纸桥、毛边，无灰色塑形。",
+    "source": "hermes-explore",
+    "image": "styles/2259-hollow-cut-silhouette.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2217",
+    "slug": "sailors-woolwork",
+    "name_en": "Sailor's Woolwork",
+    "name_zh": "水手绒绣",
+    "description_en": "Nineteenth-century woolie: long-stitch and chain-stitch wool on canvas, naive flatten, thick yarn texture, navy-crimson-cream maritime folk palette.",
+    "description_zh": "十九世纪水手绒绣：帆布上长针与锁链针、稚拙平面、厚羊毛质感、藏青绯红米色航海民艺配色。",
+    "source": "hermes-explore",
+    "image": "styles/2260-sailors-woolwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2218",
+    "slug": "tramp-art",
+    "name_en": "Tramp Art",
+    "name_zh": "流浪叠木",
+    "description_en": "Notched chip-carved layered wood: cigar-box pyramids, V-groove stacking, dark stain and varnish, faceted folk-art relief under raking light.",
+    "description_zh": "缺口叠层木刻：雪茄盒金字塔、V槽堆叠、深色漆染、侧光下的多面民艺浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/2261-tramp-art.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2219",
+    "slug": "shadowgraphy",
+    "name_en": "Shadowgraphy",
+    "name_zh": "光影图",
+    "description_en": "Optical shadowgraph: collimated backlight, razor umbra, diffraction fringes, refractive ripples, silver-gray plate grain, scientific high contrast.",
+    "description_zh": "光学阴影成像：准直背光、锐利本影、衍射条纹、折射率波纹、银灰色底片颗粒、科学高反差。",
+    "source": "hermes-explore",
+    "image": "styles/2262-shadowgraphy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2220",
+    "slug": "mica-painting",
+    "name_en": "Mica Painting",
+    "name_zh": "云母细密",
+    "description_en": "Company-period painting on translucent mica: opaque gouache on mineral lamina, iridescent sheen, flaking sheet edges, jewel local color, luminous unpainted ground.",
+    "description_zh": "公司时期云母细密：半透明云母片上不透明水粉、虹彩光泽、片缘剥落、宝石固有色、未涂处透光。",
+    "source": "hermes-explore",
+    "image": "styles/2263-mica-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

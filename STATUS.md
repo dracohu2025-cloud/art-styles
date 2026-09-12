@@ -6218,6 +6218,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2258, PNG count 2258. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 444 (exactly 5, h2216–h2220)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh     | image                                   |
+|-------|-----------------------|-------------|-----------------------------------------|
+| h2216 | Hollow-cut Silhouette | 镂空剪影    | styles/2259-hollow-cut-silhouette.png   |
+| h2217 | Sailor's Woolwork     | 水手绒绣    | styles/2260-sailors-woolwork.png        |
+| h2218 | Tramp Art             | 流浪叠木    | styles/2261-tramp-art.png               |
+| h2219 | Shadowgraphy          | 光影图      | styles/2262-shadowgraphy.png            |
+| h2220 | Mica Painting         | 云母细密    | styles/2263-mica-painting.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2263, PNG count 2263. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
