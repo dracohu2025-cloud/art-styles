@@ -29092,5 +29092,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2196",
+    "slug": "tigua",
+    "name_en": "Tigua",
+    "name_zh": "蒂瓜画",
+    "description_en": "Tigua naive painting: oil-on-sheepskin look, stacked Andean bands, saturated folk color, black contour.",
+    "description_zh": "蒂瓜画：羊皮油画感、层叠安第斯色带、饱和民间色彩、黑色轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2239-tigua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2197",
+    "slug": "four-color-process",
+    "name_en": "Four-color Process",
+    "name_zh": "四色印刷",
+    "description_en": "CMYK offset process: rosette halftone, plate misregistration, ink overprint and trapping.",
+    "description_zh": "四色印刷：玫瑰网点、套色错位、油墨叠印与补漏白。",
+    "source": "hermes-explore",
+    "image": "styles/2240-four-color-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2198",
+    "slug": "cutout-animation",
+    "name_en": "Cutout Animation",
+    "name_zh": "剪纸动画",
+    "description_en": "Hinged paper-cut animation still: layered colored paper, visible edges, joint pins, multiplane stage.",
+    "description_zh": "剪纸动画定格：分层彩纸、可见纸边、关节钉、多层纸舞台。",
+    "source": "hermes-explore",
+    "image": "styles/2241-cutout-animation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2199",
+    "slug": "ex-voto",
+    "name_en": "Ex-voto",
+    "name_zh": "还愿画",
+    "description_en": "Ex-voto tin painting: naive oil on sheet metal, decorative border, dented ground, folk brushwork.",
+    "description_zh": "还愿画：马口铁上的素朴油画、装饰边框、凹陷金属底、民间笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2242-ex-voto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2200",
+    "slug": "chokwe",
+    "name_en": "Chokwe",
+    "name_zh": "乔奎纹绘",
+    "description_en": "Chokwe graphic drawing: incised curvilinear line, diamond mesh, coffee-ochre carving rhythm as 2D ornament.",
+    "description_zh": "乔奎纹绘：阴刻曲线、菱形网纹、咖啡赭石雕刻节奏转为平面纹饰。",
+    "source": "hermes-explore",
+    "image": "styles/2243-chokwe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

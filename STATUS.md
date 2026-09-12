@@ -6162,6 +6162,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2238, PNG count 2238. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 440 (exactly 5, h2196–h2200)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh     | image                               |
+|-------|---------------------|-------------|-------------------------------------|
+| h2196 | Tigua               | 蒂瓜画      | styles/2239-tigua.png               |
+| h2197 | Four-color Process  | 四色印刷    | styles/2240-four-color-process.png  |
+| h2198 | Cutout Animation    | 剪纸动画    | styles/2241-cutout-animation.png    |
+| h2199 | Ex-voto             | 还愿画      | styles/2242-ex-voto.png             |
+| h2200 | Chokwe              | 乔奎纹绘    | styles/2243-chokwe.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2243, PNG count 2243. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
