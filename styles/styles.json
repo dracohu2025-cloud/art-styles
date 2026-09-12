@@ -27597,5 +27597,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2081",
+    "slug": "hagenbund",
+    "name_en": "Hagenbund",
+    "name_zh": "哈根同盟",
+    "description_en": "Vienna Hagenbund modernism: enamel-bright local color, ornamental contour, flattened exhibition-poster space, gold-olive-carmine-teal.",
+    "description_zh": "维也纳哈根同盟现代主义：珐琅般固有色、装饰轮廓、展览海报式平面空间、金橄榄与朱红青绿。",
+    "source": "hermes-explore",
+    "image": "styles/2124-hagenbund.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2082",
+    "slug": "munich-secession",
+    "name_en": "Munich Secession",
+    "name_zh": "慕尼黑分离派",
+    "description_en": "Munich Secession oil: Jugendstil-impressionist light, bronze-green and apricot atmosphere, fluid contour, salon-scale painterly figure.",
+    "description_zh": "慕尼黑分离派油画：新艺术印象光、铜绿与杏黄氛围、流动轮廓、沙龙尺度的笔触人物。",
+    "source": "hermes-explore",
+    "image": "styles/2125-munich-secession.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2083",
+    "slug": "hoosier-group",
+    "name_en": "Hoosier Group",
+    "name_zh": "霍希尔画派",
+    "description_en": "Indiana Hoosier Group impressionism: golden autumn woodland light, broken complementary color, ochre-violet haze, visible bristle strokes.",
+    "description_zh": "印第安纳霍希尔画派印象：秋林金光、互补断彩、赭紫雾气、可见鬃毛笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2126-hoosier-group.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2084",
+    "slug": "plasticiens",
+    "name_en": "Plasticiens",
+    "name_zh": "造型派",
+    "description_en": "Montreal Plasticiens hard-edge: razor-sharp acrylic bands, unmodulated primaries against deep black, geometric reconstruction of the figure.",
+    "description_zh": "蒙特利尔造型派硬边：锋利丙烯色带、原色平涂对深黑、几何重构人物。",
+    "source": "hermes-explore",
+    "image": "styles/2127-plasticiens.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2085",
+    "slug": "soga-school",
+    "name_en": "Soga School",
+    "name_zh": "曾我派",
+    "description_en": "Soga School ink: wild Muromachi–Momoyama brush, splashed hatsuboku, eccentric dry-wet black, spare paper ground, unorthodox silhouette.",
+    "description_zh": "曾我派水墨：室町–桃山狂笔、泼墨、干湿互破的浓黑、大片留白、不羁剪影。",
+    "source": "hermes-explore",
+    "image": "styles/2128-soga-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

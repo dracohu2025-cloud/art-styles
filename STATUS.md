@@ -5840,6 +5840,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2123, PNG count 2123. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 417 (exactly 5, h2081–h2085)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                                  |
+|-------|-------------------|-----------------|----------------------------------------|
+| h2081 | Hagenbund         | 哈根同盟        | styles/2124-hagenbund.png              |
+| h2082 | Munich Secession  | 慕尼黑分离派    | styles/2125-munich-secession.png       |
+| h2083 | Hoosier Group     | 霍希尔画派      | styles/2126-hoosier-group.png          |
+| h2084 | Plasticiens       | 造型派          | styles/2127-plasticiens.png            |
+| h2085 | Soga School       | 曾我派          | styles/2128-soga-school.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2128, PNG count 2128. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
