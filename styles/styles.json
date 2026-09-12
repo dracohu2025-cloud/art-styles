@@ -27987,5 +27987,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2111",
+    "slug": "neo-grec",
+    "name_en": "Neo-Grec",
+    "name_zh": "新希腊风",
+    "description_en": "Neo-Grec: 19th-century French academic Greco-Roman revival, cool marble light, enamel-smooth oil, linear chaste drapery, planar stoa architecture, archaeological clarity.",
+    "description_zh": "新希腊风：十九世纪法国学院派希腊罗马复兴、冷大理石光、珐琅般平滑油彩、克制线性衣褶、平面柱廊建筑、考古式清晰。",
+    "source": "hermes-explore",
+    "image": "styles/2154-neo-grec.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2112",
+    "slug": "pompier",
+    "name_en": "Pompier",
+    "name_zh": "浮夸沙龙画",
+    "description_en": "Pompier: Second Empire/Third Republic salon high-finish, porcelain flesh, glazed academic oil, theatrical antique hall, enamel-hard contours, varnish gloss.",
+    "description_zh": "浮夸沙龙画：第二帝国/第三共和国沙龙高完成度、瓷质肤色、罩染学院油彩、剧场式古典厅堂、珐琅硬边轮廓、亮光罩漆。",
+    "source": "hermes-explore",
+    "image": "styles/2155-pompier.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2113",
+    "slug": "blue-rose",
+    "name_en": "Blue Rose",
+    "name_zh": "蓝玫瑰派",
+    "description_en": "Blue Rose (Golubaya Roza): Russian Symbolist hush, muted twilight blues and lilacs, veiled decorative mist, tapestry-shallow space, matte tempera-oil atmosphere.",
+    "description_zh": "蓝玫瑰派：俄国象征主义静谧、暮蓝与淡紫、薄纱般装饰雾气、织毯式浅空间、哑光蛋彩油彩氛围。",
+    "source": "hermes-explore",
+    "image": "styles/2156-blue-rose.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2114",
+    "slug": "ubud-school",
+    "name_en": "Ubud School",
+    "name_zh": "乌布画派",
+    "description_en": "Ubud School: Balinese modern decorative painting, dense rhythmic foliage, fine dark contour, flattened tapestry perspective, luminous tempera-like local color.",
+    "description_zh": "乌布画派：巴厘现代装饰绘画、密织节奏性枝叶、细密深色轮廓、扁平织毯透视、明亮蛋彩般固有色。",
+    "source": "hermes-explore",
+    "image": "styles/2157-ubud-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2115",
+    "slug": "wuqiang-nianhua",
+    "name_en": "Wuqiang Nianhua",
+    "name_zh": "武强年画",
+    "description_en": "Wuqiang Nianhua: Hebei folk New Year woodblock, bold key-block outlines, flat vermilion-green-yellow-blue overprint, coarse paper tooth, graphic peasant print.",
+    "description_zh": "武强年画：河北民间木版年画、粗黑主版线、朱红石绿铬黄普蓝平涂套色、粗纸肌理、图形化农民版画。",
+    "source": "hermes-explore",
+    "image": "styles/2158-wuqiang-nianhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

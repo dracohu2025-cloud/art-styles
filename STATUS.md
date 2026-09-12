@@ -5924,6 +5924,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2153, PNG count 2153. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 423 (exactly 5, h2111–h2115)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|-------------------------------------|
+| h2111 | Neo-Grec         | 新希腊风    | styles/2154-neo-grec.png            |
+| h2112 | Pompier          | 浮夸沙龙画  | styles/2155-pompier.png             |
+| h2113 | Blue Rose        | 蓝玫瑰派    | styles/2156-blue-rose.png           |
+| h2114 | Ubud School      | 乌布画派    | styles/2157-ubud-school.png         |
+| h2115 | Wuqiang Nianhua  | 武强年画    | styles/2158-wuqiang-nianhua.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2158, PNG count 2158. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
