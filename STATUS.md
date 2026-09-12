@@ -5728,6 +5728,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2083, PNG count 2083. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 409 (exactly 5, h2041–h2045)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh             | image                                    |
+|-------|-----------------------|---------------------|------------------------------------------|
+| h2041 | Googie                | 古吉风格            | styles/2084-googie.png                   |
+| h2042 | Skønvirke             | 斯肯维尔克          | styles/2085-skonvirke.png                |
+| h2043 | Kitchen Sink Realism  | 厨房水槽写实        | styles/2086-kitchen-sink-realism.png     |
+| h2044 | Beaver Hall Group     | 海狸厅画会          | styles/2087-beaver-hall-group.png        |
+| h2045 | Capitalist Realism    | 资本主义现实主义    | styles/2088-capitalist-realism.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2088, PNG count 2088. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -27077,5 +27077,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2041",
+    "slug": "googie",
+    "name_en": "Googie",
+    "name_zh": "古吉风格",
+    "description_en": "Googie: 1950s Atomic Age roadside modern, upswept butterfly roofs, boomerang and starburst motifs, chrome, aqua-orange-yellow neon, terrazzo, kidney curves.",
+    "description_zh": "古吉风格：1950年代原子时代路边现代、上扬蝶形屋顶、回力镖与星爆纹样、镀铬、青绿-橙-黄霓虹、水磨石、肾形曲线。",
+    "source": "hermes-explore",
+    "image": "styles/2084-googie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2042",
+    "slug": "skonvirke",
+    "name_en": "Skønvirke",
+    "name_zh": "斯肯维尔克",
+    "description_en": "Skønvirke: Danish 1890–1915 National Romantic / Nordic Art Nouveau, stylized conifer and water-lily ornament, silver-pewter metalwork, carved oak, sage-grey-amber craft palette.",
+    "description_zh": "斯肯维尔克：丹麦1890–1915民族浪漫/北欧新艺术、程式化针叶与睡莲纹样、银锡金属工艺、雕橡木、鼠尾草灰琥珀手工艺色调。",
+    "source": "hermes-explore",
+    "image": "styles/2085-skonvirke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2043",
+    "slug": "kitchen-sink-realism",
+    "name_en": "Kitchen Sink Realism",
+    "name_zh": "厨房水槽写实",
+    "description_en": "Kitchen Sink Realism: British 1950s Bratby school, thick oily impasto, muddy greys and dirty cream, cluttered postwar kitchen, enamel basins, harsh bulb light, greasy loaded brush.",
+    "description_zh": "厨房水槽写实：1950年代英国布拉特比一派、厚油堆叠、泥灰与脏奶油色、拥挤战后厨房、搪瓷盆、刺目灯泡、油腻满载笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2086-kitchen-sink-realism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2044",
+    "slug": "beaver-hall-group",
+    "name_en": "Beaver Hall Group",
+    "name_zh": "海狸厅画会",
+    "description_en": "Beaver Hall Group: 1920s Montreal modernism, decorative flattened portrait, bold contour, patterned urban interior, teal-rust-plum Post-Impressionist color, simplified volumes.",
+    "description_zh": "海狸厅画会：1920年代蒙特利尔现代主义、装饰性扁平肖像、明确轮廓、图案化都市室内、青绿-锈红-梅紫后印象色彩、简化体量。",
+    "source": "hermes-explore",
+    "image": "styles/2087-beaver-hall-group.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2045",
+    "slug": "capitalist-realism",
+    "name_en": "Capitalist Realism",
+    "name_zh": "资本主义现实主义",
+    "description_en": "Capitalist Realism: 1960s German Kapitalistischer Realismus, photo-derived Richter blur, Polke offset halftone, banal consumer interior, grey-green magazine-ad light, deadpan raster oil.",
+    "description_zh": "资本主义现实主义：1960年代德国Kapitalistischer Realismus、源自照片的里希特模糊、波尔克胶印网点、日常消费室内、灰绿杂志广告光、冷淡光栅油画。",
+    "source": "hermes-explore",
+    "image": "styles/2088-capitalist-realism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
