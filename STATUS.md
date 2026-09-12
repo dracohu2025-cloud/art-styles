@@ -6204,6 +6204,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2253, PNG count 2253. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 443 (exactly 5, h2211–h2215)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                            |
+|-------|----------------|-------------------|----------------------------------|
+| h2211 | Hypergraphy    | 超书写            | styles/2254-hypergraphy.png      |
+| h2212 | Tikuli         | 提库利            | styles/2255-tikuli.png           |
+| h2213 | Jinshi School  | 金石派            | styles/2256-jinshi-school.png    |
+| h2214 | Kargopol       | 卡尔戈波尔彩绘    | styles/2257-kargopol.png         |
+| h2215 | Swiss Style    | 瑞士平面          | styles/2258-swiss-style.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2258, PNG count 2258. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

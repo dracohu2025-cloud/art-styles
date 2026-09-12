@@ -29287,5 +29287,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2211",
+    "slug": "hypergraphy",
+    "name_en": "Hypergraphy",
+    "name_zh": "超书写",
+    "description_en": "Lettrist hypergraphie: glyphs, invented letters, and pictograms as the picture itself, metagraphic ink on cream paper.",
+    "description_zh": "字母派超书写：字形、自造字母与象形符号即画面，超书写墨迹于米色纸。",
+    "source": "hermes-explore",
+    "image": "styles/2254-hypergraphy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2212",
+    "slug": "tikuli",
+    "name_en": "Tikuli",
+    "name_zh": "提库利",
+    "description_en": "Bihar Tikuli enamel on hardboard: glossy lacquer layers, bindi-like dotted discs, jewel concentric medallions.",
+    "description_zh": "比哈尔提库利硬板珐琅：亮漆层、吉祥痣式点盘、宝石同心圆章。",
+    "source": "hermes-explore",
+    "image": "styles/2255-tikuli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2213",
+    "slug": "jinshi-school",
+    "name_en": "Jinshi School",
+    "name_zh": "金石派",
+    "description_en": "Epigraphic painting: bronze-and-stone inscription energy, rubbing grain, dry worn brush, verdigris patina ink.",
+    "description_zh": "金石派绘画：青铜碑刻气骨、拓片颗粒、枯笔飞白、铜绿包浆墨色。",
+    "source": "hermes-explore",
+    "image": "styles/2256-jinshi-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2214",
+    "slug": "kargopol",
+    "name_en": "Kargopol",
+    "name_zh": "卡尔戈波尔彩绘",
+    "description_en": "Northern Russian Kargopol folk painting: chalky white ground, geometric face-marks, red-green-yellow-black tempera ornaments.",
+    "description_zh": "俄国北部卡尔戈波尔彩绘：白粉底、几何面纹、红绿黄黑蛋彩纹样。",
+    "source": "hermes-explore",
+    "image": "styles/2257-kargopol.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2215",
+    "slug": "swiss-style",
+    "name_en": "Swiss Style",
+    "name_zh": "瑞士平面",
+    "description_en": "International Typographic Style: asymmetric grid, grotesque bars, objective color fields, black-red-white negative space.",
+    "description_zh": "国际字体风格：不对称网格、无衬线色条、客观色块、黑红白留白。",
+    "source": "hermes-explore",
+    "image": "styles/2258-swiss-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
