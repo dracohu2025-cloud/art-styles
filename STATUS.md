@@ -6022,6 +6022,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2188, PNG count 2188. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 430 (exactly 5, h2146–h2150)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                         |
+|-------|--------------|------------|-------------------------------|
+| h2146 | BMPT         | BMPT画派   | styles/2189-bmpt.png          |
+| h2147 | Ferronnerie  | 铁艺纹样   | styles/2190-ferronnerie.png   |
+| h2148 | Ruqʿah       | 卢格阿体   | styles/2191-ruqah.png         |
+| h2149 | Hatayi       | 哈塔伊纹   | styles/2192-hatayi.png        |
+| h2150 | Egyptomania  | 埃及热     | styles/2193-egyptomania.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2193, PNG count 2193. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

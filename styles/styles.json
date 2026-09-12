@@ -28442,5 +28442,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2146",
+    "slug": "bmpt",
+    "name_en": "BMPT",
+    "name_zh": "BMPT画派",
+    "description_en": "BMPT: painting as protocol — Buren 8.7 cm stripes, Toroni regular brush imprints, Mosset circle, Parmentier folded-spray bands; mechanical repetition, anti-expressive acrylic.",
+    "description_zh": "BMPT画派：作为规程的绘画——布伦8.7厘米条纹、托罗尼等距笔触印、莫塞圆、帕尔芒蒂耶折叠喷绘带；机械重复、反表现丙烯。",
+    "source": "hermes-explore",
+    "image": "styles/2189-bmpt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2147",
+    "slug": "ferronnerie",
+    "name_en": "Ferronnerie",
+    "name_zh": "铁艺纹样",
+    "description_en": "Ferronnerie: 16th-century Antwerp goldsmith ornament of pierced ironwork C- and S-scrolls, white-ground burin engraving, strapwork as cut metal, Cornelis Bos/Floris vocabulary.",
+    "description_zh": "铁艺纹样：十六世纪安特卫普金工匠纹样，镂空铁艺C形与S形涡卷、白地雕刀线刻、如裁切金属的带饰，博斯/弗洛里斯语汇。",
+    "source": "hermes-explore",
+    "image": "styles/2190-ferronnerie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2148",
+    "slug": "ruqah",
+    "name_en": "Ruqʿah",
+    "name_zh": "卢格阿体",
+    "description_en": "Ruqʿah: Ottoman-Egyptian office hand — short angular letterforms, clipped descenders, compact counters, soot ink on cream laid paper, reed-pen cuts, no thuluth sweep.",
+    "description_zh": "卢格阿体：奥斯曼-埃及文书手——短促棱角字母、截短垂笔、紧凑字怀、米色罗纹纸上的烟炱墨、芦管笔切笔，无苏鲁斯长弧。",
+    "source": "hermes-explore",
+    "image": "styles/2191-ruqah.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2149",
+    "slug": "hatayi",
+    "name_en": "Hatayi",
+    "name_zh": "哈塔伊纹",
+    "description_en": "Hatayi: Ottoman chinoiserie composite blossoms — palmette lotuses, rumi split-leaves, gold contour, cobalt-turquoise-bole on album-page white, imperial workshop modules.",
+    "description_zh": "哈塔伊纹：奥斯曼中国风复合花卉——掌状莲、鲁米裂叶、金勾线、册页白地上的钴蓝-松石-土红，宫廷作坊模块。",
+    "source": "hermes-explore",
+    "image": "styles/2192-hatayi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2150",
+    "slug": "egyptomania",
+    "name_en": "Egyptomania",
+    "name_zh": "埃及热",
+    "description_en": "Egyptomania: 19th–early-20th-century Egyptian Revival graphic — Description de l'Égypte plate plus Art Deco revival flats, ochre-black-gold lithography, lotus-column borders as ornament.",
+    "description_zh": "埃及热：十九至二十世纪初埃及复兴平面——《埃及志》铜版与装饰艺术复兴平涂、赭-黑-金石版、作为纹样的莲柱边饰。",
+    "source": "hermes-explore",
+    "image": "styles/2193-egyptomania.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
