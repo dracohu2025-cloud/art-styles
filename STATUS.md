@@ -5896,6 +5896,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2143, PNG count 2143. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 421 (exactly 5, h2101–h2105)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh           | image                                 |
+|-------|----------------------|-------------------|---------------------------------------|
+| h2101 | Huangshan School     | 黄山画派          | styles/2144-huangshan-school.png      |
+| h2102 | Song Court Painting  | 宋院体            | styles/2145-song-court-painting.png   |
+| h2103 | Four Wangs           | 四王              | styles/2146-four-wangs.png            |
+| h2104 | Utagawa School       | 歌川派            | styles/2147-utagawa-school.png        |
+| h2105 | Nuremberg School     | 纽伦堡画派        | styles/2148-nuremberg-school.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2148, PNG count 2148. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -27857,5 +27857,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2101",
+    "slug": "huangshan-school",
+    "name_en": "Huangshan School",
+    "name_zh": "黄山画派",
+    "description_en": "Huangshan School: Anhui dry-brush pine, angular Yellow-Mountain granite, pale paper mist voids, scattered hemp-fiber cun, cool grey-green ink.",
+    "description_zh": "黄山画派：安徽枯笔松针、黄山折角花岗、浅纸烟岚留白、散披麻皴、冷灰绿墨。",
+    "source": "hermes-explore",
+    "image": "styles/2144-huangshan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2102",
+    "slug": "song-court-painting",
+    "name_en": "Song Court Painting",
+    "name_zh": "宋院体",
+    "description_en": "Song Court Painting: imperial academy silk ground, iron-wire contour, thin mineral color, porcelain-smooth modeling, bird-and-flower precision.",
+    "description_zh": "宋院体：宫廷绢地、铁线描、薄矿物色、瓷滑渲染、花鸟院体精密。",
+    "source": "hermes-explore",
+    "image": "styles/2145-song-court-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2103",
+    "slug": "four-wangs",
+    "name_en": "Four Wangs",
+    "name_zh": "四王",
+    "description_en": "Four Wangs: Qing orthodox landscape, piled hemp-fiber cun, layered dry ink, Yuan-master structure, restrained brown-grey alum-paper warmth.",
+    "description_zh": "四王：清正统山水、层叠披麻皴、干墨积染、师元人丘壑、褐灰矾纸温调。",
+    "source": "hermes-explore",
+    "image": "styles/2146-four-wangs.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2104",
+    "slug": "utagawa-school",
+    "name_en": "Utagawa School",
+    "name_zh": "歌川派",
+    "description_en": "Utagawa School: Edo nishiki-e, thick keyblock outlines, flat color fields, bokashi sky, strong red-blue-green snap, woodblock graphic space.",
+    "description_zh": "歌川派：江户锦绘、粗健主版线、平涂色块、空摺ぼかし、红蓝绿强对比、木版图形空间。",
+    "source": "hermes-explore",
+    "image": "styles/2147-utagawa-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2105",
+    "slug": "nuremberg-school",
+    "name_en": "Nuremberg School",
+    "name_zh": "纽伦堡画派",
+    "description_en": "Nuremberg School: Dürer-circle Northern oil, glaze over precise underdrawing, micro-detail of linen and metal, cool German daylight, enamel flesh.",
+    "description_zh": "纽伦堡画派：丢勒圈北欧油画、精确底稿上罩染、麻布金属微描、冷日耳曼光、珐琅肤色。",
+    "source": "hermes-explore",
+    "image": "styles/2148-nuremberg-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
