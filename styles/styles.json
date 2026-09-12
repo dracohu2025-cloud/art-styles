@@ -27727,5 +27727,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2091",
+    "slug": "catalan-romanesque",
+    "name_en": "Catalan Romanesque",
+    "name_zh": "加泰罗尼亚罗马式",
+    "description_en": "Catalan Romanesque fresco: heavy black contour, frontal hieratic figure, geometric V-fold drapery, ochre-cinnabar-lapis on lime plaster, oversized almond eyes.",
+    "description_zh": "加泰罗尼亚罗马式湿壁画：粗黑轮廓、正面层级人物、几何V褶衣纹、赭石朱砂青金石灰泥、杏仁巨目。",
+    "source": "hermes-explore",
+    "image": "styles/2134-catalan-romanesque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2092",
+    "slug": "kaiho-school",
+    "name_en": "Kaiho School",
+    "name_zh": "海北派",
+    "description_en": "Kaiho School ink: monumental simplified figure, bold wet-dry sumi, spare gold-flecked empty ground, Zen abbreviation, few decisive strokes.",
+    "description_zh": "海北派水墨：纪念碑式简化人物、干湿浓墨、金箔留白、禅意省略、数笔立形。",
+    "source": "hermes-explore",
+    "image": "styles/2135-kaiho-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2093",
+    "slug": "onna-e",
+    "name_en": "Onna-e",
+    "name_zh": "女绘",
+    "description_en": "Onna-e Yamato-e: opaque mineral tsukuri-e, fukinuki-yatai blown-off roof, stacked junihitoe patterns, flat decorative planes, Genji-scroll interior.",
+    "description_zh": "女绘大和绘：矿物厚涂作绘、吹拔屋台、层叠十二单纹样、平面装饰色块、源氏物语气。",
+    "source": "hermes-explore",
+    "image": "styles/2136-onna-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2094",
+    "slug": "prague-mannerism",
+    "name_en": "Prague Mannerism",
+    "name_zh": "布拉格矫饰主义",
+    "description_en": "Prague Rudolfine Mannerism: enamel-smooth oil, elongated courtly figure, jewel color, metallic shot silk, cool Mannerist light, Spranger–von Aachen polish.",
+    "description_zh": "布拉格矫饰主义：珐琅般油画、修长宫廷人物、宝石色、闪色绸缎、冷矫饰光、施普朗格–冯阿亨光洁。",
+    "source": "hermes-explore",
+    "image": "styles/2137-prague-mannerism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2095",
+    "slug": "haarlem-mannerists",
+    "name_en": "Haarlem Mannerists",
+    "name_zh": "哈勒姆风格主义",
+    "description_en": "Haarlem Mannerists: nacreous flesh, swirling contrapposto, engraved-line clarity, silvery-rose and gold, Goltzius–Cornelis academy elegance.",
+    "description_zh": "哈勒姆风格主义：珠光肤色、旋转对应姿势、雕线清晰、银玫瑰与金、霍尔齐厄斯–科内利斯学院优雅。",
+    "source": "hermes-explore",
+    "image": "styles/2138-haarlem-mannerists.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

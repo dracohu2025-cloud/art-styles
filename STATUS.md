@@ -5868,6 +5868,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2133, PNG count 2133. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 419 (exactly 5, h2091–h2095)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh                 | image                                   |
+|-------|----------------------|-------------------------|-----------------------------------------|
+| h2091 | Catalan Romanesque   | 加泰罗尼亚罗马式        | styles/2134-catalan-romanesque.png      |
+| h2092 | Kaiho School         | 海北派                  | styles/2135-kaiho-school.png            |
+| h2093 | Onna-e               | 女绘                    | styles/2136-onna-e.png                  |
+| h2094 | Prague Mannerism     | 布拉格矫饰主义          | styles/2137-prague-mannerism.png        |
+| h2095 | Haarlem Mannerists   | 哈勒姆风格主义          | styles/2138-haarlem-mannerists.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2138, PNG count 2138. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
