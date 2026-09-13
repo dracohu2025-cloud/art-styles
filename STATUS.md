@@ -6624,6 +6624,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2403, PNG count 2403. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 473 (exactly 5, h2361–h2365)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                            |
+|-------|--------------|-------------|----------------------------------|
+| h2361 | Settecento   | 塞泰琴托    | styles/2404-settecento.png       |
+| h2362 | Horror Vacui | 恐空密饰    | styles/2405-horror-vacui.png     |
+| h2363 | Hakubyo      | 白描绘      | styles/2406-hakubyo.png          |
+| h2364 | Yofuga       | 洋风画      | styles/2407-yofuga.png           |
+| h2365 | Chromatype   | 铬盐彩照    | styles/2408-chromatype.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2408, PNG count 2408. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

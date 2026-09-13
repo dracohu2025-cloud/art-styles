@@ -31237,5 +31237,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2361",
+    "slug": "settecento",
+    "name_en": "Settecento",
+    "name_zh": "塞泰琴托",
+    "description_en": "Settecento: 18th-century Italian fresco-oil lightness, pastel marble, airy theatrical glow, porcelain half-tones.",
+    "description_zh": "塞泰琴托：十八世纪意大利湿壁画与油画的轻盈光感、粉彩大理石、通透剧场光、瓷质中间调。",
+    "source": "hermes-explore",
+    "image": "styles/2404-settecento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2362",
+    "slug": "horror-vacui",
+    "name_en": "Horror Vacui",
+    "name_zh": "恐空密饰",
+    "description_en": "Horror vacui: pictorial field packed so densely with ornament that almost no empty ground remains.",
+    "description_zh": "恐空密饰：画面被纹样填满到几乎不留空白的装饰构图法。",
+    "source": "hermes-explore",
+    "image": "styles/2405-horror-vacui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2363",
+    "slug": "hakubyo",
+    "name_en": "Hakubyo",
+    "name_zh": "白描绘",
+    "description_en": "Hakubyō: Japanese uncolored ink-line painting, wire-thin contours on paper, no pigment wash.",
+    "description_zh": "白描绘：日本无着色墨线画，细匀轮廓落于纸地，不用色墨渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2406-hakubyo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2364",
+    "slug": "yofuga",
+    "name_en": "Yofuga",
+    "name_zh": "洋风画",
+    "description_en": "Yōfūga: Japanese painting absorbing Western oil modeling and linear perspective while keeping local pictorial space.",
+    "description_zh": "洋风画：吸收西洋油画体积与线性透视、仍保留日本画面空间的绘画。",
+    "source": "hermes-explore",
+    "image": "styles/2407-yofuga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2365",
+    "slug": "chromatype",
+    "name_en": "Chromatype",
+    "name_zh": "铬盐彩照",
+    "description_en": "Chromatype: early chromium-salt color paper, muted aniline stains, low contrast, visible fiber and chemical mottling.",
+    "description_zh": "铬盐彩照：早期铬盐彩色相纸、浅淡苯胺色渍、低反差、纸纤维与药液斑驳可见。",
+    "source": "hermes-explore",
+    "image": "styles/2408-chromatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
