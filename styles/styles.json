@@ -29677,5 +29677,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2241",
+    "slug": "canetille",
+    "name_en": "Canetille",
+    "name_zh": "金线盘花",
+    "description_en": "Coiled gold-wire canetille: hair-thin bullion spirals and filigree coils, no painted surface, metallic construction on a dark void.",
+    "description_zh": "金线盘花：发丝金线螺旋与盘丝、无涂绘表面、暗地金属构成。",
+    "source": "hermes-explore",
+    "image": "styles/2284-canetille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2242",
+    "slug": "guri-bori",
+    "name_en": "Guri-bori",
+    "name_zh": "屈轮雕",
+    "description_en": "Carved layered mixed metal: V-groove guri through stacked gold, shakudo, and copper, concentric rings, polished metal, no paint.",
+    "description_zh": "屈轮雕：金银赤铜叠层V槽雕、同心环纹、抛光金属、无笔绘。",
+    "source": "hermes-explore",
+    "image": "styles/2285-guri-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2243",
+    "slug": "hidehira-nuri",
+    "name_en": "Hidehira-nuri",
+    "name_zh": "秀衡塗",
+    "description_en": "Hiraizumi lacquer: glossy black and cinnabar urushi, gold diamond lattice Hidehira geometry, thick wet sheen, no painterly blend.",
+    "description_zh": "秀衡塗：黑朱漆高光、菱格金纹几何、厚漆润泽、无笔绘晕染。",
+    "source": "hermes-explore",
+    "image": "styles/2286-hidehira-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2244",
+    "slug": "tenkoku",
+    "name_en": "Tenkoku",
+    "name_zh": "篆刻",
+    "description_en": "Seal carving: knife-cut stone intaglio and relief, cinnabar vermillion stamp, stone grain, no contour painting.",
+    "description_zh": "篆刻：石面刀刻阴阳、朱砂钤印、石理、无勾线笔绘。",
+    "source": "hermes-explore",
+    "image": "styles/2287-tenkoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2245",
+    "slug": "fondi-d-oro",
+    "name_en": "Fondi d'oro",
+    "name_zh": "金夹玻璃",
+    "description_en": "Gold sandwich glass: engraved gold leaf fused between glass discs, scratched-line gold drawing, aged amber-green glass, no mosaic tesserae.",
+    "description_zh": "金夹玻璃：金箔刻线熔夹于两层玻璃、划线金绘、古琥珀绿玻、无马赛克块。",
+    "source": "hermes-explore",
+    "image": "styles/2288-fondi-d-oro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

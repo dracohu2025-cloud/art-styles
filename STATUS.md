@@ -6288,6 +6288,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2283, PNG count 2283. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 449 (exactly 5, h2241–h2245)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                         |
+|-------|---------------|-------------|-------------------------------|
+| h2241 | Canetille     | 金线盘花    | styles/2284-canetille.png     |
+| h2242 | Guri-bori     | 屈轮雕      | styles/2285-guri-bori.png     |
+| h2243 | Hidehira-nuri | 秀衡塗      | styles/2286-hidehira-nuri.png |
+| h2244 | Tenkoku       | 篆刻        | styles/2287-tenkoku.png       |
+| h2245 | Fondi d'oro   | 金夹玻璃    | styles/2288-fondi-d-oro.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2288, PNG count 2288. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
