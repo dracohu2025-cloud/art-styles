@@ -6526,6 +6526,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2368, PNG count 2368. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 466 (exactly 5, h2326–h2330)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh       | image                         |
+|-------|--------------|---------------|-------------------------------|
+| h2326 | Gombroon     | 贡布隆        | styles/2369-gombroon.png      |
+| h2327 | Capodimonte  | 卡波迪蒙特    | styles/2370-capodimonte.png   |
+| h2328 | Benzuri-e    | 红折绘        | styles/2371-benzuri-e.png     |
+| h2329 | Kashida      | 卡什达绣      | styles/2372-kashida.png       |
+| h2330 | Ngatu        | 恩加图        | styles/2373-ngatu.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2373, PNG count 2373. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

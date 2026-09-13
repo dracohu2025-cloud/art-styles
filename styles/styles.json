@@ -30782,5 +30782,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2326",
+    "slug": "gombroon",
+    "name_en": "Gombroon",
+    "name_zh": "贡布隆",
+    "description_en": "Persian eggshell fritware: paper-thin milky body, rice-grain openwork, icy translucent white.",
+    "description_zh": "波斯蛋壳白瓷，胎薄如纸、米粒镂空、冰透乳白。",
+    "source": "hermes-explore",
+    "image": "styles/2369-gombroon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2327",
+    "slug": "capodimonte",
+    "name_en": "Capodimonte",
+    "name_zh": "卡波迪蒙特",
+    "description_en": "Naples soft-paste porcelain: creamy paste, Rococo floral relief, pistachio-blush glaze and gilt.",
+    "description_zh": "那不勒斯软瓷，乳白胎、洛可可浮雕花卉、粉绿浅粉釉与描金。",
+    "source": "hermes-explore",
+    "image": "styles/2370-capodimonte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2328",
+    "slug": "benzuri-e",
+    "name_en": "Benzuri-e",
+    "name_zh": "红折绘",
+    "description_en": "Early ukiyo-e limited-color woodblock: sumi keyblock, beni red plus one or two mineral tints.",
+    "description_zh": "早期浮世绘限色木版，墨线主版、红花红加一两套矿物色。",
+    "source": "hermes-explore",
+    "image": "styles/2371-benzuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2329",
+    "slug": "kashida",
+    "name_en": "Kashida",
+    "name_zh": "卡什达绣",
+    "description_en": "Kashmiri crewel: dense satin and chain stitch, chenar leaves, buti sprigs, wool sheen on cloth.",
+    "description_zh": "克什米尔绒绣，密缎针与锁链针、梧桐叶与布蒂小花、毛线光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2372-kashida.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2330",
+    "slug": "ngatu",
+    "name_en": "Ngatu",
+    "name_zh": "恩加图",
+    "description_en": "Tongan painted barkcloth: beaten mulberry grain, kupesi-rubbed rust-brown and soot-black geometry.",
+    "description_zh": "汤加树皮布绘，构树纤维纹理、拓模擦染赭褐与烟黑色几何。",
+    "source": "hermes-explore",
+    "image": "styles/2373-ngatu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
