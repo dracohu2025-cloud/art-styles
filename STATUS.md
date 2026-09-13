@@ -6498,6 +6498,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2358, PNG count 2358. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 464 (exactly 5, h2316–h2320)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                              |
+|-------|-------------------|-------------|------------------------------------|
+| h2316 | Diaotian          | 雕填        | styles/2359-diaotian.png           |
+| h2317 | Echizen Ware      | 越前烧      | styles/2360-echizen-ware.png       |
+| h2318 | Italo-Cretan      | 意克圣像    | styles/2361-italo-cretan.png       |
+| h2319 | Kanazawa-haku     | 金泽箔      | styles/2362-kanazawa-haku.png      |
+| h2320 | Shufu             | 枢府瓷      | styles/2363-shufu.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2363, PNG count 2363. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -30652,5 +30652,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2316",
+    "slug": "diaotian",
+    "name_en": "Diaotian",
+    "name_zh": "雕填",
+    "description_en": "Chinese diaotian lacquer: carved recesses filled with contrasting colored lacquer, polished flush, cinnabar-black-ochre inlay, level surface.",
+    "description_zh": "雕填漆：刻槽填彩、磨平齐面、朱黑赭色填漆、平面嵌色。",
+    "source": "hermes-explore",
+    "image": "styles/2359-diaotian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2317",
+    "slug": "echizen-ware",
+    "name_en": "Echizen Ware",
+    "name_zh": "越前烧",
+    "description_en": "Echizen stoneware: Six Ancient Kilns body, natural wood-ash runs, iron-rich toasted clay, fire marks, rustic unglazed-to-olive ash glaze.",
+    "description_zh": "越前烧：六古窑陶体、自然灰釉流、高铁焦土、火痕、素烧至橄榄灰釉。",
+    "source": "hermes-explore",
+    "image": "styles/2360-echizen-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2318",
+    "slug": "italo-cretan",
+    "name_en": "Italo-Cretan",
+    "name_zh": "意克圣像",
+    "description_en": "Italo-Cretan icon painting: egg tempera on gold ground, Byzantine linear drapery mixed with Venetian volume, chrysography, punched halo.",
+    "description_zh": "意克圣像：金地蛋彩、拜占庭线描衣褶混威尼斯体积、金线高光、冲压光轮。",
+    "source": "hermes-explore",
+    "image": "styles/2361-italo-cretan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2319",
+    "slug": "kanazawa-haku",
+    "name_en": "Kanazawa-haku",
+    "name_zh": "金泽箔",
+    "description_en": "Kanazawa gold leaf: ultra-thin beaten kinpaku squares, visible foil seams, burnished vs matte gold, green-gold alloy sheen.",
+    "description_zh": "金泽箔：极薄金箔方片、可见接缝、抛光与哑光金、青金合金光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2362-kanazawa-haku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2320",
+    "slug": "shufu",
+    "name_en": "Shufu",
+    "name_zh": "枢府瓷",
+    "description_en": "Yuan shufu ware: luanbai egg-white opaque glaze, molded low-relief lotus, shu-fu characters, bluish-white Jingdezhen porcelain.",
+    "description_zh": "枢府瓷：卵白失透釉、模印浅浮莲、枢府字样、微青景德镇瓷。",
+    "source": "hermes-explore",
+    "image": "styles/2363-shufu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
