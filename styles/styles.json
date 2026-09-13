@@ -30522,5 +30522,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2306",
+    "slug": "rebgong",
+    "name_en": "Rebgong",
+    "name_zh": "热贡",
+    "description_en": "Qinghai Rebgong thangka manner: mineral pigments on cotton, dense gold-line outlining, azurite and cinnabar, Newar-influenced modeling, jewel-pattern textiles.",
+    "description_zh": "热贡唐卡：棉布矿物颜料、金线密描、石青朱红、尼瓦尔式开脸、锦纹衣饰。",
+    "source": "hermes-explore",
+    "image": "styles/2349-rebgong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2307",
+    "slug": "skopin",
+    "name_en": "Skopin",
+    "name_zh": "斯科平陶",
+    "description_en": "Skopin folk pottery: lead-glazed earthenware, running bottle-green and honey-amber, terracotta body, sculptural drip-glaze modeling.",
+    "description_zh": "斯科平陶器：铅釉陶、流淌的瓶绿与蜜琥珀、露胎、塑形滴釉。",
+    "source": "hermes-explore",
+    "image": "styles/2350-skopin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2308",
+    "slug": "kasli-casting",
+    "name_en": "Kasli Casting",
+    "name_zh": "卡斯利铸铁",
+    "description_en": "Ural Kasli cast-iron foundry: matte-satin black iron, high-relief ornamental casting, lace-like openwork, crisp foundry seams.",
+    "description_zh": "卡斯利铸铁：乌拉尔铸件、缎黑铁、高浮雕纹饰、透雕镂空、清晰分型线。",
+    "source": "hermes-explore",
+    "image": "styles/2351-kasli-casting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2309",
+    "slug": "pskov-school",
+    "name_en": "Pskov School",
+    "name_zh": "普斯科夫画派",
+    "description_en": "Medieval Pskov icon manner: egg tempera on gesso, olive sankir flesh, malachite and cinnabar, linear drapery, reverse perspective.",
+    "description_zh": "普斯科夫画派：蛋彩石膏底、橄榄肤色底层、石绿朱红、线描衣褶、反向透视。",
+    "source": "hermes-explore",
+    "image": "styles/2352-pskov-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2310",
+    "slug": "ashide-e",
+    "name_en": "Ashide-e",
+    "name_zh": "苇手绘",
+    "description_en": "Heian–Kamakura ashide-e: reeds, water, and rocks that double as cursive kana, Yamato-e mineral color, writing-as-landscape.",
+    "description_zh": "苇手绘：芦苇水石兼作草书假名、大和绘矿物色、字画一体。",
+    "source": "hermes-explore",
+    "image": "styles/2353-ashide-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

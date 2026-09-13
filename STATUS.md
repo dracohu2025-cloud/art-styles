@@ -6470,6 +6470,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2348, PNG count 2348. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 462 (exactly 5, h2306–h2310)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                            |
+|-------|----------------|-------------------|----------------------------------|
+| h2306 | Rebgong        | 热贡              | styles/2349-rebgong.png          |
+| h2307 | Skopin         | 斯科平陶          | styles/2350-skopin.png           |
+| h2308 | Kasli Casting  | 卡斯利铸铁        | styles/2351-kasli-casting.png    |
+| h2309 | Pskov School   | 普斯科夫画派      | styles/2352-pskov-school.png     |
+| h2310 | Ashide-e       | 苇手绘            | styles/2353-ashide-e.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2353, PNG count 2353. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
