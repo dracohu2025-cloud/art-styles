@@ -29742,5 +29742,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2246",
+    "slug": "samchykivka",
+    "name_en": "Samchykivka",
+    "name_zh": "萨姆奇基夫卡彩绘",
+    "description_en": "Ukrainian Samchykivka decorative painting: opaque folk tempera on chalk-white ground, stylized tulips berries and birds, flat saturated spots, black calligraphic contour.",
+    "description_zh": "萨姆奇基夫卡彩绘：白粉底不透明民间颜料、程式化郁金香浆果与鸟、平涂饱和色点、黑线描。",
+    "source": "hermes-explore",
+    "image": "styles/2289-samchykivka.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2247",
+    "slug": "santhal-painting",
+    "name_en": "Santhal Painting",
+    "name_zh": "桑塔尔画",
+    "description_en": "Santal mural painting: earth pigments on ochre mud-wall ground, bold flat color, rhythmic simplified figures, geometric borders, no modeled light.",
+    "description_zh": "桑塔尔壁画：赭泥墙矿物颜料、平涂色块、节奏化简形、几何边饰、无立体光影。",
+    "source": "hermes-explore",
+    "image": "styles/2290-santhal-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2248",
+    "slug": "kota-miniature",
+    "name_en": "Kota Miniature",
+    "name_zh": "科塔细密画",
+    "description_en": "Rajasthani Kota-school miniature: mineral opaque color on wasli, fine outline, jewel flat planes, pavilion and hunting landscape, gold heightening.",
+    "description_zh": "科塔细密画：瓦斯利纸矿物不透明色、细线、宝石平面、亭榭与狩猎景、泥金提亮。",
+    "source": "hermes-explore",
+    "image": "styles/2291-kota-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2249",
+    "slug": "onta-ware",
+    "name_en": "Onta Ware",
+    "name_zh": "小鹿田烧",
+    "description_en": "Ontayaki folk slipware: iron clay, white slip, tobiganna flying-plane combing in concentric arcs, hakeme brush-slip, wood-ash glaze pools.",
+    "description_zh": "小鹿田烧：铁质胎白化妆土、飞鉋同心弧纹、刷毛纹、灰釉积釉。",
+    "source": "hermes-explore",
+    "image": "styles/2292-onta-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2250",
+    "slug": "catalysotype",
+    "name_en": "Catalysotype",
+    "name_zh": "触媒印相",
+    "description_en": "Robert Hunt 1840s catalysotype: experimental iron-silver paper print, honey-brown metallic image, chemical mottle, low contrast, no gelatin gloss.",
+    "description_zh": "触媒印相：亨特1840年代铁银实验印相、蜜棕金属影像、药斑、低反差、无明胶高光。",
+    "source": "hermes-explore",
+    "image": "styles/2293-catalysotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

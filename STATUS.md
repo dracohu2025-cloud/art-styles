@@ -6302,6 +6302,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2288, PNG count 2288. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 450 (exactly 5, h2246–h2250)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh           | image                              |
+|-------|------------------|-------------------|------------------------------------|
+| h2246 | Samchykivka      | 萨姆奇基夫卡彩绘  | styles/2289-samchykivka.png        |
+| h2247 | Santhal Painting | 桑塔尔画          | styles/2290-santhal-painting.png   |
+| h2248 | Kota Miniature   | 科塔细密画        | styles/2291-kota-miniature.png     |
+| h2249 | Onta Ware        | 小鹿田烧          | styles/2292-onta-ware.png          |
+| h2250 | Catalysotype     | 触媒印相          | styles/2293-catalysotype.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2293, PNG count 2293. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
