@@ -6316,6 +6316,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2293, PNG count 2293. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 451 (exactly 5, h2251–h2255)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh      | image                            |
+|-------|------------------|--------------|----------------------------------|
+| h2251 | Kyo-yaki         | 京烧         | styles/2294-kyo-yaki.png         |
+| h2252 | Arretine         | 阿雷佐红陶   | styles/2295-arretine.png         |
+| h2253 | Malwa Miniature  | 马尔瓦细密画 | styles/2296-malwa-miniature.png  |
+| h2254 | Shiraz School    | 设拉子画派   | styles/2297-shiraz-school.png    |
+| h2255 | Glue-size        | 胶料画       | styles/2298-glue-size.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2298, PNG count 2298. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

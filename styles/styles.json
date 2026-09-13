@@ -29807,5 +29807,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2251",
+    "slug": "kyo-yaki",
+    "name_en": "Kyo-yaki",
+    "name_zh": "京烧",
+    "description_en": "Kyoto ware overglaze: creamy crackled porcelain ground, painterly iro-e enamels, gold accents, Ninsei–Kenzan brush on glaze.",
+    "description_zh": "京烧：京都彩绘瓷、乳白开片釉地、色绘珐琅、金彩、仁清乾山风釉上笔致。",
+    "source": "hermes-explore",
+    "image": "styles/2294-kyo-yaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2252",
+    "slug": "arretine",
+    "name_en": "Arretine",
+    "name_zh": "阿雷佐红陶",
+    "description_en": "Arezzo terra sigillata: coral-red glossy slip, mold-made low relief, beaded rims, satiny iron-rich surface, no polychrome.",
+    "description_zh": "阿雷佐红陶：珊瑚红亮滑陶衣、模制浅浮雕、联珠边、铁红缎面、无彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/2295-arretine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2253",
+    "slug": "malwa-miniature",
+    "name_en": "Malwa Miniature",
+    "name_zh": "马尔瓦细密画",
+    "description_en": "17th-century Central Indian Malwa painting: flat red-yellow grounds, thick outline, profile faces, architectural color-blocks, little modeling.",
+    "description_zh": "马尔瓦细密画：十七世纪中印度、平涂红黄地、粗勾线、侧面脸、建筑色块、少晕染。",
+    "source": "hermes-explore",
+    "image": "styles/2296-malwa-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2254",
+    "slug": "shiraz-school",
+    "name_en": "Shiraz School",
+    "name_zh": "设拉子画派",
+    "description_en": "Commercial Shiraz manuscript painting: round faces, stacked landscape, gold sky, flowering trees, jewel opaque watercolor, workshop line.",
+    "description_zh": "设拉子画派：商业细密画、圆脸、层叠山水、金地、花树、宝石色不透明水彩、作坊线描。",
+    "source": "hermes-explore",
+    "image": "styles/2297-shiraz-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2255",
+    "slug": "glue-size",
+    "name_en": "Glue-size",
+    "name_zh": "胶料画",
+    "description_en": "Animal-glue distemper on canvas: matte velvety pigment, no oil gloss, chalky opaque color, canvas tooth, dry edges.",
+    "description_zh": "胶料画：动物胶调和颜料、哑光丝绒质感、无油光、粉质不透明色、布纹、干边。",
+    "source": "hermes-explore",
+    "image": "styles/2298-glue-size.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
