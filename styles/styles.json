@@ -30197,5 +30197,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2281",
+    "slug": "mitate-e",
+    "name_en": "Mitate-e",
+    "name_zh": "见立绘",
+    "description_en": "Ukiyo-e analogical woodcut: contemporary bijin posed as a classical heroine, keyblock sumi, flat mineral blocks, bokashi fades, mica sparkle.",
+    "description_zh": "见立绘：浮世绘谐拟、今人扮古典、墨版主线、矿物平涂、ぼかし渐层、云母闪光。",
+    "source": "hermes-explore",
+    "image": "styles/2324-mitate-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2282",
+    "slug": "hikifuda",
+    "name_en": "Hikifuda",
+    "name_zh": "引札",
+    "description_en": "Meiji advertising handbill print: aniline reds, Prussian blue, thick contour, auspicious borders, slight color misregister, festive commercial woodblock-litho.",
+    "description_zh": "引札：明治广告单页、苯胺红与普鲁士蓝、粗线、吉祥边框、套色微错位、喜庆商印。",
+    "source": "hermes-explore",
+    "image": "styles/2325-hikifuda.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2283",
+    "slug": "atrazh",
+    "name_en": "Atrazh",
+    "name_zh": "阿特拉日",
+    "description_en": "Ukrainian reverse-glass painting: outlines laid on the back of glass, opaque enamel fills, jewel folk color, glassy specular sheen, provincial baroque florals.",
+    "description_zh": "阿特拉日：乌克兰玻璃背彩、先勾后填、珐琅平涂、民间宝石色、镜面反光、巴洛克花卉框。",
+    "source": "hermes-explore",
+    "image": "styles/2326-atrazh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2284",
+    "slug": "ticai",
+    "name_en": "Ticai",
+    "name_zh": "剔彩",
+    "description_en": "Carved polychrome lacquer: stacked cinnabar, green, ochre and black strata gouged to reveal color bands, V-cut walls, polished relief gloss.",
+    "description_zh": "剔彩：多层彩漆堆叠后雕刻、朱红绿赭黑层带、V口刀壁、抛光浮雕漆光。",
+    "source": "hermes-explore",
+    "image": "styles/2327-ticai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2285",
+    "slug": "palaiologan",
+    "name_en": "Palaiologan",
+    "name_zh": "帕里奥洛格斯",
+    "description_en": "Late Byzantine Palaiologan tempera: gold ground, chrysography in drapery, elongated grace, olive flesh with bright lights, reverse perspective, craquelure.",
+    "description_zh": "帕里奥洛格斯：晚期拜占庭蛋彩、金地、衣褶描金、修长体态、橄榄肤色高光、逆向透视、龟裂纹。",
+    "source": "hermes-explore",
+    "image": "styles/2328-palaiologan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

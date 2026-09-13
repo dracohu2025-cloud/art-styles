@@ -6400,6 +6400,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2323, PNG count 2323. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 457 (exactly 5, h2281–h2285)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh         | image                         |
+|-------|-------------|-----------------|-------------------------------|
+| h2281 | Mitate-e    | 见立绘          | styles/2324-mitate-e.png      |
+| h2282 | Hikifuda    | 引札            | styles/2325-hikifuda.png      |
+| h2283 | Atrazh      | 阿特拉日        | styles/2326-atrazh.png        |
+| h2284 | Ticai       | 剔彩            | styles/2327-ticai.png         |
+| h2285 | Palaiologan | 帕里奥洛格斯    | styles/2328-palaiologan.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2328, PNG count 2328. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
