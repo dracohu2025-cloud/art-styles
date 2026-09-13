@@ -30002,5 +30002,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2266",
+    "slug": "hasami",
+    "name_en": "Hasami",
+    "name_zh": "波佐见烧",
+    "description_en": "Hasami ware: thin milky porcelain, underglaze cobalt sometsuke only, grey-blue karakusa, everyday Nagasaki kiln glaze, no overglaze red or gold.",
+    "description_zh": "波佐见烧：薄白瓷、仅釉下钴蓝染付、灰蓝唐草、长崎民窑釉、无釉上红金。",
+    "source": "hermes-explore",
+    "image": "styles/2309-hasami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2267",
+    "slug": "tsuboya",
+    "name_en": "Tsuboya",
+    "name_zh": "壶屋烧",
+    "description_en": "Tsuboya-yaki: Ryukyu folk stoneware, fish-scale uroko and arabesque, amber-brown and copper-green glaze over creamy slip.",
+    "description_zh": "壶屋烧：琉球民窑炻器、鳞纹唐草、琥珀褐与铜绿釉覆乳白化妆土。",
+    "source": "hermes-explore",
+    "image": "styles/2310-tsuboya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2268",
+    "slug": "joboji-nuri",
+    "name_en": "Joboji-nuri",
+    "name_zh": "净法寺涂",
+    "description_en": "Joboji lacquer: few coats of rustic urushi, matte-to-satin black with vermilion, faint wooden core, no gold maki-e.",
+    "description_zh": "净法寺涂：薄涂素漆、哑光至缎面黑与朱红、木胎隐现、无莳绘金。",
+    "source": "hermes-explore",
+    "image": "styles/2311-joboji-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2269",
+    "slug": "trecento",
+    "name_en": "Trecento",
+    "name_zh": "特雷琴托",
+    "description_en": "Italian Trecento panel: burnished gold-leaf ground, punchwork, egg tempera, ultramarine and vermilion, Gothic S-curve drapery.",
+    "description_zh": "特雷琴托：十四世纪意大利板画、打磨金地、压印纹、蛋彩、群青与朱红、哥特S形衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2312-trecento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2270",
+    "slug": "han-pictorial-stone",
+    "name_en": "Han Pictorial Stone",
+    "name_zh": "汉画像石",
+    "description_en": "Han pictorial stone: Eastern Han low-relief tomb carving, incised limestone, rubbing-like contrast, nested registers, chisel-cut silhouettes.",
+    "description_zh": "汉画像石：东汉浅浮雕墓石、阴刻石灰岩、拓片般对比、分层栏框、凿刻剪影。",
+    "source": "hermes-explore",
+    "image": "styles/2313-han-pictorial-stone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -6358,6 +6358,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2308, PNG count 2308. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 454 (exactly 5, h2266–h2270)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh     | image                                  |
+|-------|----------------------|-------------|----------------------------------------|
+| h2266 | Hasami               | 波佐见烧    | styles/2309-hasami.png                 |
+| h2267 | Tsuboya              | 壶屋烧      | styles/2310-tsuboya.png                |
+| h2268 | Joboji-nuri          | 净法寺涂    | styles/2311-joboji-nuri.png            |
+| h2269 | Trecento             | 特雷琴托    | styles/2312-trecento.png               |
+| h2270 | Han Pictorial Stone  | 汉画像石    | styles/2313-han-pictorial-stone.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2313, PNG count 2313. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
