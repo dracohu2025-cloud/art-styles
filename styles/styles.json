@@ -31172,5 +31172,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2356",
+    "slug": "jaunaille",
+    "name_en": "Jaunaille",
+    "name_zh": "黄彩单色",
+    "description_en": "Yellow monochrome painting analogous to grisaille: Naples yellow, ochre, and gold glazes, honeyed shadows, no other hues.",
+    "description_zh": "黄彩单色，类比灰色单色：那不勒斯黄、赭石与金釉、蜜色阴影、不含其他色相。",
+    "source": "hermes-explore",
+    "image": "styles/2399-jaunaille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2357",
+    "slug": "fresson",
+    "name_en": "Fresson",
+    "name_zh": "弗雷松炭色素印",
+    "description_en": "Fresson process: four-color charcoal-pigment print, velvety matte grain, muted painterly color dusted into paper.",
+    "description_zh": "弗雷松工艺：四色炭色素印、丝绒哑光颗粒、如粉尘落入纸面的柔和绘画性色彩。",
+    "source": "hermes-explore",
+    "image": "styles/2400-fresson.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2358",
+    "slug": "proto-renaissance",
+    "name_en": "Proto-Renaissance",
+    "name_zh": "原文艺复兴",
+    "description_en": "Proto-Renaissance panel: egg tempera on wood, punched gold ground, volumetric drapery before true linear perspective.",
+    "description_zh": "原文艺复兴木板：蛋彩、打孔金地、透视尚未确立时的体积衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2401-proto-renaissance.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2359",
+    "slug": "beaux-arts",
+    "name_en": "Beaux-Arts",
+    "name_zh": "布扎学院派",
+    "description_en": "École des Beaux-Arts academic finish: polished salon oil, classical architecture, smooth blended brushwork, historicist varnish.",
+    "description_zh": "巴黎美术学院派：沙龙级细腻油画、古典建筑、平滑融合笔触、历史主义光油。",
+    "source": "hermes-explore",
+    "image": "styles/2402-beaux-arts.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2360",
+    "slug": "ferrotype",
+    "name_en": "Ferrotype",
+    "name_zh": "铁板照相",
+    "description_en": "Ferrotype (tintype): wet-plate collodion positive on japanned iron, chocolate-brown metallic sheen, plate-edge wear.",
+    "description_zh": "铁板照相（锡版）：漆铁板上的湿版火棉胶正像、巧克力棕金属光泽、版缘磨损。",
+    "source": "hermes-explore",
+    "image": "styles/2403-ferrotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

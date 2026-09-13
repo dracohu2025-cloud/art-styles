@@ -6610,6 +6610,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2398, PNG count 2398. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 472 (exactly 5, h2356–h2360)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                                 |
+|-------|--------------------|-------------------|---------------------------------------|
+| h2356 | Jaunaille          | 黄彩单色          | styles/2399-jaunaille.png             |
+| h2357 | Fresson            | 弗雷松炭色素印    | styles/2400-fresson.png               |
+| h2358 | Proto-Renaissance  | 原文艺复兴        | styles/2401-proto-renaissance.png     |
+| h2359 | Beaux-Arts         | 布扎学院派        | styles/2402-beaux-arts.png            |
+| h2360 | Ferrotype          | 铁板照相          | styles/2403-ferrotype.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2403, PNG count 2403. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
