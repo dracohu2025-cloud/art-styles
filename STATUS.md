@@ -6652,6 +6652,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2413, PNG count 2413. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 475 (exactly 5, h2371–h2375)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                            |
+|-------|---------------|-------------|----------------------------------|
+| h2371 | Ayyubid       | 阿尤布      | styles/2414-ayyubid.png          |
+| h2372 | Northern Wei  | 北魏        | styles/2415-northern-wei.png     |
+| h2373 | Papunya       | 帕普尼亚    | styles/2416-papunya.png          |
+| h2374 | Affichiste    | 撕贴海报    | styles/2417-affichiste.png       |
+| h2375 | Hakuhou       | 白凤        | styles/2418-hakuhou.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2418, PNG count 2418. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

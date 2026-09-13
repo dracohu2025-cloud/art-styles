@@ -31367,5 +31367,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2371",
+    "slug": "ayyubid",
+    "name_en": "Ayyubid",
+    "name_zh": "阿尤布",
+    "description_en": "Ayyubid: Syria–Egypt 12th–13th c. metal-inlay and manuscript painting, brass with silver-copper damascene, star polygons, reserved figural medallions, muted gold.",
+    "description_zh": "阿尤布：叙利亚–埃及12–13世纪金银错与细密画、黄铜嵌银铜、星形几何、开光人物、哑光金。",
+    "source": "hermes-explore",
+    "image": "styles/2414-ayyubid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2372",
+    "slug": "northern-wei",
+    "name_en": "Northern Wei",
+    "name_zh": "北魏",
+    "description_en": "Northern Wei: 5th–6th c. Chinese Buddhist cave figural style, grey-ochre sandstone, elongated proportions, cascading linear drapery, flame mandorla, mineral pigment on stone.",
+    "description_zh": "北魏：五至六世纪石窟造像、灰赭砂岩、修长比例、阶梯衣纹、火焰背光、石上矿彩。",
+    "source": "hermes-explore",
+    "image": "styles/2415-northern-wei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2373",
+    "slug": "papunya",
+    "name_en": "Papunya",
+    "name_zh": "帕普尼亚",
+    "description_en": "Papunya: Western Desert acrylic dot-field painting, concentric nodes, dotted paths, ochre-black-white-red earth palette, matte canvas tooth, aerial map-like ground.",
+    "description_zh": "帕普尼亚：西部沙漠丙烯点绘、同心圆节点、点状路径、赭黑白红土色、哑光画布、俯视地图感。",
+    "source": "hermes-explore",
+    "image": "styles/2416-papunya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2374",
+    "slug": "affichiste",
+    "name_en": "Affichiste",
+    "name_zh": "撕贴海报",
+    "description_en": "Affichiste: Nouveau Réalisme torn-poster décollage, lacerated street layers, ripped paper edges, glue stains, overlapping color fragments on raw wall.",
+    "description_zh": "撕贴海报：新现实主义揭贴、撕裂层叠海报、纸边毛刺、胶渍、粗墙上的色块碎片。",
+    "source": "hermes-explore",
+    "image": "styles/2417-affichiste.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2375",
+    "slug": "hakuhou",
+    "name_en": "Hakuhou",
+    "name_zh": "白凤",
+    "description_en": "Hakuhou: late 7th–early 8th c. Japanese Buddhist mural, mineral vermillion-malachite-azurite, gold outline, Tang-influenced scarves, lotus pedestals, aged plaster abrasion.",
+    "description_zh": "白凤：七世纪末至八世纪初日本佛画、朱红石绿石青、金线、唐风天衣、莲座、古壁剥蚀。",
+    "source": "hermes-explore",
+    "image": "styles/2418-hakuhou.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
