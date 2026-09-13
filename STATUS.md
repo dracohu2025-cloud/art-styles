@@ -6232,6 +6232,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2263, PNG count 2263. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 445 (exactly 5, h2221–h2225)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                   | name_zh           | image                                     |
+|-------|---------------------------|-------------------|-------------------------------------------|
+| h2221 | Opus Teutonicum           | 条顿白麻绣        | styles/2264-opus-teutonicum.png           |
+| h2222 | Frit Painting             | 玻粉熔绘          | styles/2265-frit-painting.png             |
+| h2223 | Taille d'épargne          | 留地珐琅          | styles/2266-taille-d-epargne.png          |
+| h2224 | Koishiwara                | 小石原            | styles/2267-koishiwara.png                |
+| h2225 | Bohemian Engraved Glass   | 波希米亚雕花玻璃  | styles/2268-bohemian-engraved-glass.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2268, PNG count 2268. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

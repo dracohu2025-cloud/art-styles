@@ -29417,5 +29417,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2221",
+    "slug": "opus-teutonicum",
+    "name_en": "Opus Teutonicum",
+    "name_zh": "条顿白麻绣",
+    "description_en": "Medieval German whitework on linen: counted brick and satin stitches, pulled-thread grids, ivory thread relief on flax ground, no polychrome, raking-light stitch height.",
+    "description_zh": "中世纪德意志白麻绣：计数砖针与缎针、抽纱网格、亚麻地上象牙线浮雕、无彩、侧光显针脚高度。",
+    "source": "hermes-explore",
+    "image": "styles/2264-opus-teutonicum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2222",
+    "slug": "frit-painting",
+    "name_en": "Frit Painting",
+    "name_zh": "玻粉熔绘",
+    "description_en": "Kiln-fused vitreous frit on glass: sintered powder grain, jewel transparent pools, fire-polish gloss, trapped bubbles, not leading and not mosaic tesserae.",
+    "description_zh": "窑熔玻璃粉绘画：烧结粉粒、宝石透明色潭、火抛光泽、气泡、非铅条镶嵌亦非马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/2265-frit-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2223",
+    "slug": "taille-d-epargne",
+    "name_en": "Taille d'épargne",
+    "name_zh": "留地珐琅",
+    "description_en": "Reserved-metal enamel: engraved recesses filled with opaque enamel, polished gold lines as leftover metal, concave cells, not cloisonné wire and not painted enamel.",
+    "description_zh": "留地珐琅：凹槽填不透明珐琅、抛光金线为预留金属、釉面微凹、非掐丝亦非画珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/2266-taille-d-epargne.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2224",
+    "slug": "koishiwara",
+    "name_en": "Koishiwara",
+    "name_zh": "小石原",
+    "description_en": "Koishiwara folk ceramic grammar as pictorial style: cream slip on iron clay, tobi-kanna chatter dots, hakeme brush-slip, combing and stamped florets, amber glaze pools.",
+    "description_zh": "小石原民窑语法入画：铁质胎上白化妆土、飞鉋点列、刷毛目、梳纹与戳花、琥珀釉积。",
+    "source": "hermes-explore",
+    "image": "styles/2267-koishiwara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2225",
+    "slug": "bohemian-engraved-glass",
+    "name_en": "Bohemian Engraved Glass",
+    "name_zh": "波希米亚雕花玻璃",
+    "description_en": "Bohemian copper-wheel engraving on colorless crystal: matte intaglio vs polished ground, olive-stone stipple, refractive caustics, monochrome glass-on-glass.",
+    "description_zh": "波希米亚铜轮水晶雕：雾面阴刻对抛光地、橄榄核点刻、折射焦散、单色玻璃对玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/2268-bohemian-engraved-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
