@@ -30132,5 +30132,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2276",
+    "slug": "hanshita-e",
+    "name_en": "Hanshita-e",
+    "name_zh": "版下绘",
+    "description_en": "Ukiyo-e key-block preparatory drawing: carbon-ink contours on thin washi, tapered brush terminals, kento marks, no color blocks.",
+    "description_zh": "浮世绘版下绘：薄和纸上的墨线轮廓、笔锋收尖、見当记号、无套色色块。",
+    "source": "hermes-explore",
+    "image": "styles/2319-hanshita-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2277",
+    "slug": "katazuri",
+    "name_en": "Katazuri",
+    "name_zh": "型摺",
+    "description_en": "Stencil-print rubbing: pigment forced through cut katagami, stencil bridges, dusty mineral color, crisp island shapes.",
+    "description_zh": "型摺：颜料经型纸刮印、桥接细档、矿物色粉感、块面边缘锐利。",
+    "source": "hermes-explore",
+    "image": "styles/2320-katazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2278",
+    "slug": "chayatsuji",
+    "name_en": "Chayatsuji",
+    "name_zh": "茶屋辻",
+    "description_en": "Edo summer-cloth resist dye: pale ground, rice-paste reserve, airy indigo landscape of willow and water, faint weave.",
+    "description_zh": "茶屋辻：浅地防染、米糊留白、柳水淡景的靛蓝夏织物、隐约布纹。",
+    "source": "hermes-explore",
+    "image": "styles/2321-chayatsuji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2279",
+    "slug": "aurotype",
+    "name_en": "Aurotype",
+    "name_zh": "奥罗印相",
+    "description_en": "Herschel gold-chloride print: purplish-brown to violet gold image, matte paper, continuous tone, no silver grain.",
+    "description_zh": "奥罗印相：氯化金成像、紫褐至堇金连续调、哑光纸基、无银盐颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2322-aurotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2280",
+    "slug": "sesshu-school",
+    "name_en": "Sesshu School",
+    "name_zh": "雪舟派",
+    "description_en": "Muromachi ink school after Sesshū: angular rock contours, wet-to-dry ink, misty one-corner composition, spare bamboo.",
+    "description_zh": "雪舟派：室町水墨、方折山石、干湿墨法、一角留白、疏竹远舟。",
+    "source": "hermes-explore",
+    "image": "styles/2323-sesshu-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -6386,6 +6386,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2318, PNG count 2318. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 456 (exactly 5, h2276–h2280)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh   | image                            |
+|-------|----------------|-----------|----------------------------------|
+| h2276 | Hanshita-e     | 版下绘    | styles/2319-hanshita-e.png       |
+| h2277 | Katazuri       | 型摺      | styles/2320-katazuri.png         |
+| h2278 | Chayatsuji     | 茶屋辻    | styles/2321-chayatsuji.png       |
+| h2279 | Aurotype       | 奥罗印相  | styles/2322-aurotype.png         |
+| h2280 | Sesshu School  | 雪舟派    | styles/2323-sesshu-school.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2323, PNG count 2323. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
