@@ -30327,5 +30327,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2291",
+    "slug": "otoko-e",
+    "name_en": "Otoko-e",
+    "name_zh": "男绘",
+    "description_en": "Heian–Kamakura men's-painting mode of Yamato-e: thick ink contours, angular abbreviated faces, mineral-pigment blocks, action-led narrative still.",
+    "description_zh": "男绘：平安镰仓大和绘的男性画风，粗墨线、简略棱角面容、矿物色块、以动势叙事。",
+    "source": "hermes-explore",
+    "image": "styles/2334-otoko-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2292",
+    "slug": "lepakshi",
+    "name_en": "Lepakshi",
+    "name_zh": "勒帕克希壁画",
+    "description_en": "16th-c. Vijayanagara dry-fresco: earth-red outline, ochre and viridian on lime plaster, large almond eyes, densely patterned textiles, temple-ceiling weathering.",
+    "description_zh": "勒帕克希壁画：十六世纪毗奢耶那伽罗干壁画，土红勾线、赭石与石绿着石灰墙、杏眼、密纹织物、殿顶风化。",
+    "source": "hermes-explore",
+    "image": "styles/2335-lepakshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2293",
+    "slug": "bukhara-school",
+    "name_en": "Bukhara School",
+    "name_zh": "布哈拉画派",
+    "description_en": "Shaybanid Bukhara miniature: large figures, unmodulated color blocks, tile architecture, gold sky, lapis-coral-jade palette, opaque watercolor on paper.",
+    "description_zh": "布哈拉画派：昔班尼布哈拉细密画，大比例人物、平涂色块、瓷砖建筑、金地天空、青金珊瑚与碧玉色。",
+    "source": "hermes-explore",
+    "image": "styles/2336-bukhara-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2294",
+    "slug": "zlatoust",
+    "name_en": "Zlatoust",
+    "name_zh": "兹拉托乌斯特钢刻",
+    "description_en": "19th-c. Zlatoust decorated steel: blued-steel ground, gold and silver damascene inlay, needle-fine pictorial engraving, metallic hunting-panel sheen.",
+    "description_zh": "兹拉托乌斯特钢刻：十九世纪发蓝钢地、金银错嵌、针尖细线图画雕刻、金属猎景光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2337-zlatoust.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2295",
+    "slug": "rostov-finift",
+    "name_en": "Rostov Finift",
+    "name_zh": "罗斯托夫珐琅",
+    "description_en": "Rostov painted enamel: vitreous miniature on white-enamel copper plaque, jeweler’s glaze, floral enamel border, saturated glass-like pigments.",
+    "description_zh": "罗斯托夫珐琅：白珐琅铜胎上的玻璃质细密画、珠宝釉光、花卉珐琅边饰、饱和如玻璃的颜料。",
+    "source": "hermes-explore",
+    "image": "styles/2338-rostov-finift.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

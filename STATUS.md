@@ -6428,6 +6428,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2333, PNG count 2333. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 459 (exactly 5, h2291–h2295)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh             | image                             |
+|-------|-----------------|---------------------|-----------------------------------|
+| h2291 | Otoko-e         | 男绘                | styles/2334-otoko-e.png           |
+| h2292 | Lepakshi        | 勒帕克希壁画        | styles/2335-lepakshi.png          |
+| h2293 | Bukhara School  | 布哈拉画派          | styles/2336-bukhara-school.png    |
+| h2294 | Zlatoust        | 兹拉托乌斯特钢刻    | styles/2337-zlatoust.png          |
+| h2295 | Rostov Finift   | 罗斯托夫珐琅        | styles/2338-rostov-finift.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2338, PNG count 2338. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
