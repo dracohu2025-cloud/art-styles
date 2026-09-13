@@ -30977,5 +30977,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2341",
+    "slug": "orientalizing",
+    "name_en": "Orientalizing",
+    "name_zh": "东方化陶绘",
+    "description_en": "Greek 7th-century vase painting: black-slip silhouettes on orange clay, incised line, palmettes, lotuses, running spirals, Near-Eastern composite animals as field ornament.",
+    "description_zh": "希腊七世纪陶绘：橙陶黑釉剪影、刻线细部、棕叶莲花涡纹，近东合体神兽作铺陈纹样。",
+    "source": "hermes-explore",
+    "image": "styles/2384-orientalizing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2342",
+    "slug": "nymphenburg",
+    "name_en": "Nymphenburg",
+    "name_zh": "宁芬堡",
+    "description_en": "Bavarian hard-paste porcelain painting: milk-white glaze, overglaze enamel flesh tints, Deutsche Blumen, gilt rocaille, pale celadon and rose washes.",
+    "description_zh": "巴伐利亚硬质瓷绘：乳白釉面、釉上珐琅肤色、德意志花卉、镀金岩状洛可可与淡青玫瑰洗色。",
+    "source": "hermes-explore",
+    "image": "styles/2385-nymphenburg.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2343",
+    "slug": "seicento",
+    "name_en": "Seicento",
+    "name_zh": "塞琴托",
+    "description_en": "Italian seventeenth-century painting: Caravaggesque tenebrism, Bolognese classicism, raking light, umber grounds, rich oil glazes, baroque drapery.",
+    "description_zh": "意大利十七世纪绘画：卡拉瓦乔式明暗、博洛尼亚古典、侧光、棕土底、厚油釉与巴洛克衣褶。",
+    "source": "hermes-explore",
+    "image": "styles/2386-seicento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2344",
+    "slug": "verismo",
+    "name_en": "Verismo",
+    "name_zh": "维里佐",
+    "description_en": "Italian late-19th-century pictorial naturalism: outdoor earth light, dusty ochres, olive greens, thick opaque oil, unvarnished sunlit fabric and plaster.",
+    "description_zh": "意大利十九世纪末绘画自然主义：户外土色光、粉赭与橄榄绿、厚实不透明油彩、无修饰的日照织物与灰泥。",
+    "source": "hermes-explore",
+    "image": "styles/2387-verismo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2345",
+    "slug": "tassili",
+    "name_en": "Tassili",
+    "name_zh": "塔西利岩画",
+    "description_en": "Saharan Tassili n'Ajjer rock painting: hematite ochre and kaolin on weathered sandstone, Pastoral-period contour, desert varnish, pecked mineral stains.",
+    "description_zh": "撒哈拉塔西利岩画：风化砂岩上赤铁矿赭与高岭白、牧业期轮廓、荒漠岩漆与敲凿矿物渍。",
+    "source": "hermes-explore",
+    "image": "styles/2388-tassili.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

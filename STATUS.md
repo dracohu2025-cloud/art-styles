@@ -6568,6 +6568,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2383, PNG count 2383. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 469 (exactly 5, h2341–h2345)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h2341 | Orientalizing  | 东方化陶绘      | styles/2384-orientalizing.png    |
+| h2342 | Nymphenburg    | 宁芬堡          | styles/2385-nymphenburg.png      |
+| h2343 | Seicento       | 塞琴托          | styles/2386-seicento.png         |
+| h2344 | Verismo        | 维里佐          | styles/2387-verismo.png          |
+| h2345 | Tassili        | 塔西利岩画      | styles/2388-tassili.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2388, PNG count 2388. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
