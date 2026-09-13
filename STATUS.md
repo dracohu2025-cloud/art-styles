@@ -6666,6 +6666,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2418, PNG count 2418. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 476 (exactly 5, h2376–h2380)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                               |
+|-------|----------------|-------------|-------------------------------------|
+| h2376 | Abbasid        | 阿拔斯      | styles/2419-abbasid.png             |
+| h2377 | Amaravati      | 阿马拉瓦蒂  | styles/2420-amaravati.png           |
+| h2378 | Nishapur       | 尼沙普尔    | styles/2421-nishapur.png            |
+| h2379 | Ninsei         | 仁清        | styles/2422-ninsei.png              |
+| h2380 | Northern Song  | 北宋        | styles/2423-northern-song.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2423, PNG count 2423. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

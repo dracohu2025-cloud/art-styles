@@ -31432,5 +31432,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2376",
+    "slug": "abbasid",
+    "name_en": "Abbasid",
+    "name_zh": "阿拔斯",
+    "description_en": "Abbasid: 9th-c. Samarra beveled stucco, gold Kufic bands, cobalt and luster glaze, palmette vines, geometric star lattices.",
+    "description_zh": "阿拔斯：九世纪萨迈拉斜切灰泥、金库法字带、钴蓝虹彩釉、棕叶卷草、几何星格。",
+    "source": "hermes-explore",
+    "image": "styles/2419-abbasid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2377",
+    "slug": "amaravati",
+    "name_en": "Amaravati",
+    "name_zh": "阿马拉瓦蒂",
+    "description_en": "Amaravati: Andhra limestone narrative relief, lotus roundels, railing medallions, polished cream stone, crowded Buddhist frieze.",
+    "description_zh": "阿马拉瓦蒂：安达罗石灰岩叙事浮雕、莲花团窠、栏楯圆饰、乳白色抛光石、密集佛传横饰。",
+    "source": "hermes-explore",
+    "image": "styles/2420-amaravati.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2378",
+    "slug": "nishapur",
+    "name_en": "Nishapur",
+    "name_zh": "尼沙普尔",
+    "description_en": "Nishapur: Khurasan slip-painted ware, buff body, black manganese line, yellow-green copper stains, birds and palmettes, pitted lead glaze.",
+    "description_zh": "尼沙普尔：呼罗珊化妆土彩陶、浅黄胎、锰黑线描、黄绿铜斑、禽鸟棕叶、铅釉麻点。",
+    "source": "hermes-explore",
+    "image": "styles/2421-nishapur.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2379",
+    "slug": "ninsei",
+    "name_en": "Ninsei",
+    "name_zh": "仁清",
+    "description_en": "Ninsei: Kyoto Omuro overglaze enamel ware, iron-red green purple gold, brocade chrysanthemums, gold tracing, tea-ceremony stoneware sheen.",
+    "description_zh": "仁清：京都御室色绘、铁赤绿紫金、锦地菊花、金描、茶道炻器光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2422-ninsei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2380",
+    "slug": "northern-song",
+    "name_en": "Northern Song",
+    "name_zh": "北宋",
+    "description_en": "Northern Song: monumental ink-on-silk landscape, Li-Guo crab-claw pine, hemp-fiber cun, mist voids, pale mineral washes.",
+    "description_zh": "北宋：巨碑式绢本水墨、李郭蟹爪松、披麻皴、云雾留白、淡设色。",
+    "source": "hermes-explore",
+    "image": "styles/2423-northern-song.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
