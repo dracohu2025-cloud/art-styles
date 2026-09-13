@@ -6484,6 +6484,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2353, PNG count 2353. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 463 (exactly 5, h2311–h2315)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh           | image                            |
+|-------|----------------|-------------------|----------------------------------|
+| h2311 | Theran Fresco  | 锡拉壁画          | styles/2354-theran-fresco.png    |
+| h2312 | Taenghwa       | 韩佛帧画          | styles/2355-taenghwa.png         |
+| h2313 | Samitum        | 萨米图姆锦        | styles/2356-samitum.png          |
+| h2314 | Haji Ware      | 土师器            | styles/2357-haji-ware.png        |
+| h2315 | Vologda Lace   | 沃洛格达花边      | styles/2358-vologda-lace.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2358, PNG count 2358. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

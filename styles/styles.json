@@ -30587,5 +30587,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2311",
+    "slug": "theran-fresco",
+    "name_en": "Theran Fresco",
+    "name_zh": "锡拉壁画",
+    "description_en": "Late Bronze Age Theran (Akrotiri) buon fresco: lime plaster, Egyptian blue and ochres, flat color fields, sinuous contour, marine-floral wall painting.",
+    "description_zh": "锡拉壁画：青铜时代阿克罗蒂里湿壁画、石灰底、埃及蓝与赭石、平涂色块、柔曲线描、海花纹样。",
+    "source": "hermes-explore",
+    "image": "styles/2354-theran-fresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2312",
+    "slug": "taenghwa",
+    "name_en": "Taenghwa",
+    "name_zh": "韩佛帧画",
+    "description_en": "Korean taenghwa hanging painting: mineral pigments on silk, lotus-vine borders, malachite and cinnabar, gold-line outlining, temple-banner geometry.",
+    "description_zh": "韩佛帧画：绢本矿物色、莲藤边饰、石绿朱红、金线勾勒、寺幡构图。",
+    "source": "hermes-explore",
+    "image": "styles/2355-taenghwa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2313",
+    "slug": "samitum",
+    "name_en": "Samitum",
+    "name_zh": "萨米图姆锦",
+    "description_en": "Samitum weft-faced compound twill silk: pearl-roundel medallions, palmette borders, crimson-gold-blue silk sheen, visible twill structure.",
+    "description_zh": "萨米图姆锦：重纬斜纹、联珠团窠、棕叶边饰、绯红金蓝丝光、可见斜纹组织。",
+    "source": "hermes-explore",
+    "image": "styles/2356-samitum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2314",
+    "slug": "haji-ware",
+    "name_en": "Haji Ware",
+    "name_zh": "土师器",
+    "description_en": "Japanese haji ware: unglazed reddish earthenware, paddle-and-anvil texture, burnished matte terracotta, salmon-to-brick clay body.",
+    "description_zh": "土师器：无釉红陶、拍打成形、磨光露胎、鲑红至砖色陶体。",
+    "source": "hermes-explore",
+    "image": "styles/2357-haji-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2315",
+    "slug": "vologda-lace",
+    "name_en": "Vologda Lace",
+    "name_zh": "沃洛格达花边",
+    "description_en": "Vologda bobbin lace: continuous cloth-stitch tape (vilyushka) on snowy mesh, dense white linen, floral-scroll tape lace on dark ground.",
+    "description_zh": "沃洛格达花边：连续布纹带（维柳什卡）铺于网地上、密织白亚麻、卷草带状蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/2358-vologda-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
