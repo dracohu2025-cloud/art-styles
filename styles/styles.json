@@ -30392,5 +30392,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2296",
+    "slug": "ai-e",
+    "name_en": "Ai-e",
+    "name_zh": "蓝绘",
+    "description_en": "Early ukiyo-e printed in indigo: sumi keyblock, aizuri color blocks, cream washi, woodgrain and baren marks, flat unmodulated blue.",
+    "description_zh": "蓝绘：早期浮世绘靛蓝套印，墨线主版、蓝摺色版、生成色和纸、木纹与马连痕、平涂靛蓝。",
+    "source": "hermes-explore",
+    "image": "styles/2339-ai-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2297",
+    "slug": "tsuchime",
+    "name_en": "Tsuchime",
+    "name_zh": "锤目纹",
+    "description_en": "Hammered-metal surface: overlapping peen dimples, oxidized recesses, planished rims, cold bronze-silver sheen, chased edges.",
+    "description_zh": "锤目纹：交叠锤痕凹点、氧化凹陷、抛光边缘、冷青铜与银光、錾刻轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2340-tsuchime.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2298",
+    "slug": "sittanavasal",
+    "name_en": "Sittanavasal",
+    "name_zh": "锡坦纳瓦萨壁画",
+    "description_en": "Pandya Jain cave fresco-secco: lime plaster, ochre and terra verde, lotus-pool composition, gentle outlines, weathered mineral mural.",
+    "description_zh": "锡坦纳瓦萨壁画：潘迪亚耆那石窟湿干壁画，石灰地仗、赭石与土绿、莲池构图、柔和勾线。",
+    "source": "hermes-explore",
+    "image": "styles/2341-sittanavasal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2299",
+    "slug": "permogorsk",
+    "name_en": "Permogorsk",
+    "name_zh": "佩尔莫戈尔斯克彩绘",
+    "description_en": "Northern Dvina folk painting on wood: white ground, red-green-black linear vegetal ornament, S-scrolls, graphic hatching.",
+    "description_zh": "佩尔莫戈尔斯克彩绘：北德维纳木器民绘，白地、红绿黑线描植物纹、S形卷草、装饰性排线。",
+    "source": "hermes-explore",
+    "image": "styles/2342-permogorsk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2300",
+    "slug": "kholmogory",
+    "name_en": "Kholmogory",
+    "name_zh": "霍尔莫戈雷骨雕",
+    "description_en": "Northern Russian ivory openwork: lace-like piercing, low relief, creamy bone, drilled voids, engraved foliage.",
+    "description_zh": "霍尔莫戈雷骨雕：北俄象牙透雕，蕾丝镂空、浅浮雕、乳白骨质、钻孔空隙、阴刻枝叶。",
+    "source": "hermes-explore",
+    "image": "styles/2343-kholmogory.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

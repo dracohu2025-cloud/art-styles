@@ -6442,6 +6442,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2338, PNG count 2338. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 460 (exactly 5, h2296–h2300)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh               | image                          |
+|-------|-------------|-----------------------|--------------------------------|
+| h2296 | Ai-e        | 蓝绘                  | styles/2339-ai-e.png           |
+| h2297 | Tsuchime    | 锤目纹                | styles/2340-tsuchime.png       |
+| h2298 | Sittanavasal| 锡坦纳瓦萨壁画        | styles/2341-sittanavasal.png   |
+| h2299 | Permogorsk  | 佩尔莫戈尔斯克彩绘    | styles/2342-permogorsk.png     |
+| h2300 | Kholmogory  | 霍尔莫戈雷骨雕        | styles/2343-kholmogory.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2343, PNG count 2343. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
