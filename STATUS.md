@@ -6274,6 +6274,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2278, PNG count 2278. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 448 (exactly 5, h2236–h2240)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh     | image                                   |
+|-------|-------------------------|-------------|-----------------------------------------|
+| h2236 | Kuro-Oribe              | 黑织部      | styles/2279-kuro-oribe.png              |
+| h2237 | Photoglyphic Engraving  | 光刻雕版    | styles/2280-photoglyphic-engraving.png  |
+| h2238 | Changeant               | 闪色法      | styles/2281-changeant.png               |
+| h2239 | Stipple Miniature       | 点刻细密画  | styles/2282-stipple-miniature.png       |
+| h2240 | Sen-zogan               | 线象嵌      | styles/2283-sen-zogan.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2283, PNG count 2283. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -29612,5 +29612,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2236",
+    "slug": "kuro-oribe",
+    "name_en": "Kuro-Oribe",
+    "name_zh": "黑织部",
+    "description_en": "Black Oribe stoneware: glossy hikidashi-guro pools, copper-green splashes, iron-brown underglaze drawing, feldspar specks.",
+    "description_zh": "黑织部炻器：引出黑釉积、铜绿泼彩、铁褐釉下绘、长石白斑。",
+    "source": "hermes-explore",
+    "image": "styles/2279-kuro-oribe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2237",
+    "slug": "photoglyphic-engraving",
+    "name_en": "Photoglyphic Engraving",
+    "name_zh": "光刻雕版",
+    "description_en": "Talbot photoglyphic intaglio: acid-bitten photographic grain on copper, plate tone, wiped highlights, warm carbon-black ink.",
+    "description_zh": "塔尔博特光刻雕版：铜版酸咬照相颗粒、版调、擦亮高光、暖碳黑油墨。",
+    "source": "hermes-explore",
+    "image": "styles/2280-photoglyphic-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2238",
+    "slug": "changeant",
+    "name_en": "Changeant",
+    "name_zh": "闪色法",
+    "description_en": "Shot-color painting: two hues flipping across folds like woven changeant silk, cangiante planes, no single local color.",
+    "description_zh": "闪色法：折面双色互翻如闪色织丝、变彩块面、无固定固有色。",
+    "source": "hermes-explore",
+    "image": "styles/2281-changeant.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2239",
+    "slug": "stipple-miniature",
+    "name_en": "Stipple Miniature",
+    "name_zh": "点刻细密画",
+    "description_en": "Ivory miniature in colored stipple: microscopic gouache dots, no contour line, creamy ground, Cosway-school cabinet portrait.",
+    "description_zh": "象牙细密点刻：显微水粉点、无线描、乳色地、科斯韦式柜像。",
+    "source": "hermes-explore",
+    "image": "styles/2282-stipple-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2240",
+    "slug": "sen-zogan",
+    "name_en": "Sen-zogan",
+    "name_zh": "线象嵌",
+    "description_en": "Linear metal inlay: hair-thin gold and silver wire flush in dark shakudo, polished damascene lines, no painterly shade.",
+    "description_zh": "线象嵌：赤铜黑地上金银细线齐平嵌、打磨线纹、无笔绘明暗。",
+    "source": "hermes-explore",
+    "image": "styles/2283-sen-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
