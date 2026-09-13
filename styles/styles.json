@@ -30457,5 +30457,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2301",
+    "slug": "kingin-e",
+    "name_en": "Kingin-e",
+    "name_zh": "金银绘",
+    "description_en": "Japanese gold-and-silver painting: burnished gold leaf, silver foil, metallic flakes on dark ground, flat decorative planes.",
+    "description_zh": "金银绘：金箔银箔、金属粉、深色底、平面装饰铺陈。",
+    "source": "hermes-explore",
+    "image": "styles/2344-kingin-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2302",
+    "slug": "narumi-oribe",
+    "name_en": "Narumi-Oribe",
+    "name_zh": "鸣海织部",
+    "description_en": "Mino Narumi-Oribe stoneware: copper-green glaze patches, creamy slip, iron-brown underglaze drawing, rustic crackle.",
+    "description_zh": "鸣海织部：铜绿釉斑、乳白化妆土、铁绘、粗陶开片。",
+    "source": "hermes-explore",
+    "image": "styles/2345-narumi-oribe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2303",
+    "slug": "boretskaya",
+    "name_en": "Boretskaya",
+    "name_zh": "博列茨卡娅彩绘",
+    "description_en": "Northern Dvina Boretskaya painted wood: cream ground, vermilion, leaf gold, malachite, black outline, dense folk florals.",
+    "description_zh": "博列茨卡娅彩绘：北德维纳木绘，乳白底、朱红、金箔、孔雀石绿、黑线、密簇民间花鸟。",
+    "source": "hermes-explore",
+    "image": "styles/2346-boretskaya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2304",
+    "slug": "deruta",
+    "name_en": "Deruta",
+    "name_zh": "德鲁塔彩陶",
+    "description_en": "Umbrian Deruta maiolica: tin glaze, gold and ruby lustre, cobalt and antimony, grotesque borders, ceramic crackle.",
+    "description_zh": "德鲁塔彩陶：锡釉、金红虹彩、钴蓝锑黄、怪诞边饰、釉面开片。",
+    "source": "hermes-explore",
+    "image": "styles/2347-deruta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2305",
+    "slug": "novgorod-school",
+    "name_en": "Novgorod School",
+    "name_zh": "诺夫哥罗德画派",
+    "description_en": "Medieval Novgorod icon manner: egg tempera on gesso, gold-leaf ground, linear drapery, vermilion and ochre, reverse perspective.",
+    "description_zh": "诺夫哥罗德画派：蛋彩石膏底、金箔地、线描衣褶、朱红赭石、反向透视。",
+    "source": "hermes-explore",
+    "image": "styles/2348-novgorod-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

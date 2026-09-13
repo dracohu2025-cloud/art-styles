@@ -6456,6 +6456,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2343, PNG count 2343. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 461 (exactly 5, h2301–h2305)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh           | image                            |
+|-------|-----------------|-------------------|----------------------------------|
+| h2301 | Kingin-e        | 金银绘            | styles/2344-kingin-e.png         |
+| h2302 | Narumi-Oribe    | 鸣海织部          | styles/2345-narumi-oribe.png     |
+| h2303 | Boretskaya      | 博列茨卡娅彩绘    | styles/2346-boretskaya.png       |
+| h2304 | Deruta          | 德鲁塔彩陶        | styles/2347-deruta.png           |
+| h2305 | Novgorod School | 诺夫哥罗德画派    | styles/2348-novgorod-school.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2348, PNG count 2348. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
