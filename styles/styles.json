@@ -30262,5 +30262,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2286",
+    "slug": "bochen",
+    "name_en": "Bochen",
+    "name_zh": "波臣派",
+    "description_en": "Late-Ming Bochen portrait: thin mineral washes over volumetric modeling, subtle Western-influenced chiaroscuro, silk-ground ink likeness.",
+    "description_zh": "波臣派：晚明肖像、薄彩罩染体积、微弱西法明暗、绢地墨骨写真。",
+    "source": "hermes-explore",
+    "image": "styles/2329-bochen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2287",
+    "slug": "huizhou-print",
+    "name_en": "Huizhou Print",
+    "name_zh": "徽派版画",
+    "description_en": "Ming-Qing Huizhou fine-line woodblock: dense carved black line on cream paper, scholar-book elegance, Huang-family cutter precision.",
+    "description_zh": "徽派版画：明清细线木刻、牙色纸黑线、文人插图气度、黄氏刻工精密。",
+    "source": "hermes-explore",
+    "image": "styles/2330-huizhou-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2288",
+    "slug": "swelled-line",
+    "name_en": "Swelled Line",
+    "name_zh": "膨胀线制版",
+    "description_en": "Nineteenth-century swelled-line photoengraving: lines thicken in shadow and taper in light, letterpress relief, no halftone dots.",
+    "description_zh": "膨胀线制版：十九世纪照相凸版、暗部线胀亮部线细、活版浮凸、无网点。",
+    "source": "hermes-explore",
+    "image": "styles/2331-swelled-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2289",
+    "slug": "omeshi",
+    "name_en": "Omeshi",
+    "name_zh": "御召",
+    "description_en": "Omeshi hard-twist silk crepe: irregular weft rib, puckered crepe tooth, muted sheen, pictorial surface as woven cloth.",
+    "description_zh": "御召：强捻纬丝绉织、不规则罗纹、微起绉齿、哑光丝泽、以织物肌理成像。",
+    "source": "hermes-explore",
+    "image": "styles/2332-omeshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2290",
+    "slug": "dioptichrome",
+    "name_en": "Dioptichrome",
+    "name_zh": "迪奥普蒂彩屏",
+    "description_en": "Dufay Dioptichrome additive screen plate c.1908: regular réseau of tiny color filters, muted dyes, glass-plate photograph, not Autochrome grain.",
+    "description_zh": "迪奥普蒂彩屏：杜菲约1908加色滤网干板、规则彩线网、柔和染料、玻璃正像、非奥托克罗姆淀粉粒。",
+    "source": "hermes-explore",
+    "image": "styles/2333-dioptichrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

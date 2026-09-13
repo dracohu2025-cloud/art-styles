@@ -6414,6 +6414,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2328, PNG count 2328. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 458 (exactly 5, h2286–h2290)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                           |
+|-------|----------------|-----------------|---------------------------------|
+| h2286 | Bochen         | 波臣派          | styles/2329-bochen.png          |
+| h2287 | Huizhou Print  | 徽派版画        | styles/2330-huizhou-print.png   |
+| h2288 | Swelled Line   | 膨胀线制版      | styles/2331-swelled-line.png    |
+| h2289 | Omeshi         | 御召            | styles/2332-omeshi.png          |
+| h2290 | Dioptichrome   | 迪奥普蒂彩屏    | styles/2333-dioptichrome.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2333, PNG count 2333. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
