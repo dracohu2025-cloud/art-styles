@@ -6540,6 +6540,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2373, PNG count 2373. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 467 (exactly 5, h2331–h2335)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                            |
+|-------|-----------------|-----------------|----------------------------------|
+| h2331 | Isfahan School  | 伊斯法罕画派    | styles/2374-isfahan-school.png   |
+| h2332 | Sèvres          | 塞弗尔彩绘      | styles/2375-sevres.png           |
+| h2333 | Qajar Lacquer   | 卡扎尔漆绘      | styles/2376-qajar-lacquer.png    |
+| h2334 | Belleek         | 贝里克瓷        | styles/2377-belleek.png          |
+| h2335 | Mata Ortiz      | 马塔奥尔蒂斯    | styles/2378-mata-ortiz.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2378, PNG count 2378. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -30847,5 +30847,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2331",
+    "slug": "isfahan-school",
+    "name_en": "Isfahan School",
+    "name_zh": "伊斯法罕画派",
+    "description_en": "Safavid Isfahan miniature: jewel opaque watercolor and gold leaf, ultra-fine line, flattened floral arabesque and lapis-gold sky.",
+    "description_zh": "萨法维伊斯法罕细密画：宝石色不透明水彩与金箔、极细线描、扁平缠枝与群青金云天空。",
+    "source": "hermes-explore",
+    "image": "styles/2374-isfahan-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2332",
+    "slug": "sevres",
+    "name_en": "Sèvres",
+    "name_zh": "塞弗尔彩绘",
+    "description_en": "Sèvres porcelain painting: bleu céleste ground, tooled burnished gold, caillouté jeweling, enamel portraiture on soft-paste sheen.",
+    "description_zh": "塞弗尔瓷绘：天蓝釉地、锤亮金边、点金珠宝纹与软瓷珐琅肖像。",
+    "source": "hermes-explore",
+    "image": "styles/2375-sevres.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2333",
+    "slug": "qajar-lacquer",
+    "name_en": "Qajar Lacquer",
+    "name_zh": "卡扎尔漆绘",
+    "description_en": "Qajar oil-and-lacquer painting: gul-o-bulbul florals, large-eyed luminous face, gold scroll, high-gloss varnish over oil color.",
+    "description_zh": "卡扎尔漆绘：玫瑰夜莺纹、大眼明丽面容、金卷草与多层罩漆油彩。",
+    "source": "hermes-explore",
+    "image": "styles/2376-qajar-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2334",
+    "slug": "belleek",
+    "name_en": "Belleek",
+    "name_zh": "贝里克瓷",
+    "description_en": "Irish Belleek parian: eggshell cream body, nacreous mother-of-pearl lustre, basketweave relief, translucent porcelain edges.",
+    "description_zh": "爱尔兰贝里克瓷：蛋壳奶油胎、珠母虹彩釉、编织浮雕与半透明瓷边。",
+    "source": "hermes-explore",
+    "image": "styles/2377-belleek.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2335",
+    "slug": "mata-ortiz",
+    "name_en": "Mata Ortiz",
+    "name_zh": "马塔奥尔蒂斯",
+    "description_en": "Mata Ortiz Paquimé revival: hair-thin black-on-white geometric painting on burnished slip, macaw and stepped-fret motifs.",
+    "description_zh": "马塔奥尔蒂斯帕基梅复兴：磨光化妆土上发丝般黑白几何、金刚鹦鹉与阶梯回纹。",
+    "source": "hermes-explore",
+    "image": "styles/2378-mata-ortiz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
