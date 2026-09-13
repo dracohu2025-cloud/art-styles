@@ -30717,5 +30717,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2321",
+    "slug": "ao-oribe",
+    "name_en": "Ao-Oribe",
+    "name_zh": "青织部",
+    "description_en": "Copper-green Oribe glaze with iron-brown drawing, milky feldspar reserves, and geometric splash patterns.",
+    "description_zh": "铜绿织部釉配铁绘，乳白长石釉留白与几何泼釉纹。",
+    "source": "hermes-explore",
+    "image": "styles/2364-ao-oribe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2322",
+    "slug": "ko-imari",
+    "name_en": "Ko-Imari",
+    "name_zh": "古伊万里",
+    "description_en": "Early Edo Imari porcelain: underglaze cobalt, overglaze iron-red, and sparse gold on a hard white body.",
+    "description_zh": "江户初期伊万里瓷，釉下钴蓝、釉上铁红与疏金，硬白瓷地。",
+    "source": "hermes-explore",
+    "image": "styles/2365-ko-imari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2323",
+    "slug": "grisaille-enamel",
+    "name_en": "Grisaille Enamel",
+    "name_zh": "灰色珐琅",
+    "description_en": "Limoges-style monochrome enamel: translucent white-grey vitreous layers on a dark copper ground.",
+    "description_zh": "利摩日式单色珐琅，深铜地上叠透明白灰釉层。",
+    "source": "hermes-explore",
+    "image": "styles/2366-grisaille-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2324",
+    "slug": "photolithography",
+    "name_en": "Photolithography",
+    "name_zh": "照相平版",
+    "description_en": "Photosensitized lithographic plate printing with tusche grain, gum reserves, and photomechanical ink.",
+    "description_zh": "感光石版印，油墨涂绘颗粒、树胶留白与照相制版油墨。",
+    "source": "hermes-explore",
+    "image": "styles/2367-photolithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2325",
+    "slug": "aka-shino",
+    "name_en": "Aka-Shino",
+    "name_zh": "赤志野",
+    "description_en": "Red Shino: iron-rich salmon fields under crawling feldspar white, pinholes and fire-color.",
+    "description_zh": "铁红志野，长石白釉爬过鲑红地，针孔与火色。",
+    "source": "hermes-explore",
+    "image": "styles/2368-aka-shino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

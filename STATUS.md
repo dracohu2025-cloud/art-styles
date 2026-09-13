@@ -6512,6 +6512,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2363, PNG count 2363. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 465 (exactly 5, h2321–h2325)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                              |
+|-------|-------------------|-------------|------------------------------------|
+| h2321 | Ao-Oribe          | 青织部      | styles/2364-ao-oribe.png           |
+| h2322 | Ko-Imari          | 古伊万里    | styles/2365-ko-imari.png           |
+| h2323 | Grisaille Enamel  | 灰色珐琅    | styles/2366-grisaille-enamel.png   |
+| h2324 | Photolithography  | 照相平版    | styles/2367-photolithography.png   |
+| h2325 | Aka-Shino         | 赤志野      | styles/2368-aka-shino.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2368, PNG count 2368. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
