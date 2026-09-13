@@ -31562,5 +31562,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2386",
+    "slug": "shijo",
+    "name_en": "Shijo",
+    "name_zh": "四条派",
+    "description_en": "Shijo: Kyoto school wet-wash painting, pale mineral tints over dissolving ink, lyrical naturalism and empty paper mist.",
+    "description_zh": "四条派：京都湿画、淡矿彩覆融墨、抒情写生与留白烟岚。",
+    "source": "hermes-explore",
+    "image": "styles/2429-shijo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2387",
+    "slug": "ma-xia",
+    "name_en": "Ma-Xia",
+    "name_zh": "马夏",
+    "description_en": "Ma-Xia: Southern Song one-corner landscape, axe-cut cun, spare pine and vast ink mist void.",
+    "description_zh": "马夏：南宋边角构图、斧劈皴、疏松与大片墨岚留白。",
+    "source": "hermes-explore",
+    "image": "styles/2430-ma-xia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2388",
+    "slug": "debossed-foil",
+    "name_en": "Debossed Foil",
+    "name_zh": "压凹烫箔",
+    "description_en": "Debossed Foil: hot-stamped metal foil in crushed paper relief, raking burnish and blind-deboss ghosts.",
+    "description_zh": "压凹烫箔：热烫金属箔陷入纸纤维、侧光抛光与盲压残影。",
+    "source": "hermes-explore",
+    "image": "styles/2431-debossed-foil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2389",
+    "slug": "kinescope",
+    "name_en": "Kinescope",
+    "name_zh": "显像管拍摄",
+    "description_en": "Kinescope: film camera aimed at a live CRT, phosphor bloom, interlace tear, milky 16mm grain over the tube.",
+    "description_zh": "显像管拍摄：胶片拍直播CRT、荧光辉光、隔行撕裂、乳状16mm颗粒覆屏。",
+    "source": "hermes-explore",
+    "image": "styles/2432-kinescope.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2390",
+    "slug": "ditto-purple",
+    "name_en": "Ditto Purple",
+    "name_zh": "酒精紫印",
+    "description_en": "Ditto Purple: spirit-duplicator aniline purple on cockled paper, fuzzy dye, solvent bloom, school-handout grain.",
+    "description_zh": "酒精紫印：酒精复印苯胺紫、纸皱、糊边染料与溶剂晕、讲义颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2433-ditto-purple.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

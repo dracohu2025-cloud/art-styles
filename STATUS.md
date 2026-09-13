@@ -6694,6 +6694,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2428, PNG count 2428. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 478 (exactly 5, h2386–h2390)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                               |
+|-------|----------------|-------------|-------------------------------------|
+| h2386 | Shijo          | 四条派      | styles/2429-shijo.png               |
+| h2387 | Ma-Xia         | 马夏        | styles/2430-ma-xia.png              |
+| h2388 | Debossed Foil  | 压凹烫箔    | styles/2431-debossed-foil.png       |
+| h2389 | Kinescope      | 显像管拍摄  | styles/2432-kinescope.png           |
+| h2390 | Ditto Purple   | 酒精紫印    | styles/2433-ditto-purple.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2433, PNG count 2433. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
