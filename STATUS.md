@@ -6330,6 +6330,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2298, PNG count 2298. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 452 (exactly 5, h2256–h2260)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh           | image                               |
+|-------|--------------------|-------------------|-------------------------------------|
+| h2256 | Tamba Ware         | 丹波烧            | styles/2299-tamba-ware.png          |
+| h2257 | Golconda School    | 戈尔康达画派      | styles/2300-golconda-school.png     |
+| h2258 | Aizu-nuri          | 会津涂            | styles/2301-aizu-nuri.png           |
+| h2259 | Sorrento Inlay     | 索伦托细木镶嵌    | styles/2302-sorrento-inlay.png      |
+| h2260 | Bikaner Miniature  | 比卡内尔细密画    | styles/2303-bikaner-miniature.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2303, PNG count 2303. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

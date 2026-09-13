@@ -29872,5 +29872,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2256",
+    "slug": "tamba-ware",
+    "name_en": "Tamba Ware",
+    "name_zh": "丹波烧",
+    "description_en": "Hyogo folk stoneware: iron-rich dark clay, natural wood-ash glaze runs, paddle marks, fire-cloud carbon blush, rustic unglazed rims.",
+    "description_zh": "丹波烧：铁质深色胎土、自然灰釉流淌、拍打纹、火熏碳斑、素烧口沿。",
+    "source": "hermes-explore",
+    "image": "styles/2299-tamba-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2257",
+    "slug": "golconda-school",
+    "name_en": "Golconda School",
+    "name_zh": "戈尔康达画派",
+    "description_en": "Deccan miniature of Golconda/Hyderabad: gold stipple, mauve-lilac skies, Persian-Deccan ornament, jewel-like opaque watercolor on paper.",
+    "description_zh": "戈尔康达画派：德干细密画、金点、紫藤色天空、波斯-德干纹饰、纸本不透明水彩。",
+    "source": "hermes-explore",
+    "image": "styles/2300-golconda-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2258",
+    "slug": "aizu-nuri",
+    "name_en": "Aizu-nuri",
+    "name_zh": "会津涂",
+    "description_en": "Aizu lacquer: vermilion and jet-black urushi grounds, high-gloss layered lacquer, gold maki-e powder and floral-scroll motifs.",
+    "description_zh": "会津涂：朱红与漆黑底、多层高光漆、金蒔絵洒粉与卷草纹。",
+    "source": "hermes-explore",
+    "image": "styles/2301-aizu-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2259",
+    "slug": "sorrento-inlay",
+    "name_en": "Sorrento Inlay",
+    "name_zh": "索伦托细木镶嵌",
+    "description_en": "Sorrento pictorial intarsia: olive, walnut, maple and boxwood veneers, wood-grain as drawing, Greek-key and star borders.",
+    "description_zh": "索伦托细木镶嵌：橄榄木核桃木枫木黄杨薄片、木纹即线条、回纹与星形边饰。",
+    "source": "hermes-explore",
+    "image": "styles/2302-sorrento-inlay.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2260",
+    "slug": "bikaner-miniature",
+    "name_en": "Bikaner Miniature",
+    "name_zh": "比卡内尔细密画",
+    "description_en": "Rajasthani Bikaner school: Mughal-refined cool greys and dusty blues, fine outline, pale gold, palace-garden architecture on paper.",
+    "description_zh": "比卡内尔细密画：拉贾斯坦比卡内尔派、莫卧儿式冷灰与灰蓝、细线、淡金、纸本宫苑。",
+    "source": "hermes-explore",
+    "image": "styles/2303-bikaner-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
