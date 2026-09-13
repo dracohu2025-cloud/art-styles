@@ -31107,5 +31107,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2351",
+    "slug": "duecento",
+    "name_en": "Duecento",
+    "name_zh": "杜琴托",
+    "description_en": "13th-century Italian panel painting: gold-ground egg tempera, punchwork halo, Italo-Byzantine linear drapery, pastiglia, gesso craquelure.",
+    "description_zh": "十三世纪意大利板面画：金地蛋彩、压印光轮、意拜占庭线描衣褶、浮塑、石膏龟裂。",
+    "source": "hermes-explore",
+    "image": "styles/2394-duecento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2352",
+    "slug": "zackenstil",
+    "name_en": "Zackenstil",
+    "name_zh": "锯齿风格",
+    "description_en": "13th-century German-Alpine jagged Gothic: zigzag chevron drapery, sawtooth hems, enamel-bright local color, gold ground, angular contour.",
+    "description_zh": "十三世纪德阿锯齿哥特：折线衣褶、锯齿衣缘、珐琅般固有色、金地、棱角轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2395-zackenstil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2353",
+    "slug": "kerch-style",
+    "name_en": "Kerch Style",
+    "name_zh": "刻赤红绘",
+    "description_en": "Late Attic Kerch red-figure: black-gloss ground, dilute glaze drawing, added white and pink, gilding, pelike sheen, palmette borders.",
+    "description_zh": "晚期阿提卡刻赤红绘：黑釉地、稀释釉线、加白加粉、贴金、陶瓶光泽、棕叶边饰。",
+    "source": "hermes-explore",
+    "image": "styles/2396-kerch-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2354",
+    "slug": "ottocento",
+    "name_en": "Ottocento",
+    "name_zh": "奥托琴托",
+    "description_en": "19th-century Italian Ottocento oil: academic-romantic modeling, velvet chiaroscuro, salon finish, lake reds and bottle greens, canvas weave.",
+    "description_zh": "十九世纪意大利奥托琴托油画：学院浪漫造型、丝绒明暗、沙龙抛光、洋红与瓶绿、画布纹理。",
+    "source": "hermes-explore",
+    "image": "styles/2397-ottocento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2355",
+    "slug": "spitbite",
+    "name_en": "Spitbite",
+    "name_zh": "唾液咬刻",
+    "description_en": "Spit-bite aquatint: painterly acid-splashed tonal washes, granulated tooth, warm black ink on cream laid paper, plate-mark bevel.",
+    "description_zh": "唾液咬刻飞尘：泼酸般色调晕染、颗粒齿面、暖黑墨于米色直纹纸、版痕斜边。",
+    "source": "hermes-explore",
+    "image": "styles/2398-spitbite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

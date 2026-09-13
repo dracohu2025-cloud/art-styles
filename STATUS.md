@@ -6596,6 +6596,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2393, PNG count 2393. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 471 (exactly 5, h2351–h2355)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                         |
+|-------|-------------|-------------|-------------------------------|
+| h2351 | Duecento    | 杜琴托      | styles/2394-duecento.png      |
+| h2352 | Zackenstil  | 锯齿风格    | styles/2395-zackenstil.png    |
+| h2353 | Kerch Style | 刻赤红绘    | styles/2396-kerch-style.png   |
+| h2354 | Ottocento   | 奥托琴托    | styles/2397-ottocento.png     |
+| h2355 | Spitbite    | 唾液咬刻    | styles/2398-spitbite.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2398, PNG count 2398. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
