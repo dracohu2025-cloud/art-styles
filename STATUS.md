@@ -6372,6 +6372,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2313, PNG count 2313. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 455 (exactly 5, h2271–h2275)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                            |
+|-------|----------------|---------------|----------------------------------|
+| h2271 | Kizuri-e       | 黄摺          | styles/2314-kizuri-e.png         |
+| h2272 | Split Tone     | 分离调色      | styles/2315-split-tone.png       |
+| h2273 | Marwar School  | 马尔瓦尔画派  | styles/2316-marwar-school.png    |
+| h2274 | Solar Plate    | 日光感光版    | styles/2317-solar-plate.png      |
+| h2275 | Direct Carbon  | 直接碳印      | styles/2318-direct-carbon.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2318, PNG count 2318. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

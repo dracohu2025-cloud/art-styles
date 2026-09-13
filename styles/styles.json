@@ -30067,5 +30067,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2271",
+    "slug": "kizuri-e",
+    "name_en": "Kizuri-e",
+    "name_zh": "黄摺",
+    "description_en": "Kizuri-e: Edo yellow-ground woodblock, orpiment/chrome yellow field, crisp sumi keyblock, limited beni and Prussian blue flats, no Western shading.",
+    "description_zh": "黄摺：江户黄地木版、雌黄/铬黄底、墨线主版、红蓝平涂、无西式明暗。",
+    "source": "hermes-explore",
+    "image": "styles/2314-kizuri-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2272",
+    "slug": "split-tone",
+    "name_en": "Split Tone",
+    "name_zh": "分离调色",
+    "description_en": "Split toning: analog gelatin-silver print with warm selenium/sepia highlights and cool blue-gold toner in the shadows, continuous-tone grain.",
+    "description_zh": "分离调色：明胶银盐、高光硒/棕调、阴影冷蓝金调、连续调胶片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2315-split-tone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2273",
+    "slug": "marwar-school",
+    "name_en": "Marwar School",
+    "name_zh": "马尔瓦尔画派",
+    "description_en": "Marwar (Jodhpur) Rajput miniature: opaque color on wasli, vermilion-saffron grounds, profile faces, flat palace compartments, gold jewelry, no linear perspective.",
+    "description_zh": "马尔瓦尔画派：焦特布尔细密、水彩不透明色、朱红橙地、侧面脸、平面宫室、金饰、无线性透视。",
+    "source": "hermes-explore",
+    "image": "styles/2316-marwar-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2274",
+    "slug": "solar-plate",
+    "name_en": "Solar Plate",
+    "name_zh": "日光感光版",
+    "description_en": "Solar-plate photopolymer intaglio: UV-exposed polymer, aquatint tooth, velvety blacks, plate tone, rag paper plate mark.",
+    "description_zh": "日光感光版：紫外曝光聚合物凹版、飞尘齿纹、丝绒黑、版调、手工纸压痕。",
+    "source": "hermes-explore",
+    "image": "styles/2317-solar-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2275",
+    "slug": "direct-carbon",
+    "name_en": "Direct Carbon",
+    "name_zh": "直接碳印",
+    "description_en": "Direct carbon print: pigmented gelatin tissue, velvety matte continuous tone, warm carbon blacks, slight relief in darks, no silver grain.",
+    "description_zh": "直接碳印：色素明胶碳纸、丝绒哑光连续调、暖碳黑、暗部微浮雕、无银盐颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2318-direct-carbon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
