@@ -29547,5 +29547,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2231",
+    "slug": "roulette-ground",
+    "name_en": "Roulette Ground",
+    "name_zh": "滚点地纹",
+    "description_en": "Intaglio roulette ground: wheeled dotted stipple, velvety punched blacks, plate tone on cream rag, wiped highlights, no smooth wash.",
+    "description_zh": "凹版滚点地纹：滚轮点刻、绒黑凹点、奶油棉纸版调、擦亮高光，无平滑渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2274-roulette-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2232",
+    "slug": "pit-firing",
+    "name_en": "Pit Firing",
+    "name_zh": "坑烧",
+    "description_en": "Pit-fired clay atmosphere: carbon clouds, salmon flash blushes, sawdust and salt marks on naked earthenware, no glaze gloss.",
+    "description_zh": "坑烧气氛：碳烟云、鲑红火斑、锯末盐痕落在裸陶上，无釉光。",
+    "source": "hermes-explore",
+    "image": "styles/2275-pit-firing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2233",
+    "slug": "stone-rubbing",
+    "name_en": "Stone Rubbing",
+    "name_zh": "碑拓",
+    "description_en": "Ink-squeeze stone rubbing: thin xuan over carved relief, patted sumi, paper-white recesses, cracked stone grain, dry matte black.",
+    "description_zh": "碑拓墨拓：宣纸覆刻石、扑墨、凹处留白、石裂纹理、干哑黑墨。",
+    "source": "hermes-explore",
+    "image": "styles/2276-stone-rubbing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2234",
+    "slug": "lith-ortho",
+    "name_en": "Lith Ortho",
+    "name_zh": "正色高反差",
+    "description_en": "Orthochromatic lith film: infectious development, crushed blacks, blown whites, pepper grain, almost no midtones, analog chemical edge.",
+    "description_zh": "正色高反差胶片：传染显影、死黑死白、胡椒颗粒、几乎无中间调、化学边缘。",
+    "source": "hermes-explore",
+    "image": "styles/2277-lith-ortho.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2235",
+    "slug": "charcoal-wash",
+    "name_en": "Charcoal Wash",
+    "name_zh": "炭洗",
+    "description_en": "Vine charcoal wash: velvety gray veils, kneaded-eraser lifts, compressed-charcoal accents, paper tooth, no color, no ink line.",
+    "description_zh": "藤炭水洗：丝绒灰幕、橡皮提出高光、压缩炭加重、纸纹齿感，无色彩无墨线。",
+    "source": "hermes-explore",
+    "image": "styles/2278-charcoal-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -6260,6 +6260,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2273, PNG count 2273. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 447 (exactly 5, h2231–h2235)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                           |
+|-------|-----------------|-------------|---------------------------------|
+| h2231 | Roulette Ground | 滚点地纹    | styles/2274-roulette-ground.png |
+| h2232 | Pit Firing      | 坑烧        | styles/2275-pit-firing.png      |
+| h2233 | Stone Rubbing   | 碑拓        | styles/2276-stone-rubbing.png   |
+| h2234 | Lith Ortho      | 正色高反差  | styles/2277-lith-ortho.png      |
+| h2235 | Charcoal Wash   | 炭洗        | styles/2278-charcoal-wash.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2278, PNG count 2278. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
