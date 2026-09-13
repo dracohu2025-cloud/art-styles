@@ -6554,6 +6554,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2378, PNG count 2378. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 468 (exactly 5, h2336–h2340)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                            |
+|-------|-----------------|-----------------|----------------------------------|
+| h2336 | Protoattic      | 原阿提卡        | styles/2379-protoattic.png       |
+| h2337 | Kiyomizu Ware   | 清水烧          | styles/2380-kiyomizu-ware.png    |
+| h2338 | Grueby          | 格鲁比          | styles/2381-grueby.png           |
+| h2339 | Celtic Revival  | 凯尔特复兴      | styles/2382-celtic-revival.png   |
+| h2340 | Cinquecento     | 钦奎琴托        | styles/2383-cinquecento.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2383, PNG count 2383. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

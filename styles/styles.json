@@ -30912,5 +30912,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2336",
+    "slug": "protoattic",
+    "name_en": "Protoattic",
+    "name_zh": "原阿提卡",
+    "description_en": "7th-century BCE Attic vase painting: orange-buff clay, glossy black-slip silhouettes, incised line, outline faces, running spirals and palmettes.",
+    "description_zh": "公元前七世纪阿提卡陶绘：橙黄陶地、亮黑泥釉剪影、刻线与轮廓脸、连续涡纹与掌叶纹。",
+    "source": "hermes-explore",
+    "image": "styles/2379-protoattic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2337",
+    "slug": "kiyomizu-ware",
+    "name_en": "Kiyomizu Ware",
+    "name_zh": "清水烧",
+    "description_en": "Kyoto Kiyomizu-yaki overglaze: milky porcelain, jewel iro-e enamels, gold kinrande, floral-cloud reserves under glassy glaze.",
+    "description_zh": "京都清水烧釉上彩：乳白瓷地、宝石色散彩、金襴手、花云开光与玻璃质釉。",
+    "source": "hermes-explore",
+    "image": "styles/2380-kiyomizu-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2338",
+    "slug": "grueby",
+    "name_en": "Grueby",
+    "name_zh": "格鲁比",
+    "description_en": "Grueby Faience matte art pottery: cucumber and moss glazes pooling in modeled leaf-and-bud relief, velvety non-reflective surface.",
+    "description_zh": "格鲁比陶无光釉：黄瓜与苔绿釉积在浮雕叶蕾上，丝绒无反光表面。",
+    "source": "hermes-explore",
+    "image": "styles/2381-grueby.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2339",
+    "slug": "celtic-revival",
+    "name_en": "Celtic Revival",
+    "name_zh": "凯尔特复兴",
+    "description_en": "Late 19th–early 20th-century Insular revival: knotwork, zoomorphic interlace, trumpet spirals, enamel-like emerald-gold-crimson cells.",
+    "description_zh": "十九世纪末海岛纹样复兴：结饰、兽形缠绕、喇叭涡纹、珐琅般翠绿金红分格。",
+    "source": "hermes-explore",
+    "image": "styles/2382-celtic-revival.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2340",
+    "slug": "cinquecento",
+    "name_en": "Cinquecento",
+    "name_zh": "钦奎琴托",
+    "description_en": "Italian sixteenth-century painting: monumental figure, sfumato, warm Venetian-Roman color, glazed oil, classical architecture.",
+    "description_zh": "意大利十六世纪绘画：纪念碑式人物、烟雾法、威尼斯-罗马暖色、多层油釉与古典建筑。",
+    "source": "hermes-explore",
+    "image": "styles/2383-cinquecento.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
