@@ -6638,6 +6638,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2408, PNG count 2408. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 474 (exactly 5, h2366–h2370)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh               | image                                      |
+|-------|-------------------------|-----------------------|--------------------------------------------|
+| h2366 | Almoravid               | 穆拉比特              | styles/2409-almoravid.png                  |
+| h2367 | Baghdad School          | 巴格达画派            | styles/2410-baghdad-school.png             |
+| h2368 | Vladimir-Suzdal         | 弗拉基米尔-苏兹达尔   | styles/2411-vladimir-suzdal.png            |
+| h2369 | Macedonian Renaissance  | 马其顿文艺复兴        | styles/2412-macedonian-renaissance.png     |
+| h2370 | National Romanticism    | 民族浪漫主义          | styles/2413-national-romanticism.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2413, PNG count 2413. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

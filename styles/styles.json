@@ -31302,5 +31302,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2366",
+    "slug": "almoravid",
+    "name_en": "Almoravid",
+    "name_zh": "穆拉比特",
+    "description_en": "Almoravid: Maghrebi 11th–12th c. carved-stucco arabesque, horseshoe arches, austere ivory-ochre plaster, geometric interlaces and Kufic bands.",
+    "description_zh": "穆拉比特：马格里布11–12世纪灰泥浮雕卷草、马蹄拱、素净象牙赭色灰泥、几何交织与库法铭带。",
+    "source": "hermes-explore",
+    "image": "styles/2409-almoravid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2367",
+    "slug": "baghdad-school",
+    "name_en": "Baghdad School",
+    "name_zh": "巴格达画派",
+    "description_en": "Baghdad School: 13th-c. Arabic manuscript painting, flat mineral color, outlined figures, isometric interiors, patterned textiles, no oil modeling.",
+    "description_zh": "巴格达画派：13世纪阿拉伯细密插画、矿物平涂、勾线人物、等轴室内、织物纹样，无油画明暗。",
+    "source": "hermes-explore",
+    "image": "styles/2410-baghdad-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2368",
+    "slug": "vladimir-suzdal",
+    "name_en": "Vladimir-Suzdal",
+    "name_zh": "弗拉基米尔-苏兹达尔",
+    "description_en": "Vladimir-Suzdal: 12th-c. Rus white-stone relief and fresco, helmet domes, ochre-terra-lapis palette, carved portals, gold highlights.",
+    "description_zh": "弗拉基米尔-苏兹达尔：12世纪罗斯白石浮雕与湿壁画、盔形穹顶、赭土群青调、雕饰门廊、金色提亮。",
+    "source": "hermes-explore",
+    "image": "styles/2411-vladimir-suzdal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2369",
+    "slug": "macedonian-renaissance",
+    "name_en": "Macedonian Renaissance",
+    "name_zh": "马其顿文艺复兴",
+    "description_en": "Macedonian Renaissance: Middle Byzantine classical revival, gold mosaic tesserae, modeled drapery, hierarchical gold ground, Paris Psalter classicism.",
+    "description_zh": "马其顿文艺复兴：中拜占庭古典回潮、金地马赛克、衣褶体积、等级金地、巴黎诗篇式古典风。",
+    "source": "hermes-explore",
+    "image": "styles/2412-macedonian-renaissance.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2370",
+    "slug": "national-romanticism",
+    "name_en": "National Romanticism",
+    "name_zh": "民族浪漫主义",
+    "description_en": "National Romanticism: Nordic c. 1890–1910 painting, northern forest light, stave-church silhouette, matte fresco-like oil, tapestry-like folk ornament.",
+    "description_zh": "民族浪漫主义：北欧约1890–1910绘画、北境林光、木板教堂剪影、湿壁画般哑光油画、织毯式民俗纹饰。",
+    "source": "hermes-explore",
+    "image": "styles/2413-national-romanticism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
