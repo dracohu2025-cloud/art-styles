@@ -6582,6 +6582,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2388, PNG count 2388. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 470 (exactly 5, h2346–h2350)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh         | image                                  |
+|-------|-----------------------|-----------------|----------------------------------------|
+| h2346 | Pleinairism           | 外光主义        | styles/2389-pleinairism.png            |
+| h2347 | Barbizon              | 巴比松          | styles/2390-barbizon.png               |
+| h2348 | Insular Illumination  | 岛屿彩饰        | styles/2391-insular-illumination.png   |
+| h2349 | Academicism           | 学院主义        | styles/2392-academicism.png            |
+| h2350 | Catacomb Painting     | 墓窟壁画        | styles/2393-catacomb-painting.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2393, PNG count 2393. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -31042,5 +31042,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2346",
+    "slug": "pleinairism",
+    "name_en": "Pleinairism",
+    "name_zh": "外光主义",
+    "description_en": "Plein-air painting: wet-into-wet outdoor oil, high-key daylight, violet open-air shadows, unblended color notes painted on site.",
+    "description_zh": "外光主义：户外湿接湿油画、高调日光、蓝紫开敞阴影与现场未调和色点。",
+    "source": "hermes-explore",
+    "image": "styles/2389-pleinairism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2347",
+    "slug": "barbizon",
+    "name_en": "Barbizon",
+    "name_zh": "巴比松",
+    "description_en": "Barbizon school oil: earth umber-olive palette, forest-edge tonalism, gray daylight, thick scumble and silvery woodland hush.",
+    "description_zh": "巴比松画派：赭褐橄榄土色、林缘调性、灰日光、厚涂擦笔与银绿林氛。",
+    "source": "hermes-explore",
+    "image": "styles/2390-barbizon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2348",
+    "slug": "insular-illumination",
+    "name_en": "Insular Illumination",
+    "name_zh": "岛屿彩饰",
+    "description_en": "Insular Gospel illumination: carpet-page interlace, trumpet spirals, red-dot outline, vellum, orpiment-verdigris-minium-lapis, gold-leaf bosses.",
+    "description_zh": "岛屿彩饰：地毯页交缠、喇叭涡卷、红点勾边、羊皮纸、雌黄石绿铅丹青金与金箔凸饰。",
+    "source": "hermes-explore",
+    "image": "styles/2391-insular-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2349",
+    "slug": "academicism",
+    "name_en": "Academicism",
+    "name_zh": "学院主义",
+    "description_en": "Nineteenth-century academic oil: invisible brushwork, porcelain glaze layers, controlled studio chiaroscuro, high salon finish.",
+    "description_zh": "十九世纪学院油画：隐笔触、瓷釉层层罩染、可控画室明暗与沙龙高完成度。",
+    "source": "hermes-explore",
+    "image": "styles/2392-academicism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2350",
+    "slug": "catacomb-painting",
+    "name_en": "Catacomb Painting",
+    "name_zh": "墓窟壁画",
+    "description_en": "Early Christian catacomb fresco: lime plaster, earth pigments, abbreviated contour, ochre-terracotta fade, mineral bloom and pitting.",
+    "description_zh": "早期基督墓窟壁画：石灰泥、土色素、简约轮廓、赭红褪色、矿物霜与灰泥剥蚀。",
+    "source": "hermes-explore",
+    "image": "styles/2393-catacomb-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
