@@ -29482,5 +29482,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2226",
+    "slug": "nalebinding",
+    "name_en": "Nålebinding",
+    "name_zh": "单针圈编",
+    "description_en": "Single-needle looping (nålebinding): dense interlocking wool stitches, felted handmade loops, plant-dyed madder/woad/weld, not knit or crochet.",
+    "description_zh": "单针圈编：密实互锁羊毛针圈、略毡化的手作线圈、茜草靛蓝荩草植物染，非棒针亦非钩针。",
+    "source": "hermes-explore",
+    "image": "styles/2269-nalebinding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2227",
+    "slug": "cuir-bouilli",
+    "name_en": "Cuir Bouilli",
+    "name_zh": "煮革",
+    "description_en": "Boiled molded leather: vegetable-tanned hide compressed, tooled and waxed, honey-to-oxblood relief, burnished grain, stitch-hole edges.",
+    "description_zh": "煮革成形：植鞣皮煮压錾花上蜡，蜜色至牛血红浮雕、抛光皮纹、针孔边缘。",
+    "source": "hermes-explore",
+    "image": "styles/2270-cuir-bouilli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2228",
+    "slug": "saggar-firing",
+    "name_en": "Saggar Firing",
+    "name_zh": "匣钵熏烧",
+    "description_en": "Saggar-fired atmosphere: ferric blushes, carbon trapping, salt-vapor flashing, wadding scars on naked clay, smoked shoulders.",
+    "description_zh": "匣钵熏烧：铁盐晕红、碳陷、盐雾火色、裸土垫烧疤与烟熏肩。",
+    "source": "hermes-explore",
+    "image": "styles/2271-saggar-firing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2229",
+    "slug": "siderotype",
+    "name_en": "Siderotype",
+    "name_zh": "铁盐印相",
+    "description_en": "Herschel iron-salt print: matte rag-paper siderotype, Prussian iron browns with faint cool iron-blue, chemical unevenness, no gelatin gloss.",
+    "description_zh": "赫歇尔铁盐印相：无光棉纸铁盐像，普鲁士铁棕带微冷铁蓝、药液不均、无明胶反光。",
+    "source": "hermes-explore",
+    "image": "styles/2272-siderotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2230",
+    "slug": "vinyl-tempera",
+    "name_en": "Vinyl Tempera",
+    "name_zh": "乙烯蛋彩",
+    "description_en": "Matte vinyl emulsion paint: opaque velvety pigment, graphic color blocks, no oil shine, no watercolor bloom, paint sits on the surface.",
+    "description_zh": "乙烯乳液蛋彩：不透明丝绒颜料、色块图形、无油光、无水彩渗化，颜料浮于表面。",
+    "source": "hermes-explore",
+    "image": "styles/2273-vinyl-tempera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -6246,6 +6246,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2268, PNG count 2268. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 446 (exactly 5, h2226–h2230)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                           |
+|-------|-----------------|-------------|---------------------------------|
+| h2226 | Nålebinding     | 单针圈编    | styles/2269-nalebinding.png     |
+| h2227 | Cuir Bouilli    | 煮革        | styles/2270-cuir-bouilli.png    |
+| h2228 | Saggar Firing   | 匣钵熏烧    | styles/2271-saggar-firing.png   |
+| h2229 | Siderotype      | 铁盐印相    | styles/2272-siderotype.png      |
+| h2230 | Vinyl Tempera   | 乙烯蛋彩    | styles/2273-vinyl-tempera.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2273, PNG count 2273. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
