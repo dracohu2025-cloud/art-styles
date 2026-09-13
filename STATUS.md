@@ -6344,6 +6344,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2303, PNG count 2303. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 453 (exactly 5, h2261–h2265)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                              |
+|-------|------------------|-----------------|------------------------------------|
+| h2261 | Haute-lisse      | 高经挂毯        | styles/2304-haute-lisse.png        |
+| h2262 | Pot-metal Glass  | 全熔色玻璃      | styles/2305-pot-metal-glass.png    |
+| h2263 | Copper Lustre    | 铜光釉          | styles/2306-copper-lustre.png      |
+| h2264 | Toreutics        | 金属錾花        | styles/2307-toreutics.png          |
+| h2265 | Bijapur School   | 比贾布尔画派    | styles/2308-bijapur-school.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2308, PNG count 2308. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -29937,5 +29937,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2261",
+    "slug": "haute-lisse",
+    "name_en": "Haute-lisse",
+    "name_zh": "高经挂毯",
+    "description_en": "High-warp tapestry: vertical loom, weft-faced wool and silk, hatchure shading, slit joins, visible warp ribs, cartoon-woven pictorial textile.",
+    "description_zh": "高经挂毯：立经织机、纬面毛丝、影线晕色、开缝接合、经脊可见、底稿织成的织画。",
+    "source": "hermes-explore",
+    "image": "styles/2304-haute-lisse.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2262",
+    "slug": "pot-metal-glass",
+    "name_en": "Pot-metal Glass",
+    "name_zh": "全熔色玻璃",
+    "description_en": "Medieval pot-metal stained glass: color melted through the pot, lead cames, grisaille trace-lines, transmitted cathedral light in sapphire, copper-ruby, and gold-yellow.",
+    "description_zh": "全熔色玻璃：中世纪锅熔通体着色、铅条镶嵌、灰色描线、宝石蓝与铜红金黄透光。",
+    "source": "hermes-explore",
+    "image": "styles/2305-pot-metal-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2263",
+    "slug": "copper-lustre",
+    "name_en": "Copper Lustre",
+    "name_zh": "铜光釉",
+    "description_en": "Reduced copper lustre glaze: metallic copper-red to bronze iridescence on tin-glaze or cream earthenware, Hispano-Moresque kiln bloom and mirror-metal sheen.",
+    "description_zh": "铜光釉：还原焰铜红至青铜虹彩、锡釉或乳白陶地、西班牙-摩尔窑变与镜面金属光。",
+    "source": "hermes-explore",
+    "image": "styles/2306-copper-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2264",
+    "slug": "toreutics",
+    "name_en": "Toreutics",
+    "name_zh": "金属錾花",
+    "description_en": "Toreutics: chased and engraved pictorial metalwork, hammered relief, punch grounds, burin lines, planished bronze or silver as the entire image.",
+    "description_zh": "金属錾花：锤揲浮雕、錾刻与雕线、冲压地纹、抛光青铜或银面构成全幅。",
+    "source": "hermes-explore",
+    "image": "styles/2307-toreutics.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2265",
+    "slug": "bijapur-school",
+    "name_en": "Bijapur School",
+    "name_zh": "比贾布尔画派",
+    "description_en": "Deccani Bijapur school: gold, lilac, rose and midnight blue, fine outline, jewel-like flat color, burnished gold, poetic garden-palace on paper.",
+    "description_zh": "比贾布尔画派：德干比贾布尔、金箔与紫玫瑰午夜蓝、细线、宝石平涂、纸本宫苑。",
+    "source": "hermes-explore",
+    "image": "styles/2308-bijapur-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
