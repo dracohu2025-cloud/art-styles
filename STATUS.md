@@ -6680,6 +6680,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2423, PNG count 2423. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 477 (exactly 5, h2381–h2385)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                               |
+|-------|----------------|-------------|-------------------------------------|
+| h2381 | Jalayirid      | 贾拉伊尔    | styles/2424-jalayirid.png           |
+| h2382 | Cappadocian    | 卡帕多细亚  | styles/2425-cappadocian.png         |
+| h2383 | Southern Tang  | 南唐        | styles/2426-southern-tang.png       |
+| h2384 | Karakhanid     | 喀喇汗      | styles/2427-karakhanid.png          |
+| h2385 | Kumtura        | 库木吐喇    | styles/2428-kumtura.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2428, PNG count 2428. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

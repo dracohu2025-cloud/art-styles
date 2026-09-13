@@ -31497,5 +31497,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2381",
+    "slug": "jalayirid",
+    "name_en": "Jalayirid",
+    "name_zh": "贾拉伊尔",
+    "description_en": "Jalayirid: 14th-c. Baghdad manuscript painting, Junayd angular drapery, gold sky, opaque watercolor and fine ink.",
+    "description_zh": "贾拉伊尔：十四世纪巴格达细密画、朱奈德折角衣纹、金地、不透明水彩细线。",
+    "source": "hermes-explore",
+    "image": "styles/2424-jalayirid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2382",
+    "slug": "cappadocian",
+    "name_en": "Cappadocian",
+    "name_zh": "卡帕多细亚",
+    "description_en": "Cappadocian: rock-cut church fresco, earth-red ochre black contours, peeling lime plaster, provincial Byzantine mural.",
+    "description_zh": "卡帕多细亚：岩窟教堂壁画、土红赭石黑线、剥落灰泥、地方拜占庭湿壁画。",
+    "source": "hermes-explore",
+    "image": "styles/2425-cappadocian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2383",
+    "slug": "southern-tang",
+    "name_en": "Southern Tang",
+    "name_zh": "南唐",
+    "description_en": "Southern Tang: 10th-c. Jiangnan ink-on-silk, Dong Yuan hemp-fiber cun, moist graded ink, mist voids, pale mineral wash.",
+    "description_zh": "南唐：十世纪江南绢本水墨、董源披麻皴、湿墨晕染、云雾留白、淡设色。",
+    "source": "hermes-explore",
+    "image": "styles/2426-southern-tang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2384",
+    "slug": "karakhanid",
+    "name_en": "Karakhanid",
+    "name_zh": "喀喇汗",
+    "description_en": "Karakhanid: carved glazed terracotta, floriated Kufic bands, turquoise brick portals, star-and-cross tile arabesque.",
+    "description_zh": "喀喇汗：釉陶浮雕、花叶库法字带、青绿砖门、星十字砖与卷草。",
+    "source": "hermes-explore",
+    "image": "styles/2427-karakhanid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2385",
+    "slug": "kumtura",
+    "name_en": "Kumtura",
+    "name_zh": "库木吐喇",
+    "description_en": "Kumtura: Kucha grotto mural, Indo-Iranian mineral pigments, swirling scarves, lapis and iron-red on cave plaster.",
+    "description_zh": "库木吐喇：龟兹石窟壁画、印度-伊朗矿物色、飞带、青金石与铁红泥壁。",
+    "source": "hermes-explore",
+    "image": "styles/2428-kumtura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
