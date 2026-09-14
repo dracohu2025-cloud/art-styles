@@ -6974,6 +6974,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2528, PNG count 2528. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 498 (exactly 5, h2486–h2490)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh        | image                                    |
+|-------|-------------------------|----------------|------------------------------------------|
+| h2486 | Kaga-yuzen              | 加贺友禅       | styles/2529-kaga-yuzen.png               |
+| h2487 | Westerwald              | 韦斯特瓦尔德   | styles/2530-westerwald.png               |
+| h2488 | Nuka Glaze              | 糠釉           | styles/2531-nuka-glaze.png               |
+| h2489 | Spirit-ground Aquatint  | 酒精飞尘       | styles/2532-spirit-ground-aquatint.png   |
+| h2490 | Toft Slipware           | 托夫特沥釉     | styles/2533-toft-slipware.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2533, PNG count 2533. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -32862,5 +32862,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2486",
+    "slug": "kaga-yuzen",
+    "name_en": "Kaga-yuzen",
+    "name_zh": "加贺友禅",
+    "description_en": "Kaga-yuzen: Kanazawa rice-paste resist dyeing, painterly five-color botanicals, no gold thread or Kyoto glitter.",
+    "description_zh": "加贺友禅：金泽友禅糊防染，五彩写实花鸟晕染，无金线与京友禅华饰。",
+    "source": "hermes-explore",
+    "image": "styles/2529-kaga-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2487",
+    "slug": "westerwald",
+    "name_en": "Westerwald",
+    "name_zh": "韦斯特瓦尔德",
+    "description_en": "Westerwald: grey salt-glazed stoneware, cobalt-blue incising and stamps, orange-peel salt skin.",
+    "description_zh": "韦斯特瓦尔德：灰胎盐釉炻器，钴蓝刻划与戳印，橘皮盐釉肌理。",
+    "source": "hermes-explore",
+    "image": "styles/2530-westerwald.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2488",
+    "slug": "nuka-glaze",
+    "name_en": "Nuka Glaze",
+    "name_zh": "糠釉",
+    "description_en": "Nuka glaze: milky rice-husk ash white crawling over iron clay, pinholes, russet blush at thin edges.",
+    "description_zh": "糠釉：米糠灰乳浊白釉覆铁胎，缩釉针孔，薄处铁红晕边。",
+    "source": "hermes-explore",
+    "image": "styles/2531-nuka-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2489",
+    "slug": "spirit-ground-aquatint",
+    "name_en": "Spirit-ground Aquatint",
+    "name_zh": "酒精飞尘",
+    "description_en": "Spirit-ground aquatint: rosin in alcohol poured as reticulated veils, granular greys, velvety bitten blacks.",
+    "description_zh": "酒精飞尘：松香酒精液流布成网状飞尘，颗粒灰阶与丝绒咬蚀黑。",
+    "source": "hermes-explore",
+    "image": "styles/2532-spirit-ground-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2490",
+    "slug": "toft-slipware",
+    "name_en": "Toft Slipware",
+    "name_zh": "托夫特沥釉",
+    "description_en": "Toft slipware: Staffordshire trailed white and brown slip on red earthenware, dotted borders, honey lead glaze.",
+    "description_zh": "托夫特沥釉：斯塔福德红陶沥白褐化妆土，点纹边饰与蜜色铅釉。",
+    "source": "hermes-explore",
+    "image": "styles/2533-toft-slipware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
