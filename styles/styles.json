@@ -32082,5 +32082,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2426",
+    "slug": "fanfare-binding",
+    "name_en": "Fanfare Binding",
+    "name_zh": "花饰装帧",
+    "description_en": "Fanfare binding: 16th-century French gold-tooling — geometric compartments of interlacing ribbons, leafy sprays, and pointillé gold on dark morocco.",
+    "description_zh": "花饰装帧：十六世纪法国烫金压纹，几何分格里满布交缠丝带、叶饰与点錾金于深色摩洛哥革。",
+    "source": "hermes-explore",
+    "image": "styles/2469-fanfare-binding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2427",
+    "slug": "chlorobromide",
+    "name_en": "Chlorobromide",
+    "name_zh": "氯溴相纸",
+    "description_en": "Chlorobromide print: warm gelatin-silver — olive-brown to cocoa D-max, creamy baryta highlights, pictorial emulsion grain without modern color.",
+    "description_zh": "氯溴相纸：暖调银盐明胶，橄榄棕至可可黑的最大密度、奶油钡地高光与画意乳剂颗粒，无现代彩色。",
+    "source": "hermes-explore",
+    "image": "styles/2470-chlorobromide.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2428",
+    "slug": "ukibori",
+    "name_en": "Ukibori",
+    "name_zh": "浮彫",
+    "description_en": "Ukibori: Japanese raised-relief chasing — forms hammered up from patinated metal, punched grounds, burnished high planes in shallow swell.",
+    "description_zh": "浮彫：日本金属高浮雕錾刻，形体从氧化地子锤起，点地肌理与抛光高面呈浅鼓起伏。",
+    "source": "hermes-explore",
+    "image": "styles/2471-ukibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2429",
+    "slug": "nijimi",
+    "name_en": "Nijimi",
+    "name_zh": "墨渗",
+    "description_en": "Nijimi: wet-into-damp ink bloom — sumi feathers at wash edges, soft gray halos and dissolving cores on absorbent xuan paper.",
+    "description_zh": "墨渗：湿撞湿墨晕，水墨在宣纸上沿水痕洇开，灰晕与浓核向外溶散。",
+    "source": "hermes-explore",
+    "image": "styles/2472-nijimi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2430",
+    "slug": "cauliflower-wash",
+    "name_en": "Cauliflower Wash",
+    "name_zh": "水彩回流",
+    "description_en": "Cauliflower wash: watercolor backruns — scalloped pale blooms where wet washes collide, tide-lines and pooled pigment at the rims.",
+    "description_zh": "水彩回流：湿色相撞形成菜花状回纹，浅色扇形水痕、潮线与边沿积色。",
+    "source": "hermes-explore",
+    "image": "styles/2473-cauliflower-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

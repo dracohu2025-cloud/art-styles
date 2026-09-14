@@ -6806,6 +6806,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2468, PNG count 2468. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 486 (exactly 5, h2426–h2430)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                               |
+|-------|-------------------|-------------|-------------------------------------|
+| h2426 | Fanfare Binding   | 花饰装帧    | styles/2469-fanfare-binding.png     |
+| h2427 | Chlorobromide     | 氯溴相纸    | styles/2470-chlorobromide.png       |
+| h2428 | Ukibori           | 浮彫        | styles/2471-ukibori.png             |
+| h2429 | Nijimi            | 墨渗        | styles/2472-nijimi.png              |
+| h2430 | Cauliflower Wash  | 水彩回流    | styles/2473-cauliflower-wash.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2473, PNG count 2473. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
