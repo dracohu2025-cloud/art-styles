@@ -31952,5 +31952,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2416",
+    "slug": "palladiana",
+    "name_en": "Palladiana",
+    "name_zh": "帕拉迪亚纳",
+    "description_en": "Palladiana: large irregular marble shards fitted and honed into one stone plane — visible piece edges, mineral veins, grout matrix.",
+    "description_zh": "帕拉迪亚纳：不规则大理石大片镶磨成面，拼缝、矿脉与填缝清晰可见。",
+    "source": "hermes-explore",
+    "image": "styles/2459-palladiana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2417",
+    "slug": "cocciopesto",
+    "name_en": "Cocciopesto",
+    "name_zh": "碎陶灰浆",
+    "description_en": "Cocciopesto: crushed terracotta in lime mortar — warm pink hydraulic plaster, brick-dust speckles, trowel-compacted mineral matte.",
+    "description_zh": "碎陶灰浆：石灰砂浆掺碎陶，暖粉水硬质感，砖屑斑点与抹压矿物哑光。",
+    "source": "hermes-explore",
+    "image": "styles/2460-cocciopesto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2418",
+    "slug": "siculo-norman",
+    "name_en": "Siculo-Norman",
+    "name_zh": "西西里诺曼镶嵌",
+    "description_en": "Siculo-Norman: 12th-century Sicily gold tesserae — glass smalti, gold-leaf ground, Byzantine contour with Latin narrative ease.",
+    "description_zh": "西西里诺曼镶嵌：十二世纪西西里金地马赛克，熔块玻璃与金箔底，拜占庭轮廓带拉丁叙事。",
+    "source": "hermes-explore",
+    "image": "styles/2461-siculo-norman.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2419",
+    "slug": "cluny-lace",
+    "name_en": "Cluny Lace",
+    "name_zh": "克吕尼蕾丝",
+    "description_en": "Cluny lace: 19th-century revival bobbin lace — wheatear tallies, clothwork toile, plaited bars and leaf taping in cream linen.",
+    "description_zh": "克吕尼蕾丝：十九世纪梭结蕾丝复兴，麦穗结、布纹密织、编条与叶形带线。",
+    "source": "hermes-explore",
+    "image": "styles/2462-cluny-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2420",
+    "slug": "foul-bite",
+    "name_en": "Foul Bite",
+    "name_zh": "蚀斑咬蚀",
+    "description_en": "Foul bite: intaglio acid pitting — irregular open-bite speckles, ragged bitten edges, granular scum and plate tone on ivory paper.",
+    "description_zh": "蚀斑咬蚀：凹版酸蚀斑点，开放咬蚀的不规则颗粒、毛边与版调印于象牙色纸。",
+    "source": "hermes-explore",
+    "image": "styles/2463-foul-bite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
