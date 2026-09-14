@@ -33967,5 +33967,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2571",
+    "slug": "taka-maki-e",
+    "name_en": "Taka-maki-e",
+    "name_zh": "高蒔絵",
+    "description_en": "Taka-maki-e: raised sprinkled-gold Japanese lacquer — built-up kinpun relief on black urushi; not flat hira-maki-e, not togidashi polished flush, not chinkin engraving.",
+    "description_zh": "高蒔絵：堆起洒金莳绘，金粉高浮雕于黑漆；非平莳绘，非研出莳绘，非沉金阴刻。",
+    "source": "hermes-explore",
+    "image": "styles/2614-taka-maki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2572",
+    "slug": "kairagi",
+    "name_en": "Kairagi",
+    "name_zh": "梅花皮",
+    "description_en": "Kairagi: plum-blossom-skin celadon — pitted orange-peel glaze crawl on grey-green seiji; not smooth Longquan, not guan gold-thread iron-wire crackle, not tenmoku.",
+    "description_zh": "梅花皮：青瓷橘皮缩釉，灰绿瓷表坑纹如梅皮；非光滑龙泉，非官窑金丝铁线，非天目。",
+    "source": "hermes-explore",
+    "image": "styles/2615-kairagi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2573",
+    "slug": "bizarre-silk",
+    "name_en": "Bizarre Silk",
+    "name_zh": "奇异纹绸",
+    "description_en": "Bizarre silk: early-18th-century lampas with oversized asymmetric exotic florals and architectural hybrids; not ordinary damask, not paisley, not Art Nouveau.",
+    "description_zh": "奇异纹绸：十八世纪初灯芯织，巨大不对称异域花与建筑杂交纹；非普通缎纹，非佩斯利，非新艺术。",
+    "source": "hermes-explore",
+    "image": "styles/2616-bizarre-silk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2574",
+    "slug": "allucciolato",
+    "name_en": "Allucciolato",
+    "name_zh": "萤火金绒",
+    "description_en": "Allucciolato: Renaissance voided velvet with tiny gold-thread loops that glitter like fireflies; not plain voided velvet, not ciselé pile contrast, not cloth-of-gold.",
+    "description_zh": "萤火金绒：文艺复兴挖花绒，细金线圈如萤火闪烁；非素挖花绒，非剪绒高低绒，非织金缎。",
+    "source": "hermes-explore",
+    "image": "styles/2617-allucciolato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2575",
+    "slug": "halas-lace",
+    "name_en": "Halas Lace",
+    "name_zh": "豪拉斯针蕾丝",
+    "description_en": "Halas lace: Kiskunhalas Hungarian Art Nouveau pictorial needle lace with shaded fillings; not Brussels, not Alençon, not Point de Gaze, not Kalocsa embroidery.",
+    "description_zh": "豪拉斯针蕾丝：匈牙利基什孔豪洛什新艺术图画针蕾，明暗填针；非布鲁塞尔，非阿朗松，非Gaze针蕾，非考洛乔彩绣。",
+    "source": "hermes-explore",
+    "image": "styles/2618-halas-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

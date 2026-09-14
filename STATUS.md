@@ -7212,6 +7212,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2613, PNG count 2613. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 515 (exactly 5, h2571–h2575)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh         | image                              |
+|-------|---------------|-----------------|------------------------------------|
+| h2571 | Taka-maki-e   | 高蒔絵          | styles/2614-taka-maki-e.png        |
+| h2572 | Kairagi       | 梅花皮          | styles/2615-kairagi.png            |
+| h2573 | Bizarre Silk  | 奇异纹绸        | styles/2616-bizarre-silk.png       |
+| h2574 | Allucciolato  | 萤火金绒        | styles/2617-allucciolato.png       |
+| h2575 | Halas Lace    | 豪拉斯针蕾丝    | styles/2618-halas-lace.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2618, PNG count 2618. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
