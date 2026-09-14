@@ -33447,5 +33447,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2531",
+    "slug": "laub-und-bandelwerk",
+    "name_en": "Laub-und-Bandelwerk",
+    "name_zh": "叶带纹",
+    "description_en": "Laub-und-Bandelwerk: German late-Baroque ornament of scrolling acanthus laced with ribbon bands; Augsburg copperplate leaf-and-strap interlace.",
+    "description_zh": "叶带纹：德语晚期巴洛克卷叶与缎带交缠的纹饰，奥格斯堡铜版叶带交织。",
+    "source": "hermes-explore",
+    "image": "styles/2574-laub-und-bandelwerk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2532",
+    "slug": "encaustic-tile",
+    "name_en": "Encaustic Tile",
+    "name_zh": "镶色地砖",
+    "description_en": "Encaustic tile: medieval inlaid two-clay tile, red earthenware with white pipe-clay design under worn lead glaze — not wax encaustic.",
+    "description_zh": "镶色地砖：中世纪双色镶泥砖，红陶胎嵌白管土纹，铅釉微磨损，非蜡画。",
+    "source": "hermes-explore",
+    "image": "styles/2575-encaustic-tile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2533",
+    "slug": "sand-grain-aquatint",
+    "name_en": "Sand-grain Aquatint",
+    "name_zh": "砂粒飞尘",
+    "description_en": "Sand-grain aquatint: intaglio bitten through a sandpaper ground; velvety microscopic tooth from plate-black to silver-grey.",
+    "description_zh": "砂粒飞尘：以砂纸地腐蚀的凹版，绒面微齿从板黑到银灰。",
+    "source": "hermes-explore",
+    "image": "styles/2576-sand-grain-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2534",
+    "slug": "stucco-lucido",
+    "name_en": "Stucco Lucido",
+    "name_zh": "光亮灰泥",
+    "description_en": "Stucco lucido: highly polished lime stucco, compressed silky plaster with waxed Marmorino sheen and wet-lime tonal modeling.",
+    "description_zh": "光亮灰泥：高抛光石灰灰泥，压实丝面，蜡光如威尼斯灰泥，湿灰塑形。",
+    "source": "hermes-explore",
+    "image": "styles/2577-stucco-lucido.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2535",
+    "slug": "moresque",
+    "name_en": "Moresque",
+    "name_zh": "摩尔纹饰",
+    "description_en": "Moresque: Renaissance interlaced arabesque of even-thickness vines with no start or end; European Islamic-derived book and metalwork ornament, not pottery lustre.",
+    "description_zh": "摩尔纹饰：文艺复兴等宽藤蔓无起止的交织纹，欧洲伊斯兰源书籍与金属纹样，非陶器虹彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/2578-moresque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

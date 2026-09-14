@@ -7100,6 +7100,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2573, PNG count 2573. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 507 (exactly 5, h2531–h2535)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh     | image                                 |
+|-------|----------------------|-------------|---------------------------------------|
+| h2531 | Laub-und-Bandelwerk  | 叶带纹      | styles/2574-laub-und-bandelwerk.png   |
+| h2532 | Encaustic Tile       | 镶色地砖    | styles/2575-encaustic-tile.png        |
+| h2533 | Sand-grain Aquatint  | 砂粒飞尘    | styles/2576-sand-grain-aquatint.png   |
+| h2534 | Stucco Lucido        | 光亮灰泥    | styles/2577-stucco-lucido.png         |
+| h2535 | Moresque             | 摩尔纹饰    | styles/2578-moresque.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2578, PNG count 2578. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
