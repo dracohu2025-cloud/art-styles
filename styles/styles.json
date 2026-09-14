@@ -33577,5 +33577,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2541",
+    "slug": "seigaiha",
+    "name_en": "Seigaiha",
+    "name_zh": "青海波",
+    "description_en": "Seigaiha: overlapping concentric fish-scale wave arcs in layered indigo, celadon, and ivory—not asanoha stars, not kikko hexagons, not ukiyo-e line.",
+    "description_zh": "青海波：层层叠套的鱼鳞波弧，靛、青瓷与牙白，非麻の葉星纹，非龟甲，非浮世绘线描。",
+    "source": "hermes-explore",
+    "image": "styles/2584-seigaiha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2542",
+    "slug": "asanoha",
+    "name_en": "Asanoha",
+    "name_zh": "麻の葉",
+    "description_en": "Asanoha: a tight hemp-leaf lattice of interlocking six-pointed stars built from equilateral triangles—not seigaiha scales, not sayagata key-fret, not kasuri blur.",
+    "description_zh": "麻の葉：等边三角咬合的六角麻叶格子，非青海波鳞弧，非纱绫形，非絣织虚边。",
+    "source": "hermes-explore",
+    "image": "styles/2585-asanoha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2543",
+    "slug": "peacock-marbling",
+    "name_en": "Peacock Marbling",
+    "name_zh": "孔雀大理石纹",
+    "description_en": "Peacock Marbling: aqueous inks combed on size into repeating peacock-eye loops with dark pupil-spots—not suminagashi swirls, not a painted peacock bird, not oil paint.",
+    "description_zh": "孔雀大理石纹：水面上梳出的孔雀眼环与瞳斑，非墨流简单涡旋，非孔雀写生，非油画。",
+    "source": "hermes-explore",
+    "image": "styles/2586-peacock-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2544",
+    "slug": "kuba-raffia",
+    "name_en": "Kuba Raffia",
+    "name_zh": "库巴拉菲亚",
+    "description_en": "Kuba Raffia: Shoowa cut-pile raffia embroidery of rectilinear diamonds, chevrons, and stepped meanders in wine, black, ivory, and rust—not kente strips, not bogolanfini mud cloth.",
+    "description_zh": "库巴拉菲亚：舒瓦割绒拉菲亚绣，直线菱格、折线与台阶回纹，酒红、黑、牙白与锈色，非肯特条织，非泥布。",
+    "source": "hermes-explore",
+    "image": "styles/2587-kuba-raffia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2545",
+    "slug": "hariko",
+    "name_en": "Hariko",
+    "name_zh": "張り子",
+    "description_en": "Hariko: Japanese papier-mâché of layered washi over a form, gofun gesso, and matte mineral pigments with paper-laminate edges—not ceramic glaze, not urushi lacquer, not wood carving.",
+    "description_zh": "張り子：和纸层叠胎上涂胡粉与矿物颜料，哑光纸塑边缘，非釉陶，非漆，非木雕。",
+    "source": "hermes-explore",
+    "image": "styles/2588-hariko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

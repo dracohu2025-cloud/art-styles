@@ -7128,6 +7128,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2583, PNG count 2583. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 509 (exactly 5, h2541–h2545)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                              |
+|-------|-------------------|-----------------|------------------------------------|
+| h2541 | Seigaiha          | 青海波          | styles/2584-seigaiha.png           |
+| h2542 | Asanoha           | 麻の葉          | styles/2585-asanoha.png            |
+| h2543 | Peacock Marbling  | 孔雀大理石纹    | styles/2586-peacock-marbling.png   |
+| h2544 | Kuba Raffia       | 库巴拉菲亚      | styles/2587-kuba-raffia.png        |
+| h2545 | Hariko            | 張り子          | styles/2588-hariko.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2588, PNG count 2588. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
