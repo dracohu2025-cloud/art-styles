@@ -33512,5 +33512,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2536",
+    "slug": "della-robbia",
+    "name_en": "Della Robbia",
+    "name_zh": "德拉罗比亚陶彩",
+    "description_en": "Della Robbia: tin-glazed terracotta relief with milky-white figures on cobalt grounds, fruit-garland roundels, and kiln-gloss earthenware—not marble or porcelain.",
+    "description_zh": "德拉罗比亚陶彩：锡釉陶浮雕，乳白人物衬钴蓝地，果叶花环圆框与窑光陶胎，非大理石或瓷器。",
+    "source": "hermes-explore",
+    "image": "styles/2579-della-robbia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2537",
+    "slug": "schweifwerk",
+    "name_en": "Schweifwerk",
+    "name_zh": "卷尾纹",
+    "description_en": "Schweifwerk: German late-Renaissance tapering C- and S-scrolls with rolling tail flourishes as the drawing language—not auricular Kwab, Knorpelwerk, or leaf-and-band.",
+    "description_zh": "卷尾纹：德意志晚文艺复兴渐细C/S涡卷与甩尾纹作为造型语言，非耳蜗纹、软骨饰或叶带纹。",
+    "source": "hermes-explore",
+    "image": "styles/2580-schweifwerk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2538",
+    "slug": "en-plein",
+    "name_en": "En Plein",
+    "name_zh": "满填珐琅",
+    "description_en": "En Plein: vitreous enamel flooded over metal in open color fields with no cloison wires or champlevé pits; fused-glass gloss and metal flash at edges.",
+    "description_zh": "满填珐琅：珐琅玻璃满覆金属的开放色域，无掐丝或錾槽，熔玻璃光泽与边缘露金。",
+    "source": "hermes-explore",
+    "image": "styles/2581-en-plein.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2539",
+    "slug": "kasama",
+    "name_en": "Kasama",
+    "name_zh": "笠间烧",
+    "description_en": "Kasama: Ibaraki folk stoneware of iron-rich clay with ash and iron glaze pooling, groggy earthy runs—not white porcelain and not Shino feldspar snow.",
+    "description_zh": "笠间烧：茨城民窑铁质陶胎，灰釉与铁釉积釉、粗颗粒土味流釉，非白瓷亦非志野长石雪釉。",
+    "source": "hermes-explore",
+    "image": "styles/2582-kasama.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2540",
+    "slug": "ulos",
+    "name_en": "Ulos",
+    "name_zh": "乌洛斯织",
+    "description_en": "Ulos: Batak ceremonial weaving of warp-faced lozenges, hooked rhomboids, and zigzag bands in crimson, black, and ivory—not batik wax-resist or songket gold.",
+    "description_zh": "乌洛斯织：巴塔克礼仪织造，经面菱格、钩形菱与折带，绯红、黑与牙白，非蜡染亦非金线宋吉。",
+    "source": "hermes-explore",
+    "image": "styles/2583-ulos.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
