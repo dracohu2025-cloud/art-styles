@@ -32017,5 +32017,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2421",
+    "slug": "cuir-cisele",
+    "name_en": "Cuir Ciselé",
+    "name_zh": "雕皮",
+    "description_en": "Cuir ciselé: modeled and incised leather — knife-cut outlines, low-relief forms, punched dotted grounds, burnished ridges on vegetable-tanned hide.",
+    "description_zh": "雕皮：切割并塑形的皮革，刀刻轮廓、浅浮雕形体、密点底纹与抛光棱线于植鞣革面。",
+    "source": "hermes-explore",
+    "image": "styles/2464-cuir-cisele.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2422",
+    "slug": "mokume-nuri",
+    "name_en": "Mokume-nuri",
+    "name_zh": "木目涂",
+    "description_en": "Mokume-nuri: wood-grain lacquer — stacked urushi coats sanded through into swirling mokume bands of black, cinnabar, olive, and gold.",
+    "description_zh": "木目涂：层叠漆膜打磨显纹，黑、朱红、橄榄与金粉如木纹般旋开。",
+    "source": "hermes-explore",
+    "image": "styles/2465-mokume-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2423",
+    "slug": "drawn-thread",
+    "name_en": "Drawn Thread",
+    "name_zh": "抽纱",
+    "description_en": "Drawn thread: whitework openwork — warp and weft withdrawn, remaining threads bound into ladders, hemstitch bars, and geometric lattice on ivory linen.",
+    "description_zh": "抽纱：白工抽丝绣，经纬抽出后余线编成梯格、卷边针与几何透空于象牙色亚麻。",
+    "source": "hermes-explore",
+    "image": "styles/2466-drawn-thread.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2424",
+    "slug": "tree-calf",
+    "name_en": "Tree Calf",
+    "name_zh": "树纹犊皮",
+    "description_en": "Tree calf: acid-stained bookbinding leather — ferric-and-potash dendritic tree-marble in chocolate veins on honey-tan polished calfskin.",
+    "description_zh": "树纹犊皮：装帧酸染犊皮，铁盐与钾碱析出巧克力枝状树纹于蜜茶色抛光革面。",
+    "source": "hermes-explore",
+    "image": "styles/2467-tree-calf.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2425",
+    "slug": "vitreous-enamel",
+    "name_en": "Vitreous Enamel",
+    "name_zh": "玻化珐琅",
+    "description_en": "Vitreous enamel: powdered glass fused to metal — fire-polished transparent and opaque pools, flux edges, gold-foil underlay, no cloisonné wires.",
+    "description_zh": "玻化珐琅：玻璃粉熔着于金属，火抛光的透明与不透明色潭、熔剂边与金箔垫层，无掐丝。",
+    "source": "hermes-explore",
+    "image": "styles/2468-vitreous-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

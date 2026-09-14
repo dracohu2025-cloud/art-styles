@@ -6792,6 +6792,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2463, PNG count 2463. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 485 (exactly 5, h2421–h2425)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                              |
+|-------|------------------|-------------|-------------------------------|
+| h2421 | Cuir Ciselé      | 雕皮        | styles/2464-cuir-cisele.png        |
+| h2422 | Mokume-nuri      | 木目涂      | styles/2465-mokume-nuri.png        |
+| h2423 | Drawn Thread     | 抽纱        | styles/2466-drawn-thread.png       |
+| h2424 | Tree Calf        | 树纹犊皮    | styles/2467-tree-calf.png          |
+| h2425 | Vitreous Enamel  | 玻化珐琅    | styles/2468-vitreous-enamel.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2468, PNG count 2468. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
