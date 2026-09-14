@@ -32472,5 +32472,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2456",
+    "slug": "karakami",
+    "name_en": "Karakami",
+    "name_zh": "唐纸",
+    "description_en": "Karakami: Japanese woodblock-printed decorative paper — repeating karakusa, clouds, and lattices, muted indigo and mica on washi, baren-burnished pigment.",
+    "description_zh": "唐纸：日本木版印花装饰纸，缠枝云纹与几何重复，靛蓝云母着于和纸，马楝压印。",
+    "source": "hermes-explore",
+    "image": "styles/2499-karakami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2457",
+    "slug": "ayrshire-whitework",
+    "name_en": "Ayrshire Whitework",
+    "name_zh": "艾尔郡白绣",
+    "description_en": "Ayrshire Whitework: white-on-white padded floral embroidery on muslin — raised satin petals, needle-lace fillings, eyelets, ivory thread only.",
+    "description_zh": "艾尔郡白绣：细棉布白上白凸绣，缎针花瓣、针绣填充、扣眼孔，仅象牙色线。",
+    "source": "hermes-explore",
+    "image": "styles/2500-ayrshire-whitework.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2458",
+    "slug": "faenza-bianchi",
+    "name_en": "Faenza Bianchi",
+    "name_zh": "法恩扎白地",
+    "description_en": "Faenza Bianchi: 16th-century white tin-glaze maiolica — milky opaque ground, sparse cobalt drawing, tiny yellow-orange notes, pitted glaze sheen.",
+    "description_zh": "法恩扎白地：十六世纪锡釉白陶，乳浊白地、疏朗钴蓝线描、淡黄橙点、釉面针孔光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2501-faenza-bianchi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2459",
+    "slug": "chosen-karatsu",
+    "name_en": "Chosen-Karatsu",
+    "name_zh": "朝鲜唐津",
+    "description_en": "Chosen-Karatsu: Korean-influenced Karatsu stoneware — poured white slip against iron-dark ash glaze, kiln flash, crawling slip, feldspar specks.",
+    "description_zh": "朝鲜唐津：朝鲜影响的唐津炻器，白化妆土对铁黑灰釉、窑变火痕、缩釉与长石斑。",
+    "source": "hermes-explore",
+    "image": "styles/2502-chosen-karatsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2460",
+    "slug": "point-d-argentan",
+    "name_en": "Point d'Argentan",
+    "name_zh": "阿让唐针绣",
+    "description_en": "Point d'Argentan: Norman needle lace — hexagonal bride réseau, raised cordonnet, dense floral fillings, sculptural picots in ivory linen.",
+    "description_zh": "阿让唐针绣：诺曼底针绣花边，六角网地、凸起轮廓线、密实花卉填充、浮雕小环。",
+    "source": "hermes-explore",
+    "image": "styles/2503-point-d-argentan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

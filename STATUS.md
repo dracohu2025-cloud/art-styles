@@ -6890,6 +6890,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2498, PNG count 2498. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 492 (exactly 5, h2456–h2460)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh        | image                                  |
+|-------|---------------------|----------------|----------------------------------------|
+| h2456 | Karakami            | 唐纸           | styles/2499-karakami.png               |
+| h2457 | Ayrshire Whitework  | 艾尔郡白绣     | styles/2500-ayrshire-whitework.png     |
+| h2458 | Faenza Bianchi      | 法恩扎白地     | styles/2501-faenza-bianchi.png         |
+| h2459 | Chosen-Karatsu      | 朝鲜唐津       | styles/2502-chosen-karatsu.png         |
+| h2460 | Point d'Argentan    | 阿让唐针绣     | styles/2503-point-d-argentan.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2503, PNG count 2503. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
