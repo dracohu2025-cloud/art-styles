@@ -32927,5 +32927,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2491",
+    "slug": "kiribame-zogan",
+    "name_en": "Kiribame-zōgan",
+    "name_zh": "切嵌",
+    "description_en": "Kiribame-zōgan: Japanese cut-inlay metalwork, openings sawn in a copper ground and flush-set with gold, silver, and shibuichi.",
+    "description_zh": "切嵌：铜地开孔后平嵌金银与四分一，缝口齐平、锤光混金。",
+    "source": "hermes-explore",
+    "image": "styles/2534-kiribame-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2492",
+    "slug": "sozni",
+    "name_en": "Sozni",
+    "name_zh": "索兹尼绣",
+    "description_en": "Sozni: Kashmiri sozankari needlework, dense counted silk stitches, boteh and trellis fills on pashmina.",
+    "description_zh": "索兹尼绣：克什米尔细密计针丝绣，佩斯利与格网填满羊绒底。",
+    "source": "hermes-explore",
+    "image": "styles/2535-sozni.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2493",
+    "slug": "wet-felting",
+    "name_en": "Wet Felting",
+    "name_zh": "湿毡",
+    "description_en": "Wet felting: layered merino and silk fibers rolled with soap and water into a fulled, blended wool surface.",
+    "description_zh": "湿毡：美利奴与丝纤维加湿搓压，毡化融合、边缘留有未毡绒丝。",
+    "source": "hermes-explore",
+    "image": "styles/2536-wet-felting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2494",
+    "slug": "ori-nui",
+    "name_en": "Ori-nui",
+    "name_zh": "折缝绞",
+    "description_en": "Ori-nui: fold-and-stitch shibori, running stitches on folded cloth that open into pale resist ridges on indigo.",
+    "description_zh": "折缝绞：折布跑针扎染，拆线后靛蓝上留浅色棱脊与缝迹。",
+    "source": "hermes-explore",
+    "image": "styles/2537-ori-nui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2495",
+    "slug": "axminster",
+    "name_en": "Axminster",
+    "name_zh": "阿克斯明斯特",
+    "description_en": "Axminster: cut-pile wool carpet weave with pictorial cartoon, dense tufts, and a floral-border cartouche.",
+    "description_zh": "阿克斯明斯特：割绒羊毛地毯织，图画纹样、密簇绒头与花卉边框。",
+    "source": "hermes-explore",
+    "image": "styles/2538-axminster.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

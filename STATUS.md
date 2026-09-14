@@ -6988,6 +6988,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2533, PNG count 2533. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 499 (exactly 5, h2491–h2495)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh        | image                             |
+|-------|-----------------|----------------|-----------------------------------|
+| h2491 | Kiribame-zōgan  | 切嵌           | styles/2534-kiribame-zogan.png    |
+| h2492 | Sozni           | 索兹尼绣       | styles/2535-sozni.png             |
+| h2493 | Wet Felting     | 湿毡           | styles/2536-wet-felting.png       |
+| h2494 | Ori-nui         | 折缝绞         | styles/2537-ori-nui.png           |
+| h2495 | Axminster       | 阿克斯明斯特   | styles/2538-axminster.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2538, PNG count 2538. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
