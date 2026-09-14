@@ -32277,5 +32277,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2441",
+    "slug": "vetro-ghiaccio",
+    "name_en": "Vetro Ghiaccio",
+    "name_zh": "冰裂纹玻璃",
+    "description_en": "Vetro ghiaccio: Murano ice-glass — hammer-struck fractured skin, trapped seed bubbles, milky-clear shards, cold refractive rims.",
+    "description_zh": "冰裂纹玻璃：穆拉诺冰裂纹玻璃，锤击碎裂表层、气泡籽、乳白透明碎片与冷折光边。",
+    "source": "hermes-explore",
+    "image": "styles/2484-vetro-ghiaccio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2442",
+    "slug": "point-d-alencon",
+    "name_en": "Point d'Alençon",
+    "name_zh": "阿朗松针绣",
+    "description_en": "Point d'Alençon: needle lace with hexagonal réseau, raised cordonnet outlines, point d'esprit fillings, handmade tension on dark ground.",
+    "description_zh": "阿朗松针绣：六角网地针绣、凸起锁边轮廓、点纹填地与深底上手作张力。",
+    "source": "hermes-explore",
+    "image": "styles/2485-point-d-alencon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2443",
+    "slug": "gehua",
+    "name_en": "Gehua",
+    "name_zh": "割花",
+    "description_en": "Gehua: cut-through white slip on dark stoneware — knife-beveled body lines, chatter marks, Cizhou-related ceramic panel.",
+    "description_zh": "割花：白化妆土上割露深色胎土，刀斜线、跳刀痕，磁州系陶瓷装饰。",
+    "source": "hermes-explore",
+    "image": "styles/2486-gehua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2444",
+    "slug": "stain-painting",
+    "name_en": "Stain Painting",
+    "name_zh": "染色画法",
+    "description_en": "Stain painting: thinned pigment soaked into raw canvas — haloed blooms, visible weave, translucent color veils without impasto.",
+    "description_zh": "染色画法：稀释颜料渗入生画布，晕边色斑、布纹可见、无厚涂的透明色幕。",
+    "source": "hermes-explore",
+    "image": "styles/2487-stain-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2445",
+    "slug": "synchronism",
+    "name_en": "Synchronism",
+    "name_zh": "同步主义",
+    "description_en": "Synchronism: spectral color-form volumes — rhythmic orbs of prismatic sequence, local color abandoned for color-as-structure.",
+    "description_zh": "同步主义：光谱色块造型，棱镜序列的节奏色团，以色彩结构取代固有色。",
+    "source": "hermes-explore",
+    "image": "styles/2488-synchronism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

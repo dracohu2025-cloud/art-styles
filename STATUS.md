@@ -6848,6 +6848,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2483, PNG count 2483. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 489 (exactly 5, h2441–h2445)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                             |
+|-------|-----------------|-------------|-----------------------------------|
+| h2441 | Vetro Ghiaccio  | 冰裂纹玻璃  | styles/2484-vetro-ghiaccio.png    |
+| h2442 | Point d'Alençon | 阿朗松针绣  | styles/2485-point-d-alencon.png   |
+| h2443 | Gehua           | 割花        | styles/2486-gehua.png             |
+| h2444 | Stain Painting  | 染色画法    | styles/2487-stain-painting.png    |
+| h2445 | Synchronism     | 同步主义    | styles/2488-synchronism.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2488, PNG count 2488. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
