@@ -33122,5 +33122,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2506",
+    "slug": "hakata-ori",
+    "name_en": "Hakata-ori",
+    "name_zh": "博多织",
+    "description_en": "Hakata-ori: Fukuoka silk with dense raised weft ribs, kenja stripe geometry, and stiff gold-indigo-vermilion borders.",
+    "description_zh": "博多织：福冈厚纬起棱丝绸，献上条纹几何，金藏青朱红硬边。",
+    "source": "hermes-explore",
+    "image": "styles/2549-hakata-ori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2507",
+    "slug": "kurume-gasuri",
+    "name_en": "Kurume-gasuri",
+    "name_zh": "久留米絣",
+    "description_en": "Kurume-gasuri: indigo cotton ikat, white splash-kasuri dashes, fuzzy bound-yarn edges, rustic handwoven tooth.",
+    "description_zh": "久留米絣：蓝棉絣织，白飞白十字与短划，扎经毛边，手织棉牙。",
+    "source": "hermes-explore",
+    "image": "styles/2550-kurume-gasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2508",
+    "slug": "takatori",
+    "name_en": "Takatori",
+    "name_zh": "高取烧",
+    "description_en": "Takatori: Chikuzen tea stoneware, thin walls, wood-ash glaze runs in straw-olive and persimmon, kiln-flash mottling.",
+    "description_zh": "高取烧：筑前茶陶，薄胎，灰釉流淌呈稻橄榄与柿色，窑变斑驳。",
+    "source": "hermes-explore",
+    "image": "styles/2551-takatori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2509",
+    "slug": "yamanaka-nuri",
+    "name_en": "Yamanaka-nuri",
+    "name_zh": "山中涂",
+    "description_en": "Yamanaka-nuri: Ishikawa turned-wood lacquer, rokuro concentric rings, cinnabar and roiro urushi over visible grain.",
+    "description_zh": "山中涂：石川旋木漆器，辘轳同心纹，朱红与吕色漆透出木纹。",
+    "source": "hermes-explore",
+    "image": "styles/2552-yamanaka-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2510",
+    "slug": "rinzu",
+    "name_en": "Rinzu",
+    "name_zh": "纶子",
+    "description_en": "Rinzu: Japanese figured satin damask, tone-on-tone warp sheen versus matte woven florals, no printed pattern.",
+    "description_zh": "纶子：日本提花缎，同色经缎光泽对哑光织花，非印花。",
+    "source": "hermes-explore",
+    "image": "styles/2553-rinzu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
