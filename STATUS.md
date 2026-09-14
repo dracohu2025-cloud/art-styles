@@ -6834,6 +6834,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2478, PNG count 2478. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 488 (exactly 5, h2436–h2440)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh       | image                           |
+|-------|-------------|---------------|---------------------------------|
+| h2436 | Stacco      | 揭取湿壁画    | styles/2479-stacco.png          |
+| h2437 | Betazuri    | 平涂摺        | styles/2480-betazuri.png        |
+| h2438 | Tin Leaf    | 锡箔贴饰      | styles/2481-tin-leaf.png        |
+| h2439 | Woad Vat    | 菘蓝还原染    | styles/2482-woad-vat.png        |
+| h2440 | Basse-lisse | 低经挂毯      | styles/2483-basse-lisse.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2483, PNG count 2483. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

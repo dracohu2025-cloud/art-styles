@@ -32212,5 +32212,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2436",
+    "slug": "stacco",
+    "name_en": "Stacco",
+    "name_zh": "揭取湿壁画",
+    "description_en": "Stacco: fresco detached with its plaster skin — mineral pigment on lime-sand arriccio, giornata cracks, torn intonaco margins, conservation-linen ghost.",
+    "description_zh": "揭取湿壁画：连灰泥一并揭下的湿壁画，矿物颜料着于石灰砂底层，日作裂纹、断面边缘与托裱麻布隐纹。",
+    "source": "hermes-explore",
+    "image": "styles/2479-stacco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2437",
+    "slug": "betazuri",
+    "name_en": "Betazuri",
+    "name_zh": "平涂摺",
+    "description_en": "Betazuri: ukiyo-e solid-color printing — ungraduated mineral ink fields, sharp key-block outlines, no bokashi, even baren pressure on washi.",
+    "description_zh": "平涂摺：浮世绘无渐层色块套印，矿物颜料平涂、主版线清晰、无ぼかし，马楝压力均匀着于和纸。",
+    "source": "hermes-explore",
+    "image": "styles/2480-betazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2438",
+    "slug": "tin-leaf",
+    "name_en": "Tin Leaf",
+    "name_zh": "锡箔贴饰",
+    "description_en": "Tin leaf: silvering substitute in overlapping foil squares — burnished mirrors beside matte leaf, sulphur tarnish, punchwork, red bole in the gaps.",
+    "description_zh": "锡箔贴饰：以锡箔代银的贴饰，叠合箔片、抛光与哑光对照、硫化斑驳、錾点与缝隙中的红胶泥。",
+    "source": "hermes-explore",
+    "image": "styles/2481-tin-leaf.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2439",
+    "slug": "woad-vat",
+    "name_en": "Woad Vat",
+    "name_zh": "菘蓝还原染",
+    "description_en": "Woad vat: Isatis tinctoria fermentation dyeing — dusty greenish medieval blue, oxidation fronts, dip-lines, mottled reduction bloom on linen tooth.",
+    "description_zh": "菘蓝还原染：菘蓝发酵还原染，中世纪带绿灰蓝、氧化锋面、浸渍水线与亚麻布齿上的云斑。",
+    "source": "hermes-explore",
+    "image": "styles/2482-woad-vat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2440",
+    "slug": "basse-lisse",
+    "name_en": "Basse-lisse",
+    "name_zh": "低经挂毯",
+    "description_en": "Basse-lisse: low-warp weft-faced tapestry — visible wool ribs, vertical slit joins, hachure blends, cartoon-followed contours, Gobelins loom surface.",
+    "description_zh": "低经挂毯：低经纬面织毯，羊毛纬棱可见、纵向开缝、影线过渡、按画稿走形的戈布兰织面。",
+    "source": "hermes-explore",
+    "image": "styles/2483-basse-lisse.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
