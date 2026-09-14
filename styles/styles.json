@@ -33642,5 +33642,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2546",
+    "slug": "sayagata",
+    "name_en": "Sayagata",
+    "name_zh": "纱绫形",
+    "description_en": "Sayagata: Japanese interlocking key-fret textile lattice of hooked diagonal keys in continuous silk-weave repeat—not seigaiha waves, not asanoha hemp leaves, not checkerboard.",
+    "description_zh": "纱绫形：互锁钩钥回纹连续织就的几何底，非青海波，非麻の葉，非市松方格。",
+    "source": "hermes-explore",
+    "image": "styles/2589-sayagata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2547",
+    "slug": "ichimatsu",
+    "name_en": "Ichimatsu",
+    "name_zh": "市松",
+    "description_en": "Ichimatsu: Edo two-color checker of equal squares tiling cloth and architecture—not argyle diamonds, not harlequin lozenges, not gingham.",
+    "description_zh": "市松：等大正方形两色棋盘连续铺陈，非菱形阿盖尔，非丑角斜格，非细方格。",
+    "source": "hermes-explore",
+    "image": "styles/2590-ichimatsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2548",
+    "slug": "schrotblatt",
+    "name_en": "Schrotblatt",
+    "name_zh": "点刻金属版",
+    "description_en": "Schrotblatt: 15th-century German dotted-manner metalcut, white punched dots sparkling in a black plate field—not mezzotint rocker burr, not woodcut gouges, not niello inlay.",
+    "description_zh": "点刻金属版：十五世纪德语圈点刻金属切，白点打入黑底，非美柔汀摇刀，非木刻刀痕，非黑金镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/2591-schrotblatt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2549",
+    "slug": "rinceau",
+    "name_en": "Rinceau",
+    "name_zh": "卷草纹",
+    "description_en": "Rinceau: classical scrolling acanthus vine in rhythmic S-curves with palmettes and tendrils—not Islamic arabesque, not Japanese karakusa, not rococo shellwork.",
+    "description_zh": "卷草纹：古典莨苕藤蔓呈S形卷曲配棕叶饰，非摩尔几何缠枝，非唐草，非洛可可贝壳。",
+    "source": "hermes-explore",
+    "image": "styles/2592-rinceau.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2550",
+    "slug": "regence",
+    "name_en": "Régence",
+    "name_zh": "摄政纹样",
+    "description_en": "Régence: French decorative style c.1715–1723 of airy palmette lattices, light bandwork, and pale-gold boiserie—not heavy Louis-XIV ormolu, not full rococo rocaille, not Neoclassical fluting.",
+    "description_zh": "摄政纹样：路易十四之后轻盈棕叶格子与淡金镶板，非巴洛克重金，非洛可可贝壳，非新古典凹槽。",
+    "source": "hermes-explore",
+    "image": "styles/2593-regence.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

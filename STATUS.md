@@ -7142,6 +7142,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2588, PNG count 2588. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 510 (exactly 5, h2546–h2550)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                           |
+|-------|--------------|-------------|---------------------------------|
+| h2546 | Sayagata     | 纱绫形      | styles/2589-sayagata.png        |
+| h2547 | Ichimatsu    | 市松        | styles/2590-ichimatsu.png       |
+| h2548 | Schrotblatt  | 点刻金属版  | styles/2591-schrotblatt.png     |
+| h2549 | Rinceau      | 卷草纹      | styles/2592-rinceau.png         |
+| h2550 | Régence      | 摄政纹样    | styles/2593-regence.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2593, PNG count 2593. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
