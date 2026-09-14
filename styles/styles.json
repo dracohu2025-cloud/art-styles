@@ -33382,5 +33382,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2526",
+    "slug": "staubdruck",
+    "name_en": "Staubdruck",
+    "name_zh": "撒粉印",
+    "description_en": "Staubdruck: pigment powder dusted through stencils onto adhesive ground; velvety particulate color and soft dusty edges.",
+    "description_zh": "撒粉印：颜料粉经镂版撒落于粘性地，绒面颗粒色层与柔粉边缘。",
+    "source": "hermes-explore",
+    "image": "styles/2569-staubdruck.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2527",
+    "slug": "biscuit-porcelain",
+    "name_en": "Biscuit Porcelain",
+    "name_zh": "素瓷",
+    "description_en": "Biscuit porcelain: unglazed matte white hard-paste, chalky dry body modeled like a bisque statuette.",
+    "description_zh": "素瓷：无釉哑光白瓷，粉质干面如素烧瓷塑。",
+    "source": "hermes-explore",
+    "image": "styles/2570-biscuit-porcelain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2528",
+    "slug": "jackfield",
+    "name_en": "Jackfield",
+    "name_zh": "杰克菲尔德黑釉",
+    "description_en": "Jackfield: jet-black high-gloss lead glaze on earthenware, oily sheen with gilt linear highlights.",
+    "description_zh": "杰克菲尔德黑釉：陶器上的亮黑铅釉，油光镜面配描金细线。",
+    "source": "hermes-explore",
+    "image": "styles/2571-jackfield.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2529",
+    "slug": "egyptiennerie",
+    "name_en": "Egyptiennerie",
+    "name_zh": "埃及风",
+    "description_en": "Egyptiennerie: European Egyptian Revival ornament—lotus, palmette, winged disk—as decorative counterpart to chinoiserie.",
+    "description_zh": "埃及风：欧洲埃及复兴装饰，莲纹、掌叶与翼日盘，对位于中国风。",
+    "source": "hermes-explore",
+    "image": "styles/2572-egyptiennerie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2530",
+    "slug": "heatage",
+    "name_en": "Heatage",
+    "name_zh": "热灼绘",
+    "description_en": "Heatage: paint blistered, wrinkled, and flowed by applied heat; scorched blooms and melted ridges.",
+    "description_zh": "热灼绘：以热力使颜料起泡皱流，焦斑与熔脊。",
+    "source": "hermes-explore",
+    "image": "styles/2573-heatage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

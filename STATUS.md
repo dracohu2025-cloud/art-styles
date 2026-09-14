@@ -7086,6 +7086,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2568, PNG count 2568. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 506 (exactly 5, h2526–h2530)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh            | image                                  |
+|-------|-------------------|--------------------|----------------------------------------|
+| h2526 | Staubdruck        | 撒粉印             | styles/2569-staubdruck.png             |
+| h2527 | Biscuit Porcelain | 素瓷               | styles/2570-biscuit-porcelain.png      |
+| h2528 | Jackfield         | 杰克菲尔德黑釉     | styles/2571-jackfield.png              |
+| h2529 | Egyptiennerie     | 埃及风             | styles/2572-egyptiennerie.png          |
+| h2530 | Heatage           | 热灼绘             | styles/2573-heatage.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2573, PNG count 2573. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
