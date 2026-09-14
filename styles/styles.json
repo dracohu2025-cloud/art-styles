@@ -31887,5 +31887,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2411",
+    "slug": "soda-firing",
+    "name_en": "Soda Firing",
+    "name_zh": "苏打烧",
+    "description_en": "Soda firing: atmospheric ceramic glaze from sodium vapor — orange-peel texture, flashing, and salt-kissed rims.",
+    "description_zh": "苏打烧：钠汽氛围釉，橘皮肌理、火痕闪烧与盐吻边沿。",
+    "source": "hermes-explore",
+    "image": "styles/2454-soda-firing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2412",
+    "slug": "mica-flake",
+    "name_en": "Mica Flake",
+    "name_zh": "云母片绘",
+    "description_en": "Mica flake: mineral pigment loaded with crushed mica platelets, pearlescent sparkle in opaque color fields.",
+    "description_zh": "云母片绘：岩彩中嵌碎云母片，不透明色块里带珠光闪烁。",
+    "source": "hermes-explore",
+    "image": "styles/2455-mica-flake.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2413",
+    "slug": "sugito-e",
+    "name_en": "Sugito-e",
+    "name_zh": "杉户绘",
+    "description_en": "Sugito-e: painting on cedar sliding-door panels, woodgrain and knots showing through thin mineral pigment.",
+    "description_zh": "杉户绘：画在杉木障子上，薄岩彩下仍见木纹与节疤。",
+    "source": "hermes-explore",
+    "image": "styles/2456-sugito-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2414",
+    "slug": "roulette-stipple",
+    "name_en": "Roulette Stipple",
+    "name_zh": "滚轮点刻",
+    "description_en": "Roulette stipple: intaglio tone built from roulette-wheel dotted tracks, velvety darks without contour outlines.",
+    "description_zh": "滚轮点刻：以滚轮密点铺铜版调子，无轮廓线的丝绒暗部。",
+    "source": "hermes-explore",
+    "image": "styles/2457-roulette-stipple.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2415",
+    "slug": "grassello",
+    "name_en": "Grassello",
+    "name_zh": "草塞洛灰泥",
+    "description_en": "Grassello: polished aged lime putty plaster — silky burnish, trowel clouds, marble-soft sheen without fake veins.",
+    "description_zh": "草塞洛灰泥：陈化石灰膏抛光，抹刀云纹与大理石般柔光，无假石纹。",
+    "source": "hermes-explore",
+    "image": "styles/2458-grassello.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

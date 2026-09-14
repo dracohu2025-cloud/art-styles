@@ -6764,6 +6764,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2453, PNG count 2453. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 483 (exactly 5, h2411–h2415)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|-------------------------------|
+| h2411 | Soda Firing      | 苏打烧      | styles/2454-soda-firing.png         |
+| h2412 | Mica Flake       | 云母片绘    | styles/2455-mica-flake.png          |
+| h2413 | Sugito-e         | 杉户绘      | styles/2456-sugito-e.png            |
+| h2414 | Roulette Stipple | 滚轮点刻    | styles/2457-roulette-stipple.png    |
+| h2415 | Grassello        | 草塞洛灰泥  | styles/2458-grassello.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2458, PNG count 2458. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
