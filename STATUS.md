@@ -6932,6 +6932,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2513, PNG count 2513. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 495 (exactly 5, h2471–h2475)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                          |
+|-------|--------------|------------|--------------------------------|
+| h2471 | Fuki-bokashi | 吹ぼかし   | styles/2514-fuki-bokashi.png   |
+| h2472 | Itame-moku   | 板目木     | styles/2515-itame-moku.png     |
+| h2473 | Urushi-hanga | 漆版画     | styles/2516-urushi-hanga.png   |
+| h2474 | Kōmō-e       | 红毛绘     | styles/2517-komo-e.png         |
+| h2475 | Circulism    | 圈线素描   | styles/2518-circulism.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2518. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

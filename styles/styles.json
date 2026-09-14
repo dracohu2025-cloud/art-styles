@@ -32667,5 +32667,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2471",
+    "slug": "fuki-bokashi",
+    "name_en": "Fuki-bokashi",
+    "name_zh": "吹ぼかし",
+    "description_en": "Fuki-bokashi: ukiyo-e blown bokashi — pigment flicked through a tube onto damp washi so color blooms in cloud-like gradations without a carved edge.",
+    "description_zh": "吹ぼかし：浮世绘吹晕技法，颜料经小管吹拂到湿和纸上，形成无刻边的云状晕色。",
+    "source": "hermes-explore",
+    "image": "styles/2514-fuki-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2472",
+    "slug": "itame-moku",
+    "name_en": "Itame-moku",
+    "name_zh": "板目木",
+    "description_en": "Itame-moku: mokuhanga that inks the cherry block's flat-sawn woodgrain itself — growth rings and pore marks print as the image surface.",
+    "description_zh": "板目木：木版画以樱木板目木纹直接上墨，年轮与导管孔成为画面肌理。",
+    "source": "hermes-explore",
+    "image": "styles/2515-itame-moku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2473",
+    "slug": "urushi-hanga",
+    "name_en": "Urushi-hanga",
+    "name_zh": "漆版画",
+    "description_en": "Urushi-hanga: Japanese lacquer print — glossy urushi over woodblock key lines, wet-look black and vermilion against matte washi, gold maki-e dust.",
+    "description_zh": "漆版画：漆覆木版主线，高光黑与朱红对照哑光和纸，并洒莳绘金粉。",
+    "source": "hermes-explore",
+    "image": "styles/2516-urushi-hanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2474",
+    "slug": "komo-e",
+    "name_en": "Kōmō-e",
+    "name_zh": "红毛绘",
+    "description_en": "Kōmō-e: Edo 'red-hair pictures' in the Dutch manner — copperplate-like hatching, Western chiaroscuro and perspective filtered through Japanese draftsmanship.",
+    "description_zh": "红毛绘：江户洋风画，铜版式排线与西洋明暗透视，经日本笔法转写。",
+    "source": "hermes-explore",
+    "image": "styles/2517-komo-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2475",
+    "slug": "circulism",
+    "name_en": "Circulism",
+    "name_zh": "圈线素描",
+    "description_en": "Circulism: graphite drawing built only from overlapping tiny circles; tone from circle density, no long hatch or smudge blending.",
+    "description_zh": "圈线素描：以重叠小圆构成形体，明暗靠圆圈密度，不用长排线或涂抹。",
+    "source": "hermes-explore",
+    "image": "styles/2518-circulism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
