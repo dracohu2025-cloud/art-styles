@@ -31822,5 +31822,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2406",
+    "slug": "rubylith",
+    "name_en": "Rubylith",
+    "name_zh": "红膜镂刻",
+    "description_en": "Rubylith: knife-cut ruby masking film, translucent acetate windows, photomechanical paste-up.",
+    "description_zh": "红膜镂刻：刀刻宝石红遮罩胶片、半透明开窗、照相制版拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/2449-rubylith.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2407",
+    "slug": "frisket",
+    "name_en": "Frisket",
+    "name_zh": "遮罩胶膜",
+    "description_en": "Frisket: reserved-edge masking fluid and film, hard stops, peeled latex, watercolor/airbrush reserves.",
+    "description_zh": "遮罩胶膜：留白遮罩液与胶膜、硬边截止、撕揭乳胶、水彩喷笔留白。",
+    "source": "hermes-explore",
+    "image": "styles/2450-frisket.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2408",
+    "slug": "omocha-e",
+    "name_en": "Omocha-e",
+    "name_zh": "玩具绘",
+    "description_en": "Omocha-e: Edo toy-print ukiyo-e, thick outlines, cheap bright aniline fills, coarse baren, playful popular block.",
+    "description_zh": "玩具绘：江户玩具版浮世绘、粗线、廉价苯胺色、马楝粗纹、通俗版画。",
+    "source": "hermes-explore",
+    "image": "styles/2451-omocha-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2409",
+    "slug": "kingindei",
+    "name_en": "Kingindei",
+    "name_zh": "金银泥",
+    "description_en": "Kingindei: gold and silver mud pigments in glue on dark ground, brushed metallic powder, not leaf.",
+    "description_zh": "金银泥：金泥银泥胶结于暗地、粉状金属笔触，非箔贴。",
+    "source": "hermes-explore",
+    "image": "styles/2452-kingindei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2410",
+    "slug": "katamigawari",
+    "name_en": "Katamigawari",
+    "name_zh": "片身变",
+    "description_en": "Katamigawari: ceramic half-and-half decorating, two glaze vocabularies meeting on one form.",
+    "description_zh": "片身变：陶瓷对半装饰，两种釉面语汇在同一器上相接。",
+    "source": "hermes-explore",
+    "image": "styles/2453-katamigawari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

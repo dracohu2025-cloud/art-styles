@@ -6750,6 +6750,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2448, PNG count 2448. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 482 (exactly 5, h2406–h2410)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                            |
+|-------|---------------|------------|----------------------------------|
+| h2406 | Rubylith      | 红膜镂刻   | styles/2449-rubylith.png         |
+| h2407 | Frisket       | 遮罩胶膜   | styles/2450-frisket.png          |
+| h2408 | Omocha-e      | 玩具绘     | styles/2451-omocha-e.png         |
+| h2409 | Kingindei     | 金银泥     | styles/2452-kingindei.png        |
+| h2410 | Katamigawari  | 片身变     | styles/2453-katamigawari.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2453, PNG count 2453. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
