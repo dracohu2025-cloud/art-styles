@@ -6708,6 +6708,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2433, PNG count 2433. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 479 (exactly 5, h2391–h2395)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                               |
+|-------|-------------------|-------------|-------------------------------------|
+| h2391 | Urazaishiki       | 裏彩色      | styles/2434-urazaishiki.png         |
+| h2392 | Heaped and Piled  | 堆垛青      | styles/2435-heaped-and-piled.png    |
+| h2393 | Kana-e            | 假名绘      | styles/2436-kana-e.png              |
+| h2394 | Hojalata          | 洋铁绘      | styles/2437-hojalata.png            |
+| h2395 | Kenzan            | 乾山        | styles/2438-kenzan.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2438, PNG count 2438. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

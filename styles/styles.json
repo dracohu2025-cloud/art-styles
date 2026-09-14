@@ -31627,5 +31627,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2391",
+    "slug": "urazaishiki",
+    "name_en": "Urazaishiki",
+    "name_zh": "裏彩色",
+    "description_en": "Urazaishiki: reverse-side silk coloring, pigments blooming through the weave as inner glow, mineral stain, no hard poster edges.",
+    "description_zh": "裏彩色：从绢背敷色、颜料透过经纬内发光、矿物渍染、无硬边海报感。",
+    "source": "hermes-explore",
+    "image": "styles/2434-urazaishiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2392",
+    "slug": "heaped-and-piled",
+    "name_en": "Heaped and Piled",
+    "name_zh": "堆垛青",
+    "description_en": "Heaped and Piled: Xuande-type underglaze cobalt, thick oxide heaps washing into watery blue, iron flecks, orange-peel glaze.",
+    "description_zh": "堆垛青：宣德式釉下钴料、厚堆青料化开成水蓝、铁锈斑与橘皮釉。",
+    "source": "hermes-explore",
+    "image": "styles/2435-heaped-and-piled.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2393",
+    "slug": "kana-e",
+    "name_en": "Kana-e",
+    "name_zh": "假名绘",
+    "description_en": "Kana-e: early 17th-c. proto-ukiyo-e, flowing kana as ground texture, thin sumi, pale mineral wash, not later nishiki-e.",
+    "description_zh": "假名绘：十七世纪初浮世绘前身、假名书作地纹、淡墨细线与浅矿物色，非后期锦绘。",
+    "source": "hermes-explore",
+    "image": "styles/2436-kana-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2394",
+    "slug": "hojalata",
+    "name_en": "Hojalata",
+    "name_zh": "洋铁绘",
+    "description_en": "Hojalata: Mexican painted tin, glossy enamel on tinplate, punched-tin halos, soldered sheen, folk retablo saturation.",
+    "description_zh": "洋铁绘：墨西哥马口铁彩绘、亮釉珐琅、冲孔光晕、焊边反光与民俗祭坛饱和色。",
+    "source": "hermes-explore",
+    "image": "styles/2437-hojalata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2395",
+    "slug": "kenzan",
+    "name_en": "Kenzan",
+    "name_zh": "乾山",
+    "description_en": "Kenzan: Ogata Kenzan ceramic painting, Rimpa-spare iron-brown and copper-green on creamy crackle glaze, witty empty space.",
+    "description_zh": "乾山：尾形乾山陶绘、琳派式铁褐与铜绿疏笔、乳白开片釉与留白机锋。",
+    "source": "hermes-explore",
+    "image": "styles/2438-kenzan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
