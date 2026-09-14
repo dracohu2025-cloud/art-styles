@@ -32342,5 +32342,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2446",
+    "slug": "nurezuri",
+    "name_en": "Nurezuri",
+    "name_zh": "濡摺",
+    "description_en": "Nurezuri: wet woodblock pull — dyes bloom on damp washi, glossy sumi, baren swirls, moisture-softened key lines.",
+    "description_zh": "濡摺：湿纸拓印，染料在潮湿和纸上晕开，墨色发亮，马楝旋痕，主版线因水分软化。",
+    "source": "hermes-explore",
+    "image": "styles/2489-nurezuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2447",
+    "slug": "cheolhwa",
+    "name_en": "Cheolhwa",
+    "name_zh": "铁画青瓷",
+    "description_en": "Cheolhwa: Goryeo iron-painted celadon — rusty iron-oxide brush on jade-gray glaze, crazing, kiln-fired brown-black line.",
+    "description_zh": "铁画青瓷：高丽铁绘，锈褐氧化铁笔触落在灰青釉面，开片，窑成棕黑线描。",
+    "source": "hermes-explore",
+    "image": "styles/2490-cheolhwa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2448",
+    "slug": "saishiki",
+    "name_en": "Saishiki",
+    "name_zh": "彩色佛画",
+    "description_en": "Saishiki: mineral polychrome painting — malachite, azurite, cinnabar, ink contour, flat opaque fields, almost no chiaroscuro.",
+    "description_zh": "彩色佛画：矿物颜料设色，石绿石青朱砂，墨线轮廓，平涂不透明色块，几乎无明暗法。",
+    "source": "hermes-explore",
+    "image": "styles/2491-saishiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2449",
+    "slug": "hollie-point",
+    "name_en": "Hollie Point",
+    "name_zh": "霍利点绣",
+    "description_en": "Hollie point: 18th-century English needlelace fillings — counted honeycomb mesh, raised buttonhole ribs, ivory whitework.",
+    "description_zh": "霍利点绣：十八世纪英国针绣填花，计数蜂窝网、凸起锁针轮廓、象牙白色白工。",
+    "source": "hermes-explore",
+    "image": "styles/2492-hollie-point.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2450",
+    "slug": "ahmednagar-school",
+    "name_en": "Ahmednagar School",
+    "name_zh": "艾哈迈德纳加尔画派",
+    "description_en": "Ahmednagar School: Deccan miniature — jewel palette, gold flecks, marbled sky, fine squirrel-hair brush, Persianate-Indian fusion.",
+    "description_zh": "艾哈迈德纳加尔画派：德干细密画，宝石色、金箔点、大理石纹天空、松鼠毫细笔，波斯—印度融合。",
+    "source": "hermes-explore",
+    "image": "styles/2493-ahmednagar-school.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

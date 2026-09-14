@@ -6862,6 +6862,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2488, PNG count 2488. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 490 (exactly 5, h2446–h2450)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh               | image                                  |
+|-------|--------------------|-----------------------|----------------------------------------|
+| h2446 | Nurezuri           | 濡摺                  | styles/2489-nurezuri.png               |
+| h2447 | Cheolhwa           | 铁画青瓷              | styles/2490-cheolhwa.png               |
+| h2448 | Saishiki           | 彩色佛画              | styles/2491-saishiki.png               |
+| h2449 | Hollie Point       | 霍利点绣              | styles/2492-hollie-point.png           |
+| h2450 | Ahmednagar School  | 艾哈迈德纳加尔画派    | styles/2493-ahmednagar-school.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2493, PNG count 2493. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
