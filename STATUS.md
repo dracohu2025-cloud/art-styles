@@ -6722,6 +6722,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2438, PNG count 2438. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 480 (exactly 5, h2396–h2400)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                               |
+|-------|----------------|---------------|-------------------------------------|
+| h2396 | Chirashi-gaki  | 散らし書き    | styles/2439-chirashi-gaki.png       |
+| h2397 | Bokuseki       | 墨跡          | styles/2440-bokuseki.png            |
+| h2398 | Intonaco       | 湿壁画面层    | styles/2441-intonaco.png            |
+| h2399 | Dui Jin        | 堆金          | styles/2442-dui-jin.png             |
+| h2400 | Diaocai        | 雕彩          | styles/2443-diaocai.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2443, PNG count 2443. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

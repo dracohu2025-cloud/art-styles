@@ -31692,5 +31692,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2396",
+    "slug": "chirashi-gaki",
+    "name_en": "Chirashi-gaki",
+    "name_zh": "散らし書き",
+    "description_en": "Chirashi-gaki: Heian scattered-script layout, kana and brush characters drifting in uneven cascades instead of columns.",
+    "description_zh": "散らし書き：平安散书布局，假名与笔迹如花瓣错落飞散，而非整齐行列。",
+    "source": "hermes-explore",
+    "image": "styles/2439-chirashi-gaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2397",
+    "slug": "bokuseki",
+    "name_en": "Bokuseki",
+    "name_zh": "墨跡",
+    "description_en": "Bokuseki: Zen ink traces, fearless wet-black strokes with flying-white splits, pooled drips, and empty paper as the field.",
+    "description_zh": "墨跡：禅僧墨迹，湿墨疾笔、飞白裂锋、滴沥与大片留白即画面。",
+    "source": "hermes-explore",
+    "image": "styles/2440-bokuseki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2398",
+    "slug": "intonaco",
+    "name_en": "Intonaco",
+    "name_zh": "湿壁画面层",
+    "description_en": "Intonaco: buon fresco on still-wet lime plaster, mineral pigment fused into the wall with giornata seams and lime bloom.",
+    "description_zh": "湿壁画面层：真湿壁画，矿物颜料渗入未干石灰面层，可见一日工缝与石灰霜。",
+    "source": "hermes-explore",
+    "image": "styles/2441-intonaco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2399",
+    "slug": "dui-jin",
+    "name_en": "Dui Jin",
+    "name_zh": "堆金",
+    "description_en": "Dui Jin: piled raised gold paste in tactile mounds, not flat leaf, catching light on a dark mineral or lacquer ground.",
+    "description_zh": "堆金：堆起的金泥高浮凸起而非平贴金箔，暗色矿物或漆地上受光成脊。",
+    "source": "hermes-explore",
+    "image": "styles/2442-dui-jin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2400",
+    "slug": "diaocai",
+    "name_en": "Diaocai",
+    "name_zh": "雕彩",
+    "description_en": "Diaocai: carved polychrome lacquer, knife-cut through stacked red, black, ochre, and green strata so color bands show in the cuts.",
+    "description_zh": "雕彩：多层彩漆刀刻见层，红黑赭绿在切口里成带，刀锋与漆光同在。",
+    "source": "hermes-explore",
+    "image": "styles/2443-diaocai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
