@@ -32992,5 +32992,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2496",
+    "slug": "abura-zuri",
+    "name_en": "Abura-zuri",
+    "name_zh": "油摺",
+    "description_en": "Abura-zuri: oil-based Japanese woodblock, opaque greasy ink on washi, crisp block edges without watercolor bleed.",
+    "description_zh": "油摺：油性颜料木版，和纸上不透明油墨、锋利版口而无水彩渗化。",
+    "source": "hermes-explore",
+    "image": "styles/2539-abura-zuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2497",
+    "slug": "madara-karatsu",
+    "name_en": "Madara Karatsu",
+    "name_zh": "斑唐津",
+    "description_en": "Madara Karatsu: mottled milky wood-ash glaze over iron clay, spotted madara flashing and pinholes as the pictorial surface.",
+    "description_zh": "斑唐津：乳白木灰釉覆铁质胎土，斑驳窑变与针孔构成画面肌理。",
+    "source": "hermes-explore",
+    "image": "styles/2540-madara-karatsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2498",
+    "slug": "iyo-gasuri",
+    "name_en": "Iyo-gasuri",
+    "name_zh": "伊予絣",
+    "description_en": "Iyo-gasuri: Ehime kasuri ikat, indigo cotton with pre-dyed warp and weft, soft-edged geometric well-curb motifs.",
+    "description_zh": "伊予絣：爱媛絣织，靛蓝棉经纬先染，井桁几何纹带絣特有的模糊边缘。",
+    "source": "hermes-explore",
+    "image": "styles/2541-iyo-gasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2499",
+    "slug": "kumejima-tsumugi",
+    "name_en": "Kumejima-tsumugi",
+    "name_zh": "久米岛紬",
+    "description_en": "Kumejima-tsumugi: Kume Island hand-spun silk pongee in plant and mud-iron dyes, nubby slubs and earthy low-chroma weave.",
+    "description_zh": "久米岛紬：久米岛手纺绢紬，植物与泥铁染，粗节丝与低彩度土色织纹。",
+    "source": "hermes-explore",
+    "image": "styles/2542-kumejima-tsumugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2500",
+    "slug": "eglomise",
+    "name_en": "Églomisé",
+    "name_zh": "金箔背绘",
+    "description_en": "Églomisé: reverse painting on glass with engraved gold leaf, jewel backing, and a mirrored metallic gleam.",
+    "description_zh": "金箔背绘：玻璃背面贴金箔再刻画填彩，宝石色衬底与镜面金属光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2543-eglomise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -7002,6 +7002,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2538, PNG count 2538. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 500 (exactly 5, h2496–h2500)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh    | image                               |
+|-------|-------------------|------------|-------------------------------------|
+| h2496 | Abura-zuri        | 油摺       | styles/2539-abura-zuri.png          |
+| h2497 | Madara Karatsu    | 斑唐津     | styles/2540-madara-karatsu.png      |
+| h2498 | Iyo-gasuri        | 伊予絣     | styles/2541-iyo-gasuri.png          |
+| h2499 | Kumejima-tsumugi  | 久米岛紬   | styles/2542-kumejima-tsumugi.png    |
+| h2500 | Églomisé          | 金箔背绘   | styles/2543-eglomise.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2543, PNG count 2543. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
