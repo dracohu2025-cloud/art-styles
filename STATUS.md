@@ -6918,6 +6918,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2508, PNG count 2508. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 494 (exactly 5, h2466–h2470)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh        | image                                    |
+|-------|----------------------|----------------|------------------------------------------|
+| h2466 | Kihachijo            | 黄八丈         | styles/2509-kihachijo.png                |
+| h2467 | Velours au Sabre     | 军刀割绒       | styles/2510-velours-au-sabre.png         |
+| h2468 | Sasirangan           | 沙斯朗甘       | styles/2511-sasirangan.png               |
+| h2469 | Rolakan              | 罗拉坎织       | styles/2512-rolakan.png                  |
+| h2470 | Yomitanzan Hanaori   | 读谷山花织     | styles/2513-yomitanzan-hanaori.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2513, PNG count 2513. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

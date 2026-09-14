@@ -32602,5 +32602,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2466",
+    "slug": "kihachijo",
+    "name_en": "Kihachijo",
+    "name_zh": "黄八丈",
+    "description_en": "Kihachijo: Hachijojima plant-dyed silk — sharp yellow, rust-brown and black checks, kariyasu and mud-dye, crisp warp-weft intersections.",
+    "description_zh": "黄八丈：八丈岛植物染绢，黄、锈棕与黑的方格条纹，刈安与泥染，经纬交界清晰。",
+    "source": "hermes-explore",
+    "image": "styles/2509-kihachijo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2467",
+    "slug": "velours-au-sabre",
+    "name_en": "Velours au Sabre",
+    "name_zh": "军刀割绒",
+    "description_en": "Velours au sabre: saber-cut velvet — sculpted pile carved against a voided ground, raking light flipping burgundy to crimson along pile direction.",
+    "description_zh": "军刀割绒：军刀切削起绒，浮雕绒毛对镂空地，掠光使酒红随绒向翻成绯红。",
+    "source": "hermes-explore",
+    "image": "styles/2510-velours-au-sabre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2468",
+    "slug": "sasirangan",
+    "name_en": "Sasirangan",
+    "name_zh": "沙斯朗甘",
+    "description_en": "Sasirangan: Banjar cloud-dye — irregular tied-resist color clouds in turmeric, brick red, leaf green and purple, soft dye migration on cloth grain.",
+    "description_zh": "沙斯朗甘：班贾尔云染，不规则扎防染色云，姜黄、砖红、叶绿与紫，布纹上柔边晕染。",
+    "source": "hermes-explore",
+    "image": "styles/2511-sasirangan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2469",
+    "slug": "rolakan",
+    "name_en": "Rolakan",
+    "name_zh": "罗拉坎织",
+    "description_en": "Rolakan: Swedish interlocking tapestry — weft-faced dovetail joins, stepped diamonds and zigzags, flat folk palette of red, indigo, cream and green.",
+    "description_zh": "罗拉坎织：瑞典咬合织毯，纬面燕尾接色、阶梯菱形与折线，红、靛、米、绿的平涂民间色。",
+    "source": "hermes-explore",
+    "image": "styles/2512-rolakan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2470",
+    "slug": "yomitanzan-hanaori",
+    "name_en": "Yomitanzan Hanaori",
+    "name_zh": "读谷山花织",
+    "description_en": "Yomitanzan hanaori: Okinawan Yomitan floral float weave — supplementary-weft flower blocks on indigo ground, repeating geometric hanmon units.",
+    "description_zh": "读谷山花织：冲绳读谷山浮花织，靛蓝地上的添纬花块，重复几何花纹单元。",
+    "source": "hermes-explore",
+    "image": "styles/2513-yomitanzan-hanaori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
