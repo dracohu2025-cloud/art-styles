@@ -6736,6 +6736,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2443, PNG count 2443. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 481 (exactly 5, h2401–h2405)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh           | image                                  |
+|-------|----------------------|-------------------|----------------------------------------|
+| h2401 | Duo-Shade            | 双影线纸          | styles/2444-duo-shade.png              |
+| h2402 | Flatting             | 动画平涂          | styles/2445-flatting.png               |
+| h2403 | SX-70 Manipulation   | SX-70乳剂拨绘     | styles/2446-sx-70-manipulation.png     |
+| h2404 | Sandpainting         | 沙绘              | styles/2447-sandpainting.png           |
+| h2405 | Opalescent Enamel    | 乳光珐琅          | styles/2448-opalescent-enamel.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2448, PNG count 2448. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

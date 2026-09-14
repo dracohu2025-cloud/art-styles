@@ -31757,5 +31757,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2401",
+    "slug": "duo-shade",
+    "name_en": "Duo-Shade",
+    "name_zh": "双影线纸",
+    "description_en": "Duo-Shade: Craftint chemical illustration board that develops two hatch densities from printed diagonal screens — line plus two tones, no gray wash.",
+    "description_zh": "双影线纸：药液显出两档印刷斜线网点，只有墨线与两级排线，没有灰色渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2444-duo-shade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2402",
+    "slug": "flatting",
+    "name_en": "Flatting",
+    "name_zh": "动画平涂",
+    "description_en": "Flatting: animation production color flats — closed keyline filled with perfectly even unshaded paint chips, no gradient, no cel shine.",
+    "description_zh": "动画平涂：封闭主线内均匀填色，色块平整无明暗、无赛璐璐高光。",
+    "source": "hermes-explore",
+    "image": "styles/2445-flatting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2403",
+    "slug": "sx-70-manipulation",
+    "name_en": "SX-70 Manipulation",
+    "name_zh": "SX-70乳剂拨绘",
+    "description_en": "SX-70 Manipulation: Polaroid SX-70 integral film tooled while developing so dyes smear into creamy metallic swirls on the film itself.",
+    "description_zh": "SX-70乳剂拨绘：显影未干时拨动一体式即影乳剂，染料在片基上搅成乳状金属旋纹。",
+    "source": "hermes-explore",
+    "image": "styles/2446-sx-70-manipulation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2404",
+    "slug": "sandpainting",
+    "name_en": "Sandpainting",
+    "name_zh": "沙绘",
+    "description_en": "Sandpainting: dry crushed mineral pigments poured into fields; visible grain, poured edges, no wet brushstroke.",
+    "description_zh": "沙绘：干矿物色砂倾倒成面，颗粒可见、边界为沙沿，没有湿笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2447-sandpainting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2405",
+    "slug": "opalescent-enamel",
+    "name_en": "Opalescent Enamel",
+    "name_zh": "乳光珐琅",
+    "description_en": "Opalescent Enamel: fired vitreous flux with milky moonstone fire, cloudy pink-blue-cream glass over metal, kiln-fused opal shine.",
+    "description_zh": "乳光珐琅：窑烧乳浊熔块，月长石般粉蓝奶色玻璃覆于金属，窑火乳光。",
+    "source": "hermes-explore",
+    "image": "styles/2448-opalescent-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
