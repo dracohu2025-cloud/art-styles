@@ -33707,5 +33707,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2551",
+    "slug": "kawung",
+    "name_en": "Kawung",
+    "name_zh": "卡翁纹",
+    "description_en": "Kawung: Javanese batik of intersecting circles that form four-petal lozenges in soga, indigo, and cream, with canting wax crackle—not seigaiha waves, not asanoha hemp-leaf, not printed geometric wallpaper.",
+    "description_zh": "卡翁纹：爪哇蜡染相交圆环形成四瓣菱格，索加褐与靛蓝加蜡裂，非青海波，非麻の葉，非印刷几何墙纸。",
+    "source": "hermes-explore",
+    "image": "styles/2594-kawung.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2552",
+    "slug": "mega-mendung",
+    "name_en": "Mega Mendung",
+    "name_zh": "云气纹",
+    "description_en": "Mega Mendung: Cirebon pesisiran batik of stacked concentric monsoon-cloud bands in graduated indigo with wax-resist crackle—not Japanese unmon clouds, not seigaiha, not oil-painted sky.",
+    "description_zh": "云气纹：井里汶北岸蜡染层层同心季风云带与靛蓝渐层蜡裂，非日本云纹，非青海波，非油画天空。",
+    "source": "hermes-explore",
+    "image": "styles/2595-mega-mendung.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2553",
+    "slug": "tin-chok",
+    "name_en": "Tin Chok",
+    "name_zh": "廷乔克织",
+    "description_en": "Tin Chok: Northern Thai discontinuous supplementary-weft brocade of hooked diamonds and polychrome silk floats on cotton—not ikat blur, not embroidery, not batik wax.",
+    "description_zh": "廷乔克织：泰北间断补纬织锦，钩菱与彩丝浮纬在棉地上，非絣织晕影，非刺绣，非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/2596-tin-chok.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2554",
+    "slug": "ko-akae",
+    "name_en": "Ko-akae",
+    "name_zh": "古赤绘",
+    "description_en": "Ko-akae: early Japanese overglaze iron-red enamel on creamy porcelain with spare gold—not Kutani polychrome, not famille rose pastels, not underglaze sometsuke blue.",
+    "description_zh": "古赤绘：早期日本瓷上铁红釉上彩与疏金，非九谷繁彩，非粉彩粉调，非染付青花。",
+    "source": "hermes-explore",
+    "image": "styles/2597-ko-akae.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2555",
+    "slug": "hawaiian-applique",
+    "name_en": "Hawaiian Appliqué",
+    "name_zh": "夏威夷贴花",
+    "description_en": "Hawaiian Appliqué: two-color folded-cut botanical silhouette on cotton with echo quilting and puffed batting—not patchwork nine-patch, not mola reverse appliqué, not embroidery.",
+    "description_zh": "夏威夷贴花：双色折叠剪裁植物剪影加回纹绗缝与蓬松夹棉，非九宫格拼布，非莫拉反贴，非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/2598-hawaiian-applique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

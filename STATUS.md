@@ -7156,6 +7156,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2593, PNG count 2593. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 511 (exactly 5, h2551–h2555)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                 |
+|-------|--------------------|-------------|---------------------------------------|
+| h2551 | Kawung             | 卡翁纹      | styles/2594-kawung.png                |
+| h2552 | Mega Mendung       | 云气纹      | styles/2595-mega-mendung.png          |
+| h2553 | Tin Chok           | 廷乔克织    | styles/2596-tin-chok.png              |
+| h2554 | Ko-akae            | 古赤绘      | styles/2597-ko-akae.png               |
+| h2555 | Hawaiian Appliqué  | 夏威夷贴花  | styles/2598-hawaiian-applique.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2598, PNG count 2598. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
