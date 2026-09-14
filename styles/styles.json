@@ -34097,5 +34097,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2581",
+    "slug": "eyedazzler",
+    "name_en": "Eyedazzler",
+    "name_zh": "炫目织",
+    "description_en": "Eyedazzler: Germantown-period Navajo weft-faced tapestry of aniline-bright serrated diamonds and lightning zigzags; not Two Grey Hills earth tones, not Chief-blanket stripes, not kilim.",
+    "description_zh": "炫目织：日耳曼城毛线时期纳瓦霍纬面织，苯胺高饱和锯齿菱形与闪电折线；非两灰丘沉色，非酋长毯条纹，非基里姆平织。",
+    "source": "hermes-explore",
+    "image": "styles/2624-eyedazzler.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2582",
+    "slug": "ryijy",
+    "name_en": "Ryijy",
+    "name_zh": "芬兰绒织",
+    "description_en": "Ryijy: Finnish knotted long-pile wool with folk Nordic geometry and shaggy knot bloom; not Swedish flossa short pile, not rya as a depicted object, not kilim flatweave.",
+    "description_zh": "芬兰绒织：芬兰打结长绒羊毛，北欧民俗几何与蓬松绒头；非瑞典弗洛萨短绒，非作为物件的拉雅毯，非基里姆平织。",
+    "source": "hermes-explore",
+    "image": "styles/2625-ryijy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2583",
+    "slug": "socarrat",
+    "name_en": "Socarrat",
+    "name_zh": "索卡拉特",
+    "description_en": "Socarrat: Valencian dry-painted terracotta ceiling plaques in iron-red and manganese-black on matte biscuit clay; not glazed azulejo, not cuerda seca, not fresco on plaster.",
+    "description_zh": "索卡拉特：瓦伦西亚干绘陶土天花砖，铁红与锰黑绘于无光素坯；非釉面阿苏莱霍，非干绳分隔釉，非湿壁画灰泥。",
+    "source": "hermes-explore",
+    "image": "styles/2626-socarrat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2584",
+    "slug": "shadow-weave",
+    "name_en": "Shadow Weave",
+    "name_zh": "阴影织",
+    "description_en": "Shadow weave: two-color warp-and-weft color-and-weave that makes trompe-l'oeil ribs and blocks without actual relief; not overshot, not twill herringbone, not ikat.",
+    "description_zh": "阴影织：双色经纬的配色组织，以视错觉凸肋与色块代替真实浮雕；非覆盖织，非人字斜纹，非絣织。",
+    "source": "hermes-explore",
+    "image": "styles/2627-shadow-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2585",
+    "slug": "longwy-enamel",
+    "name_en": "Longwy Enamel",
+    "name_zh": "隆维珐琅",
+    "description_en": "Longwy enamel: cloisonné-style raised black line on faience with glassy jewel-tone fills in the Émaux de Longwy manner; not Japanese shippo, not Limoges painted enamel, not champlevé on metal.",
+    "description_zh": "隆维珐琅：隆维式陶胎起线掐丝，宝石色玻璃质填彩；非日本七宝，非利摩日绘珐琅，非金属錾胎填珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/2628-longwy-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

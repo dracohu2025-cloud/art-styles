@@ -7240,6 +7240,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2623, PNG count 2623. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 517 (exactly 5, h2581–h2585)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                             |
+|-------|----------------|-------------|-----------------------------------|
+| h2581 | Eyedazzler     | 炫目织      | styles/2624-eyedazzler.png        |
+| h2582 | Ryijy          | 芬兰绒织    | styles/2625-ryijy.png             |
+| h2583 | Socarrat       | 索卡拉特    | styles/2626-socarrat.png          |
+| h2584 | Shadow Weave   | 阴影织      | styles/2627-shadow-weave.png      |
+| h2585 | Longwy Enamel  | 隆维珐琅    | styles/2628-longwy-enamel.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2628, PNG count 2628. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
