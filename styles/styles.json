@@ -33902,5 +33902,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2566",
+    "slug": "casalguidi",
+    "name_en": "Casalguidi",
+    "name_zh": "卡萨尔圭迪绣",
+    "description_en": "Casalguidi: Tuscan raised whitework with padded satin-stitch leaves, trailing Italian cord, knotted picots and cutwork eyelets in ivory linen on evenweave; sculptural thread relief, not Broderie Anglaise, not Reticella, not colored stumpwork.",
+    "description_zh": "卡萨尔圭迪绣：托斯卡纳浮雕白绣，衬垫缎纹叶、意大利Cord牵茎、结粒齿边与镂空眼，牙白亚麻线积于平纹布；非英格兰镂空绣，非网格蕾丝，非彩丝浮雕绣。",
+    "source": "hermes-explore",
+    "image": "styles/2609-casalguidi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2567",
+    "slug": "kalocsa",
+    "name_en": "Kalocsa",
+    "name_zh": "考洛乔彩绣",
+    "description_en": "Kalocsa: Hungarian folk satin-stitch on white cotton — airy paprika, tulip and rose sprays in aniline pink, scarlet, lemon, cobalt and leaf-green, white ground showing; not dense Matyó roses, not furniture painting, not cross-stitch.",
+    "description_zh": "考洛乔彩绣：匈牙利民间缎纹绣，白棉上疏朗辣椒花、郁金香与玫瑰，品红、朱红、柠黄、钴蓝与叶绿，露白地；非密实毛焦玫瑰，非家具彩绘，非十字绣。",
+    "source": "hermes-explore",
+    "image": "styles/2610-kalocsa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2568",
+    "slug": "cicim",
+    "name_en": "Cicim",
+    "name_zh": "吉吉姆织",
+    "description_en": "Cicim: Anatolian extra-weft wrapping — hooked diamonds and stepped lozenges in madder, indigo and ochre skip-floated on a kilim wool ground; not slit-kilim blocks, not continuous Soumak, not pile carpet.",
+    "description_zh": "吉吉姆织：安纳托利亚附加纬缠织，钩菱与阶梯菱以茜红、靛蓝、赭黄稀疏浮于基里姆羊毛地；非裂缝基里姆色块，非连续索马克缠，非起绒毯。",
+    "source": "hermes-explore",
+    "image": "styles/2611-cicim.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2569",
+    "slug": "lai-khram",
+    "name_en": "Lai Khram",
+    "name_zh": "泰式蓝金漆",
+    "description_en": "Lai Khram: Thai gold-leaf drawing on deep indigo lacquer — kranok flames and kanok foliage water-washed in gold on khram-blue; not black-lacquer lai rot nam, not red lacquer, not mother-of-pearl inlay.",
+    "description_zh": "泰式蓝金漆：靛蓝漆地上水洗贴金，火焰纹与卷草金线；非黑地水洗金，非红漆，非螺钿。",
+    "source": "hermes-explore",
+    "image": "styles/2612-lai-khram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2570",
+    "slug": "mukaish",
+    "name_en": "Mukaish",
+    "name_zh": "穆凯什金属绣",
+    "description_en": "Mukaish: Lucknow metal-bit embroidery — tiny silver-gilt stamps stitched as dew and star-dust on sheer ivory muslin; not heavy Zardozi bullion, not sequins, not Gota Patti ribbon.",
+    "description_zh": "穆凯什金属绣：勒克瑙金属片绣，细小银金片如露珠星尘缀于象牙薄纱；非厚重扎尔多齐金线，非亮片，非戈塔贴带。",
+    "source": "hermes-explore",
+    "image": "styles/2613-mukaish.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

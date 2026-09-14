@@ -7198,6 +7198,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2608, PNG count 2608. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 514 (exactly 5, h2566–h2570)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh         | image                         |
+|-------|------------|-----------------|-------------------------------|
+| h2566 | Casalguidi | 卡萨尔圭迪绣    | styles/2609-casalguidi.png    |
+| h2567 | Kalocsa    | 考洛乔彩绣      | styles/2610-kalocsa.png       |
+| h2568 | Cicim      | 吉吉姆织        | styles/2611-cicim.png         |
+| h2569 | Lai Khram  | 泰式蓝金漆      | styles/2612-lai-khram.png     |
+| h2570 | Mukaish    | 穆凯什金属绣    | styles/2613-mukaish.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2613, PNG count 2613. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
