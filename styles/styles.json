@@ -33837,5 +33837,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2561",
+    "slug": "gum-oil",
+    "name_en": "Gum Oil",
+    "name_zh": "树胶油印",
+    "description_en": "Gum Oil: pigmented oil color worked into a hardened gum-bichromate gelatin matrix on rough paper—velvety matte blacks, rag-wiped highlights, granular pigment in the tooth; not gum-bichromate wash alone, not bromoil, not oil painting.",
+    "description_zh": "树胶油印：油彩揉入硬化的树胶重铬酸盐明胶层，绒黑与擦出高光，颜料嵌于纸纹；非单纯树胶水彩，非溴油印，非布面油画。",
+    "source": "hermes-explore",
+    "image": "styles/2604-gum-oil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2562",
+    "slug": "limar",
+    "name_en": "Limar",
+    "name_zh": "利马尔絣",
+    "description_en": "Limar: Malay warp-ikat silk—threads resist-dyed before weaving so motifs feather at color joints, diagonal chevrons and geometric bands in maroon, gold, ivory, indigo; not batik stamp, not songket extra-weft brocade, not printed cloth.",
+    "description_zh": "利马尔絣：马来经线先防染再织，纹样在色界呈羽状渗化，斜纹与几何带呈栗色、金、牙白与靛蓝；非蜡染戳印，非宋葛织金，非印花布。",
+    "source": "hermes-explore",
+    "image": "styles/2605-limar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2563",
+    "slug": "doro-shippo",
+    "name_en": "Doro-shippo",
+    "name_zh": "泥七宝",
+    "description_en": "Doro-shippo: opaque Japanese 'mud' cloisonné—brass wires packed with matte mineral enamel pastes, slightly chalky fired surface; not transparent plique-à-jour, not ginbari foil, not wireless musen-shippo.",
+    "description_zh": "泥七宝：日本不透明泥釉掐丝珐琅，铜丝格内填矿物色珐琅，烧成微粉质；非镂空珐琅，非银箔七宝，非无线七宝。",
+    "source": "hermes-explore",
+    "image": "styles/2606-doro-shippo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2564",
+    "slug": "laceria",
+    "name_en": "Lacería",
+    "name_zh": "交织星纹",
+    "description_en": "Lacería: Andalusian interlaced-star strapwork—8- and 16-point stars from overlapping wooden and stucco ribbons, Nasrid geometric knotwork; not floral rinceau, not sebka arch nets, not muqarnas.",
+    "description_zh": "交织星纹：安达卢西亚带状交织星，八尖与十六尖星由木作与灰泥条带交叠而成，纳斯里德几何结；非卷草纹，非塞布卡拱网，非钟乳拱。",
+    "source": "hermes-explore",
+    "image": "styles/2607-laceria.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2565",
+    "slug": "gros-point-de-venise",
+    "name_en": "Gros Point de Venise",
+    "name_zh": "威尼斯粗针蕾丝",
+    "description_en": "Gros Point de Venise: raised Venetian needle lace with thick cordonnet outlines and padded scrolling acanthus in ivory linen, sculptural relief against dark ground; not fine Burano lace, not bobbin lace, not fabric embroidery.",
+    "description_zh": "威尼斯粗针蕾丝：厚轮廓线与衬垫莨苕的浮雕针绣蕾丝，牙白色亚麻线积于深地；非细布拉诺蕾丝，非梭结蕾丝，非底布刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/2608-gros-point-de-venise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

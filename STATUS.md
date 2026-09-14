@@ -7184,6 +7184,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2603, PNG count 2603. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 513 (exactly 5, h2561–h2565)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh           | image                                   |
+|-------|-----------------------|-------------------|-----------------------------------------|
+| h2561 | Gum Oil               | 树胶油印          | styles/2604-gum-oil.png                 |
+| h2562 | Limar                 | 利马尔絣          | styles/2605-limar.png                   |
+| h2563 | Doro-shippo           | 泥七宝            | styles/2606-doro-shippo.png             |
+| h2564 | Lacería               | 交织星纹          | styles/2607-laceria.png                 |
+| h2565 | Gros Point de Venise  | 威尼斯粗针蕾丝    | styles/2608-gros-point-de-venise.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2608, PNG count 2608. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
