@@ -6876,6 +6876,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2493, PNG count 2493. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 491 (exactly 5, h2451–h2455)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                            |
+|-------|----------------|------------|----------------------------------|
+| h2451 | Strappo        | 画层剥离   | styles/2494-strappo.png          |
+| h2452 | Hippaku        | 傅白       | styles/2495-hippaku.png          |
+| h2453 | Suihi          | 水干       | styles/2496-suihi.png            |
+| h2454 | Opus Regulatum | 规整镶嵌   | styles/2497-opus-regulatum.png   |
+| h2455 | Baluchari      | 巴鲁查里   | styles/2498-baluchari.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2498, PNG count 2498. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

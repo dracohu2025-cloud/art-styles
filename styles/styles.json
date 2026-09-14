@@ -32407,5 +32407,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2451",
+    "slug": "strappo",
+    "name_en": "Strappo",
+    "name_zh": "画层剥离",
+    "description_en": "Strappo: fresco film-peel transfer — paper-thin pigment skin lifted from plaster, reverse grit, hairline craquelure, cloth relining.",
+    "description_zh": "画层剥离：湿壁画颜料膜揭取，薄色层从灰泥剥离，背面砂粒、发丝开裂、布面托裱。",
+    "source": "hermes-explore",
+    "image": "styles/2494-strappo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2452",
+    "slug": "hippaku",
+    "name_en": "Hippaku",
+    "name_zh": "傅白",
+    "description_en": "Hippaku: piled gofun white — raised shell-white highlights, chalky relief dots, ink contour, mineral color around pearl-like white.",
+    "description_zh": "傅白：堆起的胡粉高光，壳白浮凸点，墨线轮廓，矿物色围着珍珠般的白。",
+    "source": "hermes-explore",
+    "image": "styles/2495-hippaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2453",
+    "slug": "suihi",
+    "name_en": "Suihi",
+    "name_zh": "水干",
+    "description_en": "Suihi: water-dried mineral pigment — matte velvety opaque fields, no oil gloss, crushed malachite and azurite, washi tooth.",
+    "description_zh": "水干：水干绘具，哑光丝绒不透明色面，无油光，石绿石青研粉，和纸齿痕。",
+    "source": "hermes-explore",
+    "image": "styles/2496-suihi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2454",
+    "slug": "opus-regulatum",
+    "name_en": "Opus Regulatum",
+    "name_zh": "规整镶嵌",
+    "description_en": "Opus Regulatum: regular-grid mosaic — tesserae in orthogonal rows, even grout, architectural mosaic discipline, optical mix at distance.",
+    "description_zh": "规整镶嵌：网格马赛克，石片沿正交行列对齐，填缝均匀，远看光学混色，建筑镶嵌纪律。",
+    "source": "hermes-explore",
+    "image": "styles/2497-opus-regulatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2455",
+    "slug": "baluchari",
+    "name_en": "Baluchari",
+    "name_zh": "巴鲁查里",
+    "description_en": "Baluchari: Bengal narrative silk brocade — extra-weft figural pallu, muted jewel silk, floral borders, woven miniature scenes.",
+    "description_zh": "巴鲁查里：孟加拉叙事织锦，纬花人物、沉宝石丝绸、花卉边饰、织出的细密场景。",
+    "source": "hermes-explore",
+    "image": "styles/2498-baluchari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
