@@ -7044,6 +7044,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2553, PNG count 2553. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 503 (exactly 5, h2511–h2515)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                   | name_zh        | image                                      |
+|-------|---------------------------|----------------|--------------------------------------------|
+| h2511 | Mijin-gaki                | 微尘描         | styles/2554-mijin-gaki.png                 |
+| h2512 | Schwartzlot               | 黑釉玻璃画     | styles/2555-schwartzlot.png                |
+| h2513 | Gloster Marbling          | 格洛斯特水拓   | styles/2556-gloster-marbling.png           |
+| h2514 | Terra Nigra               | 黑亮罗马陶     | styles/2557-terra-nigra.png                |
+| h2515 | Mixed-method Engraving    | 混合凹版       | styles/2558-mixed-method-engraving.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2558, PNG count 2558. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

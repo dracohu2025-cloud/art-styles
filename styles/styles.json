@@ -33187,5 +33187,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2511",
+    "slug": "mijin-gaki",
+    "name_en": "Mijin-gaki",
+    "name_zh": "微尘描",
+    "description_en": "Mijin-gaki: Japanese ultra-fine hair-thin ink line, dust-density individual strokes, no wash.",
+    "description_zh": "微尘描：日本极细发丝墨线，尘密度单笔描画，不施渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2554-mijin-gaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2512",
+    "slug": "schwartzlot",
+    "name_en": "Schwartzlot",
+    "name_zh": "黑釉玻璃画",
+    "description_en": "Schwartzlot: 17th-c. black enamel painting on glass, fired brown-black Lot, linear hatch on pane.",
+    "description_zh": "黑釉玻璃画：十七世纪玻璃黑珐琅，烧制棕黑釉，窗玻璃上线刻排线。",
+    "source": "hermes-explore",
+    "image": "styles/2555-schwartzlot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2513",
+    "slug": "gloster-marbling",
+    "name_en": "Gloster Marbling",
+    "name_zh": "格洛斯特水拓",
+    "description_en": "Gloster marbling: combed nonpareil base broken by ox-gall Stormont-like open spots on size.",
+    "description_zh": "格洛斯特水拓：梳纹无双底上以牛胆打开斯托蒙特式空斑。",
+    "source": "hermes-explore",
+    "image": "styles/2556-gloster-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2514",
+    "slug": "terra-nigra",
+    "name_en": "Terra Nigra",
+    "name_zh": "黑亮罗马陶",
+    "description_en": "Terra Nigra: Gallo-Roman fine black burnished ware, satin charcoal body, stamped relief, no red gloss.",
+    "description_zh": "黑亮罗马陶：高卢罗马细黑磨光陶，炭黑缎面胎，戳印浮纹，非红亮陶衣。",
+    "source": "hermes-explore",
+    "image": "styles/2557-terra-nigra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2515",
+    "slug": "mixed-method-engraving",
+    "name_en": "Mixed-method Engraving",
+    "name_zh": "混合凹版",
+    "description_en": "Mixed-method engraving: one copper plate combining burin line, etching, and mezzotint/roulette.",
+    "description_zh": "混合凹版：同一铜版兼用雕刀线刻、蚀刻与美柔汀/滚点。",
+    "source": "hermes-explore",
+    "image": "styles/2558-mixed-method-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
