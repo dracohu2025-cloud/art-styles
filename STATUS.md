@@ -7016,6 +7016,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2543, PNG count 2543. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 501 (exactly 5, h2501–h2505)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh      | image                            |
+|-------|-----------------|--------------|----------------------------------|
+| h2501 | Chasing         | 錾花         | styles/2544-chasing.png          |
+| h2502 | Unzione         | 油润法       | styles/2545-unzione.png          |
+| h2503 | Zōkoku-nuri     | 存清涂       | styles/2546-zokoku-nuri.png      |
+| h2504 | Kōdaiji Maki-e  | 高台寺莳绘   | styles/2547-kodaiji-maki-e.png   |
+| h2505 | Ripolin         | 瑞波林瓷漆   | styles/2548-ripolin.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2548, PNG count 2548. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

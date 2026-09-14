@@ -33057,5 +33057,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2501",
+    "slug": "chasing",
+    "name_en": "Chasing",
+    "name_zh": "錾花",
+    "description_en": "Chasing: punched and planished metal relief, chisel facets, punch-dot grounds, cold silver-gold sheen.",
+    "description_zh": "錾花：锤揲与錾刻金属浮雕，凿痕切面、点錾底纹、冷金银光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2544-chasing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2502",
+    "slug": "unzione",
+    "name_en": "Unzione",
+    "name_zh": "油润法",
+    "description_en": "Unzione: Venetian oily fusion, tones melting without hard contour, amber glaze and wet brush seams.",
+    "description_zh": "油润法：威尼斯式油性融合，色阶相渗无硬边，琥珀釉与湿笔接缝。",
+    "source": "hermes-explore",
+    "image": "styles/2545-unzione.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2503",
+    "slug": "zokoku-nuri",
+    "name_en": "Zōkoku-nuri",
+    "name_zh": "存清涂",
+    "description_en": "Zōkoku-nuri: Kagawa carved-and-filled colored urushi, hairline inlay, red-green-gold on black lacquer.",
+    "description_zh": "存清涂：香川雕填彩漆，细线刻填，红绿金纹落于黑漆地。",
+    "source": "hermes-explore",
+    "image": "styles/2546-zokoku-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2504",
+    "slug": "kodaiji-maki-e",
+    "name_en": "Kōdaiji Maki-e",
+    "name_zh": "高台寺莳绘",
+    "description_en": "Kōdaiji Maki-e: Momoyama gold and silver powder on black urushi, sparse autumn grasses and open lacquer fields.",
+    "description_zh": "高台寺莳绘：桃山金银粉绘于黑漆，疏秋草与大面积留黑。",
+    "source": "hermes-explore",
+    "image": "styles/2547-kodaiji-maki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2505",
+    "slug": "ripolin",
+    "name_en": "Ripolin",
+    "name_zh": "瑞波林瓷漆",
+    "description_en": "Ripolin: glossy industrial enamel paint, pooled edges, glassy leveled coats, modernist opaque color plates.",
+    "description_zh": "瑞波林瓷漆：高光工业瓷漆，积边与镜面流平，现代主义不透明色块。",
+    "source": "hermes-explore",
+    "image": "styles/2548-ripolin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
