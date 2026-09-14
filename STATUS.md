@@ -7072,6 +7072,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2563, PNG count 2563. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 505 (exactly 5, h2521–h2525)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh        | image                               |
+|-------|------------------|----------------|-------------------------------------|
+| h2521 | Melainotype      | 黑镜铁版照     | styles/2564-melainotype.png         |
+| h2522 | Hausmalerei      | 家绘瓷         | styles/2565-hausmalerei.png         |
+| h2523 | Botamochi        | 牡丹饼斑       | styles/2566-botamochi.png           |
+| h2524 | Quezal           | 奎扎尔玻       | styles/2567-quezal.png              |
+| h2525 | Tiger-eye Glaze  | 虎眼釉         | styles/2568-tiger-eye-glaze.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2568, PNG count 2568. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

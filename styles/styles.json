@@ -33317,5 +33317,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2521",
+    "slug": "melainotype",
+    "name_en": "Melainotype",
+    "name_zh": "黑镜铁版照",
+    "description_en": "Melainotype: 1850s japanned-iron plate; silvery highlights sitting on a chocolate-black lacquered metal ground.",
+    "description_zh": "黑镜铁版照：1850年代黑漆铁版，银白高光浮于巧克力黑金属漆地。",
+    "source": "hermes-explore",
+    "image": "styles/2564-melainotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2522",
+    "slug": "hausmalerei",
+    "name_en": "Hausmalerei",
+    "name_zh": "家绘瓷",
+    "description_en": "Hausmalerei: independent overglaze enamel painting on white porcelain blanks, jewel colors and gold on tin-white.",
+    "description_zh": "家绘瓷：在白瓷素坯上独立釉上珐琅彩绘，宝石色与金彩落于锡白地。",
+    "source": "hermes-explore",
+    "image": "styles/2565-hausmalerei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2523",
+    "slug": "botamochi",
+    "name_en": "Botamochi",
+    "name_zh": "牡丹饼斑",
+    "description_en": "Botamochi: high-fire iron glaze interrupted by round pale rice-cake kiln patches where the melt pulled back.",
+    "description_zh": "牡丹饼斑：高温铁釉被圆形浅色窑斑打断，熔釉回缩如牡丹饼。",
+    "source": "hermes-explore",
+    "image": "styles/2566-botamochi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2524",
+    "slug": "quezal",
+    "name_en": "Quezal",
+    "name_zh": "奎扎尔玻",
+    "description_en": "Quezal: early-20th-c. American art glass; pulled-feather gold-green-blue iridescence on milky opal.",
+    "description_zh": "奎扎尔玻：二十世纪初美国艺术玻璃，乳白胎上金绿蓝拉羽虹彩。",
+    "source": "hermes-explore",
+    "image": "styles/2567-quezal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2525",
+    "slug": "tiger-eye-glaze",
+    "name_en": "Tiger-eye Glaze",
+    "name_zh": "虎眼釉",
+    "description_en": "Tiger-eye glaze: chatoyant banded iron crystalline melt, honey-to-umber stripes with gemstone silk luster.",
+    "description_zh": "虎眼釉：带状铁结晶釉，蜜色至赭褐条纹带宝石丝光。",
+    "source": "hermes-explore",
+    "image": "styles/2568-tiger-eye-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
