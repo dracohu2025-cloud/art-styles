@@ -32537,5 +32537,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2461",
+    "slug": "oya-needlelace",
+    "name_en": "Oya Needlelace",
+    "name_zh": "奥亚针绣",
+    "description_en": "Oya: Turkish needlelace — three-dimensional knotted floral picots, colorful silk-thread petals, airy mesh and scalloped edges.",
+    "description_zh": "奥亚针绣：土耳其立体针结花边，彩色丝线花瓣、镂空网地与扇形边缘。",
+    "source": "hermes-explore",
+    "image": "styles/2504-oya-needlelace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2462",
+    "slug": "minai-ware",
+    "name_en": "Minai Ware",
+    "name_zh": "米奈彩陶",
+    "description_en": "Minai ware: Persian overglaze polychrome on white fritware — seven-color enamels, gold outlines, jewel-like miniature figural painting.",
+    "description_zh": "米奈彩陶：波斯白地釉上多彩，七色珐琅、金线勾勒、细密人物纹样。",
+    "source": "hermes-explore",
+    "image": "styles/2505-minai-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2463",
+    "slug": "opus-consutum",
+    "name_en": "Opus Consutum",
+    "name_zh": "贴布绣",
+    "description_en": "Opus consutum: medieval applied-work embroidery — cut silk and wool laid on linen, gold-thread couching, split-stitch faces.",
+    "description_zh": "贴布绣：中世纪缝贴绣，剪裁丝毛贴于亚麻、金线钉绣、劈针面孔。",
+    "source": "hermes-explore",
+    "image": "styles/2506-opus-consutum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2464",
+    "slug": "richelieu-embroidery",
+    "name_en": "Richelieu Embroidery",
+    "name_zh": "黎塞留绣",
+    "description_en": "Richelieu embroidery: white cutwork with buttonhole edges and picot brides — open voids, padded satin-stitch, sculptural negative space.",
+    "description_zh": "黎塞留绣：白色镂空绣，锁边轮廓与带小环的连接桥，开孔与浮雕缎针。",
+    "source": "hermes-explore",
+    "image": "styles/2507-richelieu-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2465",
+    "slug": "boshi-shibori",
+    "name_en": "Boshi Shibori",
+    "name_zh": "帽子绞",
+    "description_en": "Boshi shibori: Japanese cap-resist dye — tied-cap white rings, radial indigo bleeds, nested concentric resist circles on cloth grain.",
+    "description_zh": "帽子绞：日本帽结防染，绑帽白环、靛蓝晕染、层层同心防染圈。",
+    "source": "hermes-explore",
+    "image": "styles/2508-boshi-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
