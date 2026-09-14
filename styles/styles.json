@@ -32147,5 +32147,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2431",
+    "slug": "singerie",
+    "name_en": "Singerie",
+    "name_zh": "猴戏画",
+    "description_en": "Singerie: Rococo decorative painting — pastel Watteau-like oils, chinoiserie trellis, gilt arabesques, and costumed-monkey ornamental staffage.",
+    "description_zh": "猴戏画：洛可可装饰绘画，华托式粉彩笔触、中国风花格、鎏金卷草，衣冠猿猴作边饰点景。",
+    "source": "hermes-explore",
+    "image": "styles/2474-singerie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2432",
+    "slug": "barocchetto",
+    "name_en": "Barocchetto",
+    "name_zh": "小巴洛克",
+    "description_en": "Barocchetto: airy late-Baroque Roman decoration — powder-blue and champagne gold, light stucco-illusion vaults, shells and scrolling cartouches.",
+    "description_zh": "小巴洛克：晚期罗马巴洛克轻装饰，粉蓝香槟金、浅灰泥错觉拱顶、贝壳与卷涡纹章。",
+    "source": "hermes-explore",
+    "image": "styles/2475-barocchetto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2433",
+    "slug": "egoyomi",
+    "name_en": "Egoyomi",
+    "name_zh": "绘历",
+    "description_en": "Egoyomi: Edo pictorial calendar woodblock — key-block outlines, mineral pigments, mica paper, daisho month-counts hidden in pattern and cartouche.",
+    "description_zh": "绘历：江户绘入历木版，主版线、矿物颜料、云母纸，大小月数隐于纹样与画题框中。",
+    "source": "hermes-explore",
+    "image": "styles/2476-egoyomi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2434",
+    "slug": "vellucent",
+    "name_en": "Vellucent",
+    "name_zh": "透光羊皮装",
+    "description_en": "Vellucent: Chivers translucent-vellum binding — pictorial watercolor seen through milky parchment, wax bloom, gold-tooled fillets on the surface.",
+    "description_zh": "透光羊皮装：奇弗斯半透明犊皮装帧，水彩图像透过乳色羊皮，蜡雾与表面金线压印。",
+    "source": "hermes-explore",
+    "image": "styles/2477-vellucent.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2435",
+    "slug": "quadri-riportati",
+    "name_en": "Quadri Riportati",
+    "name_zh": "嵌框湿壁画",
+    "description_en": "Quadri riportati: ceiling fresco as framed easel pictures set into fictive architecture — matte giornata pigment, stone frames, Carracci-gallery vault.",
+    "description_zh": "嵌框湿壁画：天顶湿壁画如嵌入虚构建筑的画框架上画，哑光湿壁画日作接缝、石框与卡拉奇式拱顶。",
+    "source": "hermes-explore",
+    "image": "styles/2478-quadri-riportati.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

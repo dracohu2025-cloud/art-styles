@@ -6820,6 +6820,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2473, PNG count 2473. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 487 (exactly 5, h2431–h2435)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                               |
+|-------|-------------------|-------------|-------------------------------------|
+| h2431 | Singerie          | 猴戏画      | styles/2474-singerie.png            |
+| h2432 | Barocchetto       | 小巴洛克    | styles/2475-barocchetto.png         |
+| h2433 | Egoyomi           | 绘历        | styles/2476-egoyomi.png             |
+| h2434 | Vellucent         | 透光羊皮装  | styles/2477-vellucent.png           |
+| h2435 | Quadri Riportati  | 嵌框湿壁画  | styles/2478-quadri-riportati.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2478, PNG count 2478. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
