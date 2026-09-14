@@ -32732,5 +32732,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2476",
+    "slug": "eosin-glaze",
+    "name_en": "Eosin Glaze",
+    "name_zh": "曙红虹彩釉",
+    "description_en": "Eosin glaze: iridescent Art Nouveau luster with shifting rose-gold, peacock, and burgundy firescale, wet vitreous gloss rather than matte paint.",
+    "description_zh": "曙红虹彩釉：新艺术虹彩釉，玫金、孔雀绿与酒红随光变色，湿润玻璃光泽而非哑光颜料。",
+    "source": "hermes-explore",
+    "image": "styles/2519-eosin-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2477",
+    "slug": "opus-musivum",
+    "name_en": "Opus Musivum",
+    "name_zh": "美术马赛克",
+    "description_en": "Opus musivum: fine pictorial mosaic of glass smalti and stone tesserae, curved andamento, gold-ground shimmer, grout as drawing.",
+    "description_zh": "美术马赛克：以玻璃马赛克与石片细密拼图，循形走向，金地闪光，缝线即线条。",
+    "source": "hermes-explore",
+    "image": "styles/2520-opus-musivum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2478",
+    "slug": "shuri-ori",
+    "name_en": "Shuri-ori",
+    "name_zh": "首里织",
+    "description_en": "Shuri-ori: Okinawan court weaving with kasuri halos, safflower-indigo-yellow geometry, and visible warp-weft grid as the whole image.",
+    "description_zh": "首里织：琉球宫廷织，絣纹晕边，红花、靛蓝与黄色几何，通幅可见经纬组织。",
+    "source": "hermes-explore",
+    "image": "styles/2521-shuri-ori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2479",
+    "slug": "nitik",
+    "name_en": "Nitik",
+    "name_zh": "尼蒂克蜡染",
+    "description_en": "Nitik: Javanese batik tulis of dense wax-resist dots (titik), soga brown and indigo on cotton, crackle and pointillist cloth drawing.",
+    "description_zh": "尼蒂克蜡染：爪哇手绘蜡染密点（titik），索甘褐与靛蓝棉布，裂纹与点绘成象。",
+    "source": "hermes-explore",
+    "image": "styles/2522-nitik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2480",
+    "slug": "usolsk-enamel",
+    "name_en": "Usolsk Enamel",
+    "name_zh": "乌索利珐琅",
+    "description_en": "Usolsk enamel: 17th-c. Solvychegodsk painted enamel on white vitreous ground, translucent floral scrolls, black contour, gold flashes.",
+    "description_zh": "乌索利珐琅：十七世纪索利维切戈茨克画珐琅，白釉地、透明花卷、黑线勾勒与金箔闪点。",
+    "source": "hermes-explore",
+    "image": "styles/2523-usolsk-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

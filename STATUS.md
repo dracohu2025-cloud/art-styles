@@ -6946,6 +6946,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2518. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 496 (exactly 5, h2476–h2480)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh      | image                            |
+|-------|----------------|--------------|----------------------------------|
+| h2476 | Eosin Glaze    | 曙红虹彩釉   | styles/2519-eosin-glaze.png      |
+| h2477 | Opus Musivum   | 美术马赛克   | styles/2520-opus-musivum.png     |
+| h2478 | Shuri-ori      | 首里织       | styles/2521-shuri-ori.png        |
+| h2479 | Nitik          | 尼蒂克蜡染   | styles/2522-nitik.png            |
+| h2480 | Usolsk Enamel  | 乌索利珐琅   | styles/2523-usolsk-enamel.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2523, PNG count 2523. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
