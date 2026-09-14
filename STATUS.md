@@ -7170,6 +7170,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2598, PNG count 2598. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 512 (exactly 5, h2556–h2560)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2556 | Parfleche       | 生皮彩绘        | styles/2599-parfleche.png          |
+| h2557 | Hiapo           | 希阿波树皮布    | styles/2600-hiapo.png              |
+| h2558 | Ravenstail      | 鸦尾织          | styles/2601-ravenstail.png         |
+| h2559 | Hafnerware      | 哈夫纳釉陶      | styles/2602-hafnerware.png         |
+| h2560 | Mezza Maiolica  | 半马约利卡      | styles/2603-mezza-maiolica.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2603, PNG count 2603. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

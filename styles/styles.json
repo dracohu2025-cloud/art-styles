@@ -33772,5 +33772,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2556",
+    "slug": "parfleche",
+    "name_en": "Parfleche",
+    "name_zh": "生皮彩绘",
+    "description_en": "Parfleche: Plains painted-rawhide geometry in mineral earth pigments—nested diamonds, hourglasses, triangular borders on hide grain—not beadwork, not formline, not oil painting.",
+    "description_zh": "生皮彩绘：大平原生皮矿物土色几何，套菱、时漏与三角边饰渗入皮纹，非珠绣，非形线，非油画。",
+    "source": "hermes-explore",
+    "image": "styles/2599-parfleche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2557",
+    "slug": "hiapo",
+    "name_en": "Hiapo",
+    "name_zh": "希阿波树皮布",
+    "description_en": "Hiapo: Niue freehand barkcloth painting in brown-black geometric grids on tan tapa fiber—not stencil siapo, not ngatu rubbing, not printmaking.",
+    "description_zh": "希阿波树皮布：纽埃自由手绘树皮布，棕黑几何网格落在纤维底上，非模版西亚波，非恩加图拓印，非版画。",
+    "source": "hermes-explore",
+    "image": "styles/2600-hiapo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2558",
+    "slug": "ravenstail",
+    "name_en": "Ravenstail",
+    "name_zh": "鸦尾织",
+    "description_en": "Ravenstail: Northwest Coast Yeil Koowu weaving in black, white and yellow geometric bands—chevrons, boxed diamonds, visible warp and weft—not formline ovoids, not Chilkat curves, not embroidery.",
+    "description_zh": "鸦尾织：西北海岸鸦尾织黑白黄几何带，人字、框菱与可见经纬，非形线卵形，非奇尔卡特曲线，非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/2601-ravenstail.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2559",
+    "slug": "hafnerware",
+    "name_en": "Hafnerware",
+    "name_zh": "哈夫纳釉陶",
+    "description_en": "Hafnerware: German Renaissance stove-tile earthenware in tin-glazed relief—copper-green, antimony yellow, manganese-purple, lead-glaze sheen—not Delftware blue, not Italian istoriato, not stoneware salt-glaze.",
+    "description_zh": "哈夫纳釉陶：德国文艺复兴火炉砖锡釉浮雕，铜绿、锑黄、锰紫与铅釉光泽，非代尔夫特蓝，非意大利故事彩陶，非盐釉炻器。",
+    "source": "hermes-explore",
+    "image": "styles/2602-hafnerware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2560",
+    "slug": "mezza-maiolica",
+    "name_en": "Mezza Maiolica",
+    "name_zh": "半马约利卡",
+    "description_en": "Mezza Maiolica: red earthenware under white slip, sgraffito incisions revealing the body, transparent lead glaze with spare copper-green and iron-amber stains—not tin-glaze maiolica, not full istoriato polychrome, not porcelain.",
+    "description_zh": "半马约利卡：红陶罩白化妆土再刮刻露胎，透明铅釉积于刻线，疏铜绿与铁琥珀渍，非锡釉马约利卡，非全彩故事陶，非瓷器。",
+    "source": "hermes-explore",
+    "image": "styles/2603-mezza-maiolica.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
