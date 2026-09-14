@@ -7226,6 +7226,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2618, PNG count 2618. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 516 (exactly 5, h2576–h2580)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2576 | Lefkaritiko     | 莱夫卡拉白绣    | styles/2619-lefkaritiko.png        |
+| h2577 | Point de Neige  | 雪点针绣        | styles/2620-point-de-neige.png     |
+| h2578 | Shodai          | 小代烧          | styles/2621-shodai.png             |
+| h2579 | Bohus           | 博胡斯编织      | styles/2622-bohus.png              |
+| h2580 | Overshot Weave  | 覆盖织          | styles/2623-overshot-weave.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2623, PNG count 2623. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

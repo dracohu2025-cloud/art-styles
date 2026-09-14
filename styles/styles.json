@@ -34032,5 +34032,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2576",
+    "slug": "lefkaritiko",
+    "name_en": "Lefkaritiko",
+    "name_zh": "莱夫卡拉白绣",
+    "description_en": "Lefkaritiko: Cypriot Lefkara geometric whitework with hemstitch ladders, satin-stitch wheels, and outline cord on ecru linen; not Irish crochet, not Halas pictorial needle lace, not Alençon mesh.",
+    "description_zh": "莱夫卡拉白绣：塞浦路斯几何白绣，抽纱梯缝、缎针轮纹与勾边绳线于本色亚麻；非爱尔兰钩针，非豪拉斯图画针蕾，非阿朗松网底。",
+    "source": "hermes-explore",
+    "image": "styles/2619-lefkaritiko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2577",
+    "slug": "point-de-neige",
+    "name_en": "Point de Neige",
+    "name_zh": "雪点针绣",
+    "description_en": "Point de Neige: Venetian needle lace crusted with tiny snow-like picots on raised cordonnets; not Gros Point de Venise, not Point de Gaze, not Binche, not Halas.",
+    "description_zh": "雪点针绣：威尼斯针蕾，凸起绳线上密布细小雪点皮科；非威尼斯粗针蕾丝，非Gaze薄纱针蕾，非宾什，非豪拉斯。",
+    "source": "hermes-explore",
+    "image": "styles/2620-point-de-neige.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2578",
+    "slug": "shodai",
+    "name_en": "Shodai",
+    "name_zh": "小代烧",
+    "description_en": "Shodai: Kumamoto iron-brown stoneware with thick milky-white to sky-blue ash drips; not Hagi, not Kohiki, not Hakeme, not Oribe.",
+    "description_zh": "小代烧：熊本铁褐陶体，乳白至天蓝灰釉厚流；非萩烧，非粉引，非刷毛目，非织部。",
+    "source": "hermes-explore",
+    "image": "styles/2621-shodai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2579",
+    "slug": "bohus",
+    "name_en": "Bohus",
+    "name_zh": "博胡斯编织",
+    "description_en": "Bohus: Swedish Bohus Stickning yoke colorwork in heathered angora with purl-bump texture and jewel dots; not Fair Isle, not Aran cables, not gansey, not overshot weave.",
+    "description_zh": "博胡斯编织：瑞典博胡斯育克提花，安哥拉混色与正反针凸粒、点状宝石色；非费尔岛，非阿兰绞花，非甘西渔衫，非覆盖织。",
+    "source": "hermes-explore",
+    "image": "styles/2622-bohus.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2580",
+    "slug": "overshot-weave",
+    "name_en": "Overshot Weave",
+    "name_zh": "覆盖织",
+    "description_en": "Overshot weave: American coverlet complementary-weft floats making geometric tables and stars over tabby; not summer-and-winter, not krokbragd, not Jacquard figured cloth.",
+    "description_zh": "覆盖织：美洲床罩式补纬浮长，几何桌纹与星纹覆于平纹地；非冬夏织，非克罗克布拉格，非提花机纹织物。",
+    "source": "hermes-explore",
+    "image": "styles/2623-overshot-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
