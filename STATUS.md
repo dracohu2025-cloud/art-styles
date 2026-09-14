@@ -7058,6 +7058,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2558, PNG count 2558. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 504 (exactly 5, h2516–h2520)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh            | image                               |
+|-------|------------------|--------------------|-------------------------------------|
+| h2516 | Compendiario     | 简笔锡釉           | styles/2559-compendiario.png        |
+| h2517 | Helio-engraving  | 光蚀凹版           | styles/2560-helio-engraving.png     |
+| h2518 | Micrography      | 微书造像           | styles/2561-micrography.png         |
+| h2519 | Crystalotype     | 水晶蛋白玻璃照     | styles/2562-crystalotype.png        |
+| h2520 | Grand Feu        | 高温珐琅           | styles/2563-grand-feu.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2563, PNG count 2563. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

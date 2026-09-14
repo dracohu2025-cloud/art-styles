@@ -33252,5 +33252,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2516",
+    "slug": "compendiario",
+    "name_en": "Compendiario",
+    "name_zh": "简笔锡釉",
+    "description_en": "Faenza compendiario: sparse abbreviated cobalt drawing on white tin-glazed earthenware, lots of empty bianco.",
+    "description_zh": "法恩扎简笔锡釉：白地锡釉上稀疏速写钴青，大面积留白釉地。",
+    "source": "hermes-explore",
+    "image": "styles/2559-compendiario.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2517",
+    "slug": "helio-engraving",
+    "name_en": "Helio-engraving",
+    "name_zh": "光蚀凹版",
+    "description_en": "Helio-engraving: photomechanical intaglio grain, velvety continuous tone bitten as microscopic pits in copper.",
+    "description_zh": "光蚀凹版：光化学凹版颗粒，以铜版微坑咬出丝绒般连续调。",
+    "source": "hermes-explore",
+    "image": "styles/2560-helio-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2518",
+    "slug": "micrography",
+    "name_en": "Micrography",
+    "name_zh": "微书造像",
+    "description_en": "Micrography: figures and ground built from dense miniature script rather than independent contour or wash.",
+    "description_zh": "微书造像：以密排细字构成人物与背景，而非独立轮廓或渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2561-micrography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2519",
+    "slug": "crystalotype",
+    "name_en": "Crystalotype",
+    "name_zh": "水晶蛋白玻璃照",
+    "description_en": "Crystalotype: 1850s albumen-on-glass positive, milky opalescent highlights and creamy ivory midtones.",
+    "description_zh": "水晶蛋白玻璃照：1850年代玻璃蛋白正像，乳白高光与象牙中调。",
+    "source": "hermes-explore",
+    "image": "styles/2562-crystalotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2520",
+    "slug": "grand-feu",
+    "name_en": "Grand Feu",
+    "name_zh": "高温珐琅",
+    "description_en": "Grand feu enamel: oxides fused on metal at porcelain temperatures into a hard, jewel-like vitreous skin.",
+    "description_zh": "高温珐琅：氧化物在瓷温下熔于金属，结成坚硬宝石般玻璃质表层。",
+    "source": "hermes-explore",
+    "image": "styles/2563-grand-feu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
