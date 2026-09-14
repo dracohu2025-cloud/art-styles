@@ -32797,5 +32797,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2481",
+    "slug": "holbein-stitch",
+    "name_en": "Holbein Stitch",
+    "name_zh": "霍尔拜因针",
+    "description_en": "Holbein stitch: double-running stitch on evenweave, identical linear faces, black silk outlines and counted geometric fills.",
+    "description_zh": "霍尔拜因针：平纹布上的双向走针，正反同形，黑丝勾线与几何填针。",
+    "source": "hermes-explore",
+    "image": "styles/2524-holbein-stitch.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2482",
+    "slug": "xipi-lacquer",
+    "name_en": "Xipi Lacquer",
+    "name_zh": "犀皮漆",
+    "description_en": "Xipi lacquer: twisted stacked cinnabar, black, ochre and green coats polished into cloud-island marbling.",
+    "description_zh": "犀皮漆：绞叠朱、黑、赭、绿漆层，打磨成云岛斑纹。",
+    "source": "hermes-explore",
+    "image": "styles/2525-xipi-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2483",
+    "slug": "bristol-glaze",
+    "name_en": "Bristol Glaze",
+    "name_zh": "锌白釉",
+    "description_en": "Bristol glaze: opaque zinc-fluxed milky white, cool cobalt pooling, glossy vitreous skin and fat glaze edges.",
+    "description_zh": "锌白釉：锌助熔乳浊白釉，钴蓝积釉、玻璃光与肥厚釉边。",
+    "source": "hermes-explore",
+    "image": "styles/2526-bristol-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2484",
+    "slug": "squeegee-painting",
+    "name_en": "Squeegee Painting",
+    "name_zh": "刮条绘画",
+    "description_en": "Squeegee painting: wide dragged sheets of oil and acrylic, ridges, skips, and translucent underlayer veils.",
+    "description_zh": "刮条绘画：宽刮板拖出的油彩与丙烯色带，脊痕、漏底与半透明叠层。",
+    "source": "hermes-explore",
+    "image": "styles/2527-squeegee-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2485",
+    "slug": "vinyl-gouache",
+    "name_en": "Vinyl Gouache",
+    "name_zh": "乙烯水粉",
+    "description_en": "Vinyl gouache: matte vinyl-polymer poster paint, velvet-flat opacity, dense creamy fields, no oil gloss.",
+    "description_zh": "乙烯水粉：乙烯聚合物亚光广告色，绒面平涂、浓密色块、无油光。",
+    "source": "hermes-explore",
+    "image": "styles/2528-vinyl-gouache.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

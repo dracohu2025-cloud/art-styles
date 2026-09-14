@@ -6960,6 +6960,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2523, PNG count 2523. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 497 (exactly 5, h2481–h2485)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh    | image                              |
+|-------|-------------------|------------|------------------------------------|
+| h2481 | Holbein Stitch    | 霍尔拜因针 | styles/2524-holbein-stitch.png     |
+| h2482 | Xipi Lacquer      | 犀皮漆     | styles/2525-xipi-lacquer.png       |
+| h2483 | Bristol Glaze     | 锌白釉     | styles/2526-bristol-glaze.png      |
+| h2484 | Squeegee Painting | 刮条绘画   | styles/2527-squeegee-painting.png  |
+| h2485 | Vinyl Gouache     | 乙烯水粉   | styles/2528-vinyl-gouache.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2528, PNG count 2528. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
