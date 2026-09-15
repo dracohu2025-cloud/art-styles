@@ -35787,5 +35787,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2711",
+    "slug": "aux-deux-crayons",
+    "name_en": "Aux Deux Crayons",
+    "name_zh": "双色粉笔",
+    "description_en": "Aux Deux Crayons: two-chalk drawing in black and red sanguine only on toned laid paper; stumped hatch, no third crayon, not trois crayons, not full conté color.",
+    "description_zh": "双色粉笔：仅用黑炭与红赭两支粉笔在有色布纹纸上造型，擦拭排线；无第三色，非三色粉笔，非全套康泰彩粉。",
+    "source": "hermes-explore",
+    "image": "styles/2754-aux-deux-crayons.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2712",
+    "slug": "poonah-painting",
+    "name_en": "Poonah Painting",
+    "name_zh": "波纳透明画",
+    "description_en": "Poonah Painting: 19th-century transparent tints on tracing paper or mica with hairline outlines and overlapping films; not gouache, not theorem stencil, not thick-paper watercolor.",
+    "description_zh": "波纳透明画：十九世纪描图纸或云母上的透明薄彩，细线勾勒与叠膜；非水粉，非镂版定理画，非厚纸水彩。",
+    "source": "hermes-explore",
+    "image": "styles/2755-poonah-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2713",
+    "slug": "shojo-hatching",
+    "name_en": "Shōjo Hatching",
+    "name_zh": "少女漫画排线",
+    "description_en": "Shōjo Hatching: hand-inked shōjo pen hatch — radiating sparkle, contour hatch, floral doodle hatch on cream paper; not Zip-A-Tone sheets, not seinen crosshatch noir, not painted color.",
+    "description_zh": "少女漫画排线：手绘少女漫画钢笔排线，放射高光、随形排线与花卉线饰，米色纸；非网点胶纸，非青年向交叉排线黑影，非彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/2756-shojo-hatching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2714",
+    "slug": "mary-gregory",
+    "name_en": "Mary Gregory",
+    "name_zh": "玛丽格雷戈里彩绘",
+    "description_en": "Mary Gregory: opaque white enamel figures fired onto translucent colored glass (ruby/cobalt), Victorian white-enamel costume brushwork; not verre églomisé gold, not stained-glass leading, not tole.",
+    "description_zh": "玛丽格雷戈里彩绘：不透明白珐琅人物烧附于透色玻璃（宝石红/钴蓝），维多利亚白彩服饰笔触；非金箔玻璃画，非镶铅彩窗，非铁皮彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/2757-mary-gregory.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2715",
+    "slug": "tinpoint",
+    "name_en": "Tinpoint",
+    "name_zh": "锡尖素描",
+    "description_en": "Tinpoint: metalpoint with a tin stylus on prepared gesso ground — pale warm-grey oxidized lines, softer than silverpoint; not silverpoint, not leadpoint, not graphite.",
+    "description_zh": "锡尖素描：锡尖在石膏底上作金属尖笔，浅暖灰氧化线，比银尖更软；非银尖，非铅尖，非石墨。",
+    "source": "hermes-explore",
+    "image": "styles/2758-tinpoint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -7604,6 +7604,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2753, PNG count 2753. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 543 (exactly 5, h2711–h2715)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh             | image                            |
+|-------|-------------------|---------------------|----------------------------------|
+| h2711 | Aux Deux Crayons  | 双色粉笔            | styles/2754-aux-deux-crayons.png |
+| h2712 | Poonah Painting   | 波纳透明画          | styles/2755-poonah-painting.png  |
+| h2713 | Shōjo Hatching    | 少女漫画排线        | styles/2756-shojo-hatching.png   |
+| h2714 | Mary Gregory      | 玛丽格雷戈里彩绘    | styles/2757-mary-gregory.png     |
+| h2715 | Tinpoint          | 锡尖素描            | styles/2758-tinpoint.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2758, PNG count 2758. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
