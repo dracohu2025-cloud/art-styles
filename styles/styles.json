@@ -35267,5 +35267,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2671",
+    "slug": "punto-antico",
+    "name_en": "Punto Antico",
+    "name_zh": "古针白绣",
+    "description_en": "Punto Antico: Italian Renaissance pulled-thread whitework on linen, geometric reticella openings and counted grids; not buratto net, not reticella lace alone, not drawn-thread hems.",
+    "description_zh": "古针白绣：意大利文艺复兴亚麻抽纱白绣，几何网眼与计数网格；非布拉托网绣，非单独网眼蕾丝，非抽纱折边。",
+    "source": "hermes-explore",
+    "image": "styles/2714-punto-antico.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2672",
+    "slug": "binakul",
+    "name_en": "Binakul",
+    "name_zh": "比纳库尔织",
+    "description_en": "Binakul: Ilocos warp-faced optical weave of interlocking diamonds and stepped cubes (blankets of the universe); not op art painting, not pinilian brocade, not ikat.",
+    "description_zh": "比纳库尔织：伊洛戈经面光学织，互锁菱形与阶梯立方（宇宙毯）；非欧普绘画，非皮尼利安妆花，非絣织。",
+    "source": "hermes-explore",
+    "image": "styles/2715-binakul.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2673",
+    "slug": "ashinagashi",
+    "name_en": "Ashinagashi",
+    "name_zh": "灰流釉",
+    "description_en": "Ashinagashi: high-fired wood-ash glaze that melts and runs in olive-to-amber rivulets over iron clay; not namako glaze, not bidoro drip, not celadon pooling.",
+    "description_zh": "灰流釉：高温木灰釉熔成橄榄至琥珀流纹覆于铁质胎土；非海鼠釉，非玻璃滴釉，非青瓷积釉。",
+    "source": "hermes-explore",
+    "image": "styles/2716-ashinagashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2674",
+    "slug": "kromskop",
+    "name_en": "Kromskop",
+    "name_zh": "克罗姆视镜",
+    "description_en": "Kromskop: Frederic Ives additive three-color viewing of red/green/blue separation records, 1890s; not Autochrome starch grains, not Kodachrome dye, not anaglyph.",
+    "description_zh": "克罗姆视镜：艾夫斯红绿蓝分色底片加色合成观视，1890年代；非奥托克罗姆淀粉颗粒，非柯达克罗姆染料，非红青立体。",
+    "source": "hermes-explore",
+    "image": "styles/2717-kromskop.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2675",
+    "slug": "genoa-velvet",
+    "name_en": "Genoa Velvet",
+    "name_zh": "热那亚绒",
+    "description_en": "Genoa Velvet: pile-on-pile silk velvet with cut and uncut pile forming pomegranate voided patterns and gold brocaded wefts; not ciselé velvet, not voided velvet alone, not Genoa lace.",
+    "description_zh": "热那亚绒：高低绒头丝绒，割绒与圈绒组成石榴镂空纹并夹金纬；非雕绒，非单独镂空绒，非热那亚蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/2718-genoa-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

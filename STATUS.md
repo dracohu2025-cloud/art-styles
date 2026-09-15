@@ -7492,6 +7492,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2713, PNG count 2713. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 535 (exactly 5, h2671–h2675)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                           |
+|-------|---------------|-------------|---------------------------------|
+| h2671 | Punto Antico  | 古针白绣    | styles/2714-punto-antico.png    |
+| h2672 | Binakul       | 比纳库尔织  | styles/2715-binakul.png         |
+| h2673 | Ashinagashi   | 灰流釉      | styles/2716-ashinagashi.png     |
+| h2674 | Kromskop      | 克罗姆视镜  | styles/2717-kromskop.png        |
+| h2675 | Genoa Velvet  | 热那亚绒    | styles/2718-genoa-velvet.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2718, PNG count 2718. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
