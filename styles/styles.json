@@ -35592,5 +35592,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2696",
+    "slug": "epingle",
+    "name_en": "Épinglé",
+    "name_zh": "针圈绒",
+    "description_en": "Épinglé: uncut looped-pile silk velvet with fine warp-wise ribs; matte loop pile, not cut-pile Genoa velvet, not voided velvet, not embroidery.",
+    "description_zh": "针圈绒：未割圈绒丝绒，经向细棱；亚光圈绒，非割绒热那亚绒，非挖花丝绒，非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/2739-epingle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2697",
+    "slug": "turkey-red",
+    "name_en": "Turkey Red",
+    "name_zh": "土耳其红染印",
+    "description_en": "Turkey Red: oil-mordant madder on cotton, saturated oily scarlet ground with printed reserves; not batik crackle, not ikat, not multicolor chintz.",
+    "description_zh": "土耳其红染印：油媒茜草染棉，饱和油润猩红底与印花留白；非蜡染裂纹，非絣织，非多彩钦茨。",
+    "source": "hermes-explore",
+    "image": "styles/2740-turkey-red.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2698",
+    "slug": "blue-resist",
+    "name_en": "Blue Resist",
+    "name_zh": "蓝浆防印",
+    "description_en": "Blue Resist: indigo vat with paste-resist reserved whites on cotton; irregular resist edges, not shibori, not katazome, not cyanotype.",
+    "description_zh": "蓝浆防印：靛蓝还原染配浆防留白棉布；防染边缘略不规则，非绞染，非型染，非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/2741-blue-resist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2699",
+    "slug": "tihuang",
+    "name_en": "Tihuang",
+    "name_zh": "剔黄",
+    "description_en": "Tihuang: carved yellow lacquer, stacked ochre layers cut in V-relief; not cinnabar tihong, not tixi marbled layers, not ticai polychrome.",
+    "description_zh": "剔黄：堆黄漆层V口剔刻浮雕；非剔红，非剔犀犀皮层，非剔彩。",
+    "source": "hermes-explore",
+    "image": "styles/2742-tihuang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2700",
+    "slug": "jajim",
+    "name_en": "Jajim",
+    "name_zh": "贾吉姆条织",
+    "description_en": "Jajim: warp-faced striped wool flatweave of NW Iran/Caucasus, extra-weft accents; not pile carpet, not soumak wrapping, not kilim slitweave.",
+    "description_zh": "贾吉姆条织：伊朗西北与高加索经面彩条平织，辅以少量特纬；非绒毯，非苏马克绕纬，非基里姆裂织。",
+    "source": "hermes-explore",
+    "image": "styles/2743-jajim.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
