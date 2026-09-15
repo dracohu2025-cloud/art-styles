@@ -35917,5 +35917,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2721",
+    "slug": "kyo-yuzen",
+    "name_en": "Kyō Yuzen",
+    "name_zh": "京友禅",
+    "description_en": "Kyō Yuzen: Kyoto paste-resist painted dyeing — rice-paste itome hairlines and decorative dye washes of peony, pine, and flowing water on silk; not Edo Yuzen, not Kaga-yuzen, not kata-yuzen.",
+    "description_zh": "京友禅：京都糊防染手描，糸目发丝线与牡丹松水装饰晕染于绸；非江户友禅、非加贺友禅、非型友禅。",
+    "source": "hermes-explore",
+    "image": "styles/2764-kyo-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2722",
+    "slug": "yasurime",
+    "name_en": "Yasurime",
+    "name_zh": "鑢目",
+    "description_en": "Yasurime: Japanese file-cut metal ground — dense directional file ridges catching raking light on iron or shakudo; not nanako, not ishime-ji, not kebori engraving.",
+    "description_zh": "鑢目：日本金工锉纹地，密排锉脊在铁或赤铜上受侧光；非鱼子地、非石目地、非毛雕。",
+    "source": "hermes-explore",
+    "image": "styles/2765-yasurime.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2723",
+    "slug": "harigaki",
+    "name_en": "Harigaki",
+    "name_zh": "针描",
+    "description_en": "Harigaki: needle-incised drawing in wet urushi — hairline scratches revealing a cinnabar underlayer through glossy dark lacquer; not kebori, not scratchboard, not sgraffito.",
+    "description_zh": "针描：湿漆针刻，发丝划痕透过亮黑漆露出朱漆底层；非毛雕、非刮画、非灰泥刮刻。",
+    "source": "hermes-explore",
+    "image": "styles/2766-harigaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2724",
+    "slug": "surikomi",
+    "name_en": "Surikomi",
+    "name_zh": "摺込",
+    "description_en": "Surikomi: stencil-rubbed pigment on silk — dry-brush color pushed through small katagami, grainy overlapping blooms; not itome-nori outlines, not tegaki yuzen, not katazome paste walls.",
+    "description_zh": "摺込：型纸干刷擦色于绸，颗粒叠色晕开；非糸目糊轮廓、非手描友禅、非型染防染墙。",
+    "source": "hermes-explore",
+    "image": "styles/2767-surikomi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2725",
+    "slug": "jadau",
+    "name_en": "Jadau",
+    "name_zh": "贾道镶嵌",
+    "description_en": "Jadau: Rajasthani closed-back gem setting — uncut polki and cabochons in gold cups with reflective foil backing; not kundan foil-painting, not meenakari miniature, not thewa.",
+    "description_zh": "贾道镶嵌：拉贾斯坦闭背宝石镶嵌，未切波罗基与素面石坐金杯衬反光金箔；非昆丹箔绘、非米纳卡里细密画、非特瓦金玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/2768-jadau.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

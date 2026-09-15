@@ -7632,6 +7632,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2763, PNG count 2763. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 545 (exactly 5, h2721–h2725)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh     | image                         |
+|-------|------------|-------------|-------------------------------|
+| h2721 | Kyō Yuzen  | 京友禅      | styles/2764-kyo-yuzen.png     |
+| h2722 | Yasurime   | 鑢目        | styles/2765-yasurime.png      |
+| h2723 | Harigaki   | 针描        | styles/2766-harigaki.png      |
+| h2724 | Surikomi   | 摺込        | styles/2767-surikomi.png      |
+| h2725 | Jadau      | 贾道镶嵌    | styles/2768-jadau.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2768, PNG count 2768. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
