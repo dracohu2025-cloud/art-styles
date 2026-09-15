@@ -35397,5 +35397,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2681",
+    "slug": "bat-printing",
+    "name_en": "Bat Printing",
+    "name_zh": "胶模扑印",
+    "description_en": "Bat Printing: on-glaze gelatin-bat transfer with stippled powder-color on white porcelain; not underglaze transferware, not lithograph, not willow-pattern.",
+    "description_zh": "胶模扑印：釉上明胶拍转印，粉彩网点落于白瓷；非釉下贴花，非石版，非柳纹青花。",
+    "source": "hermes-explore",
+    "image": "styles/2724-bat-printing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2682",
+    "slug": "pis-siyabit",
+    "name_en": "Pis Siyabit",
+    "name_zh": "西亚比特织",
+    "description_en": "Pis Siyabit: Tausug weft-faced tapestry with stepped zigzag diamonds and hook motifs in saturated complementary stripes; not ikat, not embroidery, not batik.",
+    "description_zh": "西亚比特织：陶苏格纬面织锦，阶梯锯齿菱与钩纹配高饱和条纹；非絣织，非刺绣，非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/2725-pis-siyabit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2683",
+    "slug": "tobi-seiji",
+    "name_en": "Tobi Seiji",
+    "name_zh": "飞青瓷",
+    "description_en": "Tobi Seiji: Longquan-type celadon with scattered iron-brown flying spots blooming through jade-green glaze; not ge crackle, not tenmoku oil-spot, not hakeme.",
+    "description_zh": "飞青瓷：龙泉系青釉中散落铁褐飞斑透出玉色釉层；非哥窑开片，非油滴天目，非刷白。",
+    "source": "hermes-explore",
+    "image": "styles/2726-tobi-seiji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2684",
+    "slug": "sunderland-lustre",
+    "name_en": "Sunderland Lustre",
+    "name_zh": "桑德兰虹彩",
+    "description_en": "Sunderland Lustre: splash pink-to-purple mottled lustre on cream earthenware with naive overglaze line; not even gold, not Satsuma moriage, not platinum luster.",
+    "description_zh": "桑德兰虹彩：乳白陶上粉紫泼溅虹彩与朴拙釉上线描；非匀金，非萨摩盛上，非铂金虹彩。",
+    "source": "hermes-explore",
+    "image": "styles/2727-sunderland-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2685",
+    "slug": "marqueterie-de-verre",
+    "name_en": "Marqueterie de Verre",
+    "name_zh": "玻璃镶片",
+    "description_en": "Marqueterie de Verre: colored glass pieces inlaid into hot glass then wheel-carved, translucent laminations; not pâte-de-verre, not mosaic grout, not stained-glass leading.",
+    "description_zh": "玻璃镶片：彩玻片热嵌后再车刻，透叠色层；非粉铸玻璃，非马赛克填缝，非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/2728-marqueterie-de-verre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

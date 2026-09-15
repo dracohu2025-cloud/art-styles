@@ -7520,6 +7520,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2723, PNG count 2723. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 537 (exactly 5, h2681–h2685)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh       | image                                  |
+|-------|-----------------------|---------------|----------------------------------------|
+| h2681 | Bat Printing          | 胶模扑印      | styles/2724-bat-printing.png           |
+| h2682 | Pis Siyabit           | 西亚比特织    | styles/2725-pis-siyabit.png            |
+| h2683 | Tobi Seiji            | 飞青瓷        | styles/2726-tobi-seiji.png             |
+| h2684 | Sunderland Lustre     | 桑德兰虹彩    | styles/2727-sunderland-lustre.png      |
+| h2685 | Marqueterie de Verre  | 玻璃镶片      | styles/2728-marqueterie-de-verre.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2728, PNG count 2728. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
