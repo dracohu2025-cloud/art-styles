@@ -7618,6 +7618,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2758, PNG count 2758. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 544 (exactly 5, h2716–h2720)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                               |
+|-------|-------------------|-----------------|-------------------------------------|
+| h2716 | Bangjja           | 黄铜锻打        | styles/2759-bangjja.png             |
+| h2717 | Kamikiri          | 纸切            | styles/2760-kamikiri.png            |
+| h2718 | Savona Blue       | 萨沃纳蓝彩      | styles/2761-savona-blue.png         |
+| h2719 | Vermicelli Glaze  | 虫纹釉          | styles/2762-vermicelli-glaze.png    |
+| h2720 | Yachimun          | 冲绳烧          | styles/2763-yachimun.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2763, PNG count 2763. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

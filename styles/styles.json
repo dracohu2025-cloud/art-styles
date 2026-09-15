@@ -35852,5 +35852,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2716",
+    "slug": "bangjja",
+    "name_en": "Bangjja",
+    "name_zh": "黄铜锻打",
+    "description_en": "Bangjja: Korean hand-forged high-tin brassware — concentric hammer rings, ringing yellow-bronze sheen, oxidized seams; not gilt bronze, not hammered copper, not chased silver.",
+    "description_zh": "黄铜锻打：朝鲜手锻高锡黄铜，同心锤环、金黄铜光、氧化接缝；非鎏金铜、非锤铜、非錾银。",
+    "source": "hermes-explore",
+    "image": "styles/2759-bangjja.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2717",
+    "slug": "kamikiri",
+    "name_en": "Kamikiri",
+    "name_zh": "纸切",
+    "description_en": "Kamikiri: Japanese single-sheet paper-cutting — high-contrast scissor silhouette, interior filigree cuts, white negative ground; not kirigami pop-up, not jianzhi, not scherenschnitt.",
+    "description_zh": "纸切：日本单张剪纸，高对比剪刀剪影、内部镂空、白底负形；非立体切纸、非剪纸窗花、非德式剪影。",
+    "source": "hermes-explore",
+    "image": "styles/2760-kamikiri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2718",
+    "slug": "savona-blue",
+    "name_en": "Savona Blue",
+    "name_zh": "萨沃纳蓝彩",
+    "description_en": "Savona Blue: Ligurian tin-glazed maiolica in in-glaze cobalt on milky white, marine-baroque borders; not Delftware, not Faenza bianchi, not azulejo.",
+    "description_zh": "萨沃纳蓝彩：利古里亚锡釉马约利卡，乳白地釉下钴蓝、海巴洛克边饰；非代尔夫特、非法恩扎白地、非阿兹勒霍。",
+    "source": "hermes-explore",
+    "image": "styles/2761-savona-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2719",
+    "slug": "vermicelli-glaze",
+    "name_en": "Vermicelli Glaze",
+    "name_zh": "虫纹釉",
+    "description_en": "Vermicelli Glaze: trailing worm-like glaze filaments and combed slip threads over clay; not neriage, not hakeme, not slip trailing barbotine.",
+    "description_zh": "虫纹釉：泥胎上拖曳虫状釉丝与梳纹化妆土；非练上、非刷毛目、非浮雕化妆土。",
+    "source": "hermes-explore",
+    "image": "styles/2762-vermicelli-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2720",
+    "slug": "yachimun",
+    "name_en": "Yachimun",
+    "name_zh": "冲绳烧",
+    "description_en": "Yachimun: Okinawan Tsuboya folk pottery — iron and cobalt brush on warm clay, fish-wave motifs, ash-glaze pooling; not Mashiko, not Arita sometsuke, not Tsuboya as object still-life.",
+    "description_zh": "冲绳烧：壶屋民窑，暖泥上铁钴笔、鱼浪纹、灰釉积釉；非益子、非有田染付、非器物静物。",
+    "source": "hermes-explore",
+    "image": "styles/2763-yachimun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
