@@ -7506,6 +7506,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2718, PNG count 2718. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 536 (exactly 5, h2676–h2680)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                         |
+|-------|--------------|-----------------|-------------------------------|
+| h2676 | Kusakizome   | 草木染          | styles/2719-kusakizome.png    |
+| h2677 | Kara-nuri    | 唐涂            | styles/2720-kara-nuri.png     |
+| h2678 | Neihua       | 内画            | styles/2721-neihua.png        |
+| h2679 | Dotted Print | 点地金属凸版    | styles/2722-dotted-print.png  |
+| h2680 | Ge Crackle   | 哥窑开片        | styles/2723-ge-crackle.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2723, PNG count 2723. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

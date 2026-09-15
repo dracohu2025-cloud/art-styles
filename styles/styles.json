@@ -35332,5 +35332,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2676",
+    "slug": "kusakizome",
+    "name_en": "Kusakizome",
+    "name_zh": "草木染",
+    "description_en": "Kusakizome: Japanese botanical dyeing with plant mordants—indigo, kakishibu persimmon, madder, gardenia—layered as cloth stains and tide rings; not shibori resist, not synthetic acid dye, not batik wax.",
+    "description_zh": "草木染：植物媒染层叠靛蓝、柿涩、茜草、栀子，呈布面渍斑与水痕；非绞缬防染，非合成酸性染料，非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/2719-kusakizome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2677",
+    "slug": "kara-nuri",
+    "name_en": "Kara-nuri",
+    "name_zh": "唐涂",
+    "description_en": "Kara-nuri: Tsugaru lacquer of stacked colored urushi speckled and polished through into a dense confetti ground; not mokume-gane, not nashiji gold dust, not ordinary marbling.",
+    "description_zh": "唐涂：津轻涂多层色漆撒斑再研磨透出密点锦地；非木目金，非梨地金粉，非普通大理石纹。",
+    "source": "hermes-explore",
+    "image": "styles/2720-kara-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2678",
+    "slug": "neihua",
+    "name_en": "Neihua",
+    "name_zh": "内画",
+    "description_en": "Neihua: Chinese inside-painted glass—hooked-brush mineral pigment on the inner wall, seen through curved glass refraction; not églomisé reverse gilding, not hinterglasmalerei, not snuff-bottle as object title.",
+    "description_zh": "内画：钩笔矿物颜料绘于玻璃内壁，经曲面折射观看；非玻璃背金，非玻璃背绘，非鼻烟壶物名。",
+    "source": "hermes-explore",
+    "image": "styles/2721-neihua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2679",
+    "slug": "dotted-print",
+    "name_en": "Dotted Print",
+    "name_zh": "点地金属凸版",
+    "description_en": "Dotted Print: 15th-century metalcut with punched white dots in a black plate ground (criblé bite on laid paper); not stipple engraving, not Benday, not pointillism.",
+    "description_zh": "点地金属凸版：十五世纪金属凸版，黑地上冲压白点印于布纹纸；非点刻铜版，非本戴网点，非点彩。",
+    "source": "hermes-explore",
+    "image": "styles/2722-dotted-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2680",
+    "slug": "ge-crackle",
+    "name_en": "Ge Crackle",
+    "name_zh": "哥窑开片",
+    "description_en": "Ge Crackle: Ge-kiln double crackle of iron-wire and golden-thread over gray-beige glaze; not guan crackle, not raku crazing, not celadon pooling.",
+    "description_zh": "哥窑开片：铁线与金丝双重开片覆于灰米色釉；非官窑开片，非乐烧裂纹，非青瓷积釉。",
+    "source": "hermes-explore",
+    "image": "styles/2723-ge-crackle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
