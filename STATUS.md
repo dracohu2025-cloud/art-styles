@@ -7758,6 +7758,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2808, PNG count 2808. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 554 (exactly 5, h2766–h2770)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                            |
+|-------|-----------------|-----------------|----------------------------------|
+| h2766 | Punticini       | 细点画法        | styles/2809-punticini.png        |
+| h2767 | Peinture Claire | 明调画法        | styles/2810-peinture-claire.png  |
+| h2768 | Sauce Drawing   | 酱粉素描        | styles/2811-sauce-drawing.png    |
+| h2769 | Slender Gold    | 瘦金体          | styles/2812-slender-gold.png     |
+| h2770 | Mezzograph      | 网目照相凹版    | styles/2813-mezzograph.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2813, PNG count 2813. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

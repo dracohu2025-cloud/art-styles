@@ -36502,5 +36502,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2766",
+    "slug": "punticini",
+    "name_en": "Punticini",
+    "name_zh": "细点画法",
+    "description_en": "Venetian 18th-century oil built from tiny dotted touches; form flickers as cream, terracotta, and lagoon dabs instead of blended planes.",
+    "description_zh": "细点画法：十八世纪威尼斯油画以细密点触造型，奶油色、陶土色与泻湖青绿点代替平涂融合。",
+    "source": "hermes-explore",
+    "image": "styles/2809-punticini.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2767",
+    "slug": "peinture-claire",
+    "name_en": "Peinture Claire",
+    "name_zh": "明调画法",
+    "description_en": "High-key Impressionist painting on a pale ground: light-on-light, little dark underpainting, airy broken color that stays sun-bleached.",
+    "description_zh": "明调画法：浅色底上的高调印象派画法，以明画明，少用暗底，碎笔保持晒白的明亮。",
+    "source": "hermes-explore",
+    "image": "styles/2810-peinture-claire.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2768",
+    "slug": "sauce-drawing",
+    "name_en": "Sauce Drawing",
+    "name_zh": "酱粉素描",
+    "description_en": "Powdered black chalk “sauce” rubbed into laid paper; stump-smoked masses and lifted lights in velvety 18th–19th century monochrome.",
+    "description_zh": "酱粉素描：把黑色粉笔粉揉进罗纹纸，擦笔烟晕与提出高光，十八至十九世纪绒面单色。",
+    "source": "hermes-explore",
+    "image": "styles/2811-sauce-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2769",
+    "slug": "slender-gold",
+    "name_en": "Slender Gold",
+    "name_zh": "瘦金体",
+    "description_en": "Pictorial line in Shoujin energy: wiry tapered strokes, goose-head hooks, sparse mineral tint only in the gaps.",
+    "description_zh": "瘦金体：以宋徽宗瘦金笔意作画，尖起细收、鹅头钩折，空隙仅留淡彩。",
+    "source": "hermes-explore",
+    "image": "styles/2812-slender-gold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2770",
+    "slug": "mezzograph",
+    "name_en": "Mezzograph",
+    "name_zh": "网目照相凹版",
+    "description_en": "Early photomechanical grain-screen intaglio: irregular resin dust instead of halftone dots, velvety continuous-tone blacks on copper warmth.",
+    "description_zh": "网目照相凹版：早期照相凹印以不规则树脂颗粒代替网点，铜版温黑与连续调绒面。",
+    "source": "hermes-explore",
+    "image": "styles/2813-mezzograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
