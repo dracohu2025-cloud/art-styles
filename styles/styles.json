@@ -35527,5 +35527,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2691",
+    "slug": "ronde-bosse-enamel",
+    "name_en": "Ronde-bosse Enamel",
+    "name_zh": "圆雕珐琅",
+    "description_en": "Émail en ronde-bosse: sculpted gold fully coated in jewel-toned vitreous enamel, granules and fire-scale; not cloisonné wires, not painted enamel miniature, not ceramic glaze.",
+    "description_zh": "圆雕珐琅：立体金胎满覆宝石色玻璃釉，金珠与火斑；非掐丝隔室，非画珐琅小品，非陶釉。",
+    "source": "hermes-explore",
+    "image": "styles/2734-ronde-bosse-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2692",
+    "slug": "junyao",
+    "name_en": "Junyao",
+    "name_zh": "钧窑",
+    "description_en": "Jun ware glaze: thick milky sky-blue to lavender transmutation, worm-tracks and copper-red blooms; not celadon, not Langyao oxblood, not oil-spot tenmoku.",
+    "description_zh": "钧窑：乳浊天蓝至茄紫窑变，蚯蚓走泥与铜红晕斑；非青瓷，非郎窑红，非油滴天目。",
+    "source": "hermes-explore",
+    "image": "styles/2735-junyao.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2693",
+    "slug": "ferronerie-velvet",
+    "name_en": "Ferronerie Velvet",
+    "name_zh": "铁饰丝绒",
+    "description_en": "Ferronerie velvet: voided silk pile cut into ironwork strapwork against a satin ground; not printed cloth, not embroidery, not allover floral Genoa velvet.",
+    "description_zh": "铁饰丝绒：割绒与露地缎底织出铁艺卷草；非印花布，非刺绣，非满地花卉热那亚绒。",
+    "source": "hermes-explore",
+    "image": "styles/2736-ferronerie-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2694",
+    "slug": "dutch-stipple",
+    "name_en": "Dutch Stipple",
+    "name_zh": "荷兰点刻",
+    "description_en": "Dutch stipple glass (stippelgravure): diamond-point white dots on dark glass, luminous spark portrait; not mezzotint, not copper stipple engraving, not sandblast frost.",
+    "description_zh": "荷兰点刻：金刚石在暗玻璃上点出白光肖像；非美柔汀，非铜版点刻，非喷砂蒙砂。",
+    "source": "hermes-explore",
+    "image": "styles/2737-dutch-stipple.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2695",
+    "slug": "crewelwork",
+    "name_en": "Crewelwork",
+    "name_zh": "绒线绣",
+    "description_en": "Crewelwork: wool yarn on linen twill, long-and-short stitch, French knots and laid stems; not silk needle painting, not tapestry weave, not printed chintz.",
+    "description_zh": "绒线绣：亚麻斜纹上羊毛纱，长短针、法式结与铺线茎；非丝绸针绘，非织锦，非印花棉布。",
+    "source": "hermes-explore",
+    "image": "styles/2738-crewelwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

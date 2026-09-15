@@ -7548,6 +7548,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2733, PNG count 2733. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 539 (exactly 5, h2691–h2695)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh     | image                               |
+|-------|---------------------|-------------|-------------------------------------|
+| h2691 | Ronde-bosse Enamel  | 圆雕珐琅    | styles/2734-ronde-bosse-enamel.png  |
+| h2692 | Junyao              | 钧窑        | styles/2735-junyao.png              |
+| h2693 | Ferronerie Velvet   | 铁饰丝绒    | styles/2736-ferronerie-velvet.png   |
+| h2694 | Dutch Stipple       | 荷兰点刻    | styles/2737-dutch-stipple.png       |
+| h2695 | Crewelwork          | 绒线绣      | styles/2738-crewelwork.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2738, PNG count 2738. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
