@@ -7450,6 +7450,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2698, PNG count 2698. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 532 (exactly 5, h2656–h2660)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                           |
+|-------|---------------|-------------|---------------------------------|
+| h2656 | Li Brocade    | 黎锦        | styles/2699-li-brocade.png      |
+| h2657 | Sand Casting  | 砂型铸造    | styles/2700-sand-casting.png    |
+| h2658 | Sink Raising  | 沉锤成型    | styles/2701-sink-raising.png    |
+| h2659 | Migakiji      | 磨地        | styles/2702-migakiji.png        |
+| h2660 | Echigo Jofu   | 越后上布    | styles/2703-echigo-jofu.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2703, PNG count 2703. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

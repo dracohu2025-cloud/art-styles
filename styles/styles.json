@@ -35072,5 +35072,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2656",
+    "slug": "li-brocade",
+    "name_en": "Li Brocade",
+    "name_zh": "黎锦",
+    "description_en": "Li Brocade: Hainan Li warp-faced cotton brocade — supplementary-weft geometric registers, frog and diamond bands in brick-red, indigo, black and yellow; not Zhuang brocade, not Songket gold-weft, not batik.",
+    "description_zh": "黎锦：海南黎族经面棉锦，彩纬几何格、蛙纹与菱带，砖红、靛蓝、黑与黄；非壮锦，非宋吉织金，非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/2699-li-brocade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2657",
+    "slug": "sand-casting",
+    "name_en": "Sand Casting",
+    "name_zh": "砂型铸造",
+    "description_en": "Sand Casting: green-sand mold metal — packed silica grain, parting line, riser scars, as-cast sand-burn skin; not lost-wax polish, not die-cast chrome, not carved wood.",
+    "description_zh": "砂型铸造：湿砂造型金属，硅砂颗粒、分型线与冒口疤、铸态砂烧表皮；非失蜡抛光，非压铸亮铬，非木雕。",
+    "source": "hermes-explore",
+    "image": "styles/2700-sand-casting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2658",
+    "slug": "sink-raising",
+    "name_en": "Sink Raising",
+    "name_zh": "沉锤成型",
+    "description_en": "Sink Raising: sheet metal sunk into a form with raising hammers — concentric planish rings, stretched bowl volume, annealed fire-scale; not anticlastic raising, not reverse repoussé, not spinning.",
+    "description_zh": "沉锤成型：钣金沉入模具锤起，同心锤光环、拉伸碗体与退火火色；非反向曲率锤起，非背面锤揲，非旋压。",
+    "source": "hermes-explore",
+    "image": "styles/2701-sink-raising.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2659",
+    "slug": "migakiji",
+    "name_en": "Migakiji",
+    "name_zh": "磨地",
+    "description_en": "Migakiji: Japanese polished-metal ground — oil-stone then charcoal burnish on iron or shakudo, hair-fine directional grain, cold steel sheen; not nanako fish-roe punch, not ishime stone-ground, not chrome photography.",
+    "description_zh": "磨地：日本金工镜面地，油石再木炭抛光铁或赤铜，细向磨痕与冷钢光泽；非鱼子地，非石目地，非镀铬摄影。",
+    "source": "hermes-explore",
+    "image": "styles/2702-migakiji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2660",
+    "slug": "echigo-jofu",
+    "name_en": "Echigo Jofu",
+    "name_zh": "越后上布",
+    "description_en": "Echigo Jofu: Niigata ramie summer cloth — ultra-fine choma plain-weave, slight crepe shrinkage, pale indigo kasuri dashes on cool off-white; not Miyako jofu, not bashofu, not silk tsumugi.",
+    "description_zh": "越后上布：新潟苎麻夏布，极细苧麻平织、微缩绉感、冷白地上淡靛蓝絣点；非宫古上布，非芭蕉布，非绢紬。",
+    "source": "hermes-explore",
+    "image": "styles/2703-echigo-jofu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
