@@ -7310,6 +7310,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2648, PNG count 2648. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 522 (exactly 5, h2606–h2610)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh         | image                            |
+|-------|---------------|-----------------|----------------------------------|
+| h2606 | Berainesque   | 贝兰纹样        | styles/2649-berainesque.png      |
+| h2607 | Dresden Work  | 德累斯顿白绣    | styles/2650-dresden-work.png     |
+| h2608 | Kata-yuzen    | 型友禅          | styles/2651-kata-yuzen.png       |
+| h2609 | Ribbon Glass  | 缎带玻璃        | styles/2652-ribbon-glass.png     |
+| h2610 | Cowichan      | 考伊琴织        | styles/2653-cowichan.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2653, PNG count 2653. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

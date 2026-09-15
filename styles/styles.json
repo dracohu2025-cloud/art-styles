@@ -34422,5 +34422,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2606",
+    "slug": "berainesque",
+    "name_en": "Berainesque",
+    "name_zh": "贝兰纹样",
+    "description_en": "Berainesque: Jean Bérain Louis XIV grotesque — airy ivory panels of fine black-and-gold arabesques, lambrequin canopies, light grottesche masks and beasts; not singerie-as-subject, not rocaille shells, not chinoiserie.",
+    "description_zh": "贝兰纹样：让·贝兰式路易十四怪诞饰，浅象牙地细黑金卷草、帷幔檐饰与轻盈面具走兽；非猴戏主题、非洛可可岩贝、非中国风。",
+    "source": "hermes-explore",
+    "image": "styles/2649-berainesque.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2607",
+    "slug": "dresden-work",
+    "name_en": "Dresden Work",
+    "name_zh": "德累斯顿白绣",
+    "description_en": "Dresden Work: 18th-century Saxon whitework — white-on-white pulled- and drawn-thread grids, shadow-work flowers and needle-lace fillings on fine linen; not Schwalm, not Ayrshire, not Hardanger kloster blocks, not bobbin lace.",
+    "description_zh": "德累斯顿白绣：十八世纪萨克森白绣，细亚麻上白对白抽纱网格、影绣小花与针绣填地；非施瓦尔姆、非艾尔郡、非哈当厄尔方块、非梭结蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/2650-dresden-work.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2608",
+    "slug": "kata-yuzen",
+    "name_en": "Kata-yuzen",
+    "name_zh": "型友禅",
+    "description_en": "Kata-yuzen: stencil yuzen — rice-paste resist through katagami onto silk, hard registered edges and flat dye fields; not tegaki yuzen brush shading, not Kaga-yuzen, not indigo katazome, not bingata.",
+    "description_zh": "型友禅：型纸友禅，糯糊经型纸防染于丝绸，边缘硬齐、色块平整；非手描友禅晕染、非加贺友禅、非蓝染型染、非红型。",
+    "source": "hermes-explore",
+    "image": "styles/2651-kata-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2609",
+    "slug": "ribbon-glass",
+    "name_en": "Ribbon Glass",
+    "name_zh": "缎带玻璃",
+    "description_en": "Ribbon Glass: Hellenistic/Roman ribbon mosaic glass — fused parallel opaque glass ribbons laminated into a glossy slab; not blown filigrana threads, not millefiori cane slices, not latticino, not agate glass.",
+    "description_zh": "缎带玻璃：希腊化/罗马缎带马赛克玻璃，不透明色带熔叠成光亮板块；非吹制玻璃丝绵、非千花切片、非白丝玻璃、非玛瑙玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/2652-ribbon-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2610",
+    "slug": "cowichan",
+    "name_en": "Cowichan",
+    "name_zh": "考伊琴织",
+    "description_en": "Cowichan: Coast Salish bulky sweater knitting — undyed cream/brown/charcoal handspun wool, heavy-gauge two-color geometric eagles and waves; not Fair Isle multi-color fine stranded, not Aran cables, not Selbu roses.",
+    "description_zh": "考伊琴织：海岸萨利希粗纺毛衣，本色米/棕/炭灰手纺羊毛、粗针两色几何鹰与波浪；非费尔岛多色细提花、非阿兰绞花、非塞尔布玫瑰。",
+    "source": "hermes-explore",
+    "image": "styles/2653-cowichan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
