@@ -7380,6 +7380,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2673, PNG count 2673. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 527 (exactly 5, h2631–h2635)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2631 | Cavandoli       | 卡万多利编      | styles/2674-cavandoli.png          |
+| h2632 | Fuki-nori       | 吹糊            | styles/2675-fuki-nori.png          |
+| h2633 | Adras           | 阿德拉斯经絣    | styles/2676-adras.png              |
+| h2634 | Ghiordes Knot   | 土耳其绒结      | styles/2677-ghiordes-knot.png      |
+| h2635 | Schiffli        | 席费利绣        | styles/2678-schiffli.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2678, PNG count 2678. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

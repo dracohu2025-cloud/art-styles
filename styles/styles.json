@@ -34747,5 +34747,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2631",
+    "slug": "cavandoli",
+    "name_en": "Cavandoli",
+    "name_zh": "卡万多利编",
+    "description_en": "Cavandoli: macramé tapestry of stacked horizontal double half-hitches — color changes ride the warp as weft-faced knot bars, cord twist and bead-like knots visible, stepped geometric fields. Not knitting, not Bargello, not needlepoint.",
+    "description_zh": "卡万多利编：水平双半结堆叠成壁挂，颜色沿经线成纬面结带，绳捻与结粒可见、色块呈阶梯几何；非编织、非火焰绣、非绒绣。",
+    "source": "hermes-explore",
+    "image": "styles/2674-cavandoli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2632",
+    "slug": "fuki-nori",
+    "name_en": "Fuki-nori",
+    "name_zh": "吹糊",
+    "description_en": "Fuki-nori: blown rice-paste resist on silk — misty aerosol nori veils, spray-edge halos, dye blooming through broken paste rather than sharp itome outlines. Not kata-yuzen stencil edges, not shibori puckers, not watercolor paper.",
+    "description_zh": "吹糊：将防染糊吹上丝绸，雾状糊幕与喷缘光晕，染料从破碎糊层渗开而非糸目细线；非型友禅利边、非绞染皱褶、非水彩纸。",
+    "source": "hermes-explore",
+    "image": "styles/2675-fuki-nori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2633",
+    "slug": "adras",
+    "name_en": "Adras",
+    "name_zh": "阿德拉斯经絣",
+    "description_en": "Adras: Central Asian warp-ikat silk (atlas) — clouded color bands, ikat bleed along the warp only, satin sheen, Ferghana magentas, golds, emerald and indigo. Not weft ikat, not batik crackle, not digital blur.",
+    "description_zh": "阿德拉斯经絣：中亚经絣丝绸，色带如云、仅沿经线渗晕、缎面光泽，费尔干纳品红、金、翠绿与靛蓝；非纬絣、非蜡染裂纹、非数码模糊。",
+    "source": "hermes-explore",
+    "image": "styles/2676-adras.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2634",
+    "slug": "ghiordes-knot",
+    "name_en": "Ghiordes Knot",
+    "name_zh": "土耳其绒结",
+    "description_en": "Ghiordes knot: Turkish symmetrical pile knot as cut-pile carpet — dense tuft mosaic, knot grid at the selvedge, madder-indigo-ochre Anatolian palette. Not kilim slitweave, not Senneh asymmetric knot, not latch-hook craft.",
+    "description_zh": "土耳其绒结：对称绒结裁绒地毯，密簇如嵌、边缘可见结网，茜红靛蓝赭石安纳托利亚配色；非基里姆裂织、非塞纳不对称结、非钩绒。",
+    "source": "hermes-explore",
+    "image": "styles/2677-ghiordes-knot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2635",
+    "slug": "schiffli",
+    "name_en": "Schiffli",
+    "name_zh": "席费利绣",
+    "description_en": "Schiffli: multi-needle shuttle embroidery — raised lockstitch and satin fields, perforated needle holes in taut ground cloth, industrial regularity and glossy thread build-up. Not hand embroidery, not Schwalm whitework, not printed fabric.",
+    "description_zh": "席费利绣：多针梭式机绣，锁针与缎针隆起、底布针孔密布、工业匀整与线光堆积；非手绣、非施瓦尔姆白绣、非印花。",
+    "source": "hermes-explore",
+    "image": "styles/2678-schiffli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
