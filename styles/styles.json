@@ -35982,5 +35982,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2726",
+    "slug": "cintamani",
+    "name_en": "Cintamani",
+    "name_zh": "吉祥三珠纹",
+    "description_en": "Cintamani: Ottoman–Timurid textile pattern of three-pearl spot triads paired with double wavy tiger-stripe bands on silk; not leopard print, not paisley, not random polka dots.",
+    "description_zh": "吉祥三珠纹：奥斯曼—帖木儿织物纹样，三珠点阵配双波虎纹条带铺满丝绸；非豹纹、非佩斯利、非随意波点。",
+    "source": "hermes-explore",
+    "image": "styles/2769-cintamani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2727",
+    "slug": "point-de-france",
+    "name_en": "Point de France",
+    "name_zh": "法兰西针绣",
+    "description_en": "Point de France: Louis XIV baroque needle lace with raised scrolling florals, cordonnet, and picot-edged brides; not Alençon réseau, not Chantilly tulle, not crochet.",
+    "description_zh": "法兰西针绣：路易十四巴洛克针绣蕾丝，浮雕卷草、加粗轮廓线与齿边连接条；非阿朗松网眼、非尚蒂伊薄纱、非钩针。",
+    "source": "hermes-explore",
+    "image": "styles/2770-point-de-france.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2728",
+    "slug": "hobnail-glass",
+    "name_en": "Hobnail Glass",
+    "name_zh": "钉头玻璃",
+    "description_en": "Hobnail Glass: pressed-glass surface of regular raised pyramidal bosses with mold seams and refractive knobs; not brilliant-cut crystal, not carnival iridescence, not diamond-point engraving.",
+    "description_zh": "钉头玻璃：模压玻璃规则凸起锥钉，带合模线与折射凸点；非灿烂切割水晶、非嘉年华虹彩、非金刚石点刻。",
+    "source": "hermes-explore",
+    "image": "styles/2771-hobnail-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2729",
+    "slug": "sujime-shibori",
+    "name_en": "Sujime Shibori",
+    "name_zh": "筋目绞",
+    "description_en": "Sujime Shibori: pole-wrapped Japanese resist dyeing that reserves tight parallel sinew-like stripes in indigo; not arashi diagonal wrap, not kanoko dots, not itajime clamps.",
+    "description_zh": "筋目绞：绕杆捆绑防染，留下紧密平行筋状条纹的靛蓝绞缬；非岚绞斜缠、非鹿子点、非板夹绞。",
+    "source": "hermes-explore",
+    "image": "styles/2772-sujime-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2730",
+    "slug": "parang",
+    "name_en": "Parang",
+    "name_zh": "巴朗纹",
+    "description_en": "Parang: Javanese batik of diagonal broken-blade S-curves in indigo and sogan with wax crackle; not kawung circles, not mega mendung clouds, not ceplok medallions.",
+    "description_zh": "巴朗纹：爪哇蜡染斜向断刃S形重复，靛蓝与索甘棕带蜡裂纹；非Kawung圆环、非云纹、非Ceplok团花。",
+    "source": "hermes-explore",
+    "image": "styles/2773-parang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

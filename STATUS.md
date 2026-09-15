@@ -7646,6 +7646,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2768, PNG count 2768. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 546 (exactly 5, h2726–h2730)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh       | image                              |
+|-------|------------------|---------------|------------------------------------|
+| h2726 | Cintamani        | 吉祥三珠纹    | styles/2769-cintamani.png          |
+| h2727 | Point de France  | 法兰西针绣    | styles/2770-point-de-france.png    |
+| h2728 | Hobnail Glass    | 钉头玻璃      | styles/2771-hobnail-glass.png      |
+| h2729 | Sujime Shibori   | 筋目绞        | styles/2772-sujime-shibori.png     |
+| h2730 | Parang           | 巴朗纹        | styles/2773-parang.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2773, PNG count 2773. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
