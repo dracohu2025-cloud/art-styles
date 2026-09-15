@@ -7352,6 +7352,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2663, PNG count 2663. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 525 (exactly 5, h2621–h2625)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2621 | Kirihaku        | 切箔            | styles/2664-kirihaku.png           |
+| h2622 | Shadow Work     | 影绣            | styles/2665-shadow-work.png        |
+| h2623 | Mstyora         | 姆斯乔拉漆画    | styles/2666-mstyora.png            |
+| h2624 | Kiso-nuri       | 木曾涂          | styles/2667-kiso-nuri.png          |
+| h2625 | Suyari-gasumi   | 末遣霞          | styles/2668-suyari-gasumi.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2668, PNG count 2668. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

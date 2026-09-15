@@ -34617,5 +34617,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2621",
+    "slug": "kirihaku",
+    "name_en": "Kirihaku",
+    "name_zh": "切箔",
+    "description_en": "Kirihaku: Japanese cut-foil — square and rectangular gold and silver chips with sharp scissor edges laid in grids, aureoles, and garment fields; mineral color only in the gaps. Not surihaku sheet foil, not sunago dust, not nuihaku.",
+    "description_zh": "切箔：裁切金箔银箔方片，锐边铺成网格、光轮与衣纹，矿物色仅填缝隙；非整张摺箔、非砂子、非绣箔。",
+    "source": "hermes-explore",
+    "image": "styles/2664-kirihaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2622",
+    "slug": "shadow-work",
+    "name_en": "Shadow Work",
+    "name_zh": "影绣",
+    "description_en": "Shadow Work: closed herringbone and double backstitch on the reverse of sheer muslin so muted color-blocks show through as translucent shadows; thin white surface stitch only as accent. Not opaque chikankari, not shadow weave, not shadowgraphy.",
+    "description_zh": "影绣：在薄纱背面以闭式人字针与双回针绣出透出的淡彩块影，正面仅细白线点缀；非密实奇坎白绣、非阴影织、非光影剪影。",
+    "source": "hermes-explore",
+    "image": "styles/2665-shadow-work.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2623",
+    "slug": "mstyora",
+    "name_en": "Mstyora",
+    "name_zh": "姆斯乔拉漆画",
+    "description_en": "Mstyora: Russian lacquer-miniature school on papier-mâché — carpet-like floral ornament, pastel-tinted landscape, soft blended local color and gold scroll on a deep ground; lighter and less black-outlined than Palekh. Not Fedoskino oil realism, not Kholuy.",
+    "description_zh": "姆斯乔拉：俄罗斯纸浆漆盒细密画，花卉地毯纹、浅彩风景、柔和本地色与金卷草；比帕列赫更淡、少黑线；非费多谢基诺油画写实、非霍卢伊。",
+    "source": "hermes-explore",
+    "image": "styles/2666-mstyora.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2624",
+    "slug": "kiso-nuri",
+    "name_en": "Kiso-nuri",
+    "name_zh": "木曾涂",
+    "description_en": "Kiso-nuri: Nagano Kiso lacquer — transparent to semi-transparent amber and tea-brown urushi over wood with grain still visible and a warm carved-craft gloss. Not Shunkei yellow-clear only, not Wajima cloth-backed, not Kawatsura satin chestnut.",
+    "description_zh": "木曾涂：长野木曾漆，琥珀至茶褐半透明漆覆木，木纹可见，温润雕作光泽；非纯黄春庆、非轮岛布着、非川连缎栗。",
+    "source": "hermes-explore",
+    "image": "styles/2667-kiso-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2625",
+    "slug": "suyari-gasumi",
+    "name_en": "Suyari-gasumi",
+    "name_zh": "末遣霞",
+    "description_en": "Suyari-gasumi: Yamato-e trailing-mist convention — long horizontal gold and mineral cloud bands with scalloped torn-paper edges that slice the picture into stacked registers. Not generic fog, not Western sfumato, not tiny triangular kasumi only.",
+    "description_zh": "末遣霞：大和绘横贯金霞与矿物色云带，花边或撕纸状软边把画面切成叠层；非普通雾气、非西方烟雾法、非小三角霞。",
+    "source": "hermes-explore",
+    "image": "styles/2668-suyari-gasumi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
