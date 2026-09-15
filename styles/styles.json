@@ -34487,5 +34487,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2611",
+    "slug": "spalliera",
+    "name_en": "Spalliera",
+    "name_zh": "墙裙嵌板画",
+    "description_en": "Spalliera: Italian Renaissance painted wooden wainscot — tempera on poplar dado panels, grottesche candelabra borders, cassone-workshop finish; not fresco walls, not easel altarpieces, not cassone fronts alone.",
+    "description_zh": "墙裙嵌板画：意大利文艺复兴木板墙裙，杨木蛋彩、怪诞烛台边饰、箱柜作坊罩漆；非湿壁画墙、非祭坛架上画、非仅婚礼箱正面。",
+    "source": "hermes-explore",
+    "image": "styles/2654-spalliera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2612",
+    "slug": "jacquard",
+    "name_en": "Jacquard",
+    "name_zh": "提花织",
+    "description_en": "Jacquard: punch-card figured weaving — pictorial cloth built from warp and weft, mechanical brocade grid; not tapestry weft-facing Gobelin, not embroidery, not printed chintz.",
+    "description_zh": "提花织：纹板提花机纹织，经纬构成画面、机械锦纹网格；非戈布兰纬面挂毯、非刺绣、非印花印棉。",
+    "source": "hermes-explore",
+    "image": "styles/2655-jacquard.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2613",
+    "slug": "kyo-komon",
+    "name_en": "Kyo-komon",
+    "name_zh": "京小纹",
+    "description_en": "Kyo-komon: Kyoto fine-pattern stencil dyeing — allover katagami micro-motifs slightly more pictorial than Edo komon; not Edo komon punctate formality, not yuzen pictorial reserves, not bingata tropical color.",
+    "description_zh": "京小纹：京都精细型染小纹，满地型纸微纹、比江户小纹略具画意；非江户小纹点刻礼制、非友禅留白绘纹、非红型热带配色。",
+    "source": "hermes-explore",
+    "image": "styles/2656-kyo-komon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2614",
+    "slug": "aran-knit",
+    "name_en": "Aran Knit",
+    "name_zh": "阿兰绞花",
+    "description_en": "Aran Knit: Irish cable knitting — honeycomb, trellis, diamond and bobble relief in creamy undyed wool; not Cowichan two-color geometrics, not Fair Isle stranded colorwork, not jersey stockinette.",
+    "description_zh": "阿兰绞花：爱尔兰绞花针织，蜂巢、格架、菱格与豆针浮雕、本色乳白羊毛；非考伊琴两色几何、非费尔岛提花配色、非平针卫衣。",
+    "source": "hermes-explore",
+    "image": "styles/2657-aran-knit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2615",
+    "slug": "reverse-applique",
+    "name_en": "Reverse Appliqué",
+    "name_zh": "反向贴花",
+    "description_en": "Reverse Appliqué: stacked cloth cut away to reveal under-layers, whipstitched cut edges and nested color strata; not surface appliqué patches, not patchwork piecework, not embroidery fill.",
+    "description_zh": "反向贴花：叠布剪露下层，锁缝切口与嵌套色层；非表面贴花补片、非拼布裁片、非绣填。",
+    "source": "hermes-explore",
+    "image": "styles/2658-reverse-applique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -7324,6 +7324,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2653, PNG count 2653. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 523 (exactly 5, h2611–h2615)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                               |
+|-------|-------------------|-----------------|-------------------------------------|
+| h2611 | Spalliera         | 墙裙嵌板画      | styles/2654-spalliera.png           |
+| h2612 | Jacquard          | 提花织          | styles/2655-jacquard.png            |
+| h2613 | Kyo-komon         | 京小纹          | styles/2656-kyo-komon.png           |
+| h2614 | Aran Knit         | 阿兰绞花        | styles/2657-aran-knit.png           |
+| h2615 | Reverse Appliqué  | 反向贴花        | styles/2658-reverse-applique.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2658, PNG count 2658. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
