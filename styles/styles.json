@@ -34942,5 +34942,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2646",
+    "slug": "beiderwand",
+    "name_en": "Beiderwand",
+    "name_zh": "拜德万织",
+    "description_en": "Beiderwand: tied compound weave with extra binding warps locking pattern wefts on a ribbed ground — blocky German/Baltic figures, not overshot, not lampas satin.",
+    "description_zh": "拜德万织：绑经复合组织，另设接结经锁定纹纬于棱纹地；德波罗的块面纹样，非覆盖织，非妆花缎。",
+    "source": "hermes-explore",
+    "image": "styles/2689-beiderwand.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2647",
+    "slug": "diasper",
+    "name_en": "Diasper",
+    "name_zh": "迪亚斯珀织",
+    "description_en": "Diasper: medieval compound figured silk — pattern wefts twill-bound over a tabby/twill ground, stiff gold vegetal repeats; not velvet pile, not brocade tissue.",
+    "description_zh": "迪亚斯珀织：中世纪复合花丝，纹纬斜纹固结于平纹或斜纹地，硬挺金银植物循环；非绒经，非多层花缎。",
+    "source": "hermes-explore",
+    "image": "styles/2690-diasper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2648",
+    "slug": "tenassen",
+    "name_en": "Tenassen",
+    "name_zh": "手捺染",
+    "description_en": "Tenassen: Japanese hand nassen — color paste pushed through a stencil or screen, raised pigment skin and mesh kiss; not yuzen resist, not chusen pour-dye.",
+    "description_zh": "手捺染：日本手工捺印，色糊经型版或筛网压上布面，微凸色膜与网纹吻痕；非友禅防染，非注染。",
+    "source": "hermes-explore",
+    "image": "styles/2691-tenassen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2649",
+    "slug": "tuotai",
+    "name_en": "Tuotai",
+    "name_zh": "脱胎漆",
+    "description_en": "Tuotai: bodiless lacquer — many coats over a core that is later removed, leaving an eggshell-thin hollow skin; not carved tixi, not Pingyao tuiguang.",
+    "description_zh": "脱胎漆：布或泥胎多层髹漆后脱出，剩极轻薄中空漆皮；非剔犀雕漆，非平遥推光描金。",
+    "source": "hermes-explore",
+    "image": "styles/2692-tuotai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2650",
+    "slug": "leno-weave",
+    "name_en": "Leno Weave",
+    "name_zh": "绞纱织",
+    "description_en": "Leno weave: paired warps twist around each weft, locking an open stable gauze mesh; not bobbin lace, not Bronson lace, not huck.",
+    "description_zh": "绞纱织：相邻经丝成对绞绕纬线，锁定稳定透空纱罗窗格；非线轴蕾丝，非布朗森透织，非哈克织。",
+    "source": "hermes-explore",
+    "image": "styles/2693-leno-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

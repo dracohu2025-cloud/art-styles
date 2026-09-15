@@ -7422,6 +7422,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2688, PNG count 2688. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 530 (exactly 5, h2646–h2650)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                          |
+|-------|-------------|-------------|--------------------------------|
+| h2646 | Beiderwand  | 拜德万织    | styles/2689-beiderwand.png     |
+| h2647 | Diasper     | 迪亚斯珀织  | styles/2690-diasper.png        |
+| h2648 | Tenassen    | 手捺染      | styles/2691-tenassen.png       |
+| h2649 | Tuotai      | 脱胎漆      | styles/2692-tuotai.png         |
+| h2650 | Leno Weave  | 绞纱织      | styles/2693-leno-weave.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2693, PNG count 2693. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
