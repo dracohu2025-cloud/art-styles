@@ -34292,5 +34292,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2596",
+    "slug": "vermicule",
+    "name_en": "Vermiculé",
+    "name_zh": "虫纹錾地",
+    "description_en": "Vermiculé: goldsmith ground of dense worm-like engraved tracks, matte bitten gold vs burnished ridges filling every plane; not opus vermiculatum mosaic, not guilloché, not niello.",
+    "description_zh": "虫纹錾地：金工表面密布蠕虫状錾痕，哑光咬金与抛光脊线铺满全幅；非蠕虫镶嵌马赛克、非机刻波纹、非乌银。",
+    "source": "hermes-explore",
+    "image": "styles/2639-vermicule.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2597",
+    "slug": "cut-card",
+    "name_en": "Cut-card",
+    "name_zh": "剪片贴银",
+    "description_en": "Cut-card work: layered saw-cut sheet-silver appliqués soldered in low relief, bright-cut edges and planished sheen; not repoussé, not engraving-only, not filigree.",
+    "description_zh": "剪片贴银：锯切银片分层焊贴成浅浮雕，亮切边与锤光银泽；非锤揲、非纯线刻、非金银丝。",
+    "source": "hermes-explore",
+    "image": "styles/2640-cut-card.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2598",
+    "slug": "bilston-enamel",
+    "name_en": "Bilston Enamel",
+    "name_zh": "比尔斯顿珐琅",
+    "description_en": "Bilston enamel: 18th-century English painted enamel on white vitreous copper ground, jewel-box rose and sky-blue miniatures; not Limoges grisaille, not cloisonné, not Battersea transfer alone.",
+    "description_zh": "比尔斯顿珐琅：十八世纪英国白珐琅铜胎画珐琅，珠宝盒玫红与天蓝细密人像；非利摩日灰色珐琅、非掐丝、非单纯巴特西转印。",
+    "source": "hermes-explore",
+    "image": "styles/2641-bilston-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2599",
+    "slug": "wootz",
+    "name_en": "Wootz",
+    "name_zh": "乌兹钢纹",
+    "description_en": "Wootz: etched crucible steel with tight watery ladder and rose carbide banding in black-to-silver; not mokume-gane, not gold damascene, not hamon.",
+    "description_zh": "乌兹钢纹：坩埚钢酸蚀后紧密水波梯纹与玫瑰碳化物条带，黑至亮银；非木目金、非嵌金、非刃文。",
+    "source": "hermes-explore",
+    "image": "styles/2642-wootz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2600",
+    "slug": "ito-sukashi",
+    "name_en": "Ito-sukashi",
+    "name_zh": "糸透",
+    "description_en": "Ito-sukashi: thread-thin iron openwork, hairline positive metal with large negative voids; not bold sukashi silhouettes, not kebori engraving, not nunome inlay.",
+    "description_zh": "糸透：发丝细铁质透雕，正形金属极细、大面积镂空；非粗形透かし、非毛雕、非布目嵌。",
+    "source": "hermes-explore",
+    "image": "styles/2643-ito-sukashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
