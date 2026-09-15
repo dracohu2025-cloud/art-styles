@@ -36242,5 +36242,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2746",
+    "slug": "sand-manner",
+    "name_en": "Sand Manner",
+    "name_zh": "砂地铜版",
+    "description_en": "18th-century sand-ground etching: peppery bitten grain, velvety gray tone, no hatch.",
+    "description_zh": "十八世纪砂粒铺地蚀刻，胡椒状咬蚀颗粒，绒面灰调，不用排线。",
+    "source": "hermes-explore",
+    "image": "styles/2789-sand-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2747",
+    "slug": "murasaki-e",
+    "name_en": "Murasaki-e",
+    "name_zh": "紫絵",
+    "description_en": "Edo woodblock with aniline purple as the dominant key, muted yellow-green accents on washi.",
+    "description_zh": "江户木版以苯胺紫为主调，辅以灰绿黄，和纸锦绘。",
+    "source": "hermes-explore",
+    "image": "styles/2790-murasaki-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2748",
+    "slug": "smear-frame",
+    "name_en": "Smear Frame",
+    "name_zh": "拖影帧",
+    "description_en": "Classical 2D smear in-between: stretched limbs, duplicated contours, held head volume.",
+    "description_zh": "古典二维动画拖影中间帧：肢体拉长、多重残影轮廓、头部体积保持。",
+    "source": "hermes-explore",
+    "image": "styles/2791-smear-frame.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2749",
+    "slug": "pittura-di-tocco",
+    "name_en": "Pittura di Tocco",
+    "name_zh": "点触画法",
+    "description_en": "Venetian tocco: loaded dabs, flickering highlights, opened contours on a warm oil ground.",
+    "description_zh": "威尼斯点触画法：饱蘸点触、闪烁高光、轮廓断开，暖色油底。",
+    "source": "hermes-explore",
+    "image": "styles/2792-pittura-di-tocco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2750",
+    "slug": "kronheim-print",
+    "name_en": "Kronheim Print",
+    "name_zh": "克朗海姆套色",
+    "description_en": "Kronheim oil-color wood-engraving: tacky Victorian inks, tight register, hatch inside each block.",
+    "description_zh": "克朗海姆油彩木口套色：维多利亚油墨微黏、套准紧、色块内有木口排线。",
+    "source": "hermes-explore",
+    "image": "styles/2793-kronheim-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

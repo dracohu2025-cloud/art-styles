@@ -7702,6 +7702,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2788, PNG count 2788. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 550 (exactly 5, h2746–h2750)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                               |
+|-------|-------------------|---------------|-------------------------------------|
+| h2746 | Sand Manner       | 砂地铜版      | styles/2789-sand-manner.png         |
+| h2747 | Murasaki-e        | 紫絵          | styles/2790-murasaki-e.png          |
+| h2748 | Smear Frame       | 拖影帧        | styles/2791-smear-frame.png         |
+| h2749 | Pittura di Tocco  | 点触画法      | styles/2792-pittura-di-tocco.png    |
+| h2750 | Kronheim Print    | 克朗海姆套色  | styles/2793-kronheim-print.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2793, PNG count 2793. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
