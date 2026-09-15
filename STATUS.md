@@ -7590,6 +7590,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2748, PNG count 2748. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 542 (exactly 5, h2706–h2710)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                               |
+|-------|--------------------|-----------------|-------------------------------------|
+| h2706 | Gwiyal             | 粉青刷纹        | styles/2749-gwiyal.png              |
+| h2707 | Foil Blocking      | 箔压            | styles/2750-foil-blocking.png       |
+| h2708 | Gampi Print        | 雁皮纸印        | styles/2751-gampi-print.png         |
+| h2709 | Aventurine Glaze   | 金星釉          | styles/2752-aventurine-glaze.png    |
+| h2710 | Ndebele Geometric  | 恩德贝勒几何    | styles/2753-ndebele-geometric.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2753, PNG count 2753. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

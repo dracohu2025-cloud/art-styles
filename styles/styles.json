@@ -35722,5 +35722,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2706",
+    "slug": "gwiyal",
+    "name_en": "Gwiyal",
+    "name_zh": "粉青刷纹",
+    "description_en": "Gwiyal: Korean buncheong white slip dragged in coarse hakeme brush bands over iron-grey stoneware, clay showing in the grooves; not celadon, not hakeme as Japanese tea-bowl only, not blue-and-white.",
+    "description_zh": "粉青刷纹：粉青沙器白化妆土以粗刷带拖过铁灰胎，沟槽露胎；非青瓷，非单纯日本刷毛目茶碗，非青花。",
+    "source": "hermes-explore",
+    "image": "styles/2749-gwiyal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2707",
+    "slug": "foil-blocking",
+    "name_en": "Foil Blocking",
+    "name_zh": "箔压",
+    "description_en": "Foil Blocking: hot-stamped metallic foil bitten into cotton paper with a die, crushed fibers at the edge, raking-light metal; not holographic sticker, not cold foil, not gilt illumination.",
+    "description_zh": "箔压：热烫金属箔经模具咬入棉纸，边缘纤维压溃，侧光见金属；非全息贴纸，非冷烫箔，非泥金写经。",
+    "source": "hermes-explore",
+    "image": "styles/2750-foil-blocking.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2708",
+    "slug": "gampi-print",
+    "name_en": "Gampi Print",
+    "name_zh": "雁皮纸印",
+    "description_en": "Gampi Print: image sitting in warm translucent gampi washi, silky almost glassine surface, long pale fibers, soft ink bite; not kozo-fuzzy washi, not Western rag, not glossy photo paper.",
+    "description_zh": "雁皮纸印：影像坐入温透雁皮和纸，近玻璃纸的丝滑面，长纤维，墨口柔；非楮纸绒毛和纸，非西方棉浆纸，非光面相纸。",
+    "source": "hermes-explore",
+    "image": "styles/2751-gampi-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2709",
+    "slug": "aventurine-glaze",
+    "name_en": "Aventurine Glaze",
+    "name_zh": "金星釉",
+    "description_en": "Aventurine Glaze: dark iron glaze with suspended gold-copper sparkles trapped in a glassy melt, goldstone flecks; not tenmoku oil-spot, not metallic luster, not craft glitter.",
+    "description_zh": "金星釉：深铁釉中悬浮金铜闪光，熔体裹金星砂；非天目油滴，非金属虹彩釉，非工艺亮片。",
+    "source": "hermes-explore",
+    "image": "styles/2752-aventurine-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2710",
+    "slug": "ndebele-geometric",
+    "name_en": "Ndebele Geometric",
+    "name_zh": "恩德贝勒几何",
+    "description_en": "Ndebele Geometric: mural house-paint geometry of nested rectangles and stepped borders, thick black outlines, high-chroma flat fills on plaster; not kente weave, not De Stijl, not Ndebele beadwork.",
+    "description_zh": "恩德贝勒几何：壁画式房屋彩绘，套叠矩形与阶梯边框，粗黑线，高饱和平涂灰泥墙；非肯特织，非风格派，非恩德贝勒珠绣。",
+    "source": "hermes-explore",
+    "image": "styles/2753-ndebele-geometric.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
