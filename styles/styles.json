@@ -34877,5 +34877,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2641",
+    "slug": "thayo",
+    "name_en": "Thayo",
+    "name_zh": "塔育漆雕",
+    "description_en": "Burmese thayo: molded lacquer paste built into high relief, gilded, incised, often with glass inlay — sculpted lacquer skin, not carved wood.",
+    "description_zh": "塔育漆雕：缅甸以漆膏堆塑高浮雕，贴金、阴刻，常嵌玻璃；漆塑肌理，非木雕。",
+    "source": "hermes-explore",
+    "image": "styles/2684-thayo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2642",
+    "slug": "crown-glass",
+    "name_en": "Crown Glass",
+    "name_zh": "冠玻璃",
+    "description_en": "Crown glass: spun bullseye pane with concentric ripple rings, green soda-lime tint, pontil distortion and seed bubbles — not cylinder glass, not plate glass.",
+    "description_zh": "冠玻璃：旋制牛眼窗片，同心波纹、绿钠钙色、顶杆畸变与气泡；非圆筒玻璃、非平板玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/2685-crown-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2643",
+    "slug": "zhitouhua",
+    "name_en": "Zhitouhua",
+    "name_zh": "指头画",
+    "description_en": "Zhitouhua: Chinese finger painting — ink and color laid with pads and nails, blot and scratch instead of brush; Gao Qipei school, not mogu boneless wash.",
+    "description_zh": "指头画：以指腹与指甲蘸墨设色，点捺刮划代笔；高其佩一系，非没骨晕染。",
+    "source": "hermes-explore",
+    "image": "styles/2686-zhitouhua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2644",
+    "slug": "photo-etching",
+    "name_en": "Photo-etching",
+    "name_zh": "照相蚀刻",
+    "description_en": "Photo-etching: photographic resist on a copper plate, acid-bitten grain and open bite, wiped intaglio on paper — not photogravure, not a straight photograph.",
+    "description_zh": "照相蚀刻：铜版涂感光抗蚀后酸咬，网点与开咬，擦墨凹印于纸；非凹版照相、非直出照片。",
+    "source": "hermes-explore",
+    "image": "styles/2687-photo-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2645",
+    "slug": "pingyao-tuiguang",
+    "name_en": "Pingyao Tuiguang",
+    "name_zh": "平遥推光",
+    "description_en": "Pingyao tuiguang: push-light lacquer — many coats charcoal-polished to a wet mirror, gold-traced painting on the gloss; not carved tixi, not bodiless tuotai.",
+    "description_zh": "平遥推光：多层大漆炭磨至水镜光，描金走绘于亮面；非剔犀雕漆、非脱胎。",
+    "source": "hermes-explore",
+    "image": "styles/2688-pingyao-tuiguang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

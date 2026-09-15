@@ -7408,6 +7408,19 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2683, PNG count 2683. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 529 (exactly 5, h2641–h2645)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                              |
+|-------|-------------------|-------------|------------------------------------|
+| h2641 | Thayo             | 塔育漆雕    | styles/2684-thayo.png              |
+| h2642 | Crown Glass       | 冠玻璃      | styles/2685-crown-glass.png        |
+| h2643 | Zhitouhua         | 指头画      | styles/2686-zhitouhua.png          |
+| h2644 | Photo-etching     | 照相蚀刻    | styles/2687-photo-etching.png      |
+| h2645 | Pingyao Tuiguang  | 平遥推光    | styles/2688-pingyao-tuiguang.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2688, PNG count 2688. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
 ## Verified
 
