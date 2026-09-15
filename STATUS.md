@@ -7338,6 +7338,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2658, PNG count 2658. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 524 (exactly 5, h2616–h2620)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2616 | Sabiji          | 錆地            | styles/2659-sabiji.png             |
+| h2617 | Maki-hanashi    | 蒔放            | styles/2660-maki-hanashi.png       |
+| h2618 | Soutache        | 辫带绣          | styles/2661-soutache.png           |
+| h2619 | Punto Scritto   | 书写针迹        | styles/2662-punto-scritto.png      |
+| h2620 | Kawatsura-nuri  | 川連塗          | styles/2663-kawatsura-nuri.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2663, PNG count 2663. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

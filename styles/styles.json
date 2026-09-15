@@ -34552,5 +34552,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2616",
+    "slug": "sabiji",
+    "name_en": "Sabiji",
+    "name_zh": "錆地",
+    "description_en": "Sabiji: iron-oxide rust mixed into raw urushi as a matte-to-satin ferrous ground with mineral grit and tarnish bloom; not polished gold maki-e, not bright Negoro red, not mirror-black roiro.",
+    "description_zh": "錆地：铁锈粉入生漆成亚光铁褐地，带矿砂与锈晕；非抛光金莳绘、非根来朱、非镜面吕色。",
+    "source": "hermes-explore",
+    "image": "styles/2659-sabiji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2617",
+    "slug": "maki-hanashi",
+    "name_en": "Maki-hanashi",
+    "name_zh": "蒔放",
+    "description_en": "Maki-hanashi: metal powders sprinkled onto wet lacquer and left unpolished so grains stand as dry sparkle; not togidashi burnish, not smooth gold-leaf sheets, not high-gloss mirror maki-e.",
+    "description_zh": "蒔放：金银粉洒上湿漆而不打磨，颗粒呈干燥闪光；非研出抛光、非平滑金箔、非高光镜面莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/2660-maki-hanashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2618",
+    "slug": "soutache",
+    "name_en": "Soutache",
+    "name_zh": "辫带绣",
+    "description_en": "Soutache: narrow round silk-and-metal braids couched in parallel snakes and contour spirals, form read from the cord’s highlight; not satin-stitch fill, not printed stripe, not painted line.",
+    "description_zh": "辫带绣：细圆丝金辫钉缝成平行蛇线与轮廓螺旋，形体靠辫的高光；非缎绣填满、非印条、非画线。",
+    "source": "hermes-explore",
+    "image": "styles/2661-soutache.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2619",
+    "slug": "punto-scritto",
+    "name_en": "Punto Scritto",
+    "name_zh": "书写针迹",
+    "description_en": "Punto Scritto: evenweave linen drawn in running and double-running stitches as if the image were written with thread, counted-thread outlines and sparse geometric infill; not Assisi voided cross-stitch, not blackwork speckle, not pen drawing.",
+    "description_zh": "书写针迹：平纹亚麻上用跑针与双跑针如书写般勾线，计丝轮廓与疏几何填；非阿西西镂空十字绣、非黑工点纹、非钢笔素描。",
+    "source": "hermes-explore",
+    "image": "styles/2662-punto-scritto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2620",
+    "slug": "kawatsura-nuri",
+    "name_en": "Kawatsura-nuri",
+    "name_zh": "川連塗",
+    "description_en": "Kawatsura-nuri: Akita lacquer in many durable amber-to-chestnut coats with orange-brown translucency over wood grain and a quiet satin sheen; not heavy gold maki-e, not carved choshitsu, not rust sabiji, not mirror-black roiro.",
+    "description_zh": "川連塗：秋田多层耐久漆，琥珀至栗色，透出木纹与柔缎光；非厚金莳绘、非雕漆、非錆地、非镜面吕色。",
+    "source": "hermes-explore",
+    "image": "styles/2663-kawatsura-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
