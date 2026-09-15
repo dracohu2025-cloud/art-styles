@@ -36567,5 +36567,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2771",
+    "slug": "dusting-on",
+    "name_en": "Dusting-on",
+    "name_zh": "撒粉显影",
+    "description_en": "Hygroscopic sugar-honey coat dusted with dry pigment: powder clings only to tacky midtones and shadows, leaving paper as light.",
+    "description_zh": "撒粉显影：糖蜜吸湿涂层上撒干颜料粉，仅粘着于发黏的中间调与暗部，高光留白为纸。",
+    "source": "hermes-explore",
+    "image": "styles/2814-dusting-on.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2772",
+    "slug": "malde-ware",
+    "name_en": "Malde-Ware",
+    "name_zh": "马尔德韦尔印",
+    "description_en": "Ammonium-based platinum-palladium print: long continuous-tone scale, warm palladium shadows against cooler platinum greys, paper-fiber whites.",
+    "description_zh": "马尔德韦尔印：铵盐铂钯印相，连续调极长，钯暖影对铂冷灰，高光见纸纤维。",
+    "source": "hermes-explore",
+    "image": "styles/2815-malde-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2773",
+    "slug": "lambertype",
+    "name_en": "Lambertype",
+    "name_zh": "兰伯特型",
+    "description_en": "Rare 19th-century photographic plate: milky opalescent highlights, cloudy emulsion, umber-silver antique depth with glass-like fade at the edges.",
+    "description_zh": "兰伯特型：十九世纪稀有照相工艺，乳白高光、乳剂微浑，褐银古色与玻璃边褪。",
+    "source": "hermes-explore",
+    "image": "styles/2816-lambertype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2774",
+    "slug": "autographic-ink",
+    "name_en": "Autographic Ink",
+    "name_zh": "自绘油墨",
+    "description_en": "Greasy lithographic autographic ink drawn then transferred: reticulated tusche crawls, crayon scumble, stone tooth in dense oily blacks.",
+    "description_zh": "自绘油墨：油性石版自绘墨书写后转石，网状油墨爬行、蜡笔擦灰与石纹齿痕。",
+    "source": "hermes-explore",
+    "image": "styles/2817-autographic-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2775",
+    "slug": "jigsaw-linocut",
+    "name_en": "Jigsaw Linocut",
+    "name_zh": "拼板麻胶版",
+    "description_en": "Color linocut whose block is puzzle-cut, inked separately, then reassembled: hard linoleum edges, ink squash, thin uninked rivers at the seams.",
+    "description_zh": "拼板麻胶版：将麻胶版切成拼板块分别上墨再拼印，硬边、墨溢与缝间留白细河。",
+    "source": "hermes-explore",
+    "image": "styles/2818-jigsaw-linocut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
