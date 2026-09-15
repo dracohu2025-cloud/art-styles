@@ -7268,6 +7268,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2633, PNG count 2633. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 519 (exactly 5, h2591–h2595)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh         | image                                  |
+|-------|-----------------------|-----------------|----------------------------------------|
+| h2591 | Haapsalu              | 哈普萨卢蕾丝    | styles/2634-haapsalu.png               |
+| h2592 | Brazilian Embroidery  | 巴西立体绣      | styles/2635-brazilian-embroidery.png   |
+| h2593 | Rockingham            | 罗金厄姆釉      | styles/2636-rockingham.png             |
+| h2594 | Doubleweave           | 双层织          | styles/2637-doubleweave.png            |
+| h2595 | Azured Tooling        | 密线烫金        | styles/2638-azured-tooling.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2638, PNG count 2638. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

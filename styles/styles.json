@@ -34227,5 +34227,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2591",
+    "slug": "haapsalu",
+    "name_en": "Haapsalu",
+    "name_zh": "哈普萨卢蕾丝",
+    "description_en": "Haapsalu lace: Estonian knitted nupp lace, scalloped leaf-and-bobble borders on open mesh; not Chantilly, not crochet, not filet.",
+    "description_zh": "哈普萨卢蕾丝：爱沙尼亚棒针珠结蕾丝，扇形叶纹与珠结饰边覆于网眼地；非尚蒂伊、非钩针、非方网绣。",
+    "source": "hermes-explore",
+    "image": "styles/2634-haapsalu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2592",
+    "slug": "brazilian-embroidery",
+    "name_en": "Brazilian Embroidery",
+    "name_zh": "巴西立体绣",
+    "description_en": "Brazilian embroidery: dimensional cast-on bullion knots in glossy rayon, high-relief roses and coiled leaves; not flat silk shading, not ribbon embroidery, not crewel.",
+    "description_zh": "巴西立体绣：光泽人造丝绕针豆针，高浮雕玫瑰与卷叶；非平绣晕丝、非丝带绣、非绒线绣。",
+    "source": "hermes-explore",
+    "image": "styles/2635-brazilian-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2593",
+    "slug": "rockingham",
+    "name_en": "Rockingham",
+    "name_zh": "罗金厄姆釉",
+    "description_en": "Rockingham glaze: treacle-brown manganese-stained lead glaze, mottled tortoise-shell drips and glossy pooling; not tenmoku oil-spot, not oxblood, not celadon.",
+    "description_zh": "罗金厄姆釉：糖浆棕锰染铅釉，龟甲斑驳流淌与高光积釉；非油滴天目、非祭红、非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/2636-rockingham.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2594",
+    "slug": "doubleweave",
+    "name_en": "Doubleweave",
+    "name_zh": "双层织",
+    "description_en": "Doubleweave: two-layer interchange cloth, warp-and-weft grid, complementary layers swapping to draw the image; not tapestry, not ikat, not overshot.",
+    "description_zh": "双层织：双层换层织物，经纬网格可见，互补色层互换成像；非挂毯、非扎经、非覆盖织。",
+    "source": "hermes-explore",
+    "image": "styles/2637-doubleweave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2595",
+    "slug": "azured-tooling",
+    "name_en": "Azured Tooling",
+    "name_zh": "密线烫金",
+    "description_en": "Azured tooling: gold-tooled leather with dense parallel azure-line fills, fillets and stamps on dark calf; not blind tooling alone, not onlay, not engraving.",
+    "description_zh": "密线烫金：深色小牛皮金箔烫印，平行密线填形，配以滚线与小印模；非单纯盲烫、非贴皮、非雕刻。",
+    "source": "hermes-explore",
+    "image": "styles/2638-azured-tooling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
