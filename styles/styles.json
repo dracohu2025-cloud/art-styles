@@ -35137,5 +35137,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2661",
+    "slug": "lift-ground",
+    "name_en": "Lift Ground",
+    "name_zh": "揭地蚀刻",
+    "description_en": "Lift Ground: greasy lift-ground aquatint — painterly bitten washes on copper, velvety grain, plate tone on warm rag paper; not sugar-lift blobs, not spit-bite spatters, not mezzotint.",
+    "description_zh": "揭地蚀刻：油脂揭地飞尘，铜版上笔触状咬蚀、绒面颗粒与版调；非糖水蚀刻团块，非唾液咬蚀，非美柔汀。",
+    "source": "hermes-explore",
+    "image": "styles/2704-lift-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2662",
+    "slug": "telepuk",
+    "name_en": "Telepuk",
+    "name_zh": "金叶压印",
+    "description_en": "Telepuk: Malay gold-leaf cloth stamping — glue-printed florals pressed with gold leaf on dyed silk-cotton, cracked metallic repeat; not water gilding on panel, not songket brocade, not batik wax.",
+    "description_zh": "金叶压印：马来金叶布印，胶印花纹再压金箔于染色绸棉、金叶开裂重复；非木板水贴金，非宋葛织金，非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/2705-telepuk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2663",
+    "slug": "hinggi",
+    "name_en": "Hinggi",
+    "name_zh": "兴吉织",
+    "description_en": "Hinggi: Sumba ceremonial warp ikat — rust, indigo and cream, feathered warp edges, horses trees and hooked lozenges on handspun cotton; not patola double ikat, not endek, not songket.",
+    "description_zh": "兴吉织：松巴礼仪经絣，铁锈红靛蓝与乳白、经线羽化边缘、马树与钩菱粗棉；非帕托拉双经纬扎，非恩德克，非宋葛。",
+    "source": "hermes-explore",
+    "image": "styles/2706-hinggi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2664",
+    "slug": "incamiciato",
+    "name_en": "Incamiciato",
+    "name_zh": "套色罩玻璃",
+    "description_en": "Incamiciato: Venetian cased overlay glass — opaque lattimo white over jewel color, wheel-cut windows to the under-gather, fire-polish and bubbles; not sommerso solid layers, not cameo carved overlay, not millefiori.",
+    "description_zh": "套色罩玻璃：威尼斯乳白套色，不透明拉蒂莫罩在宝石色上、轮磨开窗见底层、火抛光与气泡；非索梅索实心叠色，非浮雕套色玻璃，非千花。",
+    "source": "hermes-explore",
+    "image": "styles/2707-incamiciato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2665",
+    "slug": "tarkashi",
+    "name_en": "Tarkashi",
+    "name_zh": "嵌丝木作",
+    "description_en": "Tarkashi: Indian brass-wire inlay in sheesham — flush geometric stars and vines, metal gleam vs matte timber; not bidri silver-on-black, not koftgari steel, not wood marquetry veneer.",
+    "description_zh": "嵌丝木作：印度黄铜丝嵌酸枝，齐平星纹与藤蔓、金属亮对哑光木纹；非比德里黑地银丝，非科夫特加里钢嵌，非木皮镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/2708-tarkashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

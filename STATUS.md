@@ -7464,6 +7464,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2703, PNG count 2703. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 533 (exactly 5, h2661–h2665)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                           |
+|-------|--------------|-------------|---------------------------------|
+| h2661 | Lift Ground  | 揭地蚀刻    | styles/2704-lift-ground.png     |
+| h2662 | Telepuk      | 金叶压印    | styles/2705-telepuk.png         |
+| h2663 | Hinggi       | 兴吉织      | styles/2706-hinggi.png          |
+| h2664 | Incamiciato  | 套色罩玻璃  | styles/2707-incamiciato.png     |
+| h2665 | Tarkashi     | 嵌丝木作    | styles/2708-tarkashi.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2708, PNG count 2708. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
