@@ -7744,6 +7744,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2803, PNG count 2803. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 553 (exactly 5, h2761–h2765)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                               |
+|-------|--------------------|---------------|-------------------------------------|
+| h2761 | Lost-line Woodcut  | 失线木刻      | styles/2804-lost-line-woodcut.png   |
+| h2762 | Salt Aquatint      | 盐粒飞尘      | styles/2805-salt-aquatint.png       |
+| h2763 | Omnicolore         | 全色网屏      | styles/2806-omnicolore.png          |
+| h2764 | Galvanograph       | 电铸凹印      | styles/2807-galvanograph.png        |
+| h2765 | Graphotype         | 石墨凸版      | styles/2808-graphotype.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2808, PNG count 2808. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

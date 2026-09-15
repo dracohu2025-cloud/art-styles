@@ -36437,5 +36437,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2761",
+    "slug": "lost-line-woodcut",
+    "name_en": "Lost-line Woodcut",
+    "name_zh": "失线木刻",
+    "description_en": "Color woodcut with the key-block omitted: abutting ink fields meet without contour lines; gouge facets and woodgrain stay in the ink.",
+    "description_zh": "失线木刻：省去主版轮廓，色块边缘相接而无墨线，刀痕与木纹留在墨层中。",
+    "source": "hermes-explore",
+    "image": "styles/2804-lost-line-woodcut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2762",
+    "slug": "salt-aquatint",
+    "name_en": "Salt Aquatint",
+    "name_zh": "盐粒飞尘",
+    "description_en": "Intaglio toned by salting the plate before the bite: coarse crystalline grain, velvety open bite, warm black on rag paper.",
+    "description_zh": "盐粒飞尘：以盐晶作地再咬版，粗颗粒调子、天鹅绒般开放咬蚀，暖黑印于手工纸。",
+    "source": "hermes-explore",
+    "image": "styles/2805-salt-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2763",
+    "slug": "omnicolore",
+    "name_en": "Omnicolore",
+    "name_zh": "全色网屏",
+    "description_en": "Jougla mosaic-screen color: regular orange-green-violet réseau on a panchromatic plate, early color grain.",
+    "description_zh": "全色网屏：茹格拉规则橙绿紫滤网叠于全色干版，早期彩照网点颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2806-omnicolore.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2764",
+    "slug": "galvanograph",
+    "name_en": "Galvanograph",
+    "name_zh": "电铸凹印",
+    "description_en": "Electroformed copper intaglio grown from a drawing, printed in plate ink with electrolytic grain and copper sheen.",
+    "description_zh": "电铸凹印：由画稿电沉积生成铜凹版再印刷，电解晶粒与铜辉留在墨痕中。",
+    "source": "hermes-explore",
+    "image": "styles/2807-galvanograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2765",
+    "slug": "graphotype",
+    "name_en": "Graphotype",
+    "name_zh": "石墨凸版",
+    "description_en": "1860s chalk-block relief: incising through a whiting ground to metal, stereotyped and printed like a crumbly wood engraving.",
+    "description_zh": "石墨凸版：在白垩地上刻至金属再铸凸版印刷，粉笔崩边与木口般的黑线。",
+    "source": "hermes-explore",
+    "image": "styles/2808-graphotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
