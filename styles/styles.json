@@ -36632,5 +36632,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2776",
+    "slug": "aquatone",
+    "name_en": "Aquatone",
+    "name_zh": "阿夸通",
+    "description_en": "1920s Stern screenless photomechanical offset: continuous-tone planographic ink grain, no halftone dots, velvety blacks and warm-gray midtones.",
+    "description_zh": "阿夸通：1920年代斯特恩无网胶印，连续调平版墨粒、无网目点、丝绒黑与暖灰中间调。",
+    "source": "hermes-explore",
+    "image": "styles/2819-aquatone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2777",
+    "slug": "handschiegl",
+    "name_en": "Handschiegl",
+    "name_zh": "汉施格尔上色",
+    "description_en": "Stencil-applied aniline dyes on black-and-white motion-picture film: silvery grain with selective rose, amber, and emerald tints and soft stencil-edge bleed.",
+    "description_zh": "汉施格尔上色：在黑白电影胶片上用镂版涂苯胺染料，底片银粒上局部玫瑰、琥珀与翠绿晕边。",
+    "source": "hermes-explore",
+    "image": "styles/2820-handschiegl.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2778",
+    "slug": "totai-shippo",
+    "name_en": "Totai Shippo",
+    "name_zh": "透胎七宝",
+    "description_en": "Japanese cloisonné enamel fired on a porcelain body: gold/silver wires, vitreous enamel pools, porcelain showing at rims, glossy kiln surface.",
+    "description_zh": "透胎七宝：在瓷胎上烧成的掐丝珐琅，金银丝分隔、釉池透明、胎骨露边、窑面光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2821-totai-shippo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2779",
+    "slug": "lajian",
+    "name_en": "Lajian",
+    "name_zh": "蜡笺",
+    "description_en": "Classical Chinese waxed decorated paper: wax-sized sheen, mineral pigments, scattered gold and silver flecks, subtle resist patterning in the ground.",
+    "description_zh": "蜡笺：古典加工笺，蜡地微光、矿物设色、金银屑撒、纸地隐现防染纹。",
+    "source": "hermes-explore",
+    "image": "styles/2822-lajian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2780",
+    "slug": "togidashi-zogan",
+    "name_en": "Togidashi-zogan",
+    "name_zh": "研出象嵌",
+    "description_en": "Flush-polished metal inlay: gold, silver, and copper ground level with a dark shakudō or iron plate—no relief, sharp inlay contours, abrasive polish.",
+    "description_zh": "研出象嵌：金银铜嵌料与暗色赤铜或铁地磨至齐平，无浮雕、嵌线利落、细磨痕。",
+    "source": "hermes-explore",
+    "image": "styles/2823-togidashi-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

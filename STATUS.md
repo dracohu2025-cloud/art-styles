@@ -7786,6 +7786,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2818, PNG count 2818. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 556 (exactly 5, h2776–h2780)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                               |
+|-------|------------------|-----------------|-------------------------------------|
+| h2776 | Aquatone         | 阿夸通          | styles/2819-aquatone.png            |
+| h2777 | Handschiegl      | 汉施格尔上色    | styles/2820-handschiegl.png         |
+| h2778 | Totai Shippo     | 透胎七宝        | styles/2821-totai-shippo.png        |
+| h2779 | Lajian           | 蜡笺            | styles/2822-lajian.png              |
+| h2780 | Togidashi-zogan  | 研出象嵌        | styles/2823-togidashi-zogan.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2823, PNG count 2823. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
