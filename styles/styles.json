@@ -36307,5 +36307,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2751",
+    "slug": "kabura-pen",
+    "name_en": "Kabura-pen",
+    "name_zh": "かぶらペン",
+    "description_en": "Japanese turnip-nib dip pen: elastic thick-to-hairline swell, crisp sumi contours, open hatching, no screentone.",
+    "description_zh": "日式芜菁尖蘸水笔：弹性粗细突变、墨线利落、疏排线，无网点。",
+    "source": "hermes-explore",
+    "image": "styles/2794-kabura-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2752",
+    "slug": "kasure",
+    "name_en": "Kasure",
+    "name_zh": "掠れ",
+    "description_en": "Dry skipped-brush ink: bristled broken trails, flying white inside strokes, paper tooth showing through.",
+    "description_zh": "干笔掠れ：鬃毛断续墨迹、笔画内飞白、纸齿透出。",
+    "source": "hermes-explore",
+    "image": "styles/2795-kasure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2753",
+    "slug": "celloidin-print",
+    "name_en": "Celloidin Print",
+    "name_zh": "火棉胶相纸",
+    "description_en": "Collodion printing-out paper: high-gloss coating, warm ivory-sepia silver, fine continuous tone, slight POP split toning.",
+    "description_zh": "火棉胶晒出相纸：高光涂层、暖象牙棕银影、连续调、微紫褐分色。",
+    "source": "hermes-explore",
+    "image": "styles/2796-celloidin-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2754",
+    "slug": "brometching",
+    "name_en": "Brometching",
+    "name_zh": "溴蚀",
+    "description_en": "Pictorialist brometching: chemically bitten silver-gelatin, pitted midtones, acid-gnawed highlights, not copper etching.",
+    "description_zh": "画意派溴蚀：化学咬蚀银盐明胶，中间调麻点，高光被酸蚀回，非铜版蚀刻。",
+    "source": "hermes-explore",
+    "image": "styles/2797-brometching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2755",
+    "slug": "three-color-carbon",
+    "name_en": "Three-color Carbon",
+    "name_zh": "三色碳印",
+    "description_en": "Trichrome carbon: stacked Y/M/C pigment-gelatin tissues, slight misregister, velvety matte pigment, no halftone dots.",
+    "description_zh": "三色碳印：黄品红青明胶色层叠合，微套准偏差，绒面颜料浮雕，无网点。",
+    "source": "hermes-explore",
+    "image": "styles/2798-three-color-carbon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -7716,6 +7716,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2793, PNG count 2793. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 551 (exactly 5, h2751–h2755)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                                 |
+|-------|--------------------|---------------|---------------------------------------|
+| h2751 | Kabura-pen         | かぶらペン    | styles/2794-kabura-pen.png            |
+| h2752 | Kasure             | 掠れ          | styles/2795-kasure.png                |
+| h2753 | Celloidin Print    | 火棉胶相纸    | styles/2796-celloidin-print.png       |
+| h2754 | Brometching        | 溴蚀          | styles/2797-brometching.png           |
+| h2755 | Three-color Carbon | 三色碳印      | styles/2798-three-color-carbon.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2798, PNG count 2798. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
