@@ -7394,6 +7394,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2678, PNG count 2678. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 528 (exactly 5, h2636–h2640)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2636 | Flossa          | 弗洛萨绒织      | styles/2679-flossa.png             |
+| h2637 | Pulled Thread   | 拉纱绣          | styles/2680-pulled-thread.png      |
+| h2638 | Boundweave      | 密纬织          | styles/2681-boundweave.png         |
+| h2639 | Bronson Lace    | 布朗森透织      | styles/2682-bronson-lace.png       |
+| h2640 | Tent Stitch     | 斜点针          | styles/2683-tent-stitch.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2683, PNG count 2683. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
+
 ## Verified
 
 - Catalog length and PNG count match

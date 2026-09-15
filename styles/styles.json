@@ -34812,5 +34812,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2636",
+    "slug": "flossa",
+    "name_en": "Flossa",
+    "name_zh": "弗洛萨绒织",
+    "description_en": "Flossa: Swedish knotted-pile weave — directional wool nap, visible knot rows, weft-faced ground at selvedges, pictorial shag that is shorter and more tapestry-like than rya. Not rya, not ryijy, not Ghiordes knot carpet, not latch-hook.",
+    "description_zh": "弗洛萨绒织：瑞典打结绒织，绒向光泽、结列可见、布边显纬面地组织，比瑞亚更短更偏织画；非瑞亚、非芬兰绒织、非土耳其绒结、非拉钩绒。",
+    "source": "hermes-explore",
+    "image": "styles/2679-flossa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2637",
+    "slug": "pulled-thread",
+    "name_en": "Pulled Thread",
+    "name_zh": "拉纱绣",
+    "description_en": "Pulled thread: drawn-fabric embroidery that tightens evenweave into geometric open lattices — four-sided windows, eyelets, honeycomb fills — without cutting the ground. Not cutwork, not broderie anglaise, not Hardanger, not filet lace.",
+    "description_zh": "拉纱绣：抽拉平纹底布成几何透窗，四方针、扣眼与蜂窝填针，不剪底布；非雕绣、非英格兰镂空绣、非哈当厄尔、非网眼花边。",
+    "source": "hermes-explore",
+    "image": "styles/2680-pulled-thread.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2638",
+    "slug": "boundweave",
+    "name_en": "Boundweave",
+    "name_zh": "密纬织",
+    "description_en": "Boundweave: weft-faced bound weave with every warp packed under ridged weft ribs and stepped color blocks; no warp show. Not krokbragd, not kilim slit tapestry, not pile weave.",
+    "description_zh": "密纬织：纬面束缚组织，经线全被密排纬棱覆盖，色块呈阶梯几何，不见经线；非克罗克布拉格织、非基里姆开口挂毯、非起绒织。",
+    "source": "hermes-explore",
+    "image": "styles/2681-boundweave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2639",
+    "slug": "bronson-lace",
+    "name_en": "Bronson Lace",
+    "name_zh": "布朗森透织",
+    "description_en": "Bronson lace: loom-controlled spot-Bronson structure — warp and weft floats opening geometric windows on plain-weave ground. Not huck weaving, not knitted lace, not cutwork, not filet crochet.",
+    "description_zh": "布朗森透织：织机控制的点式布朗森组织，经纬浮长在平纹地上开出几何透窗；非哈克织、非棒针花边、非雕绣、非钩针网眼。",
+    "source": "hermes-explore",
+    "image": "styles/2682-bronson-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2640",
+    "slug": "tent-stitch",
+    "name_en": "Tent Stitch",
+    "name_zh": "斜点针",
+    "description_en": "Tent stitch: petit-point canvaswork — tiny diagonal wool stitches covering every canvas intersection, even slant, smooth pictorial surface. Not cross-stitch, not brick stitch, not gros point, not bargello.",
+    "description_zh": "斜点针：细点帆布绣，斜向绒线针覆盖每一交点，针向匀整、画面平滑；非十字绣、非砖针、非粗点绣、非Bargello火焰针。",
+    "source": "hermes-explore",
+    "image": "styles/2683-tent-stitch.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
