@@ -7296,6 +7296,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2643, PNG count 2643. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 521 (exactly 5, h2601–h2605)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                               |
+|-------|-------------------|-----------------|-------------------------------------|
+| h2601 | Cannetille        | 金线卷绣        | styles/2644-cannetille.png          |
+| h2602 | Kuromido          | 黑味铜          | styles/2645-kuromido.png            |
+| h2603 | Idrija            | 伊德里亚蕾丝    | styles/2646-idrija.png              |
+| h2604 | Medici Porcelain  | 美第奇软瓷      | styles/2647-medici-porcelain.png    |
+| h2605 | Buratto           | 布拉托网绣      | styles/2648-buratto.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2648, PNG count 2648. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

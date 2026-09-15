@@ -34357,5 +34357,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2601",
+    "slug": "cannetille",
+    "name_en": "Cannetille",
+    "name_zh": "金线卷绣",
+    "description_en": "Cannetille: raised goldwork of tightly coiled fine metal wire forming tubular scrolls and leaves; not sequins, not bullion knots, not flat or nué couching.",
+    "description_zh": "金线卷绣：细金属丝紧密卷绕成管状卷草与叶片的立体金绣；非亮片、非绕结金线、非平铺或晕色盘金。",
+    "source": "hermes-explore",
+    "image": "styles/2644-cannetille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2602",
+    "slug": "kuromido",
+    "name_en": "Kuromido",
+    "name_zh": "黑味铜",
+    "description_en": "Kuromido: Japanese black-tinted copper alloy, smoky charcoal-brown metal with warm copper bloom; not shakudo blue-black, not shibuichi gray, not lacquer.",
+    "description_zh": "黑味铜：日本熏黑铜色合金，烟炭褐金属面带暖红铜辉；非赤铜蓝黑、非四分一灰、非漆。",
+    "source": "hermes-explore",
+    "image": "styles/2645-kuromido.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2603",
+    "slug": "idrija",
+    "name_en": "Idrija",
+    "name_zh": "伊德里亚蕾丝",
+    "description_en": "Idrija: Slovenian bobbin tape lace, continuous cloth-stitch ris tapes in geometric and small floral motifs; not Honiton sprigs, not Chantilly mesh, not needle lace.",
+    "description_zh": "伊德里亚蕾丝：斯洛文尼亚线轴带状蕾丝，布纹针带连续走几何与小花纹；非霍尼顿散花、非尚蒂伊网、非针绣蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/2646-idrija.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2604",
+    "slug": "medici-porcelain",
+    "name_en": "Medici Porcelain",
+    "name_zh": "美第奇软瓷",
+    "description_en": "Medici porcelain: 16th-century Florentine soft-paste, milky gray-white body with underglaze cobalt grotesques; not Chinese blue-and-white, not Delft, not Vincennes.",
+    "description_zh": "美第奇软瓷：十六世纪佛罗伦萨软质瓷，乳白偏灰胎配釉下钴蓝怪饰；非青花、非代尔夫特、非文森。",
+    "source": "hermes-explore",
+    "image": "styles/2647-medici-porcelain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2605",
+    "slug": "buratto",
+    "name_en": "Buratto",
+    "name_zh": "布拉托网绣",
+    "description_en": "Buratto: Italian darned embroidery on woven square-mesh gauze, counted fillings on a woven (not knotted) ground; not lacis filet, not Burano lace, not canvas needlepoint.",
+    "description_zh": "布拉托网绣：意大利织造方网纱上的补花计数绣，地为织网而非结网；非网格结网绣、非布拉诺蕾丝、非帆布针绣。",
+    "source": "hermes-explore",
+    "image": "styles/2648-buratto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
