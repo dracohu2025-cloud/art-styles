@@ -35462,5 +35462,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2686",
+    "slug": "nise-e",
+    "name_en": "Nise-e",
+    "name_zh": "似绘",
+    "description_en": "Nise-e: Kamakura likeness painting with iron-wire ink outlines and pale washes on silk; documentary court portrait line, not ukiyo-e, not manga cel, not glitter nihonga.",
+    "description_zh": "似绘：镰仓写实肖像，铁线描加淡彩绢面；文献式肖似，非浮世绘，非赛璐珞，非金彩日本画。",
+    "source": "hermes-explore",
+    "image": "styles/2729-nise-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2687",
+    "slug": "kinpeki-shohekiga",
+    "name_en": "Kinpeki Shohekiga",
+    "name_zh": "金碧障壁画",
+    "description_en": "Kinpeki shōhekiga: Momoyama gold-foil wall painting, hammered leaf ground with thick mineral malachite and azurite; mural grandeur, not Chinese jinbi shanshui, not ukiyo-e.",
+    "description_zh": "金碧障壁画：桃山金箔障壁，锤金地厚涂石绿石青；壁画体量，非金碧山水，非浮世绘。",
+    "source": "hermes-explore",
+    "image": "styles/2730-kinpeki-shohekiga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2688",
+    "slug": "dark-field-monotype",
+    "name_en": "Dark-Field Monotype",
+    "name_zh": "暗场单版",
+    "description_en": "Dark-field monotype: subtractive wipe from a fully inked plate so lights emerge in oily black; velvety plate tone, not etching, not mezzotint rocker, not charcoal.",
+    "description_zh": "暗场单版：满墨铜版减擦出亮部，油墨绒底；非蚀刻线，非美柔汀摇刀，非木炭。",
+    "source": "hermes-explore",
+    "image": "styles/2731-dark-field-monotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2689",
+    "slug": "photopolymer-intaglio",
+    "name_en": "Photopolymer Intaglio",
+    "name_zh": "光聚凹版",
+    "description_en": "Photopolymer intaglio: UV-exposed polymer plate with open-bite grain and wiped intaglio ink; plate mark and tooth, not copper photogravure, not inkjet, not screenprint.",
+    "description_zh": "光聚凹版：紫外光聚合物版开咬颗粒与擦墨；有版痕齿感，非铜凹影印，非喷墨，非丝网。",
+    "source": "hermes-explore",
+    "image": "styles/2732-photopolymer-intaglio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2690",
+    "slug": "kaolatype",
+    "name_en": "Kaolatype",
+    "name_zh": "高岭土版",
+    "description_en": "Kaolatype: 19th-century kaolin-clay relief printing, chalky incised whites and shallow dusty impression; not wood engraving, not linocut, not plaster cast.",
+    "description_zh": "高岭土版：十九世纪高岭土凸版，粉质刻白与浅浮压印；非木口木刻，非麻胶版，非石膏翻模。",
+    "source": "hermes-explore",
+    "image": "styles/2733-kaolatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

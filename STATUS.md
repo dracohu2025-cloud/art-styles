@@ -7534,6 +7534,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2728, PNG count 2728. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 538 (exactly 5, h2686–h2690)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh       | image                                    |
+|-------|-------------------------|---------------|------------------------------------------|
+| h2686 | Nise-e                  | 似绘          | styles/2729-nise-e.png                   |
+| h2687 | Kinpeki Shohekiga       | 金碧障壁画    | styles/2730-kinpeki-shohekiga.png        |
+| h2688 | Dark-Field Monotype     | 暗场单版      | styles/2731-dark-field-monotype.png      |
+| h2689 | Photopolymer Intaglio   | 光聚凹版      | styles/2732-photopolymer-intaglio.png    |
+| h2690 | Kaolatype               | 高岭土版      | styles/2733-kaolatype.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2733, PNG count 2733. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
