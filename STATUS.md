@@ -7576,6 +7576,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2743, PNG count 2743. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 541 (exactly 5, h2701–h2705)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                             |
+|-------|-------------------|-------------|-----------------------------------|
+| h2701 | Arimatsu Shibori  | 有松绞染    | styles/2744-arimatsu-shibori.png  |
+| h2702 | Edo Yuzen         | 江户友禅    | styles/2745-edo-yuzen.png         |
+| h2703 | Pile-on-pile      | 叠绒        | styles/2746-pile-on-pile.png      |
+| h2704 | Rostrato          | 喙棱玻璃    | styles/2747-rostrato.png          |
+| h2705 | Benibana          | 红花染      | styles/2748-benibana.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2748, PNG count 2748. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

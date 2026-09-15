@@ -35657,5 +35657,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2701",
+    "slug": "arimatsu-shibori",
+    "name_en": "Arimatsu Shibori",
+    "name_zh": "有松绞染",
+    "description_en": "Arimatsu Shibori: Aichi tied-resist indigo on cotton, mixed kanoko dots, radial spider ties, and arashi stripes with cloth-pucker memory; not itajime clamps, not katazome stencils, not generic fashion shibori.",
+    "description_zh": "有松绞染：爱知有松扎防靛蓝，兼鹿子点、放射蜘蛛纹与岚绞木纹，布面留有抽缩记忆；非板缔夹染，非型染，非时装绞染照片。",
+    "source": "hermes-explore",
+    "image": "styles/2744-arimatsu-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2702",
+    "slug": "edo-yuzen",
+    "name_en": "Edo Yuzen",
+    "name_zh": "江户友禅",
+    "description_en": "Edo Yuzen: Tokyo-school paste-resist yuzen, cool restrained greys and indigo with tiny scarlet accents, hand-painted dyes in rice-paste reserves; not Kaga-yuzen botanicals, not Kyoto-yuzen gold polychrome, not kata-yuzen stencils.",
+    "description_zh": "江户友禅：东京派糊防友禅，灰靛冷调加少量朱红，糊防留白内手描上色；非加贺友禅密花，非京友禅金彩，非型友禅。",
+    "source": "hermes-explore",
+    "image": "styles/2745-edo-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2703",
+    "slug": "pile-on-pile",
+    "name_en": "Pile-on-pile",
+    "name_zh": "叠绒",
+    "description_en": "Pile-on-pile: double-height cut silk velvet, high pile in relief over low pile, voided satin ground; not ciselé uncut loops, not single-height voided velvet, not printed faux pile.",
+    "description_zh": "叠绒：双层割绒丝绒，高层绒浮雕压低层绒，地部露缎光；非雕绒未割圈绒，非单层镂花天鹅绒，非印花仿绒。",
+    "source": "hermes-explore",
+    "image": "styles/2746-pile-on-pile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2704",
+    "slug": "rostrato",
+    "name_en": "Rostrato",
+    "name_zh": "喙棱玻璃",
+    "description_en": "Rostrato: Murano applied glass thorns/beaks, pulled and fire-polished projections in cristallo; not battuto hammered facets, not bullicante bubbles, not inciso engraved lines.",
+    "description_zh": "喙棱玻璃：穆拉诺贴塑玻璃尖喙，拉出后火抛光的规则突起；非锤纹玻璃，非气泡玻璃，非阴刻线刻。",
+    "source": "hermes-explore",
+    "image": "styles/2747-rostrato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2705",
+    "slug": "benibana",
+    "name_en": "Benibana",
+    "name_zh": "红花染",
+    "description_en": "Benibana: safflower dyeing on silk, fugitive peach-pink to orange-rose crimson with uneven vat uptake; not vermilion pigment, not beni-e woodblock, not madder red.",
+    "description_zh": "红花染：红花色素染丝，易褪的桃粉至橙玫瑰绯红，吸色不均；非朱砂颜料，非红绘木版，非茜草红。",
+    "source": "hermes-explore",
+    "image": "styles/2748-benibana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
