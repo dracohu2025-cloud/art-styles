@@ -36177,5 +36177,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2741",
+    "slug": "itome-yuzen",
+    "name_en": "Itome Yuzen",
+    "name_zh": "糸目友禅",
+    "description_en": "Itome Yuzen: rice-paste resist piped in hairline itome outlines, then hand-brushed dye fills on silk so the pale thread-lines stay reserved after steaming; not kyo-yuzen without itome, not batik crackle, not embroidery.",
+    "description_zh": "糸目友禅：米糊细管挤出线目防染轮廓，再手涂染料于丝绸，蒸洗后留出浅色细线；非无线目京友禅、非蜡染龟裂、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/2784-itome-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2742",
+    "slug": "electrotyping",
+    "name_en": "Electrotyping",
+    "name_zh": "电铸版",
+    "description_en": "Electrotyping: copper electroformed from a mold into a printing plate, electrolytic grain and nodular edges, then printed on rag paper with a plate mark; not photogravure, not mezzotint, not cast bronze sculpture.",
+    "description_zh": "电铸版：由模具电解沉积铜成印版，电结晶粒与瘤状边缘，再压印于棉浆纸并留下版痕；非照相凹版、非美柔汀、非铸铜雕塑。",
+    "source": "hermes-explore",
+    "image": "styles/2785-electrotyping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2743",
+    "slug": "maru-pen",
+    "name_en": "Maru-pen",
+    "name_zh": "丸ペン",
+    "description_en": "Maru-pen: Japanese round-nib dip-pen inking with even hairlines, round terminals and controlled swell, carbon ink on paper; not G-pen extreme taper, not brush-pen wet blobs, not screentone as the dominant look.",
+    "description_zh": "丸ペン：日本圆笔尖蘸水笔线描，均匀发丝线、圆顿笔端与可控加粗，碳素墨水于纸面；非G笔极端粗细、非毛笔喷溅、非网点为主。",
+    "source": "hermes-explore",
+    "image": "styles/2786-maru-pen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2744",
+    "slug": "adire-eleko",
+    "name_en": "Adire Eleko",
+    "name_zh": "木薯糊防染",
+    "description_en": "Adire Eleko: Yoruba cassava-starch paste stenciled or painted as resist, then indigo-dipped so reserved cream motifs sit in deep blue with paste-edge drip; not wax batik veining, not oniko tie-dye, not digital print.",
+    "description_zh": "木薯糊防染：约鲁巴木薯淀粉糊漏印或手绘防染，再浸靛蓝，留白奶油纹与糊边渗滴；非蜡染龟裂、非扎染圈纹、非数码印花。",
+    "source": "hermes-explore",
+    "image": "styles/2787-adire-eleko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2745",
+    "slug": "charged-brush",
+    "name_en": "Charged Brush",
+    "name_zh": "饱笔着色",
+    "description_en": "Charged Brush: a single sable loaded with two or more wet pigments that stripe and bloom inside one stroke, mixing on the paper; not a poured variegated wash, not flat gouache, not drybrush, not ink-wash suibokuga.",
+    "description_zh": "饱笔着色：一支貂毫同时饱蘸两三种湿颜料，一笔之内条纹渗化并在纸上混色；非倾倒斑彩湿染、非平涂水粉、非枯笔、非水墨渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2788-charged-brush.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

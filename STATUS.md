@@ -7688,6 +7688,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2783, PNG count 2783. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 549 (exactly 5, h2741–h2745)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                            |
+|-------|----------------|---------------|----------------------------------|
+| h2741 | Itome Yuzen    | 糸目友禅      | styles/2784-itome-yuzen.png      |
+| h2742 | Electrotyping  | 电铸版        | styles/2785-electrotyping.png    |
+| h2743 | Maru-pen       | 丸ペン        | styles/2786-maru-pen.png         |
+| h2744 | Adire Eleko    | 木薯糊防染    | styles/2787-adire-eleko.png      |
+| h2745 | Charged Brush  | 饱笔着色      | styles/2788-charged-brush.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2788, PNG count 2788. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
