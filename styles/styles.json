@@ -34162,5 +34162,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2586",
+    "slug": "soft-ground",
+    "name_en": "Soft Ground",
+    "name_zh": "软蜡蚀刻",
+    "description_en": "Soft ground: vernis-mou etching whose crayon-through-tissue grain prints velvety crumbly lines and porous plate tone on cream paper; not hard-ground etching, not drypoint burr, not lithographic crayon.",
+    "description_zh": "软蜡蚀刻：以蜡笔隔纸压入软抗蚀层再腐蚀，印出绒毛颗粒线与残留版调；非硬蜡线蚀，非干刻毛刺，非石版蜡笔。",
+    "source": "hermes-explore",
+    "image": "styles/2629-soft-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2587",
+    "slug": "kwab",
+    "name_en": "Kwab",
+    "name_zh": "耳形装饰",
+    "description_en": "Kwab: Dutch auricular goldsmithing of fleshy ear-cartilage lobes and molten pewter volutes that dissolve masks into organic scrolls; not acanthus baroque, not rocaille shells, not auricular as a depicted ear.",
+    "description_zh": "耳形装饰：荷兰耳蜗式金工，耳软骨瓣与熔锡涡卷使面具溶入有机卷曲；非莨苕巴洛克，非洛可可贝饰，非作为器官的耳朵。",
+    "source": "hermes-explore",
+    "image": "styles/2630-kwab.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2588",
+    "slug": "oxblood",
+    "name_en": "Oxblood",
+    "name_zh": "祭红釉",
+    "description_en": "Oxblood: high-fire sang-de-boeuf copper-red glaze, viscous blood-crimson pooling and breaking to peach-liver at the rim; not overglaze enamel, not iron-red, not flambe as splashy kiln-change.",
+    "description_zh": "祭红釉：高温铜红郎窑红，血绛厚釉积于凹处、口沿绽成桃肝色；非釉上珐琅彩，非矾红，非泼彩窑变。",
+    "source": "hermes-explore",
+    "image": "styles/2631-oxblood.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2589",
+    "slug": "chiriji",
+    "name_en": "Chiriji",
+    "name_zh": "尘地",
+    "description_en": "Chiriji: lacquer dust ground of densely sprinkled gold powder over black urushi, coarser than nashiji pear-skin; not togidashi pictorial makie, not gold-leaf kirikane, not gilt painting.",
+    "description_zh": "尘地：黑漆上密洒金粉的尘状地，颗粒粗于梨地；非研出莳绘图绘，非截金箔片，非泥金绘画。",
+    "source": "hermes-explore",
+    "image": "styles/2632-chiriji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2590",
+    "slug": "agate-glass",
+    "name_en": "Agate Glass",
+    "name_zh": "玛瑙玻璃",
+    "description_en": "Agate glass: chalcedony calcedonio with banded amber-russet-cream vitreous veins as if stone were fused glass; not ceramic agateware, not painted faux-marble, not millefiori canes.",
+    "description_zh": "玛瑙玻璃：玉髓式钙切多尼奥，琥珀—褐红—奶油的玻璃条带如石纹熔融；非陶胎玛瑙绞泥，非画仿大理石，非千花玻璃棒。",
+    "source": "hermes-explore",
+    "image": "styles/2633-agate-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

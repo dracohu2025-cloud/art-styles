@@ -7254,6 +7254,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2628, PNG count 2628. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 518 (exactly 5, h2586–h2590)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                          |
+|-------|-------------|-------------|--------------------------------|
+| h2586 | Soft Ground | 软蜡蚀刻    | styles/2629-soft-ground.png    |
+| h2587 | Kwab        | 耳形装饰    | styles/2630-kwab.png           |
+| h2588 | Oxblood     | 祭红釉      | styles/2631-oxblood.png        |
+| h2589 | Chiriji     | 尘地        | styles/2632-chiriji.png        |
+| h2590 | Agate Glass | 玛瑙玻璃    | styles/2633-agate-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2633, PNG count 2633. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
