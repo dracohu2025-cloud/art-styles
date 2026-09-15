@@ -7730,6 +7730,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2798, PNG count 2798. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 552 (exactly 5, h2756–h2760)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                              |
+|-------|-------------------|---------------|------------------------------------|
+| h2756 | Inkless Intaglio  | 无墨凹印      | styles/2799-inkless-intaglio.png   |
+| h2757 | Flick Engraving   | 弹刀点刻      | styles/2800-flick-engraving.png    |
+| h2758 | Multiple Gum      | 多层树胶      | styles/2801-multiple-gum.png       |
+| h2759 | Energiatype       | 能量印相      | styles/2802-energiatype.png        |
+| h2760 | Red Bole          | 红黏土金地    | styles/2803-red-bole.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2803, PNG count 2803. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

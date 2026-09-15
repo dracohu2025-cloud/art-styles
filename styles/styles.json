@@ -36372,5 +36372,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2756",
+    "slug": "inkless-intaglio",
+    "name_en": "Inkless Intaglio",
+    "name_zh": "无墨凹印",
+    "description_en": "Blind / uninked intaglio: plate-embossed ridges on cream paper, raking light, plate mark, no ink.",
+    "description_zh": "无墨凹印：仅靠凹版压凸在奶油色纸上起脊，侧光显形，可见版痕，不上墨。",
+    "source": "hermes-explore",
+    "image": "styles/2799-inkless-intaglio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2757",
+    "slug": "flick-engraving",
+    "name_en": "Flick Engraving",
+    "name_zh": "弹刀点刻",
+    "description_en": "Copperplate flick-and-lozenge burin work: banknote-density ticks modeling form, carbon black on laid paper.",
+    "description_zh": "弹刀点刻：雕刀弹出菱形短线密集成调，钞票级密度，碳黑印于罗纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/2800-flick-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2758",
+    "slug": "multiple-gum",
+    "name_en": "Multiple Gum",
+    "name_zh": "多层树胶",
+    "description_en": "Layered gum bichromate: successive pigmented gum coats, slight misregister, matte wash edges, no silver grain.",
+    "description_zh": "多层树胶：多次重铬酸盐树胶色层叠印，微套准偏差，哑光色边，无银盐颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/2801-multiple-gum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2759",
+    "slug": "energiatype",
+    "name_en": "Energiatype",
+    "name_zh": "能量印相",
+    "description_en": "Hunt 1844 ferric printing-out: faint lilac-brown iron-salt image, low contrast, organic stain, no carbon pigment.",
+    "description_zh": "能量印相：1844亨特异铁盐晒出，浅紫棕低反差，边渍有机，无碳素颜料。",
+    "source": "hermes-explore",
+    "image": "styles/2802-energiatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2760",
+    "slug": "red-bole",
+    "name_en": "Red Bole",
+    "name_zh": "红黏土金地",
+    "description_en": "Water-gilding over Armenian bole: burnished gold leaf, red clay in scratches and punchwork, no oil modeling.",
+    "description_zh": "红黏土金地：水金贴于亚美尼亚红黏土上，抛光金箔，划痕与打点露出红地，不以油彩塑形。",
+    "source": "hermes-explore",
+    "image": "styles/2803-red-bole.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
