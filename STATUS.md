@@ -7478,6 +7478,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2708, PNG count 2708. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 534 (exactly 5, h2666–h2670)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh       | image                           |
+|-------|--------------|---------------|---------------------------------|
+| h2666 | Cepuk        | 哲布克絣      | styles/2709-cepuk.png           |
+| h2667 | Palepai      | 帕勒派船纹织  | styles/2710-palepai.png         |
+| h2668 | Gabbeh       | 加贝绒织      | styles/2711-gabbeh.png          |
+| h2669 | Rose Engine  | 玫瑰车花      | styles/2712-rose-engine.png     |
+| h2670 | Piqué Posé   | 玳瑁钉金      | styles/2713-pique-pose.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2713, PNG count 2713. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

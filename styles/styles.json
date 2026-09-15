@@ -35202,5 +35202,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2666",
+    "slug": "cepuk",
+    "name_en": "Cepuk",
+    "name_zh": "哲布克絣",
+    "description_en": "Cepuk: Balinese sacred weft-ikat — rust, cream, and indigo stepped resists, hooked lozenges and ritual diamond grids; not batik stamp, not songket gold weft, not hinggi warp ikat.",
+    "description_zh": "哲布克絣：巴厘圣织纬絣，铁锈红、米白与靛蓝的阶梯防染、钩形菱格与仪礼几何；非蜡染戳印，非宋格金纬，非兴吉经絣。",
+    "source": "hermes-explore",
+    "image": "styles/2709-cepuk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2667",
+    "slug": "palepai",
+    "name_en": "Palepai",
+    "name_zh": "帕勒派船纹织",
+    "description_en": "Palepai: Lampung ship-cloth — brick-red cotton with supplementary-weft registers of ships, ancestors, and trees of life; not embroidery, not batik, not songket.",
+    "description_zh": "帕勒派船纹织：楠榜船纹礼布，砖红棉地上用补纬分层织出船、祖先与生命树；非刺绣，非蜡染，非宋格织金。",
+    "source": "hermes-explore",
+    "image": "styles/2710-palepai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2668",
+    "slug": "gabbeh",
+    "name_en": "Gabbeh",
+    "name_zh": "加贝绒织",
+    "description_en": "Gabbeh: Persian tribal knotted pile — shaggy wool tips, naive color-field planes, simple trees and goats; not fine hunting-carpet detail, not kilim slit-tapestry.",
+    "description_zh": "加贝绒织：波斯部落栽绒，粗绒头、稚拙色块、简树与山羊；非细密狩猎毯，非基里姆开口缂织。",
+    "source": "hermes-explore",
+    "image": "styles/2711-gabbeh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2669",
+    "slug": "rose-engine",
+    "name_en": "Rose Engine",
+    "name_zh": "玫瑰车花",
+    "description_en": "Rose Engine: ornamental turning — concentric rosettes and intersecting circular grooves cut on a rose-engine lathe in ivory, boxwood, and metal; not freehand engraving, not printed guilloché paper.",
+    "description_zh": "玫瑰车花：玫瑰车床装饰车削，象牙、黄杨与金属上的同心玫瑰纹与交叉圆槽；非手刻线雕，非印刷引擎纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/2712-rose-engine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2670",
+    "slug": "pique-pose",
+    "name_en": "Piqué Posé",
+    "name_zh": "玳瑁钉金",
+    "description_en": "Piqué Posé: Napoleonic tortoiseshell inlaid with flush gold and silver pins in arabesques and dotted outlines; not pique-assiette china mosaic, not cloisonné, not niello.",
+    "description_zh": "玳瑁钉金：拿破仑时期玳瑁上齐平钉入金银细钉，组成卷草与点描轮廓；非碎瓷拼贴，非掐丝珐琅，非黑金镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/2713-pique-pose.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
