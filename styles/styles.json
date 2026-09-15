@@ -36047,5 +36047,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2731",
+    "slug": "hikizome",
+    "name_en": "Hikizome",
+    "name_zh": "引染",
+    "description_en": "Hikizome: long-brush dye pulled in continuous wet ombré bands across silk, indigo-scarlet-yellow bleed and streak; not yuzen outlines, not shibori dots, not batik crackle.",
+    "description_zh": "引染：宽刷在绸上长向拉动湿染渐层，靛蓝、朱红与暖黄交接渗化带刷痕；非友禅细线、非绞缬点、非蜡染裂纹。",
+    "source": "hermes-explore",
+    "image": "styles/2774-hikizome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2732",
+    "slug": "uchigumo",
+    "name_en": "Uchigumo",
+    "name_zh": "打云纸",
+    "description_en": "Uchigumo: decorative washi of swirling kozo cloud-clumps in stacked translucent sheets; not suminagashi ink marbling, not unryu even threads, not rakusui lace holes.",
+    "description_zh": "打云纸：楮纤维团块如云絮嵌于层叠半透和纸；非墨流大理石纹、非云龙纸匀散长纤维、非落水纸镂空。",
+    "source": "hermes-explore",
+    "image": "styles/2775-uchigumo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2733",
+    "slug": "paterna",
+    "name_en": "Paterna",
+    "name_zh": "帕特纳陶",
+    "description_en": "Paterna: medieval Valencian tin-glaze painted only in copper-green and manganese-brown on creamy craquelure; not Manises gold lustre, not Iznik, not Delft blue.",
+    "description_zh": "帕特纳陶：中世纪瓦伦西亚锡釉，仅铜绿与锰紫棕绘于奶白开片地；非马尼塞斯金虹彩、非伊兹尼克、非代尔夫特蓝。",
+    "source": "hermes-explore",
+    "image": "styles/2776-paterna.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2734",
+    "slug": "tatewaku",
+    "name_en": "Tatewaku",
+    "name_zh": "立涌",
+    "description_en": "Tatewaku: yūsoku rising-steam pattern of vertical undulating paired curves, nested swells in two-color silk or lacquer; not seigaiha waves, not tate-jima stripes, not sayagata.",
+    "description_zh": "立涌：有职纹样中成对竖向波状曲线如升腾热气，两色绸或漆地嵌套鼓腹；非青海波、非竖条、非纱绫形。",
+    "source": "hermes-explore",
+    "image": "styles/2777-tatewaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2735",
+    "slug": "poleng",
+    "name_en": "Poleng",
+    "name_zh": "波楞格",
+    "description_en": "Poleng: Balinese saput poleng as a graphic textile system of even black-and-white (sometimes grey) checks wrapping form; not tartan, not pastel gingham, not op-art.",
+    "description_zh": "波楞格：巴厘格纹织物体系，黑白（偶见灰）均等方格包裹形体；非苏格兰格、非浅色方格布、非欧普颤动。",
+    "source": "hermes-explore",
+    "image": "styles/2778-poleng.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

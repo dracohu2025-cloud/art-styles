@@ -7660,6 +7660,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2773, PNG count 2773. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 547 (exactly 5, h2731–h2735)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en   | name_zh     | image                       |
+|-------|-----------|-------------|-----------------------------|
+| h2731 | Hikizome  | 引染        | styles/2774-hikizome.png    |
+| h2732 | Uchigumo  | 打云纸      | styles/2775-uchigumo.png    |
+| h2733 | Paterna   | 帕特纳陶    | styles/2776-paterna.png     |
+| h2734 | Tatewaku  | 立涌        | styles/2777-tatewaku.png    |
+| h2735 | Poleng    | 波楞格      | styles/2778-poleng.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2778, PNG count 2778. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
