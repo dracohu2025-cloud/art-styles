@@ -36112,5 +36112,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2736",
+    "slug": "itabokashi",
+    "name_en": "Itabokashi",
+    "name_zh": "板ぼかし",
+    "description_en": "Itabokashi: Japanese woodblock board-bokashi, pigment wiped across the carved plank so the fade is governed by the board and wood grain; not brush bokashi, not watercolor wash, not digital airbrush.",
+    "description_zh": "板ぼかし：日本木版的板面渐染，颜料沿雕版擦开，褪晕由木纹与版面决定；非笔刷ぼかし、非水彩渲染、非数码喷笔。",
+    "source": "hermes-explore",
+    "image": "styles/2779-itabokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2737",
+    "slug": "variegated-wash",
+    "name_en": "Variegated Wash",
+    "name_zh": "斑彩湿染",
+    "description_en": "Variegated Wash: two or three pigments dropped into one wet watercolor passage so they bloom and granulate without mixing to mud; not flat gouache, not a digital gradient, not ink-wash suibokuga.",
+    "description_zh": "斑彩湿染：两三种颜料落入同一湿水彩区域，渗化颗粒而不搅成浊色；非平涂水粉、非数码渐变、非水墨渲染。",
+    "source": "hermes-explore",
+    "image": "styles/2780-variegated-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2738",
+    "slug": "mouth-atomizer",
+    "name_en": "Mouth Atomizer",
+    "name_zh": "口吹喷绘",
+    "description_en": "Mouth Atomizer: illustration tones blown through a hand atomizer, stippled spray grain and masked hard edges; not compressor airbrush smoothness, not graffiti cans, not photoreal pinup airbrush.",
+    "description_zh": "口吹喷绘：用手持吹管喷出色调，颗粒雾与遮挡硬边并存；非空压喷笔平滑、非涂鸦喷罐、非写实喷绘。",
+    "source": "hermes-explore",
+    "image": "styles/2781-mouth-atomizer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2739",
+    "slug": "cel-paint",
+    "name_en": "Cel Paint",
+    "name_zh": "赛璐珞手涂",
+    "description_en": "Cel Paint: reverse-painted vinyl/gouache fills on acetate with xeroxed ink line and slight pooling at fill edges; not 3D, not digital vector, not watercolor background painting as the dominant look.",
+    "description_zh": "赛璐珞手涂：醋酸纤维素背面手涂赛璐珞颜料，正面复印墨线，色块边缘微积色；非三维、非矢量平涂、非水彩背景为主。",
+    "source": "hermes-explore",
+    "image": "styles/2782-cel-paint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2740",
+    "slug": "direct-gravure",
+    "name_en": "Direct Gravure",
+    "name_zh": "直接凹版",
+    "description_en": "Direct Gravure: artist-drawn copper-plate gravure with wiped velvety blacks, dust-grain midtones and a plate mark on rag paper; not photographic photogravure, not mezzotint, not lithograph crayon.",
+    "description_zh": "直接凹版：画家直接制版的铜凹版，擦墨丝绒黑、尘粒中间调与纸上版痕；非照相凹版、非美柔汀、非石版蜡笔。",
+    "source": "hermes-explore",
+    "image": "styles/2783-direct-gravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

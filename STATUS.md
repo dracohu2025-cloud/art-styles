@@ -7674,6 +7674,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2778, PNG count 2778. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 548 (exactly 5, h2736–h2740)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh       | image                              |
+|-------|---------------------|---------------|------------------------------------|
+| h2736 | Itabokashi          | 板ぼかし      | styles/2779-itabokashi.png         |
+| h2737 | Variegated Wash     | 斑彩湿染      | styles/2780-variegated-wash.png    |
+| h2738 | Mouth Atomizer      | 口吹喷绘      | styles/2781-mouth-atomizer.png     |
+| h2739 | Cel Paint           | 赛璐珞手涂    | styles/2782-cel-paint.png          |
+| h2740 | Direct Gravure      | 直接凹版      | styles/2783-direct-gravure.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2783, PNG count 2783. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
