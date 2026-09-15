@@ -35007,5 +35007,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2651",
+    "slug": "inkle-weave",
+    "name_en": "Inkle Weave",
+    "name_zh": "英克尔带织",
+    "description_en": "Inkle weave: warp-faced bands on an inkle loom — packed warps hide the weft, pickup geometrics, clean selvedges; not tablet weaving, not brocade, not kasuri.",
+    "description_zh": "英克尔带织：带织机上的经面窄带，密经掩纬、提花几何与光洁布边；非卡片织带，非妆花，非絣织。",
+    "source": "hermes-explore",
+    "image": "styles/2694-inkle-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2652",
+    "slug": "waffle-weave",
+    "name_en": "Waffle Weave",
+    "name_zh": "华夫格织",
+    "description_en": "Waffle weave: warp and weft floats build a high-relief grid of square cells, towel-like pockets catching raking light; not huck, not honeycomb knit, not quilting.",
+    "description_zh": "华夫格织：经纬浮长织出高浮雕方格凹窝，如毛巾格吸光；非哈克织，非蜂窝针织，非绗缝。",
+    "source": "hermes-explore",
+    "image": "styles/2695-waffle-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2653",
+    "slug": "twined-weaving",
+    "name_en": "Twined Weaving",
+    "name_zh": "缠织",
+    "description_en": "Twined weaving: paired wefts twist around each warp, diagonal rib and two-strand wrap; not plain loom weave, not knitting, not sprang, not inkle.",
+    "description_zh": "缠织：双纬成对缠绕每根经线，斜向棱肋与双股绞包；非平纹机织，非针织，非斯普朗，非英克尔带。",
+    "source": "hermes-explore",
+    "image": "styles/2696-twined-weaving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2654",
+    "slug": "arriccio",
+    "name_en": "Arriccio",
+    "name_zh": "粗灰底层",
+    "description_en": "Arriccio: the coarse fresco brown coat — lime-and-sand tooth, keyed trowel grooves, unfinished wall before intonaco; not polished fresco, not sgraffito, not sinopia cartoon.",
+    "description_zh": "粗灰底层：湿壁画褐色粗灰，石灰砂粒齿面与刮槽键纹，尚未罩光滑面层；非细泥湿壁，非刮刻灰泥，非红土草图。",
+    "source": "hermes-explore",
+    "image": "styles/2697-arriccio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2655",
+    "slug": "bian-xiu",
+    "name_en": "Bian Xiu",
+    "name_zh": "汴绣",
+    "description_en": "Bian Xiu: Kaifeng silk embroidery — dense satin and long-and-short stitches, Song-capital needle-painting; not Suzhou random stitch, not Xiang embroidery, not counted cross-stitch.",
+    "description_zh": "汴绣：开封丝绣，密齐缎绣与长短针晕色，宋都针画；非苏绣乱针，非湘绣，非十字挑花。",
+    "source": "hermes-explore",
+    "image": "styles/2698-bian-xiu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

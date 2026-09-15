@@ -7436,6 +7436,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2693, PNG count 2693. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 531 (exactly 5, h2651–h2655)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                            |
+|-------|-----------------|-------------|----------------------------------|
+| h2651 | Inkle Weave     | 英克尔带织  | styles/2694-inkle-weave.png      |
+| h2652 | Waffle Weave    | 华夫格织    | styles/2695-waffle-weave.png     |
+| h2653 | Twined Weaving  | 缠织        | styles/2696-twined-weaving.png   |
+| h2654 | Arriccio        | 粗灰底层    | styles/2697-arriccio.png         |
+| h2655 | Bian Xiu        | 汴绣        | styles/2698-bian-xiu.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2698, PNG count 2698. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
