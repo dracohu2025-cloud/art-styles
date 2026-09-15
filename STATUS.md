@@ -7366,6 +7366,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2668, PNG count 2668. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 526 (exactly 5, h2626–h2630)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2626 | Kyushitsu       | 髹漆            | styles/2669-kyushitsu.png          |
+| h2627 | Odawara-nuri    | 小田原塗        | styles/2670-odawara-nuri.png       |
+| h2628 | Bozzetto        | 雕塑小稿        | styles/2671-bozzetto.png           |
+| h2629 | Kakiwari        | 描割            | styles/2672-kakiwari.png           |
+| h2630 | Brick Stitch    | 砖针            | styles/2673-brick-stitch.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2673, PNG count 2673. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

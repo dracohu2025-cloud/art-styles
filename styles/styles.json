@@ -34682,5 +34682,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2626",
+    "slug": "kyushitsu",
+    "name_en": "Kyushitsu",
+    "name_zh": "髹漆",
+    "description_en": "Kyushitsu: Japanese urushi coating built from many thin brushed coats into a deep wet-gloss film — jet-black roiro and cinnabar-red layers, brush-settled flow, dust-free mirror polish. Not maki-e gold powder, not carved tsuishu, not generic varnish.",
+    "description_zh": "髹漆：多层薄刷生漆积成深湿光漆膜，黑呂色与朱红层、刷痕融平、无尘镜面；非莳绘金粉、非雕漆、非普通清漆。",
+    "source": "hermes-explore",
+    "image": "styles/2669-kyushitsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2627",
+    "slug": "odawara-nuri",
+    "name_en": "Odawara-nuri",
+    "name_zh": "小田原塗",
+    "description_en": "Odawara-nuri: Kanagawa practical wood-core lacquer — warm chestnut grain still readable through thin translucent brown-black urushi, modest amber sheen, kitchen-and-tray honesty. Not ornate Wajima maki-e, not Kawatsura-nuri, not Kiso-nuri.",
+    "description_zh": "小田原塗：神奈川实用木胎漆，栗色木纹透过薄透褐黑漆可读，琥珀低调光泽；非轮岛华丽莳绘、非川連塗、非木曾涂。",
+    "source": "hermes-explore",
+    "image": "styles/2670-odawara-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2628",
+    "slug": "bozzetto",
+    "name_en": "Bozzetto",
+    "name_zh": "雕塑小稿",
+    "description_en": "Bozzetto: Italian sculptor's clay modello — rough thumb-modeled terracotta, additive pellets, tool gouges, fingertip facets, unfired earth-red sketch energy. Not marble polish, not porcelain, not finished bronze.",
+    "description_zh": "雕塑小稿：意大利雕塑家陶土模特罗，拇指捏塑、加泥粒、刀痕与指面、未烧土红速稿；非大理石抛光、非瓷器、非成品青铜。",
+    "source": "hermes-explore",
+    "image": "styles/2671-bozzetto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2629",
+    "slug": "kakiwari",
+    "name_en": "Kakiwari",
+    "name_zh": "描割",
+    "description_en": "Kakiwari: lacquer hairline drawing — ultra-fine gold and black contours drawn or cut on dark urushi, sparse calligraphic wire-lines, almost no filled color. Not dense maki-e sprinkle, not kirikane foil squares, not ink painting.",
+    "description_zh": "描割：漆面金黑发丝线描或刻线，稀疏书法细线、几乎不填色；非密莳金粉、非切箔方片、非水墨。",
+    "source": "hermes-explore",
+    "image": "styles/2672-kakiwari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2630",
+    "slug": "brick-stitch",
+    "name_en": "Brick Stitch",
+    "name_zh": "砖针",
+    "description_en": "Brick stitch: offset rectangular stitches stacked like masonry — each stitch a small brick of thread or bead, stepped zigzag edges, row-by-row color stepping on an even grid. Not bargello flame stitch, not tent-stitch diagonals, not cross-stitch X marks.",
+    "description_zh": "砖针：错位矩形针迹如砌砖，线或珠成小砖、阶梯锯齿边、逐行换色；非火焰绣、非斜缠针、非十字绣。",
+    "source": "hermes-explore",
+    "image": "styles/2673-brick-stitch.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
