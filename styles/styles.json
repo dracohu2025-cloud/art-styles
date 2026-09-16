@@ -37607,5 +37607,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2851",
+    "slug": "sprezzatura",
+    "name_en": "Sprezzatura",
+    "name_zh": "率意笔",
+    "description_en": "Sprezzatura: Italian virtuoso oil of apparent ease — bravura loose strokes, skipped edges, wet-into-wet, umber ground showing through.",
+    "description_zh": "率意笔：意大利绘画的举重若轻，阔笔挥写、断续轮廓、湿接湿，赭底隐现。",
+    "source": "hermes-explore",
+    "image": "styles/2894-sprezzatura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2852",
+    "slug": "brownprint",
+    "name_en": "Brownprint",
+    "name_zh": "棕晒",
+    "description_en": "Brownprint: ferro-gallate iron-brown contact print on cream paper, walnut shadows, chemical grain, alternative-process fog.",
+    "description_zh": "棕晒：铁没食子酸盐棕印，乳白纸基、核桃棕影、药膜颗粒与接触印相柔边。",
+    "source": "hermes-explore",
+    "image": "styles/2895-brownprint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2853",
+    "slug": "cabbage-green",
+    "name_en": "Cabbage Green",
+    "name_zh": "孔雀绿",
+    "description_en": "Cabbage Green: Chinese peacock-green copper glaze on porcelain — translucent emerald-teal glass, pooled recesses, kiln sheen.",
+    "description_zh": "孔雀绿：瓷器铜绿釉，翡翠青绿玻璃质、积釉凹处、窑火光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2896-cabbage-green.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2854",
+    "slug": "e-shino",
+    "name_en": "E-shino",
+    "name_zh": "绘志野",
+    "description_en": "E-shino: painted Shino ware — milky feldspar glaze, pinholes and crawling, iron-oxide oniita brush under warm fire-color.",
+    "description_zh": "绘志野：志野白浊长石釉下铁绘，针孔缩釉、火色橙白、粘土胎骨。",
+    "source": "hermes-explore",
+    "image": "styles/2897-e-shino.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2855",
+    "slug": "sculptography",
+    "name_en": "Sculptography",
+    "name_zh": "浮雕照相",
+    "description_en": "Sculptography: photographic low-relief / photo-sculpture, cameo ridges, raking light on raised gelatin modeling.",
+    "description_zh": "浮雕照相：浅浮雕照相雕塑，侧光扫过高起胶层与浮雕轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2898-sculptography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

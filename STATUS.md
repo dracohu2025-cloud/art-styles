@@ -7997,6 +7997,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2893, PNG count 2893. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 571 (exactly 5, h2851–h2855)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                            |
+|-------|----------------|------------|----------------------------------|
+| h2851 | Sprezzatura    | 率意笔     | styles/2894-sprezzatura.png      |
+| h2852 | Brownprint     | 棕晒       | styles/2895-brownprint.png       |
+| h2853 | Cabbage Green  | 孔雀绿     | styles/2896-cabbage-green.png    |
+| h2854 | E-shino        | 绘志野     | styles/2897-e-shino.png          |
+| h2855 | Sculptography  | 浮雕照相   | styles/2898-sculptography.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2898, PNG count 2898. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
