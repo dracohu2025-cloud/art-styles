@@ -37152,5 +37152,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2816",
+    "slug": "paitkar",
+    "name_en": "Paitkar",
+    "name_zh": "派特卡尔",
+    "description_en": "Jharkhand Paitkar scroll painting: matte earth pigments, strong folk outline, ochre-red-black registers on aged paper.",
+    "description_zh": "派特卡尔：贾坎德卷轴画，矿物土色、民间勾线、赭红墨色分栏于旧纸。",
+    "source": "hermes-explore",
+    "image": "styles/2859-paitkar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2817",
+    "slug": "ranjana",
+    "name_en": "Ranjana",
+    "name_zh": "兰札",
+    "description_en": "Newar Ranjana manuscript hand: thick-headed gold and cinnabar letters on indigo, ruled lines, knot finials.",
+    "description_zh": "兰札：尼瓦尔写经体，厚头金朱字、靛蓝地、界栏与结饰收笔。",
+    "source": "hermes-explore",
+    "image": "styles/2860-ranjana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2818",
+    "slug": "ushak",
+    "name_en": "Ushak",
+    "name_zh": "乌沙克",
+    "description_en": "Anatolian Ushak carpet language: ogival medallions, rumi vines, madder-red pile, indigo palmettes, knotted wool.",
+    "description_zh": "乌沙克：安纳托利亚地毯语汇，卵形团窠、鲁米卷草、茜红绒地与靛蓝掌纹。",
+    "source": "hermes-explore",
+    "image": "styles/2861-ushak.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2819",
+    "slug": "bayeux-needlework",
+    "name_en": "Bayeux Needlework",
+    "name_zh": "贝叶绣",
+    "description_en": "Bayeux wool-on-linen needlework: laid-and-couched stitches, stem-stitch outlines, earth-wool palette, linen ground.",
+    "description_zh": "贝叶绣：亚麻地羊毛绣，铺针钉线、茎绣勾边、土色绒线、布地透出。",
+    "source": "hermes-explore",
+    "image": "styles/2862-bayeux-needlework.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2820",
+    "slug": "tifinagh",
+    "name_en": "Tifinagh",
+    "name_zh": "提非纳格",
+    "description_en": "Tifinagh geometric script ornament: dots, bars, circles and forks in charcoal and ochre on limewashed earth.",
+    "description_zh": "提非纳格：几何字母纹样，点画圆叉，木炭与赭石绘于灰泥地。",
+    "source": "hermes-explore",
+    "image": "styles/2863-tifinagh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

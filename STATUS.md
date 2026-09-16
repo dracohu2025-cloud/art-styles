@@ -7898,6 +7898,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2858, PNG count 2858. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+
+## Hermes-explore batch 564 (exactly 5, h2816–h2820)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                |
+|-------|--------------------|------------|--------------------------------------|
+| h2816 | Paitkar            | 派特卡尔   | styles/2859-paitkar.png              |
+| h2817 | Ranjana            | 兰札       | styles/2860-ranjana.png              |
+| h2818 | Ushak              | 乌沙克     | styles/2861-ushak.png                |
+| h2819 | Bayeux Needlework  | 贝叶绣     | styles/2862-bayeux-needlework.png    |
+| h2820 | Tifinagh           | 提非纳格   | styles/2863-tifinagh.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2863, PNG count 2863. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
