@@ -37542,5 +37542,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2846",
+    "slug": "byakudan-nuri",
+    "name_en": "Byakudan-nuri",
+    "name_zh": "白檀塗",
+    "description_en": "Byakudan-nuri: gold powder sealed under translucent sandalwood-brown urushi so metal glows amber through a honey-glass lacquer film.",
+    "description_zh": "白檀塗：金粉上罩半透明檀褐色漆，金属光从蜜色漆膜下透出。",
+    "source": "hermes-explore",
+    "image": "styles/2889-byakudan-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2847",
+    "slug": "heijin",
+    "name_en": "Heijin",
+    "name_zh": "平尘",
+    "description_en": "Heijin: even, dense fine gold powder fused flat into black lacquer—a continuous kinpun ground, not raised takamaki-e or nashiji flakes.",
+    "description_zh": "平尘：细金粉均匀密布并融入黑漆的平坦金地，非高莳绘浮雕或梨地金片。",
+    "source": "hermes-explore",
+    "image": "styles/2890-heijin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2848",
+    "slug": "resinotype",
+    "name_en": "Resinotype",
+    "name_zh": "树脂色粉印",
+    "description_en": "Resinotype: dry colored resin pigment dusted onto a tacky bichromated gelatin matrix and fixed—velvety powdered-pigment photography.",
+    "description_zh": "树脂色粉印：干树脂色粉撒在发黏的重铬酸盐明胶上再定影，绒面色粉照相。",
+    "source": "hermes-explore",
+    "image": "styles/2891-resinotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2849",
+    "slug": "chromatone",
+    "name_en": "Chromatone",
+    "name_zh": "克罗玛通",
+    "description_en": "Chromatone: 1930s wash-off relief color print, cyan-magenta-yellow dyed gelatin layers with creamy vintage imbibition color.",
+    "description_zh": "克罗玛通：1930年代水洗浮雕彩照，青品黄染色明胶层，奶油味染料渗印。",
+    "source": "hermes-explore",
+    "image": "styles/2892-chromatone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2850",
+    "slug": "eba-zome",
+    "name_en": "Eba-zome",
+    "name_zh": "绘羽染",
+    "description_en": "Eba-zome: pictorial kimono dyeing as one continuous composition on silk with rice-paste resist and yuzen-like brush dyes across seams.",
+    "description_zh": "绘羽染：在丝绸上以糊防染与友禅笔染画成整幅图画，纹样过缝连续。",
+    "source": "hermes-explore",
+    "image": "styles/2893-eba-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

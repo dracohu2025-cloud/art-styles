@@ -7983,6 +7983,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2888, PNG count 2888. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 570 (exactly 5, h2846–h2850)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                         |
+|-------|---------------|-------------|-------------------------------|
+| h2846 | Byakudan-nuri | 白檀塗      | styles/2889-byakudan-nuri.png |
+| h2847 | Heijin        | 平尘        | styles/2890-heijin.png        |
+| h2848 | Resinotype    | 树脂色粉印  | styles/2891-resinotype.png    |
+| h2849 | Chromatone    | 克罗玛通    | styles/2892-chromatone.png    |
+| h2850 | Eba-zome      | 绘羽染      | styles/2893-eba-zome.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2893, PNG count 2893. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
