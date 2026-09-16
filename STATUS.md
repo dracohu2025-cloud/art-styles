@@ -7828,6 +7828,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2833, PNG count 2833. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 559 (exactly 5, h2791–h2795)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                              |
+|-------|----------------|------------|------------------------------------|
+| h2791 | Jinwen         | 金文       | styles/2834-jinwen.png             |
+| h2792 | Dianluo        | 点螺       | styles/2835-dianluo.png            |
+| h2793 | Duqi           | 堆漆       | styles/2836-duqi.png               |
+| h2794 | Termeh         | 特尔梅     | styles/2837-termeh.png             |
+| h2795 | Eastern Kufic  | 东库法     | styles/2838-eastern-kufic.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2838, PNG count 2838. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -36827,5 +36827,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2791",
+    "slug": "jinwen",
+    "name_en": "Jinwen",
+    "name_zh": "金文",
+    "description_en": "Bronze-inscription script: cast Shang–Zhou glyph strokes, swollen terminals, malachite patina, rubbing-black ground.",
+    "description_zh": "金文：商周铸铭笔势、肥末、铜绿包浆、拓墨底。",
+    "source": "hermes-explore",
+    "image": "styles/2834-jinwen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2792",
+    "slug": "dianluo",
+    "name_en": "Dianluo",
+    "name_zh": "点螺",
+    "description_en": "Dotted nacre inlay: tiny mother-of-pearl specks set in black urushi, iridescent stipple rather than large raden plaques.",
+    "description_zh": "点螺：黑漆嵌细螺钿点，虹彩点绘，非大片螺钿。",
+    "source": "hermes-explore",
+    "image": "styles/2835-dianluo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2793",
+    "slug": "duqi",
+    "name_en": "Duqi",
+    "name_zh": "堆漆",
+    "description_en": "Piled lacquer relief: colored urushi built in strata, viscous ridges, sculptural low-relief topography.",
+    "description_zh": "堆漆：色漆层层堆塑，黏脊起伏，浅浮雕地形。",
+    "source": "hermes-explore",
+    "image": "styles/2836-duqi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2794",
+    "slug": "termeh",
+    "name_en": "Termeh",
+    "name_zh": "特尔梅",
+    "description_en": "Persian termeh twill: silk brocade, malileh metal weft, dense botteh paisley in crimson, gold, and pine green.",
+    "description_zh": "特尔梅：波斯斜纹织金，佩斯利boteh密铺，绯红松绿金线。",
+    "source": "hermes-explore",
+    "image": "styles/2837-termeh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2795",
+    "slug": "eastern-kufic",
+    "name_en": "Eastern Kufic",
+    "name_zh": "东库法",
+    "description_en": "Mashriqi Eastern Kufic: elongated verticals, short angular bodies, gold letterforms on dyed paper, red vocalization dots.",
+    "description_zh": "东库法：高竖短身、染色纸金书、红色标音点。",
+    "source": "hermes-explore",
+    "image": "styles/2838-eastern-kufic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
