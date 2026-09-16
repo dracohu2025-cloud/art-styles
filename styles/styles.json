@@ -38127,5 +38127,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2891",
+    "slug": "coralene",
+    "name_en": "Coralene",
+    "name_zh": "珊瑚珠釉",
+    "description_en": "Coralene: Victorian art-glass decorating with enamel painting plus fused raised glass-bead trails, jewel-tone translucent glass, coral-like dotted contours, satin-to-gloss fire polish.",
+    "description_zh": "珊瑚珠釉：维多利亚玻璃画珐琅后熔着凸起玻璃珠串、宝石色半透玻璃、珊瑚状点线轮廓、缎面至亮面火抛。",
+    "source": "hermes-explore",
+    "image": "styles/2934-coralene.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2892",
+    "slug": "baekja",
+    "name_en": "Baekja",
+    "name_zh": "朝鲜白瓷",
+    "description_en": "Baekja: Joseon Korean white porcelain, milky moon-white feldspathic glaze, soft gray-blue pooling, sparse or no painted ornament, quiet crackle, porcelain volume.",
+    "description_zh": "朝鲜白瓷：朝鲜王朝白瓷、月白长石釉、凹处淡青灰积釉、少饰或无饰、细开片、瓷体量感。",
+    "source": "hermes-explore",
+    "image": "styles/2935-baekja.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2893",
+    "slug": "haban",
+    "name_en": "Haban",
+    "name_zh": "哈班彩陶",
+    "description_en": "Haban: Central European Anabaptist tin-glazed faience, opaque white ground, cobalt-yellow-green-manganese folk tulips and carnations, concentric borders, ceramic-plate drawing.",
+    "description_zh": "哈班彩陶：中欧再洗礼派锡釉彩陶、乳白地、钴蓝黄绿锰紫民间郁金香与康乃馨、同心圈边、陶盘画法。",
+    "source": "hermes-explore",
+    "image": "styles/2936-haban.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2894",
+    "slug": "tianlan",
+    "name_en": "Tianlan",
+    "name_zh": "天蓝釉",
+    "description_en": "Tianlan: Qing imperial sky-blue monochrome high-fired glaze, even powdery pale blue, Jingdezhen porcelain, no overglaze painting, darker pooling at rims and folds.",
+    "description_zh": "天蓝釉：清代御窑单色高温釉、均匀粉质淡天蓝、景德镇瓷、无釉上彩、口沿与褶处积釉略深。",
+    "source": "hermes-explore",
+    "image": "styles/2937-tianlan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2895",
+    "slug": "shiwan",
+    "name_en": "Shiwan",
+    "name_zh": "石湾陶塑",
+    "description_en": "Shiwan: Guangdong stoneware figural pottery, thick flambé and jun-like transmutation glazes, unglazed clay at rims, oxblood-amber-tea-dust runs, sculptural kiln drips.",
+    "description_zh": "石湾陶塑：广东石湾人物陶、厚窑变与钧类釉流、口沿露胎、牛血红琥珀茶叶末淌釉、雕塑感窑滴。",
+    "source": "hermes-explore",
+    "image": "styles/2938-shiwan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

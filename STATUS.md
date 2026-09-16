@@ -8109,6 +8109,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2933, PNG count 2933. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 579 (exactly 5, h2891–h2895)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en   | name_zh     | image                      |
+|-------|-----------|-------------|----------------------------|
+| h2891 | Coralene  | 珊瑚珠釉    | styles/2934-coralene.png   |
+| h2892 | Baekja    | 朝鲜白瓷    | styles/2935-baekja.png     |
+| h2893 | Haban     | 哈班彩陶    | styles/2936-haban.png      |
+| h2894 | Tianlan   | 天蓝釉      | styles/2937-tianlan.png    |
+| h2895 | Shiwan    | 石湾陶塑    | styles/2938-shiwan.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2938, PNG count 2938. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
