@@ -8053,6 +8053,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2913, PNG count 2913. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 575 (exactly 5, h2871–h2875)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh        | image                       |
+|-------|------------|----------------|-----------------------------|
+| h2871 | Shyrdak    | 希尔达克毡     | styles/2914-shyrdak.png     |
+| h2872 | Pipli      | 皮普利贴花     | styles/2915-pipli.png       |
+| h2873 | Battenberg | 巴滕贝格蕾丝   | styles/2916-battenberg.png  |
+| h2874 | Kharek     | 卡雷克绣       | styles/2917-kharek.png      |
+| h2875 | Asbolite   | 钴土绘         | styles/2918-asbolite.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2918, PNG count 2918. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

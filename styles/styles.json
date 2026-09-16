@@ -37867,5 +37867,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2871",
+    "slug": "shyrdak",
+    "name_en": "Shyrdak",
+    "name_zh": "希尔达克毡",
+    "description_en": "Shyrdak: Kyrgyz mosaic felt — cut-and-stitched wool tesserae, ram's-horn silhouettes, blanket-stitch seams, dense nap, high-contrast red-black-white-indigo.",
+    "description_zh": "希尔达克毡：吉尔吉斯拼贴毡，裁缝羊毛块、羊角剪影、锁边缝与红黑白靛高反差绒面。",
+    "source": "hermes-explore",
+    "image": "styles/2914-shyrdak.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2872",
+    "slug": "pipli",
+    "name_en": "Pipli",
+    "name_zh": "皮普利贴花",
+    "description_en": "Pipli: Odisha chandua appliqué — layered cotton cutouts, running-stitch outlines, mirrored trees and birds, festival primaries on black cloth.",
+    "description_zh": "皮普利贴花：奥里萨昌杜阿贴布，层叠布剪、跑针勾边、镜像树鸟与黑底节庆三原色。",
+    "source": "hermes-explore",
+    "image": "styles/2915-pipli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2873",
+    "slug": "battenberg",
+    "name_en": "Battenberg",
+    "name_zh": "巴滕贝格蕾丝",
+    "description_en": "Battenberg: Renaissance tape lace — woven tape loops joined by needle bars, wheels and brides, ivory-ecru openwork on dark ground.",
+    "description_zh": "巴滕贝格蕾丝：文艺复兴带状蕾丝，织带线圈以针梭、轮纹与连接柱接合，米白镂空压深底。",
+    "source": "hermes-explore",
+    "image": "styles/2916-battenberg.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2874",
+    "slug": "kharek",
+    "name_en": "Kharek",
+    "name_zh": "卡雷克绣",
+    "description_en": "Kharek: Kutch counted geometric embroidery — tiny satin squares, stepped diamond lattices, rigid tiling, high-chroma silk on black cloth.",
+    "description_zh": "卡雷克绣：卡奇计数几何绣，细缎针方块、阶梯菱格、刚性铺贴与黑底高饱和丝线。",
+    "source": "hermes-explore",
+    "image": "styles/2917-kharek.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2875",
+    "slug": "asbolite",
+    "name_en": "Asbolite",
+    "name_zh": "钴土绘",
+    "description_en": "Asbolite: cobalt-ore underglaze on porcelain — inky blue-black to pale sky washes, iron-speckled bloom, clear crackle overglaze, no polychrome enamel.",
+    "description_zh": "钴土绘：瓷上钴土釉下彩，墨蓝至淡天蓝渲染、铁斑晕开与透明开片釉，无五彩上绘。",
+    "source": "hermes-explore",
+    "image": "styles/2918-asbolite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
