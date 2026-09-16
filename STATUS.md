@@ -7969,6 +7969,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2883, PNG count 2883. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 569 (exactly 5, h2841–h2845)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh       | image                                    |
+|-------|-------------------------|---------------|------------------------------------------|
+| h2841 | Apple Green             | 苹果绿        | styles/2884-apple-green.png              |
+| h2842 | Shu-nuri                | 朱涂          | styles/2885-shu-nuri.png                 |
+| h2843 | Ayaori                  | 绫织          | styles/2886-ayaori.png                   |
+| h2844 | Kin-zogan               | 金象嵌        | styles/2887-kin-zogan.png                |
+| h2845 | Bianco di San Giovanni  | 圣乔万尼白    | styles/2888-bianco-di-san-giovanni.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2888, PNG count 2888. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

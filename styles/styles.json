@@ -37477,5 +37477,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2841",
+    "slug": "apple-green",
+    "name_en": "Apple Green",
+    "name_zh": "苹果绿",
+    "description_en": "Apple green: Qing overglaze enamel of glassy apple-green, slightly translucent vitreous pool over white porcelain, jewel-like not celadon or jade.",
+    "description_zh": "苹果绿：清代低温绿釉/珐琅，玻璃质苹果绿半透积釉覆白瓷，宝石感，非青瓷或玉雕。",
+    "source": "hermes-explore",
+    "image": "styles/2884-apple-green.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2842",
+    "slug": "shu-nuri",
+    "name_en": "Shu-nuri",
+    "name_zh": "朱涂",
+    "description_en": "Shu-nuri: vermilion urushi lacquer coating, dense cinnabar-red with high-gloss nuri skin and black underlayer at thin edges, not painted acrylic.",
+    "description_zh": "朱涂：朱红漆涂装，密实朱砂红高光漆膜，薄处透出黑底，非丙烯涂红。",
+    "source": "hermes-explore",
+    "image": "styles/2885-shu-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2843",
+    "slug": "ayaori",
+    "name_en": "Ayaori",
+    "name_zh": "绫织",
+    "description_en": "Ayaori: Japanese twill silk, diagonal rib that flips light and dark with the weave, figured warp-weft luster, not embroidery or print.",
+    "description_zh": "绫织：斜纹丝织，经纬斜肋随光翻转明暗，花绫光泽，非刺绣或印花。",
+    "source": "hermes-explore",
+    "image": "styles/2886-ayaori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2844",
+    "slug": "kin-zogan",
+    "name_en": "Kin-zogan",
+    "name_zh": "金象嵌",
+    "description_en": "Kin-zogan: gold inlay hammered flush into chiseled recesses in dark iron or shakudo, inlaid metal not leaf or gilt paint.",
+    "description_zh": "金象嵌：金丝金片锤入铁或赤铜錾槽后磨平，镶金而非贴箔或描金。",
+    "source": "hermes-explore",
+    "image": "styles/2887-kin-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2845",
+    "slug": "bianco-di-san-giovanni",
+    "name_en": "Bianco di San Giovanni",
+    "name_zh": "圣乔万尼白",
+    "description_en": "Bianco di San Giovanni: Cennini lime-putty fresco white, slaked-lime calcium white sinking into intonaco, matte plaster tooth not oil or gesso gold.",
+    "description_zh": "圣乔万尼白：切尼尼所述熟石灰膏壁画白，钙白渗入细灰泥，哑光壁面，非油画或石膏贴金。",
+    "source": "hermes-explore",
+    "image": "styles/2888-bianco-di-san-giovanni.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
