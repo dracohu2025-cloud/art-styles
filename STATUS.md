@@ -7955,6 +7955,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2878, PNG count 2878. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 568 (exactly 5, h2836–h2840)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh   | image                          |
+|-------|--------------|-----------|--------------------------------|
+| h2836 | Glacis       | 釉染层    | styles/2879-glacis.png         |
+| h2837 | Usunikubori  | 薄肉彫    | styles/2880-usunikubori.png    |
+| h2838 | Ayasugi Hada | 绫杉肌    | styles/2881-ayasugi-hada.png   |
+| h2839 | Sunagashi    | 砂流      | styles/2882-sunagashi.png      |
+| h2840 | Rokusho      | 绿青      | styles/2883-rokusho.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2883, PNG count 2883. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

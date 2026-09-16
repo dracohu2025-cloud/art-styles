@@ -37412,5 +37412,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2836",
+    "slug": "glacis",
+    "name_en": "Glacis",
+    "name_zh": "釉染层",
+    "description_en": "Glacis: stacked paper-thin transparent oil films over opaque underpainting so color mixes optically; enamel depth, no impasto ridge.",
+    "description_zh": "釉染层：多层极薄透明油色罩在不透明底色上，光学混色，珐琅般深度，无厚涂脊。",
+    "source": "hermes-explore",
+    "image": "styles/2879-glacis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2837",
+    "slug": "usunikubori",
+    "name_en": "Usunikubori",
+    "name_zh": "薄肉彫",
+    "description_en": "Usunikubori: Japanese shallow-relief metal carving, forms barely rising from a patinated plate, hairline cuts, raking-light edges.",
+    "description_zh": "薄肉彫：日本浅浮雕金工，形体仅微微隆起于包浆地，毛雕细线，侧光勾边。",
+    "source": "hermes-explore",
+    "image": "styles/2880-usunikubori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2838",
+    "slug": "ayasugi-hada",
+    "name_en": "Ayasugi Hada",
+    "name_zh": "绫杉肌",
+    "description_en": "Ayasugi-hada: folded tamahagane cedar-wave grain, large regular undulating dark-and-bright bands like cedar rings in polished steel.",
+    "description_zh": "绫杉肌：折り返し钢的杉波地肌，规则大波明暗带如杉年轮，研磨钢面。",
+    "source": "hermes-explore",
+    "image": "styles/2881-ayasugi-hada.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2839",
+    "slug": "sunagashi",
+    "name_en": "Sunagashi",
+    "name_zh": "砂流",
+    "description_en": "Sunagashi: hamon activity of swept nie, sparkling martensite dragged into sandy flowing streaks through nioi fog in polished steel.",
+    "description_zh": "砂流：刃文働き，沸粒子被拖成砂状流纹，穿过匂雾，研磨钢中闪烁。",
+    "source": "hermes-explore",
+    "image": "styles/2882-sunagashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2840",
+    "slug": "rokusho",
+    "name_en": "Rokusho",
+    "name_zh": "绿青",
+    "description_en": "Rokusho: traditional Japanese copper patination bath, mottled malachite-teal verdigris film over warm bronze, chemical not painted green.",
+    "description_zh": "绿青：日本铜合金煮色，孔雀石青绿化学包浆覆在暖铜上，非涂绿。",
+    "source": "hermes-explore",
+    "image": "styles/2883-rokusho.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
