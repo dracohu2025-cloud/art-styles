@@ -7884,6 +7884,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2853, PNG count 2853. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 563 (exactly 5, h2811–h2815)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh   | image                           |
+|-------|---------------|-----------|---------------------------------|
+| h2811 | Knotted Kufic | 结体库法  | styles/2854-knotted-kufic.png   |
+| h2812 | Bihari Script | 比哈里体  | styles/2855-bihari-script.png   |
+| h2813 | Mbari         | 姆巴里    | styles/2856-mbari.png           |
+| h2814 | Kbach         | 高棉纹样  | styles/2857-kbach.png           |
+| h2815 | Lai Kranok    | 克拉诺纹  | styles/2858-lai-kranok.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2858, PNG count 2858. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

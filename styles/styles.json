@@ -37087,5 +37087,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2811",
+    "slug": "knotted-kufic",
+    "name_en": "Knotted Kufic",
+    "name_zh": "结体库法",
+    "description_en": "Interlaced square Kufic: plaited angular letter-bands, maze-like positive/negative knots, mineral black-red-gold on parchment.",
+    "description_zh": "结体库法：方折交织字带、正负形迷宫结、矿物黑红金书于皮纸。",
+    "source": "hermes-explore",
+    "image": "styles/2854-knotted-kufic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2812",
+    "slug": "bihari-script",
+    "name_en": "Bihari Script",
+    "name_zh": "比哈里体",
+    "description_en": "Sultanate Bihari mushaf script: wedge thick-thin strokes, gold-and-lapis ruled panels, red vocalization, cloud-band interlinear gold.",
+    "description_zh": "比哈里体：楔形粗细笔、金青金石栏框、红色标音、云带行间金。",
+    "source": "hermes-explore",
+    "image": "styles/2855-bihari-script.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2813",
+    "slug": "mbari",
+    "name_en": "Mbari",
+    "name_zh": "姆巴里",
+    "description_en": "Igbo mbari house painting: earth-pigment flats, bold outline, clay-relief figures, ochre-kaolin-indigo shrine-wall geometry.",
+    "description_zh": "姆巴里：泥土色块、粗线勾勒、泥塑浮雕人物、赭白靛神屋壁绘。",
+    "source": "hermes-explore",
+    "image": "styles/2856-mbari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2814",
+    "slug": "kbach",
+    "name_en": "Kbach",
+    "name_zh": "高棉纹样",
+    "description_en": "Khmer kbach grammar: sandstone channel-relief, lotus palmettes and vine scrolls, laterite-warm chiseled S-curves.",
+    "description_zh": "高棉纹样：砂岩阴刻浮雕、莲花掌叶与藤卷、红土暖色 S 曲。",
+    "source": "hermes-explore",
+    "image": "styles/2857-kbach.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2815",
+    "slug": "lai-kranok",
+    "name_en": "Lai Kranok",
+    "name_zh": "克拉诺纹",
+    "description_en": "Thai kranok flame ornament: tapering gold flame-hooks, nested tendrils, lacquer-black and vermilion temple-mural ground.",
+    "description_zh": "克拉诺纹：尖收金焰钩、层叠卷焰、黑漆与朱红寺壁画地。",
+    "source": "hermes-explore",
+    "image": "styles/2858-lai-kranok.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
