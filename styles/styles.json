@@ -38192,5 +38192,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2896",
+    "slug": "lac-burgaute",
+    "name_en": "Lac Burgauté",
+    "name_zh": "布尔戈特漆",
+    "description_en": "Lac Burgauté: black urushi densely set with crushed burgau nacre tesserae and gold powder, iridescent pink-aqua-silver fire on jet lacquer, not large-sheet raden.",
+    "description_zh": "布尔戈特漆：黑漆地密嵌碎涡贝螺钿与金粉、粉红青绿银虹彩、非大片螺钿。",
+    "source": "hermes-explore",
+    "image": "styles/2939-lac-burgaute.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2897",
+    "slug": "mezzomacchia",
+    "name_en": "Mezzomacchia",
+    "name_zh": "半斑画法",
+    "description_en": "Mezzomacchia: Italian oil built from unifying mid-tone macchie, lights and darks carved from a mid-value mass, broad ochre-olive-rose blocs, not pointillism.",
+    "description_zh": "半斑画法：意大利油画先铺中间调色斑、从中调块面挖出明暗、赭橄榄玫瑰大色块、非点彩。",
+    "source": "hermes-explore",
+    "image": "styles/2940-mezzomacchia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2898",
+    "slug": "schrottel",
+    "name_en": "Schrottel",
+    "name_zh": "碎石纹水拓",
+    "description_en": "Schrottel: German marbled paper with fine peppery black grit speckles over aqueous ochre-indigo-terracotta veins, ox-gall on size, not Stormont holes or Nonpareil combs.",
+    "description_zh": "碎石纹水拓：德语装帧大理石纹、细黑砂点洒在赭靛陶土色水纹上、牛胆水拓、非斯托蒙特大孔亦非无双梳纹。",
+    "source": "hermes-explore",
+    "image": "styles/2941-schrottel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2899",
+    "slug": "sahari",
+    "name_en": "Sahari",
+    "name_zh": "砂张",
+    "description_en": "Sahari: Japanese high-tin bronze alloy, pale silvery-gold temple metal with sandy tin sparkle, cool grey-gold sheen, not yellow brass or shakudo.",
+    "description_zh": "砂张：日本高锡青铜、浅银金佛具金属、细砂状锡闪光、冷灰金泽、非黄铜亦非赤铜。",
+    "source": "hermes-explore",
+    "image": "styles/2942-sahari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2900",
+    "slug": "sukidashi-bori",
+    "name_en": "Sukidashi-bori",
+    "name_zh": "鋤出彫",
+    "description_en": "Sukidashi-bori: Japanese metal carving that excavates the ground, leaving the motif in shallow relief with sharp chisel walls on iron or shakudo, not katakiri line-cut or taka-bori high relief.",
+    "description_zh": "鋤出彫：日本金属雕刻铲低地子、浅浮雕留纹、铁或赤铜上刃壁清晰、非片切线刻亦非高彫。",
+    "source": "hermes-explore",
+    "image": "styles/2943-sukidashi-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

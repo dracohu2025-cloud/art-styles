@@ -8123,6 +8123,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2938, PNG count 2938. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 580 (exactly 5, h2896–h2900)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh        | image                            |
+|-------|-----------------|----------------|----------------------------------|
+| h2896 | Lac Burgauté    | 布尔戈特漆     | styles/2939-lac-burgaute.png     |
+| h2897 | Mezzomacchia    | 半斑画法       | styles/2940-mezzomacchia.png     |
+| h2898 | Schrottel       | 碎石纹水拓     | styles/2941-schrottel.png        |
+| h2899 | Sahari          | 砂张           | styles/2942-sahari.png           |
+| h2900 | Sukidashi-bori  | 鋤出彫         | styles/2943-sukidashi-bori.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2943, PNG count 2943. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
