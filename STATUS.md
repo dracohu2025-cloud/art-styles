@@ -7814,6 +7814,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2828, PNG count 2828. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 558 (exactly 5, h2786–h2790)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                             |
+|-------|--------------|------------|-----------------------------------|
+| h2786 | Weibei       | 魏碑       | styles/2829-weibei.png            |
+| h2787 | Fuki-urushi  | 拭漆       | styles/2830-fuki-urushi.png       |
+| h2788 | Pearl Ground | 珍珠地     | styles/2831-pearl-ground.png      |
+| h2789 | Jihong       | 霁红       | styles/2832-jihong.png            |
+| h2790 | Sunagozuri   | 砂子摺     | styles/2833-sunagozuri.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2833, PNG count 2833. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

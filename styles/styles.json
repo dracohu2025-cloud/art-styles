@@ -36762,5 +36762,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2786",
+    "slug": "weibei",
+    "name_en": "Weibei",
+    "name_zh": "魏碑",
+    "description_en": "Northern Wei stele-cut script: square knife-cut strokes, angular clerical-regular hybrid, chisel skips on weathered limestone.",
+    "description_zh": "北魏碑刻书风：方折刀切、隶楷相参、风化石面刊刻。",
+    "source": "hermes-explore",
+    "image": "styles/2829-weibei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2787",
+    "slug": "fuki-urushi",
+    "name_en": "Fuki-urushi",
+    "name_zh": "拭漆",
+    "description_en": "Wiped lacquer: thin urushi rubbed into open wood grain until pores fill amber-black and timber figure stays visible.",
+    "description_zh": "拭漆：薄漆擦入开放木纹，棕黑填孔而木理仍显。",
+    "source": "hermes-explore",
+    "image": "styles/2830-fuki-urushi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2788",
+    "slug": "pearl-ground",
+    "name_en": "Pearl Ground",
+    "name_zh": "珍珠地",
+    "description_en": "Cizhou pearl-ground: white slip densely stamped with tiny circles over dark clay, then iron-painted motifs.",
+    "description_zh": "磁州珍珠地：深胎白化妆土密戳细圆点，再铁绘纹样。",
+    "source": "hermes-explore",
+    "image": "styles/2831-pearl-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2789",
+    "slug": "jihong",
+    "name_en": "Jihong",
+    "name_zh": "霁红",
+    "description_en": "Jihong sacrificial red: high-fire copper-red glaze, deep liver-crimson, quiet orange-peel skin, dark iron mouth.",
+    "description_zh": "霁红：高温铜红釉，深肝红、橘皮静面、铁口。",
+    "source": "hermes-explore",
+    "image": "styles/2832-jihong.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2790",
+    "slug": "sunagozuri",
+    "name_en": "Sunagozuri",
+    "name_zh": "砂子摺",
+    "description_en": "Ukiyo-e sand-scatter printing: fine gold or mica grit dusted onto printed paste, sparkling granular ground.",
+    "description_zh": "砂子摺：糊面撒金云母细砂，闪烁粒状底。",
+    "source": "hermes-explore",
+    "image": "styles/2833-sunagozuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
