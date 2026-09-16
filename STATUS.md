@@ -8081,6 +8081,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2923, PNG count 2923. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 577 (exactly 5, h2881–h2885)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh        | image                         |
+|-------|--------------|----------------|-------------------------------|
+| h2881 | Manjusha     | 曼朱沙画       | styles/2924-manjusha.png      |
+| h2882 | Godna        | 戈德纳纹绘     | styles/2925-godna.png         |
+| h2883 | Flamskväv    | 佛兰芒平织     | styles/2926-flamskvav.png     |
+| h2884 | Kapa         | 卡帕树皮布     | styles/2927-kapa.png          |
+| h2885 | Mezzofresco  | 半干湿壁画     | styles/2928-mezzofresco.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2928, PNG count 2928. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -37997,5 +37997,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2881",
+    "slug": "manjusha",
+    "name_en": "Manjusha",
+    "name_zh": "曼朱沙画",
+    "description_en": "Manjusha: Bhagalpur narrative folk painting, snake-legend registers, saturated red-yellow-green fields, thick black contour, floral borders and concentric frames.",
+    "description_zh": "曼朱沙画：帕格尔布尔叙事民画、蛇传说分格、红黄绿平涂、粗黑线、花卉边框与同心饰框。",
+    "source": "hermes-explore",
+    "image": "styles/2924-manjusha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2882",
+    "slug": "godna",
+    "name_en": "Godna",
+    "name_zh": "戈德纳纹绘",
+    "description_en": "Godna: Jharkhand tattoo-derived folk painting, soot-black geometric flora and fauna, stippled dots, concentric circles, lampblack and earth-red on paper.",
+    "description_zh": "戈德纳纹绘：贾坎德纹身转绘民画、烟黑几何动植物、点刺与同心圆、灯黑与土红纸本。",
+    "source": "hermes-explore",
+    "image": "styles/2925-godna.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2883",
+    "slug": "flamskvav",
+    "name_en": "Flamskväv",
+    "name_zh": "佛兰芒平织",
+    "description_en": "Flamskväv: Swedish weft-faced Flemish tapestry, visible warp ribs, hatch-blended wool, millefleur ground, Gobelin slits and thread outlines.",
+    "description_zh": "佛兰芒平织：瑞典纬面佛兰芒挂毯、经肋可见、羊毛影线混色、万花地、戈布兰裂口与线描轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2926-flamskvav.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2884",
+    "slug": "kapa",
+    "name_en": "Kapa",
+    "name_zh": "卡帕树皮布",
+    "description_en": "Kapa: Hawaiian beaten wauke barkcloth, i'e kuku watermark ribs, ohe kapala stamped geometry, red ocher lampblack and turmeric on fibrous sheet.",
+    "description_zh": "卡帕树皮布：夏威夷楮皮打制布、打棒水印肋纹、竹戳几何印、赭石灯黑与姜黄于纤维面。",
+    "source": "hermes-explore",
+    "image": "styles/2927-kapa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2885",
+    "slug": "mezzofresco",
+    "name_en": "Mezzofresco",
+    "name_zh": "半干湿壁画",
+    "description_en": "Mezzofresco: mineral pigments into half-dry lime intonaco, dusty lime bloom, plaster tooth, faint giornata seams, mural earth palette.",
+    "description_zh": "半干湿壁画：矿质颜料写入半干石灰细抹层、粉尘石灰霜、灰泥齿面、隐约一日工缝、壁画土色。",
+    "source": "hermes-explore",
+    "image": "styles/2928-mezzofresco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
