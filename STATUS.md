@@ -8263,6 +8263,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2988, PNG count 2988. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 590 (exactly 5, h2946–h2950)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                              |
+|-------|------------------|-----------------|------------------------------------|
+| h2946 | Tanchoi          | 坦乔伊织        | styles/2989-tanchoi.png            |
+| h2947 | Tianbai          | 甜白釉          | styles/2990-tianbai.png            |
+| h2948 | Agano            | 上野烧          | styles/2991-agano.png              |
+| h2949 | Inami Carving    | 井波雕刻        | styles/2992-inami-carving.png      |
+| h2950 | Toda Embroidery  | 托达绣          | styles/2993-toda-embroidery.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2993, PNG count 2993. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -38842,5 +38842,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2946",
+    "slug": "tanchoi",
+    "name_en": "Tanchoi",
+    "name_zh": "坦乔伊织",
+    "description_en": "Tanchoi: Banarasi extra-weft satin; compact silk florals on a luminous satin ground, warp sheen without heavy zari. Not kinkhab metallic wrap, not lampas floats, not tanchoi-adjacent brocade.",
+    "description_zh": "坦乔伊织：波罗奈缎地加纬小花，丝光缎面、无厚金线。非金锦缠金、非妆花浮纬、非织金锦。",
+    "source": "hermes-explore",
+    "image": "styles/2989-tanchoi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2947",
+    "slug": "tianbai",
+    "name_en": "Tianbai",
+    "name_zh": "甜白釉",
+    "description_en": "Tianbai: Yongle sweet-white glaze; thick sugary satiny white, faint anhua under the pool. Not Dehua ivory blanc-de-Chine, not shufu luanbai, not blue-and-white.",
+    "description_zh": "甜白釉：永乐厚润糖白、釉下隐暗花。非德化象牙白、非枢府卵白、非青花。",
+    "source": "hermes-explore",
+    "image": "styles/2990-tianbai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2948",
+    "slug": "agano",
+    "name_en": "Agano",
+    "name_zh": "上野烧",
+    "description_en": "Agano: Fukuoka stoneware, Korean-origin straw-ash and iron; milky-green to tea-brown runs, speckled body. Not Karatsu painted slip, not Hagi pink-white, not Bizen unglazed fire-marks.",
+    "description_zh": "上野烧：福冈朝鲜系灰釉铁斑，乳青至茶褐流釉。非唐津绘化妆、非萩烧粉红、非备前裸烧火痕。",
+    "source": "hermes-explore",
+    "image": "styles/2991-agano.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2949",
+    "slug": "inami-carving",
+    "name_en": "Inami Carving",
+    "name_zh": "井波雕刻",
+    "description_en": "Inami carving: Toyama deep-undercut wood relief in camphor or paulownia; cloud scrolls, peonies, chisel facets. Not Kamakura-bori lacquered shallow relief, not netsuke miniature, not chip-carving.",
+    "description_zh": "井波雕刻：富山香樟/桐木深浮雕，云气牡丹、刀面分明。非镰仓雕浅漆浮、非根付微雕、非几何铲雕。",
+    "source": "hermes-explore",
+    "image": "styles/2992-inami-carving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2950",
+    "slug": "toda-embroidery",
+    "name_en": "Toda Embroidery",
+    "name_zh": "托达绣",
+    "description_en": "Toda embroidery: Nilgiri counted darning on off-white cotton; red-black zigzags, stacked triangles, buffalo-horn chevrons. Not kantha narrative running stitch, not zardozi metal, not kasuti temple motifs.",
+    "description_zh": "托达绣：尼尔吉里白色棉上计针红黑几何，折线三角、牛角人字。非坎塔叙事走针、非扎尔多齐金银、非卡苏蒂神庙纹。",
+    "source": "hermes-explore",
+    "image": "styles/2993-toda-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
