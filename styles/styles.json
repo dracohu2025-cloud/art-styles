@@ -38387,5 +38387,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2911",
+    "slug": "viscotype",
+    "name_en": "Viscotype",
+    "name_zh": "黏胶复印",
+    "description_en": "Viscotype: viscous gelatin-pigment print—swollen colloid, aniline dye pools and slight orange-peel relief; not hectograph purple, not mimeograph, not gum bichromate, not collotype.",
+    "description_zh": "黏胶复印：黏性明胶色素印相，胶体鼓胀、苯胺色淀与橘皮浮雕；非胶版誊写紫、非油印、非树胶重铬酸盐、非珂罗版。",
+    "source": "hermes-explore",
+    "image": "styles/2954-viscotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2912",
+    "slug": "catatype",
+    "name_en": "Catatype",
+    "name_zh": "催化印相",
+    "description_en": "Catatype (Ostwald catatypy): contact-catalyzed stain print without camera light—tea-brown and violet catalytic ghosts; not cyanotype, not kallitype, not Van Dyke, not photogram.",
+    "description_zh": "催化印相：奥斯特瓦尔德接触催化显影、无镜头光线的茶褐与紫晕；非蓝晒、非卡利型、非凡戴克棕、非物影摄影。",
+    "source": "hermes-explore",
+    "image": "styles/2955-catatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2913",
+    "slug": "rigadin",
+    "name_en": "Rigadin",
+    "name_zh": "棱纹玻璃",
+    "description_en": "Rigadin: Murano optic-mold vertical ribbing in furnace glass—parallel flutes and internal refraction; not filigrana threads, not zanfirico twists, not reticello net, not balloton quilt.",
+    "description_zh": "棱纹玻璃：穆拉诺光学模纵棱、炉玻璃平行凹槽与内折射；非玻璃丝、非螺旋玻璃丝、非网纹玻璃、非菱格模吹。",
+    "source": "hermes-explore",
+    "image": "styles/2956-rigadin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2914",
+    "slug": "dry-collodion",
+    "name_en": "Dry Collodion",
+    "name_zh": "干火棉胶",
+    "description_en": "Dry collodion: varnished dry-plate collodion—amber vehicle, set plate-edge flow, brown-black density; not wet collodion drip, not ambrotype, not tintype, not gelatin silver.",
+    "description_zh": "干火棉胶：干版火棉胶与柯巴清漆、琥珀色载剂与已凝固的版缘流痕；非湿版滴流、非玻璃干版正像、非锡版、非明胶银盐。",
+    "source": "hermes-explore",
+    "image": "styles/2957-dry-collodion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2915",
+    "slug": "jiaofan",
+    "name_en": "Jiaofan",
+    "name_zh": "胶矾设色",
+    "description_en": "Jiaofan: glue-and-alum size coloring—mineral pigment locked on alum-sized paper or silk, crisp matte edges; not xieyi splash, not raw watercolor, not distemper, not Western gouache.",
+    "description_zh": "胶矾设色：胶矾水隔离后的矿物设色、矾绢/矾纸上的哑光硬边；非写意泼墨、非生纸水彩、非胶彩海报色、非西方水粉。",
+    "source": "hermes-explore",
+    "image": "styles/2958-jiaofan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

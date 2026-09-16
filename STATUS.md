@@ -8165,6 +8165,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2953, PNG count 2953. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 583 (exactly 5, h2911–h2915)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                            |
+|-------|----------------|-------------|----------------------------------|
+| h2911 | Viscotype      | 黏胶复印    | styles/2954-viscotype.png        |
+| h2912 | Catatype       | 催化印相    | styles/2955-catatype.png         |
+| h2913 | Rigadin        | 棱纹玻璃    | styles/2956-rigadin.png          |
+| h2914 | Dry Collodion  | 干火棉胶    | styles/2957-dry-collodion.png    |
+| h2915 | Jiaofan        | 胶矾设色    | styles/2958-jiaofan.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2958, PNG count 2958. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
