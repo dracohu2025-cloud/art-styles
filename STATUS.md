@@ -8179,6 +8179,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2958, PNG count 2958. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 584 (exactly 5, h2916–h2920)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                              |
+|-------|------------------|-----------------|------------------------------------|
+| h2916 | Carbon Trapping  | 碳封釉          | styles/2959-carbon-trapping.png    |
+| h2917 | Chemilumigram    | 化学发光印      | styles/2960-chemilumigram.png      |
+| h2918 | Yayoi            | 弥生土器        | styles/2961-yayoi.png              |
+| h2919 | Fumed Glass      | 熏金玻璃        | styles/2962-fumed-glass.png        |
+| h2920 | Madder Style     | 茜素印花        | styles/2963-madder-style.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2963, PNG count 2963. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

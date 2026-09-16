@@ -38452,5 +38452,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2916",
+    "slug": "carbon-trapping",
+    "name_en": "Carbon Trapping",
+    "name_zh": "碳封釉",
+    "description_en": "Carbon trapping: wood-fired glaze that locks smoky metallic carbon in the melt—flashing iron blushes, sooty reduction kisses, waxy run lines; not raku crackle, not tenmoku oil-spot, not kintsugi.",
+    "description_zh": "碳封釉：柴烧还原把烟炱金属黑封进熔釉、火闪铁红与流釉蜡边；非乐烧开片、非天目油滴、非金缮。",
+    "source": "hermes-explore",
+    "image": "styles/2959-carbon-trapping.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2917",
+    "slug": "chemilumigram",
+    "name_en": "Chemilumigram",
+    "name_zh": "化学发光印",
+    "description_en": "Chemilumigram: a still drawn by chemical glow on photographic paper—cyan-green luminescent traces, fogged darkroom blacks, emulsion grain; not neon signage, not UV party paint, not LED.",
+    "description_zh": "化学发光印：化学反应冷光在相纸上画出的青绿色光迹与雾化暗房黑；非霓虹招牌、非紫外派对颜料、非LED。",
+    "source": "hermes-explore",
+    "image": "styles/2960-chemilumigram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2918",
+    "slug": "yayoi",
+    "name_en": "Yayoi",
+    "name_zh": "弥生土器",
+    "description_en": "Yayoi earthenware: burnished reddish clay, paddle marks, combed geometric band registers, matte terra-cotta volume; not Jomon cord-mark, not haniwa, not Greek black-figure.",
+    "description_zh": "弥生土器：磨光橙红陶、拍打痕与篦划带状几何纹、哑光陶土体量；非绳文压印、非埴轮、非希腊黑绘陶。",
+    "source": "hermes-explore",
+    "image": "styles/2961-yayoi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2919",
+    "slug": "fumed-glass",
+    "name_en": "Fumed Glass",
+    "name_zh": "熏金玻璃",
+    "description_en": "Fumed glass: gold and silver vapor on hot glass—thin-film iridescence, oil-slick rainbow micro-sheen, transparent amber volume; not dichroic sheet, not stained-glass leading, not ceramic lustre.",
+    "description_zh": "熏金玻璃：金银蒸气附在热玻璃上的薄膜虹彩与油膜微光；非工厂二向色贴膜、非彩绘玻璃铅条、非陶瓷虹彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/2962-fumed-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2920",
+    "slug": "madder-style",
+    "name_en": "Madder Style",
+    "name_zh": "茜素印花",
+    "description_en": "Madder style: mordant-printed madder-root reds, rose-pinks, purples and madder-black on cream cotton, softened copperplate outlines; not Turkey red saturate, not toile de Jouy, not glazed chintz.",
+    "description_zh": "茜素印花：媒染茜根的红、玫粉、紫与茜黑印在米白棉布上，铜版轮廓略软；非土耳其红满染、非茹伊蓝白印花、非上光钦茨。",
+    "source": "hermes-explore",
+    "image": "styles/2963-madder-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
