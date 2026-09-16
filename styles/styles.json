@@ -38582,5 +38582,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2926",
+    "slug": "assiste",
+    "name_en": "Assiste",
+    "name_zh": "立粉贴金",
+    "description_en": "Assiste: raised gesso ridges water-gilded as burnished gold contours; red bole in scuffs; punch-dotted gold fields; matte tempera only in the figure. Not mosaic, not cloisonné, not kirikane, not flat foil.",
+    "description_zh": "立粉贴金：立起的石膏线再水贴金箔成浮雕金轮廓；蹭处露红胶泥；金地点錾；人物仅用哑光蛋彩。非马赛克、非掐丝珐琅、非截金、非平面烫金。",
+    "source": "hermes-explore",
+    "image": "styles/2969-assiste.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2927",
+    "slug": "oil-marbling",
+    "name_en": "Oil Marbling",
+    "name_zh": "油彩水拓",
+    "description_en": "Oil Marbling: fat oil-paint films floated on water then printed as thick ribbons, cells and combed veins; glossy fatty edges. Not ebru, not suminagashi, not acrylic pour.",
+    "description_zh": "油彩水拓：油性颜料膜漂于水面再拓印，粗丝带、细胞纹与梳纹；油膜边缘发亮。非土耳其水拓、非墨流、非丙烯倾倒。",
+    "source": "hermes-explore",
+    "image": "styles/2970-oil-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2928",
+    "slug": "denisyuk",
+    "name_en": "Denisyuk",
+    "name_zh": "杰尼修克全息",
+    "description_en": "Denisyuk: white-light reflection volume hologram; laser speckle, spectral shear and color-flip on highlights, reconstructed depth in the emulsion. Not Lippmann plate, not dichroic glass, not iridescent glaze.",
+    "description_zh": "杰尼修克全息：白光反射体积全息；激光散斑、高光光谱错位与随角变色，乳剂中再现纵深。非李普曼干涉彩照、非二向色玻璃、非虹彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/2971-denisyuk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2929",
+    "slug": "mezzomaiolica",
+    "name_en": "Mezzomaiolica",
+    "name_zh": "梅佐马约利卡",
+    "description_en": "Mezzomaiolica: tin-glazed earthenware with drawing incised through white slip to darker clay; cobalt and copper stains pool in the cuts. Not istoriato maiolica, not Cizhou sgraffito, not plaster sgraffito.",
+    "description_zh": "梅佐马约利卡：锡釉陶上透过白化妆土刻线见深色胎，钴、铜彩积在刻槽。非叙事马约利卡彩绘、非磁州剔花、非灰泥刮刻。",
+    "source": "hermes-explore",
+    "image": "styles/2972-mezzomaiolica.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2930",
+    "slug": "logwood-black",
+    "name_en": "Logwood Black",
+    "name_zh": "苏木黑染",
+    "description_en": "Logwood Black: Haematoxylum campechianum dye on cloth; iron-mordant blue-blacks, alum wine-violets, copper greenish blacks, tannin bloom. Not indigo, not sumi, not aniline print, not charcoal.",
+    "description_zh": "苏木黑染：苏木染料着于织物；铁媒蓝黑、明矾酒红紫、铜媒偏绿黑，单宁晕边。非靛蓝、非墨、非苯胺印花、非木炭。",
+    "source": "hermes-explore",
+    "image": "styles/2973-logwood-black.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

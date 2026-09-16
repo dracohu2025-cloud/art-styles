@@ -8207,6 +8207,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2968, PNG count 2968. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 586 (exactly 5, h2926–h2930)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h2926 | Assiste        | 立粉贴金        | styles/2969-assiste.png          |
+| h2927 | Oil Marbling   | 油彩水拓        | styles/2970-oil-marbling.png     |
+| h2928 | Denisyuk       | 杰尼修克全息    | styles/2971-denisyuk.png         |
+| h2929 | Mezzomaiolica  | 梅佐马约利卡    | styles/2972-mezzomaiolica.png    |
+| h2930 | Logwood Black  | 苏木黑染        | styles/2973-logwood-black.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2973, PNG count 2973. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
