@@ -8039,6 +8039,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2908, PNG count 2908. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 574 (exactly 5, h2866–h2870)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh   | image                            |
+|-------|-----------------|-----------|----------------------------------|
+| h2866 | Schablonendruck | 型版套印  | styles/2909-schablonendruck.png  |
+| h2867 | Kani            | 卡尼织    | styles/2910-kani.png             |
+| h2868 | Rantai          | 篮胎漆    | styles/2911-rantai.png           |
+| h2869 | Alumitype       | 铝版照    | styles/2912-alumitype.png        |
+| h2870 | Lakai           | 拉凯绣    | styles/2913-lakai.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2913, PNG count 2913. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

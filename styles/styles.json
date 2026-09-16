@@ -37802,5 +37802,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2866",
+    "slug": "schablonendruck",
+    "name_en": "Schablonendruck",
+    "name_zh": "型版套印",
+    "description_en": "Schablonendruck: Central European multi-color stencil printing — hard-edged registered plates, misregistration halos, limited poster inks on toothed paper.",
+    "description_zh": "型版套印：中欧多层漏版套色，硬边套准、错版晕边、有限海报色印在带齿纸上。",
+    "source": "hermes-explore",
+    "image": "styles/2909-schablonendruck.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2867",
+    "slug": "kani",
+    "name_en": "Kani",
+    "name_zh": "卡尼织",
+    "description_en": "Kani: Kashmir twill-tapestry shawl weave — tiny bobbin wefts, double-interlock joins, ribbed 2/2 twill, jewel boteh and flowering-shrub silk.",
+    "description_zh": "卡尼织：克什米尔斜纹缂织披肩，细梭换色、双锁接纬、二二斜纹棱、宝石色佩斯利花丛。",
+    "source": "hermes-explore",
+    "image": "styles/2910-kani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2868",
+    "slug": "rantai",
+    "name_en": "Rantai",
+    "name_zh": "篮胎漆",
+    "description_en": "Rantai: Japanese rantai-shikki — woven bamboo/rattan core under thin urushi, hexagonal cells, amber-black gloss pooling in the weave.",
+    "description_zh": "篮胎漆：竹藤编胎薄髹漆，六角编织显底、琥珀黑漆在织谷聚光。",
+    "source": "hermes-explore",
+    "image": "styles/2911-rantai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2869",
+    "slug": "alumitype",
+    "name_en": "Alumitype",
+    "name_zh": "铝版照",
+    "description_en": "Alumitype: 1850s wet-collodion positive on thin aluminum — silvery highlights, chocolate midtones, plate scratches and collodion pour lines.",
+    "description_zh": "铝版照：一八五〇年代铝片湿版正像，银亮高光、巧克力中间调、版痕与火棉流纹。",
+    "source": "hermes-explore",
+    "image": "styles/2912-alumitype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2870",
+    "slug": "lakai",
+    "name_en": "Lakai",
+    "name_zh": "拉凯绣",
+    "description_en": "Lakai: Uzbek Lakai tribal embroidery — dense silk chain-stitch ram's-horn lattices on pomegranate-red and black wool, high-chroma couching.",
+    "description_zh": "拉凯绣：乌兹别克拉凯部落绣，石榴红黑毛布上密链绣羊角格与高饱和钉线。",
+    "source": "hermes-explore",
+    "image": "styles/2913-lakai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
