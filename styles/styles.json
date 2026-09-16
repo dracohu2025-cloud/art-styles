@@ -38972,5 +38972,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2956",
+    "slug": "aripana",
+    "name_en": "Aripana",
+    "name_zh": "阿里帕纳",
+    "description_en": "Aripana: Mithila/Bihar ritual floor painting in raised rice-paste on earth-red and dung-ochre ground; lotuses, peacocks, Lakshmi footprints, dotted lattice. Not Madhubani wall paint, not Kolam powder, not Alpana wet-finger.",
+    "description_zh": "阿里帕纳：米蒂拉/比哈尔仪式地画，米糊凸线于土红与牛粪赭地；莲、孔雀、吉祥脚印、点阵边饰。非马杜巴尼壁画、非科拉姆米粉、非阿尔帕纳湿指画。",
+    "source": "hermes-explore",
+    "image": "styles/2999-aripana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2957",
+    "slug": "namda",
+    "name_en": "Namda",
+    "name_zh": "纳姆达毡",
+    "description_en": "Namda: Kashmir felted-wool appliqué — matted sheep-wool ground, chinar and paisley felt cutouts, chain-stitch wool. Not gabba piled rug, not aari silk chain-stitch, not woven kani.",
+    "description_zh": "纳姆达毡：克什米尔羊毛毡贴花，毡缩底、梧桐与佩斯利剪毡、绒线链绣。非加巴绒毯、非阿里绸链绣、非卡尼织。",
+    "source": "hermes-explore",
+    "image": "styles/3000-namda.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2958",
+    "slug": "hamon",
+    "name_en": "Hamon",
+    "name_zh": "刃文",
+    "description_en": "Hamon: quench-line patterning as graphic style — jigane itame grain, nie crystals, nioi mist, choji-midare waves, utsuri, hadori white. Not a katana product shot, not mokume-gane, not Damascus pattern-weld.",
+    "description_zh": "刃文：淬火线作为画面技法——地铁板目、沸结晶、匂雾、丁子乱、映、刃取白。非刀剑商品照、非木目金、非大马士革花纹钢。",
+    "source": "hermes-explore",
+    "image": "styles/3001-hamon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2959",
+    "slug": "jinsa",
+    "name_en": "Jinsa",
+    "name_zh": "辰砂红",
+    "description_en": "Jinsa: Korean copper-red underglaze porcelain (진사) — oxblood to peach-bloom flushes, iron speckle, clear feldspar glaze, crazing. Not Chinese youlihong, not langyao sang-de-boeuf as Chinese ware, not overglaze enamel.",
+    "description_zh": "辰砂红：朝鲜铜红釉下彩（진사），祭红至桃花红晕散、铁斑、长石透明釉、开片。非釉里红、非郎窑红作为中国器、非釉上珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3002-jinsa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2960",
+    "slug": "kariyasu",
+    "name_en": "Kariyasu",
+    "name_zh": "刈安染",
+    "description_en": "Kariyasu: Miscanthus tinctorius plant dye — green-gold to lemon-khaki on hemp/ramie tabby, alum-mordant evenness. Not chemical neon yellow, not turmeric, not complex kasuri unless the dye color dominates.",
+    "description_zh": "刈安染：荻草植物染，青绿金至柠檬卡其于麻/苎麻平纹，明矾媒染匀色。非化学荧光黄、非姜黄、非复杂絣除非染黄主导。",
+    "source": "hermes-explore",
+    "image": "styles/3003-kariyasu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

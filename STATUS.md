@@ -8291,6 +8291,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2998, PNG count 2998. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 592 (exactly 5, h2956–h2960)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en   | name_zh   | image                     |
+|-------|-----------|-----------|---------------------------|
+| h2956 | Aripana   | 阿里帕纳  | styles/2999-aripana.png   |
+| h2957 | Namda     | 纳姆达毡  | styles/3000-namda.png     |
+| h2958 | Hamon     | 刃文      | styles/3001-hamon.png     |
+| h2959 | Jinsa     | 辰砂红    | styles/3002-jinsa.png     |
+| h2960 | Kariyasu  | 刈安染    | styles/3003-kariyasu.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3003, PNG count 3003. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
