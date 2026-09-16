@@ -8137,6 +8137,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2943, PNG count 2943. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 581 (exactly 5, h2901–h2905)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh       | image                         |
+|-------|--------------|---------------|-------------------------------|
+| h2901 | Urazuri      | 裏摺          | styles/2944-urazuri.png       |
+| h2902 | Hirame-haku  | 平目箔        | styles/2945-hirame-haku.png   |
+| h2903 | Su Mo        | 宿墨          | styles/2946-su-mo.png         |
+| h2904 | Luanma Cun   | 乱麻皴        | styles/2947-luanma-cun.png    |
+| h2905 | Eburneum     | 象牙玻璃相    | styles/2948-eburneum.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2948, PNG count 2948. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

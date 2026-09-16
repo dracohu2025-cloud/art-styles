@@ -38257,5 +38257,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2901",
+    "slug": "urazuri",
+    "name_en": "Urazuri",
+    "name_zh": "裏摺",
+    "description_en": "Urazuri: Japanese woodblock printed from the reverse of washi so pigment soaks through as a soft, veiled impression with paper-fiber blur, not crisp omotezuri front printing.",
+    "description_zh": "裏摺：从和纸背面拓印、颜料渗透成柔雾印象、纸纤维轻晕、非表摺正面清晰套色。",
+    "source": "hermes-explore",
+    "image": "styles/2944-urazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2902",
+    "slug": "hirame-haku",
+    "name_en": "Hirame-haku",
+    "name_zh": "平目箔",
+    "description_en": "Hirame-haku: irregular coarse gold and silver leaf flakes laid like flashing fish-scale chips on dark lacquer or pigment, not smooth square leaf, not sunago dust, not kirikane strips.",
+    "description_zh": "平目箔：粗碎金银箔如鳞片贴于深漆或颜料、闪光碎面、非整张金箔、非砂子亦非截金。",
+    "source": "hermes-explore",
+    "image": "styles/2945-hirame-haku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2903",
+    "slug": "su-mo",
+    "name_en": "Su Mo",
+    "name_zh": "宿墨",
+    "description_en": "Su mo: overnight-aged Chinese ink whose binder has weakened, leaving matte granular carbon, sedimentary broken strokes on xuan paper, not glossy fresh ink, not wet splash pomo.",
+    "description_zh": "宿墨：隔夜墨胶力减退、颗粒哑光碳粉、宣纸上沉淀断裂笔痕、非新鲜亮墨亦非泼墨。",
+    "source": "hermes-explore",
+    "image": "styles/2946-su-mo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2904",
+    "slug": "luanma-cun",
+    "name_en": "Luanma Cun",
+    "name_zh": "乱麻皴",
+    "description_en": "Luanma Cun: Chinese texture strokes of tangled chaotic hemp fibers, dense interwoven disordered lines for rock and cloth, not orderly hemp-fiber pima cun, not axe-cut fupi.",
+    "description_zh": "乱麻皴：纠结无序麻丝皴法、密织乱线写石与衣、非整齐披麻皴亦非斧劈皴。",
+    "source": "hermes-explore",
+    "image": "styles/2947-luanma-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2905",
+    "slug": "eburneum",
+    "name_en": "Eburneum",
+    "name_zh": "象牙玻璃相",
+    "description_en": "Eburneum: 1850s ivory-like collodion photograph on glass, creamy translucent bone-white tone and milky highlights, not silver-mirror daguerreotype, not paper albumen, not ivorytype.",
+    "description_zh": "象牙玻璃相：1850年代玻璃珂罗酊象牙调、乳白半透骨白色、非银镜达盖尔、非蛋白纸亦非象牙印相。",
+    "source": "hermes-explore",
+    "image": "styles/2948-eburneum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
