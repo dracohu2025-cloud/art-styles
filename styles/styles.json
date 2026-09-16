@@ -36957,5 +36957,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2801",
+    "slug": "dallastype",
+    "name_en": "Dallastype",
+    "name_zh": "达拉斯凹版",
+    "description_en": "Dallastype: 19th-century photomechanical intaglio — bitumen-sensitized copper printed as velvety continuous-tone grain on ivory paper.",
+    "description_zh": "达拉斯凹版：沥青感光铜版照相凹印，连续调细粒墨色印于象牙色纸。",
+    "source": "hermes-explore",
+    "image": "styles/2844-dallastype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2802",
+    "slug": "ghubar",
+    "name_en": "Ghubar",
+    "name_zh": "尘书体",
+    "description_en": "Ghubār dust script: forms built from hairline micro-calligraphy so small it reads as tone from afar and as lettering up close.",
+    "description_zh": "尘书体：以极细阿拉伯微书铺陈造型，远看如调子，近看是字尘。",
+    "source": "hermes-explore",
+    "image": "styles/2845-ghubar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2803",
+    "slug": "hana-nuri",
+    "name_en": "Hana-nuri",
+    "name_zh": "花涂",
+    "description_en": "Hana-nuri: high-gloss flower-coat urushi — mirror candy lacquer planes without sprinkled maki-e powder.",
+    "description_zh": "花涂：高光花涂漆，镜面糖衣般的色漆平面，不洒蒔绘粉。",
+    "source": "hermes-explore",
+    "image": "styles/2846-hana-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2804",
+    "slug": "otoshizogan",
+    "name_en": "Otoshizogan",
+    "name_zh": "落象嵌",
+    "description_en": "Otoshizogan: dropped-inlay metalwork — gold and silver pieces seated into carved recesses and hammered flush.",
+    "description_zh": "落象嵌：金银片落入錾刻凹槽再锤平，与地子齐平的金属镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/2847-otoshizogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2805",
+    "slug": "pannototype",
+    "name_en": "Pannototype",
+    "name_zh": "布革银影",
+    "description_en": "Pannototype: 1850s salted silver image on waxed cloth or leather, chocolate-brown tones with visible fabric tooth.",
+    "description_zh": "布革银影：1850年代蜡布或皮革上的盐银影像，巧克力棕调可见布纹。",
+    "source": "hermes-explore",
+    "image": "styles/2848-pannototype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

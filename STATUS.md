@@ -7856,6 +7856,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2843, PNG count 2843. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 561 (exactly 5, h2801–h2805)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                           |
+|-------|--------------|------------|---------------------------------|
+| h2801 | Dallastype   | 达拉斯凹版 | styles/2844-dallastype.png      |
+| h2802 | Ghubar       | 尘书体     | styles/2845-ghubar.png          |
+| h2803 | Hana-nuri    | 花涂       | styles/2846-hana-nuri.png       |
+| h2804 | Otoshizogan  | 落象嵌     | styles/2847-otoshizogan.png     |
+| h2805 | Pannototype  | 布革银影   | styles/2848-pannototype.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2848, PNG count 2848. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
