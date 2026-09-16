@@ -8095,6 +8095,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2928, PNG count 2928. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 578 (exactly 5, h2886–h2890)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh        | image                         |
+|-------|--------------|----------------|-------------------------------|
+| h2886 | Pakko        | 帕科绣         | styles/2929-pakko.png         |
+| h2887 | Tihui        | 剔灰           | styles/2930-tihui.png         |
+| h2888 | Majiayao     | 马家窑彩陶     | styles/2931-majiayao.png      |
+| h2889 | Bagan Mural  | 蒲甘壁画       | styles/2932-bagan-mural.png   |
+| h2890 | Kavad        | 卡瓦德绘       | styles/2933-kavad.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2933, PNG count 2933. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -38062,5 +38062,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2886",
+    "slug": "pakko",
+    "name_en": "Pakko",
+    "name_zh": "帕科绣",
+    "description_en": "Pakko: dense packed-stitch embroidery of Kutch, counted geometric fills, chain-stitch contours, herringbone edges, tiny mirrors in thread rings, maroon-black-ivory-mustard cotton relief.",
+    "description_zh": "帕科绣：库奇密铺刺绣、计数几何填针、锁链轮廓、人字边、线环小镜、绛黑牙白芥黄棉线浮凸。",
+    "source": "hermes-explore",
+    "image": "styles/2929-pakko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2887",
+    "slug": "tihui",
+    "name_en": "Tihui",
+    "name_zh": "剔灰",
+    "description_en": "Tihui: carved grey lacquer, stacked pewter coats cut to ash and charcoal strata, knife-cut walls, powdered-ash polish, incised scroll and floral ground, dry mineral sheen.",
+    "description_zh": "剔灰：灰色雕漆、叠层锡灰漆面剔至炭灰层、刀切立墙、灰粉抛光、阴刻卷草花卉地、干矿物光泽。",
+    "source": "hermes-explore",
+    "image": "styles/2930-tihui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2888",
+    "slug": "majiayao",
+    "name_en": "Majiayao",
+    "name_zh": "马家窑彩陶",
+    "description_en": "Majiayao: Neolithic painted pottery, buff slip, swirling black-and-vermillion mineral pigment, concentric spirals, sawtooth bands, cowrie and frog-spiral motifs, kiln-dusted earthenware.",
+    "description_zh": "马家窑彩陶：新石器彩绘陶、土黄陶衣、黑朱红矿彩漩涡、同心螺旋、锯齿带、贝纹蛙纹、窑尘陶面。",
+    "source": "hermes-explore",
+    "image": "styles/2931-majiayao.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2889",
+    "slug": "bagan-mural",
+    "name_en": "Bagan Mural",
+    "name_zh": "蒲甘壁画",
+    "description_en": "Bagan mural: Burmese fresco-secco on dry plaster, red ochre orpiment lampblack lime-white green earth, rhythmic outlines, lotus-halo ornaments, soot bloom and plaster cracks.",
+    "description_zh": "蒲甘壁画：缅甸干壁画、赭石雌黄灯黑石灰白绿土、节奏勾线、莲光饰、烟炱霜与灰泥裂纹。",
+    "source": "hermes-explore",
+    "image": "styles/2932-bagan-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2890",
+    "slug": "kavad",
+    "name_en": "Kavad",
+    "name_zh": "卡瓦德绘",
+    "description_en": "Kavad: Rajasthan painted wooden storytelling panels, flat mineral gouache, saturated red-yellow-green-indigo, thick black contour, stacked registers, floral borders, visible wood grain.",
+    "description_zh": "卡瓦德绘：拉贾斯坦木匣叙事板画、矿物水粉平涂、红黄绿靛饱和色、粗黑线、分层格子、花卉边、木纹可见。",
+    "source": "hermes-explore",
+    "image": "styles/2933-kavad.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
