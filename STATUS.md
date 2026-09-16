@@ -8277,6 +8277,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2993, PNG count 2993. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 591 (exactly 5, h2951–h2955)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h2951 | Pochampally    | 波昌帕利絣      | styles/2994-pochampally.png      |
+| h2952 | Yatsushiro     | 八代烧          | styles/2995-yatsushiro.png       |
+| h2953 | Ohi Ware       | 大樋烧          | styles/2996-ohi-ware.png         |
+| h2954 | Shetland Lace  | 设得兰蕾丝      | styles/2997-shetland-lace.png    |
+| h2955 | Dukagang       | 达卡冈织        | styles/2998-dukagang.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2998, PNG count 2998. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

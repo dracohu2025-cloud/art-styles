@@ -38907,5 +38907,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2951",
+    "slug": "pochampally",
+    "name_en": "Pochampally",
+    "name_zh": "波昌帕利絣",
+    "description_en": "Pochampally: Telangana double-ikat silk, warp and weft resist-dyed before weaving; geometric diamonds, stepped chevrons, feathered dye-bleed at motif edges. Not Patola circular medallions, not Sambalpuri temple borders, not printed ikat.",
+    "description_zh": "波昌帕利絣：特伦甘纳经纬双重先染后织，几何菱格、阶梯人字、纹边羽状渗色。非帕托拉圆章、非桑巴尔普里神庙边、非印花仿絣。",
+    "source": "hermes-explore",
+    "image": "styles/2994-pochampally.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2952",
+    "slug": "yatsushiro",
+    "name_en": "Yatsushiro",
+    "name_zh": "八代烧",
+    "description_en": "Yatsushiro ware (Koda-yaki): dark iron clay with fine white slip inlay under thin glaze; calligraphic florals on smoky gray-brown body. Not punch-stamped Mishima, not buncheong brushed slip, not blue-and-white porcelain.",
+    "description_zh": "八代烧（高田烧）：铁质深胎细白镶嵌、薄釉下线描花草，烟灰棕地。非三岛戳印、非粉青刷毛、非青花瓷。",
+    "source": "hermes-explore",
+    "image": "styles/2995-yatsushiro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2953",
+    "slug": "ohi-ware",
+    "name_en": "Ohi Ware",
+    "name_zh": "大樋烧",
+    "description_en": "Ohi ware: Kanazawa low-fire tea ceramic with thick persimmon-amber glaze, iron speckle, pooling honey-brown. Not black Raku, not Oribe copper-green, not Shino feldspathic crawl.",
+    "description_zh": "大樋烧：金泽低温茶陶，柿红厚釉、铁斑、蜜棕积釉。非黑乐、非织部铜绿、非志野白釉缩釉。",
+    "source": "hermes-explore",
+    "image": "styles/2996-ohi-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2954",
+    "slug": "shetland-lace",
+    "name_en": "Shetland Lace",
+    "name_zh": "设得兰蕾丝",
+    "description_en": "Shetland lace: cobweb hap knitting in undyed cream and peat wool; print o' the wave, old shale, cat's paw yarn-overs. Not Irish crochet, not needle lace, not Hardanger cutwork.",
+    "description_zh": "设得兰蕾丝：蛛网披肩编织，本色奶油与泥炭羊毛，波浪、页岩、猫爪镂空加针。非爱尔兰钩针、非针绣花边、非哈当厄尔镂空。",
+    "source": "hermes-explore",
+    "image": "styles/2997-shetland-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2955",
+    "slug": "dukagang",
+    "name_en": "Dukagang",
+    "name_zh": "达卡冈织",
+    "description_en": "Dukagång: Swedish bound-weave with supplementary pattern wefts in geometric columns, stepped diamonds and trees on linen, vertical rib. Not rölakan interlocking tapestry, not rya pile, not kilim slitweave.",
+    "description_zh": "达卡冈织：瑞典绑经补纬，几何纵列、阶梯菱与树纹于亚麻地，竖棱分明。非勒拉坎咬合织、非绒头毯、非基里姆开口织。",
+    "source": "hermes-explore",
+    "image": "styles/2998-dukagang.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
