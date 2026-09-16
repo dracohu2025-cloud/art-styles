@@ -36697,5 +36697,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2781",
+    "slug": "sulfur-tint",
+    "name_en": "Sulfur Tint",
+    "name_zh": "硫磺调子",
+    "description_en": "Intaglio sulfur tint: copper plate fumed or rubbed with sulfur for a peppered granular midtone veil, warm sepia grain, plate-mark on rag paper.",
+    "description_zh": "硫磺调子：铜版经硫磺熏擦形成细密颗粒中间调，暖褐粒面、棉纸版痕。",
+    "source": "hermes-explore",
+    "image": "styles/2824-sulfur-tint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2782",
+    "slug": "zhangcao",
+    "name_en": "Zhangcao",
+    "name_zh": "章草",
+    "description_en": "Zhangcao clerical-cursive: flattened wave endings, compressed ligatures, flying-white splits, heavy ink on xuan—Han-to-Jin script as pictorial structure.",
+    "description_zh": "章草：隶波与草势相接，波磔扁平、连带紧凑、飞白开裂，宣纸重墨。",
+    "source": "hermes-explore",
+    "image": "styles/2825-zhangcao.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2783",
+    "slug": "xiaozhuan",
+    "name_en": "Xiaozhuan",
+    "name_zh": "小篆",
+    "description_en": "Small-seal script line: even round iron-wire strokes, centered-tip balance, vertical symmetry, stone-rubbing or brush-written seal structure.",
+    "description_zh": "小篆：圆匀铁线、中锋等度、左右对称，如碑拓或篆笔结体。",
+    "source": "hermes-explore",
+    "image": "styles/2826-xiaozhuan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2784",
+    "slug": "cinde",
+    "name_en": "Cinde",
+    "name_zh": "钦德织",
+    "description_en": "Cinde silk: warp-ikat flame chevrons in crimson, indigo, and gold-cream, feathered resist edges, repeating geometric floral-chevron weave.",
+    "description_zh": "钦德织：经絣火焰折纹，绯红、靛蓝与金米色，絣边微晕，几何花折循环。",
+    "source": "hermes-explore",
+    "image": "styles/2827-cinde.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2785",
+    "slug": "takaoka-nuri",
+    "name_en": "Takaoka-nuri",
+    "name_zh": "高冈涂",
+    "description_en": "Takaoka lacquer on metal: layered urushi over copper or brass, deep black and vermilion coats, gold powder accents, hard glassy lacquer skin.",
+    "description_zh": "高冈涂：铜黄铜胎多层漆，黑朱厚涂、金粉点缀、硬亮漆肤。",
+    "source": "hermes-explore",
+    "image": "styles/2828-takaoka-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

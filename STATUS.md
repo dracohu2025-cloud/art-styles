@@ -7800,6 +7800,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2823, PNG count 2823. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 557 (exactly 5, h2781–h2785)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                            |
+|-------|---------------|------------|----------------------------------|
+| h2781 | Sulfur Tint   | 硫磺调子   | styles/2824-sulfur-tint.png      |
+| h2782 | Zhangcao      | 章草       | styles/2825-zhangcao.png         |
+| h2783 | Xiaozhuan     | 小篆       | styles/2826-xiaozhuan.png        |
+| h2784 | Cinde         | 钦德织     | styles/2827-cinde.png            |
+| h2785 | Takaoka-nuri  | 高冈涂     | styles/2828-takaoka-nuri.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2828, PNG count 2828. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
