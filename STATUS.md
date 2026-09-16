@@ -8221,6 +8221,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2973, PNG count 2973. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 587 (exactly 5, h2931–h2935)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h2931 | Primuline      | 樱草胺印相      | styles/2974-primuline.png        |
+| h2932 | Astbury Ware   | 阿斯特伯里陶    | styles/2975-astbury-ware.png     |
+| h2933 | Prunted Glass  | 乳钉玻璃        | styles/2976-prunted-glass.png    |
+| h2934 | Liseré         | 浮经提花        | styles/2977-lisere.png           |
+| h2935 | Krayn Screen   | 克雷恩彩屏      | styles/2978-krayn-screen.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2978, PNG count 2978. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

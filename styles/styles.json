@@ -38647,5 +38647,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2931",
+    "slug": "primuline",
+    "name_en": "Primuline",
+    "name_zh": "樱草胺印相",
+    "description_en": "Primuline process: diazotype dye print from primuline yellow; lemon-to-ochre image, reddish-brown shadows, matte paper stain. Not cyanotype, not van dyke, not silver gelatin.",
+    "description_zh": "樱草胺印相：以樱草胺黄为基质的重氮染料印相；柠檬黄至赭色影像、红褐暗部、无光纸渍。非蓝晒、非范戴克、非银盐明胶。",
+    "source": "hermes-explore",
+    "image": "styles/2974-primuline.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2932",
+    "slug": "astbury-ware",
+    "name_en": "Astbury Ware",
+    "name_zh": "阿斯特伯里陶",
+    "description_en": "Astbury ware: Staffordshire red earthenware with white pipe-clay sprigs and thin yellowish lead glaze pooling in recesses. Not jasperware, not porcelain, not mocha dendrite.",
+    "description_zh": "阿斯特伯里陶：斯塔福德红陶、白管土贴花、浅黄铅釉积于凹处。非碧玉炻器、非瓷器、非摩卡树纹陶。",
+    "source": "hermes-explore",
+    "image": "styles/2975-astbury-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2933",
+    "slug": "prunted-glass",
+    "name_en": "Prunted Glass",
+    "name_zh": "乳钉玻璃",
+    "description_en": "Prunted glass: forest Waldglas with applied raspberry prunts, trapped bubbles, fire-polished refractive volume. Not stained-glass leading, not cut crystal, not millefiori.",
+    "description_zh": "乳钉玻璃：森林绿琥珀玻璃上贴覆覆盆状乳钉、内含气泡、火抛折光体量。非镶铅彩窗、非切割水晶、非千花玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/2976-prunted-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2934",
+    "slug": "lisere",
+    "name_en": "Liseré",
+    "name_zh": "浮经提花",
+    "description_en": "Liseré: warp-faced silk with bound supplementary weft; pattern locked in a fine regular grid, woven sheen not paint. Not embroidery, not ikat, not kesi tapestry.",
+    "description_zh": "浮经提花：经面缎地上以规则绑结固着彩纬纹样，织光而非绘制。非刺绣、非扎经、非缂丝。",
+    "source": "hermes-explore",
+    "image": "styles/2977-lisere.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2935",
+    "slug": "krayn-screen",
+    "name_en": "Krayn Screen",
+    "name_zh": "克雷恩彩屏",
+    "description_en": "Krayn screen: 1907 additive color plate of irregular red-green-blue dyed grains; muted mosaic color through the screen. Not Autochrome starch, not pointillist paint, not digital pixels.",
+    "description_zh": "克雷恩彩屏：一九〇七年加色法彩版，不规则红绿蓝染粒；透过彩屏的低饱和马赛克色。非奥托铬淀粉、非点彩绘画、非数字像素。",
+    "source": "hermes-explore",
+    "image": "styles/2978-krayn-screen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
