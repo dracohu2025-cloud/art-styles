@@ -37347,5 +37347,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2831",
+    "slug": "abura-e",
+    "name_en": "Abura-e",
+    "name_zh": "油絵",
+    "description_en": "Abura-e oil-pigment painting: drying-oil vehicle on paper, glossy earth modeling, vermilion and gold-ochre on a warm dark ground.",
+    "description_zh": "油絵：干性油调色绘于纸本，油光土色塑形，朱红与金赭落在暖暗底上。",
+    "source": "hermes-explore",
+    "image": "styles/2874-abura-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2832",
+    "slug": "wasli",
+    "name_en": "Wasli",
+    "name_zh": "瓦斯利",
+    "description_en": "Wasli miniature surface: layered paper agate-burnished to ivory glass, opaque jewel pigment and shell gold sitting on the polish.",
+    "description_zh": "瓦斯利：多层纸玛瑙砑光成象牙镜面，不透明宝石色与贝壳金浮于光地上。",
+    "source": "hermes-explore",
+    "image": "styles/2875-wasli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2833",
+    "slug": "frottis",
+    "name_en": "Frottis",
+    "name_zh": "薄擦底",
+    "description_en": "Frottis: thin scrubbed oil dragged over mid-tone ground so canvas weave and underlayer flash through broken filmy strokes.",
+    "description_zh": "薄擦底：极薄油色擦过中间调底子，画布织纹与底层从断裂薄膜中透出。",
+    "source": "hermes-explore",
+    "image": "styles/2876-frottis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2834",
+    "slug": "hakebokashi",
+    "name_en": "Hakebokashi",
+    "name_zh": "刷晕",
+    "description_en": "Hakebokashi: wide hake wet-in-wet mineral-pigment fades in nikawa size, washi bloom, no hard contour in the wash zones.",
+    "description_zh": "刷晕：宽排笔胶矾矿物色湿接渐变，和纸洇晕，晕区无硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/2877-hakebokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2835",
+    "slug": "sabi-e",
+    "name_en": "Sabi-e",
+    "name_zh": "錆绘",
+    "description_en": "Sabi-e rust-lacquer painting: iron-rust urushi built as matte ferrous relief on black lacquer, gritty ochre-brown strokes.",
+    "description_zh": "錆绘：铁锈调生漆在黑漆地上堆成哑光铁褐浮雕，粗粒赭褐笔触。",
+    "source": "hermes-explore",
+    "image": "styles/2878-sabi-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

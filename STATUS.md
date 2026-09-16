@@ -7941,6 +7941,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2873, PNG count 2873. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 567 (exactly 5, h2831–h2835)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh   | image                          |
+|-------|--------------|-----------|--------------------------------|
+| h2831 | Abura-e      | 油絵      | styles/2874-abura-e.png        |
+| h2832 | Wasli        | 瓦斯利    | styles/2875-wasli.png          |
+| h2833 | Frottis      | 薄擦底    | styles/2876-frottis.png        |
+| h2834 | Hakebokashi  | 刷晕      | styles/2877-hakebokashi.png    |
+| h2835 | Sabi-e       | 錆绘      | styles/2878-sabi-e.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2878, PNG count 2878. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
