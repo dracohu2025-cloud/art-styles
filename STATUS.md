@@ -8067,6 +8067,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2918, PNG count 2918. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 576 (exactly 5, h2876–h2880)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh        | image                              |
+|-------|--------------------|----------------|------------------------------------|
+| h2876 | Seminole Patchwork | 塞米诺尔拼布   | styles/2919-seminole-patchwork.png |
+| h2877 | Asafo Appliqué     | 阿萨福贴花     | styles/2920-asafo-applique.png     |
+| h2878 | Gwion Gwion        | 格维翁岩画     | styles/2921-gwion-gwion.png        |
+| h2879 | Carretto Painting  | 卡雷托彩绘     | styles/2922-carretto-painting.png  |
+| h2880 | Barn Quilt         | 谷仓拼布绘     | styles/2923-barn-quilt.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2923, PNG count 2923. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

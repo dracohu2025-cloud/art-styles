@@ -37932,5 +37932,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2876",
+    "slug": "seminole-patchwork",
+    "name_en": "Seminole Patchwork",
+    "name_zh": "塞米诺尔拼布",
+    "description_en": "Seminole patchwork: strip-pieced cotton bands, interlocking diamonds and sawtooth bars, high-chroma solids, precise 45-degree piecing.",
+    "description_zh": "塞米诺尔拼布：色条拼缝、连锁菱形与锯齿带、高饱和纯色块与精确四十五度拼角。",
+    "source": "hermes-explore",
+    "image": "styles/2919-seminole-patchwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2877",
+    "slug": "asafo-applique",
+    "name_en": "Asafo Appliqué",
+    "name_zh": "阿萨福贴花",
+    "description_en": "Asafo appliqué: Fante cut-and-sewn cotton color-blocks on mustard ground, blanket-stitch outlines, flat proverb tableau, raw-edge cloth grain.",
+    "description_zh": "阿萨福贴花：芳蒂色块布贴、芥黄底、锁边线迹与平面寓意图案，露布边与布纹。",
+    "source": "hermes-explore",
+    "image": "styles/2920-asafo-applique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2878",
+    "slug": "gwion-gwion",
+    "name_en": "Gwion Gwion",
+    "name_zh": "格维翁岩画",
+    "description_en": "Gwion Gwion: mulberry-red ochre on weathered sandstone, elongated linear figures, dry-brush mineral pigment, faded superimposed layers.",
+    "description_zh": "格维翁岩画：砂岩上桑红赭石、细长线描人形、干刷矿物颜料与叠压淡痕。",
+    "source": "hermes-explore",
+    "image": "styles/2921-gwion-gwion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2879",
+    "slug": "carretto-painting",
+    "name_en": "Carretto Painting",
+    "name_zh": "卡雷托彩绘",
+    "description_en": "Carretto painting: Sicilian lacquered-wood folk baroque, chrome-yellow field, floral scrolls, geometric meander borders, high-gloss tempera.",
+    "description_zh": "卡雷托彩绘：西西里漆木民俗巴洛克、铬黄底、卷草纹、几何回纹边与高光蛋彩。",
+    "source": "hermes-explore",
+    "image": "styles/2922-carretto-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2880",
+    "slug": "barn-quilt",
+    "name_en": "Barn Quilt",
+    "name_zh": "谷仓拼布绘",
+    "description_en": "Barn quilt: oversized painted quilt-block geometry on weathered barn siding, hard-edge enamel, eight-point stars and flying-geese triangles.",
+    "description_zh": "谷仓拼布绘：仓板大尺幅拼布几何、硬边磁漆、八角星与飞雁三角。",
+    "source": "hermes-explore",
+    "image": "styles/2923-barn-quilt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
