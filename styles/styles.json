@@ -36892,5 +36892,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2796",
+    "slug": "dazhuan",
+    "name_en": "Dazhuan",
+    "name_zh": "大篆",
+    "description_en": "Large seal script: thick rounded monumental glyphs, bronze-cast and ink-rubbing grain, vermilion paste stamps on aged silk.",
+    "description_zh": "大篆：圆厚巨笔、青铜铸款与拓墨肌理、朱印点缀于旧绢。",
+    "source": "hermes-explore",
+    "image": "styles/2839-dazhuan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2797",
+    "slug": "rayhani",
+    "name_en": "Rayhani",
+    "name_zh": "雷哈尼",
+    "description_en": "Rayḥānī script: basil-leaf-fine Arabic letterforms, even rhythm, elongated verticals, gold ink and vocalization dots on dyed paper.",
+    "description_zh": "雷哈尼体：细如罗勒叶的阿拉伯书体、均匀节奏、拉长竖笔、染色纸金书与标音点。",
+    "source": "hermes-explore",
+    "image": "styles/2840-rayhani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2798",
+    "slug": "echizen-nuri",
+    "name_en": "Echizen-nuri",
+    "name_zh": "越前涂",
+    "description_en": "Echizen lacquer: deep wet black urushi, cinnabar underlayer, high-polish roiro sheen, sparse gold powder over thin wood-showing coats.",
+    "description_zh": "越前涂：湿黑漆、朱红底、高抛蜡色光、薄涂透木与疏金粉。",
+    "source": "hermes-explore",
+    "image": "styles/2841-echizen-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2799",
+    "slug": "imperial-yellow",
+    "name_en": "Imperial Yellow",
+    "name_zh": "娇黄釉",
+    "description_en": "Jiaohuang imperial yellow: even buttery low-iron yellow enamel over white porcelain, faint crackle, reserved white rims.",
+    "description_zh": "娇黄釉：匀净乳黄油、白瓷胎、细开片、留白口沿。",
+    "source": "hermes-explore",
+    "image": "styles/2842-imperial-yellow.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2800",
+    "slug": "tekat",
+    "name_en": "Tekat",
+    "name_zh": "特卡特绣",
+    "description_en": "Malay tekat: raised padded gold couching and bullion knots, floral palmettes on deep velvet pile.",
+    "description_zh": "特卡特绣：垫绣金线与金银线结、深色丝绒地上海棠卷草。",
+    "source": "hermes-explore",
+    "image": "styles/2843-tekat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

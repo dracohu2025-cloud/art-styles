@@ -7842,6 +7842,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2838, PNG count 2838. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 560 (exactly 5, h2796–h2800)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh    | image                               |
+|-------|------------------|------------|-------------------------------------|
+| h2796 | Dazhuan          | 大篆       | styles/2839-dazhuan.png             |
+| h2797 | Rayhani          | 雷哈尼     | styles/2840-rayhani.png             |
+| h2798 | Echizen-nuri     | 越前涂     | styles/2841-echizen-nuri.png        |
+| h2799 | Imperial Yellow  | 娇黄釉     | styles/2842-imperial-yellow.png     |
+| h2800 | Tekat            | 特卡特绣   | styles/2843-tekat.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2843, PNG count 2843. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
