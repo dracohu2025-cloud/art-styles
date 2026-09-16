@@ -8011,6 +8011,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2898, PNG count 2898. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 572 (exactly 5, h2856–h2860)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                               |
+|-------|------------------|-------------|-------------------------------|
+| h2856 | Yagasuri         | 矢絣        | styles/2899-yagasuri.png      |
+| h2857 | Mate Burilado    | 葫芦线刻    | styles/2900-mate-burilado.png |
+| h2858 | Tocapu           | 托卡普纹    | styles/2901-tocapu.png        |
+| h2859 | Jali             | 贾利透雕    | styles/2902-jali.png          |
+| h2860 | Laca Chiapaneca  | 恰帕斯漆    | styles/2903-laca-chiapaneca.png |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2903, PNG count 2903. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

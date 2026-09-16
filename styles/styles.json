@@ -37672,5 +37672,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2856",
+    "slug": "yagasuri",
+    "name_en": "Yagasuri",
+    "name_zh": "矢絣",
+    "description_en": "Yagasuri: Japanese arrow-feather kasuri ikat — repeating diagonal chevrons, indigo-and-white warp bleed, hand-loomed cotton grain.",
+    "description_zh": "矢絣：箭羽纹絣织，斜向重复箭羽、蓝白经絣晕边、手织棉纹。",
+    "source": "hermes-explore",
+    "image": "styles/2899-yagasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2857",
+    "slug": "mate-burilado",
+    "name_en": "Mate Burilado",
+    "name_zh": "葫芦线刻",
+    "description_en": "Mate Burilado: Peruvian engraved gourd pyrography — burin lines on burnished calabash, scorched grooves, folk geometric registers.",
+    "description_zh": "葫芦线刻：秘鲁葫芦烙刻，抛光瓢面细线、焦褐槽痕、民俗几何环带。",
+    "source": "hermes-explore",
+    "image": "styles/2900-mate-burilado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2858",
+    "slug": "tocapu",
+    "name_en": "Tocapu",
+    "name_zh": "托卡普纹",
+    "description_en": "Tocapu: Inca tapestry glyph-modules — grid of unique rectangular emblems in cochineal, indigo, ochre, and camelid-wool weave.",
+    "description_zh": "托卡普纹：印加挂毯字徽，矩形纹章网格、胭脂红靛蓝赭黄、驼羊毛织。",
+    "source": "hermes-explore",
+    "image": "styles/2901-tocapu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2859",
+    "slug": "jali",
+    "name_en": "Jali",
+    "name_zh": "贾利透雕",
+    "description_en": "Jali: Indo-Islamic pierced stone lattice — star polygons, thin marble webs, raking light and lace shadow through chisel-cut voids.",
+    "description_zh": "贾利透雕：印度伊斯兰镂空石格，星形多边形、薄石肋、侧光投出花影。",
+    "source": "hermes-explore",
+    "image": "styles/2902-jali.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2860",
+    "slug": "laca-chiapaneca",
+    "name_en": "Laca Chiapaneca",
+    "name_zh": "恰帕斯漆",
+    "description_en": "Laca Chiapaneca: Chiapanecan lacquer — glossy black ground, thick floral and bird motifs in magenta-turquoise-gold, raised varnish.",
+    "description_zh": "恰帕斯漆：墨西哥恰帕斯漆器，黑亮底上厚绘花卉禽鸟，品红青绿金，高光漆面。",
+    "source": "hermes-explore",
+    "image": "styles/2903-laca-chiapaneca.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
