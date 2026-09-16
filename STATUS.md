@@ -8025,6 +8025,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2903, PNG count 2903. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 573 (exactly 5, h2861–h2865)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh      | image                            |
+|-------|----------------|--------------|----------------------------------|
+| h2861 | Tangaliya      | 坦加利亚织   | styles/2904-tangaliya.png        |
+| h2862 | Tesuji Shibori | 手筋绞       | styles/2905-tesuji-shibori.png   |
+| h2863 | Bentenan       | 本特南织     | styles/2906-bentenan.png         |
+| h2864 | Kasai Velvet   | 开赛割绒     | styles/2907-kasai-velvet.png     |
+| h2865 | Jos-Pé         | 约斯佩印     | styles/2908-jos-pe.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2908, PNG count 2908. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

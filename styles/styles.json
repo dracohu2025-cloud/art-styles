@@ -37737,5 +37737,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2861",
+    "slug": "tangaliya",
+    "name_en": "Tangaliya",
+    "name_zh": "坦加利亚织",
+    "description_en": "Tangaliya: Gujarati extra-weft dotted-bead weave — dana knots as raised color beads, lozenges and chevrons on handloom cotton.",
+    "description_zh": "坦加利亚织：古吉拉特附加纬点珠织，打结如凸起色珠，菱形折线铺满手织棉地。",
+    "source": "hermes-explore",
+    "image": "styles/2904-tangaliya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2862",
+    "slug": "tesuji-shibori",
+    "name_en": "Tesuji Shibori",
+    "name_zh": "手筋绞",
+    "description_en": "Tesuji Shibori: hand-pleated linear resist — fine parallel finger folds, white reserved striations, indigo bleed at cloth-memory puckers.",
+    "description_zh": "手筋绞：手褶直线防染，细密平行褶、留白条纹、靛蓝渗边与布记忆皱褶。",
+    "source": "hermes-explore",
+    "image": "styles/2905-tesuji-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2863",
+    "slug": "bentenan",
+    "name_en": "Bentenan",
+    "name_zh": "本特南织",
+    "description_en": "Bentenan: Minahasan ceremonial supplementary-weft — deep red registers, gold-cream hooks and boats, warp-faced stripes between motif bands.",
+    "description_zh": "本特南织：米纳哈萨礼仪补纬，深红条带、金米色钩纹与船纹、纹样间经面条纹。",
+    "source": "hermes-explore",
+    "image": "styles/2906-bentenan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2864",
+    "slug": "kasai-velvet",
+    "name_en": "Kasai Velvet",
+    "name_zh": "开赛割绒",
+    "description_en": "Kasai Velvet: Kuba cut-pile raffia — clipped tufted geometry, interlocking diamonds and meanders in ochre, earth red, palm-black.",
+    "description_zh": "开赛割绒：库巴拉菲亚割绒，剪短绒头几何、咬合菱形与回纹，赭石土红棕黑。",
+    "source": "hermes-explore",
+    "image": "styles/2907-kasai-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2865",
+    "slug": "jos-pe",
+    "name_en": "Jos-Pé",
+    "name_zh": "约斯佩印",
+    "description_en": "Jos-Pé: 1920s tri-color pigment relief — stacked yellow-magenta-cyan gelatin films, velvet-matte color, faint complementary fringing.",
+    "description_zh": "约斯佩印：一九二〇年代三色颜料浮雕，黄品红青明胶叠层、丝绒哑光、微补色错位边。",
+    "source": "hermes-explore",
+    "image": "styles/2908-jos-pe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
