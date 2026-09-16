@@ -38712,5 +38712,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2936",
+    "slug": "longshan",
+    "name_en": "Longshan",
+    "name_zh": "龙山黑陶",
+    "description_en": "Longshan: Neolithic eggshell black pottery; carbon-smoked, wheel-thrown, burnished to a thin charcoal sheen. Not terracotta red, not celadon glaze, not painted polychrome.",
+    "description_zh": "龙山黑陶：新石器蛋壳黑陶；渗碳轮制，打磨出薄炭黑光泽。非红陶、非青釉、非彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/2979-longshan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2937",
+    "slug": "artotype",
+    "name_en": "Artotype",
+    "name_zh": "阿尔托版",
+    "description_en": "Artotype: 1870s–90s collotype trade print; continuous-tone gelatin grain in carbon-brown ink, no halftone screen. Not lithography, not Woodburytype relief, not a modern photo.",
+    "description_zh": "阿尔托版：十九世纪七十至九十年代珂罗版商用印相；明胶连续调棕黑墨粒，无网屏。非石版、非伍德伯里浮雕、非现代照片。",
+    "source": "hermes-explore",
+    "image": "styles/2980-artotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2938",
+    "slug": "mercury-gilding",
+    "name_en": "Mercury Gilding",
+    "name_zh": "汞鎏金",
+    "description_en": "Mercury gilding: fire-gilding with gold–mercury amalgam on metal; porous bloom, matte hollows, burnished highs. Not leaf gilding, not ormolu electroplate, not gold paint.",
+    "description_zh": "汞鎏金：金汞齐火鎏于金属；孔隙汞霜、凹处哑金、高处抛光。非贴金箔、非电镀仿鎏、非金漆。",
+    "source": "hermes-explore",
+    "image": "styles/2981-mercury-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2939",
+    "slug": "kaga-nui",
+    "name_en": "Kaga-nui",
+    "name_zh": "加贺绣",
+    "description_en": "Kaga-nui: Kaga-school silk embroidery; long-and-short satin stitch with painterly thread shading and visible silk sheen. Not yuzen dye, not sashiko running stitch, not gold couching alone.",
+    "description_zh": "加贺绣：加贺派丝绣；长短针缎纹，丝线渲染可见光泽。非友禅染、非刺子跑针、非单纯盘金。",
+    "source": "hermes-explore",
+    "image": "styles/2982-kaga-nui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2940",
+    "slug": "tobe-ware",
+    "name_en": "Tobe Ware",
+    "name_zh": "砥部烧",
+    "description_en": "Tobe ware: Ehime folk porcelain; thick milky glaze and bold cobalt underglaze brush, slight crazing. Not Imari brocade overglaze, not Kakiemon spare enamel, not fine Arita gilt.",
+    "description_zh": "砥部烧：爱媛民窑白瓷；厚乳釉与大胆青花釉下笔，微开片。非伊万里锦手、非柿右卫门疏彩、非有田金彩。",
+    "source": "hermes-explore",
+    "image": "styles/2983-tobe-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

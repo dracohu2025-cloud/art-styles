@@ -8235,6 +8235,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2978, PNG count 2978. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 588 (exactly 5, h2936–h2940)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                              |
+|-------|------------------|-----------------|------------------------------------|
+| h2936 | Longshan         | 龙山黑陶        | styles/2979-longshan.png           |
+| h2937 | Artotype         | 阿尔托版        | styles/2980-artotype.png           |
+| h2938 | Mercury Gilding  | 汞鎏金          | styles/2981-mercury-gilding.png    |
+| h2939 | Kaga-nui         | 加贺绣          | styles/2982-kaga-nui.png           |
+| h2940 | Tobe Ware        | 砥部烧          | styles/2983-tobe-ware.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2983, PNG count 2983. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
