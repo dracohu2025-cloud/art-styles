@@ -7913,6 +7913,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2863, PNG count 2863. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 565 (exactly 5, h2821–h2825)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh    | image                                |
+|-------|--------------------|------------|--------------------------------------|
+| h2821 | Baren-suji         | 马楝筋     | styles/2864-baren-suji.png           |
+| h2822 | Annagelb           | 安娜黄     | styles/2865-annagelb.png             |
+| h2823 | Hori-zome          | 彫染       | styles/2866-hori-zome.png            |
+| h2824 | Moonlight Lustre   | 月光虹彩   | styles/2867-moonlight-lustre.png     |
+| h2825 | Maru-bori          | 丸彫       | styles/2868-maru-bori.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2868, PNG count 2868. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

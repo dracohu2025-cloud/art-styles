@@ -37217,5 +37217,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2821",
+    "slug": "baren-suji",
+    "name_en": "Baren-suji",
+    "name_zh": "马楝筋",
+    "description_en": "Mokuhanga baren-suji: circular baren rub marks left as concentric swirl streaks in large woodblock color fields.",
+    "description_zh": "马楝筋：木版画马楝摩擦留下的同心旋回纹，显于大面积色块。",
+    "source": "hermes-explore",
+    "image": "styles/2864-baren-suji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2822",
+    "slug": "annagelb",
+    "name_en": "Annagelb",
+    "name_zh": "安娜黄",
+    "description_en": "Bohemian Annagelb uranium glass: canary-yellow fluorescence, faceted cuts, thick refractive edges, inner UV glow.",
+    "description_zh": "安娜黄：波希米亚铀黄玻璃，金丝雀荧光、切面棱线、厚折光边与内透辉光。",
+    "source": "hermes-explore",
+    "image": "styles/2865-annagelb.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2823",
+    "slug": "hori-zome",
+    "name_en": "Hori-zome",
+    "name_zh": "彫染",
+    "description_en": "Japanese hori-zome: dye forced through a carved stencil, sharp cut-out edges, paste-resist ridges on hemp or silk.",
+    "description_zh": "彫染：以雕刻型纸防染，切口锐利，糊防凸棱显于麻或丝绸。",
+    "source": "hermes-explore",
+    "image": "styles/2866-hori-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2824",
+    "slug": "moonlight-lustre",
+    "name_en": "Moonlight Lustre",
+    "name_zh": "月光虹彩",
+    "description_en": "Moonlight lustreware: silver-pink resist lustre on cream earthenware, mother-of-pearl sheen, moonlit metallic glaze.",
+    "description_zh": "月光虹彩：奶油陶上银粉虹彩防染，珠光粉紫，月色金属釉。",
+    "source": "hermes-explore",
+    "image": "styles/2867-moonlight-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2825",
+    "slug": "maru-bori",
+    "name_en": "Maru-bori",
+    "name_zh": "丸彫",
+    "description_en": "Maru-bori round-relief metal carving: fully modeled chasing on iron or shakudo, chiselled furrows, patina and gold inlay.",
+    "description_zh": "丸彫：金属圆雕錾刻，铁或赤铜上高肉成形，錾沟、包浆与嵌金。",
+    "source": "hermes-explore",
+    "image": "styles/2868-maru-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
