@@ -38777,5 +38777,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2941",
+    "slug": "mumyoi",
+    "name_en": "Mumyoi",
+    "name_zh": "无名异陶",
+    "description_en": "Mumyoi: Sado Island iron-rich red clay stoneware; dense rust-to-chocolate body, metallic sheen, tea-ware tooth. Not Bizen fire-cord marks, not Tokoname vermilion clay, not unglazed terracotta.",
+    "description_zh": "无名异陶：佐渡高铁红泥炻器；密锈红至巧克力胎、金属光泽、茶器齿感。非备前火襷、非常滑朱泥、非素陶。",
+    "source": "hermes-explore",
+    "image": "styles/2984-mumyoi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2942",
+    "slug": "tarakli",
+    "name_en": "Tarakli",
+    "name_zh": "梳纹水拓",
+    "description_en": "Taraklı ebru: comb-drawn marbling on size; fine parallel and wavy color lines raked through the bath. Not free-form Battal spots, not floral Hatip ebru, not Japanese suminagashi.",
+    "description_zh": "梳纹水拓：胶液上以梳子拖出细平行波线。非巴塔尔斑点、非哈提普花卉水拓、非墨流。",
+    "source": "hermes-explore",
+    "image": "styles/2985-tarakli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2943",
+    "slug": "kamdani",
+    "name_en": "Kamdani",
+    "name_zh": "卡姆达尼绣",
+    "description_en": "Kamdani: Lucknow scattered-gilt embroidery on sheer muslin; tiny metallic stitches like dew. Not heavy zardozi couching, not mukaish beaten silver, not chikankari whitework.",
+    "description_zh": "卡姆达尼绣：勒克瑙薄纱上散点金银细针，如露珠。非扎尔多齐盘金、非穆凯什锤银、非契坎卡里白绣。",
+    "source": "hermes-explore",
+    "image": "styles/2986-kamdani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2944",
+    "slug": "osanbanga",
+    "name_en": "Osanbanga",
+    "name_zh": "大阪铜版",
+    "description_en": "Osanbanga: Osaka copperplate engraving; Western intaglio hatch on cream laid paper, brown-black line. Not ukiyo-e woodblock, not mezzotint velvet dark, not etching burr.",
+    "description_zh": "大阪铜版：西洋凹版排线、冷奶油纸、棕黑墨。非浮世绘木版、非美柔汀绒黑、非蚀刻毛刺。",
+    "source": "hermes-explore",
+    "image": "styles/2987-osanbanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2945",
+    "slug": "peking-overlay",
+    "name_en": "Peking Overlay",
+    "name_zh": "北京套料",
+    "description_en": "Peking overlay: Qing palace carved overlay glass; thick colored casing cut through to a contrasting ground. Not English cameo glass, not pâte de verre granules, not flashed-glass stain.",
+    "description_zh": "北京套料：清宫套色玻璃雕刻，厚彩层切至对比地色。非英国浮雕玻璃、非浇铸玻璃粒、非罩色玻璃彩。",
+    "source": "hermes-explore",
+    "image": "styles/2988-peking-overlay.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

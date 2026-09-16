@@ -8249,6 +8249,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2983, PNG count 2983. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 589 (exactly 5, h2941–h2945)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h2941 | Mumyoi          | 无名异陶        | styles/2984-mumyoi.png             |
+| h2942 | Tarakli         | 梳纹水拓        | styles/2985-tarakli.png            |
+| h2943 | Kamdani         | 卡姆达尼绣      | styles/2986-kamdani.png            |
+| h2944 | Osanbanga       | 大阪铜版        | styles/2987-osanbanga.png          |
+| h2945 | Peking Overlay  | 北京套料        | styles/2988-peking-overlay.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2988, PNG count 2988. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
