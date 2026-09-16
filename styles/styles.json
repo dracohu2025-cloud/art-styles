@@ -37282,5 +37282,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2826",
+    "slug": "nogime",
+    "name_en": "Nogime",
+    "name_zh": "禾目",
+    "description_en": "Nogime hare's-fur tenmoku: dark iron glaze with dense vertical rust-gold streaks, pooled stoneware, kiln-flash grain.",
+    "description_zh": "禾目天目：铁釉上细密竖向兔毫金褐纹，厚釉积边，窑变石肌。",
+    "source": "hermes-explore",
+    "image": "styles/2869-nogime.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2827",
+    "slug": "keshifun",
+    "name_en": "Keshifun",
+    "name_zh": "消粉",
+    "description_en": "Keshifun matte gold-powder maki-e: unsized gold dust on black lacquer, velvety granular fields, no nashiji sparkle.",
+    "description_zh": "消粉蒔绘：无胶金粉洒于黑漆，绒面细粒金地，非梨地闪光。",
+    "source": "hermes-explore",
+    "image": "styles/2870-keshifun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2828",
+    "slug": "gohonte",
+    "name_en": "Gohonte",
+    "name_zh": "御本手",
+    "description_en": "Gohonte kiln-blush white: milky cream slip with irregular peach-pink and amber flashes, warm spotted porcelain.",
+    "description_zh": "御本手：乳白化妆土上不规则粉红与琥珀色窑晕，温斑白瓷。",
+    "source": "hermes-explore",
+    "image": "styles/2871-gohonte.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2829",
+    "slug": "siddham",
+    "name_en": "Siddham",
+    "name_zh": "悉昙",
+    "description_en": "Siddham (shittan) sacred calligraphy: cinnabar and lampblack seed-syllable script, palm-leaf sutra rhythm, gold-ground ink.",
+    "description_zh": "悉昙：朱砂与烟墨种子字，贝叶经比例，金地墨线梵文书风。",
+    "source": "hermes-explore",
+    "image": "styles/2872-siddham.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2830",
+    "slug": "glagolitic",
+    "name_en": "Glagolitic",
+    "name_zh": "格拉哥里",
+    "description_en": "Round Glagolitic calligraphy: medieval Slavic uncial glyphs in iron-gall and vermillion on parchment, carpet-page density.",
+    "description_zh": "格拉哥里字母：中古斯拉夫圆体字母，铁胆褐与朱红写于羊皮纸，毯页密度。",
+    "source": "hermes-explore",
+    "image": "styles/2873-glagolitic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

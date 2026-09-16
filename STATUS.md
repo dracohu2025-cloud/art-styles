@@ -7927,6 +7927,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2868, PNG count 2868. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 566 (exactly 5, h2826–h2830)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                         |
+|-------|-------------|-------------|-------------------------------|
+| h2826 | Nogime      | 禾目        | styles/2869-nogime.png        |
+| h2827 | Keshifun    | 消粉        | styles/2870-keshifun.png      |
+| h2828 | Gohonte     | 御本手      | styles/2871-gohonte.png       |
+| h2829 | Siddham     | 悉昙        | styles/2872-siddham.png       |
+| h2830 | Glagolitic  | 格拉哥里    | styles/2873-glagolitic.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2873, PNG count 2873. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
