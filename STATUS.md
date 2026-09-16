@@ -8193,6 +8193,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2963, PNG count 2963. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 585 (exactly 5, h2921–h2925)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                              |
+|-------|------------------|-----------------|------------------------------------|
+| h2921 | Gomma-nagashi    | 胶液流阻        | styles/2964-gomma-nagashi.png      |
+| h2922 | Dultgen          | 达尔根凹印      | styles/2965-dultgen.png            |
+| h2923 | Laqabi           | 拉卡比刻釉      | styles/2966-laqabi.png             |
+| h2924 | A Macchie        | 斑渍玻璃        | styles/2967-a-macchie.png          |
+| h2925 | Wash-Off Relief  | 水洗浮雕染印    | styles/2968-wash-off-relief.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2968, PNG count 2968. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

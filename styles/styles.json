@@ -38517,5 +38517,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2921",
+    "slug": "gomma-nagashi",
+    "name_en": "Gomma-nagashi",
+    "name_zh": "胶液流阻",
+    "description_en": "Gomma-nagashi: mokuhanga rubber-resist poured on the block so color fields break into organic flow-channels, islands and marble gaps; baren swirl, washi fiber; not suminagashi ink-marbling, not katazome stencil.",
+    "description_zh": "胶液流阻：木版上浇流橡胶抗蚀，色块裂成有机流道、岛屿与大理石空隙；马楝回纹与和纸纤维；非墨流、非型染镂版。",
+    "source": "hermes-explore",
+    "image": "styles/2964-gomma-nagashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2922",
+    "slug": "dultgen",
+    "name_en": "Dultgen",
+    "name_zh": "达尔根凹印",
+    "description_en": "Dultgen process: 1930s–50s inverted-dot color rotogravure, continuous-tone cells etched in copper, velvet ink squash on coated stock; not letterpress halftone, not offset litho, not photogravure dust-grain.",
+    "description_zh": "达尔根凹印：1930–50年代反转网点彩色轮转凹印，铜面连续调网穴，涂料纸上绒墨挤压；非凸版网目、非胶印、非飞尘照相凹版。",
+    "source": "hermes-explore",
+    "image": "styles/2965-dultgen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2923",
+    "slug": "laqabi",
+    "name_en": "Laqabi",
+    "name_zh": "拉卡比刻釉",
+    "description_en": "Laqabi (lakabi) ware: designs carved with clay ridges that dam turquoise, manganese, amber and green alkaline glazes in pooled cells on buff earthenware; not cuerda seca wax lines, not minai overglaze enamel.",
+    "description_zh": "拉卡比刻釉：刻出泥棱拦住青绿、锰紫、琥珀与叶绿碱釉，在土黄陶上积釉成格；非干线蜡隔、非米奈釉上彩。",
+    "source": "hermes-explore",
+    "image": "styles/2966-laqabi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2924",
+    "slug": "a-macchie",
+    "name_en": "A Macchie",
+    "name_zh": "斑渍玻璃",
+    "description_en": "Vetro a macchie: Murano cristallo with irregular opaque and translucent color stains (cobalt, sealing-wax red, citron, milk-white) fused through the gather; fire-polish and optical distortion; not pezzato patchwork, not millefiori murrine, not stained-glass leading.",
+    "description_zh": "斑渍玻璃：穆拉诺水晶中熔入不规则不透明与半透明色渍（钴蓝、封蜡红、香橼、乳白）；火抛光与光学畸变；非拼色玻璃、非千花马赛克、非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/2967-a-macchie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2925",
+    "slug": "wash-off-relief",
+    "name_en": "Wash-Off Relief",
+    "name_zh": "水洗浮雕染印",
+    "description_en": "Kodak Wash-Off Relief: 1930s gelatin relief matrices dyed yellow, magenta and cyan and printed in register as velvety dye-imbibition; slight matrix-edge softness; not dye transfer Kodak, not Cibachrome, not silver-gelatin.",
+    "description_zh": "水洗浮雕染印：1930年代明胶浮雕模版染黄、品红、青后套印，绒面染料渗入；模版边缘略软；非柯达染印法、非西巴彩、非银盐明胶。",
+    "source": "hermes-explore",
+    "image": "styles/2968-wash-off-relief.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
