@@ -37022,5 +37022,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2806",
+    "slug": "kanteiryu",
+    "name_en": "Kanteiryu",
+    "name_zh": "勘亭流",
+    "description_en": "Edo kabuki-ya lettering: swollen trumpet terminals, ultra-thick rounded brush, theatrical woodblock playbill ink.",
+    "description_zh": "江户芝居屋号字体：喇叭收笔、极粗圆笔、戏报木版墨色。",
+    "source": "hermes-explore",
+    "image": "styles/2849-kanteiryu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2807",
+    "slug": "bafen",
+    "name_en": "Bafen",
+    "name_zh": "八分",
+    "description_en": "Han clerical variant: silkworm-head and swallow-tail endings, wave of the brush, stele-rubbing grain.",
+    "description_zh": "汉隶变体：蚕头燕尾、波磔开张、碑拓肌理。",
+    "source": "hermes-explore",
+    "image": "styles/2850-bafen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2808",
+    "slug": "shikasteh",
+    "name_en": "Shikasteh",
+    "name_zh": "波斯破体",
+    "description_en": "Broken nasta'liq: densely stacked sloping ligatures, hair-thin joins, walnut ink on burnished paper.",
+    "description_zh": "破碎体波斯书：密叠斜连、发丝游丝、核桃墨熟纸。",
+    "source": "hermes-explore",
+    "image": "styles/2851-shikasteh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2809",
+    "slug": "kagawa-nuri",
+    "name_en": "Kagawa-nuri",
+    "name_zh": "香川涂",
+    "description_en": "Sanuki lacquer: kinma carved color-inlay, choshitsu layered carving, goto-nuri metallic dust, wet urushi polish.",
+    "description_zh": "讃岐漆艺：蒟酱刻填、雕漆分层、后藤涂洒金、湿漆镜面。",
+    "source": "hermes-explore",
+    "image": "styles/2852-kagawa-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2810",
+    "slug": "nori-zome",
+    "name_en": "Nori-zome",
+    "name_zh": "糊染",
+    "description_en": "Rice-paste resist dyeing: sharp nori ridges, indigo soak, reserved undyed whites on cloth tooth.",
+    "description_zh": "米糊防染：糊棱锐边、靛蓝渗透、布纹留白。",
+    "source": "hermes-explore",
+    "image": "styles/2853-nori-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

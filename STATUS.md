@@ -7870,6 +7870,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2848, PNG count 2848. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 562 (exactly 5, h2806–h2810)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                            |
+|-------|--------------|------------|----------------------------------|
+| h2806 | Kanteiryu    | 勘亭流     | styles/2849-kanteiryu.png        |
+| h2807 | Bafen        | 八分       | styles/2850-bafen.png            |
+| h2808 | Shikasteh    | 波斯破体   | styles/2851-shikasteh.png        |
+| h2809 | Kagawa-nuri  | 香川涂     | styles/2852-kagawa-nuri.png      |
+| h2810 | Nori-zome    | 糊染       | styles/2853-nori-zome.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2853, PNG count 2853. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
