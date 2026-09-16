@@ -8151,6 +8151,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2948, PNG count 2948. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 582 (exactly 5, h2906–h2910)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                          |
+|-------|--------------|-----------------|--------------------------------|
+| h2906 | Iridato      | 虹彩玻璃        | styles/2949-iridato.png        |
+| h2907 | Pizzighelli  | 皮齐盖利印相    | styles/2950-pizzighelli.png    |
+| h2908 | Pâte de Riz  | 米瓷玻璃        | styles/2951-pate-de-riz.png    |
+| h2909 | Megarian     | 麦加拉陶        | styles/2952-megarian.png       |
+| h2910 | Scroddled    | 绞色陶          | styles/2953-scroddled.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 2953, PNG count 2953. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

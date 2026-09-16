@@ -38322,5 +38322,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2906",
+    "slug": "iridato",
+    "name_en": "Iridato",
+    "name_zh": "虹彩玻璃",
+    "description_en": "Iridato: Murano blown-glass iridescence as the image method—oil-slick gold-rose-peacock bloom, translucent volume, pulled rims; not Favrile, not Aurene, not stained-glass leading.",
+    "description_zh": "虹彩玻璃：穆拉诺吹制虹彩为画面方法，金粉玫瑰孔雀油膜晕、半透体积与拉口；非法夫莱尔、非奥伦、非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/2949-iridato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2907",
+    "slug": "pizzighelli",
+    "name_en": "Pizzighelli",
+    "name_zh": "皮齐盖利印相",
+    "description_en": "Pizzighelli: 1887 platinum printing-out paper—warm silvery-brown continuous tone, metallic platinum greys, faint yellow fog; not kallitype, not developed platinum-palladium, not Van Dyke.",
+    "description_zh": "皮齐盖利印相：1887年铂盐晒出纸、暖银棕色连续调、金属铂灰与淡黄雾；非卡利型、非显影铂钯、非范戴克棕。",
+    "source": "hermes-explore",
+    "image": "styles/2950-pizzighelli.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2908",
+    "slug": "pate-de-riz",
+    "name_en": "Pâte de Riz",
+    "name_zh": "米瓷玻璃",
+    "description_en": "Pâte de riz: milky rice-paste opaline glass—creamy inner rice-grain haze, satiny fire-polish, soft internal glow; not crushed-frit pâte de verre, not blanc de chine, not opalotype.",
+    "description_zh": "米瓷玻璃：乳白米糊乳浊玻璃、内层米粒雾、火抛缎面与柔内光；非玻璃粉铸、非德化白瓷、非乳白玻璃相。",
+    "source": "hermes-explore",
+    "image": "styles/2951-pate-de-riz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2909",
+    "slug": "megarian",
+    "name_en": "Megarian",
+    "name_zh": "麦加拉陶",
+    "description_en": "Megarian: Hellenistic mold-made relief ware—vegetal registers, palmettes, imbricated leaves, metallic black-gloss slip on grey-brown clay; not red-figure, not Arretine terra sigillata.",
+    "description_zh": "麦加拉陶：希腊化模制浮雕陶、植物层带与鳞叶、棕灰胎上金属黑釉；非红绘、非阿雷佐磨光红陶。",
+    "source": "hermes-explore",
+    "image": "styles/2952-megarian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2910",
+    "slug": "scroddled",
+    "name_en": "Scroddled",
+    "name_zh": "绞色陶",
+    "description_en": "Scroddled ware: Staffordshire mixed clays through the body—brown, cream and blue laminations and folk swirl; not Japanese neriage slices, not engine-turned agateware, not surface slip marble.",
+    "description_zh": "绞色陶：斯塔福德郡胎内绞泥、棕奶油蓝层理与民间涡纹；非练上切片、非车旋玛瑙陶、非表面泥浆大理石。",
+    "source": "hermes-explore",
+    "image": "styles/2953-scroddled.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
