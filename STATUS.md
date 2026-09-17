@@ -8459,6 +8459,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3058, PNG count 3058. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 604 (exactly 5, h3016–h3020)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                            |
+|-------|-----------------|-----------------|----------------------------------|
+| h3016 | E-Karatsu       | 絵唐津          | styles/3059-e-karatsu.png        |
+| h3017 | Kaki-yu         | 柿釉            | styles/3060-kaki-yu.png          |
+| h3018 | Tatekasuri      | 経絣            | styles/3061-tatekasuri.png       |
+| h3019 | Honey Gilding   | 蜜胶贴金        | styles/3062-honey-gilding.png    |
+| h3020 | Calcite Glass   | 方解石玻璃      | styles/3063-calcite-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3063, PNG count 3063. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -39752,5 +39752,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3016",
+    "slug": "e-karatsu",
+    "name_en": "E-Karatsu",
+    "name_zh": "絵唐津",
+    "description_en": "E-Karatsu: iron-brown underglaze brush painting on coarse sandy Karatsu clay under thin ash glaze; kiln-flash blush, crawling and pinholes, not porcelain qinghua or e-shino white feldspathic slip.",
+    "description_zh": "絵唐津：粗砂唐津胎上铁褐釉下绘与薄灰釉，窑变火色、缩釉针孔，非青花瓷或绘志野白长石。",
+    "source": "hermes-explore",
+    "image": "styles/3059-e-karatsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3017",
+    "slug": "kaki-yu",
+    "name_en": "Kaki-yu",
+    "name_zh": "柿釉",
+    "description_en": "Kaki-yu: high-iron satin persimmon-orange to russet glaze with toasted mottling and dry iron bloom, not glossy tenmoku black or ame-yu candy brown.",
+    "description_zh": "柿釉：高铁缎面柿橙至赭褐釉，焦斑与干铁晕，非亮黑天目或饴釉糖褐。",
+    "source": "hermes-explore",
+    "image": "styles/3060-kaki-yu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3018",
+    "slug": "tatekasuri",
+    "name_en": "Tatekasuri",
+    "name_zh": "経絣",
+    "description_en": "Tatekasuri: Japanese warp ikat — resist-dyed warp only, solid weft, vertical feathered kasuri dashes in indigo and brown, not weft yokogasuri or printed stripes.",
+    "description_zh": "経絣：经线防染纬线素织，靛蓝褐的纵向羽化絣纹，非纬絣或印条。",
+    "source": "hermes-explore",
+    "image": "styles/3061-tatekasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3019",
+    "slug": "honey-gilding",
+    "name_en": "Honey Gilding",
+    "name_zh": "蜜胶贴金",
+    "description_en": "Honey gilding: gold leaf laid with honey size on porcelain then lightly fired; warm matte gold and visible leaf joins, not mercury fire-gilding or oil gilding on wood.",
+    "description_zh": "蜜胶贴金：蜜胶贴金箔于瓷上浅烧，暖哑金与箔接缝可见，非汞齐火镀或木器油金。",
+    "source": "hermes-explore",
+    "image": "styles/3062-honey-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3020",
+    "slug": "calcite-glass",
+    "name_en": "Calcite Glass",
+    "name_zh": "方解石玻璃",
+    "description_en": "Calcite glass: Steuben-style translucent alabaster-white glass with inner glow and faint gold-ruby lining, not acid-satin etch or pâte-de-verre.",
+    "description_zh": "方解石玻璃：斯托本式半透明雪花石膏白玻，内光与淡金红衬层，非酸蚀缎面或熔融粉玻。",
+    "source": "hermes-explore",
+    "image": "styles/3063-calcite-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
