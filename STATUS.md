@@ -8417,6 +8417,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3043, PNG count 3043. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 601 (exactly 5, h3001–h3005)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh         | image                          |
+|-------|---------------|-----------------|--------------------------------|
+| h3001 | Quimper       | 坎佩尔彩陶      | styles/3044-quimper.png        |
+| h3002 | Rouen Faience | 鲁昂彩陶        | styles/3045-rouen-faience.png  |
+| h3003 | Montelupo     | 蒙特卢波彩陶    | styles/3046-montelupo.png      |
+| h3004 | Xiangyunsha   | 香云纱          | styles/3047-xiangyunsha.png    |
+| h3005 | Satin Glass   | 缎面玻璃        | styles/3048-satin-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3048, PNG count 3048. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

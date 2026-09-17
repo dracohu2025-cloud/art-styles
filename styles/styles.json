@@ -39557,5 +39557,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3001",
+    "slug": "quimper",
+    "name_en": "Quimper",
+    "name_zh": "坎佩尔彩陶",
+    "description_en": "Quimper faience: naive Breton folk outlines on cream tin glaze, cobalt-yellow-rouge-green fills, dotted scallop borders, glaze pinholes.",
+    "description_zh": "坎佩尔彩陶：布列塔尼民间线描覆乳白锡釉、钴黄砖红铜绿平涂、点状扇边与釉针孔。",
+    "source": "hermes-explore",
+    "image": "styles/3044-quimper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3002",
+    "slug": "rouen-faience",
+    "name_en": "Rouen Faience",
+    "name_zh": "鲁昂彩陶",
+    "description_en": "Rouen faience: bleu de Rouen lambrequins, radiating palmettes and ferronerie on milky tin glaze, pooled cobalt at line ends.",
+    "description_zh": "鲁昂彩陶：鲁昂蓝垂帷纹、放射棕叶与铁艺卷草覆乳白锡釉、线端积钴。",
+    "source": "hermes-explore",
+    "image": "styles/3045-rouen-faience.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3003",
+    "slug": "montelupo",
+    "name_en": "Montelupo",
+    "name_zh": "蒙特卢波彩陶",
+    "description_en": "Montelupo maiolica: warm orange-yellow grounds, cobalt contour, copper-green and manganese-purple folk-Renaissance tin-glaze painting.",
+    "description_zh": "蒙特卢波彩陶：暖橙黄地、钴蓝勾勒、铜绿与锰紫民间文艺复兴锡釉彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/3046-montelupo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3004",
+    "slug": "xiangyunsha",
+    "name_en": "Xiangyunsha",
+    "name_zh": "香云纱",
+    "description_en": "Xiangyunsha (gambiered Guangdong mud silk): gum-dyed ramie-silk, river-mud mineral coat, gunmetal-bronze iridescence, crumpled pebble hand.",
+    "description_zh": "香云纱：薯莨染苎丝、河泥矿物涂层、枪铜青铜虹光、皱卵石手感。",
+    "source": "hermes-explore",
+    "image": "styles/3047-xiangyunsha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3005",
+    "slug": "satin-glass",
+    "name_en": "Satin Glass",
+    "name_zh": "缎面玻璃",
+    "description_en": "Satin glass: acid-etched matte skin over cased inner color, peach-cream-seafoam glow, velvety scatter, no hard specular shine.",
+    "description_zh": "缎面玻璃：酸蚀哑光皮覆套色内层、桃奶油海沫内辉、绒面散射、无硬高光。",
+    "source": "hermes-explore",
+    "image": "styles/3048-satin-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
