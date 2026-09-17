@@ -39102,5 +39102,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2966",
+    "slug": "leadlight",
+    "name_en": "Leadlight",
+    "name_zh": "铅条镶嵌",
+    "description_en": "Leadlight: architectural stained glass bound by H-section lead cames, pot-metal panes, vitreous enamel line-and-wash, silver stain — not dalle de verre, not copper-foil Tiffany, not a window-as-object title.",
+    "description_zh": "铅条镶嵌：H型铅条固定的建筑彩绘玻璃，壶金属色片、釉上线描烘彩、银染——非厚片玻璃镶嵌、非铜箔蒂芙尼、非窗具品名。",
+    "source": "hermes-explore",
+    "image": "styles/3009-leadlight.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2967",
+    "slug": "finlay-screen",
+    "name_en": "Finlay Screen",
+    "name_zh": "芬利彩屏",
+    "description_en": "Finlay Screen: additive color photography through a ruled RGB mosaic réseau on a panchromatic plate, lantern-slide grain — not Autochrome potato starch, not Krayn, not Dufaycolor.",
+    "description_zh": "芬利彩屏：在全色底片上叠规则红绿蓝马赛克滤屏的加色摄影，幻灯片颗粒——非奥托克罗姆淀粉粒、非克雷恩彩屏、非杜菲彩。",
+    "source": "hermes-explore",
+    "image": "styles/3010-finlay-screen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2968",
+    "slug": "dendritic-mocha",
+    "name_en": "Dendritic Mocha",
+    "name_zh": "树枝摩卡",
+    "description_en": "Dendritic Mocha: mocha-ware tea-acid dendrites blooming as fern trees in wet slip bands, lead-glazed earthenware — not neriage, not agateware, not marbling.",
+    "description_zh": "树枝摩卡：摩卡陶茶酸在湿化妆土条带中绽成蕨状树枝纹，铅釉陶器——非练上、非玛瑙陶、非大理石纹。",
+    "source": "hermes-explore",
+    "image": "styles/3011-dendritic-mocha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2969",
+    "slug": "benton-hologram",
+    "name_en": "Benton Hologram",
+    "name_zh": "本顿全息",
+    "description_en": "Benton Hologram: white-light rainbow hologram with horizontal spectral bands, laser speckle, slit-aperture reconstruction — not Denisyuk volume hologram, not anaglyph, not a rainbow filter.",
+    "description_zh": "本顿全息：白光彩虹全息，水平光谱带、激光散斑、狭缝重建——非杰尼修克体积全息、非红蓝立体、非彩虹滤镜。",
+    "source": "hermes-explore",
+    "image": "styles/3012-benton-hologram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2970",
+    "slug": "goma-ash",
+    "name_en": "Goma Ash",
+    "name_zh": "芝麻灰釉",
+    "description_en": "Goma Ash: Bizen-type sesame fly-ash speckling on high-fired stoneware, pine-ash toast and fire-flash — not tenmoku oil-spot, not celadon, not oribe.",
+    "description_zh": "芝麻灰釉：备前系高火炻器上的飞灰芝麻点、松灰焦斑与火色——非油滴天目、非青瓷、非织部。",
+    "source": "hermes-explore",
+    "image": "styles/3013-goma-ash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

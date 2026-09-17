@@ -8319,6 +8319,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3008, PNG count 3008. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 594 (exactly 5, h2966–h2970)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                             |
+|-------|------------------|-------------|-----------------------------------|
+| h2966 | Leadlight        | 铅条镶嵌    | styles/3009-leadlight.png         |
+| h2967 | Finlay Screen    | 芬利彩屏    | styles/3010-finlay-screen.png     |
+| h2968 | Dendritic Mocha  | 树枝摩卡    | styles/3011-dendritic-mocha.png   |
+| h2969 | Benton Hologram  | 本顿全息    | styles/3012-benton-hologram.png   |
+| h2970 | Goma Ash         | 芝麻灰釉    | styles/3013-goma-ash.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3013, PNG count 3013. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
