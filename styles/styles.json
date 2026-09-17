@@ -39492,5 +39492,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2996",
+    "slug": "fenicio",
+    "name_en": "Fenicio",
+    "name_zh": "梳纹套色玻",
+    "description_en": "Vetro fenicio: combed molten trails of opaque white, amber, and cobalt dragged through cristallo, festooned S-curves, marver stretch.",
+    "description_zh": "梳纹套色玻：乳白、琥珀与钴蓝熔丝拖入水晶玻，花彩S弯与滚台拉伸纹。",
+    "source": "hermes-explore",
+    "image": "styles/3039-fenicio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2997",
+    "slug": "ring-mottle",
+    "name_en": "Ring Mottle",
+    "name_zh": "环斑玻璃",
+    "description_en": "Opalescent ring-mottle sheet: circular bullseye mottles in cream, rose, and sage, rolled-glass seeds, through-light opal.",
+    "description_zh": "环斑玻璃：乳白、玫粉与鼠尾草环状斑，辊压籽泡与透光乳浊。",
+    "source": "hermes-explore",
+    "image": "styles/3040-ring-mottle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2998",
+    "slug": "pomona-glass",
+    "name_en": "Pomona Glass",
+    "name_zh": "波莫纳酸蚀玻",
+    "description_en": "Pomona glass: light acid-etched frost on amber-gold, cornflower stain, satin bite vs polished highlight, thin Victorian art glass.",
+    "description_zh": "波莫纳酸蚀玻：琥珀金浅酸霜、矢车菊渍染、缎面咬蚀对抛光高光。",
+    "source": "hermes-explore",
+    "image": "styles/3041-pomona-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2999",
+    "slug": "yokogasuri",
+    "name_en": "Yokogasuri",
+    "name_zh": "纬絣",
+    "description_en": "Weft ikat (yokogasuri): pattern carried in the weft, kasuri nizimi blur, indigo-white dashes, visible warp ribs, handloom cotton slub.",
+    "description_zh": "纬絣：纹样走纬、絣晕渗、蓝白错位短划、经肋可见与手织棉节。",
+    "source": "hermes-explore",
+    "image": "styles/3042-yokogasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3000",
+    "slug": "royal-flemish",
+    "name_en": "Royal Flemish",
+    "name_zh": "佛兰芒皇家玻",
+    "description_en": "Royal Flemish: raised gold-enamel cords, stained ruby-amber-emerald panels on satin glass, Renaissance-revival gilded paste.",
+    "description_zh": "佛兰芒皇家玻：凸金珐琅线、宝石红琥珀翠绿渍彩覆缎面玻、文艺复兴贴金膏。",
+    "source": "hermes-explore",
+    "image": "styles/3043-royal-flemish.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

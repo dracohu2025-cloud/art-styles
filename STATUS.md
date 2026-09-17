@@ -8403,6 +8403,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3038, PNG count 3038. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 600 (exactly 5, h2996–h3000)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh         | image                          |
+|-------|---------------|-----------------|--------------------------------|
+| h2996 | Fenicio       | 梳纹套色玻      | styles/3039-fenicio.png        |
+| h2997 | Ring Mottle   | 环斑玻璃        | styles/3040-ring-mottle.png    |
+| h2998 | Pomona Glass  | 波莫纳酸蚀玻    | styles/3041-pomona-glass.png   |
+| h2999 | Yokogasuri    | 纬絣            | styles/3042-yokogasuri.png     |
+| h3000 | Royal Flemish | 佛兰芒皇家玻    | styles/3043-royal-flemish.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3043, PNG count 3043. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
