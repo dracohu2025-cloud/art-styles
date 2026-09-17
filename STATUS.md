@@ -8333,6 +8333,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3013, PNG count 3013. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 595 (exactly 5, h2971–h2975)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh           | image                            |
+|-------|-----------------|-------------------|----------------------------------|
+| h2971 | Cypriote Glass  | 塞浦路斯锈斑玻璃  | styles/3014-cypriote-glass.png   |
+| h2972 | Utocolor        | 乌托彩色          | styles/3015-utocolor.png         |
+| h2973 | Tessha          | 铁砂釉            | styles/3016-tessha.png           |
+| h2974 | Abbozzo         | 粗塑底色          | styles/3017-abbozzo.png          |
+| h2975 | Unofu           | 云铺釉            | styles/3018-unofu.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3018, PNG count 3018. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -39167,5 +39167,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2971",
+    "slug": "cypriote-glass",
+    "name_en": "Cypriote Glass",
+    "name_zh": "塞浦路斯锈斑玻璃",
+    "description_en": "Cypriote Glass: Tiffany-studio pitted iridescent glass like excavated ancient ware — cratered luster, peacock-gold and oil-slick blues, not smooth Favrile, not carnival glass, not aurene.",
+    "description_zh": "塞浦路斯锈斑玻璃：蒂芙尼工房式坑蚀虹彩玻璃，如出土古器——凹坑光泽、孔雀金与油膜蓝，非光滑法夫莱、非嘉年华玻璃、非奥伦。",
+    "source": "hermes-explore",
+    "image": "styles/3014-cypriote-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2972",
+    "slug": "utocolor",
+    "name_en": "Utocolor",
+    "name_zh": "乌托彩色",
+    "description_en": "Utocolor: early bleach-out color photographic paper — layered dye bleaching by light, soft coupler pastels and slight color fringing, not autochrome, not dye transfer, not cibachrome.",
+    "description_zh": "乌托彩色：早期漂白式彩色相纸——光线漂白多层染料、柔和偶合粉彩与轻微色边，非奥托克罗姆、非染料转印、非西巴铬。",
+    "source": "hermes-explore",
+    "image": "styles/3015-utocolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2973",
+    "slug": "tessha",
+    "name_en": "Tessha",
+    "name_zh": "铁砂釉",
+    "description_en": "Tessha: iron-sand high-fire glaze — rust-to-gunmetal metallic bloom and iron crystals, not tenmoku oil-spot, not yohen, not goma ash.",
+    "description_zh": "铁砂釉：高铁砂高火釉——锈色至枪金属光泽与铁晶析出，非油滴天目、非曜变、非芝麻灰。",
+    "source": "hermes-explore",
+    "image": "styles/3016-tessha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2974",
+    "slug": "abbozzo",
+    "name_en": "Abbozzo",
+    "name_zh": "粗塑底色",
+    "description_en": "Abbozzo: Italian blocked-in underpainting — broad umber and terre-verte masses, unfinished modeling and pentimenti, not grisaille, not polished ébauche, not verdaccio-only.",
+    "description_zh": "粗塑底色：意大利大块铺色底稿——阔笔棕土与绿土体块、未完成塑形与修改痕迹，非灰色单色、非精修铺色、非单纯绿土。",
+    "source": "hermes-explore",
+    "image": "styles/3017-abbozzo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2975",
+    "slug": "unofu",
+    "name_en": "Unofu",
+    "name_zh": "云铺釉",
+    "description_en": "Unofu: milky feldspar Shino that crawls into cloud islands — pinholes and orange-red clay in the crawls, not Nezumi-shino, not E-shino painting, not kohiki slip.",
+    "description_zh": "云铺釉：乳白长石志野缩釉成云岛——缩釉处针孔与橙红胎土外露，非鼠志野、非绘志野、非粉引。",
+    "source": "hermes-explore",
+    "image": "styles/3018-unofu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
