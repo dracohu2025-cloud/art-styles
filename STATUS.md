@@ -8571,6 +8571,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3098, PNG count 3098. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 612 (exactly 5, h3056–h3060)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                          |
+|-------|---------------|-------------|--------------------------------|
+| h3056 | Akahada       | 赤膚焼      | styles/3099-akahada.png        |
+| h3057 | Luanbai       | 卵白釉      | styles/3100-luanbai.png        |
+| h3058 | Uvatype       | 乌瓦染印    | styles/3101-uvatype.png        |
+| h3059 | Moraq         | 嵌纸拼花    | styles/3102-moraq.png          |
+| h3060 | Sekka-shibori | 雪花絞      | styles/3103-sekka-shibori.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3103, PNG count 3103. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -40272,5 +40272,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3056",
+    "slug": "akahada",
+    "name_en": "Akahada",
+    "name_zh": "赤膚焼",
+    "description_en": "Akahada: Nara reddish stoneware with thin white slip, iron-brown brush drawing, sandy grog and kiln blush; not Bizen scorch, not Raku black, not Oribe green, not porcelain.",
+    "description_zh": "赤膚焼：奈良赤土、薄白化妆土、铁绘、砂粒与窑晕；非备前焦痕、乐烧黑釉、织部绿或瓷器。",
+    "source": "hermes-explore",
+    "image": "styles/3099-akahada.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3057",
+    "slug": "luanbai",
+    "name_en": "Luanbai",
+    "name_zh": "卵白釉",
+    "description_en": "Luanbai: Yuan egg-white glaze, opaque milky bluish-ivory, satiny low gloss and pooled thickness; not celadon, not Qingbai, not blanc-de-chine, not blue-and-white.",
+    "description_zh": "卵白釉：元代卵白、乳浊青白、缎面低光与积釉厚度；非青瓷、青白釉、德化白或青花。",
+    "source": "hermes-explore",
+    "image": "styles/3100-luanbai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3058",
+    "slug": "uvatype",
+    "name_en": "Uvatype",
+    "name_zh": "乌瓦染印",
+    "description_en": "Uvatype: early dye-imbibition assembly print with gelatin relief dyes, matte continuous tone and velvety shadows; not Autochrome grain, not halftone, not inkjet.",
+    "description_zh": "乌瓦染印：早期染料吸印、明胶浮雕色层、哑光连续调与丝绒暗部；非奥托克罗姆颗粒、网目或喷墨。",
+    "source": "hermes-explore",
+    "image": "styles/3101-uvatype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3059",
+    "slug": "moraq",
+    "name_en": "Moraq",
+    "name_zh": "嵌纸拼花",
+    "description_en": "Moraq: Persian muarraq inlaid-paper mosaic, knife-cut tesserae flush-fitted with no painted blend; not stained glass, not pietra dura, not torn-paper collage.",
+    "description_zh": "嵌纸拼花：波斯嵌纸、刀裁色纸严丝嵌合、无晕染笔触；非彩绘玻璃、硬石镶嵌或撕纸拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/3102-moraq.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3060",
+    "slug": "sekka-shibori",
+    "name_en": "Sekka-shibori",
+    "name_zh": "雪花絞",
+    "description_en": "Sekka-shibori: snowflake clamp-resist dyeing, radiating hexagonal white stars, crisp fold planes and capillary dye bleed; not kanoko dots, not arashi poles, not batik crackle.",
+    "description_zh": "雪花絞：夹染雪花、放射六出白星、折面与毛细渗色；非鹿子点、岚絞斜纹或蜡染裂纹。",
+    "source": "hermes-explore",
+    "image": "styles/3103-sekka-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
