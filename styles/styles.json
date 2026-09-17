@@ -39232,5 +39232,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2976",
+    "slug": "sumi-hajiki",
+    "name_en": "Sumi-hajiki",
+    "name_zh": "墨弹饰",
+    "description_en": "Porcelain ink-resist: carbon sumi burns out in the kiln, leaving sharp white reserved strokes and spatters through underglaze cobalt.",
+    "description_zh": "瓷器墨拒技法：墨线在窑中烧尽，于青花钴料中留下锐利的留白笔触与飞白。",
+    "source": "hermes-explore",
+    "image": "styles/3019-sumi-hajiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2977",
+    "slug": "adai-zuri",
+    "name_en": "Adai-zuri",
+    "name_zh": "叠摺",
+    "description_en": "Ukiyo-e overprinting: successive color blocks stacked on the same area for dense, slightly misregistered, baren-grained piled hue.",
+    "description_zh": "浮世绘叠色摺：多色版叠印同一区域，形成浓密、微错位、带马莲纹理的堆积色层。",
+    "source": "hermes-explore",
+    "image": "styles/3020-adai-zuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2978",
+    "slug": "air-twist",
+    "name_en": "Air-twist",
+    "name_zh": "气拧纹",
+    "description_en": "Georgian glass with helical air filaments corkscrew through the form, refractive lead-crystal threads instead of opaque color.",
+    "description_zh": "乔治时期玻璃气拧纹：螺旋空气丝贯穿器形，以折射铅晶丝取代不透明设色。",
+    "source": "hermes-explore",
+    "image": "styles/3021-air-twist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2979",
+    "slug": "warner-powrie",
+    "name_en": "Warner-Powrie",
+    "name_zh": "沃纳鲍里网屏",
+    "description_en": "Early additive color photography using a ruled RGB line screen; color is mixed by fine parallel rulings, not mosaic patches.",
+    "description_zh": "早期加色法摄影：以红绿蓝线状网屏显色，色彩来自平行线纹而非马赛克色点。",
+    "source": "hermes-explore",
+    "image": "styles/3022-warner-powrie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2980",
+    "slug": "fajalauza",
+    "name_en": "Fajalauza",
+    "name_zh": "法哈劳萨彩陶",
+    "description_en": "Granada tin-glazed folk earthenware: milky white tin ground with bold cobalt, copper-green, and manganese-brown brushwork.",
+    "description_zh": "格拉纳达锡釉民窑：乳白锡白地，钴蓝、铜绿与锰褐大胆写意绘饰。",
+    "source": "hermes-explore",
+    "image": "styles/3023-fajalauza.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

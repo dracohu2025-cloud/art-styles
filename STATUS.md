@@ -8347,6 +8347,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3018, PNG count 3018. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 596 (exactly 5, h2976–h2980)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                           |
+|-------|----------------|-----------------|---------------------------------|
+| h2976 | Sumi-hajiki    | 墨弹饰          | styles/3019-sumi-hajiki.png     |
+| h2977 | Adai-zuri      | 叠摺            | styles/3020-adai-zuri.png       |
+| h2978 | Air-twist      | 气拧纹          | styles/3021-air-twist.png       |
+| h2979 | Warner-Powrie  | 沃纳鲍里网屏    | styles/3022-warner-powrie.png   |
+| h2980 | Fajalauza      | 法哈劳萨彩陶    | styles/3023-fajalauza.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3023, PNG count 3023. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
