@@ -40142,5 +40142,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3046",
+    "slug": "aka-oribe",
+    "name_en": "Aka-Oribe",
+    "name_zh": "赤織部",
+    "description_en": "Aka-Oribe: Mino red Oribe ceramic — white slip, iron-red underglaze drawing, copper-green glaze lakes; not Kuro-Oribe black, not Ki-Seto yellow, not porcelain enamel.",
+    "description_zh": "赤織部：美浓赤织部陶，白化妆土、铁赤下绘、铜绿积釉；非黑织部、黄濑户或色绘瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3089-aka-oribe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3047",
+    "slug": "oshie",
+    "name_en": "Oshie",
+    "name_zh": "押絵",
+    "description_en": "Oshie: padded silk collage — stuffed brocade and chirimen relief, couched gold edges; not flat embroidery, not ukiyo-e, not painting.",
+    "description_zh": "押絵：填充织锦与绉绸浮雕贴画、盘金边；非平面刺绣、浮世绘或绘画。",
+    "source": "hermes-explore",
+    "image": "styles/3090-oshie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3048",
+    "slug": "bromoil-transfer",
+    "name_en": "Bromoil Transfer",
+    "name_zh": "溴油转印",
+    "description_en": "Bromoil transfer: bleached bromide inked with greasy pigment and offset onto rag paper — warm grain, painterly smear; not gelatin-silver, not charcoal, not oil painting.",
+    "description_zh": "溴油转印：漂白溴素纸着脂性颜料再转印到棉纸，暖调颗粒与涂抹；非明胶银盐、木炭或油画。",
+    "source": "hermes-explore",
+    "image": "styles/3091-bromoil-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3049",
+    "slug": "tsukibori",
+    "name_en": "Tsukibori",
+    "name_zh": "突彫",
+    "description_en": "Tsukibori: Ise katagami punch-carving — kakishibu-stained mulberry, dense punched holes and crescents; not kirigami silhouette, not lace fabric, not laser cut.",
+    "description_zh": "突彫：伊势型纸穿孔雕，柿涩染楮纸上密点与月牙孔；非剪纸剪影、蕾丝或激光切割。",
+    "source": "hermes-explore",
+    "image": "styles/3092-tsukibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3050",
+    "slug": "jigsaw-print",
+    "name_en": "Jigsaw Print",
+    "name_zh": "拼版套色木刻",
+    "description_en": "Jigsaw print: woodblock sawn into color islands, each inked and printed with uninked kerf gaps and wood grain; not cardboard puzzle, not white-line woodcut, not reduction linocut.",
+    "description_zh": "拼版套色木刻：木版锯成色块分别着墨，锯缝留白与木纹；非纸质拼图、白线木刻或减版麻胶版。",
+    "source": "hermes-explore",
+    "image": "styles/3093-jigsaw-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

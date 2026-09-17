@@ -8543,6 +8543,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3088, PNG count 3088. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 610 (exactly 5, h3046–h3050)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh        | image                              |
+|-------|-------------------|----------------|------------------------------------|
+| h3046 | Aka-Oribe         | 赤織部         | styles/3089-aka-oribe.png          |
+| h3047 | Oshie             | 押絵           | styles/3090-oshie.png              |
+| h3048 | Bromoil Transfer  | 溴油转印       | styles/3091-bromoil-transfer.png   |
+| h3049 | Tsukibori         | 突彫           | styles/3092-tsukibori.png          |
+| h3050 | Jigsaw Print      | 拼版套色木刻   | styles/3093-jigsaw-print.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3093, PNG count 3093. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
+
 ## Verified
 
 - Catalog length and PNG count match
