@@ -8431,6 +8431,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3048, PNG count 3048. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 602 (exactly 5, h3006–h3010)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                           |
+|-------|----------------|-------------|---------------------------------|
+| h3006 | Adire Alabere  | 针缝防染    | styles/3049-adire-alabere.png   |
+| h3007 | Batik Tulis    | 手绘蜡防    | styles/3050-batik-tulis.png     |
+| h3008 | Gelgit         | 往复水拓    | styles/3051-gelgit.png          |
+| h3009 | Strié          | 拖纹罩釉    | styles/3052-strie.png           |
+| h3010 | Happo Bokashi  | 八方晕摺    | styles/3053-happo-bokashi.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3053, PNG count 3053. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

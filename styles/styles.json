@@ -39622,5 +39622,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3006",
+    "slug": "adire-alabere",
+    "name_en": "Adire Alabere",
+    "name_zh": "针缝防染",
+    "description_en": "Adire alabere: Yoruba stitch-resist indigo; raffia sewn, gathered, dyed, then pulled to leave dashed pale tracks on deep blue cloth.",
+    "description_zh": "针缝防染：约鲁巴缝绞靛蓝，raffia缝抽入染后再拆线，深蓝布上留下虚线浅痕。",
+    "source": "hermes-explore",
+    "image": "styles/3049-adire-alabere.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3007",
+    "slug": "batik-tulis",
+    "name_en": "Batik Tulis",
+    "name_zh": "手绘蜡防",
+    "description_en": "Batik tulis: Javanese hand-drawn canting wax resist, hairline wax trails, isen fillers, remukan crackle, soga-indigo-cream dyes, no stamped tjap tiles.",
+    "description_zh": "手绘蜡防：爪哇canting手绘蜡线、isen填纹、蜡裂、娑迦棕与靛蓝层染，非铜戳tjaps。",
+    "source": "hermes-explore",
+    "image": "styles/3050-batik-tulis.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3008",
+    "slug": "gelgit",
+    "name_en": "Gelgit",
+    "name_zh": "往复水拓",
+    "description_en": "Gelgit ebru: comb drawn back and forth through a battal spotted size bath, undulating parallel waves of oxgall-separated mineral color on paper.",
+    "description_zh": "往复水拓：在battal点染水面上来回梳拉，形成起伏平行波纹，矿物色借牛胆分离后拓纸。",
+    "source": "hermes-explore",
+    "image": "styles/3051-gelgit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3009",
+    "slug": "strie",
+    "name_en": "Strié",
+    "name_zh": "拖纹罩釉",
+    "description_en": "Strié: decorative dragged-glaze finish; long parallel brush furrows through translucent glaze, undercolor in the tracks, silk-like linear sheen, not faux bois.",
+    "description_zh": "拖纹罩釉：半透明釉上长向拖刷，底色从细沟露出，丝状条纹光泽，非仿木纹。",
+    "source": "hermes-explore",
+    "image": "styles/3052-strie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3010",
+    "slug": "happo-bokashi",
+    "name_en": "Happo Bokashi",
+    "name_zh": "八方晕摺",
+    "description_en": "Happo bokashi: woodblock gradation from all directions, pigment faded inward from every edge, overlapping nishiki-e color blooms, not a single ichimonji band.",
+    "description_zh": "八方晕摺：木版从四周向内晕染，锦绘色云交叠，非单一文字地平条带。",
+    "source": "hermes-explore",
+    "image": "styles/3053-happo-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
