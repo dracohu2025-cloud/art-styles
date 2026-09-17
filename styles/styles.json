@@ -39817,5 +39817,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3021",
+    "slug": "brokatdruck",
+    "name_en": "Brokatdruck",
+    "name_zh": "压金锦纸",
+    "description_en": "Brokatdruck: 18th-century German pressed gilt brocade paper — stamped gold and silver leaf arabesques on colored ground, plate-crush and dotted metal powder, not woven songket, not oil gilding, not honey-gilding on porcelain.",
+    "description_zh": "压金锦纸：十八世纪德语区压印织金纸，色地上压金银箔卷草与金属粉点，非织锦、油金或瓷上蜜胶贴金。",
+    "source": "hermes-explore",
+    "image": "styles/3064-brokatdruck.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3022",
+    "slug": "merletto",
+    "name_en": "Merletto",
+    "name_zh": "蕾丝玻璃",
+    "description_en": "Merletto: Venetian lace glass — milky filigree canes fused into cristallo as needle-fine nets and air beads, not bobbin-lace textile, not millefiori, not plain filigrana canes.",
+    "description_zh": "蕾丝玻璃：威尼斯蕾丝玻，乳白绞丝熔入水晶玻成细网与气泡，非梭结蕾丝、千花或单纯线纹玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3065-merletto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3023",
+    "slug": "pen-process-lithography",
+    "name_en": "Pen-process Lithography",
+    "name_zh": "钢笔石印",
+    "description_en": "Pen-process lithography: greasy autographic steel-pen drawing on limestone printed to paper, stone grain and greasy blacks, not crayon-manner stipple, not etching burr, not offset halftone.",
+    "description_zh": "钢笔石印：油性钢笔直接画于石版再印纸，石纹与油墨晕，非粉笔凹版点刻、铜版毛刺或胶印网点。",
+    "source": "hermes-explore",
+    "image": "styles/3066-pen-process-lithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3024",
+    "slug": "ao-kutani",
+    "name_en": "Ao-Kutani",
+    "name_zh": "青九谷",
+    "description_en": "Ao-Kutani: green-dominant Kutani overglaze enamel on porcelain — copper-green fields, ink outlines, spare red-gold, pooled vitreous glaze, not ko-kutani brocade polychrome, not Yoshidaya, not underglaze sometsuke.",
+    "description_zh": "青九谷：以铜绿釉上彩为主的九谷，墨线与少量红金，釉边积釉，非古九谷五彩、吉田屋或青花釉下。",
+    "source": "hermes-explore",
+    "image": "styles/3067-ao-kutani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3025",
+    "slug": "arista",
+    "name_en": "Arista",
+    "name_zh": "凸棱填釉",
+    "description_en": "Arista: Spanish cuenca-y-arista tile — thin raised clay ridges fencing pooled tin glazes, meniscus at the arista, not cuerda seca grease lines, not zellige mosaic, not sunken-only cuenca.",
+    "description_zh": "凸棱填釉：西班牙凸棱彩釉砖，薄泥棱圈住积釉锡釉，棱边弯月面，非干绳隔线、泽利格镶嵌或纯凹陷填釉。",
+    "source": "hermes-explore",
+    "image": "styles/3068-arista.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

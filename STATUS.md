@@ -8473,6 +8473,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3063, PNG count 3063. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 605 (exactly 5, h3021–h3025)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                   | name_zh    | image                                      |
+|-------|---------------------------|------------|--------------------------------------------|
+| h3021 | Brokatdruck               | 压金锦纸   | styles/3064-brokatdruck.png                |
+| h3022 | Merletto                  | 蕾丝玻璃   | styles/3065-merletto.png                   |
+| h3023 | Pen-process Lithography   | 钢笔石印   | styles/3066-pen-process-lithography.png    |
+| h3024 | Ao-Kutani                 | 青九谷     | styles/3067-ao-kutani.png                  |
+| h3025 | Arista                    | 凸棱填釉   | styles/3068-arista.png                     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3068, PNG count 3068. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
