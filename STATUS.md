@@ -8361,6 +8361,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3023, PNG count 3023. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 597 (exactly 5, h2981–h2985)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                              |
+|-------|-------------------|-------------|------------------------------------|
+| h2981 | Chryselephantine  | 金象牙      | styles/3024-chryselephantine.png   |
+| h2982 | Aka-raku          | 赤乐        | styles/3025-aka-raku.png           |
+| h2983 | Truité            | 鳟鱼开片    | styles/3026-truite.png             |
+| h2984 | Mezza Filigrana   | 半丝绵      | styles/3027-mezza-filigrana.png    |
+| h2985 | Kabinettscheibe   | 橱窗玻绘    | styles/3028-kabinettscheibe.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3028, PNG count 3028. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -39297,5 +39297,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2981",
+    "slug": "chryselephantine",
+    "name_en": "Chryselephantine",
+    "name_zh": "金象牙",
+    "description_en": "Gold-and-ivory overlay: polished ivory flesh plaques joined at hairline seams, with hammered gold leaf for hair and drapery.",
+    "description_zh": "金象牙技法：肌肤作抛光象牙片，接缝细如发丝，发饰与衣褶为锤揲金箔。",
+    "source": "hermes-explore",
+    "image": "styles/3024-chryselephantine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2982",
+    "slug": "aka-raku",
+    "name_en": "Aka-raku",
+    "name_zh": "赤乐",
+    "description_en": "Red raku glaze: persimmon-to-cinnabar fields, pinholes, fine crackle, sooty kiln kiss, and dry clay lips.",
+    "description_zh": "赤乐釉：柿红至朱红釉面，针孔、细开片、窑烟吻痕与干涩土口。",
+    "source": "hermes-explore",
+    "image": "styles/3025-aka-raku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2983",
+    "slug": "truite",
+    "name_en": "Truité",
+    "name_zh": "鳟鱼开片",
+    "description_en": "Fish-scale crackle glaze: dense silvery trout-skin network over pale celadon-cream porcelain, not bold black craquelure.",
+    "description_zh": "鳟鱼开片：浅青白瓷上密布银灰色鳞状细纹，如鳟鱼皮，而非粗黑开片。",
+    "source": "hermes-explore",
+    "image": "styles/3026-truite.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2984",
+    "slug": "mezza-filigrana",
+    "name_en": "Mezza Filigrana",
+    "name_zh": "半丝绵",
+    "description_en": "Venetian half-filigree glass: white lattimo cane threads trapped in clear cristallo as combed half-cane stripes.",
+    "description_zh": "威尼斯半丝绵玻璃：乳白拉蒂莫玻璃丝嵌于透明水晶料，梳成半条纹细线。",
+    "source": "hermes-explore",
+    "image": "styles/3027-mezza-filigrana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2985",
+    "slug": "kabinettscheibe",
+    "name_en": "Kabinettscheibe",
+    "name_zh": "橱窗玻绘",
+    "description_en": "Swiss/German cabinet stained-glass painting: black enamel tracing, silver-stain yellows, and jewel enamel in small pane fields.",
+    "description_zh": "瑞士德式橱窗玻绘：黑珐琅勾线、银染黄与小幅宝石色珐琅填彩。",
+    "source": "hermes-explore",
+    "image": "styles/3028-kabinettscheibe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
