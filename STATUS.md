@@ -8445,6 +8445,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3053, PNG count 3053. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 603 (exactly 5, h3011–h3015)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh         | image                             |
+|-------|------------------|-----------------|-----------------------------------|
+| h3011 | Wrythen Glass    | 扭棱玻璃        | styles/3054-wrythen-glass.png     |
+| h3012 | Noribokashi      | 糊晕            | styles/3055-noribokashi.png       |
+| h3013 | Heliozincography | 锌版照相平印    | styles/3056-heliozincography.png  |
+| h3014 | Hitta Shibori    | 匹田绞          | styles/3057-hitta-shibori.png     |
+| h3015 | Fritware         | 石英胎          | styles/3058-fritware.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3058, PNG count 3058. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

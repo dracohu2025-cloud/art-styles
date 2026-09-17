@@ -39687,5 +39687,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3011",
+    "slug": "wrythen-glass",
+    "name_en": "Wrythen Glass",
+    "name_zh": "扭棱玻璃",
+    "description_en": "Wrythen glass: hot gather twisted on the blowpipe so optic ribs spiral; helical fluting, internal distortion, caustic bands through soda-lime walls, not cut crystal.",
+    "description_zh": "扭棱玻璃：吹杆上扭转料泡使棱线螺旋，光学肋与内折射光带，非切割水晶。",
+    "source": "hermes-explore",
+    "image": "styles/3054-wrythen-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3012",
+    "slug": "noribokashi",
+    "name_en": "Noribokashi",
+    "name_zh": "糊晕",
+    "description_en": "Noribokashi: yūzen rice-paste resist with graduated dye fades that stop at paste edges; overlapping silk color blooms and itome-nori hairlines, not woodblock happo bokashi.",
+    "description_zh": "糊晕：友禅防染糊边界内的染料晕染，色云交叠与糸目糊细线，非木版八方晕摺。",
+    "source": "hermes-explore",
+    "image": "styles/3055-noribokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3013",
+    "slug": "heliozincography",
+    "name_en": "Heliozincography",
+    "name_zh": "锌版照相平印",
+    "description_en": "Heliozincography: 19th-century photomechanical zinc lithography; autographic crayon grain fused with halftone on zinc-gray plate tone, greasy process blacks, not intaglio photogravure.",
+    "description_zh": "锌版照相平印：十九世纪锌版照相平版，蜡笔颗粒与网目叠合于锌灰底，油墨平印而非凹版照相凹印。",
+    "source": "hermes-explore",
+    "image": "styles/3056-heliozincography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3014",
+    "slug": "hitta-shibori",
+    "name_en": "Hitta Shibori",
+    "name_zh": "匹田绞",
+    "description_en": "Hitta shibori: thousands of tiny bound-dot resists making even micro rings on indigo silk; dense dotted fields and residual puckering, not printed polka dots or large kumo binds.",
+    "description_zh": "匹田绞：细密绑点防染形成均匀微环，靛蓝绸上密点与布面皱记，非印花圆点或大块蜘蛛绞。",
+    "source": "hermes-explore",
+    "image": "styles/3057-hitta-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3015",
+    "slug": "fritware",
+    "name_en": "Fritware",
+    "name_zh": "石英胎",
+    "description_en": "Fritware: Islamic stonepaste quartz-frit body with tin-opacified glaze; underglaze cobalt and turquoise, glassy pooling, fine black outline, not porcelain qinghua or earthenware faience.",
+    "description_zh": "石英胎：伊斯兰石浆石英胎与锡白釉，釉下钴蓝青绿、凹处玻化积釉与细黑线，非青花瓷或陶胎彩釉。",
+    "source": "hermes-explore",
+    "image": "styles/3058-fritware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
