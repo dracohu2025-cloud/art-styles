@@ -39947,5 +39947,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3031",
+    "slug": "cyclostyle",
+    "name_en": "Cyclostyle",
+    "name_zh": "蜡纸誊写",
+    "description_en": "Cyclostyle: Gestetner wax-stencil duplication — oily aniline violet-blue ink, broken stencil bridges, cream duplicating paper; not risograph, not hectograph gelatin, not mimeograph.",
+    "description_zh": "蜡纸誊写：盖斯特纳蜡纸滚印，油性苯胺紫蓝墨、未切桥点、乳色誊写纸；非孔版印刷、胶版誊写或油印。",
+    "source": "hermes-explore",
+    "image": "styles/3074-cyclostyle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3032",
+    "slug": "hakuboku",
+    "name_en": "Hakuboku",
+    "name_zh": "白墨",
+    "description_en": "Hakuboku: opaque mineral-white ink on dark dyed paper, dry-brush flying white inside the stroke; not silverpoint, not chalk on toned paper, not gouache.",
+    "description_zh": "白墨：深色染纸上的不透明矿物白墨，飞白枯笔；非银尖、色纸白垩或水粉。",
+    "source": "hermes-explore",
+    "image": "styles/3075-hakuboku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3033",
+    "slug": "incised-slip",
+    "name_en": "Incised Slip",
+    "name_zh": "刻化妆土",
+    "description_en": "Incised slip: colored liquid-clay coating cut through to the clay body in sharp lines — leather-hard slipware, not plaster sgraffito, not mishima inlay, not trailed slip.",
+    "description_zh": "刻化妆土：色浆覆胎再刻露胎土的锐线陶绘，非灰泥刮刻、三岛嵌或沥粉化妆土。",
+    "source": "hermes-explore",
+    "image": "styles/3076-incised-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3034",
+    "slug": "agata-glass",
+    "name_en": "Agata Glass",
+    "name_zh": "玛瑙酸蚀玻",
+    "description_en": "Agata glass: New England 1880s satin acid-finished glass with oil-spot peach-to-rose mottling; not peachblow, not amberina, not agateware ceramic, not stained-glass leading.",
+    "description_zh": "玛瑙酸蚀玻：1880年代新英格兰缎面酸蚀玻璃，油斑桃粉云纹；非桃吹玻、琥珀渐变玻、绞胎陶或彩绘铅条玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3077-agata-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3035",
+    "slug": "ravenna-glass",
+    "name_en": "Ravenna Glass",
+    "name_zh": "拉文纳嵌玻",
+    "description_en": "Ravenna glass: Orrefors inlaid colored tesserae fused under thick crystal, sandblasted contour; not wall mosaic, not millefiori cane, not pâte de verre.",
+    "description_zh": "拉文纳嵌玻：奥勒福斯式色片熔入厚水晶再喷砂轮廓，非墙面马赛克、千花棒或玻璃粉铸。",
+    "source": "hermes-explore",
+    "image": "styles/3078-ravenna-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

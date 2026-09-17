@@ -8501,6 +8501,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3073, PNG count 3073. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 607 (exactly 5, h3031–h3035)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                           |
+|-------|----------------|---------------|---------------------------------|
+| h3031 | Cyclostyle     | 蜡纸誊写      | styles/3074-cyclostyle.png      |
+| h3032 | Hakuboku       | 白墨          | styles/3075-hakuboku.png        |
+| h3033 | Incised Slip   | 刻化妆土      | styles/3076-incised-slip.png    |
+| h3034 | Agata Glass    | 玛瑙酸蚀玻    | styles/3077-agata-glass.png     |
+| h3035 | Ravenna Glass  | 拉文纳嵌玻    | styles/3078-ravenna-glass.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3078, PNG count 3078. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
