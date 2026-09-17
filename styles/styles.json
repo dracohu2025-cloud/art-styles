@@ -39882,5 +39882,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3026",
+    "slug": "drapery-glass",
+    "name_en": "Drapery Glass",
+    "name_zh": "褶皱玻璃",
+    "description_en": "Drapery glass: Tiffany folded opalescent sheet gathered like fabric — deep sculptural folds, roll striations, transmitted color, thin lead came as joints only, not painted drapery, not cathedral flat glass, not cameo overlay.",
+    "description_zh": "褶皱玻璃：蒂芙尼式褶皱乳浊玻璃，厚片如织物堆褶，滚压条纹与透光色，铅条仅作接缝，非绘制褶饰、平板教堂玻或浮雕套料。",
+    "source": "hermes-explore",
+    "image": "styles/3069-drapery-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3027",
+    "slug": "vitrigraph",
+    "name_en": "Vitrigraph",
+    "name_zh": "拉丝熔玻",
+    "description_en": "Vitrigraph: kiln-pulled molten glass drawn through a crucible into looping stringers that fuse and puddle — heat-stretch, trapped air, linear cane, not lampwork beads, not stained-glass leading, not Venetian filigrana.",
+    "description_zh": "拉丝熔玻：窑炉坩埚拉出熔玻细丝，盘绕熔接成熔潭与线纹，热拉伸与气泡，非灯工珠、镶嵌铅条或威尼斯线玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3070-vitrigraph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3028",
+    "slug": "awata",
+    "name_en": "Awata",
+    "name_zh": "粟田焼",
+    "description_en": "Awata: Kyoto cream-body ware with fine crackled clear glaze and painterly overglaze enamel plus restrained gold — export creamy crackle, not Kutani green fields, not Imari cobalt-red, not heavy Satsuma gilt.",
+    "description_zh": "粟田焼：京都乳白胎、细碎开片透明釉，上绘赤绿青与克制金彩，输出期奶色开片，非九谷绿田、伊万里青花矾红或厚金萨摩。",
+    "source": "hermes-explore",
+    "image": "styles/3071-awata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3029",
+    "slug": "duplex-printing",
+    "name_en": "Duplex Printing",
+    "name_zh": "双面套印",
+    "description_en": "Duplex printing: thin stock printed both sides so verso ink ghosts through the recto — two-impression overlap, slight misregister, show-through halo, letterpress squash, not CMYK photo, not simple duotone, not wet-on-wet offset rainbow.",
+    "description_zh": "双面套印：薄纸正反两印，背面油墨透出正面，双印叠色、微套准偏移与凸印涨墨，非四色照片、普通双色调或湿叠虹辊。",
+    "source": "hermes-explore",
+    "image": "styles/3072-duplex-printing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3030",
+    "slug": "pattern-bar",
+    "name_en": "Pattern Bar",
+    "name_zh": "花纹棒",
+    "description_en": "Pattern bar: kiln-fused stacked sheet glass cut into tiles whose cross-sections show chevrons and stripes — sliced bar geometry, not round Venetian murrine, not millefiori cane, not mosaic tesserae.",
+    "description_zh": "花纹棒：层叠色片窑熔成棒再切片，断面呈人字与条带几何，非威尼斯圆形马赛克玻璃、千花棒或马赛克镶嵌块。",
+    "source": "hermes-explore",
+    "image": "styles/3073-pattern-bar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

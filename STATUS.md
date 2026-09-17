@@ -8487,6 +8487,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3068, PNG count 3068. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 606 (exactly 5, h3026–h3030)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh    | image                            |
+|-------|-------------------|------------|----------------------------------|
+| h3026 | Drapery Glass     | 褶皱玻璃   | styles/3069-drapery-glass.png    |
+| h3027 | Vitrigraph        | 拉丝熔玻   | styles/3070-vitrigraph.png       |
+| h3028 | Awata             | 粟田焼     | styles/3071-awata.png            |
+| h3029 | Duplex Printing   | 双面套印   | styles/3072-duplex-printing.png  |
+| h3030 | Pattern Bar       | 花纹棒     | styles/3073-pattern-bar.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3073, PNG count 3073. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
