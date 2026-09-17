@@ -40207,5 +40207,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3051",
+    "slug": "minankari",
+    "name_en": "Minankari",
+    "name_zh": "米南卡里珐琅",
+    "description_en": "Minankari: Georgian cloisonné enamel, thin gold-wire cloisons filled with jewel-tone vitreous enamel and fired gloss; not jewelry-as-object, not painted faux-enamel, not Chinese cloisonné.",
+    "description_zh": "米南卡里珐琅：格鲁吉亚掐丝，金线隔出宝石色珐琅并烧出釉面光泽；非首饰静物、手绘仿珐琅或景泰蓝。",
+    "source": "hermes-explore",
+    "image": "styles/3094-minankari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3052",
+    "slug": "alabastrine",
+    "name_en": "Alabastrine",
+    "name_zh": "雪花石膏照相",
+    "description_en": "Alabastrine: 19th-century photographic print on a milk-white translucent alabaster-like ground, pearly inner glow and soft ivory midtones; not marble sculpture, not albumen, not orotone.",
+    "description_zh": "雪花石膏照相：十九世纪印于乳白半透明雪花石膏质地，珠光内透与象牙中间调；非大理石雕塑、蛋白印相或金胶照相。",
+    "source": "hermes-explore",
+    "image": "styles/3095-alabastrine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3053",
+    "slug": "tooled-gold",
+    "name_en": "Tooled Gold",
+    "name_zh": "压纹金地",
+    "description_en": "Tooled gold: water-gilded gold-leaf ground punched and tooled into diaper, stars, and dotted punches, burnished vs matte contrast; not foil stamp, not Klimt mosaic, not shell gold.",
+    "description_zh": "压纹金地：水贴金箔上凿压菱格、星纹与密点，抛光金与哑光凿纹对照；非烫金、克里姆特马赛克或泥金。",
+    "source": "hermes-explore",
+    "image": "styles/3096-tooled-gold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3054",
+    "slug": "bantam-work",
+    "name_en": "Bantam Work",
+    "name_zh": "班塔姆漆刻",
+    "description_en": "Bantam work: incised polychrome lacquer, black urushi cut through and filled with cinnabar, malachite, and ochre, Coromandel-like engraving; not furniture-as-object, not maki-e, not ordinary line drawing.",
+    "description_zh": "班塔姆漆刻：黑漆阴刻填入朱红、孔雀石绿与赭石，科罗曼德式刻线；非家具静物、莳绘或普通线描。",
+    "source": "hermes-explore",
+    "image": "styles/3097-bantam-work.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3055",
+    "slug": "optic-blown",
+    "name_en": "Optic-blown",
+    "name_zh": "棱模吹制玻璃",
+    "description_en": "Optic-blown: optic-mold blown glass with vertical ribs, thick transparent color, internal refraction and elongated caustics; not a glass-vase still life, not stained glass, not brilliant-cut crystal.",
+    "description_zh": "棱模吹制玻璃：棱模竖棱、厚透色料、内部折射与拉长焦散；非花瓶静物、彩绘玻璃或车刻水晶。",
+    "source": "hermes-explore",
+    "image": "styles/3098-optic-blown.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

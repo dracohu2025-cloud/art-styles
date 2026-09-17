@@ -8557,6 +8557,19 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3093, PNG count 3093. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 611 (exactly 5, h3051–h3055)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                         |
+|-------|--------------|-----------------|-------------------------------|
+| h3051 | Minankari    | 米南卡里珐琅    | styles/3094-minankari.png     |
+| h3052 | Alabastrine  | 雪花石膏照相    | styles/3095-alabastrine.png   |
+| h3053 | Tooled Gold  | 压纹金地        | styles/3096-tooled-gold.png   |
+| h3054 | Bantam Work  | 班塔姆漆刻      | styles/3097-bantam-work.png   |
+| h3055 | Optic-blown  | 棱模吹制玻璃    | styles/3098-optic-blown.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3098, PNG count 3098. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
 ## Verified
 
