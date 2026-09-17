@@ -8515,6 +8515,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3078, PNG count 3078. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 608 (exactly 5, h3036–h3040)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh        | image                            |
+|-------|-----------------|----------------|----------------------------------|
+| h3036 | Choji-yu        | 丁子釉         | styles/3079-choji-yu.png         |
+| h3037 | Chakin-de       | 茶巾手         | styles/3080-chakin-de.png        |
+| h3038 | Monsha          | 纹纱           | styles/3081-monsha.png           |
+| h3039 | Utrecht Velvet  | 乌得勒支绒     | styles/3082-utrecht-velvet.png   |
+| h3040 | Anthracotype    | 炭黑印相       | styles/3083-anthracotype.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3083, PNG count 3083. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

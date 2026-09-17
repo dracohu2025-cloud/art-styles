@@ -40012,5 +40012,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3036",
+    "slug": "choji-yu",
+    "name_en": "Choji-yu",
+    "name_zh": "丁子釉",
+    "description_en": "Choji-yu: Mino/Seto clove-ash glaze — translucent honey-amber wood ash with olive undertone, pooling and pinholes; not ki-seto mustard matte, not amberina glass, not tenmoku.",
+    "description_zh": "丁子釉：美浓濑户丁香灰釉，蜜琥珀透光带橄榄底、积釉与针孔；非黄濑户哑光、琥珀渐变玻或天目铁黑。",
+    "source": "hermes-explore",
+    "image": "styles/3079-choji-yu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3037",
+    "slug": "chakin-de",
+    "name_en": "Chakin-de",
+    "name_zh": "茶巾手",
+    "description_en": "Chakin-de: Kutani overglaze of solid iron-red aka-e ground with gold drawing like a tea cloth; not kinrande brocade bands, not red-only aka-e, not lacquer maki-e.",
+    "description_zh": "茶巾手：九谷铁赤满地再描金如茶巾；非金襴手带饰、纯赤绘或莳绘漆。",
+    "source": "hermes-explore",
+    "image": "styles/3080-chakin-de.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3038",
+    "slug": "monsha",
+    "name_en": "Monsha",
+    "name_zh": "纹纱",
+    "description_en": "Monsha: Japanese figured silk gauze — sheer sha weave with mon patterns in the gauze itself; not satin, not lace, not chiffon, not raschel knit.",
+    "description_zh": "纹纱：日本纹样纱罗，薄透经纬中织出纹样；非缎、蕾丝、雪纺或经编网。",
+    "source": "hermes-explore",
+    "image": "styles/3081-monsha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3039",
+    "slug": "utrecht-velvet",
+    "name_en": "Utrecht Velvet",
+    "name_zh": "乌得勒支绒",
+    "description_en": "Utrecht velvet: 17th–18th c. mohair pile, often embossed/sculpted baroque relief; not silk voided velvet, not Genoese velvet, not ciselé silk, not uncut velvet.",
+    "description_zh": "乌得勒支绒：十七至十八世纪马海毛绒，常压花浮雕；非割绒丝绒、热那亚丝绒、雕绒或未割绒。",
+    "source": "hermes-explore",
+    "image": "styles/3082-utrecht-velvet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3040",
+    "slug": "anthracotype",
+    "name_en": "Anthracotype",
+    "name_zh": "炭黑印相",
+    "description_en": "Anthracotype: 19th-c. carbon print in lampblack gelatin tissue — velvety matte blacks, slight relief, no silver grain; not charcoal drawing, not mezzotint, not albumen.",
+    "description_zh": "炭黑印相：十九世纪灯黑明胶碳印，绒面深黑微浮雕、无银盐颗粒；非炭笔、美柔汀或蛋白银印。",
+    "source": "hermes-explore",
+    "image": "styles/3083-anthracotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
