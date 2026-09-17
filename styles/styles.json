@@ -39037,5 +39037,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2961",
+    "slug": "bogolan",
+    "name_en": "Bogolan",
+    "name_zh": "博戈兰泥染",
+    "description_en": "Bogolan: Bògòlanfini fermented-mud resist on handwoven cotton — iron-black mud glyphs, ochre ground, kaolin reserves, comb and diamond motifs, cracked paste edges. Not batik wax, not adinkra stamps, not kuba raffia.",
+    "description_zh": "博戈兰泥染：马里发酵泥抗染手织棉——铁黑泥纹、赭地、高岭土留白、梳纹与菱形、泥浆开裂边。非蜡染、非阿丁克拉戳印、非库巴拉菲亚。",
+    "source": "hermes-explore",
+    "image": "styles/3004-bogolan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2962",
+    "slug": "bidri",
+    "name_en": "Bidri",
+    "name_zh": "比德里镶嵌",
+    "description_en": "Bidri: Bidriware zinc-copper alloy darkened to matte black with silver (and thin brass) inlay — jaali vines, poppy, bright metal line on oxidized ground. Not Toledo damascene, not niello, not zogan, not a vessel product shot.",
+    "description_zh": "比德里镶嵌：锌铜合金发黑地嵌银（及细黄铜）——贾利藤蔓、罂粟、氧化地上亮金属线。非托莱多大马士革嵌、非乌银、非象嵌、非器皿商品照。",
+    "source": "hermes-explore",
+    "image": "styles/3005-bidri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2963",
+    "slug": "yohen",
+    "name_en": "Yohen",
+    "name_zh": "曜变",
+    "description_en": "Yohen: yōhen tenmoku kiln-transmutation — iron-black Jian glaze, iridescent halo spots, nacre rings around oil-spot blooms, galaxy clustering. Not ordinary oil-spot, not hare’s-fur as the dominant look, not a tea-bowl product shot.",
+    "description_zh": "曜变：建盏天目窑变——铁黑釉、虹彩晕斑、油滴外珠光环、星团状聚斑。非普通油滴、非以兔毫为主、非茶碗商品照。",
+    "source": "hermes-explore",
+    "image": "styles/3006-yohen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2964",
+    "slug": "gringsing",
+    "name_en": "Gringsing",
+    "name_zh": "格陵星絣",
+    "description_en": "Gringsing: Tenganan double ikat — rust, cream, and indigo-black, feathered motif edges, wayang and lozenge grids on handspun cotton. Not patola, not pochampally, not endek, not batik.",
+    "description_zh": "格陵星絣：腾加南双经纬絣——锈红、乳白与靛黑，纹边羽化，瓦扬与菱格于手纺棉。非帕托拉、非波昌帕利、非恩德克、非蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/3007-gringsing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2965",
+    "slug": "alencon",
+    "name_en": "Alençon",
+    "name_zh": "阿朗松蕾丝",
+    "description_en": "Alençon: Point d'Alençon needle lace — hexagonal réseau, raised cordonnet, modes fillings, picots, ivory linen openwork. Not Chantilly, not guipure, not Shetland knitted lace, not a fashion-garment title.",
+    "description_zh": "阿朗松蕾丝：阿朗松针绣——六角网地、凸起轮廓线、填花、齿边、象牙亚麻镂空。非尚蒂伊、非吉普尔、非设得兰编织蕾丝、非时装品名。",
+    "source": "hermes-explore",
+    "image": "styles/3008-alencon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

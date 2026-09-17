@@ -8305,6 +8305,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3003, PNG count 3003. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 593 (exactly 5, h2961–h2965)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en   | name_zh       | image                       |
+|-------|-----------|---------------|-----------------------------|
+| h2961 | Bogolan   | 博戈兰泥染    | styles/3004-bogolan.png     |
+| h2962 | Bidri     | 比德里镶嵌    | styles/3005-bidri.png       |
+| h2963 | Yohen     | 曜变          | styles/3006-yohen.png       |
+| h2964 | Gringsing | 格陵星絣      | styles/3007-gringsing.png   |
+| h2965 | Alençon   | 阿朗松蕾丝    | styles/3008-alencon.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3008, PNG count 3008. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
