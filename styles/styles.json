@@ -39427,5 +39427,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2991",
+    "slug": "vectograph",
+    "name_en": "Vectograph",
+    "name_zh": "偏振立体印",
+    "description_en": "Polaroid vectograph: dual offset views laminated in polarizing sheets, silvery gelatin tone, ghost contours, faint polarization fringes.",
+    "description_zh": "偏振立体印：左右视差叠合于偏振片，银盐明胶连续调、重影轮廓与淡虹偏光边。",
+    "source": "hermes-explore",
+    "image": "styles/3034-vectograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2992",
+    "slug": "ame-yu",
+    "name_en": "Ame-yu",
+    "name_zh": "饴釉",
+    "description_en": "Japanese ame-yu candy glaze: viscous honey-amber to molasses runs, wet gloss, toasted iron pooling, pinholes, syrupy drips on dark stoneware.",
+    "description_zh": "饴釉：蜜琥珀至糖蜜般垂流、湿亮光泽、铁褐积釉、针孔与暗胎上的糖浆滴痕。",
+    "source": "hermes-explore",
+    "image": "styles/3035-ame-yu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2993",
+    "slug": "aode-kutani",
+    "name_en": "Aode Kutani",
+    "name_zh": "青手九谷",
+    "description_en": "Aode Kutani overglaze: green-dominant enamel with yellow and aubergine, thick glassy pooling, black underdrawing, porcelain reserves.",
+    "description_zh": "青手九谷：以绿为主的上绘，辅黄与茄紫，厚玻璃质积釉、墨线起稿、留白瓷地。",
+    "source": "hermes-explore",
+    "image": "styles/3036-aode-kutani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2994",
+    "slug": "rosso-antico",
+    "name_en": "Rosso Antico",
+    "name_zh": "古红炻器",
+    "description_en": "Wedgwood Rosso Antico dry-body: matte brick-red unglazed stoneware, crisp low relief, engine-turned rings, biscuit porosity.",
+    "description_zh": "古红炻器：无光砖红素烧、浅浮雕利边、引擎车旋细环与素坯微孔。",
+    "source": "hermes-explore",
+    "image": "styles/3037-rosso-antico.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2995",
+    "slug": "straw-ash",
+    "name_en": "Straw Ash",
+    "name_zh": "稻草灰釉",
+    "description_en": "Rice-straw ash glaze: milky bluish-white to olive runs over dark clay, pinholes, dry-ash bloom, feldspar sparkle, kiln-flash edges.",
+    "description_zh": "稻草灰釉：乳青至橄榄灰垂流覆暗胎，针孔、干灰霜、长石闪光与火痕边。",
+    "source": "hermes-explore",
+    "image": "styles/3038-straw-ash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -8389,6 +8389,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3033, PNG count 3033. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 599 (exactly 5, h2991–h2995)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                          |
+|-------|---------------|-------------|--------------------------------|
+| h2991 | Vectograph    | 偏振立体印  | styles/3034-vectograph.png     |
+| h2992 | Ame-yu        | 饴釉        | styles/3035-ame-yu.png         |
+| h2993 | Aode Kutani   | 青手九谷    | styles/3036-aode-kutani.png    |
+| h2994 | Rosso Antico  | 古红炻器    | styles/3037-rosso-antico.png   |
+| h2995 | Straw Ash     | 稻草灰釉    | styles/3038-straw-ash.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3038, PNG count 3038. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
