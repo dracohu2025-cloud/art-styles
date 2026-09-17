@@ -8375,6 +8375,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3028, PNG count 3028. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 598 (exactly 5, h2986–h2990)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                           |
+|-------|--------------|-----------------|---------------------------------|
+| h2986 | Schnittdekor | 刻花玻璃        | styles/3029-schnittdekor.png    |
+| h2987 | Cluthra      | 克卢斯拉气泡    | styles/3030-cluthra.png         |
+| h2988 | Kuro-raku    | 黑乐            | styles/3031-kuro-raku.png       |
+| h2989 | Scratch-blue | 划花蓝          | styles/3032-scratch-blue.png    |
+| h2990 | Moustiers    | 穆斯捷彩陶      | styles/3033-moustiers.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3033, PNG count 3033. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

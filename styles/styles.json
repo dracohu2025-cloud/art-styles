@@ -39362,5 +39362,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h2986",
+    "slug": "schnittdekor",
+    "name_en": "Schnittdekor",
+    "name_zh": "刻花玻璃",
+    "description_en": "Bohemian wheel-cut crystal décor: mitre cuts, printies, strawberry-diamond and hobnail facets slicing the image into refractive planes.",
+    "description_zh": "波希米亚刻花玻璃：斜切、圆印、草莓菱纹与钉头切面，将画面切成折光晶面。",
+    "source": "hermes-explore",
+    "image": "styles/3029-schnittdekor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2987",
+    "slug": "cluthra",
+    "name_en": "Cluthra",
+    "name_zh": "克卢斯拉气泡",
+    "description_en": "Steuben Cluthra cased glass: dense controlled bubble veils in milky jade and rose-alabaster strata, furnace-glass translucency.",
+    "description_zh": "斯图本克卢斯拉套色玻璃：乳白翠绿与玫瑰雪花石层中密布受控气泡帷幕，炉玻璃半透明。",
+    "source": "hermes-explore",
+    "image": "styles/3030-cluthra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2988",
+    "slug": "kuro-raku",
+    "name_en": "Kuro-raku",
+    "name_zh": "黑乐",
+    "description_en": "Black raku glaze: sooty matte charcoal, pinholes, crawling, kiln-flash rust at rims, and coarse pinched clay showing through.",
+    "description_zh": "黑乐釉：烟灰哑光炭黑、针孔、缩釉、口沿窑红与粗捏土胎露出。",
+    "source": "hermes-explore",
+    "image": "styles/3031-kuro-raku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2989",
+    "slug": "scratch-blue",
+    "name_en": "Scratch-blue",
+    "name_zh": "划花蓝",
+    "description_en": "Staffordshire scratch-blue salt-glaze: white-grey orange-peel stoneware with cobalt infill in incised lines.",
+    "description_zh": "斯塔福德划花蓝盐釉：灰白橘皮炻器，划刻线内填钴蓝。",
+    "source": "hermes-explore",
+    "image": "styles/3032-scratch-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h2990",
+    "slug": "moustiers",
+    "name_en": "Moustiers",
+    "name_zh": "穆斯捷彩陶",
+    "description_en": "Moustiers tin-glazed faience: cobalt grotesques, Berain arabesques, lambrequins, and light ochre on crackled white ground.",
+    "description_zh": "穆斯捷锡釉彩陶：钴蓝怪饰、贝兰式卷草、帷幔纹与浅赭点缀于开片白地。",
+    "source": "hermes-explore",
+    "image": "styles/3033-moustiers.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
