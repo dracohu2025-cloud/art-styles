@@ -40077,5 +40077,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3041",
+    "slug": "habutae",
+    "name_en": "Habutae",
+    "name_zh": "羽二重",
+    "description_en": "Habutae: Japanese plain-weave silk with liquid pearly luster, even fine warp and weft, no rib; not satin flash, not chirimen crepe, not velvet pile.",
+    "description_zh": "羽二重：日本平纹丝，珍珠水光、经纬极匀无棱；非缎闪、缩缅绉或丝绒。",
+    "source": "hermes-explore",
+    "image": "styles/3084-habutae.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3042",
+    "slug": "kinsha",
+    "name_en": "Kinsha",
+    "name_zh": "金纱",
+    "description_en": "Kinsha: Japanese gold silk gauze — sheer metallic warp, gold dust in open mesh; not kinran brocade, not lamé knit, not sequins, not monsha figured gauze.",
+    "description_zh": "金纱：日本金丝薄纱，透光经线与金粉网眼；非金襴锦、闪光针织、亮片或纹纱。",
+    "source": "hermes-explore",
+    "image": "styles/3085-kinsha.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3043",
+    "slug": "gasenshi",
+    "name_en": "Gasenshi",
+    "name_zh": "画仙纸",
+    "description_zh": "画仙纸：吸水书画纸，墨与淡彩渗入纤维、飞白与湿接；非西方水彩纸、云龙纸或数码喷绘。",
+    "description_en": "Gasenshi: absorbent East-Asian painting paper — unsized tooth, ink bloom into fibers, dry-brush skips; not Western watercolor rag, not unryu, not digital airbrush.",
+    "source": "hermes-explore",
+    "image": "styles/3086-gasenshi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3044",
+    "slug": "zeze",
+    "name_en": "Zeze",
+    "name_zh": "膳所焼",
+    "description_en": "Zeze: Edo Lake Biwa tea ceramic — thin iron-rich dark glaze, tea-brown pooling, dry clay lip; not raku crackle, not tenmoku oil-spot, not celadon.",
+    "description_zh": "膳所焼：江户琵琶湖茶陶，薄铁黑褐釉积釉、干口沿；非乐烧开片、油滴天目或青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3087-zeze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3045",
+    "slug": "ido",
+    "name_en": "Ido",
+    "name_zh": "井戸",
+    "description_en": "Ido: classic Ido chawan glaze — loquat-straw field, dense crawling and pinning, kairagi at the foot; not Hagi white, not kohiki slip, not ki-seto yellow.",
+    "description_zh": "井戸：井户茶碗釉，枇杷黄地、缩釉针孔、梅花皮；非萩白、粉引或黄濑户。",
+    "source": "hermes-explore",
+    "image": "styles/3088-ido.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

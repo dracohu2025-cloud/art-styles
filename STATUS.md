@@ -8529,6 +8529,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3083, PNG count 3083. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 609 (exactly 5, h3041–h3045)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en   | name_zh | image                     |
+|-------|-----------|---------|---------------------------|
+| h3041 | Habutae   | 羽二重  | styles/3084-habutae.png   |
+| h3042 | Kinsha    | 金纱    | styles/3085-kinsha.png    |
+| h3043 | Gasenshi  | 画仙纸  | styles/3086-gasenshi.png  |
+| h3044 | Zeze      | 膳所焼  | styles/3087-zeze.png      |
+| h3045 | Ido       | 井戸    | styles/3088-ido.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3088, PNG count 3088. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
