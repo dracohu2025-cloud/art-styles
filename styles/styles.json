@@ -41052,5 +41052,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3116",
+    "slug": "kaitag",
+    "name_en": "Kaitag",
+    "name_zh": "凯塔格绣",
+    "description_en": "Kaitag: Dagestani silk-floss embroidery on indigo cotton — laid stitches, ram's-horn palmettes, solar rosettes and sudden color blocks; not suzani, not cross-stitch sampler, or digital illustration.",
+    "description_zh": "凯塔格绣：达吉斯坦靛蓝棉上的丝绒铺绣，羊角棕叶纹、日轮团花与骤然色块；非苏扎尼、十字绣样或数字插画。",
+    "source": "hermes-explore",
+    "image": "styles/3159-kaitag.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3117",
+    "slug": "yangjiabu",
+    "name_en": "Yangjiabu",
+    "name_zh": "杨家埠年画",
+    "description_en": "Yangjiabu: Shandong New Year woodblock — thick carved outlines, flat mineral vermilion/yellow/blue/green with slight misregister on fibrous paper; not Yangliuqing fine-line, ukiyo-e, or watercolor.",
+    "description_zh": "杨家埠年画：山东木版年画，粗刻墨线、矿物朱红黄蓝绿平涂与轻微错版、纤维纸；非杨柳青年画细线、浮世绘或水彩。",
+    "source": "hermes-explore",
+    "image": "styles/3160-yangjiabu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3118",
+    "slug": "yakan-weaving",
+    "name_en": "Yakan Weaving",
+    "name_zh": "雅坎织",
+    "description_en": "Yakan Weaving: Basilan warp-faced geometry — nested diamonds, lozenges and zigzags in maroon, black, ivory, mustard and pine green, visible warp ribs; not songket gold, pis syabit, or pixel art.",
+    "description_zh": "雅坎织：巴西兰经面几何织，套叠菱格与折线，绛红、黑、牙白、芥黄与松绿，经肋可见；非宋葛织金、皮斯夏比特或像素画。",
+    "source": "hermes-explore",
+    "image": "styles/3161-yakan-weaving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3119",
+    "slug": "plaquette-print",
+    "name_en": "Plaquette Print",
+    "name_zh": "小浮雕版印",
+    "description_en": "Plaquette Print: Renaissance bronze plaquette — shallow-relief cast metal, olive patina in recesses, burnished high points, chased drapery; not a free-standing statue, coin close-up, or niello.",
+    "description_zh": "小浮雕版印：文艺复兴铜质小浮雕牌，浅浮雕铸造、凹处橄榄包浆、高光抛亮与錾刻衣褶；非圆雕雕像、钱币特写或乌银镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/3162-plaquette-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3120",
+    "slug": "clambroth",
+    "name_en": "Clambroth",
+    "name_zh": "奶汤玻璃",
+    "description_en": "Clambroth: 19th-century pressed glass the color of clam broth — milky translucent, satiny mold seams, tea-amber in thick parts; not opaque milk glass, cut crystal, or carnival iridescence.",
+    "description_zh": "奶汤玻璃：十九世纪模压玻，蛤汤般乳白半透、模缝缎光、厚处茶琥珀；非不透明奶玻、切割水晶或嘉年华虹彩。",
+    "source": "hermes-explore",
+    "image": "styles/3163-clambroth.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

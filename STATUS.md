@@ -8739,6 +8739,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3158, PNG count 3158. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 624 (exactly 5, h3116–h3120)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h3116 | Kaitag          | 凯塔格绣    | styles/3159-kaitag.png             |
+| h3117 | Yangjiabu       | 杨家埠年画  | styles/3160-yangjiabu.png          |
+| h3118 | Yakan Weaving   | 雅坎织      | styles/3161-yakan-weaving.png      |
+| h3119 | Plaquette Print | 小浮雕版印  | styles/3162-plaquette-print.png    |
+| h3120 | Clambroth       | 奶汤玻璃    | styles/3163-clambroth.png          |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3163, PNG count 3163. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
