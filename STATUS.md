@@ -8879,6 +8879,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3208, PNG count 3208. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 634 (exactly 5, h3166–h3170)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh     | image                                      |
+|-------|-----------------------|-------------|--------------------------------------------|
+| h3166 | Oil Bar               | 油彩棒      | styles/3209-oil-bar.png                    |
+| h3167 | Punched Gilding       | 压点贴金    | styles/3210-punched-gilding.png            |
+| h3168 | Tortoiseshell Lacquer | 玳瑁漆      | styles/3211-tortoiseshell-lacquer.png      |
+| h3169 | Kousetsu              | 交缬        | styles/3212-kousetsu.png                   |
+| h3170 | Lith Film             | 高反差胶片  | styles/3213-lith-film.png                  |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3213, PNG count 3213. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -41702,5 +41702,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3166",
+    "slug": "oil-bar",
+    "name_en": "Oil Bar",
+    "name_zh": "油彩棒",
+    "description_en": "Oil-bar / oil-stick painting: buttery dragged ridges, stick-end facets, fat-paint fingerprints, broken color slabs—not watercolor, not smooth digital paint.",
+    "description_zh": "油彩棒：奶油状拖痕与棒端切面，厚油指纹，断色色块，非水彩亦非平滑数码涂抹。",
+    "source": "hermes-explore",
+    "image": "styles/3209-oil-bar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3167",
+    "slug": "punched-gilding",
+    "name_en": "Punched Gilding",
+    "name_zh": "压点贴金",
+    "description_en": "Punched gilding: gold leaf over red bole, medieval punchwork dots stars and rings, matte vs burnished gold, bole in the pits—not chrome, not foil sticker.",
+    "description_zh": "压点贴金：红粘土金底贴金箔，中世纪点錾星圈纹，哑光与抛光金对比，坑内透红底，非铬面亦非贴纸金箔。",
+    "source": "hermes-explore",
+    "image": "styles/3210-punched-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3168",
+    "slug": "tortoiseshell-lacquer",
+    "name_en": "Tortoiseshell Lacquer",
+    "name_zh": "玳瑁漆",
+    "description_en": "Tortoiseshell lacquer (bekko-nuri): mottled translucent amber, honey, and lamp-black urushi layers like hawksbill shell, high gloss, layered depth—not plastic.",
+    "description_zh": "玳瑁漆：半透明琥珀、蜜色与灯黑漆层交叠如玳瑁斑，高光泽层次，非塑料仿面。",
+    "source": "hermes-explore",
+    "image": "styles/3211-tortoiseshell-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3169",
+    "slug": "kousetsu",
+    "name_en": "Kousetsu",
+    "name_zh": "交缬",
+    "description_en": "Kousetsu / jiaoxie clamp-resist dyeing: folded-and-clamped geometric resist, mirrored diamond and chevron dye blooms, indigo and madder, capillary creep at edges.",
+    "description_zh": "交缬：折叠夹缬防染，对称菱格与折线色晕，靛蓝与茜红，边缘毛细渗色。",
+    "source": "hermes-explore",
+    "image": "styles/3212-kousetsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3170",
+    "slug": "lith-film",
+    "name_en": "Lith Film",
+    "name_zh": "高反差胶片",
+    "description_en": "Lith film: orthochromatic high-contrast graphic film, crushed blacks, blown paper-white, razor edges, pepper grain, almost no midtone ramp—not xerox, not charcoal.",
+    "description_zh": "高反差胶片：正色高反差图形胶片，死黑与纸白，锐利轮廓，胡椒粒，几乎无中间灰，非复印亦非炭笔。",
+    "source": "hermes-explore",
+    "image": "styles/3213-lith-film.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
