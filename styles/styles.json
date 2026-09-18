@@ -40597,5 +40597,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3081",
+    "slug": "dorozome",
+    "name_en": "Dorozome",
+    "name_zh": "泥染め",
+    "description_en": "Dorozome: Amami Ōshima iron-mud silk dye — sharinoki tannin then iron-rich mud baths, matte black-brown with a faint metallic bloom; not bogolanfini mudcloth, batik, or indigo aizome.",
+    "description_zh": "泥染め：奄美大岛泥染，车轮木单宁后浸铁泥，哑光黑褐带铁色微光；非波戈兰泥布、蜡染或蓝染。",
+    "source": "hermes-explore",
+    "image": "styles/3124-dorozome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3082",
+    "slug": "kata-bokashi",
+    "name_en": "Kata-bokashi",
+    "name_zh": "型ぼかし",
+    "description_en": "Kata-bokashi: ukiyo-e stencil-masked color gradation — pigment fades to a hard stencil edge under barren pressure; not freehand fukibokashi, ichimonji sky bands, or watercolor wet-into-wet.",
+    "description_zh": "型ぼかし：浮世绘型纸控制的晕色，颜料退到型缘即止；非吹晕、一文字空带或水彩湿接。",
+    "source": "hermes-explore",
+    "image": "styles/3125-kata-bokashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3083",
+    "slug": "jinsi-tiexian",
+    "name_en": "Jinsi Tiexian",
+    "name_zh": "金丝铁线",
+    "description_en": "Jinsi Tiexian: Guan/Ge double crackle — dense golden hairline threads over sparse bold iron-dark veins in celadon glaze; not paint craquelure, raku, ice-crackle glass, or kintsugi.",
+    "description_zh": "金丝铁线：官哥双重开片，细金丝网叠粗铁线纹于青釉；非油画龟裂、乐烧、冰裂玻璃或金缮。",
+    "source": "hermes-explore",
+    "image": "styles/3126-jinsi-tiexian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3084",
+    "slug": "ai-kutsushita",
+    "name_en": "Ai-kutsushita",
+    "name_zh": "藍靴下",
+    "description_en": "Ai-kutsushita: sometsuke cobalt that pools into inky “blue socks” at hems, rims, and the foot on white porcelain; not Delft, Iznik, transferware, or cobalt glass.",
+    "description_zh": "藍靴下：染付釉下钴料在裾、口沿与圈足积成浓蓝；非代尔夫特、伊兹尼克、贴花瓷或钴玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3127-ai-kutsushita.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3085",
+    "slug": "mosaic-gold",
+    "name_en": "Mosaic Gold",
+    "name_zh": "锡金泥",
+    "description_en": "Mosaic Gold: medieval illumination pigment of tin disulfide — crystalline green-gold glitter, paler than leaf, burnished but faceted; not gold leaf, shell gold, or gilt tesserae.",
+    "description_zh": "锡金泥：中世纪写本硫化锡颜料，晶状偏绿金粉，亮于泥金而逊金箔，非金箔、壳金或马赛克金片。",
+    "source": "hermes-explore",
+    "image": "styles/3128-mosaic-gold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

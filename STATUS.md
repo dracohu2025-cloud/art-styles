@@ -8641,6 +8641,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3123, PNG count 3123. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 617 (exactly 5, h3081–h3085)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh   | image                            |
+|-------|---------------|-----------|----------------------------------|
+| h3081 | Dorozome      | 泥染め    | styles/3124-dorozome.png         |
+| h3082 | Kata-bokashi  | 型ぼかし  | styles/3125-kata-bokashi.png     |
+| h3083 | Jinsi Tiexian | 金丝铁线  | styles/3126-jinsi-tiexian.png    |
+| h3084 | Ai-kutsushita | 藍靴下    | styles/3127-ai-kutsushita.png    |
+| h3085 | Mosaic Gold   | 锡金泥    | styles/3128-mosaic-gold.png      |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3128, PNG count 3128. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
