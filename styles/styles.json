@@ -40727,5 +40727,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3091",
+    "slug": "narumi-kongata",
+    "name_en": "Narumi Kongata",
+    "name_zh": "鸣海绀型",
+    "description_en": "Narumi Kongata: Aichi indigo katazome — rice-paste stencil resist on cotton, deep ai-iro ground, tiny white geometric-floral cutouts and dotted resist, slightly fuzzy stencil edges; not ukiyo-e line, batik crackle, or shibori tie-dye.",
+    "description_zh": "鸣海绀型：爱知蓝染型染，米糊防染、深蓝地、细白几何花卉与点状留白，型纸边缘略糊；非浮世绘线描、蜡染裂纹或绞缬。",
+    "source": "hermes-explore",
+    "image": "styles/3134-narumi-kongata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3092",
+    "slug": "capulineado",
+    "name_en": "Capulineado",
+    "name_zh": "卡普利纳描金",
+    "description_en": "Capulineado: Tonalá overglaze — fine gold and white floral scrolls, birds and vines on burnished warm clay, thin ceramic-brush lines and slightly raised gold; not Talavera blue-and-white, petatillo hatch, or European gilt porcelain.",
+    "description_zh": "卡普利纳描金：托纳拉釉上金白缠枝、小鸟与藤蔓，暖色磨光陶地、细笔与微凸金线；非塔拉维拉青花、席纹陶绘或欧洲描金瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3135-capulineado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3093",
+    "slug": "chu-dau",
+    "name_en": "Chu Dau",
+    "name_zh": "朱豆青花",
+    "description_en": "Chu Dau: 15th-c. Vietnamese blue-and-white stoneware — grey-blue in-glaze cobalt on a warm off-white body, peony-lotus-cloud brush, iron-brown rim, potting rings and watery cobalt bleed; not Ming imperial, Delft, or sometsuke.",
+    "description_zh": "朱豆青花：十五世纪越南釉下钴蓝，偏灰蓝、暖白胎、牡丹莲云、铁褐口沿与水渍晕散；非明官窑、代尔夫特或日本染付。",
+    "source": "hermes-explore",
+    "image": "styles/3136-chu-dau.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3094",
+    "slug": "kirman-ware",
+    "name_en": "Kirman Ware",
+    "name_zh": "克尔曼彩瓷",
+    "description_en": "Kirman Ware: Safavid Kirman polychrome — white tin glaze with in-glaze cobalt, copper green, iron red and gold, flowering shrubs and ogival panels; not Iznik bole-red, minai enamel, or Kashan lustre.",
+    "description_zh": "克尔曼彩瓷：萨法维锡白釉上钴蓝、铜绿、铁红与金彩，花丛与尖拱开光；非伊兹尼克矾红、米奈釉上彩或卡尚虹彩。",
+    "source": "hermes-explore",
+    "image": "styles/3137-kirman-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3095",
+    "slug": "same-komon",
+    "name_en": "Same Komon",
+    "name_zh": "鮫小纹",
+    "description_en": "Same Komon: sharkskin komon dyeing — extremely fine even white dots on deep indigo, density shifts modeling form, stencil-dyed cotton with no large florals; not mixed Edo komon, pointillism, Ben-Day, or halftone.",
+    "description_zh": "鮫小纹：深蓝地极细均匀白点，点距变化塑形，型染棉布、无大花纹；非混杂江户小纹、点彩、本戴网点或半色调印刷。",
+    "source": "hermes-explore",
+    "image": "styles/3138-same-komon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

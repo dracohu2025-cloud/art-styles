@@ -8669,6 +8669,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3133, PNG count 3133. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 619 (exactly 5, h3091–h3095)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                           |
+|-------|----------------|---------------|---------------------------------|
+| h3091 | Narumi Kongata | 鸣海绀型      | styles/3134-narumi-kongata.png  |
+| h3092 | Capulineado    | 卡普利纳描金  | styles/3135-capulineado.png     |
+| h3093 | Chu Dau        | 朱豆青花      | styles/3136-chu-dau.png         |
+| h3094 | Kirman Ware    | 克尔曼彩瓷    | styles/3137-kirman-ware.png     |
+| h3095 | Same Komon     | 鮫小纹        | styles/3138-same-komon.png      |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3138, PNG count 3138. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
