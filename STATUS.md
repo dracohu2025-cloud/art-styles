@@ -8697,6 +8697,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3143, PNG count 3143. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 621 (exactly 5, h3101–h3105)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                            |
+|-------|----------------|---------------|----------------------------------|
+| h3101 | Polachrome     | 宝丽彩屏      | styles/3144-polachrome.png       |
+| h3102 | Onyx Glass     | 缟玛瑙玻璃    | styles/3145-onyx-glass.png       |
+| h3103 | Photo-stencil  | 感光网印      | styles/3146-photo-stencil.png    |
+| h3104 | Keller-Dorian  | 凯勒多里安    | styles/3147-keller-dorian.png    |
+| h3105 | Deep Etch      | 深蚀平版      | styles/3148-deep-etch.png        |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3148, PNG count 3148. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

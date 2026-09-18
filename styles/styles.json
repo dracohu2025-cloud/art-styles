@@ -40857,5 +40857,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3101",
+    "slug": "polachrome",
+    "name_en": "Polachrome",
+    "name_zh": "宝丽彩屏",
+    "description_en": "Polachrome: Polaroid 35mm additive instant color slide — fine vertical RGB line screen, muted candy dyes, silver-based instant development and chemical mottle; not Kodachrome, Autochrome starch dots, Dufaycolor mosaic, or SX-70 peel-apart.",
+    "description_zh": "宝丽彩屏：宝丽来35毫米加色即时幻灯片，细密竖向RGB线屏、柔糖果染料、银盐即时显影与药膜斑驳；非柯达克罗姆、奥托克罗姆淀粉点、杜菲彩屏或SX-70剥离片。",
+    "source": "hermes-explore",
+    "image": "styles/3144-polachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3102",
+    "slug": "onyx-glass",
+    "name_en": "Onyx Glass",
+    "name_zh": "缟玛瑙玻璃",
+    "description_en": "Onyx Glass: furnace-fused banded opaque art glass imitating sardonyx — wavy strata of jet, cream, honey-amber and smoke with fire-polish; not cameo overlay, malachite glass, agate mottling, or carved stone.",
+    "description_zh": "缟玛瑙玻璃：窑熔层纹乳浊玻璃仿缟玛瑙，黑、乳白、蜜琥珀与烟灰波层、火抛光；非浮雕套色、孔雀石玻璃、玛瑙斑纹或石雕。",
+    "source": "hermes-explore",
+    "image": "styles/3145-onyx-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3103",
+    "slug": "photo-stencil",
+    "name_en": "Photo-stencil",
+    "name_zh": "感光网印",
+    "description_en": "Photo-stencil: photographic emulsion stencil on silk-screen — halftone and open flats burned from a photo-positive, mesh weave and trapped ink at stencil edges; not hand-cut film stencil, Risograph, painterly serigraph wash, or lithograph crayon.",
+    "description_zh": "感光网印：丝网感光乳剂模版，由阳图晒成网点与实地、网纱织纹与模边积墨；非手刻胶片模、Risograph、手绘丝网渲染或石版蜡笔。",
+    "source": "hermes-explore",
+    "image": "styles/3146-photo-stencil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3104",
+    "slug": "keller-dorian",
+    "name_en": "Keller-Dorian",
+    "name_zh": "凯勒多里安",
+    "description_en": "Keller-Dorian: 1920s additive lenticular cinematography — cylindrical lenticules embossed on film recombine RGB taking-filters as analog color with ridge shimmer and fringe; not Autochrome dots, modern 3D lenticular flip, holography, or Kodachrome.",
+    "description_zh": "凯勒多里安：1920年代加色微透镜电影，胶片柱面透镜重组合色滤镜，脊纹闪烁与色边；非奥托克罗姆色点、现代三维光栅翻转、全息或柯达克罗姆。",
+    "source": "hermes-explore",
+    "image": "styles/3147-keller-dorian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3105",
+    "slug": "deep-etch",
+    "name_en": "Deep Etch",
+    "name_zh": "深蚀平版",
+    "description_en": "Deep Etch: offset deep-etch lithography — image areas chemically bitten into a metal plate so ink sits in recessed wells, hard graphic flats and plate-grain; not photogravure intaglio, aquatint, letterpress relief, or ordinary surface offset.",
+    "description_zh": "深蚀平版：胶印深蚀制版，图文化学咬入金属版使油墨积于凹井，硬边实地与版纹；非照相凹版、飞尘、凸版活字或普通平版胶印。",
+    "source": "hermes-explore",
+    "image": "styles/3148-deep-etch.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
