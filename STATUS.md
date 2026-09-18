@@ -8599,6 +8599,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3108, PNG count 3108. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 614 (exactly 5, h3066–h3070)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh         | image                         |
+|-------|-------------|-----------------|-------------------------------|
+| h3066 | Nerinuki    | 練貫            | styles/3109-nerinuki.png      |
+| h3067 | Sungudi     | 松古迪扎染      | styles/3110-sungudi.png       |
+| h3068 | Ruby Stain  | 宝石红玻璃染    | styles/3111-ruby-stain.png    |
+| h3069 | Futsu-ori   | 風通織          | styles/3112-futsu-ori.png     |
+| h3070 | Ishihaze    | 石爆            | styles/3113-ishihaze.png      |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3113, PNG count 3113. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -40402,5 +40402,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3066",
+    "slug": "nerinuki",
+    "name_en": "Nerinuki",
+    "name_zh": "練貫",
+    "description_en": "Nerinuki: Heian silk with gummed raw-silk warp left matte and stiff against a degummed scoured weft that takes a wet luster — dual sheen of dry ribs vs fluid glow; not habutae flat gloss, not chirimen pebble, not satin shusu.",
+    "description_zh": "練貫：生丝经留胶呈哑光硬肋，练纬脱胶呈湿润光泽，干湿双光；非羽二重平光、缩缅起绉或繻子缎面。",
+    "source": "hermes-explore",
+    "image": "styles/3109-nerinuki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3067",
+    "slug": "sungudi",
+    "name_en": "Sungudi",
+    "name_zh": "松古迪扎染",
+    "description_en": "Sungudi: Madurai tied-resist cotton — dense grid of tiny knots that leave white pin-dots and faint puckers on deep red or indigo, often with a temple border; not large bandhani circles, not leheriya waves, not printed polka dots.",
+    "description_zh": "松古迪扎染：马杜赖细点绞缬，密网格小结在深红或靛蓝上留下白针点与浅皱，常带神庙边饰；非大圈班达尼、斜波勒哈里亚或印花波点。",
+    "source": "hermes-explore",
+    "image": "styles/3110-sungudi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3068",
+    "slug": "ruby-stain",
+    "name_en": "Ruby Stain",
+    "name_zh": "宝石红玻璃染",
+    "description_en": "Ruby stain: copper or silver stain fired into glass, transparent gem-red that light passes through, slight kiln mottle; not opaque red enamel, not gold-ruby melt, not leaded stained-glass cames.",
+    "description_zh": "宝石红玻璃染：铜/银染剂烧入玻表，透光宝石红与窑斑；非不透明红珐琅、金红熔料或铅条彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/3111-ruby-stain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3069",
+    "slug": "futsu-ori",
+    "name_en": "Futsu-ori",
+    "name_zh": "風通織",
+    "description_en": "Futsu-ori: hollow double-weave with two warps and two wefts, reversible color-exchange geometry and a slight air-pocket loft between layers; not jacquard single cloth, not tsuzure tapestry, not quilted padding.",
+    "description_zh": "風通織：双经双纬中空二重织，正反换色几何与层间气囊微鼓；非单层提花、缀织缂丝或绗缝填充。",
+    "source": "hermes-explore",
+    "image": "styles/3112-futsu-ori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3070",
+    "slug": "ishihaze",
+    "name_en": "Ishihaze",
+    "name_zh": "石爆",
+    "description_en": "Ishihaze: coarse high-fired clay with feldspar grit that bursts through the skin in the kiln — white crystalline explosions on orange-to-ash unglazed body and fire-flash; not smooth porcelain, not namako crawl, not applied grit CGI.",
+    "description_zh": "石爆：粗胎长石砂在窑中爆出表面，白晶炸点落于橙灰素烧与火色；非光滑瓷、海鼠缩釉或电脑撒砂。",
+    "source": "hermes-explore",
+    "image": "styles/3113-ishihaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
