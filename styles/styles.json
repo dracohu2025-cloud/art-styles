@@ -41572,5 +41572,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3156",
+    "slug": "thirsty-brush",
+    "name_en": "Thirsty Brush",
+    "name_zh": "渴笔",
+    "description_en": "Keihitsu thirsty-brush ink: dry split-hair strokes skip across sized paper, fibrous skips and paper tooth showing, pale-to-dark ink without wet wash pools.",
+    "description_zh": "渴笔：干裂笔毫在熟宣上擦过，纤维跳白与纸纹可见，墨色由淡入浓，不见水晕汪池。",
+    "source": "hermes-explore",
+    "image": "styles/3199-thirsty-brush.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3157",
+    "slug": "maculature",
+    "name_en": "Maculature",
+    "name_zh": "废印残影",
+    "description_en": "Maculature: a pale ghost impression from residual intaglio ink offset onto clean paper — faint doubled contours, weak plate tone, leftover ink in recesses.",
+    "description_zh": "废印残影：前次凹版余墨转印到洁纸上的淡影，轮廓重影、弱版调、凹处残墨可见。",
+    "source": "hermes-explore",
+    "image": "styles/3200-maculature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3158",
+    "slug": "bokeh",
+    "name_en": "Bokeh",
+    "name_zh": "焦外散景",
+    "description_en": "Optical bokeh: extreme shallow focus, large creamy circles of confusion, specular highlights as round discs, only a thin plane sharp.",
+    "description_zh": "焦外散景：极浅景深，弥散圆如奶油光斑，高光成圆盘，仅薄焦平面清晰。",
+    "source": "hermes-explore",
+    "image": "styles/3201-bokeh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3159",
+    "slug": "tsukinuri",
+    "name_en": "Tsukinuri",
+    "name_zh": "突涂",
+    "description_en": "Tsukinuri lacquer: spatula-paddled urushi built in thick high-build layers, no hairbrush marks, amber-black gloss with orange undercoat at the edges.",
+    "description_zh": "突涂：刮板厚堆漆，不见毫痕，琥珀黑高光，边缘透出橙底。",
+    "source": "hermes-explore",
+    "image": "styles/3202-tsukinuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3160",
+    "slug": "push-processing",
+    "name_en": "Push Processing",
+    "name_zh": "强迫显影",
+    "description_en": "Push-processed film: forced development two to three stops, dense silver grain, crushed shadows, steep contrast and slight color crossover.",
+    "description_zh": "强迫显影：增感两到三档强迫显影，银盐粗粒、阴影挤压、反差陡峭并带轻微偏色。",
+    "source": "hermes-explore",
+    "image": "styles/3203-push-processing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

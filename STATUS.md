@@ -8851,6 +8851,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3198, PNG count 3198. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 632 (exactly 5, h3156–h3160)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                                |
+|-------|-----------------|-------------|--------------------------------------|
+| h3156 | Thirsty Brush   | 渴笔        | styles/3199-thirsty-brush.png        |
+| h3157 | Maculature      | 废印残影    | styles/3200-maculature.png           |
+| h3158 | Bokeh           | 焦外散景    | styles/3201-bokeh.png                |
+| h3159 | Tsukinuri       | 突涂        | styles/3202-tsukinuri.png            |
+| h3160 | Push Processing | 强迫显影    | styles/3203-push-processing.png      |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3203, PNG count 3203. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 
 ## Verified
 
