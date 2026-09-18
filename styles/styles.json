@@ -41377,5 +41377,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3141",
+    "slug": "crepuscular-rays",
+    "name_en": "Crepuscular Rays",
+    "name_zh": "曙暮光线",
+    "description_en": "Volumetric god rays as style: form revealed only where shafts cut haze and dust, deep umber-indigo between beams, motes in the light.",
+    "description_zh": "曙暮光线：体积光柱切开雾尘，形体只在光束落处显现，束间深褐靛蓝，光中可见微尘。",
+    "source": "hermes-explore",
+    "image": "styles/3184-crepuscular-rays.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3142",
+    "slug": "overprint",
+    "name_en": "Overprint",
+    "name_zh": "油墨叠印",
+    "description_en": "Stacked translucent spot inks: trapping, knockouts, and ink squash mix CMY plus spot red on paper white—overprint, not digital blend.",
+    "description_zh": "油墨叠印：半透明专色层层叠印，套准、镂空与油墨挤扩使青品红黄加专红在纸白上混合，非数字混色。",
+    "source": "hermes-explore",
+    "image": "styles/3185-overprint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3143",
+    "slug": "tufting",
+    "name_en": "Tufting",
+    "name_zh": "簇绒",
+    "description_en": "Punch-needle and cut-pile tufting as the image: loop and cut yarn ridges, high-pile color fields, cloth backing at the edge.",
+    "description_zh": "簇绒：枪刺圈绒与割绒构成整幅形象，可见绒脊、高绒色块与边缘底布。",
+    "source": "hermes-explore",
+    "image": "styles/3186-tufting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3144",
+    "slug": "stand-development",
+    "name_en": "Stand Development",
+    "name_zh": "静置显影",
+    "description_en": "Long still-bath analog development: compensating highlights, tanning adjacency, dense silver grain, pulled shadows with local contrast.",
+    "description_zh": "静置显影：长时间静置药液，高光被补偿、邻界鞣化、银粒密实，阴影被拉出局部反差。",
+    "source": "hermes-explore",
+    "image": "styles/3187-stand-development.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3145",
+    "slug": "dhurrie",
+    "name_en": "Dhurrie",
+    "name_zh": "杜里平织",
+    "description_en": "Weft-faced Indian cotton dhurrie: geometric stripes, stepped diamonds, visible warp ribs, no pile, indigo-madder-mustard-ivory folk palette.",
+    "description_zh": "杜里平织：印度棉质纬面平织，几何条带与阶梯菱格，可见经棱无绒头，靛蓝、茜红、芥黄与牙白。",
+    "source": "hermes-explore",
+    "image": "styles/3188-dhurrie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
