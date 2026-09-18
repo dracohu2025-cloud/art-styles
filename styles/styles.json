@@ -41507,5 +41507,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3151",
+    "slug": "infrared-film",
+    "name_en": "Infrared Film",
+    "name_zh": "红外胶片",
+    "description_en": "Analog infrared black-and-white: chlorophyll-white foliage, near-black sky and water, pale skin, dense grain and 720nm false-tone contrast.",
+    "description_zh": "红外胶片：叶绿素呈粉白、天空近黑、肤色偏瓷、粗颗粒与七百二十纳米假色调反差。",
+    "source": "hermes-explore",
+    "image": "styles/3194-infrared-film.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3152",
+    "slug": "kinpun",
+    "name_en": "Kinpun",
+    "name_zh": "金粉撒",
+    "description_en": "Japanese kinpun: fine gold powder scattered in veils over urushi-dark ground, metallic grain catching raking light rather than solid gold leaf.",
+    "description_zh": "金粉撒：细金粉洒落在漆黑地上成云雾金尘，掠光闪粒，而非整片金箔。",
+    "source": "hermes-explore",
+    "image": "styles/3195-kinpun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3153",
+    "slug": "underglaze-blue",
+    "name_en": "Underglaze Blue",
+    "name_zh": "釉下青花",
+    "description_en": "Jingdezhen-style cobalt oxide painted on white porcelain before glaze: dark outlines, diluted blue washes, slight underglaze bleed, glassy kiln shine.",
+    "description_zh": "釉下青花：钴料在白瓷上先画后釉，深线淡洗、釉下微渗、窑后玻璃光。",
+    "source": "hermes-explore",
+    "image": "styles/3196-underglaze-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3154",
+    "slug": "verre-grave",
+    "name_en": "Verre Gravé",
+    "name_zh": "玻璃雕刻",
+    "description_en": "Verre gravé: diamond-point and burin incisions on a glass plate, frosted white lines catching raking light through refraction, not stained glass.",
+    "description_zh": "玻璃雕刻：钻石针与雕刀在玻璃板上刻出霜白线，掠光折射发亮，而非彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3197-verre-grave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3155",
+    "slug": "reduction-print",
+    "name_en": "Reduction Print",
+    "name_zh": "减版套色",
+    "description_en": "Reduction (suicide) print: one linoleum block cut between successive ink layers so earlier colors remain as islands, knife edges and slight misregistration.",
+    "description_zh": "减版套色：同一块麻胶版逐层切削套印，早层色彩成岛屿，刀口与轻微错版可见。",
+    "source": "hermes-explore",
+    "image": "styles/3198-reduction-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

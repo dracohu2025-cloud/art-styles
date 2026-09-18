@@ -8837,6 +8837,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3193, PNG count 3193. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 631 (exactly 5, h3151–h3155)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                               |
+|-------|-----------------|-------------|-------------------------------------|
+| h3151 | Infrared Film   | 红外胶片    | styles/3194-infrared-film.png       |
+| h3152 | Kinpun          | 金粉撒      | styles/3195-kinpun.png              |
+| h3153 | Underglaze Blue | 釉下青花    | styles/3196-underglaze-blue.png     |
+| h3154 | Verre Gravé     | 玻璃雕刻    | styles/3197-verre-grave.png         |
+| h3155 | Reduction Print | 减版套色    | styles/3198-reduction-print.png     |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3198, PNG count 3198. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
+
 ## Verified
 
 - Catalog length and PNG count match
