@@ -40987,5 +40987,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3111",
+    "slug": "photoelasticity",
+    "name_en": "Photoelasticity",
+    "name_zh": "光弹性",
+    "description_en": "Photoelasticity: circular-polariscope isochromatics — birefringent epoxy under crossed polarizers, repeating yellow-red-blue-green fringe orders and dark isoclinic brushes on a black field; not schlieren streaks, iridescent carnival glass, or holographic foil.",
+    "description_zh": "光弹性：圆偏振光弹性纹，双折射环氧在正交偏振下呈黄红蓝绿级次条纹与暗等倾刷，黑视场；非纹影条带、嘉年华虹彩或全息箔。",
+    "source": "hermes-explore",
+    "image": "styles/3154-photoelasticity.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3112",
+    "slug": "iroe-hori",
+    "name_en": "Iroe-hori",
+    "name_zh": "色绘雕",
+    "description_en": "Iroe-hori: Japanese mixed-metal pictorial engraving — katakiri-bori tapering chisel grooves, kebori hairlines, shakudō/shibuichi/copper grounds with gold and silver nunome inlay and nanako punch; not cloisonné enamel, damascene overlay alone, or niello fill.",
+    "description_zh": "色绘雕：日本色绘金属线刻，片切彫尖变凿沟、毛雕细线，赤铜/四分一/铜地配金银布目镶与鱼子地；非掐丝珐琅、单纯金银错或乌银填刻。",
+    "source": "hermes-explore",
+    "image": "styles/3155-iroe-hori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3113",
+    "slug": "gooch-shading",
+    "name_en": "Gooch Shading",
+    "name_zh": "冷暖着色",
+    "description_en": "Gooch Shading: cool-to-warm NPR tone model — blue-teal unlit regions, peach-orange lit forms, almost no true black, thin suggestive contours; not cel paint, plastic toon rim light, photoreal GI, or grisaille.",
+    "description_zh": "冷暖着色：Gooch 冷暖非真实感着色，暗部偏蓝青、受光偏桃橙，几乎无纯黑，细暗示轮廓；非赛璐珞平涂、塑料卡通描边、真实感全局光或灰色单色。",
+    "source": "hermes-explore",
+    "image": "styles/3156-gooch-shading.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3114",
+    "slug": "oshibana",
+    "name_en": "Oshibana",
+    "name_zh": "押花",
+    "description_en": "Oshibana: pressed-flower pictorial composition — translucent petals, leaves, and stems flattened onto washi as the image itself, veined botanical collage; not a herbarium specimen plate, mosaic tesserae, fabric appliqué, or stained glass.",
+    "description_zh": "押花：压花画面构成，半透明花瓣、叶片与茎压贴和纸成为图像本身，叶脉植物拼贴；非植物标本板、马赛克块、布贴或彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3157-oshibana.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3115",
+    "slug": "calado",
+    "name_en": "Calado",
+    "name_zh": "抽丝镂绣",
+    "description_en": "Calado: Philippine pulled-thread openwork on sheer piña — warp and weft withdrawn into geometric mesh, buttonhole bars and eyelets, extra-weft embroidery on translucent cloth; not broderie anglaise alone, filet crochet, machine lace, or batik.",
+    "description_zh": "抽丝镂绣：菲律宾菠萝麻抽纱镂空，经纬抽去成几何网眼、锁边档与扣眼，薄纱上加纬绣；非单独英格兰白绣、方网钩编、机织蕾丝或蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/3158-calado.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

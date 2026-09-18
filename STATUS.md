@@ -8725,6 +8725,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3153, PNG count 3153. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 623 (exactly 5, h3111–h3115)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h3111 | Photoelasticity | 光弹性      | styles/3154-photoelasticity.png    |
+| h3112 | Iroe-hori       | 色绘雕      | styles/3155-iroe-hori.png          |
+| h3113 | Gooch Shading   | 冷暖着色    | styles/3156-gooch-shading.png      |
+| h3114 | Oshibana        | 押花        | styles/3157-oshibana.png           |
+| h3115 | Calado          | 抽丝镂绣    | styles/3158-calado.png             |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3158, PNG count 3158. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
