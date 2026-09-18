@@ -40792,5 +40792,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3096",
+    "slug": "nigoshide",
+    "name_en": "Nigoshide",
+    "name_zh": "浊手",
+    "description_en": "Nigoshide: Kakiemon milky-white porcelain body — slightly cloudy warm-white glaze, sparse iron-red/yellow/green enamel, large unpainted milky reserve; not crowded Kakiemon brocade, blanc-de-Chine unpainted white, or famille-rose fencai.",
+    "description_zh": "浊手：柿右卫门乳浊白瓷胎，微暖白釉，疏朗红黄绿珐琅，大面积留白；非繁密柿右卫门锦地、德化素白或粉彩满绘。",
+    "source": "hermes-explore",
+    "image": "styles/3139-nigoshide.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3097",
+    "slug": "jihwa",
+    "name_en": "Jihwa",
+    "name_zh": "印花粉青",
+    "description_en": "Jihwa: buncheong stamped white-slip inlay — tiny punch-marks filled with white slip, scraped flush on gray stoneware under pale ash glaze; not mishima line-inlay, sanggam celadon, or polka-dot print.",
+    "description_zh": "印花粉青：粉青沙器戳印白化妆土，刮平嵌于灰胎、薄灰青釉；非三岛线嵌、镶嵌青瓷或圆点印花。",
+    "source": "hermes-explore",
+    "image": "styles/3140-jihwa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3098",
+    "slug": "nara-sansai",
+    "name_en": "Nara Sansai",
+    "name_zh": "奈良三彩",
+    "description_en": "Nara Sansai: 8th-century Japanese lead-glazed three-color ware — pooling leaf-green, amber-brown and creamy-white over earthenware, no cobalt blue; not Tang sancai, Kutani enamel, or celadon.",
+    "description_zh": "奈良三彩：奈良铅釉三色，绿、琥珀与乳白流釉覆陶胎、无钴蓝；非唐三彩、九谷珐琅或青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3141-nara-sansai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3099",
+    "slug": "yusoku",
+    "name_en": "Yusoku",
+    "name_zh": "有职纹样",
+    "description_en": "Yusoku: Heian court yusoku-mon'yo — formal kikko, hanabishi, tatewaku and framed karakusa in kasane color harmonies as court-textile pattern language; not generic seigaiha/asanoha-only, ukiyo-e, or yuzen pictorial.",
+    "description_zh": "有职纹样：平安宫廷纹样体系，龟甲、花菱、立涌与唐草框，叠色配色如织纹；非单一青海波/麻叶、浮世绘或友禅风景。",
+    "source": "hermes-explore",
+    "image": "styles/3142-yusoku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3100",
+    "slug": "andalusi-script",
+    "name_en": "Andalusi Script",
+    "name_zh": "安达卢西体",
+    "description_en": "Andalusi Script: rounded Maghrebi-Andalusian calligraphy illumination — deep bowls and sweeping tails in gold and lapis on parchment with palmette interlace; not square Kufic, Eastern naskh, Thuluth, or Maghribi-only Maghreb manuscripts.",
+    "description_zh": "安达卢西体：圆转马格里布-安达卢西亚书法彩饰，深碗与长尾、金与青金、羊皮纸棕叶交织；非方库法、东纳斯赫、苏鲁斯或纯马格里布体写本。",
+    "source": "hermes-explore",
+    "image": "styles/3143-andalusi-script.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

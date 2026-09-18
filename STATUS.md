@@ -8683,6 +8683,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3138, PNG count 3138. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 620 (exactly 5, h3096–h3100)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h3096 | Nigoshide       | 浊手        | styles/3139-nigoshide.png          |
+| h3097 | Jihwa           | 印花粉青    | styles/3140-jihwa.png              |
+| h3098 | Nara Sansai     | 奈良三彩    | styles/3141-nara-sansai.png        |
+| h3099 | Yusoku          | 有职纹样    | styles/3142-yusoku.png             |
+| h3100 | Andalusi Script | 安达卢西体  | styles/3143-andalusi-script.png    |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3143, PNG count 3143. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
