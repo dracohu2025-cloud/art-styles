@@ -8655,6 +8655,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3128, PNG count 3128. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 618 (exactly 5, h3086–h3090)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                                |
+|-------|-------------------|---------------|--------------------------------------|
+| h3086 | Halkari           | 光晕泥金      | styles/3129-halkari.png              |
+| h3087 | Zer-afshan        | 金屑洒纸      | styles/3130-zer-afshan.png           |
+| h3088 | Petatillo         | 席纹陶绘      | styles/3131-petatillo.png            |
+| h3089 | Manises Lustre    | 马尼塞斯虹彩  | styles/3132-manises-lustre.png       |
+| h3090 | Bianchi di Faenza | 法恩扎白瓷绘  | styles/3133-bianchi-di-faenza.png    |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3133, PNG count 3133. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

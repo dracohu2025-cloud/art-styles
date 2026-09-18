@@ -40662,5 +40662,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3086",
+    "slug": "halkari",
+    "name_en": "Halkari",
+    "name_zh": "光晕泥金",
+    "description_en": "Halkari: Ottoman tezhip gold-halo wash — diluted shell gold painted in radiating blooms and concentric gilt veils on burnished paper; not zer-afshan grit, mosaic gold pigment, or Western icon rings.",
+    "description_zh": "光晕泥金：奥斯曼泥金光晕渲染，壳金稀释成放射晕与同心金纱；非洒金屑、锡金泥或西方圣像光环。",
+    "source": "hermes-explore",
+    "image": "styles/3129-halkari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3087",
+    "slug": "zer-afshan",
+    "name_en": "Zer-afshan",
+    "name_zh": "金屑洒纸",
+    "description_en": "Zer-afshan: Persian gold-fleck sprinkling — gold dust and leaf crumbs scattered into wet size on ivory paper; not halkari wash, solid gold leaf planes, or glitter photography.",
+    "description_zh": "金屑洒纸：波斯洒金，金粉与金箔屑落入湿胶象牙纸；非光晕泥金、整张金箔或闪光摄影。",
+    "source": "hermes-explore",
+    "image": "styles/3130-zer-afshan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3088",
+    "slug": "petatillo",
+    "name_en": "Petatillo",
+    "name_zh": "席纹陶绘",
+    "description_en": "Petatillo: Tonalá ceramic ultra-fine crosshatch like woven petate — cream slip, red-brown and black mineral grids on burnished earthenware; not engraving, woodcut, or pixel art.",
+    "description_zh": "席纹陶绘：托纳拉陶极细席纹交叉排线，白化妆土与红褐黑矿彩于抛光陶；非铜版排线、木刻或像素。",
+    "source": "hermes-explore",
+    "image": "styles/3131-petatillo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3089",
+    "slug": "manises-lustre",
+    "name_en": "Manises Lustre",
+    "name_zh": "马尼塞斯虹彩",
+    "description_en": "Manises Lustre: Hispano-Moresque tin-glaze with copper-silver metallic bloom — honey-gold and ruby-copper sheen over creamy tin white and cobalt drawing; not gold leaf, mercury glass, or Iznik.",
+    "description_zh": "马尼塞斯虹彩：西班牙摩尔锡釉铜银虹彩，蜜金与宝石铜晕覆乳白锡釉与钴蓝勾勒；非金箔、汞银玻璃或伊兹尼克。",
+    "source": "hermes-explore",
+    "image": "styles/3132-manises-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3090",
+    "slug": "bianchi-di-faenza",
+    "name_en": "Bianchi di Faenza",
+    "name_zh": "法恩扎白瓷绘",
+    "description_en": "Bianchi di Faenza: milk-white Faenza tin glaze with sparse in-glaze drawing in pale manganese, blue, and tiny yellow — compendiario lightness, vast bianco ground; not dense istoriato, Delft, or porcelain.",
+    "description_zh": "法恩扎白瓷绘：乳白锡釉上疏淡锰紫、蓝与微黄釉下线描，大片留白；非密铺叙事马约利卡、代尔夫特或硬瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3133-bianchi-di-faenza.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
