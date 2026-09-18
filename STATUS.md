@@ -8711,6 +8711,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3148, PNG count 3148. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 622 (exactly 5, h3106–h3110)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                            |
+|-------|----------------|-----------------|----------------------------------|
+| h3106 | Bastarda       | 杂种哥特体      | styles/3149-bastarda.png         |
+| h3107 | Chronochrome   | 高蒙三色        | styles/3150-chronochrome.png     |
+| h3108 | Goofus Glass   | 古弗斯冷彩玻    | styles/3151-goofus-glass.png     |
+| h3109 | Spatter Glass  | 喷斑玻璃        | styles/3152-spatter-glass.png    |
+| h3110 | Stretch Glass  | 拉伸虹玻        | styles/3153-stretch-glass.png    |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3153, PNG count 3153. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

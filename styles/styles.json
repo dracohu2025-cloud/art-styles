@@ -40922,5 +40922,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3106",
+    "slug": "bastarda",
+    "name_en": "Bastarda",
+    "name_zh": "杂种哥特体",
+    "description_en": "Bastarda: late-medieval lettre bâtarde book hand — iron-gall brown-black, broken angular blackletter fused with cursive loops, pointed minims and spiky descenders on parchment; not Textura quadrata, Fraktur, Rotunda, or copperplate script.",
+    "description_zh": "杂种哥特体：中世纪晚期 lettre bâtarde 书体，铁胆褐黑、折角黑字与草书环结相融，尖短竖与刺状垂笔落于羊皮；非纹理哥特、尖角哥特、圆哥特或铜板圆体。",
+    "source": "hermes-explore",
+    "image": "styles/3149-bastarda.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3107",
+    "slug": "chronochrome",
+    "name_en": "Chronochrome",
+    "name_zh": "高蒙三色",
+    "description_en": "Chronochrome: Gaumont additive three-color cinematography — simultaneous red/green/blue taking filters, dyed projection, slight channel misregistration and early-1910s soft primaries; not Kinemacolor two-color, Technicolor IB dye-transfer, or Pathécolor stencil.",
+    "description_zh": "高蒙三色：高蒙加色三色电影术，红绿蓝同时分色拍摄与染色放映，轻微套准错位与1910年代柔和原色；非运动双色、特艺染印或百代镂彩。",
+    "source": "hermes-explore",
+    "image": "styles/3150-chronochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3108",
+    "slug": "goofus-glass",
+    "name_en": "Goofus Glass",
+    "name_zh": "古弗斯冷彩玻",
+    "description_en": "Goofus Glass: cold-painted pressed glass — unfired bright enamels and metallic gold brushed onto molded clear or carnival glass, paint sitting on the surface and prone to wear; not iridized carnival stretch, flashed stain, or kiln-fired enamel.",
+    "description_zh": "古弗斯冷彩玻：冷绘压制玻璃，未烧亮珐琅与金属金刷于模压透明或嘉年华玻表面，颜料浮着易磨损；非虹彩拉伸嘉年华、闪层染色或烧成珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3151-goofus-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3109",
+    "slug": "spatter-glass",
+    "name_en": "Spatter Glass",
+    "name_zh": "喷斑玻璃",
+    "description_en": "Spatter Glass: cased art glass with trapped chips — random flecks of contrasting colored glass spattered between clear and opaque casings, end-of-day speckled interior; not millefiori murrine, aventurine glitter, or marbleized slag.",
+    "description_zh": "喷斑玻璃：套色艺术玻璃夹层洒屑，对比色玻璃碎末随机喷嵌于透明与乳浊套层之间，余料斑点内观；非千花穆林、金星闪片或熔渣绞色。",
+    "source": "hermes-explore",
+    "image": "styles/3152-spatter-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3110",
+    "slug": "stretch-glass",
+    "name_en": "Stretch Glass",
+    "name_zh": "拉伸虹玻",
+    "description_en": "Stretch Glass: American iridescent glass reheated after metallic spray so the lustre micro-cracks into stretch marks — onion-skin sheen and pulled radial lines; not ordinary carnival without stretch, Favrile/Aurene, or cold-painted Goofus.",
+    "description_zh": "拉伸虹玻：美国虹彩玻璃在喷金属光后复烧，虹彩微裂成拉伸纹，葱皮光泽与放射拉丝；非无拉伸嘉年华虹彩、法夫赖尔/奥伦或冷绘古弗斯。",
+    "source": "hermes-explore",
+    "image": "styles/3153-stretch-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
