@@ -8585,6 +8585,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3103, PNG count 3103. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 613 (exactly 5, h3061–h3065)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                          |
+|-------|---------------|-------------|--------------------------------|
+| h3061 | Aburage-de    | 油揚手      | styles/3104-aburage-de.png     |
+| h3062 | Takabori      | 高彫        | styles/3105-takabori.png       |
+| h3063 | Iro-Nabeshima | 色鍋島      | styles/3106-iro-nabeshima.png  |
+| h3064 | Scozzese      | 苏格兰纹玻  | styles/3107-scozzese.png       |
+| h3065 | Suribiten     | 摺匹田      | styles/3108-suribiten.png      |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3108, PNG count 3108. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

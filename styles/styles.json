@@ -40337,5 +40337,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3061",
+    "slug": "aburage-de",
+    "name_en": "Aburage-de",
+    "name_zh": "油揚手",
+    "description_en": "Aburage-de: Shino glaze like fried tofu — thick feldspar white, pinholes, orange-fire blush, crawling islands and iron specks; not Nezumi-shino gray, not Ki-Seto yellow, not hakeme brush-slip.",
+    "description_zh": "油揚手：志野油揚质感釉，厚长石白、针孔、火色橙晕、缩釉岛与铁斑；非鼠志野灰、黄濑户或刷毛目。",
+    "source": "hermes-explore",
+    "image": "styles/3104-aburage-de.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3062",
+    "slug": "takabori",
+    "name_en": "Takabori",
+    "name_zh": "高彫",
+    "description_en": "Takabori: Japanese high-relief metal carving — undercut chisel planes, polished ridges vs matte recesses, gold on shakudo; not kebori hairline engraving, not sukashibori openwork, not katakiri-bori slant cuts.",
+    "description_zh": "高彫：高浮雕錾刻，底切刀面、亮脊与哑底、金与赤铜对比；非毛彫细线、透彫镂空或片切斜刀。",
+    "source": "hermes-explore",
+    "image": "styles/3105-takabori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3063",
+    "slug": "iro-nabeshima",
+    "name_en": "Iro-Nabeshima",
+    "name_zh": "色鍋島",
+    "description_en": "Iro-Nabeshima: overglaze enamel on reserved milky Nabeshima porcelain — sparse iron-red, pale yellow, celadon green, cobalt outline; not Kutani gold clutter, not sometsuke blue-only, not Kakiemon scatter.",
+    "description_zh": "色鍋島：乳白瓷上疏朗色绘，铁红、淡黄、青磁绿与钴线；非九谷堆金、染付单青或柿右卫门散花。",
+    "source": "hermes-explore",
+    "image": "styles/3106-iro-nabeshima.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3064",
+    "slug": "scozzese",
+    "name_en": "Scozzese",
+    "name_zh": "苏格兰纹玻",
+    "description_en": "Scozzese: Venetian tartan cane lattice fused in clear glass — crossed filigree rods, optical refraction, trapped air; not fabric tartan, not stained-glass leading, not millefiori slices.",
+    "description_zh": "苏格兰纹玻：穆拉诺格子绞丝熔于澄玻，交叉费利格里、折射与气泡；非织物格纹、镶嵌彩窗或千花切片。",
+    "source": "hermes-explore",
+    "image": "styles/3107-scozzese.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3065",
+    "slug": "suribiten",
+    "name_en": "Suribiten",
+    "name_zh": "摺匹田",
+    "description_en": "Suribiten: stencil-printed kanoko — regular mechanical white resist dots, slight stencil smear on deep dye; not tied kanoko puckers, not hitta-shibori, not fashion polka-dot print.",
+    "description_zh": "摺匹田：型摺鹿子，规则机械白防染点、轻微糊边渗于深染；非绑绞鹿子褶皱、匹田絞或时装波点。",
+    "source": "hermes-explore",
+    "image": "styles/3108-suribiten.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
