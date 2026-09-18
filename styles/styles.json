@@ -41637,5 +41637,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3161",
+    "slug": "hard-ground",
+    "name_en": "Hard Ground",
+    "name_zh": "硬底蚀刻",
+    "description_en": "Hard-ground etching: needle lines bitten through a hard wax ground, razor-sharp black hatch, faint plate tone, wiped highlights, ink in grooves.",
+    "description_zh": "硬底蚀刻：钢针划开硬蜡底后咬蚀，线条锐利，浅灰版调，擦白高光，油墨陷于沟槽。",
+    "source": "hermes-explore",
+    "image": "styles/3204-hard-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3162",
+    "slug": "blend-roll",
+    "name_en": "Blend Roll",
+    "name_zh": "混色辊",
+    "description_en": "Blend-roll printmaking: one inking roller lays a continuous wet CMY gradient, overlapping color bands and slight ink squash at the edges.",
+    "description_zh": "混色辊：单辊一次上墨铺开连续湿润的青品红黄渐变，色带交叠，边缘略有油墨挤痕。",
+    "source": "hermes-explore",
+    "image": "styles/3205-blend-roll.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3163",
+    "slug": "lost-and-found-edge",
+    "name_en": "Lost and Found Edge",
+    "name_zh": "虚实边",
+    "description_en": "Lost-and-found edge painting: some contours cut sharp against the ground, others dissolve into neighboring tone so the silhouette is only implied.",
+    "description_zh": "虚实边：部分轮廓贴地切开，部分溶入邻色，形只被暗示而不被描死。",
+    "source": "hermes-explore",
+    "image": "styles/3206-lost-and-found-edge.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3164",
+    "slug": "burnished-gold",
+    "name_en": "Burnished Gold",
+    "name_zh": "抛光金箔",
+    "description_en": "Burnished water-gilding: gold leaf over red bole, mirror-polished sheen, punchwork dots, hairline bole cracks—not spray metal, not chrome.",
+    "description_zh": "抛光金箔：红粘土金底上贴金并抛至镜面，点錾纹，细裂纹透出红底，非喷金亦非铬面。",
+    "source": "hermes-explore",
+    "image": "styles/3207-burnished-gold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3165",
+    "slug": "fm-screening",
+    "name_en": "FM Screening",
+    "name_zh": "调频加网",
+    "description_en": "FM / stochastic screening: image built from randomly scattered micro-dots of varying density, no AM rosette or grid angle, offset-print stipple.",
+    "description_zh": "调频加网：随机散布的微网点构成图像，无调幅玫瑰斑与网角，呈胶印随机点状。",
+    "source": "hermes-explore",
+    "image": "styles/3208-fm-screening.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
