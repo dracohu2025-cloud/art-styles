@@ -40532,5 +40532,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3076",
+    "slug": "latticinio",
+    "name_en": "Latticinio",
+    "name_zh": "乳丝玻璃",
+    "description_en": "Latticinio: Venetian lattimo threads twisted as filigree canes in clear cristallo — milky spiral nets, trapped beads, fire-polished cane joins; not millefiori dots, not reticello grid, not painted porcelain.",
+    "description_zh": "乳丝玻璃：威尼斯乳浊白丝绞入澄澈水晶玻成花丝网、气泡与火抛接头；非千花点、网纹玻或彩绘瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3119-latticinio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3077",
+    "slug": "kawakujira",
+    "name_en": "Kawakujira",
+    "name_zh": "皮鯨",
+    "description_en": "Kawakujira: Karatsu iron-slip “whale-skin” rim on sandy ash-glazed stoneware — dense black-brown banding at the lip, coarse clay grit; not Oribe green, not Shino feldspath, not tenmoku oil-spot.",
+    "description_zh": "皮鯨：唐津铁化妆土口沿如鲸皮，砂质灰釉炻胎与粗粒；非织部绿、志野长石或天目油滴。",
+    "source": "hermes-explore",
+    "image": "styles/3120-kawakujira.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3078",
+    "slug": "schmelzglas",
+    "name_en": "Schmelzglas",
+    "name_zh": "熔花玻璃",
+    "description_en": "Schmelzglas: Bohemian fused marbled glass — opaque and translucent colors melted into agate veins and fire-polished furnace skin; not millefiori slices, not latticinio threads, not painted ceramic.",
+    "description_zh": "熔花玻璃：波希米亚熔色大理石纹玻，乳浊与透明色绞成玛瑙脉、火抛窑表；非千花切片、乳丝或彩绘陶。",
+    "source": "hermes-explore",
+    "image": "styles/3121-schmelzglas.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3079",
+    "slug": "joggled-slip",
+    "name_en": "Joggled Slip",
+    "name_zh": "摇纹化妆土",
+    "description_en": "Joggled slip: 18th-c English colored slips shaken into marbled waves and loops on earthenware, then lead-glazed amber; not mocha dendrites, not agateware solid clay, not marbled paper.",
+    "description_zh": "摇纹化妆土：十八世纪英国色浆摇出大理石浪纹与回环，铅釉琥珀光；非摩卡树枝纹、绞胎泥或大理石纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/3122-joggled-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3080",
+    "slug": "bakji",
+    "name_en": "Bakji",
+    "name_zh": "剥地粉青",
+    "description_en": "Bakji: Joseon buncheong reverse-inlay — white slip carved away so dark clay reads as bold floral reserves under a thin glaze; not sanggam line inlay, not hakeme brush slip, not blue-and-white porcelain.",
+    "description_zh": "剥地粉青：朝鲜粉青剥地，白化妆土刮去露出深色胎成大花纹，薄釉；非象嵌线、刷毛目或青花瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3123-bakji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
