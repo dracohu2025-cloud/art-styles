@@ -41182,5 +41182,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3126",
+    "slug": "sumi-zogan",
+    "name_en": "Sumi-zogan",
+    "name_zh": "墨象嵌",
+    "description_en": "Japanese metal inlay that draws like ink: hair-fine silver and gold lines flush-set in dark shakudo or iron, polished so the image reads as calligraphy on patinated metal.",
+    "description_zh": "日本墨象嵌：金银细线平嵌于黑金或铁地，抛光后如金属上的墨线描绘。",
+    "source": "hermes-explore",
+    "image": "styles/3169-sumi-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3127",
+    "slug": "khotan-mural",
+    "name_en": "Khotan Mural",
+    "name_zh": "于阗壁画",
+    "description_en": "Silk Road oasis wall painting: mineral pigment on abraded plaster, Greco-Buddhist modeling, terracotta and lapis earth palette, haloed contour, sand-worn fresco flatness.",
+    "description_zh": "于阗绿洲壁画：矿物颜料绘于风化泥壁，希腊式体积、土红石青、头光与沙蚀平涂。",
+    "source": "hermes-explore",
+    "image": "styles/3170-khotan-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3128",
+    "slug": "ambient-occlusion",
+    "name_en": "Ambient Occlusion",
+    "name_zh": "环境光遮蔽",
+    "description_en": "CG AO beauty pass: cavity contact shadows, clay-gray form, no key light or albedo, soft occlusion in folds and under-planes, studio void.",
+    "description_zh": "三维环境光遮蔽：灰泥形体、缝隙接触影、无主光无固有色，褶皱与底面柔遮蔽。",
+    "source": "hermes-explore",
+    "image": "styles/3171-ambient-occlusion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3129",
+    "slug": "cross-polarization",
+    "name_en": "Cross Polarization",
+    "name_zh": "正交偏振",
+    "description_en": "Cross-polarized studio look: specular glare killed, ultra-saturated matte pigment, even clinical light, plastic-dense color with no bloom hotspots.",
+    "description_zh": "正交偏振摄影：高光尽灭、色素极饱和、无眩光均匀布光，如哑光密实的色彩。",
+    "source": "hermes-explore",
+    "image": "styles/3172-cross-polarization.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3130",
+    "slug": "wool-painting",
+    "name_en": "Wool Painting",
+    "name_zh": "羊毛画",
+    "description_en": "Painterly needle-felted wool: visible rovings, blended fiber clouds, punch texture and fuzzy edges, color laid as dyed fleece rather than brush pigment.",
+    "description_zh": "羊毛画：可见毛条、揉毡色云、针刺肌理与绒边，以色羊毛铺绘而非笔触颜料。",
+    "source": "hermes-explore",
+    "image": "styles/3173-wool-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
