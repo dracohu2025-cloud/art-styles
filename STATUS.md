@@ -8613,6 +8613,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3113, PNG count 3113. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 615 (exactly 5, h3071–h3075)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                           |
+|-------|----------------|-------------|---------------------------------|
+| h3071 | Spangled Glass | 闪片玻璃    | styles/3114-spangled-glass.png  |
+| h3072 | Overshot Glass | 碎玻覆层    | styles/3115-overshot-glass.png  |
+| h3073 | Mokume-shibori | 木目絞      | styles/3116-mokume-shibori.png  |
+| h3074 | Adire Oniko    | 奥尼科扎染  | styles/3117-adire-oniko.png     |
+| h3075 | Mercury Glass  | 汞银玻璃    | styles/3118-mercury-glass.png   |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3118, PNG count 3118. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

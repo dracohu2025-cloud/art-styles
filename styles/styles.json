@@ -40467,5 +40467,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3071",
+    "slug": "spangled-glass",
+    "name_en": "Spangled Glass",
+    "name_zh": "闪片玻璃",
+    "description_en": "Spangled glass: Victorian melt seeded with mica and metallic flakes that sparkle in translucent colored glass, fire-polished furnace skin; not carnival iridescence, not aventurine goldstone, not glitter overlay.",
+    "description_zh": "闪片玻璃：维多利亚熔料中嵌云母与金属片，透色玻内闪光，火抛窑表；非嘉年华虹彩、金星石玻或电脑闪粉。",
+    "source": "hermes-explore",
+    "image": "styles/3114-spangled-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3072",
+    "slug": "overshot-glass",
+    "name_en": "Overshot Glass",
+    "name_zh": "碎玻覆层",
+    "description_en": "Overshot glass: hot gather rolled in crushed shards that fuse as a raised icy crust over smoother inner glass — hammered-ice peaks and trapped air; not water-shock ice glass, not spangled mica, not hobnail mold.",
+    "description_zh": "碎玻覆层：热料滚压碎玻熔成凸起冰壳覆于内层澄玻，锤冰峰与气泡；非淬水冰裂玻、闪片云母或钉头模压。",
+    "source": "hermes-explore",
+    "image": "styles/3115-overshot-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3073",
+    "slug": "mokume-shibori",
+    "name_en": "Mokume-shibori",
+    "name_zh": "木目絞",
+    "description_en": "Mokume-shibori: parallel running-stitch resist dyed indigo, concentric wood-grain rings and oval undyed eyes in cotton; not mokume-gane metal, not arashi pole-wrap, not kanoko dots.",
+    "description_zh": "木目絞：平行细缝防染入靛蓝，同心木纹环与本白椭圆眼；非木目金、嵐絞斜纹或鹿子点。",
+    "source": "hermes-explore",
+    "image": "styles/3116-mokume-shibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3074",
+    "slug": "adire-oniko",
+    "name_en": "Adire Oniko",
+    "name_zh": "奥尼科扎染",
+    "description_en": "Adire oniko: Yoruba raffia-tie indigo — pinched bunches bound before dip-dye, pale sunburst medallions and seed-dots on deep indigo cotton; not eleko paste stencil, not alabere stitch-resist, not Japanese shibori.",
+    "description_zh": "奥尼科扎染：约鲁巴raffia捆扎靛蓝，扎束浸染成浅色日晕圆章与籽点；非木薯糊型染、缝防染或日本絞染。",
+    "source": "hermes-explore",
+    "image": "styles/3117-adire-oniko.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3075",
+    "slug": "mercury-glass",
+    "name_en": "Mercury Glass",
+    "name_zh": "汞银玻璃",
+    "description_en": "Mercury glass: silvered double-wall glass with cloudy amalgam mirror, antique bloom and foxing behind clear outer glass; not chrome CGI, not mercury-gilding on metal, not stained glass.",
+    "description_zh": "汞银玻璃：双层玻内壁汞齐镜面，外层澄玻下旧银雾与狐斑；非铬面CGI、金属汞镀金或彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3118-mercury-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
