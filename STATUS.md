@@ -8823,6 +8823,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3188, PNG count 3188. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 630 (exactly 5, h3146–h3150)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h3146 | Pixilation      | 真人定格    | styles/3189-pixilation.png         |
+| h3147 | Scheimpflug     | 沙姆弗勒格  | styles/3190-scheimpflug.png        |
+| h3148 | Day for Night   | 日拍夜景    | styles/3191-day-for-night.png      |
+| h3149 | Spot Color      | 专色        | styles/3192-spot-color.png         |
+| h3150 | Pepper's Ghost  | 佩珀尔幻象  | styles/3193-peppers-ghost.png      |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3193, PNG count 3193. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -41442,5 +41442,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3146",
+    "slug": "pixilation",
+    "name_en": "Pixilation",
+    "name_zh": "真人定格",
+    "description_en": "Stop-motion of a live performer treated as a puppet: staccato frozen stride, onion-skin stepped afterimages, chalk tick-marks, 16mm grain — not motion blur.",
+    "description_zh": "真人定格：把活人当偶逐帧摆拍，顿挫冻结步态、洋葱皮式错位残影、地面粉笔记号与16毫米颗粒，而非运动模糊。",
+    "source": "hermes-explore",
+    "image": "styles/3189-pixilation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3147",
+    "slug": "scheimpflug",
+    "name_en": "Scheimpflug",
+    "name_zh": "沙姆弗勒格",
+    "description_en": "Large-format view-camera swing/tilt: a razor-thin Scheimpflug plane of focus slices the face while floor and background fall to optical blur from camera movements.",
+    "description_zh": "沙姆弗勒格：大画幅移轴摇摆，极薄焦平面斜切面孔，地面与背景因机背运动而光学虚化。",
+    "source": "hermes-explore",
+    "image": "styles/3190-scheimpflug.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3148",
+    "slug": "day-for-night",
+    "name_en": "Day for Night",
+    "name_zh": "日拍夜景",
+    "description_en": "Nuit américaine cinematography: daylight underexposed as steel-blue moonlight, sky still too bright for true night, crushed navy shadows and warm practicals.",
+    "description_zh": "日拍夜景：白日镜头压成钢蓝月光，天空仍过亮不像真夜，藏青死黑阴影混钨丝暖灯。",
+    "source": "hermes-explore",
+    "image": "styles/3191-day-for-night.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3149",
+    "slug": "spot-color",
+    "name_en": "Spot Color",
+    "name_zh": "专色",
+    "description_en": "Commercial spot-color print: dense black ink on uncoated paper plus one vermilion PMS plate on lips, ribbon, and a graphic block, with slight two-plate misregistration.",
+    "description_zh": "专色：未涂布纸上的浓黑油墨加一块朱红专色版，落在唇、发带与色块，带轻微套准偏差。",
+    "source": "hermes-explore",
+    "image": "styles/3192-spot-color.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3150",
+    "slug": "peppers-ghost",
+    "name_en": "Pepper's Ghost",
+    "name_zh": "佩珀尔幻象",
+    "description_en": "Victorian theatrical illusion: a 45-degree glass plane reflects a hidden figure as a translucent spectral double overlapping the performer under footlights.",
+    "description_zh": "佩珀尔幻象：维多利亚舞台用四十五度玻璃把隐藏人像反射成半透明叠影，脚光下与真人重叠。",
+    "source": "hermes-explore",
+    "image": "styles/3193-peppers-ghost.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
