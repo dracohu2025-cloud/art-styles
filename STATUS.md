@@ -8795,6 +8795,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3178, PNG count 3178. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 628 (exactly 5, h3136–h3140)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                                |
+|-------|-------------------|-------------|--------------------------------------|
+| h3136 | Calligram         | 图形诗      | styles/3179-calligram.png            |
+| h3137 | Jianshui          | 建水紫陶    | styles/3180-jianshui.png             |
+| h3138 | Redwork           | 红线绣      | styles/3181-redwork.png              |
+| h3139 | Halation          | 卤化银光晕  | styles/3182-halation.png             |
+| h3140 | Anamorphic Flare  | 变形光斑    | styles/3183-anamorphic-flare.png     |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3183, PNG count 3183. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

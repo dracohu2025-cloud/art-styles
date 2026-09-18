@@ -41312,5 +41312,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3136",
+    "slug": "calligram",
+    "name_en": "Calligram",
+    "name_zh": "图形诗",
+    "description_en": "Picture built from packed letterforms and cursive script that fill silhouette, hair and cloth; type density stands in for shade, no conventional outline or painterly skin.",
+    "description_zh": "图形诗：整幅形象由填满轮廓、发丝与衣褶的字与手写体构成，字距疏密代替明暗，不用常规勾线或皮肤笔触。",
+    "source": "hermes-explore",
+    "image": "styles/3179-calligram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3137",
+    "slug": "jianshui",
+    "name_en": "Jianshui",
+    "name_zh": "建水紫陶",
+    "description_en": "Burnished Jianshui zitao: dense purple-black clay, mirror polish, carved intaglio with pale slip inlay ground flush—form from clay body and inlay, not overglaze paint.",
+    "description_zh": "建水紫陶：紫黑泥胎高抛光，阴刻填浅色泥再磨平，造型靠泥色与嵌泥，不用釉上彩。",
+    "source": "hermes-explore",
+    "image": "styles/3180-jianshui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3138",
+    "slug": "redwork",
+    "name_en": "Redwork",
+    "name_zh": "红线绣",
+    "description_en": "Turkey-red outline and stem stitch on white evenweave; single-color embroidery drawing with visible cloth grid and stitch texture, no extra hues.",
+    "description_zh": "红线绣：白底平纹布上仅用土耳其红轮廓线与梗针，可见布纹与针脚，不加其他色。",
+    "source": "hermes-explore",
+    "image": "styles/3181-redwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3139",
+    "slug": "halation",
+    "name_en": "Halation",
+    "name_zh": "卤化银光晕",
+    "description_en": "Analog silver-halide halation: red-orange glow blooming around lamps and specular rims, slight emulsion scatter on otherwise photographic color.",
+    "description_zh": "卤化银光晕：灯火与高光边缘渗出橙红光晕，轻微乳剂散射，其余保持照片色。",
+    "source": "hermes-explore",
+    "image": "styles/3182-halation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3140",
+    "slug": "anamorphic-flare",
+    "name_en": "Anamorphic Flare",
+    "name_zh": "变形光斑",
+    "description_en": "Widescreen anamorphic optics as style: horizontal streak flares, blue-tinted oval bokeh, and stretched highlight bars from a cinema lens.",
+    "description_zh": "变形光斑：变形宽银幕镜头的水平光条、蓝调椭圆焦外与拉长高光，光学眩光即风格。",
+    "source": "hermes-explore",
+    "image": "styles/3183-anamorphic-flare.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
