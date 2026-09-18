@@ -8781,6 +8781,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3173, PNG count 3173. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 627 (exactly 5, h3131–h3135)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en              | name_zh     | image                                |
+|-------|----------------------|-------------|--------------------------------------|
+| h3131 | Kalamezhuthu         | 卡拉梅朱图  | styles/3174-kalamezhuthu.png         |
+| h3132 | Konnyaku Paper       | 蒟蒻纸      | styles/3175-konnyaku-paper.png       |
+| h3133 | Qiaose               | 俏色        | styles/3176-qiaose.png               |
+| h3134 | Global Illumination  | 全局光照    | styles/3177-global-illumination.png  |
+| h3135 | Dong Brocade         | 侗锦        | styles/3178-dong-brocade.png         |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3178, PNG count 3178. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

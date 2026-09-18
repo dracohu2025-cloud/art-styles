@@ -41247,5 +41247,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3131",
+    "slug": "kalamezhuthu",
+    "name_en": "Kalamezhuthu",
+    "name_zh": "卡拉梅朱图",
+    "description_en": "Kerala ritual floor drawing in dry colored powders: rice-flour white, turmeric, charcoal, leaf green and brick-red laid grain-by-grain into concentric deity diagrams with powder edges, no wet paint.",
+    "description_zh": "卡拉梅朱图：喀拉拉仪式地绘，以米粉白、姜黄、木炭、叶绿与砖红干粉逐粒铺成同心神图，粉边可吹散，无湿绘笔触。",
+    "source": "hermes-explore",
+    "image": "styles/3174-kalamezhuthu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3132",
+    "slug": "konnyaku-paper",
+    "name_en": "Konnyaku Paper",
+    "name_zh": "蒟蒻纸",
+    "description_en": "Washi sized with konjac starch, crumpled and dried to a tough wrinkled sheet: starch sheen in creases, mulberry-bark specks, deckle tears, drawing distorted by the treated paper’s ridges.",
+    "description_zh": "蒟蒻纸：和纸浸蒟蒻浆后揉皱晾干，纤维强韧起皱，褶中浆光、楮皮斑点与毛边，画面随纸棱扭曲。",
+    "source": "hermes-explore",
+    "image": "styles/3175-konnyaku-paper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3133",
+    "slug": "qiaose",
+    "name_en": "Qiaose",
+    "name_zh": "俏色",
+    "description_en": "Jade/stone carving that uses the boulder’s native color veins as the picture’s hues—russet skin, celadon body, ink inclusions—no applied pigment, only polish and tool-cut depth.",
+    "description_zh": "俏色：以玉石天然皮色与绺纹为画面色彩，赭皮、青白肉、墨点皆石色，不施颜料，只见抛光与刀痕层次。",
+    "source": "hermes-explore",
+    "image": "styles/3176-qiaose.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3134",
+    "slug": "global-illumination",
+    "name_en": "Global Illumination",
+    "name_zh": "全局光照",
+    "description_en": "Path-traced multi-bounce lighting: color bleeding, indirect irradiance and hemisphere fill, materials lit by computed GI rather than a single key light.",
+    "description_zh": "全局光照：路径追踪多弹射照明，色溢、间接辐照与半球补光，材质由计算GI点亮而非单主光。",
+    "source": "hermes-explore",
+    "image": "styles/3177-global-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3135",
+    "slug": "dong-brocade",
+    "name_en": "Dong Brocade",
+    "name_zh": "侗锦",
+    "description_en": "Dong weft-faced geometric brocade: supplementary-weft diamonds, stars and suns in indigo, vermilion, white and black, warp/weft grid and float logic of handwoven cloth.",
+    "description_zh": "侗锦：侗族纬面几何织锦，以妆花纬织菱、星与日纹，靛蓝、朱红、黑白对比，可见经纬网格与浮纬组织。",
+    "source": "hermes-explore",
+    "image": "styles/3178-dong-brocade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
