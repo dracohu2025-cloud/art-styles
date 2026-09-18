@@ -41117,5 +41117,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3121",
+    "slug": "galvanoplasty",
+    "name_en": "Galvanoplasty",
+    "name_zh": "电铸浮雕",
+    "description_en": "Electroforming builds the figure in deposited copper and nickel: dendritic crystal growth, nodular accretions, cathode-edge beading, burnished highs and patinated pits.",
+    "description_zh": "电铸沉积铜镍塑形：枝晶生长、瘤状堆积、阴极边缘串珠、抛光高光与坑内铜绿。",
+    "source": "hermes-explore",
+    "image": "styles/3164-galvanoplasty.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3122",
+    "slug": "counter-enamel",
+    "name_en": "Counter-enamel",
+    "name_zh": "背珐琅",
+    "description_en": "Reverse-side vitreous enamel on a metal plaque: cloudy flux blues, opaque white counter-enamel, iron-red fire-scale at the rim, glassy pitted backing.",
+    "description_zh": "金属胎背面珐琅：乳浊熔剂蓝、不透明白背珐琅、边缘火锈红、玻璃质麻点底。",
+    "source": "hermes-explore",
+    "image": "styles/3165-counter-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3123",
+    "slug": "crackle-glaze",
+    "name_en": "Crackle Glaze",
+    "name_zh": "开片釉",
+    "description_en": "Porcelain ice-crackle crazing: Ru-like dense glaze network with Ge-ware golden iron stain in the fissures, pooling celadon-ivory glaze over the body.",
+    "description_zh": "瓷釉开片：汝窑式细冰裂纹与哥窑铁线金丝渗色，青白釉积釉覆于坯上。",
+    "source": "hermes-explore",
+    "image": "styles/3166-crackle-glaze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3124",
+    "slug": "jasper-dip",
+    "name_en": "Jasper Dip",
+    "name_zh": "碧玉浸色",
+    "description_en": "Wedgwood jasper dip: matte dip-dyed ground, white sprigged relief, unglazed biscuit stoneware, and a visible dip-line at the color transition.",
+    "description_zh": "韦奇伍德碧玉浸色：无光浸染地色、白色贴花浮雕、素烧炻器，色界可见浸线。",
+    "source": "hermes-explore",
+    "image": "styles/3167-jasper-dip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3125",
+    "slug": "gold-glass",
+    "name_en": "Gold-glass",
+    "name_zh": "金底玻璃",
+    "description_en": "Late antique fondi d'oro: engraved gold leaf sandwiched in fused glass, honey-gold foil line drawing, trapped bubbles, circular medallion in deep glass.",
+    "description_zh": "晚期古典金底夹玻：金箔线刻夹熔于玻璃之间，蜜金划线、气泡与深色玻璃圆章。",
+    "source": "hermes-explore",
+    "image": "styles/3168-gold-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

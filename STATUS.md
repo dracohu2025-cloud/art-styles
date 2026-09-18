@@ -8753,6 +8753,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image (xAI) and saved at 1672×941. Catalog 3163, PNG count 3163. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 625 (exactly 5, h3121–h3125)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                              |
+|-------|-----------------|-------------|------------------------------------|
+| h3121 | Galvanoplasty   | 电铸浮雕    | styles/3164-galvanoplasty.png      |
+| h3122 | Counter-enamel  | 背珐琅      | styles/3165-counter-enamel.png     |
+| h3123 | Crackle Glaze   | 开片釉      | styles/3166-crackle-glaze.png      |
+| h3124 | Jasper Dip      | 碧玉浸色    | styles/3167-jasper-dip.png         |
+| h3125 | Gold-glass      | 金底玻璃    | styles/3168-gold-glass.png         |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3168, PNG count 3168. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
