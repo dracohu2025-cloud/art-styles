@@ -43197,5 +43197,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3281",
+    "slug": "japine",
+    "name_en": "Japine",
+    "name_zh": "雅皮铂面",
+    "description_en": "Japine: Willis parchmentized platinum paper — warm-black platinum-palladium sitting in the rag, dry satin vellum tooth, no silver sheen, continuous tone.",
+    "description_zh": "雅皮铂面：威利斯羊皮化铂钯相纸，暖黑铂影沉入纸体，干缎面牛皮纸齿，无银光，连续调。",
+    "source": "hermes-explore",
+    "image": "styles/3324-japine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3282",
+    "slug": "filmcolor",
+    "name_en": "Filmcolor",
+    "name_zh": "胶片奥托彩",
+    "description_en": "Filmcolor: Lumière mosaic-screen cine film — dyed starch-grain tesserae, dusty rose and bottle-green pointillism, soft autochrome glow without glass-plate thickness.",
+    "description_zh": "胶片奥托彩：卢米埃尔彩屏胶片，染色淀粉粒镶嵌，粉玫瑰与瓶绿点彩，柔和奥托辉光而无玻璃厚感。",
+    "source": "hermes-explore",
+    "image": "styles/3325-filmcolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3283",
+    "slug": "waxed-paper-process",
+    "name_en": "Waxed-paper Process",
+    "name_zh": "蜡纸负片",
+    "description_en": "Waxed-paper Process: Le Gray waxed paper negative — laid-fiber grain through the image, honey-brown calotype warmth, wax-filled sharpness in the rag.",
+    "description_zh": "蜡纸负片：勒格雷蜡纸负像，帘纹纤维贯入画面，蜜棕卡罗暖调，蜡填纤维处更锐。",
+    "source": "hermes-explore",
+    "image": "styles/3326-waxed-paper-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3284",
+    "slug": "maki-nori",
+    "name_en": "Maki-nori",
+    "name_zh": "撒糊防染",
+    "description_en": "Maki-nori: sprinkled rice-paste resist — sesame-white paste crumbs on indigo-madder cloth, dye bleed at paste edges, visible weave.",
+    "description_zh": "撒糊防染：米糊碎屑防染，芝麻白点洒在靛蓝与茜红布面，糊边渗染，织纹可见。",
+    "source": "hermes-explore",
+    "image": "styles/3327-maki-nori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3285",
+    "slug": "raylo",
+    "name_en": "Raylo",
+    "name_zh": "雷洛彩印",
+    "description_en": "Raylo: 1920s three-color pigment paper — stacked CMY tissues, chalky pastel color, slight misregister fringe, matte pigment not chromogenic gloss.",
+    "description_zh": "雷洛彩印：1920年代三色色素纸，青品黄叠层，粉质淡彩，轻微套准偏移，无成色法光泽。",
+    "source": "hermes-explore",
+    "image": "styles/3328-raylo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

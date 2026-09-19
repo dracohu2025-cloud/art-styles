@@ -9201,6 +9201,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3323, PNG count 3323. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 657 (exactly 5, h3281–h3285)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh      | image                                 |
+|-------|---------------------|--------------|---------------------------------------|
+| h3281 | Japine              | 雅皮铂面     | styles/3324-japine.png                |
+| h3282 | Filmcolor           | 胶片奥托彩   | styles/3325-filmcolor.png             |
+| h3283 | Waxed-paper Process | 蜡纸负片     | styles/3326-waxed-paper-process.png   |
+| h3284 | Maki-nori           | 撒糊防染     | styles/3327-maki-nori.png             |
+| h3285 | Raylo               | 雷洛彩印     | styles/3328-raylo.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3328, PNG count 3328. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
