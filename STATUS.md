@@ -9033,6 +9033,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3263, PNG count 3263. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 645 (exactly 5, h3221–h3225)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                                  |
+|-------|------------------|-------------|----------------------------------------|
+| h3221 | Flexichrome      | 柔性彩绘片  | styles/3264-flexichrome.png            |
+| h3222 | Rawlins Oil      | 罗林斯油印  | styles/3265-rawlins-oil.png            |
+| h3223 | Taupenot         | 托普诺干版  | styles/3266-taupenot.png               |
+| h3224 | Claude Glass     | 克劳德镜    | styles/3267-claude-glass.png           |
+| h3225 | Resinopigmentype | 树脂颜料印  | styles/3268-resinopigmentype.png       |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3268, PNG count 3268. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

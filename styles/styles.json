@@ -42417,5 +42417,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3221",
+    "slug": "flexichrome",
+    "name_en": "Flexichrome",
+    "name_zh": "柔性彩绘片",
+    "description_en": "Kodak Flexichrome dye-relief: a gelatin gray key soaked with transparent hand dyes, stained-glass color over a photographic armature, waxy dye edges.",
+    "description_zh": "柔性彩绘片：明胶灰调底上浸染透明手涂染料，如彩绘玻璃覆于照相骨架，染料边缘略带蜡质。",
+    "source": "hermes-explore",
+    "image": "styles/3264-flexichrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3222",
+    "slug": "rawlins-oil",
+    "name_en": "Rawlins Oil",
+    "name_zh": "罗林斯油印",
+    "description_en": "Rawlins oil print: a bichromated gelatin matrix inked with greasy lithographic pigment, velvety oil grain, creamy uninked highlights, slight plate tone.",
+    "description_zh": "罗林斯油印：重铬酸盐明胶模上滚涂油性颜料，绒面油粒、未着墨高光与轻微版调。",
+    "source": "hermes-explore",
+    "image": "styles/3265-rawlins-oil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3223",
+    "slug": "taupenot",
+    "name_en": "Taupenot",
+    "name_zh": "托普诺干版",
+    "description_en": "Taupenot dry collodion-albumen plate: honey-brown 1850s glass, cloudy albumen binder, fine collodion grain, tea-amber highlights and olive-brown midtones.",
+    "description_zh": "托普诺干版：1850年代火棉胶-蛋白干版，蜜茶色玻璃、微浑蛋白层、细火棉胶颗粒与橄榄褐中间调。",
+    "source": "hermes-explore",
+    "image": "styles/3266-taupenot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3224",
+    "slug": "claude-glass",
+    "name_en": "Claude Glass",
+    "name_zh": "克劳德镜",
+    "description_en": "Claude glass picturesque filter: black convex tinted mirror, compressed olive-umber values, slight barrel distortion, dim amber window in bottle-green glass.",
+    "description_zh": "克劳德镜：黑色凸面着色镜的如画滤镜，橄榄赭压缩影调、轻微桶形畸变、墨绿玻璃中的暗琥珀窗。",
+    "source": "hermes-explore",
+    "image": "styles/3267-claude-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3225",
+    "slug": "resinopigmentype",
+    "name_en": "Resinopigmentype",
+    "name_zh": "树脂颜料印",
+    "description_en": "Resinopigmentype: resin dust fused onto a light-hardened tacky image, velvety matte earth pigments, powdery edges, dry photographic surface without glossy gelatin.",
+    "description_zh": "树脂颜料印：树脂粉熔着于光硬化黏性影像，绒面土色颜料、粉质边缘，无光泽明胶的干燥照相表面。",
+    "source": "hermes-explore",
+    "image": "styles/3268-resinopigmentype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
