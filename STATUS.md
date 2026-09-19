@@ -9215,6 +9215,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3328, PNG count 3328. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 658 (exactly 5, h3286–h3290)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh    | image                      |
+|-------|------------|------------|----------------------------|
+| h3286 | Surizome   | 摺染       | styles/3329-surizome.png   |
+| h3287 | Trail Slip | 沥粉化妆土 | styles/3330-trail-slip.png |
+| h3288 | Polacolor  | 剥彩扩散   | styles/3331-polacolor.png  |
+| h3289 | Ra Gauze   | 罗纱       | styles/3332-ra-gauze.png   |
+| h3290 | Funzogan   | 粉象嵌     | styles/3333-funzogan.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3333, PNG count 3333. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

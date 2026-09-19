@@ -43262,5 +43262,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3286",
+    "slug": "surizome",
+    "name_en": "Surizome",
+    "name_zh": "摺染",
+    "description_en": "Surizome: Japanese stencil rub-dyeing — mineral pigment pushed through katagami with a stiff brush, dusty incomplete rubs, cloth tooth, dry matte dye not paste-resist yuzen.",
+    "description_zh": "摺染：型纸刷色，硬刷将矿物颜料揉过型纸落到布面，粉质未刷满、布纹齿痕，干哑染料而非友禅防染糊。",
+    "source": "hermes-explore",
+    "image": "styles/3329-surizome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3287",
+    "slug": "trail-slip",
+    "name_en": "Trail Slip",
+    "name_zh": "沥粉化妆土",
+    "description_en": "Trail slip: slip-cup decoration on wet earthenware — raised creamy clay lines, pooled terminals, lead-glaze sheen, not painted outline.",
+    "description_zh": "沥粉化妆土：泥浆壶在湿陶上沥出凸起线条，末端积浆，铅釉反光，非平面勾线。",
+    "source": "hermes-explore",
+    "image": "styles/3330-trail-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3288",
+    "slug": "polacolor",
+    "name_en": "Polacolor",
+    "name_zh": "剥彩扩散",
+    "description_en": "Polacolor: Polaroid peel-apart dye-diffusion — dense CMY dyes on receiver sheet, reagent gush at edges, not Polachrome additive screen or SX-70 integral.",
+    "description_zh": "剥彩扩散：宝丽来剥离式染料扩散，接收纸上浓密青品黄染料，边缘药液溢流，非宝丽彩屏亦非SX-70整体片。",
+    "source": "hermes-explore",
+    "image": "styles/3331-polacolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3289",
+    "slug": "ra-gauze",
+    "name_en": "Ra Gauze",
+    "name_zh": "罗纱",
+    "description_en": "Ra gauze: Chinese leno weave — paired warps twist around the weft into open hexagonal mesh, sheer slubbed silk, woven-in motif not print or lace.",
+    "description_zh": "罗纱：绞经织，经线成对扭绞纬线形成六角网孔，薄透有结的丝，纹样织入而非印花或蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/3332-ra-gauze.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3290",
+    "slug": "funzogan",
+    "name_en": "Funzogan",
+    "name_zh": "粉象嵌",
+    "description_en": "Funzogan: powdered-metal inlay — gold/silver filings packed into recessed iron or shakudo, granular sparkle after polish, not sheet zogan or maki-e funmaki.",
+    "description_zh": "粉象嵌：金银屑填入铁或赤铜凹槽再打磨，粒状金属闪光，非片状嵌金亦非莳绘粉莳。",
+    "source": "hermes-explore",
+    "image": "styles/3333-funzogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
