@@ -44237,5 +44237,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3361",
+    "slug": "edo-nuri",
+    "name_en": "Edo-nuri",
+    "name_zh": "江户涂",
+    "description_en": "Edo-nuri: mirror-polished jet-black roiro urushi with vermilion lacquer and sparse gold dust, wet high-gloss urban finish; not Wajima chinkin, not Negoro wear-through, not raised maki-e.",
+    "description_zh": "江户涂：镜面黑吕色漆配朱红与疏金粉，湿亮江户漆面；非轮岛沉金、非根来磨损露胎、非高莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/3404-edo-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3362",
+    "slug": "mon-kiri",
+    "name_en": "Mon-kiri",
+    "name_zh": "纹切",
+    "description_en": "Mon-kiri: Japanese crest paper-cutting in single-layer washi, knife-cut mon geometry, crisp negative-space holes and crest symmetry; not kirie tonal cutting, not silhouette portrait, not snowflake craft.",
+    "description_zh": "纹切：单层和纸上的家纹剪纸，刀切纹章几何、透空与对称；非切绘明暗、非剪影肖像、非雪花剪纸。",
+    "source": "hermes-explore",
+    "image": "styles/3405-mon-kiri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3363",
+    "slug": "astia",
+    "name_en": "Astia",
+    "name_zh": "阿斯蒂亚",
+    "description_en": "Astia: Fujifilm Astia 100F E-6 reversal look — pastel highlight roll-off, restrained saturation, creamy skin, ultra-fine grain, airy cool-neutral daylight; not Velvia punch, not Provia snap, not Portra negative.",
+    "description_zh": "阿斯蒂亚：富士 Astia 100F 反转片，高光柔滚、低饱和、细腻乳色肤色与冷中性日光；非Velvia浓艳、非Provia利落、非Portra负片。",
+    "source": "hermes-explore",
+    "image": "styles/3406-astia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3364",
+    "slug": "burano-lace",
+    "name_en": "Burano Lace",
+    "name_zh": "布拉诺蕾丝",
+    "description_en": "Burano lace: Venetian needle lace with raised cordonnet, réseau mesh ground, floral fillings and brides in cream linen thread; not crochet, not bobbin lace, not guipure tape lace.",
+    "description_zh": "布拉诺蕾丝：威尼斯针绣蕾丝，凸起轮廓线、网地、花卉填针与连接条，米白亚麻线；非钩针、非线轴蕾丝、非吉普尔带状蕾丝。",
+    "source": "hermes-explore",
+    "image": "styles/3407-burano-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3365",
+    "slug": "bezold-effect",
+    "name_en": "Bezold Effect",
+    "name_zh": "贝佐德效应",
+    "description_en": "Bezold Effect: color assimilation — flat fields whose apparent hue shifts where thin white, black or contrasting lines run through them; not Chevreul simultaneous contrast, not pointillist optical mixing, not moiré.",
+    "description_zh": "贝佐德效应：色彩同化，细白、黑或对比色线穿过色块时表观色相偏移；非谢弗勒尔同时对比、非点彩视觉混合、非莫尔纹。",
+    "source": "hermes-explore",
+    "image": "styles/3408-bezold-effect.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

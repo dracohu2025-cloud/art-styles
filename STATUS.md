@@ -9426,6 +9426,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3403, PNG count 3403. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 673 (exactly 5, h3361–h3365)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                           |
+|-------|---------------|-------------|---------------------------------|
+| h3361 | Edo-nuri      | 江户涂      | styles/3404-edo-nuri.png        |
+| h3362 | Mon-kiri      | 纹切        | styles/3405-mon-kiri.png        |
+| h3363 | Astia         | 阿斯蒂亚    | styles/3406-astia.png           |
+| h3364 | Burano Lace   | 布拉诺蕾丝  | styles/3407-burano-lace.png     |
+| h3365 | Bezold Effect | 贝佐德效应  | styles/3408-bezold-effect.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3408, PNG count 3408. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
