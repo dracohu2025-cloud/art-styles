@@ -43587,5 +43587,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3311",
+    "slug": "baren-zuri",
+    "name_en": "Baren-zuri",
+    "name_zh": "马楝摺",
+    "description_en": "Baren-zuri: Japanese woodblock rubbing with a circular baren — concentric burnish swirls, dry uneven mineral pigment on washi tooth, keyblock outlines with rubbed color fields, not lithograph, not silkscreen.",
+    "description_zh": "马楝摺：以圆形马楝揉印的木版画，同心研磨纹、和纸齿痕上偏干的矿物色、主版线与揉出色块，非石版、非丝网。",
+    "source": "hermes-explore",
+    "image": "styles/3354-baren-zuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3312",
+    "slug": "kodacolor",
+    "name_en": "Kodacolor",
+    "name_zh": "柯达彩",
+    "description_en": "Kodacolor: 1950s–70s Kodak color-negative print — cyan-leaning shadows, warm amber lights, dye-cloud grain and modest saturation, not Kodachrome, not Technicolor, not Gevacolor.",
+    "description_zh": "柯达彩：1950–70年代柯达彩色负片相纸，青偏阴影、暖琥珀高光、染料云颗粒与中等饱和，非柯达克罗姆、非特艺彩、非吉瓦彩。",
+    "source": "hermes-explore",
+    "image": "styles/3355-kodacolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3313",
+    "slug": "tarsia-a-toppo",
+    "name_en": "Tarsia a Toppo",
+    "name_zh": "托波镶嵌",
+    "description_en": "Tarsia a toppo: Siena/Tuscany end-grain wood mosaic — tiny triangular and diamond tesserae of walnut, boxwood and ebony in chevron and star fields, not pictorial veneer marquetry, not pietra dura.",
+    "description_zh": "托波镶嵌：锡耶纳/托斯卡纳端纹木嵌，胡桃、黄杨、乌木的三角与菱形小片组成人字纹与星纹，非薄木贴画细木镶嵌、非硬石镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/3356-tarsia-a-toppo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3314",
+    "slug": "attush",
+    "name_en": "Attush",
+    "name_zh": "厚司织",
+    "description_en": "Attush: Ainu elm-bark cloth — stiff ochre bast-fiber plain weave with slubby plant hand and dark indigo morew geometric bands, not kasuri, not bashofu, not sashiko.",
+    "description_zh": "厚司织：阿伊努榆树皮布，硬挺赭褐韧皮平纹、节瘤植物手感与深蓝莫雷几何条带，非絣、非芭蕉布、非刺子。",
+    "source": "hermes-explore",
+    "image": "styles/3357-attush.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3315",
+    "slug": "network-glass",
+    "name_en": "Network Glass",
+    "name_zh": "网纹古玻",
+    "description_en": "Network glass: Hellenistic/Roman cane-lattice mosaic glass — fused twisted white and cobalt/amber canes, glossy vitreous mesh and trapped bubbles, not stained-glass leading, not millefiori, not Venetian filigrana alone.",
+    "description_zh": "网纹古玻：希腊化/罗马网纹马赛克玻璃，熔接扭转的白与钴蓝/琥珀玻璃棒、光泽玻璃网与气泡，非镶铅彩窗、非千花、非单指威尼斯丝纹。",
+    "source": "hermes-explore",
+    "image": "styles/3358-network-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

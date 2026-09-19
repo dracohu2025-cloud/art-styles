@@ -9285,6 +9285,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3353, PNG count 3353. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 663 (exactly 5, h3311–h3315)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                            |
+|-------|----------------|------------|----------------------------------|
+| h3311 | Baren-zuri     | 马楝摺     | styles/3354-baren-zuri.png       |
+| h3312 | Kodacolor      | 柯达彩     | styles/3355-kodacolor.png        |
+| h3313 | Tarsia a Toppo | 托波镶嵌   | styles/3356-tarsia-a-toppo.png   |
+| h3314 | Attush         | 厚司织     | styles/3357-attush.png           |
+| h3315 | Network Glass  | 网纹古玻   | styles/3358-network-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3358, PNG count 3358. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
