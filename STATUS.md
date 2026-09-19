@@ -9145,6 +9145,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3303, PNG count 3303. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 653 (exactly 5, h3261–h3265)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh        | image                              |
+|-------|-----------------|----------------|------------------------------------|
+| h3261 | Tomobitsugi     | 共接           | styles/3304-tomobitsugi.png        |
+| h3262 | Woodburygravure | 伍德伯里凹印   | styles/3305-woodburygravure.png    |
+| h3263 | Sulphur Cast    | 硫磺拓模       | styles/3306-sulphur-cast.png       |
+| h3264 | Ruling Machine  | 直线机刻       | styles/3307-ruling-machine.png     |
+| h3265 | Thames Colour   | 泰晤士彩屏     | styles/3308-thames-colour.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3308, PNG count 3308. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

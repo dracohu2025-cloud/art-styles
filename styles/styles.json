@@ -42937,5 +42937,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3261",
+    "slug": "tomobitsugi",
+    "name_en": "Tomobitsugi",
+    "name_zh": "共接",
+    "description_en": "Matching-shard kintsugi: broken ceramic of the same glaze and body rejoined with urushi and thin gold seams, unlike mismatched yobitsugi.",
+    "description_zh": "共接金缮：以同釉同胎碎片对合，漆线贴金接合，有别于异片呼接。",
+    "source": "hermes-explore",
+    "image": "styles/3304-tomobitsugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3262",
+    "slug": "woodburygravure",
+    "name_en": "Woodburygravure",
+    "name_zh": "伍德伯里凹印",
+    "description_en": "Photomechanical hybrid of Woodburytype and photogravure: continuous-tone pigment with a faintly raised ink film and no halftone screen.",
+    "description_zh": "伍德伯里凹印：伍德伯里型与照相凹版的混合工艺，连续调颜料微凸、无网目。",
+    "source": "hermes-explore",
+    "image": "styles/3305-woodburygravure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3263",
+    "slug": "sulphur-cast",
+    "name_en": "Sulphur Cast",
+    "name_zh": "硫磺拓模",
+    "description_en": "Renaissance sulphur impression of an engraved plate: pale yellow-amber relief in which incised lines stand as raised ridges in solidified sulphur.",
+    "description_zh": "硫磺拓模：文艺复兴时期从雕版翻出的硫磺浮模，阴刻线在淡黄硫磺上呈凸脊。",
+    "source": "hermes-explore",
+    "image": "styles/3306-sulphur-cast.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3264",
+    "slug": "ruling-machine",
+    "name_en": "Ruling Machine",
+    "name_zh": "直线机刻",
+    "description_en": "Nineteenth-century security engraving that builds tone only from machine-ruled parallel lines of varying spacing and weight.",
+    "description_zh": "直线机刻：十九世纪证券雕版，仅以间距与线宽变化的平行机刻线构成明暗。",
+    "source": "hermes-explore",
+    "image": "styles/3307-ruling-machine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3265",
+    "slug": "thames-colour",
+    "name_en": "Thames Colour",
+    "name_zh": "泰晤士彩屏",
+    "description_en": "c.1908 additive color photography using the Thames lined RGB taking screen: visible mosaic, soft dyes, mild fringing on a gelatin plate.",
+    "description_zh": "泰晤士彩屏：约1908年加色法照相，线状红绿蓝滤屏可见，染料偏软并带轻微色边。",
+    "source": "hermes-explore",
+    "image": "styles/3308-thames-colour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
