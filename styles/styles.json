@@ -42352,5 +42352,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3216",
+    "slug": "non-photo-blue",
+    "name_en": "Non-photo Blue",
+    "name_zh": "非复印蓝",
+    "description_en": "Animation construction in non-repro blue: cyan layout lines, perspective grids and volume ellipses a photocopier would drop, with tight black ink clean-up on selected contours.",
+    "description_zh": "非复印蓝：动画构图用青蓝线、透视网格与体积椭圆，复印会丢掉这些线，再在部分轮廓上落黑墨清稿。",
+    "source": "hermes-explore",
+    "image": "styles/3259-non-photo-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3217",
+    "slug": "hexachrome",
+    "name_en": "Hexachrome",
+    "name_zh": "六色印刷",
+    "description_en": "Six-color Hexachrome printing: CMYK plus extra orange and green inks on coated stock, ultra-wide gamut, hyper-saturated oranges and greens, fine print rosette.",
+    "description_zh": "六色印刷：CMYK外加橙、绿专色，铜版纸超广色域，四色印不出的高饱和橙绿，细网点花纹。",
+    "source": "hermes-explore",
+    "image": "styles/3260-hexachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3218",
+    "slug": "alticolor",
+    "name_en": "Alticolor",
+    "name_zh": "阿尔蒂彩",
+    "description_en": "Lumière Alticolor additive film: fine vertical réseau color-screen lines, muted 1950s French color, woven RGB filter structure and projected-film softness.",
+    "description_zh": "阿尔蒂彩：卢米埃尔加色胶片，细密竖向彩屏网线，1950年代法国柔和色彩，RGB滤镜织纹与放映感。",
+    "source": "hermes-explore",
+    "image": "styles/3261-alticolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3219",
+    "slug": "cold-foil",
+    "name_en": "Cold Foil",
+    "name_zh": "冷烫箔",
+    "description_en": "Cold-foil print finishing: in-line metallic foil transfer then overprinted with transparent process inks so metal shines through selected areas, sharp foil edges and specular sheen.",
+    "description_zh": "冷烫箔：联机转移金属箔，再叠印透明四色墨，金属从选定区域透出，箔边锐利、高光镜面。",
+    "source": "hermes-explore",
+    "image": "styles/3262-cold-foil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3220",
+    "slug": "metal-flake",
+    "name_en": "Metal Flake",
+    "name_zh": "金属片漆",
+    "description_en": "Metal-flake candy lacquer: coarse metallic flakes in deep candy-clear coats, kustom sparkle under studio light, wet-look clearcoat over silver flake.",
+    "description_zh": "金属片漆：粗金属片悬浮于深色糖果清漆，工作室光下闪烁，银片上罩湿润清漆。",
+    "source": "hermes-explore",
+    "image": "styles/3263-metal-flake.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

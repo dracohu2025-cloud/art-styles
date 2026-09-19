@@ -9019,6 +9019,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3258, PNG count 3258. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 644 (exactly 5, h3216–h3220)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                               |
+|-------|-----------------|-------------|-------------------------------------|
+| h3216 | Non-photo Blue  | 非复印蓝    | styles/3259-non-photo-blue.png      |
+| h3217 | Hexachrome      | 六色印刷    | styles/3260-hexachrome.png          |
+| h3218 | Alticolor       | 阿尔蒂彩    | styles/3261-alticolor.png           |
+| h3219 | Cold Foil       | 冷烫箔      | styles/3262-cold-foil.png           |
+| h3220 | Metal Flake     | 金属片漆    | styles/3263-metal-flake.png         |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3263, PNG count 3263. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
