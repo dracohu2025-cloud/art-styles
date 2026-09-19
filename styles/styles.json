@@ -42612,5 +42612,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3236",
+    "slug": "polyautograph",
+    "name_en": "Polyautograph",
+    "name_zh": "多元石印",
+    "description_en": "Senefelder-era polyautograph: greasy lithographic crayon and tusche drawn on Bavarian limestone, printed as a single autographic impression with stone grain and crayon skip.",
+    "description_zh": "塞内费尔德时代多元石印：油性石版蜡笔与药墨画于巴伐利亚石灰石，一次自描转印，带石纹与蜡笔跳笔。",
+    "source": "hermes-explore",
+    "image": "styles/3279-polyautograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3237",
+    "slug": "punic-wax",
+    "name_en": "Punic Wax",
+    "name_zh": "布匿蜡",
+    "description_en": "Cera punica: saponified beeswax encaustic fused with heated tools, waxy ridges and satin-matte subsurface glow without oil glaze.",
+    "description_zh": "布匿蜡：皂化蜂蜡热熔画，热工具熔接，蜡脊与缎面哑光内光，无油釉。",
+    "source": "hermes-explore",
+    "image": "styles/3280-punic-wax.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3238",
+    "slug": "guazzo",
+    "name_en": "Guazzo",
+    "name_zh": "瓜佐胶彩",
+    "description_en": "Italian guazzo: animal-glue distemper, velvety chalk-matte body color on gessoed panel, fresco-like dryness without oil gloss.",
+    "description_zh": "意大利瓜佐胶彩：动物胶蛋胶粉彩，石膏板上绒面哑光厚色，湿壁画般干爽无油光。",
+    "source": "hermes-explore",
+    "image": "styles/3281-guazzo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3239",
+    "slug": "trichrome-carbro",
+    "name_en": "Trichrome Carbro",
+    "name_zh": "三色卡布罗",
+    "description_en": "Three-color carbro: cyan, magenta and yellow pigmented gelatin tissues assembled in register, slight carbon relief and tiny CMY fringes.",
+    "description_zh": "三色卡布罗：青、品红、黄颜料明胶膜套准叠合，略有碳印浮雕与微小色边。",
+    "source": "hermes-explore",
+    "image": "styles/3282-trichrome-carbro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3240",
+    "slug": "meisenbach",
+    "name_en": "Meisenbach",
+    "name_zh": "迈森巴赫网目",
+    "description_en": "1882 Meisenbach autotype: coarse cross-line letterpress halftone, irregular early glass-screen dots, black ink on cream wove paper.",
+    "description_zh": "1882年迈森巴赫网目：粗交叉线凸印网目，早期玻璃网屏不规则点，奶油布纹纸上黑墨。",
+    "source": "hermes-explore",
+    "image": "styles/3283-meisenbach.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
