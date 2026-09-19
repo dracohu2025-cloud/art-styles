@@ -9061,6 +9061,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3273, PNG count 3273. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 647 (exactly 5, h3231–h3235)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh     | image                              |
+|-------|----------------|-------------|------------------------------------|
+| h3231 | Lichtdruck     | 光压印      | styles/3274-lichtdruck.png         |
+| h3232 | Marshall Oils  | 马歇尔油彩  | styles/3275-marshall-oils.png      |
+| h3233 | Magnacolor     | 玛格纳彩    | styles/3276-magnacolor.png         |
+| h3234 | Ferro-gallic   | 铁棓酸印    | styles/3277-ferro-gallic.png       |
+| h3235 | Hicro          | 希克罗三色  | styles/3278-hicro.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3278, PNG count 3278. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

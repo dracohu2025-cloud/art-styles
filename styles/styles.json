@@ -42547,5 +42547,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3231",
+    "slug": "lichtdruck",
+    "name_en": "Lichtdruck",
+    "name_zh": "光压印",
+    "description_en": "Lichtdruck: German collotype, continuous-tone gelatin grain without halftone dots, velvety warm blacks and ochre midtones pressed into paper fiber.",
+    "description_zh": "光压印：德语珂罗版，无网点的连续调明胶颗粒，丝绒暖黑与赭石中间调压入纸纤维。",
+    "source": "hermes-explore",
+    "image": "styles/3274-lichtdruck.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3232",
+    "slug": "marshall-oils",
+    "name_en": "Marshall Oils",
+    "name_zh": "马歇尔油彩",
+    "description_en": "Marshall Oils: transparent photo-oil tints over a silver-gelatin base, hand-worked color that never fully hides the photographic grain.",
+    "description_zh": "马歇尔油彩：在银盐明胶底片上薄涂透明照相油彩，手绘色彩始终不盖住照片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3275-marshall-oils.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3233",
+    "slug": "magnacolor",
+    "name_en": "Magnacolor",
+    "name_zh": "玛格纳彩",
+    "description_en": "Magnacolor: 1930s two-color cine process locked to orange-red and cyan-green, limited gamut with slight registration fringe.",
+    "description_zh": "玛格纳彩：1930年代双色电影工艺，锁定橙红与青绿两色，色域有限并带轻微套准色边。",
+    "source": "hermes-explore",
+    "image": "styles/3276-magnacolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3234",
+    "slug": "ferro-gallic",
+    "name_en": "Ferro-gallic",
+    "name_zh": "铁棓酸印",
+    "description_en": "Ferro-gallic: iron-tannin contact print in warm brown-black to olive-sepia on cream paper, with faint iron staining and corroded edges.",
+    "description_zh": "铁棓酸印：铁单宁接触印相，奶油纸上暖棕黑至橄榄褐，带微弱铁渍与腐蚀边缘。",
+    "source": "hermes-explore",
+    "image": "styles/3277-ferro-gallic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3235",
+    "slug": "hicro",
+    "name_en": "Hicro",
+    "name_zh": "希克罗三色",
+    "description_en": "Hicro: Hess-Ives three-color carbon, stacked cyan-magenta-yellow pigment tissues with slight gelatin relief and tiny registration offsets.",
+    "description_zh": "希克罗三色：赫斯-艾夫斯三色碳印，青品红黄颜料膜叠合，略有明胶浮雕与微小套准偏移。",
+    "source": "hermes-explore",
+    "image": "styles/3278-hicro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
