@@ -44302,5 +44302,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3366",
+    "slug": "kingin-deie",
+    "name_en": "Kingin-deie",
+    "name_zh": "金银泥绘",
+    "description_en": "Kingin-deie: Japanese painting in gold-mud and silver-mud pigments brushed onto dark silk or lacquered paper — viscous metallic paint, not kirikane cut leaf, not maki-e sprinkled powder, not foil collage.",
+    "description_zh": "金银泥绘：金泥与银泥颜料画于深色绢或漆纸，稠亮金属笔触；非切金、非莳绘洒粉、非箔贴。",
+    "source": "hermes-explore",
+    "image": "styles/3409-kingin-deie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3367",
+    "slug": "kuroe-nuri",
+    "name_en": "Kuroe-nuri",
+    "name_zh": "黑江涂",
+    "description_en": "Kuroe-nuri: Wakayama Kuroe lacquer — mirror-black urushi with restrained cinnabar-red banding and high wet gloss; not Wajima chinkin, not Tsugaru kawari-nuri, not Negoro worn red, not Edo-nuri gold.",
+    "description_zh": "黑江涂：和歌山黑江漆，镜面黑漆与克制朱红镶边、湿亮高光；非轮岛沉金、非津轻变涂、非根来磨损朱、非江户涂金。",
+    "source": "hermes-explore",
+    "image": "styles/3410-kuroe-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3368",
+    "slug": "tatsumura",
+    "name_en": "Tatsumura",
+    "name_zh": "龙村织",
+    "description_en": "Tatsumura: luxury Nishijin silk reconstitution — dense gold and colored wefts, karakusa and floral brocade structure visible as weave, not yuzen dye, not embroidery, not Gobelin tapestry, not printed lame.",
+    "description_zh": "龙村织：西阵豪华丝织复原，金银彩纬、唐草与花卉织纹可见经纬；非友禅染、非刺绣、非戈布兰挂毯、非印花金葱。",
+    "source": "hermes-explore",
+    "image": "styles/3411-tatsumura.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3369",
+    "slug": "nara-sarashi",
+    "name_en": "Nara-sarashi",
+    "name_zh": "奈良晒",
+    "description_en": "Nara-sarashi: sun-bleached Nara ramie/hemp — cool bluish-white tabby, slubby plant fiber, starch-stiff drape, white-on-white cloth; not indigo, not cotton muslin, not lace, not paper.",
+    "description_zh": "奈良晒：奈良晒麻，冷蓝白平织、植物纤维节、浆挺垂感、白上白布纹；非靛蓝、非棉纱布、非蕾丝、非纸。",
+    "source": "hermes-explore",
+    "image": "styles/3412-nara-sarashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3370",
+    "slug": "herschel-effect",
+    "name_en": "Herschel Effect",
+    "name_zh": "赫歇尔效应",
+    "description_en": "Herschel Effect: red/far-red light destroying latent silver — bleached highlights, brick-red fog, residual dense black where red did not reach; not Sabattier solarization, not infrared false color, not lith pepper fog.",
+    "description_zh": "赫歇尔效应：红光/远红光破坏潜影，高光被漂白、砖红雾、未照处仍密黑；非萨巴蒂中途曝光、非红外伪彩、非锂显椒盐雾。",
+    "source": "hermes-explore",
+    "image": "styles/3413-herschel-effect.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -9440,6 +9440,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3408, PNG count 3408. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 674 (exactly 5, h3366–h3370)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                             |
+|-------|-----------------|-------------|-----------------------------------|
+| h3366 | Kingin-deie     | 金银泥绘    | styles/3409-kingin-deie.png       |
+| h3367 | Kuroe-nuri      | 黑江涂      | styles/3410-kuroe-nuri.png        |
+| h3368 | Tatsumura       | 龙村织      | styles/3411-tatsumura.png         |
+| h3369 | Nara-sarashi    | 奈良晒      | styles/3412-nara-sarashi.png      |
+| h3370 | Herschel Effect | 赫歇尔效应  | styles/3413-herschel-effect.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3413, PNG count 3413. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
