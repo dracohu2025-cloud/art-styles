@@ -41767,5 +41767,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3171",
+    "slug": "carbon-transfer",
+    "name_en": "Carbon Transfer",
+    "name_zh": "碳转印",
+    "description_en": "Carbon transfer: velvety matte carbon-pigment image, soot blacks, warm brown-black continuous tone, no silver grain or halftone—not charcoal, not inkjet.",
+    "description_zh": "碳转印：丝绒哑光碳素颜料影像，煤黑与暖棕连续调，无银盐颗粒或网点，非炭笔亦非喷墨。",
+    "source": "hermes-explore",
+    "image": "styles/3214-carbon-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3172",
+    "slug": "security-engraving",
+    "name_en": "Security Engraving",
+    "name_zh": "防伪线刻",
+    "description_en": "Security engraving: banknote-style steel-die intaglio, ultra-fine parallel and cross-hatched burin lines, guilloche rosettes, cream rag paper—not woodcut, not comic ink.",
+    "description_zh": "防伪线刻：钞票式钢模凹雕，极细平行交叉线、齿轮纹花结、奶油色棉纸，非木刻亦非漫画墨线。",
+    "source": "hermes-explore",
+    "image": "styles/3215-security-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3173",
+    "slug": "alcohol-bloom",
+    "name_en": "Alcohol Bloom",
+    "name_zh": "酒精开花",
+    "description_en": "Alcohol bloom: solvent dropped into wet ink or dye, circular cauliflower rings, pigment pushed to halo edges, overlapping translucent bursts—not salt wash, not tie-dye.",
+    "description_zh": "酒精开花：溶剂滴入湿墨或染料，环形菜花晕、颜料被推至边缘，半透明色团叠合，非撒盐亦非扎染。",
+    "source": "hermes-explore",
+    "image": "styles/3216-alcohol-bloom.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3174",
+    "slug": "marbling-slip",
+    "name_en": "Marbling Slip",
+    "name_zh": "大理石化妆土",
+    "description_en": "Marbling slip: swirled colored liquid clays—cream, iron-red, cobalt, manganese—agate veins through figure and ground, fired ceramic sheen—not paper ebru, not oil paint.",
+    "description_zh": "大理石化妆土：乳白、铁红、钴蓝、锰紫泥浆绞花，玛瑙脉纹贯穿人物与地，烧成陶面光泽，非纸面水拓亦非油画。",
+    "source": "hermes-explore",
+    "image": "styles/3217-marbling-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3175",
+    "slug": "wheel-engraved-glass",
+    "name_en": "Wheel-engraved Glass",
+    "name_zh": "轮刻玻璃",
+    "description_en": "Wheel-engraved glass: Bohemian copper-wheel intaglio on colorless crystal, frosted mitre cuts, gray-white modeling, refractive facets—not acid etch, not diamond-point stipple.",
+    "description_zh": "轮刻玻璃：波希米亚铜轮在无色水晶上阴刻，磨砂斜切、灰白塑形、折光棱面，非酸蚀亦非金刚石点刻。",
+    "source": "hermes-explore",
+    "image": "styles/3218-wheel-engraved-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -8893,6 +8893,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3213, PNG count 3213. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 635 (exactly 5, h3171–h3175)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh         | image                                    |
+|-------|-----------------------|-----------------|------------------------------------------|
+| h3171 | Carbon Transfer       | 碳转印          | styles/3214-carbon-transfer.png          |
+| h3172 | Security Engraving    | 防伪线刻        | styles/3215-security-engraving.png       |
+| h3173 | Alcohol Bloom         | 酒精开花        | styles/3216-alcohol-bloom.png            |
+| h3174 | Marbling Slip         | 大理石化妆土    | styles/3217-marbling-slip.png            |
+| h3175 | Wheel-engraved Glass  | 轮刻玻璃        | styles/3218-wheel-engraved-glass.png     |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3218, PNG count 3218. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
