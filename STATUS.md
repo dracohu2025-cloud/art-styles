@@ -9271,6 +9271,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3348, PNG count 3348. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 662 (exactly 5, h3306–h3310)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh    | image                              |
+|-------|------------------|------------|------------------------------------|
+| h3306 | Murasaki-zome    | 紫根染     | styles/3349-murasaki-zome.png      |
+| h3307 | Kasane no Irome  | 袭色目     | styles/3350-kasane-no-irome.png    |
+| h3308 | Gevacolor        | 吉瓦彩     | styles/3351-gevacolor.png          |
+| h3309 | Kuzu-fu          | 葛布       | styles/3352-kuzu-fu.png            |
+| h3310 | Ulap Doyo        | 多优织     | styles/3353-ulap-doyo.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3353, PNG count 3353. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

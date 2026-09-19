@@ -43522,5 +43522,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3306",
+    "slug": "murasaki-zome",
+    "name_en": "Murasaki-zome",
+    "name_zh": "紫根染",
+    "description_en": "Murasaki-zome: Japanese gromwell-root dyeing — dusty violet and oxidized purple-brown on silk, mottled vat bloom, no synthetic magenta.",
+    "description_zh": "紫根染：紫草根染色，尘紫与氧化紫棕着于丝绸，缸染斑驳晕开，非合成品红。",
+    "source": "hermes-explore",
+    "image": "styles/3349-murasaki-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3307",
+    "slug": "kasane-no-irome",
+    "name_en": "Kasane no Irome",
+    "name_zh": "袭色目",
+    "description_en": "Kasane no irome: Heian stacked color-layer system — translucent seasonal veils of cherry, willow, wisteria and amber showing through one another.",
+    "description_zh": "袭色目：平安叠色配色法，樱、柳、藤、琥珀等半透明时令色层相互透出。",
+    "source": "hermes-explore",
+    "image": "styles/3350-kasane-no-irome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3308",
+    "slug": "gevacolor",
+    "name_en": "Gevacolor",
+    "name_zh": "吉瓦彩",
+    "description_en": "Gevacolor: 1950s–70s Gevaert analog color film — cyan-green shadows, warm amber lights, fine grain and mild halation, not Kodachrome, not Technicolor.",
+    "description_zh": "吉瓦彩：1950–70年代吉瓦模拟彩色胶片，青绿色阴影、暖琥珀高光、细颗粒与轻微光晕，非柯达彩、非特艺彩。",
+    "source": "hermes-explore",
+    "image": "styles/3351-gevacolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3309",
+    "slug": "kuzu-fu",
+    "name_en": "Kuzu-fu",
+    "name_zh": "葛布",
+    "description_en": "Kuzu-fu: Japanese kudzu-fiber cloth — coarse bast-fiber plain weave, slubby warp and weft, matte beige-ivory plant sheen, not silk, not ramie jofu.",
+    "description_zh": "葛布：葛藤韧皮纤维织，粗经纬、节瘤纱、哑光米白植物光泽，非丝绸、非苎麻上布。",
+    "source": "hermes-explore",
+    "image": "styles/3352-kuzu-fu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3310",
+    "slug": "ulap-doyo",
+    "name_en": "Ulap Doyo",
+    "name_zh": "多优织",
+    "description_en": "Ulap doyo: Benuaq Dayak warp weaving from doyo leaf fiber — earth red, black and ivory ikat bands, stiff plant-fiber handspun cloth, not batik, not songket.",
+    "description_zh": "多优织：贝努亚克达雅克多优叶纤维经织，土红、黑、牙白经絣条带，硬挺手纺植物纤维布，非蜡染、非宋葛。",
+    "source": "hermes-explore",
+    "image": "styles/3353-ulap-doyo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
