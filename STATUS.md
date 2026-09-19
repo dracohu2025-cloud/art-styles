@@ -9089,6 +9089,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3283, PNG count 3283. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 649 (exactly 5, h3241–h3245)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                                   |
+|-------|--------------------|---------------|-----------------------------------------|
+| h3241 | Crystallotype      | 晶体玻璃相    | styles/3284-crystallotype.png           |
+| h3242 | Hirazogan          | 平嵌          | styles/3285-hirazogan.png               |
+| h3243 | Mineral Painting   | 矿物色壁画    | styles/3286-mineral-painting.png        |
+| h3244 | Collodio-chloride  | 氯火棉印相    | styles/3287-collodio-chloride.png       |
+| h3245 | Maniere Craquelee  | 裂纹蚀刻      | styles/3288-maniere-craquelee.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3288, PNG count 3288. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

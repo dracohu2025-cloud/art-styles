@@ -42677,5 +42677,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3241",
+    "slug": "crystallotype",
+    "name_en": "Crystallotype",
+    "name_zh": "晶体玻璃相",
+    "description_en": "1850s crystallotype: albumen photograph on crystal glass, milky opalescent whites, pearly transmitted-light bloom, cool brown-black shadows.",
+    "description_zh": "1850年代晶体玻璃相：蛋白银盐着于厚水晶玻璃，乳白高光、透射珠光、偏冷棕黑阴影。",
+    "source": "hermes-explore",
+    "image": "styles/3284-crystallotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3242",
+    "slug": "hirazogan",
+    "name_en": "Hirazogan",
+    "name_zh": "平嵌",
+    "description_en": "Japanese hirazogan: gold and silver sheet inlaid flush into dark shakudo or iron, filed flat with no relief, nunome tooth only at the contour.",
+    "description_zh": "日本平嵌：金银薄片齐平嵌入赤铜或铁地，磨至无浮雕，仅轮廓残留布目齿痕。",
+    "source": "hermes-explore",
+    "image": "styles/3285-hirazogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3243",
+    "slug": "mineral-painting",
+    "name_en": "Mineral Painting",
+    "name_zh": "矿物色壁画",
+    "description_en": "Keim silicate mineral painting: potassium-silicate oxides bonded into lime plaster, powdery fresco-matte wall color, no oil gloss.",
+    "description_zh": "凯姆硅酸盐矿物壁画：钾水玻璃氧化物与石灰灰泥化学结合，粉质湿壁哑光，无油光。",
+    "source": "hermes-explore",
+    "image": "styles/3286-mineral-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3244",
+    "slug": "collodio-chloride",
+    "name_en": "Collodio-chloride",
+    "name_zh": "氯火棉印相",
+    "description_en": "Collodio-chloride printing-out paper: glossy warm purplish-brown self-printed silver, gold-toned highlights, 1880s cabinet-card sheen.",
+    "description_zh": "氯火棉晒出相纸：自晒紫棕色有光银影，金调高光，1880年代名片照光泽。",
+    "source": "hermes-explore",
+    "image": "styles/3287-collodio-chloride.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3245",
+    "slug": "maniere-craquelee",
+    "name_en": "Maniere Craquelee",
+    "name_zh": "裂纹蚀刻",
+    "description_en": "Manière craquelée: crackle-ground intaglio, crazed varnish bitten into copper, printed as a dark vein network on cream wove paper.",
+    "description_zh": "裂纹蚀刻地：龟裂抗蚀层咬入铜版，凹印成奶油布纹纸上的深色裂纹网。",
+    "source": "hermes-explore",
+    "image": "styles/3288-maniere-craquelee.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
