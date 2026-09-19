@@ -8907,6 +8907,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3218, PNG count 3218. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 636 (exactly 5, h3176–h3180)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                                 |
+|-------|-----------------|-------------|---------------------------------------|
+| h3176 | Comma Stroke    | 逗号笔触    | styles/3219-comma-stroke.png          |
+| h3177 | AM Screening    | 调幅加网    | styles/3220-am-screening.png          |
+| h3178 | Mass Drawing    | 团块素描    | styles/3221-mass-drawing.png          |
+| h3179 | White Charcoal  | 白炭笔      | styles/3222-white-charcoal.png        |
+| h3180 | Misregistration | 套准偏移    | styles/3223-misregistration.png       |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3223, PNG count 3223. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -41832,5 +41832,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3176",
+    "slug": "comma-stroke",
+    "name_en": "Comma Stroke",
+    "name_zh": "逗号笔触",
+    "description_en": "Impressionist comma-shaped oil taches of broken color, optical mixing, no hard outline.",
+    "description_zh": "印象派逗号形油彩笔触、断彩光学混合、无硬轮廓。",
+    "source": "hermes-explore",
+    "image": "styles/3219-comma-stroke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3177",
+    "slug": "am-screening",
+    "name_en": "AM Screening",
+    "name_zh": "调幅加网",
+    "description_en": "Amplitude-modulated offset halftone: regular round dots, CMYK angle rosettes.",
+    "description_zh": "调幅胶印网点：规则圆点随阶调胀缩、CMYK玫瑰斑。",
+    "source": "hermes-explore",
+    "image": "styles/3220-am-screening.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3178",
+    "slug": "mass-drawing",
+    "name_en": "Mass Drawing",
+    "name_zh": "团块素描",
+    "description_en": "Mass-conception drawing: charcoal/Conte value blocks, lost edges, no contour line.",
+    "description_zh": "团块造型素描：木炭/孔特色块、虚实边、无线描。",
+    "source": "hermes-explore",
+    "image": "styles/3221-mass-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3179",
+    "slug": "white-charcoal",
+    "name_en": "White Charcoal",
+    "name_zh": "白炭笔",
+    "description_en": "White charcoal on reserved midtone paper; velvety lights, paper tooth as ground.",
+    "description_zh": "有色纸上白炭笔：中间调留白纸、天鹅绒高光、纸齿底。",
+    "source": "hermes-explore",
+    "image": "styles/3222-white-charcoal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3180",
+    "slug": "misregistration",
+    "name_en": "Misregistration",
+    "name_zh": "套准偏移",
+    "description_en": "Print plates out of register: shifted CMYK channels, chromatic fringe, offset key line.",
+    "description_zh": "印刷套准偏移：CMYK版错位、色边色散、轮廓线错开。",
+    "source": "hermes-explore",
+    "image": "styles/3223-misregistration.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
