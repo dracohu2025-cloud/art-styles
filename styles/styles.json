@@ -43067,5 +43067,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3271",
+    "slug": "kinji",
+    "name_en": "Kinji",
+    "name_zh": "金地漆",
+    "description_en": "Kinji: Japanese lacquer gold-ground — dense gold powder in urushi burnished to a continuous mirror-like gold plane, thin black lacquer line sitting on liquid metal.",
+    "description_zh": "金地漆：密金粉入漆再研磨成连续镜面金地，细黑漆线浮在液态金面上。",
+    "source": "hermes-explore",
+    "image": "styles/3314-kinji.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3272",
+    "slug": "funmaki",
+    "name_en": "Funmaki",
+    "name_zh": "粉莳",
+    "description_en": "Funmaki: maki-e powder sprinkling — wet urushi catching graded clouds of gold, silver, and tin powder, density fall-off with lacquer black showing through thin scatter.",
+    "description_zh": "粉莳：莳绘洒粉，湿漆承接金银锡粉的疏密云团，薄处露出黑漆地。",
+    "source": "hermes-explore",
+    "image": "styles/3315-funmaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3273",
+    "slug": "levy-screen",
+    "name_en": "Levy Screen",
+    "name_zh": "列维网屏",
+    "description_en": "Levy Screen: Max Levy cross-line glass halftone — rigid 90° engraved grid of round black dots of varying diameter on cream stock, process-camera photomechanical tint.",
+    "description_zh": "列维网屏：马克斯·列维十字线玻璃网，直角刻线网格上大小不一的圆黑网点落在米色纸上。",
+    "source": "hermes-explore",
+    "image": "styles/3316-levy-screen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3274",
+    "slug": "polavision",
+    "name_en": "Polavision",
+    "name_zh": "宝丽视彩",
+    "description_en": "Polavision: Polaroid additive instant cine — prestriped RGB color-screen, silver diffusion transfer, slightly muddy additive primaries and small-format film grain.",
+    "description_zh": "宝丽视彩：宝丽来加色即时电影胶片，预条纹RGB滤色屏、银盐扩散转印，略浑的加色三原色与小画幅颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3317-polavision.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3275",
+    "slug": "kaseinmalerei",
+    "name_en": "Kaseinmalerei",
+    "name_zh": "酪素壁画",
+    "description_en": "Kaseinmalerei: German casein mural — matte protein-binder wall paint on plaster, opaque velvety chalky flats, mineral pigments without oil gloss or wet-lime fresco bloom.",
+    "description_zh": "酪素壁画：德国酪蛋白壁画，石膏墙上无光蛋白胶颜料，粉质不透明色块，无油光也无湿壁画石灰霜。",
+    "source": "hermes-explore",
+    "image": "styles/3318-kaseinmalerei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

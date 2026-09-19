@@ -9173,6 +9173,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3313, PNG count 3313. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 655 (exactly 5, h3271–h3275)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                             |
+|-------|---------------|------------|-----------------------------------|
+| h3271 | Kinji         | 金地漆     | styles/3314-kinji.png             |
+| h3272 | Funmaki       | 粉莳       | styles/3315-funmaki.png           |
+| h3273 | Levy Screen   | 列维网屏   | styles/3316-levy-screen.png       |
+| h3274 | Polavision    | 宝丽视彩   | styles/3317-polavision.png        |
+| h3275 | Kaseinmalerei | 酪素壁画   | styles/3318-kaseinmalerei.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3318, PNG count 3318. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
