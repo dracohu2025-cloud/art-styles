@@ -8963,6 +8963,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3238, PNG count 3238. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 640 (exactly 5, h3196–h3200)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                            |
+|-------|-------------|-------------|----------------------------------|
+| h3196 | Puntinato   | 点绘补色    | styles/3239-puntinato.png        |
+| h3197 | Letratone   | 莱特网纹    | styles/3240-letratone.png        |
+| h3198 | Puddle Wash | 积水晕染    | styles/3241-puddle-wash.png      |
+| h3199 | Rock Ground | 岩石抗蚀地  | styles/3242-rock-ground.png      |
+| h3200 | Xerox Cel   | 静电赛璐珞  | styles/3243-xerox-cel.png        |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3243, PNG count 3243. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

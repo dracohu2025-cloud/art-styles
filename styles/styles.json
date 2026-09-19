@@ -42092,5 +42092,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3196",
+    "slug": "puntinato",
+    "name_en": "Puntinato",
+    "name_zh": "点绘补色",
+    "description_en": "Italian conservation stippling: form built from tiny discrete colored dots and dashes that optically mix, no continuous strokes, museum inpainting texture.",
+    "description_zh": "意大利修复点绘：形体由细小色点与短触光学混合构成，无连续笔触，博物馆补色质感。",
+    "source": "hermes-explore",
+    "image": "styles/3239-puntinato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3197",
+    "slug": "letratone",
+    "name_en": "Letratone",
+    "name_zh": "莱特网纹",
+    "description_en": "Analog transfer screentone sheets: cut-and-burnished mechanical dot, hatch, and stipple films, visible sheet edges, 1970s paste-up graphic tints.",
+    "description_zh": "模拟转印网纹片：裁贴熨压的机械网点、排线和点纹胶片，可见片边，1970年代拼贴制稿调子。",
+    "source": "hermes-explore",
+    "image": "styles/3240-letratone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3198",
+    "slug": "puddle-wash",
+    "name_en": "Puddle Wash",
+    "name_zh": "积水晕染",
+    "description_en": "Watercolor puddle wash: settled lakes of pigment, drying blooms and backruns, granulating sediment, tide-line rings on wet paper.",
+    "description_zh": "水彩积水晕染：沉淀色湖、干边开花与回流、颗粒沉积、潮线环，湿纸上的水洼。",
+    "source": "hermes-explore",
+    "image": "styles/3241-puddle-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3199",
+    "slug": "rock-ground",
+    "name_en": "Rock Ground",
+    "name_zh": "岩石抗蚀地",
+    "description_en": "Intaglio rock ground: coarse granular bite from crushed asphaltum particles, pitted plate grain, needle lines through the rock, tarlatan-wiped etching ink.",
+    "description_zh": "凹版岩石抗蚀地：沥青碎粒粗粒咬蚀、坑状版纹、针刻穿过岩粒、纱布擦墨。",
+    "source": "hermes-explore",
+    "image": "styles/3242-rock-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3200",
+    "slug": "xerox-cel",
+    "name_en": "Xerox Cel",
+    "name_zh": "静电赛璐珞",
+    "description_en": "1960s–80s xerox-on-acetate animation: photocopy toner grain, broken xerox outlines, reverse-painted flat gouache fills on cel over a painted background.",
+    "description_zh": "1960–80年代静电复印赛璐珞：碳粉颗粒、断裂复印线、赛璐珞背面平涂水粉叠在手绘背景上。",
+    "source": "hermes-explore",
+    "image": "styles/3243-xerox-cel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
