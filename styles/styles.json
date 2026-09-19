@@ -43652,5 +43652,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3316",
+    "slug": "kiryu-ori",
+    "name_en": "Kiryu-ori",
+    "name_zh": "桐生织",
+    "description_en": "Kiryū-ori: Gunma figured silk weaving — dense warp-pattern brocade, raised floral-geometric mon, glossy weft catches and precise loom structure, not yuzen dye, not kasuri ikat, not printed fabric.",
+    "description_zh": "桐生织：群马经起花丝绸织造，密实经纹织锦、浮起的花几何纹、光泽纬丝与精确机织结构，非友禅染、非絣织、非印花布。",
+    "source": "hermes-explore",
+    "image": "styles/3359-kiryu-ori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3317",
+    "slug": "samegawa",
+    "name_en": "Samegawa",
+    "name_zh": "鲛皮",
+    "description_en": "Samegawa: ray-skin wrap — tight pebbled denticle granules, pearl-grey to ivory nodules, often thinly lacquered as on sword hilts, not fish-scale illustration, not mermaid skin.",
+    "description_zh": "鲛皮：鳐鱼皮缠裹，细密粒状盾鳞、珠灰至象牙色结节，常薄髹如刀柄，非鱼鳞插画、非人鱼皮肤。",
+    "source": "hermes-explore",
+    "image": "styles/3360-samegawa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3318",
+    "slug": "mentori",
+    "name_en": "Mentori",
+    "name_zh": "面取",
+    "description_en": "Mentori: chamfered faceting — crisp arrises and beveled ceramic/wood/lacquer planes catching light in flat cuts, like a faceted tea caddy, not gemstone jewelry, not low-poly 3D, not cubism.",
+    "description_zh": "面取：倒角切面，锋利棱线与陶/木/漆的斜切平面受光成块面，如切面茶入，非宝石首饰、非低多边形三维、非立体主义。",
+    "source": "hermes-explore",
+    "image": "styles/3361-mentori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3319",
+    "slug": "eastmancolor",
+    "name_en": "Eastmancolor",
+    "name_zh": "伊斯曼彩",
+    "description_en": "Eastmancolor: 1950s–60s single-strip motion-picture chromogenic stock — dye-coupler palette, cyan-green shadow bias, warm theatrical skin dyes and mild grain, not Technicolor imbibition, not Kodachrome, not Kodacolor stills.",
+    "description_zh": "伊斯曼彩：1950–60年代单条电影成色片，偶联染料色板、青绿阴影倾向、暖舞台肤色与轻颗粒，非特艺浸染、非柯达克罗姆、非柯达彩静照。",
+    "source": "hermes-explore",
+    "image": "styles/3362-eastmancolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3320",
+    "slug": "stereoptical",
+    "name_en": "Stereoptical",
+    "name_zh": "立体透视台",
+    "description_en": "Stereoptical: Fleischer/Disney horizontal multiplane tabletop — painted cel figure inside a physical miniature set of forced-perspective flats, model trees and a curved backdrop, not CGI, not ordinary vertical multiplane alone, not stop-motion clay.",
+    "description_zh": "立体透视台：弗莱舍/迪士尼水平多层台面工艺，赛璐珞人物置于强制透视布景、模型树与弧形背幕的实体微缩场景中，非CGI、非单指垂直多层、非黏土定格。",
+    "source": "hermes-explore",
+    "image": "styles/3363-stereoptical.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

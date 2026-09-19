@@ -9299,6 +9299,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3358, PNG count 3358. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 664 (exactly 5, h3316–h3320)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                          |
+|-------|--------------|-------------|-------------------------------|
+| h3316 | Kiryu-ori    | 桐生织      | styles/3359-kiryu-ori.png     |
+| h3317 | Samegawa     | 鲛皮        | styles/3360-samegawa.png      |
+| h3318 | Mentori      | 面取        | styles/3361-mentori.png       |
+| h3319 | Eastmancolor | 伊斯曼彩    | styles/3362-eastmancolor.png  |
+| h3320 | Stereoptical | 立体透视台  | styles/3363-stereoptical.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3363, PNG count 3363. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
