@@ -9384,6 +9384,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3388, PNG count 3388. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 670 (exactly 5, h3346–h3350)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh       | image                              |
+|-------|----------------|---------------|------------------------------------|
+| h3346 | Tsuiki         | 鎚起          | styles/3389-tsuiki.png             |
+| h3347 | Provia         | 普罗维亚反转  | styles/3390-provia.png             |
+| h3348 | Velox          | 维洛克斯相纸  | styles/3391-velox.png              |
+| h3349 | Tetsusabi-nuri | 铁錆塗        | styles/3392-tetsusabi-nuri.png     |
+| h3350 | Polapan        | 宝丽潘        | styles/3393-polapan.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3393, PNG count 3393. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -44042,5 +44042,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3346",
+    "slug": "tsuiki",
+    "name_en": "Tsuiki",
+    "name_zh": "鎚起",
+    "description_en": "Tsuiki: Japanese hammer-raised sheet metal — planishing facets, annealed silver-bronze sheen, volumetric relief from a single plate; not chasing-only, not cast bronze, not mokume-gane.",
+    "description_zh": "鎚起：日本锤起钣金，锤目鳞面、退火银铜色泽、单板立体隆起；非仅錾刻、非铸造铜、非木目金。",
+    "source": "hermes-explore",
+    "image": "styles/3389-tsuiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3347",
+    "slug": "provia",
+    "name_en": "Provia",
+    "name_zh": "普罗维亚反转",
+    "description_en": "Provia: Fujifilm E-6 color-reversal slide — clean cool-neutral daylight, accurate skin, snappy but not hyper greens, fine grain; not Velvia, not Astia, not Portra negative.",
+    "description_zh": "普罗维亚反转：富士E-6彩色反转片，干净冷中性日光、肤色准确、绿色利落但不爆、细颗粒；非Velvia、非Astia、非Portra负片。",
+    "source": "hermes-explore",
+    "image": "styles/3390-provia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3348",
+    "slug": "velox",
+    "name_en": "Velox",
+    "name_zh": "维洛克斯相纸",
+    "description_en": "Velox: Kodak developing-out / gaslight paper — cool-black to olive-brown silver on warm white fiber, modest contrast, velvety midtones; not glossy RC, not selenium, not cyanotype.",
+    "description_zh": "维洛克斯相纸：柯达显影相纸/气光纸，冷黑至橄榄褐银影、暖白纤维底、反差适中、中调绒面；非光面RC、非硒调、非蓝晒。",
+    "source": "hermes-explore",
+    "image": "styles/3391-velox.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3349",
+    "slug": "tetsusabi-nuri",
+    "name_en": "Tetsusabi-nuri",
+    "name_zh": "铁錆塗",
+    "description_en": "Tetsusabi-nuri: iron-rust urushi — matte ferric brown-red, mineral grit, dry lacquer tooth, oxidized metal-lacquer fusion; not bright shu-nuri vermilion, not glossy roiro.",
+    "description_zh": "铁錆塗：铁錆漆，哑光铁锈棕红、矿物颗粒、干漆齿感、氧化金属与漆融合；非鲜红朱塗、非镜面呂色。",
+    "source": "hermes-explore",
+    "image": "styles/3392-tetsusabi-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3350",
+    "slug": "polapan",
+    "name_en": "Polapan",
+    "name_zh": "宝丽潘",
+    "description_en": "Polapan: Polaroid instant black-and-white 35mm slide — silvery continuous tone, creamy mid-grays, mild instant-film softness, faint chemical mottling; not SX-70 color, not Tri-X crunch.",
+    "description_zh": "宝丽潘：宝丽来即显黑白35毫米反转，银色连续调、奶油中灰、轻微即显柔软、淡化学斑驳；非SX-70彩色、非Tri-X粗颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3393-polapan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
