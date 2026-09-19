@@ -43457,5 +43457,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3301",
+    "slug": "mokuhan-zome",
+    "name_en": "Mokuhan-zome",
+    "name_zh": "木版染",
+    "description_en": "Mokuhan-zome: Japanese woodblock cloth dyeing — carved wooden blocks stamp vegetable dyes into the textile weave, pigment bleed and slight misregister on cloth tooth, not paper mokuhanga and not roller print.",
+    "description_zh": "木版染：日本木版布染，雕版把植物染料压入布纹，布齿上的渗色与轻微错版，非纸本木版画或铜辊印。",
+    "source": "hermes-explore",
+    "image": "styles/3344-mokuhan-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3302",
+    "slug": "rouxcolor",
+    "name_en": "Rouxcolor",
+    "name_zh": "鲁色加彩",
+    "description_en": "Rouxcolor: late-1940s French additive color cinematography — lenticular RGB weave, prismatic fringing, coarse emulsion, neither Technicolor imbibition nor modern digital grade.",
+    "description_zh": "鲁色加彩：1940年代末法国加色电影，透镜RGB织纹、棱镜色边、粗颗粒乳剂，非特艺吸色印亦非现代数字调色。",
+    "source": "hermes-explore",
+    "image": "styles/3345-rouxcolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3303",
+    "slug": "donsu",
+    "name_en": "Donsu",
+    "name_zh": "缎子",
+    "description_en": "Donsu: East Asian satin damask — warp-satin sheen reversed in the weft to weave the motif, silk luster only, not printed chintz, not embroidery, not painted brocade.",
+    "description_zh": "缎子：东亚缎纹提花，经缎光泽在纬向反转织出纹样，只有丝绸反光，非印花、刺绣或手绘织金。",
+    "source": "hermes-explore",
+    "image": "styles/3346-donsu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3304",
+    "slug": "malachite-glass",
+    "name_en": "Malachite Glass",
+    "name_zh": "孔雀石玻璃",
+    "description_en": "Malachite Glass: Bohemian opaque glass banded to imitate malachite — vitreous gloss, concentric mineral greens, pressed-mould or cut facets, not jade carving and not painted stone.",
+    "description_zh": "孔雀石玻璃：波希米亚不透明玻璃仿孔雀石条带，玻璃光泽、同心矿物绿、模压或切割棱面，非玉雕亦非石纹彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/3347-malachite-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3305",
+    "slug": "totoya",
+    "name_en": "Totoya",
+    "name_zh": "鱼屋手",
+    "description_en": "Totoya: Korean Ido-class tea-bowl stoneware — iron clay, thin warm grey-brown ash-feldspar glaze, kiln blush and throwing rings, not porcelain, not Longquan celadon, not raku.",
+    "description_zh": "鱼屋手：朝鲜系井戸类茶碗炻器，铁质胎土、薄暖灰棕灰釉长石釉、窑变与拉坯弦纹，非瓷、非龙泉青瓷、非乐烧。",
+    "source": "hermes-explore",
+    "image": "styles/3348-totoya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

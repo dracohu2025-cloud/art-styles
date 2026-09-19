@@ -9257,6 +9257,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3343, PNG count 3343. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 661 (exactly 5, h3301–h3305)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh      | image                             |
+|-------|-----------------|--------------|-----------------------------------|
+| h3301 | Mokuhan-zome    | 木版染       | styles/3344-mokuhan-zome.png      |
+| h3302 | Rouxcolor       | 鲁色加彩     | styles/3345-rouxcolor.png         |
+| h3303 | Donsu           | 缎子         | styles/3346-donsu.png             |
+| h3304 | Malachite Glass | 孔雀石玻璃   | styles/3347-malachite-glass.png   |
+| h3305 | Totoya          | 鱼屋手       | styles/3348-totoya.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3348, PNG count 3348. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
