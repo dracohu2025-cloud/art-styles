@@ -42157,5 +42157,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3201",
+    "slug": "asphaltum-ground",
+    "name_en": "Asphaltum Ground",
+    "name_zh": "沥青抗蚀地",
+    "description_en": "Intaglio from a bitumen-coated plate: brushy warm asphaltum resist, irregular acid bite, residual golden-brown stains, plate-mark on cream rag paper.",
+    "description_zh": "沥青抗蚀地凹版：暖褐沥青涂地、不规则酸咬、残留金棕色渍、奶油色棉纸上的版痕。",
+    "source": "hermes-explore",
+    "image": "styles/3244-asphaltum-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3202",
+    "slug": "kiss-impression",
+    "name_en": "Kiss Impression",
+    "name_zh": "轻触压印",
+    "description_en": "Letterpress kiss impression: whisper-thin ink barely touching cotton rag, slight bite, paper tooth showing, almost no squash.",
+    "description_zh": "凸版轻触压印：墨层极薄刚触棉纸、轻微咬痕、纸纹可见、几乎无挤压铺墨。",
+    "source": "hermes-explore",
+    "image": "styles/3245-kiss-impression.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3203",
+    "slug": "optical-mixing",
+    "name_en": "Optical Mixing",
+    "name_zh": "视觉混色",
+    "description_en": "Broken-color optical mixing: juxtaposed unmixed complementary strokes that fuse into secondary hues only at viewing distance.",
+    "description_zh": "视觉混色：并置未调和的互补色笔触，远观才融成间色，近看保持分离。",
+    "source": "hermes-explore",
+    "image": "styles/3246-optical-mixing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3204",
+    "slug": "chloride-print",
+    "name_en": "Chloride Print",
+    "name_zh": "氯素相纸",
+    "description_en": "Gold-toned chloride printing-out paper: warm reddish-brown to purple-brown continuous tone, self-masking highlights, historic POP surface.",
+    "description_zh": "金调氯素晒出相纸：暖红棕至紫棕色连续调、自掩蔽高光、历史晒出相纸表面。",
+    "source": "hermes-explore",
+    "image": "styles/3247-chloride-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3205",
+    "slug": "satin-weave",
+    "name_en": "Satin Weave",
+    "name_zh": "缎纹组织",
+    "description_en": "Warp-faced satin weave: long floats, anisotropic luster that flares with light angle, thread-level figured satin structure.",
+    "description_zh": "经面缎纹组织：长浮线、随光角跃动的各向异性光泽、可见纱线级花缎结构。",
+    "source": "hermes-explore",
+    "image": "styles/3248-satin-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

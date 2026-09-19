@@ -8977,6 +8977,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3243, PNG count 3243. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 641 (exactly 5, h3201–h3205)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                                 |
+|-------|-------------------|-------------|---------------------------------------|
+| h3201 | Asphaltum Ground  | 沥青抗蚀地  | styles/3244-asphaltum-ground.png      |
+| h3202 | Kiss Impression   | 轻触压印    | styles/3245-kiss-impression.png       |
+| h3203 | Optical Mixing    | 视觉混色    | styles/3246-optical-mixing.png        |
+| h3204 | Chloride Print    | 氯素相纸    | styles/3247-chloride-print.png        |
+| h3205 | Satin Weave       | 缎纹组织    | styles/3248-satin-weave.png           |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3248, PNG count 3248. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
