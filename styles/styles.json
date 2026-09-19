@@ -42222,5 +42222,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3206",
+    "slug": "piezography",
+    "name_en": "Piezography",
+    "name_zh": "压电碳墨印",
+    "description_en": "Carbon-pigment Piezography inkjet: 7–16 dedicated gray inks, split-toned neutrals, ultra-smooth continuous tone on matte rag, no chromatic color.",
+    "description_zh": "压电碳墨印：7–16级专用灰色碳墨、冷暖分离中性调、粗面棉纸上的超平滑连续调，无彩色。",
+    "source": "hermes-explore",
+    "image": "styles/3249-piezography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3207",
+    "slug": "split-grade",
+    "name_en": "Split Grade",
+    "name_zh": "分反差放大",
+    "description_en": "Darkroom split-grade printing: sequential Multigrade 00 and 5 filter exposures, open creamy highlights plus razor micro-contrast blacks on fiber VC paper.",
+    "description_zh": "分反差放大：00号与5号滤镜分次曝光，乳色通透高光叠加锐利微反差黑，纤维可变反差相纸。",
+    "source": "hermes-explore",
+    "image": "styles/3250-split-grade.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3208",
+    "slug": "pmk-pyro",
+    "name_en": "PMK Pyro",
+    "name_zh": "焦酚染色显影",
+    "description_en": "PMK pyro-metol-kodalk staining developer: yellow-green proportional stain, Mackie-line acutance, olive-brown print from the stained negative.",
+    "description_zh": "焦酚染色显影：黄绿比例染色、麦基线锐度、由染色底片印出的橄榄棕影像。",
+    "source": "hermes-explore",
+    "image": "styles/3251-pmk-pyro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3209",
+    "slug": "hair-embroidery",
+    "name_en": "Hair Embroidery",
+    "name_zh": "发绣",
+    "description_en": "Chinese fa-xiu hair embroidery: value built from individual black, brown, and white human-hair stitches on silk, thread sheen instead of paint.",
+    "description_zh": "发绣：以黑、棕、白发丝在缎地上逐针构成明暗，靠发丝光泽而非颜料成像。",
+    "source": "hermes-explore",
+    "image": "styles/3252-hair-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3210",
+    "slug": "pull-processing",
+    "name_en": "Pull Processing",
+    "name_zh": "减感冲洗",
+    "description_en": "Pull-processed color negative: overexposed then underdeveloped, muted contrast, milky highlights, compressed shadows, pastel desaturated grain.",
+    "description_zh": "减感冲洗：过曝后减显影，反差压低、乳状高光、阴影压缩、粉彩色细颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3253-pull-processing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

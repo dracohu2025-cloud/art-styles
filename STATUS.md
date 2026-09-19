@@ -8991,6 +8991,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3248, PNG count 3248. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 642 (exactly 5, h3206–h3210)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh       | image                               |
+|-------|-------------------|---------------|-------------------------------------|
+| h3206 | Piezography       | 压电碳墨印    | styles/3249-piezography.png         |
+| h3207 | Split Grade       | 分反差放大    | styles/3250-split-grade.png         |
+| h3208 | PMK Pyro          | 焦酚染色显影  | styles/3251-pmk-pyro.png            |
+| h3209 | Hair Embroidery   | 发绣          | styles/3252-hair-embroidery.png     |
+| h3210 | Pull Processing   | 减感冲洗      | styles/3253-pull-processing.png     |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3253, PNG count 3253. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
