@@ -9159,6 +9159,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3308, PNG count 3308. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 654 (exactly 5, h3266–h3270)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh    | image                         |
+|-------|-------------|------------|-------------------------------|
+| h3266 | Pontate     | 横带湿壁   | styles/3309-pontate.png       |
+| h3267 | Seminato    | 撒石磨地   | styles/3310-seminato.png      |
+| h3268 | Trullisatio | 粗涂底灰   | styles/3311-trullisatio.png   |
+| h3269 | Autotype    | 碳素影印   | styles/3312-autotype.png      |
+| h3270 | Line Block  | 线凸锌版   | styles/3313-line-block.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3313, PNG count 3313. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

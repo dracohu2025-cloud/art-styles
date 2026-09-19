@@ -43002,5 +43002,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3266",
+    "slug": "pontate",
+    "name_en": "Pontate",
+    "name_zh": "横带湿壁",
+    "description_en": "Buon fresco laid in horizontal scaffolding registers (pontate): stacked plaster bands, mismatched lime temperature, visible pontate seams over giornata patches.",
+    "description_zh": "横带湿壁：按脚手架层分段涂绘的湿壁画，灰层呈水平条带，接缝与石灰色温差清晰可见。",
+    "source": "hermes-explore",
+    "image": "styles/3309-pontate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3267",
+    "slug": "seminato",
+    "name_en": "Seminato",
+    "name_zh": "撒石磨地",
+    "description_en": "Venetian seminato: densely scattered irregular marble chips ground flush in lime binder and honed — speckled aggregate, not slab terrazzo or palladiana.",
+    "description_zh": "撒石磨地：威尼斯细石散铺后磨平抛光，石灰粘结、碎屑致密，有别于大片水磨石或帕拉迪亚纳。",
+    "source": "hermes-explore",
+    "image": "styles/3310-seminato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3268",
+    "slug": "trullisatio",
+    "name_en": "Trullisatio",
+    "name_zh": "粗涂底灰",
+    "description_en": "Vitruvian trullisatio: the first thrown rough plaster coat of coarse lime-sand, gritted splashes and scratch-key — before arriccio polish or intonaco.",
+    "description_zh": "粗涂底灰：维特鲁威所述第一层甩涂粗灰，石灰砂粒、飞溅与抓痕底，尚未抹平或上细灰。",
+    "source": "hermes-explore",
+    "image": "styles/3311-trullisatio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3269",
+    "slug": "autotype",
+    "name_en": "Autotype",
+    "name_zh": "碳素影印",
+    "description_en": "Autotype carbon print: pigmented gelatin carbon tissue transferred as continuous-tone matte carbon, velvety blacks, no silver grain, slight tissue relief in darks.",
+    "description_zh": "碳素影印：色素明胶碳素纸转印的连续调碳印，丝绒哑光黑、无银盐颗粒，暗部略有碳膜浮凸。",
+    "source": "hermes-explore",
+    "image": "styles/3312-autotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3270",
+    "slug": "line-block",
+    "name_en": "Line Block",
+    "name_zh": "线凸锌版",
+    "description_en": "Line block: zinc photoengraved relief line plate for letterpress — binary black line, no halftone dots, bitten edges and ink squash on cream stock.",
+    "description_zh": "线凸锌版：照相腐蚀的锌凸线版供凸印，纯黑线条、无网目点，咬口与油墨挤边落在米色纸上。",
+    "source": "hermes-explore",
+    "image": "styles/3313-line-block.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
