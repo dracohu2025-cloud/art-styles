@@ -41897,5 +41897,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3181",
+    "slug": "sgraffito-gilding",
+    "name_en": "Sgraffito Gilding",
+    "name_zh": "刮金",
+    "description_en": "Color painted over gold leaf, then scratched back so glittering gold lines and ornament cut through the paint skin.",
+    "description_zh": "金箔上覆色再刮露：金线与纹饰从色层中划出。",
+    "source": "hermes-explore",
+    "image": "styles/3224-sgraffito-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3182",
+    "slug": "blown-ink",
+    "name_en": "Blown Ink",
+    "name_zh": "吹墨",
+    "description_en": "Ink blown through a tube across paper: dendritic branches, feathery spray, forked rivers of pigment.",
+    "description_zh": "管吹墨水：树枝状分叉、雾状喷溅、分叉墨河。",
+    "source": "hermes-explore",
+    "image": "styles/3225-blown-ink.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3183",
+    "slug": "wipe-out-oil",
+    "name_en": "Wipe-out Oil",
+    "name_zh": "湿擦油画",
+    "description_en": "Reductive oil: lights wiped from a wet dark imprimatura with rag and bristle so highlights are subtracted.",
+    "description_zh": "减法油画：从湿暗底上用布与笔擦出亮部。",
+    "source": "hermes-explore",
+    "image": "styles/3226-wipe-out-oil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3184",
+    "slug": "puff-print",
+    "name_en": "Puff Print",
+    "name_zh": "发泡印花",
+    "description_en": "Heat-expanded puff ink screen print: raised velvety plastisol islands, simplified poster shapes, tactile foam-like ink.",
+    "description_zh": "热发泡油墨丝网：隆起绒感色块、海报简化形、触感泡沫墨。",
+    "source": "hermes-explore",
+    "image": "styles/3227-puff-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3185",
+    "slug": "masking-fluid",
+    "name_en": "Masking Fluid",
+    "name_zh": "留白胶",
+    "description_en": "Watercolor reserved with rubber masking fluid: hard paper-white edges, peeled-mask dots, washes flowing around resists.",
+    "description_zh": "留白胶水彩：硬边纸白、揭胶斑点、水色绕开防染。",
+    "source": "hermes-explore",
+    "image": "styles/3228-masking-fluid.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

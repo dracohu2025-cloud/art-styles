@@ -8921,6 +8921,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3223, PNG count 3223. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 637 (exactly 5, h3181–h3185)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                 |
+|-------|--------------------|-------------|---------------------------------------|
+| h3181 | Sgraffito Gilding  | 刮金        | styles/3224-sgraffito-gilding.png     |
+| h3182 | Blown Ink          | 吹墨        | styles/3225-blown-ink.png             |
+| h3183 | Wipe-out Oil       | 湿擦油画    | styles/3226-wipe-out-oil.png          |
+| h3184 | Puff Print         | 发泡印花    | styles/3227-puff-print.png            |
+| h3185 | Masking Fluid      | 留白胶      | styles/3228-masking-fluid.png         |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3228, PNG count 3228. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
