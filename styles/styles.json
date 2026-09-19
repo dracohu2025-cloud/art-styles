@@ -43132,5 +43132,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3276",
+    "slug": "hydrotype",
+    "name_en": "Hydrotype",
+    "name_zh": "水染型",
+    "description_en": "Hydrotype: Traube dye-imbibition — stained gelatin relief matrices soak aniline dyes into paper fibers, velvety bleeding overlays of magenta-cyan-yellow, no silver grain.",
+    "description_zh": "水染型：特劳贝染料吸印，染色明胶浮雕把苯胺色渗入纸纤维，品红-青-黄绒面叠染，无银盐颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3319-hydrotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3277",
+    "slug": "lignose",
+    "name_en": "Lignose",
+    "name_zh": "利格诺斯彩",
+    "description_en": "Lignose: 1920s Naturfarbenfilm additive color — fine vertical RGB lenticular/line-screen stripes, optical mixing of primaries, mild prismatic registration shimmer.",
+    "description_zh": "利格诺斯彩：1920年代德国天然彩膜，细密竖向红绿蓝线屏/柱镜，加色光学混合，轻微棱镜套准颤动。",
+    "source": "hermes-explore",
+    "image": "styles/3320-lignose.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3278",
+    "slug": "yakogai",
+    "name_en": "Yakogai",
+    "name_zh": "夜光贝",
+    "description_en": "Yakogai: turbo marmoratus night-glow shell inlay — iridescent green-blue-gold nacre set flush in polished black roiro lacquer, form built from cut shell not paint.",
+    "description_zh": "夜光贝：夜光螺钿嵌，绿蓝金虹彩贝片齐平嵌于抛光黑蝋色漆，形体由切贝构成而非描画。",
+    "source": "hermes-explore",
+    "image": "styles/3321-yakogai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3279",
+    "slug": "verdures",
+    "name_en": "Verdures",
+    "name_zh": "绿荫挂毯",
+    "description_en": "Verdures: Flemish verdure tapestry — dense forest-green wool-and-silk weft, hatch in the weave, leafy field filling the ground, visible warp ribs and slit joins.",
+    "description_zh": "绿荫挂毯：佛兰德斯绿荫织毯，密林绿羊毛与丝纬，织纹排线，满地枝叶，可见经棱与开缝。",
+    "source": "hermes-explore",
+    "image": "styles/3322-verdures.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3280",
+    "slug": "salt-ground",
+    "name_en": "Salt Ground",
+    "name_zh": "盐地蚀刻",
+    "description_en": "Salt Ground: intaglio salt-grain etch — crystalline salt pits bite the copper, open granular tooth unlike rocked mezzotint, warm black ink and plate tone.",
+    "description_zh": "盐地蚀刻：盐粒抗蚀凹版，晶体盐坑咬开铜面，开放颗粒齿面异于摇刻美柔汀，暖黑油墨与版调。",
+    "source": "hermes-explore",
+    "image": "styles/3323-salt-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -9187,6 +9187,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3318, PNG count 3318. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 656 (exactly 5, h3276–h3280)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh      | image                            |
+|-------|--------------|--------------|----------------------------------|
+| h3276 | Hydrotype    | 水染型       | styles/3319-hydrotype.png        |
+| h3277 | Lignose      | 利格诺斯彩   | styles/3320-lignose.png          |
+| h3278 | Yakogai      | 夜光贝       | styles/3321-yakogai.png          |
+| h3279 | Verdures     | 绿荫挂毯     | styles/3322-verdures.png         |
+| h3280 | Salt Ground  | 盐地蚀刻     | styles/3323-salt-ground.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3323, PNG count 3323. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
