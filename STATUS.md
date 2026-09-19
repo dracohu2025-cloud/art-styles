@@ -9412,6 +9412,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3398, PNG count 3398. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 672 (exactly 5, h3356–h3360)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh   | image                         |
+|-------|--------------|-----------|-------------------------------|
+| h3356 | Photostat    | 照相复印  | styles/3399-photostat.png     |
+| h3357 | Iron Red     | 矾红      | styles/3400-iron-red.png      |
+| h3358 | Kuro-nuri    | 黑涂      | styles/3401-kuro-nuri.png     |
+| h3359 | Cross-stitch | 十字绣    | styles/3402-cross-stitch.png  |
+| h3360 | Crochet Lace | 钩针花边  | styles/3403-crochet-lace.png  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3403, PNG count 3403. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

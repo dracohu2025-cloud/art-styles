@@ -44172,5 +44172,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3356",
+    "slug": "photostat",
+    "name_en": "Photostat",
+    "name_zh": "照相复印",
+    "description_en": "Photostat: analog camera-copy print — silvery metallic charcoal on matte silver-gray paper, high-contrast grain, chemical bloom and machine-edge flare; not xerography toner, not lithograph.",
+    "description_zh": "照相复印：银盐相机复印，银灰底上金属炭黑、高反差颗粒、药液晕与机缘光晕；非碳粉复印、非石版。",
+    "source": "hermes-explore",
+    "image": "styles/3399-photostat.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3357",
+    "slug": "iron-red",
+    "name_en": "Iron Red",
+    "name_zh": "矾红",
+    "description_en": "Iron red overglaze: coral-scarlet iron-oxide enamel on white porcelain glaze, spare kiln-fired 矾红 brushwork; not copper-red underglaze, not watercolor.",
+    "description_zh": "矾红：白瓷釉上珊瑚铁红釉上彩，疏朗窑烧笔意；非铜红釉下、非水彩。",
+    "source": "hermes-explore",
+    "image": "styles/3400-iron-red.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3358",
+    "slug": "kuro-nuri",
+    "name_en": "Kuro-nuri",
+    "name_zh": "黑涂",
+    "description_en": "Kuro-nuri: solid jet black urushi — mirror-deep lacquer coats, black-on-black figure, wet polish, no maki-e gold; not charcoal, not mezzotint.",
+    "description_zh": "黑涂：通体黑漆，镜面漆层、黑上见形、湿润抛光、无莳绘金；非炭笔、非美柔汀。",
+    "source": "hermes-explore",
+    "image": "styles/3401-kuro-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3359",
+    "slug": "cross-stitch",
+    "name_en": "Cross-stitch",
+    "name_zh": "十字绣",
+    "description_en": "Cross-stitch: counted X stitches of cotton floss on evenweave Aida, visible grid, no painterly blend; not satin stitch, not needle-painting.",
+    "description_zh": "十字绣：均匀布上计针交叉线、格纹可见、无绘画混色；非缎纹绣、非丝线晕绣。",
+    "source": "hermes-explore",
+    "image": "styles/3402-cross-stitch.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3360",
+    "slug": "crochet-lace",
+    "name_en": "Crochet Lace",
+    "name_zh": "钩针花边",
+    "description_en": "Crochet lace: chain, treble and picot openwork in ivory cotton thread, holes showing the ground; not cross-stitch, not needle lace, not paper cut.",
+    "description_zh": "钩针花边：锁针、长针与皮克织成透空米白棉线，孔洞见底；非十字绣、非针绣蕾丝、非剪纸。",
+    "source": "hermes-explore",
+    "image": "styles/3403-crochet-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
