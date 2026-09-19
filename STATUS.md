@@ -9131,6 +9131,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3298, PNG count 3298. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 652 (exactly 5, h3256–h3260)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh             | image                               |
+|-------|-------------------|---------------------|-------------------------------------|
+| h3256 | Bruguiere Relief  | 布鲁吉埃浮雕摄影    | styles/3299-bruguiere-relief.png    |
+| h3257 | Sanger-Shepherd   | 桑格-谢泼德彩照     | styles/3300-sanger-shepherd.png     |
+| h3258 | Opus Scutulatum   | 菱石镶嵌            | styles/3301-opus-scutulatum.png     |
+| h3259 | Werra Ware        | 韦拉化妆土陶        | styles/3302-werra-ware.png          |
+| h3260 | Cristallo-cerame  | 瓷釉水晶            | styles/3303-cristallo-cerame.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3303, PNG count 3303. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

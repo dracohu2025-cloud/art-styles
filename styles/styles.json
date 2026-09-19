@@ -42872,5 +42872,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3256",
+    "slug": "bruguiere-relief",
+    "name_en": "Bruguiere Relief",
+    "name_zh": "布鲁吉埃浮雕摄影",
+    "description_en": "Francis Bruguière cut-paper photographic relief: scored white planes, raking sidelight, geometric cast shadows and silver-gelatin grain—sculpture made of paper and light.",
+    "description_zh": "布鲁吉埃剪纸浮雕摄影：划折白纸平面、侧逆光、几何投影与银盐颗粒，纸与光构成的雕塑。",
+    "source": "hermes-explore",
+    "image": "styles/3299-bruguiere-relief.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3257",
+    "slug": "sanger-shepherd",
+    "name_en": "Sanger-Shepherd",
+    "name_zh": "桑格-谢泼德彩照",
+    "description_en": "Sanger-Shepherd subtractive color photography: RGB separation negatives printed as complementary pigmented gelatin tissues, slight channel misregister and velvety carbon-tissue blacks.",
+    "description_zh": "桑格-谢泼德减色法彩照：红绿蓝分色底片以补色明胶色素叠印，轻微套准偏移与碳纸丝绒黑。",
+    "source": "hermes-explore",
+    "image": "styles/3300-sanger-shepherd.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3258",
+    "slug": "opus-scutulatum",
+    "name_en": "Opus Scutulatum",
+    "name_zh": "菱石镶嵌",
+    "description_en": "Roman opus scutulatum: lozenge-shaped stone tesserae (scutulae) in marble, slate and porphyry packed on a diamond grid with visible grout and polished facets.",
+    "description_zh": "罗马菱石镶嵌：大理石、板岩与斑岩菱形石片按斜网格密铺，灰缝与抛光石面可见。",
+    "source": "hermes-explore",
+    "image": "styles/3301-opus-scutulatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3259",
+    "slug": "werra-ware",
+    "name_en": "Werra Ware",
+    "name_zh": "韦拉化妆土陶",
+    "description_en": "German Renaissance Werra slipware: red earthenware under white slip, sgraffito-incised contours, copper-green and iron-yellow lead-glaze pools with kiln speckles.",
+    "description_zh": "德国文艺复兴韦拉化妆土陶：红陶施白化妆土、刮刻轮廓、铜绿与铁黄铅釉积淀及窑斑。",
+    "source": "hermes-explore",
+    "image": "styles/3302-werra-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3260",
+    "slug": "cristallo-cerame",
+    "name_en": "Cristallo-cerame",
+    "name_zh": "瓷釉水晶",
+    "description_en": "Apsley Pellatt cristallo-cerame cameo incrustation: white biscuit-porcelain sulphide trapped inside a polished lead-crystal block with refractive distortions.",
+    "description_zh": "佩拉特瓷釉水晶夹瓷：白色素烧瓷浮雕封入抛光铅晶玻璃块，折射畸变可见。",
+    "source": "hermes-explore",
+    "image": "styles/3303-cristallo-cerame.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
