@@ -9356,6 +9356,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3378, PNG count 3378. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 668 (exactly 5, h3336–h3340)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                          |
+|-------|-------------|-------------|-------------------------------|
+| h3336 | Yakitsuke   | 烧付        | styles/3379-yakitsuke.png     |
+| h3337 | Chirimaki   | 散蒔        | styles/3380-chirimaki.png     |
+| h3338 | Sagara-nui  | 相良绣      | styles/3381-sagara-nui.png    |
+| h3339 | Orwochrom   | 奥尔沃反转  | styles/3382-orwochrom.png     |
+| h3340 | Pakolor     | 帕科彩      | styles/3383-pakolor.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3383, PNG count 3383. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

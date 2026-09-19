@@ -43912,5 +43912,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3336",
+    "slug": "yakitsuke",
+    "name_en": "Yakitsuke",
+    "name_zh": "烧付",
+    "description_en": "Yakitsuke: kiln-fired vitreous overglaze enamel on metal — fused glass-flux pools, cloison ridges, fire-scale and pinholes, hard glossy melt; not watercolor, not unfired paint, not ceramic-as-object.",
+    "description_zh": "烧付：金属上窑烧釉上珐琅，玻璃熔剂色池、掐丝棱、火垢与针孔、硬亮熔面；非水彩、非未烧颜料、非陶瓷器物摆拍。",
+    "source": "hermes-explore",
+    "image": "styles/3379-yakitsuke.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3337",
+    "slug": "chirimaki",
+    "name_en": "Chirimaki",
+    "name_zh": "散蒔",
+    "description_en": "Chirimaki: maki-e of gold and silver powder scattered onto wet urushi — uneven flake density, sparkle in black/red lacquer, not even kinji ground, not togidashi polish-out, not kirikane cut-foil.",
+    "description_zh": "散蒔：湿漆上撒金银粉的莳绘，疏密不均的金属屑、黑红漆底闪光；非均匀金地、非研出莳绘、非截金箔。",
+    "source": "hermes-explore",
+    "image": "styles/3380-chirimaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3338",
+    "slug": "sagara-nui",
+    "name_en": "Sagara-nui",
+    "name_zh": "相良绣",
+    "description_en": "Sagara-nui: Japanese knotted-dot embroidery — raised silk knots packed into tone and contour on visible weave; not sashiko, not cross-stitch, not bead jewelry.",
+    "description_zh": "相良绣：日本结粒绣，丝线结粒堆成明暗与轮廓、底布织纹可见；非刺子、非十字绣、非珠饰。",
+    "source": "hermes-explore",
+    "image": "styles/3381-sagara-nui.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3339",
+    "slug": "orwochrom",
+    "name_en": "Orwochrom",
+    "name_zh": "奥尔沃反转",
+    "description_en": "Orwochrom: East German ORWO color-reversal slide look — cool green-cyan bias, modest saturation, fine dye grain, analog transparency contrast; not Velvia, not Ektachrome, not Fujichrome, not digital HDR.",
+    "description_zh": "奥尔沃反转：东德ORWO彩色反转片，冷青绿偏色、中等饱和、细染料颗粒、胶片透射反差；非Velvia、非Ektachrome、非富士反转、非数字HDR。",
+    "source": "hermes-explore",
+    "image": "styles/3382-orwochrom.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3340",
+    "slug": "pakolor",
+    "name_en": "Pakolor",
+    "name_zh": "帕科彩",
+    "description_en": "Pakolor: 1940s British additive color process — faint RGB lenticular/line-screen, slight channel misregistration, limited vintage gamut; not Technicolor imbibition, not Kodachrome, not modern digital.",
+    "description_zh": "帕科彩：1940年代英国加色法，隐约RGB柱镜/线屏、轻微套色错位、古旧色域；非特艺彩染印、非柯达彩正、非现代数字。",
+    "source": "hermes-explore",
+    "image": "styles/3383-pakolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
