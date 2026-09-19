@@ -43847,5 +43847,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3331",
+    "slug": "bingo-kasuri",
+    "name_en": "Bingo-kasuri",
+    "name_zh": "備後絣",
+    "description_en": "Bingo-kasuri: Hiroshima-prefecture cotton ikat — warp and weft resist-dyed before weaving so motifs have soft feathered edges on slubby indigo cloth; not yuzen paste-resist, not batik wax, not crisp digital print.",
+    "description_zh": "備後絣：广岛棉絣，经纬先防染再织，纹样边缘羽化、土布靛蓝肌理；非友禅糊防、非蜡染裂纹、非锐利数码印。",
+    "source": "hermes-explore",
+    "image": "styles/3374-bingo-kasuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3332",
+    "slug": "suemon-zogan",
+    "name_en": "Suemon-zogan",
+    "name_zh": "据文象嵌",
+    "description_en": "Suemon-zōgan: Japanese high-relief metal inlay — gold, silver, and copper plates sit proud of a dark iron ground with chased edges; not flush nunome-zōgan, not cloisonné enamel, not niello.",
+    "description_zh": "据文象嵌：高浮雕金属镶嵌，金银铜片凸出暗铁地并錾刻边缘；非齐平布目象嵌、非掐丝珐琅、非乌银。",
+    "source": "hermes-explore",
+    "image": "styles/3375-suemon-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3333",
+    "slug": "togi-shippo",
+    "name_en": "Togi-shippo",
+    "name_zh": "研出七宝",
+    "description_en": "Togi-shippō: Japanese polished cloisonné — enamel and wires ground flush into a glassy plane of jewel colors divided by hairline metal; not ginbari foil, not musen wireless enamel, not painted Limoges.",
+    "description_zh": "研出七宝：珐琅与金丝研磨齐平，镜面釉色以发丝金属线分隔；非银张七宝、非无线七宝、非利摩日绘珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3376-togi-shippo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3334",
+    "slug": "inden",
+    "name_en": "Inden",
+    "name_zh": "印伝",
+    "description_en": "Inden: Koshu deerskin with urushi lacquer stencil — hide grain, matte dyed leather, repeating glossy lacquer motifs sitting slightly proud; not printed vinyl, not embroidery, not yuzen cloth.",
+    "description_zh": "印伝：甲州鹿革漆型，皮纹哑光底上略凸的光泽漆纹循环；非印刷乙烯、非刺绣、非友禅布。",
+    "source": "hermes-explore",
+    "image": "styles/3377-inden.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3335",
+    "slug": "ektar",
+    "name_en": "Ektar",
+    "name_zh": "埃克塔彩",
+    "description_en": "Ektar: ultra-fine-grain color-negative film look — clean high saturation, dense greens and punchy reds, tight micro-contrast, warm-neutral analog base; not Velvia slide, not Portra pastel, not digital HDR.",
+    "description_zh": "埃克塔彩：超细颗粒彩色负片，干净高饱和、密绿与利红、微反差紧、暖中性胶片底；非Velvia反转、非Portra淡肤、非数字HDR。",
+    "source": "hermes-explore",
+    "image": "styles/3378-ektar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -9341,6 +9341,21 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3373, PNG count 3373. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+
+## Hermes-explore batch 667 (exactly 5, h3331–h3335)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh   | image                         |
+|-------|---------------|-----------|-------------------------------|
+| h3331 | Bingo-kasuri  | 備後絣    | styles/3374-bingo-kasuri.png  |
+| h3332 | Suemon-zogan  | 据文象嵌  | styles/3375-suemon-zogan.png  |
+| h3333 | Togi-shippo   | 研出七宝  | styles/3376-togi-shippo.png   |
+| h3334 | Inden         | 印伝      | styles/3377-inden.png         |
+| h3335 | Ektar         | 埃克塔彩  | styles/3378-ektar.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3378, PNG count 3378. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
