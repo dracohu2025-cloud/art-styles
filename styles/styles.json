@@ -42027,5 +42027,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3191",
+    "slug": "dot-manner",
+    "name_en": "Dot Manner",
+    "name_zh": "点刻铜版法",
+    "description_en": "18th-century manière de points: copperplate tones built only from punched dots and stipple-graver flicks, no contour outline, density modeling flesh and cloth on cream laid paper.",
+    "description_zh": "十八世纪点刻铜版：仅以冲点与点刻刀密集成调，无轮廓线，靠点密度塑造肤色与衣褶，奶油色手抄纸。",
+    "source": "hermes-explore",
+    "image": "styles/3234-dot-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3192",
+    "slug": "linocut-reduction",
+    "name_en": "Linocut Reduction",
+    "name_zh": "减版胶刻",
+    "description_en": "Subtractive linocut from one block: successive gouge cuts, stacked opaque ink layers, slight registration kiss, linoleum grain in flat color fields.",
+    "description_zh": "单版减版胶刻：连续刻去、多层不透明油墨叠印、轻微套准偏移、平涂色块中可见胶版纹理。",
+    "source": "hermes-explore",
+    "image": "styles/3235-linocut-reduction.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3193",
+    "slug": "electro-etching",
+    "name_en": "Electro-etching",
+    "name_zh": "电解蚀刻",
+    "description_en": "Electrolytic intaglio: metal plate bitten in a salt bath by electric current, spark-frosted grooves, tarlatan wipe, thin plate tone, no rosin aquatint grain.",
+    "description_zh": "电解凹版：盐浴电流咬蚀金属版、电火花霜状沟槽、纱布擦墨、薄版调，无松香飞尘颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3236-electro-etching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3194",
+    "slug": "dry-plate",
+    "name_en": "Dry Plate",
+    "name_zh": "玻璃干版",
+    "description_en": "Gelatin dry-plate photography: glass-plate grain, chemical fog and edge falloff, soft highlight halation, silver-gelatin contact-print character.",
+    "description_zh": "明胶玻璃干版：干版银盐颗粒、药膜雾翳与边缘衰减、高光轻微光晕、接触印相纸感。",
+    "source": "hermes-explore",
+    "image": "styles/3237-dry-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3195",
+    "slug": "tortillon",
+    "name_en": "Tortillon",
+    "name_zh": "纸擦笔",
+    "description_en": "Charcoal and graphite worked with paper stumps: velvety smudged midtones, visible stump swirls, sharp compressed-charcoal accents, kneaded-eraser lifts on laid paper.",
+    "description_zh": "炭笔石墨用纸擦笔揉开：丝绒中间调、可见擦笔旋痕、压缩炭棒硬边、可塑橡皮提出高光，布纹纸。",
+    "source": "hermes-explore",
+    "image": "styles/3238-tortillon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

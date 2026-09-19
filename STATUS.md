@@ -8949,6 +8949,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3233, PNG count 3233. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 639 (exactly 5, h3191–h3195)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                  |
+|-------|--------------------|-------------|----------------------------------------|
+| h3191 | Dot Manner         | 点刻铜版法  | styles/3234-dot-manner.png             |
+| h3192 | Linocut Reduction  | 减版胶刻    | styles/3235-linocut-reduction.png      |
+| h3193 | Electro-etching    | 电解蚀刻    | styles/3236-electro-etching.png        |
+| h3194 | Dry Plate          | 玻璃干版    | styles/3237-dry-plate.png              |
+| h3195 | Tortillon          | 纸擦笔      | styles/3238-tortillon.png              |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3238, PNG count 3238. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
