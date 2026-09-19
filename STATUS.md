@@ -9370,6 +9370,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3383, PNG count 3383. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 669 (exactly 5, h3341–h3345)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh       | image                               |
+|-------|-----------------|---------------|-------------------------------------|
+| h3341 | Itome-zogan     | 糸目象嵌      | styles/3384-itome-zogan.png         |
+| h3342 | Beni-nuri       | 紅塗          | styles/3385-beni-nuri.png           |
+| h3343 | Agfachrome      | 爱克发反转    | styles/3386-agfachrome.png          |
+| h3344 | Metrocolor      | 米高梅彩      | styles/3387-metrocolor.png          |
+| h3345 | McDonough Plate | 麦克唐纳网屏  | styles/3388-mcdonough-plate.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3388, PNG count 3388. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

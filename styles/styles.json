@@ -43977,5 +43977,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3341",
+    "slug": "itome-zogan",
+    "name_en": "Itome-zogan",
+    "name_zh": "糸目象嵌",
+    "description_en": "Itome-zogan: Japanese hairline wire-inlay — gold/silver cloison-like contours flush on patinated mixed metal, not nunome mesh, not suemon patches, not enamel cloisonné.",
+    "description_zh": "糸目象嵌：日本细线金属镶嵌，金银丝轮廓嵌平于锈色地金；非布目象嵌、非据文贴片、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3384-itome-zogan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3342",
+    "slug": "beni-nuri",
+    "name_en": "Beni-nuri",
+    "name_zh": "紅塗",
+    "description_en": "Beni-nuri: vermilion urushi coating — translucent red over black undercoat, high-gloss wet lacquer film, no gold powder; not Negoro worn-through red, not maki-e.",
+    "description_zh": "紅塗：朱红漆涂，黑底上透出朱红、高光湿漆膜、无洒金；非根来涂磨露、非莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/3385-beni-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3343",
+    "slug": "agfachrome",
+    "name_en": "Agfachrome",
+    "name_zh": "爱克发反转",
+    "description_en": "Agfachrome: Agfa color-reversal slide — warm-brown dye couplers, muted greens, creamy highlights, fine analog grain; not Agfacolor negative, not Agfacontour, not Velvia.",
+    "description_zh": "爱克发反转：阿克发彩色反转片，暖褐成色、绿色偏闷、高光奶油、细颗粒；非爱克发负片、非等高、非Velvia。",
+    "source": "hermes-explore",
+    "image": "styles/3386-agfachrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3344",
+    "slug": "metrocolor",
+    "name_en": "Metrocolor",
+    "name_zh": "米高梅彩",
+    "description_en": "Metrocolor: MGM lab Eastmancolor-family release print — theatrical dye-coupler color, cool-cyan shadows, mild 35mm print grain; not Technicolor imbibition, not digital DI.",
+    "description_zh": "米高梅彩：米高梅实验室发行拷贝，成色性染料、青冷暗部、轻微35毫米颗粒；非特艺彩染印、非数字中间片。",
+    "source": "hermes-explore",
+    "image": "styles/3387-metrocolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3345",
+    "slug": "mcdonough-plate",
+    "name_en": "McDonough Plate",
+    "name_zh": "麦克唐纳网屏",
+    "description_en": "McDonough Plate: 1890s additive ruled-line screen plate — RGB line screen over silver, optical color, slight moiré, limited vintage gamut; not Joly, not Autochrome, not Dufaycolor.",
+    "description_zh": "麦克唐纳网屏：1890年代加色法线屏玻璃版，RGB线屏叠银盐、光学成色、轻微莫尔纹；非乔利屏、非奥托彩、非杜菲彩。",
+    "source": "hermes-explore",
+    "image": "styles/3388-mcdonough-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
