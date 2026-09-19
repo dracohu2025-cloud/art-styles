@@ -9313,6 +9313,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3363, PNG count 3363. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 665 (exactly 5, h3321–h3325)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh     | image                         |
+|-------|--------------|-------------|-------------------------------|
+| h3321 | Kyo-zome     | 京染        | styles/3364-kyo-zome.png      |
+| h3322 | Saw-piercing | 锯透雕      | styles/3365-saw-piercing.png  |
+| h3323 | Aerochrome   | 航空红外彩  | styles/3366-aerochrome.png    |
+| h3324 | Sovcolor     | 苏彩        | styles/3367-sovcolor.png      |
+| h3325 | Sericel      | 赛璐珞丝网  | styles/3368-sericel.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3368, PNG count 3368. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

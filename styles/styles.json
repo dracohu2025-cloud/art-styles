@@ -43717,5 +43717,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3321",
+    "slug": "kyo-zome",
+    "name_en": "Kyo-zome",
+    "name_zh": "京染",
+    "description_en": "Kyo-zome: Kyoto hand dyeing on silk — rice-paste resist outlines, bokashi wet gradations of indigo and safflower, crepe weave and kirikane gold flecks, not Kaga-yuzen rust palette, not kasuri ikat, not printed chintz.",
+    "description_zh": "京染：京都丝绸手染，米糊防染勾线、靛蓝与红花的ぼかし晕染、绉织底与切金金箔，非加贺友禅铁锈调、非絣织、非印花布。",
+    "source": "hermes-explore",
+    "image": "styles/3364-kyo-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3322",
+    "slug": "saw-piercing",
+    "name_en": "Saw-piercing",
+    "name_zh": "锯透雕",
+    "description_en": "Saw-piercing: jeweler's-saw openwork in thin metal sheet — lace-like negative spaces, drill-start holes, sharp fretwork arrises and filigree shadows through the cuts, not wire filigree, not laser-cut acrylic, not papercut.",
+    "description_zh": "锯透雕：金工锯在薄金属片上镂空，蕾丝般负形、起钻小孔、锋利镂空棱与透光投影，非花丝、非激光亚克力、非剪纸。",
+    "source": "hermes-explore",
+    "image": "styles/3365-saw-piercing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3323",
+    "slug": "aerochrome",
+    "name_en": "Aerochrome",
+    "name_zh": "航空红外彩",
+    "description_en": "Aerochrome: Kodak infrared false-color reversal — foliage and cloth shift to hot magenta, skies to cyan-teal, analog grain and slight highlight bloom, not normal color, not thermal imaging, not digital psychedelia.",
+    "description_zh": "航空红外彩：柯达红外伪彩反转片，植被与织物转洋红、天空转青蓝、模拟颗粒与轻微高光晕，非正常彩色、非热成像、非数字迷幻滤镜。",
+    "source": "hermes-explore",
+    "image": "styles/3366-aerochrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3324",
+    "slug": "sovcolor",
+    "name_en": "Sovcolor",
+    "name_zh": "苏彩",
+    "description_en": "Sovcolor: Soviet chromogenic motion-picture stock — muted dye-coupler palette, olive-cyan shadow bias, dusty warm highlights and 35mm grain, not Eastmancolor gloss, not Technicolor imbibition, not Kodachrome.",
+    "description_zh": "苏彩：苏联成色电影胶片，低饱和偶联染料、橄榄青阴影、尘暖高光与35毫米颗粒，非伊斯曼彩光泽、非特艺浸染、非柯达克罗姆。",
+    "source": "hermes-explore",
+    "image": "styles/3367-sovcolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3325",
+    "slug": "sericel",
+    "name_en": "Sericel",
+    "name_zh": "赛璐珞丝网",
+    "description_en": "Sericel: serigraph silk-screened onto clear animation acetate — limited spot-color inks, raised glossy screens, black key line and peg holes, background showing through the cel, not painterly gouache cel, not digital vector, not risograph.",
+    "description_zh": "赛璐珞丝网：丝网油墨印在透明动画赛璐珞上，有限专色、微凸亮墨、黑键线与定位孔，背景透过胶片可见，非水粉手绘赛璐珞、非矢量、非孔版复印。",
+    "source": "hermes-explore",
+    "image": "styles/3368-sericel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
