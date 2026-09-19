@@ -43392,5 +43392,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3296",
+    "slug": "eba-yuzen",
+    "name_en": "Eba-yuzen",
+    "name_zh": "絵羽友禅",
+    "description_en": "Eba-yuzen: pictorial paste-resist yuzen dyed as one continuous composition across the whole pictorial field — rice-paste outlines, hand-painted dyes, silk bokashi blooms, not stencil kata-yuzen or woven brocade.",
+    "description_zh": "絵羽友禅：整幅画面作为一幅友禅绘羽来防染，米糊细线、手绘染料与丝绸晕染，非型友禅或织锦。",
+    "source": "hermes-explore",
+    "image": "styles/3339-eba-yuzen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3297",
+    "slug": "akane-zome",
+    "name_en": "Akane-zome",
+    "name_zh": "茜染",
+    "description_en": "Akane-zome: Japanese madder-root dyeing — alizarin brick-to-rust reds, tannin soak and iron-mordant darkening in the cloth weave, botanical unevenness, not synthetic scarlet print.",
+    "description_zh": "茜染：茜草根植物染，茜素砖红至铁锈红，单宁浸染与铁媒在布纹中沉暗，草本不均，非合成猩红印花。",
+    "source": "hermes-explore",
+    "image": "styles/3340-akane-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3298",
+    "slug": "perrotine",
+    "name_en": "Perrotine",
+    "name_zh": "佩罗机印",
+    "description_en": "Perrotine: 1830s Perrot press mechanical relief textile printing — three registered wooden blocks, slight misregister, opaque mineral pigment stamped on cotton tooth, not hand-block chintz or roller copperprint.",
+    "description_zh": "佩罗机印：1830年代佩罗凸版印花机，三色木模对位、轻微错版、矿物颜料压印于棉布齿纹，非手敲印花或铜辊印。",
+    "source": "hermes-explore",
+    "image": "styles/3341-perrotine.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3299",
+    "slug": "papyrotype",
+    "name_en": "Papyrotype",
+    "name_zh": "纸碳转印",
+    "description_en": "Papyrotype: nineteenth-century carbon transfer on paper — velvety pigment gelatin in slight relief, continuous-tone warm carbon browns, no silver grain and no glossy inkjet.",
+    "description_zh": "纸碳转印：十九世纪纸基碳素转印，明胶颜料微浮雕、连续调暖碳棕，无银盐颗粒，亦非光面喷墨。",
+    "source": "hermes-explore",
+    "image": "styles/3342-papyrotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3300",
+    "slug": "goldchinesen",
+    "name_en": "Goldchinesen",
+    "name_zh": "金彩华纹",
+    "description_en": "Goldchinesen: early Meissen gold chinoiserie on porcelain — burnished tooled gold silhouettes and foliage on cool white glaze, fired gold lustre, not lacquer maki-e or oil gilt.",
+    "description_zh": "金彩华纹：早期迈森瓷上金彩中国风，抛光錾金剪影与枝叶落在冷白釉面，窑烧金泽，非莳绘或油金。",
+    "source": "hermes-explore",
+    "image": "styles/3343-goldchinesen.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

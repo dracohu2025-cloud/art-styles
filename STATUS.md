@@ -9243,6 +9243,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3338, PNG count 3338. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 660 (exactly 5, h3296–h3300)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh    | image                          |
+|-------|--------------|------------|--------------------------------|
+| h3296 | Eba-yuzen    | 絵羽友禅   | styles/3339-eba-yuzen.png      |
+| h3297 | Akane-zome   | 茜染       | styles/3340-akane-zome.png     |
+| h3298 | Perrotine    | 佩罗机印   | styles/3341-perrotine.png      |
+| h3299 | Papyrotype   | 纸碳转印   | styles/3342-papyrotype.png     |
+| h3300 | Goldchinesen | 金彩华纹   | styles/3343-goldchinesen.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3343, PNG count 3343. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
