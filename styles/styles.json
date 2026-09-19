@@ -42482,5 +42482,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3226",
+    "slug": "steel-facing",
+    "name_en": "Steel Facing",
+    "name_zh": "镀钢铜版",
+    "description_en": "Steel facing: electrolytic steel skin over a copper intaglio plate, extra-hard crisp engraved lines, cool bluish-gray plate tone, burr-free long-run ink film.",
+    "description_zh": "镀钢铜版：铜凹版电解镀钢皮，线条极硬清晰，冷蓝灰版调，无毛刺的长版次墨膜。",
+    "source": "hermes-explore",
+    "image": "styles/3269-steel-facing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3227",
+    "slug": "lightjet",
+    "name_en": "LightJet",
+    "name_zh": "激光扩印",
+    "description_en": "LightJet: laser-exposed digital chromogenic print on RA-4 paper, grainless continuous tone, deep Dmax, glossy wet-lab sheen without inkjet dots.",
+    "description_zh": "激光扩印：激光曝光数字彩色相纸，无颗粒连续色调，深黑密度，湿法光面而无喷墨网点。",
+    "source": "hermes-explore",
+    "image": "styles/3270-lightjet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3228",
+    "slug": "letterset",
+    "name_en": "Letterset",
+    "name_zh": "间接凸印",
+    "description_en": "Letterset: dry-offset from raised plates via a blanket, opaque spot-ink films, crisp type-like edges with almost no squash, faint blanket tooth.",
+    "description_zh": "间接凸印：凸版经橡皮布干式转印，不透明专色墨层，边缘利落几乎无挤墨，隐约橡皮布齿感。",
+    "source": "hermes-explore",
+    "image": "styles/3271-letterset.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3229",
+    "slug": "prizma-color",
+    "name_en": "Prizma Color",
+    "name_zh": "普里兹玛彩",
+    "description_en": "Prizma Color: early two-color motion-picture process, only red-orange and blue-green records superimposed, missing true yellow, mild registration wobble.",
+    "description_zh": "普里兹玛彩：早期双色电影工艺，仅红橙与青绿两层叠合，缺真黄，轻微套准晃动。",
+    "source": "hermes-explore",
+    "image": "styles/3272-prizma-color.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3230",
+    "slug": "pontata",
+    "name_en": "Pontata",
+    "name_zh": "脚手架湿壁",
+    "description_en": "Pontata: buon fresco painted in horizontal scaffold bands, mineral pigment locked in wet lime plaster, visible join-lines and slight value shifts between belts.",
+    "description_zh": "脚手架湿壁：按水平脚手架带绘制的湿壁画，矿物颜料锁入湿石灰，接缝可见且各带明度微差。",
+    "source": "hermes-explore",
+    "image": "styles/3273-pontata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

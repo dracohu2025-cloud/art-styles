@@ -9047,6 +9047,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3268, PNG count 3268. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 646 (exactly 5, h3226–h3230)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh     | image                            |
+|-------|---------------|-------------|----------------------------------|
+| h3226 | Steel Facing  | 镀钢铜版    | styles/3269-steel-facing.png     |
+| h3227 | LightJet      | 激光扩印    | styles/3270-lightjet.png         |
+| h3228 | Letterset     | 间接凸印    | styles/3271-letterset.png        |
+| h3229 | Prizma Color  | 普里兹玛彩  | styles/3272-prizma-color.png     |
+| h3230 | Pontata       | 脚手架湿壁  | styles/3273-pontata.png          |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3273, PNG count 3273. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
