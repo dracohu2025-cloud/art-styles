@@ -9103,6 +9103,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3288, PNG count 3288. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 650 (exactly 5, h3246–h3250)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                         |
+|-------|--------------|-----------------|-------------------------------|
+| h3246 | Agfacontour  | 阿克发等高      | styles/3289-agfacontour.png   |
+| h3247 | Dyebro       | 染料溴印        | styles/3290-dyebro.png        |
+| h3248 | Solio        | 索利奥晒印      | styles/3291-solio.png         |
+| h3249 | Ome-jima     | 青梅缟          | styles/3292-ome-jima.png      |
+| h3250 | Albany Slip  | 奥尔巴尼化妆土  | styles/3293-albany-slip.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3293, PNG count 3293. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -42742,5 +42742,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3246",
+    "slug": "agfacontour",
+    "name_en": "Agfacontour",
+    "name_zh": "阿克发等高",
+    "description_en": "Agfa Contour equidensity film: iso-density steps printed as stacked colored contour rings, posterized topographic dye bands, no smooth gradient.",
+    "description_zh": "阿克发等高胶片：等密度级以彩色等高线圈层叠，海报化地形染料带，无平滑渐变。",
+    "source": "hermes-explore",
+    "image": "styles/3289-agfacontour.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3247",
+    "slug": "dyebro",
+    "name_en": "Dyebro",
+    "name_zh": "染料溴印",
+    "description_en": "Dyebro dye-bromo imbibition: dyes soaked into a bromide gelatin relief, velvety CMY stain, soft migration at edges, 1920s color print.",
+    "description_zh": "染料溴印：染料吸入溴素明胶浮雕，丝绒般青品红黄渍色，边缘微渗，1920年代彩色印相。",
+    "source": "hermes-explore",
+    "image": "styles/3290-dyebro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3248",
+    "slug": "solio",
+    "name_en": "Solio",
+    "name_zh": "索利奥晒印",
+    "description_en": "Kodak Solio POP gelatin-chloride: daylight-printed warm chocolate-to-purplish silver, glossy baryta, gold-toned 1900s cabinet-card sheen.",
+    "description_zh": "柯达索利奥晒出氯明胶相纸：日光自晒暖巧克力至紫棕色银影，钡地有光，金调1900年代名片照。",
+    "source": "hermes-explore",
+    "image": "styles/3291-solio.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3249",
+    "slug": "ome-jima",
+    "name_en": "Ome-jima",
+    "name_zh": "青梅缟",
+    "description_en": "Ōme-jima striped cotton: crisp indigo-white-rust warp stripes on a handwoven tate-jima grid, loom texture, no ikat blur.",
+    "description_zh": "青梅缟：靛蓝-白-锈色经条纹织于手织经缟网格，可见经纬，无絣模糊。",
+    "source": "hermes-explore",
+    "image": "styles/3292-ome-jima.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3250",
+    "slug": "albany-slip",
+    "name_en": "Albany Slip",
+    "name_zh": "奥尔巴尼化妆土",
+    "description_en": "Albany slip stoneware coating: iron-rich chocolate-to-olive melt, orange-peel kiln skin, pooling in recesses, fired ceramic not paint.",
+    "description_zh": "奥尔巴尼化妆土：高铁巧克力至橄榄熔釉，橘皮窑表，凹处积釉，烧结陶瓷而非颜料。",
+    "source": "hermes-explore",
+    "image": "styles/3293-albany-slip.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
