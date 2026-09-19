@@ -43327,5 +43327,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3291",
+    "slug": "noborigama",
+    "name_en": "Noborigama",
+    "name_zh": "登窑",
+    "description_en": "Noborigama: climbing-kiln wood-fire — natural ash-glaze runs, flame flashing, fly-ash specks and kiln scars on stoneware, not raku, porcelain, or oil-spot tenmoku.",
+    "description_zh": "登窑：龙窑柴烧，自然灰釉流淌、火痕变色、落灰斑与窑疤在炻器上，非乐烧、瓷器或油滴天目。",
+    "source": "hermes-explore",
+    "image": "styles/3334-noborigama.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3292",
+    "slug": "yakiba",
+    "name_en": "Yakiba",
+    "name_zh": "烧刃",
+    "description_en": "Yakiba: Japanese sword tempered edge — bright hamon nioiguchi, nie crystals and nioi mist against dark jihada steel, not mokume-gane or chrome plating.",
+    "description_zh": "烧刃：日本刀淬火刃区，明亮刃文与沸、匂相对暗沉地铁，非木目金亦非镀铬。",
+    "source": "hermes-explore",
+    "image": "styles/3335-yakiba.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3293",
+    "slug": "wash-manner",
+    "name_en": "Wash Manner",
+    "name_zh": "洗式凹版",
+    "description_en": "Wash Manner: eighteenth-century manière de lavis — open-bite copper washes and granular lavis grain in brown-black ink on laid paper, not watercolor or resin aquatint.",
+    "description_zh": "洗式凹版：十八世纪洗蚀法，敞咬铜版晕染与颗粒洗纹，棕黑油墨印于罗纹纸，非水彩亦非松香飞尘。",
+    "source": "hermes-explore",
+    "image": "styles/3336-wash-manner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3294",
+    "slug": "ferranicolor",
+    "name_en": "Ferraniacolor",
+    "name_zh": "费拉尼亚彩",
+    "description_en": "Ferraniacolor: 1950s Ferrania reversal color film — warm red-biased dyes, cyan-green shadows, soft vintage grain, not Kodachrome, Agfacolor, or Technicolor.",
+    "description_zh": "费拉尼亚彩：1950年代意大利反转彩色片，偏暖红染料、青绿色阴影、柔和颗粒，非柯达彩、阿克发彩或特艺染印。",
+    "source": "hermes-explore",
+    "image": "styles/3337-ferranicolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3295",
+    "slug": "gem-engraving",
+    "name_en": "Gem Engraving",
+    "name_zh": "宝石阴刻",
+    "description_en": "Gem Engraving: classical intaglio glyptic — incised carnelian or sardonyx, recessed burin cuts in polished hardstone catching raking light, not cameo relief or glass paste.",
+    "description_zh": "宝石阴刻：古典凹刻玉石，红玉髓或缠丝玛瑙上阴刻细线，抛光硬石迎侧光，非浮雕贝雕或玻璃膏。",
+    "source": "hermes-explore",
+    "image": "styles/3338-gem-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

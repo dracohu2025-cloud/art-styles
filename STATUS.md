@@ -9229,6 +9229,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3333, PNG count 3333. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 659 (exactly 5, h3291–h3295)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en       | name_zh    | image                           |
+|-------|---------------|------------|---------------------------------|
+| h3291 | Noborigama    | 登窑       | styles/3334-noborigama.png      |
+| h3292 | Yakiba        | 烧刃       | styles/3335-yakiba.png          |
+| h3293 | Wash Manner   | 洗式凹版   | styles/3336-wash-manner.png     |
+| h3294 | Ferraniacolor | 费拉尼亚彩 | styles/3337-ferranicolor.png    |
+| h3295 | Gem Engraving | 宝石阴刻   | styles/3338-gem-engraving.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3338, PNG count 3338. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
