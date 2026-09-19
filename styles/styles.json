@@ -44367,5 +44367,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3371",
+    "slug": "wash-drawing",
+    "name_en": "Wash Drawing",
+    "name_zh": "淡彩素描",
+    "description_en": "Wash Drawing: transparent ink and watercolor washes on white paper, reserved whites, pooled gray-indigo blooms, spare pen accents; not gouache wash, not pen-and-wash line-first, not sumi-e.",
+    "description_zh": "淡彩素描：白纸上透明墨与水彩晕染、留白、灰靛水渍、少量线；非水粉湿画、非以线为主的钢笔淡彩、非水墨写意。",
+    "source": "hermes-explore",
+    "image": "styles/3414-wash-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3372",
+    "slug": "underpainting",
+    "name_en": "Underpainting",
+    "name_zh": "底层色",
+    "description_en": "Underpainting: raw-umber dead coloring on warm imprimatura, later color only a thin veil so brown structure still shows; not grisaille glass, not verdaccio finish, not imprimatura alone.",
+    "description_zh": "底层色：暖底上生赭死色铺形，后加薄色仍透出褐色结构；非灰色单色完成稿、非绿灰底完成、非仅涂底色层。",
+    "source": "hermes-explore",
+    "image": "styles/3415-underpainting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3373",
+    "slug": "chinese-white",
+    "name_en": "Chinese White",
+    "name_zh": "中国白",
+    "description_en": "Chinese White: zinc-white watercolor heightening on tinted paper — chalky opaque sparks over stains, not digital glow; not gofun, not gouache wash, not silverpoint ground.",
+    "description_zh": "中国白：色纸上锌白水彩提亮，粉质不透明高光压在水色上；非胡粉、非水粉湿画、非银尖粉底。",
+    "source": "hermes-explore",
+    "image": "styles/3416-chinese-white.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3374",
+    "slug": "two-strip-technicolor",
+    "name_en": "Two-strip Technicolor",
+    "name_zh": "双条特艺彩",
+    "description_en": "Two-strip Technicolor: 1920s two-color dye-transfer locked to red-orange and cyan-green — no true yellow or blue; not three-strip Technicolor, not Cinecolor, not Gasparcolor.",
+    "description_zh": "双条特艺彩：1920年代双色染印，仅橙红与青绿，无真黄真蓝；非三条特艺彩、非西尼彩色、非加斯帕彩色。",
+    "source": "hermes-explore",
+    "image": "styles/3417-two-strip-technicolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3375",
+    "slug": "megilp",
+    "name_en": "Megilp",
+    "name_zh": "梅吉尔膏",
+    "description_en": "Megilp: 18th-century mastic-and-oil vehicle — amber bituminous gloss, melting fused shadows, Reynolds-era slippery glaze; not damar varnish alone, not cold wax, not modern acrylic gel.",
+    "description_zh": "梅吉尔膏：十八世纪乳香油媒介，琥珀沥青光泽、融化暗部、雷诺兹式滑釉；非单用达玛上光、非冷蜡、非现代丙烯凝胶。",
+    "source": "hermes-explore",
+    "image": "styles/3418-megilp.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -9454,6 +9454,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3413, PNG count 3413. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 675 (exactly 5, h3371–h3375)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                | name_zh     | image                                   |
+|-------|------------------------|-------------|-----------------------------------------|
+| h3371 | Wash Drawing           | 淡彩素描    | styles/3414-wash-drawing.png            |
+| h3372 | Underpainting          | 底层色      | styles/3415-underpainting.png           |
+| h3373 | Chinese White          | 中国白      | styles/3416-chinese-white.png           |
+| h3374 | Two-strip Technicolor  | 双条特艺彩  | styles/3417-two-strip-technicolor.png   |
+| h3375 | Megilp                 | 梅吉尔膏    | styles/3418-megilp.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3418, PNG count 3418. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
