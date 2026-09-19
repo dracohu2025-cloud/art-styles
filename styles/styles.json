@@ -42287,5 +42287,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3211",
+    "slug": "optical-gray",
+    "name_en": "Optical Gray",
+    "name_zh": "光学灰",
+    "description_en": "Atelier optical gray: complementary cool/warm hatches and scumbles mix into luminous silvery greys without black; form modeled by optical mixture on toothed paper.",
+    "description_zh": "光学灰：冷暖互补排线与薄擦在视觉上混成银灰，不用纯黑，靠光学混合塑形，纸纹可见。",
+    "source": "hermes-explore",
+    "image": "styles/3254-optical-gray.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3212",
+    "slug": "sugar-aquatint",
+    "name_en": "Sugar Aquatint",
+    "name_zh": "糖水飞尘",
+    "description_en": "Intaglio sugar aquatint: velvety aquatint grain with painterly sugar-lift open bites, plate-tone on rag paper, peppery greys to rich wiped blacks.",
+    "description_zh": "糖水飞尘：飞尘颗粒配糖水提白开咬，棉 rag 纸带版调，胡椒灰到擦墨深黑。",
+    "source": "hermes-explore",
+    "image": "styles/3255-sugar-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3213",
+    "slug": "pierre-blanche",
+    "name_en": "Pierre Blanche",
+    "name_zh": "白石粉笔",
+    "description_en": "White chalk on toned paper: lights built in pierre blanche, midtones left as the ground, sparse dark accents only in deepest shadows.",
+    "description_zh": "白石粉笔：在有色纸上用白垩提亮，中间调留给纸色，最深处才略施深调。",
+    "source": "hermes-explore",
+    "image": "styles/3256-pierre-blanche.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3214",
+    "slug": "graphite-powder",
+    "name_en": "Graphite Powder",
+    "name_zh": "石墨粉",
+    "description_en": "Brushed and rubbed graphite powder: velvety continuous-tone clouds, smudge gradients, kneaded-eraser sparkle lifts, metallic graphite sheen without hard outlines.",
+    "description_zh": "石墨粉：刷擦成丝绒连续调，指晕渐变，可塑橡皮提出高光，金属石墨光泽，无明显硬边线。",
+    "source": "hermes-explore",
+    "image": "styles/3257-graphite-powder.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3215",
+    "slug": "stipple-board",
+    "name_en": "Stipple Board",
+    "name_zh": "点纹画板",
+    "description_en": "Ink on stipple board: raised pebble grain breaks every stroke into mechanical stipple; high-contrast black ink with dotted sparkle of the board showing through.",
+    "description_zh": "点纹画板：凸起砂粒把每一笔拆成机械点刻，高反差黑墨，底板白点闪烁其中。",
+    "source": "hermes-explore",
+    "image": "styles/3258-stipple-board.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

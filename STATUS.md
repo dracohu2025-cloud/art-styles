@@ -9005,6 +9005,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3253, PNG count 3253. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 643 (exactly 5, h3211–h3215)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh     | image                               |
+|-------|-----------------|-------------|-------------------------------------|
+| h3211 | Optical Gray    | 光学灰      | styles/3254-optical-gray.png        |
+| h3212 | Sugar Aquatint  | 糖水飞尘    | styles/3255-sugar-aquatint.png      |
+| h3213 | Pierre Blanche  | 白石粉笔    | styles/3256-pierre-blanche.png      |
+| h3214 | Graphite Powder | 石墨粉      | styles/3257-graphite-powder.png     |
+| h3215 | Stipple Board   | 点纹画板    | styles/3258-stipple-board.png       |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3258, PNG count 3258. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
