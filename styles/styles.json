@@ -44107,5 +44107,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3351",
+    "slug": "tempera-magra",
+    "name_en": "Tempera Magra",
+    "name_zh": "水性蛋彩",
+    "description_en": "Tempera magra: lean egg tempera on absorbent gesso — matte chalky hatch, dry mineral opacity, terre-verte underpaint, zero oil gloss; not tempera grassa, not oil glaze.",
+    "description_zh": "水性蛋彩：稀蛋黄胶彩画在吸水石膏底上，哑光粉质排线、干燥矿物不透明、绿土底、无油光；非油性蛋彩、非油画罩染。",
+    "source": "hermes-explore",
+    "image": "styles/3394-tempera-magra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3352",
+    "slug": "automatic-drawing",
+    "name_en": "Automatic Drawing",
+    "name_zh": "自动素描",
+    "description_en": "Automatic drawing: surrealist psychic automatism — unpremeditated wandering ink, overlapping unconscious scribbles that coalesce into a figure, paper tooth and spatters; not contour drawing, not ligne claire.",
+    "description_zh": "自动素描：超现实主义心理自动法，无预谋游走墨线、重叠无意识乱笔凝成形象、纸纹与飞白；非轮廓素描、非清晰线条。",
+    "source": "hermes-explore",
+    "image": "styles/3395-automatic-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3353",
+    "slug": "etrecissements",
+    "name_en": "Étrécissements",
+    "name_zh": "裁窄拼贴",
+    "description_en": "Étrécissements: surrealist cut-down — an image sliced into thin parallel strips then compressed and reassembled, visible paper edges and misregistration; not cubomania squares, not ordinary photomontage.",
+    "description_zh": "裁窄拼贴：超现实主义裁窄法，图像切成细平行条再压缩重组，可见纸边与错位；非方块拼贴、非普通照片蒙太奇。",
+    "source": "hermes-explore",
+    "image": "styles/3396-etrecissements.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3354",
+    "slug": "oil-sketch",
+    "name_en": "Oil Sketch",
+    "name_zh": "油画速写",
+    "description_en": "Oil sketch: academic esquisse à l'huile — thin oily bravura, bristle marks, warm imprimatura left unfinished, studio wet paint; not plein-air pochade, not salon finish.",
+    "description_zh": "油画速写：学院派油色素描，稀油率性笔触、刷毛痕、温热底色未完成、画室湿画；非外光色稿、非沙龙精修。",
+    "source": "hermes-explore",
+    "image": "styles/3397-oil-sketch.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3355",
+    "slug": "silver-ground",
+    "name_en": "Silver Ground",
+    "name_zh": "银地",
+    "description_en": "Silver ground: burnished silver-leaf panel field — cool metallic argent, punchwork stars, tempera figure on leaf, tarnish bloom; not gold ground, not chrome sci-fi.",
+    "description_zh": "银地：抛光银箔底，冷金属银、打点星纹、蛋彩人物落在箔上、淡氧化晕；非金地、非科幻铬面。",
+    "source": "hermes-explore",
+    "image": "styles/3398-silver-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

@@ -9398,6 +9398,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3393, PNG count 3393. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 671 (exactly 5, h3351–h3355)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh     | image                                |
+|-------|--------------------|-------------|--------------------------------------|
+| h3351 | Tempera Magra      | 水性蛋彩    | styles/3394-tempera-magra.png        |
+| h3352 | Automatic Drawing  | 自动素描    | styles/3395-automatic-drawing.png    |
+| h3353 | Étrécissements     | 裁窄拼贴    | styles/3396-etrecissements.png       |
+| h3354 | Oil Sketch         | 油画速写    | styles/3397-oil-sketch.png           |
+| h3355 | Silver Ground      | 银地        | styles/3398-silver-ground.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3398, PNG count 3398. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
