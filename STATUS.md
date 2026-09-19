@@ -8935,6 +8935,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3228, PNG count 3228. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 638 (exactly 5, h3186–h3190)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh     | image                                   |
+|-------|---------------------|-------------|-----------------------------------------|
+| h3186 | Pressure Print      | 压力印痕    | styles/3229-pressure-print.png          |
+| h3187 | Wet-in-wet          | 湿接湿      | styles/3230-wet-in-wet.png              |
+| h3188 | Subtractive Drawing | 减法素描    | styles/3231-subtractive-drawing.png     |
+| h3189 | Cardboard Cut       | 纸板刻      | styles/3232-cardboard-cut.png           |
+| h3190 | Surface Tone        | 表面调子    | styles/3233-surface-tone.png            |
+
+Codex gpt-image-2-medium returned HTTP 429 (usage limit); stills generated with grok-imagine-image-2.0 (xAI) and saved at 1672×941. Catalog 3233, PNG count 3233. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

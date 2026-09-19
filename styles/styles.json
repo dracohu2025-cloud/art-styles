@@ -41962,5 +41962,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3186",
+    "slug": "pressure-print",
+    "name_en": "Pressure Print",
+    "name_zh": "压力印痕",
+    "description_en": "Printmaking through an etching press: ink squeezed from fabric, string, and cardboard, crushed fiber, haloed blooms, ghosted double impressions.",
+    "description_zh": "凹版机压力印：织物线绳纸板挤墨、纤维压溃、晕边墨渍、残影叠印。",
+    "source": "hermes-explore",
+    "image": "styles/3229-pressure-print.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3187",
+    "slug": "wet-in-wet",
+    "name_en": "Wet-in-wet",
+    "name_zh": "湿接湿",
+    "description_en": "Transparent watercolor on soaked paper: pigments blooming at the water front, cauliflower backruns, granulating minerals, lost-and-found edges.",
+    "description_zh": "湿接湿水彩：水色在湿纸上开花、回流渍、矿物沉淀、虚实边。",
+    "source": "hermes-explore",
+    "image": "styles/3230-wet-in-wet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3188",
+    "slug": "subtractive-drawing",
+    "name_en": "Subtractive Drawing",
+    "name_zh": "减法素描",
+    "description_en": "Charcoal mass on toned paper with lights lifted by kneaded eraser, compressed-charcoal blacks, stump midtones, eraser-cut highlights.",
+    "description_zh": "减法素描：炭粉铺调、可塑橡皮提出高光、压缩炭笔压黑、纸擦笔中间调。",
+    "source": "hermes-explore",
+    "image": "styles/3231-subtractive-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3189",
+    "slug": "cardboard-cut",
+    "name_en": "Cardboard Cut",
+    "name_zh": "纸板刻",
+    "description_en": "Relief print from cut cardboard plates: corrugated flute hatching, torn-edge burrs, brayer texture, layered color blocks with slight misregister.",
+    "description_zh": "纸板刻凸印：瓦楞条纹排线、撕边毛刺、滚筒墨痕、色块微套偏。",
+    "source": "hermes-explore",
+    "image": "styles/3232-cardboard-cut.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3190",
+    "slug": "surface-tone",
+    "name_en": "Surface Tone",
+    "name_zh": "表面调子",
+    "description_en": "Intaglio plate tone: thin leftover ink film after wiping, rag-wipe streaks, tarlatan swirls, etched lines emerging from a velvety atmospheric ground.",
+    "description_zh": "凹版表面调：擦版残墨薄膜、布擦条纹、纱布旋痕、线刻从雾调中浮出。",
+    "source": "hermes-explore",
+    "image": "styles/3233-surface-tone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
