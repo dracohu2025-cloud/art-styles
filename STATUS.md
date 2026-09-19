@@ -9117,6 +9117,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3293, PNG count 3293. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 651 (exactly 5, h3251–h3255)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                            |
+|-------|----------------|------------|----------------------------------|
+| h3251 | Terraglia      | 泰拉利亚   | styles/3294-terraglia.png        |
+| h3252 | Atsumi         | 渥美烧     | styles/3295-atsumi.png           |
+| h3253 | Opus Punctile  | 点凿金工   | styles/3296-opus-punctile.png    |
+| h3254 | Contre-partie  | 对版镶嵌   | styles/3297-contre-partie.png    |
+| h3255 | Niepceotype    | 涅普斯型   | styles/3298-niepceotype.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3298, PNG count 3298. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

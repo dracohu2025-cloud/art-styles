@@ -42807,5 +42807,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3251",
+    "slug": "terraglia",
+    "name_en": "Terraglia",
+    "name_zh": "泰拉利亚",
+    "description_en": "Italian cream-bodied fine earthenware with delicate overglaze enamel: pastel roses, gold micro-lines, raised white dots on a glossy lead-glazed cream ground.",
+    "description_zh": "意大利奶油白陶细绘：粉彩玫瑰、金丝微线、凸起白点，铅釉奶油地光泽。",
+    "source": "hermes-explore",
+    "image": "styles/3294-terraglia.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3252",
+    "slug": "atsumi",
+    "name_en": "Atsumi",
+    "name_zh": "渥美烧",
+    "description_en": "Medieval Japanese Atsumi stoneware: coarse sandy clay, natural wood-ash glaze runs, olive-to-amber pooling, kiln flash and combing — rustic high-fire, not porcelain.",
+    "description_zh": "中世渥美烧：粗砂胎、自然灰釉流淌、橄榄至琥珀积釉、窑变与梳纹，粗犷高温而非瓷器。",
+    "source": "hermes-explore",
+    "image": "styles/3295-atsumi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3253",
+    "slug": "opus-punctile",
+    "name_en": "Opus Punctile",
+    "name_zh": "点凿金工",
+    "description_en": "Medieval goldsmith punched work: dense punch-dot grounds, chased contours, granulation and gem collets on burnished gold sheet, not painted metal.",
+    "description_zh": "中世纪点凿金工：密点錾地、錾刻轮廓、金粒与宝石座，抛光金片而非绘金。",
+    "source": "hermes-explore",
+    "image": "styles/3296-opus-punctile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3254",
+    "slug": "contre-partie",
+    "name_en": "Contre-partie",
+    "name_zh": "对版镶嵌",
+    "description_en": "Boulle marquetry in reverse: brass field with cut tortoiseshell arabesques, pewter stringing and ebony fillets, razor veneer joints.",
+    "description_zh": "布尔镶嵌对版：黄铜地嵌玳瑁卷草、锡丝与乌木嵌条，锋利薄木接缝。",
+    "source": "hermes-explore",
+    "image": "styles/3297-contre-partie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3255",
+    "slug": "niepceotype",
+    "name_en": "Niepceotype",
+    "name_zh": "涅普斯型",
+    "description_en": "Niépceotype heliographic photogravure: bitumen-resist etched copper printed in warm brown-black, plate tone, deep bite and early photographic grain.",
+    "description_zh": "涅普斯型日光凹版：沥青抗蚀蚀铜，暖棕黑油墨、版调、深咬与早期照相颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3298-niepceotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
