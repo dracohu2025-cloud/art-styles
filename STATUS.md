@@ -9327,6 +9327,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3368, PNG count 3368. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 666 (exactly 5, h3326–h3330)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en          | name_zh     | image                              |
+|-------|------------------|-------------|-------------------------------|
+| h3326 | Fujichrome       | 富士反转片  | styles/3369-fujichrome.png     |
+| h3327 | Tsuyazome        | 艶染        | styles/3370-tsuyazome.png      |
+| h3328 | Karabake         | 唐刷毛      | styles/3371-karabake.png       |
+| h3329 | Shishiaibori     | 肉合彫      | styles/3372-shishiaibori.png   |
+| h3330 | Dye Sublimation  | 热升华转印  | styles/3373-dye-sublimation.png |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3373, PNG count 3373. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -43782,5 +43782,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3326",
+    "slug": "fujichrome",
+    "name_en": "Fujichrome",
+    "name_zh": "富士反转片",
+    "description_en": "Fujichrome: E-6 color-reversal film — cool cyan-teal shadows, magenta-leaning midtones, vivid-but-natural greens, tight grain and highlight roll-off; not Velvia hypersaturation, not Kodachrome warm-red, not digital HDR.",
+    "description_zh": "富士反转片：E-6彩色反转片，青绿冷阴影、偏品红中间调、鲜而不过的绿、细密颗粒与高光滚降；非Velvia过饱和、非柯达克罗姆暖红、非数字HDR。",
+    "source": "hermes-explore",
+    "image": "styles/3369-fujichrome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3327",
+    "slug": "tsuyazome",
+    "name_en": "Tsuyazome",
+    "name_zh": "艶染",
+    "description_en": "Tsuyazome: Japanese gloss dyeing — lacquer-like sheen on silk, deep saturated dye pools, raking-light wet gloss across the cloth plane; not batik crackle, not shibori puckers, not matte pigment print.",
+    "description_zh": "艶染：日本光泽染色，丝绸呈漆面高光、饱和染料积淀、侧光下如湿面的整幅光泽；非蜡染开裂、非绞缬褶皱、非哑光颜料印。",
+    "source": "hermes-explore",
+    "image": "styles/3370-tsuyazome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3328",
+    "slug": "karabake",
+    "name_en": "Karabake",
+    "name_zh": "唐刷毛",
+    "description_en": "Karabake: Nihonga dry Tang-bristle brush — coarse spread hairs sweep mineral pigment into streaky cloud-mist bands and gofun haze; not tarashikomi puddles, not haboku splash, not airbrush blend.",
+    "description_zh": "唐刷毛：日本画干刷技法，粗散唐刷将矿物颜料扫成带鬃痕的云雾带与胡粉薄雾；非溜込积水、非泼墨、非喷笔渐变。",
+    "source": "hermes-explore",
+    "image": "styles/3371-karabake.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3329",
+    "slug": "shishiaibori",
+    "name_en": "Shishiaibori",
+    "name_zh": "肉合彫",
+    "description_en": "Shishiaibori: Japanese sunken-relief metal carving — the figure is recessed into a burnished bronze or shakudo ground, patina in the wells; not katakiri chisel drawing, not kebori hairlines, not usunikubori low raised relief.",
+    "description_zh": "肉合彫：日本金属沉雕，形象凹入抛光青铜或赤铜地，凹处积锈；非片切彫线刻、非毛彫发丝、非薄肉彫浅浮凸。",
+    "source": "hermes-explore",
+    "image": "styles/3372-shishiaibori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3330",
+    "slug": "dye-sublimation",
+    "name_en": "Dye Sublimation",
+    "name_zh": "热升华转印",
+    "description_en": "Dye Sublimation: gas-phase dye transfer into a polyester receiver — continuous tone, no CMYK rosette or inkjet spray, slightly waxy satin surface; not giclée, not risograph, not silver-grain photo.",
+    "description_zh": "热升华转印：染料气相渗入聚酯受墨层，连续调、无CMYK玫瑰斑与喷墨点、微蜡缎面；非艺术微喷、非孔版复印、非银盐颗粒照片。",
+    "source": "hermes-explore",
+    "image": "styles/3373-dye-sublimation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
