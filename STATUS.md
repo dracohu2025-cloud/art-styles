@@ -9468,6 +9468,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3418, PNG count 3418. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 676 (exactly 5, h3376–h3380)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh       | image                                  |
+|-------|---------------------|---------------|----------------------------------------|
+| h3376 | Virage              | 影片浸染      | styles/3419-virage.png                 |
+| h3377 | Seebeck Effect      | 塞贝克色效应  | styles/3420-seebeck-effect.png         |
+| h3378 | Rollwerk            | 卷轴纹样      | styles/3421-rollwerk.png               |
+| h3379 | Tihei               | 剔黑          | styles/3422-tihei.png                  |
+| h3380 | Milk-glass Positive | 奶玻正像      | styles/3423-milk-glass-positive.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3423, PNG count 3423. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

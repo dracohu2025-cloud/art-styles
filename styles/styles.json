@@ -44432,5 +44432,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3376",
+    "slug": "virage",
+    "name_en": "Virage",
+    "name_zh": "影片浸染",
+    "description_en": "Virage: silent-era single-bath film tinting — aniline dye flooding a silver image so the whole frame is one hue (amber, rose, or cobalt) with inky blacks; not three-strip Technicolor, not Pathé stencilcolor, not modern color grade.",
+    "description_zh": "影片浸染：默片单浴染色，苯胺染料淹没银影，全幅一色（琥珀、玫红或钴蓝）而暗部仍墨黑；非三条特艺彩、非百代镂版上色、非现代调色。",
+    "source": "hermes-explore",
+    "image": "styles/3419-virage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3377",
+    "slug": "seebeck-effect",
+    "name_en": "Seebeck Effect",
+    "name_zh": "塞贝克色效应",
+    "description_en": "Seebeck Effect: 1840s photochromic silver chloride — faint spectral stains from direct sun on AgCl paper, weak reds and violets, olive-brown fog; not Autochrome, not Lippmann interference, not hologram.",
+    "description_zh": "塞贝克色效应：1840年代氯化银光致变色，日光直晒出微弱光谱渍、浅红紫与橄榄褐雾；非奥托彩屏、非李普曼干涉、非全息。",
+    "source": "hermes-explore",
+    "image": "styles/3420-seebeck-effect.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3378",
+    "slug": "rollwerk",
+    "name_en": "Rollwerk",
+    "name_zh": "卷轴纹样",
+    "description_en": "Rollwerk: Northern Renaissance rolled-scroll ornament as the drawing language — leather-like hollow volutes constructing the figure; not Knorpelwerk cartilage, not strapwork grids, not Bandelwerk ribbons.",
+    "description_zh": "卷轴纹样：北欧文艺复兴卷轴饰为造型语言，皮革般中空涡卷构成形体；非软骨纹、非带饰网格、非缎带纹。",
+    "source": "hermes-explore",
+    "image": "styles/3421-rollwerk.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3379",
+    "slug": "tihei",
+    "name_en": "Tihei",
+    "name_zh": "剔黑",
+    "description_en": "Tihei: carved black lacquer — stacked black urushi cut in V-bevels so brown-black underlayers flash in the grooves; not red tihong, not polychrome ticai, not gold qiangjin.",
+    "description_zh": "剔黑：多层黑漆深剔，V口斜面里透出褐黑底；非剔红、非剔彩、非戗金。",
+    "source": "hermes-explore",
+    "image": "styles/3422-tihei.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3380",
+    "slug": "milk-glass-positive",
+    "name_en": "Milk-glass Positive",
+    "name_zh": "奶玻正像",
+    "description_en": "Milk-glass Positive: collodion or albumen silver image on translucent opal glass — milky backlight, creamy whites, no paper fiber; not opalotype on porcelain card, not dark-glass ambrotype, not ivorytype.",
+    "description_zh": "奶玻正像：乳白玻璃上的火棉胶或蛋白银影，透光乳晕、奶油高光、无纸纹；非瓷卡乳白相、非暗玻安布罗、非象牙相。",
+    "source": "hermes-explore",
+    "image": "styles/3423-milk-glass-positive.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
