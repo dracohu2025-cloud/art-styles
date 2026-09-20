@@ -46642,5 +46642,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3546",
+    "slug": "puzzle-initial",
+    "name_en": "Puzzle Initial",
+    "name_zh": "谜合首字母",
+    "description_en": "Romanesque interlocking puzzle initial: mineral-pigment compartments fitted like jigsaw cells with reserved white or gold channels. Not an inhabited initial with figures inside the letter, not a historiated narrative capital.",
+    "description_zh": "罗马式谜合首字母：矿物颜料色块如拼图嵌合，留白或金线隔槽；非字母腔内栖居人物的花字、非叙事史画首字母。",
+    "source": "hermes-explore",
+    "image": "styles/3589-puzzle-initial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3547",
+    "slug": "moyozashi",
+    "name_en": "Moyozashi",
+    "name_zh": "模样刺子",
+    "description_en": "Large-pattern sashiko: even white running stitches drawing asanoha, shippo, and seigaiha on indigo cotton. Not hitomezashi one-stitch grids, not kogin diamond darning.",
+    "description_zh": "模样刺子：大纹样刺子绣，靛蓝布上均匀白线跑针绘麻叶、七宝与青海波；非一目刺子网格、非津轻小巾菱缝。",
+    "source": "hermes-explore",
+    "image": "styles/3590-moyozashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3548",
+    "slug": "underside-couching",
+    "name_en": "Underside Couching",
+    "name_zh": "底钉金线",
+    "description_en": "Opus Anglicanum underside couching: surface gold pulled into dimpled brick or chevron tiles by reverse stitches. Not surface couching with visible binding threads, not or nué color-blended gold.",
+    "description_zh": "底钉金线：英格兰绣法，正面金线被背面针脚拉成砖纹或人字凹点；非明线盘金、非彩丝晕金的金线平绣。",
+    "source": "hermes-explore",
+    "image": "styles/3591-underside-couching.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3549",
+    "slug": "transfer-lithography",
+    "name_en": "Transfer Lithography",
+    "name_zh": "转写石印",
+    "description_en": "Autographic transfer to limestone: crayon and tusche drawn on transfer paper then offset onto the stone, with softened transferred grain. Not direct stone drawing, not pen-process lithography as the primary method.",
+    "description_zh": "转写石印：在转写纸上用蜡笔与油墨水作画再过石，线条略柔、颗粒错位；非直接在石上描绘、非钢笔制版石印为主法。",
+    "source": "hermes-explore",
+    "image": "styles/3592-transfer-lithography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3550",
+    "slug": "yonaguni-ori",
+    "name_en": "Yonaguni-ori",
+    "name_zh": "与那国织",
+    "description_en": "Yonaguni Island warp-faced handloom: stacked color bars, lozenges, zigzags, and stepped meanders in plant-dyed red, yellow, indigo, and black. Not Yomitanzan hanaori floral floats, not Yaeyama jofu ramie plain-weave.",
+    "description_zh": "与那国织：经面几何手织，色条、菱纹、折线与阶梯回纹，植物染红黄靛蓝黑；非读谷山花织浮花、非八重山上布苎麻平织。",
+    "source": "hermes-explore",
+    "image": "styles/3593-yonaguni-ori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

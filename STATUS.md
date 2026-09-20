@@ -9944,6 +9944,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3588, PNG count 3588. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 710 (exactly 5, h3546–h3550)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3546 | Puzzle Initial          | 谜合首字母       | styles/3589-puzzle-initial.png          |
+| h3547 | Moyozashi               | 模样刺子         | styles/3590-moyozashi.png               |
+| h3548 | Underside Couching      | 底钉金线         | styles/3591-underside-couching.png      |
+| h3549 | Transfer Lithography    | 转写石印         | styles/3592-transfer-lithography.png    |
+| h3550 | Yonaguni-ori            | 与那国织         | styles/3593-yonaguni-ori.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3593, PNG count 3593. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
