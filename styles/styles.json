@@ -44562,5 +44562,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3386",
+    "slug": "phytotype",
+    "name_en": "Phytotype",
+    "name_zh": "植汁印相",
+    "description_en": "Phytotype: Herschel 1840s plant-juice print — image bleached and stained by flower anthocyanins, chlorophyll and tannin on sized paper, low-contrast organic tints; not cyanotype blue, not watercolor, not pressed-flower collage.",
+    "description_zh": "植汁印相：赫歇尔1840年代植物汁印相，花青素、叶绿素与单宁在施胶纸上晒褪染色，低反差有机色渍；非蓝晒、非水彩、非压花拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/3429-phytotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3387",
+    "slug": "phototypie",
+    "name_en": "Phototypie",
+    "name_zh": "照相珂罗版",
+    "description_en": "Phototypie: French collotype photomechanical print — reticulated gelatin grain, continuous tone without a halftone screen, warm black-brown ink on cream paper; not lithograph crayon, not photogravure aquatint, not offset dots.",
+    "description_zh": "照相珂罗版：法国珂罗版照相制版，明胶网纹连续调、无网目网点，暖黑棕墨印于奶油纸；非石版蜡笔、非照相凹版飞尘、非胶印网点。",
+    "source": "hermes-explore",
+    "image": "styles/3430-phototypie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3388",
+    "slug": "wipe-tone",
+    "name_en": "Wipe Tone",
+    "name_zh": "擦版调子",
+    "description_en": "Wipe Tone: intaglio printed with incomplete plate wipe — smoky residual ink film veiling the whites, oily etching ink on damp rag paper; not mezzotint rocker grain, not aquatint resin, not charcoal.",
+    "description_zh": "擦版调子：凹版未擦净残留墨膜，烟雾状版调罩住高光，油性蚀刻墨印于湿凹版纸；非美柔汀摇点、非飞尘树脂、非木炭。",
+    "source": "hermes-explore",
+    "image": "styles/3431-wipe-tone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3389",
+    "slug": "negoro-nuri",
+    "name_en": "Negoro-nuri",
+    "name_zh": "根来漆",
+    "description_en": "Negoro-nuri: vermilion urushi over black lacquer, high points worn through to glossy black undercoat; not kintsugi gold repair, not carved tsuishu, not plastic gloss.",
+    "description_zh": "根来漆：朱漆覆黑漆，高点磨穿露出底层黑漆光泽；非金缮、非剔犀雕漆、非塑料高光。",
+    "source": "hermes-explore",
+    "image": "styles/3432-negoro-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3390",
+    "slug": "oleobrom",
+    "name_en": "Oleobrom",
+    "name_zh": "油溴印",
+    "description_en": "Oleobrom: oil-pigment inking of a bleached bromide print — greasy litho ink catching on tanned gelatin, broken highlights, warm umber-black; not canvas oil painting, not bromoil brush-stipple only, not carbon print.",
+    "description_zh": "油溴印：漂白溴素相纸上油性颜料上墨，油墨咬住鞣化明胶、断裂高光、暖赭黑；非布面油画、非单纯溴油点刷、非碳印。",
+    "source": "hermes-explore",
+    "image": "styles/3433-oleobrom.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

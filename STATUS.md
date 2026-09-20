@@ -9496,6 +9496,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3428, PNG count 3428. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 678 (exactly 5, h3386–h3390)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh     | image                         |
+|-------|-------------|-------------|-------------------------------|
+| h3386 | Phytotype   | 植汁印相    | styles/3429-phytotype.png     |
+| h3387 | Phototypie  | 照相珂罗版  | styles/3430-phototypie.png    |
+| h3388 | Wipe Tone   | 擦版调子    | styles/3431-wipe-tone.png     |
+| h3389 | Negoro-nuri | 根来漆      | styles/3432-negoro-nuri.png   |
+| h3390 | Oleobrom    | 油溴印      | styles/3433-oleobrom.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3433, PNG count 3433. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
