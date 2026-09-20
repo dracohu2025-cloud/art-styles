@@ -9916,6 +9916,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3578, PNG count 3578. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 708 (exactly 5, h3536–h3540)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3536 | Pointillage Enamel      | 点彩珐琅         | styles/3579-pointillage-enamel.png      |
+| h3537 | Medallic Engraving      | 奖章线刻         | styles/3580-medallic-engraving.png      |
+| h3538 | Peking Knot             | 打籽绣           | styles/3581-peking-knot.png             |
+| h3539 | Kyoseishi               | 强揉纸           | styles/3582-kyoseishi.png               |
+| h3540 | Gel Transfer            | 凝胶转印         | styles/3583-gel-transfer.png            |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3583, PNG count 3583. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

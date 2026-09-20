@@ -46512,5 +46512,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3536",
+    "slug": "pointillage-enamel",
+    "name_en": "Pointillage Enamel",
+    "name_zh": "点彩珐琅",
+    "description_en": "Pointillage enamel: Geneva/Limoges jeweler's enamel built from thousands of tiny kiln-fired vitreous dots on metal, glossy glass-paste beads with gold flashing in the gaps. Not Seurat oil pointillism, not cloisonné wire cells, not mosaic tesserae.",
+    "description_zh": "点彩珐琅：日内瓦/利摩日珠宝珐琅，金属地上密布窑烧玻璃质小点，光泽釉珠缝间露金；非修拉油画点彩、非掐丝珐琅、非马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/3579-pointillage-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3537",
+    "slug": "medallic-engraving",
+    "name_en": "Medallic Engraving",
+    "name_zh": "奖章线刻",
+    "description_en": "Medallic engraving: steel-engraved commemorative-medal burin manner as a pictorial still — swelling lines, radiating hatching, shallow-relief modeling in steel-gray ink. Not a coin or medal object, not mezzotint grain, not comic screentone.",
+    "description_zh": "奖章线刻：纪念章钢版雕刀法入画，胀缩线条、放射排线、浅浮雕建模、钢灰色墨；非钱币实物、非美柔汀底纹、非漫画网点。",
+    "source": "hermes-explore",
+    "image": "styles/3580-medallic-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3538",
+    "slug": "peking-knot",
+    "name_en": "Peking Knot",
+    "name_zh": "打籽绣",
+    "description_en": "Peking knot (seed-knot embroidery): a dense field of tiny coiled silk knots, each stitch a raised seed on cloth. Not satin stitch, not long-and-short silk shading, not needle painting, not cross-stitch.",
+    "description_zh": "打籽绣：满地细密绕线圈结，一针一籽、丝线凸起于布地；非缎绣、非长短针晕绣、非针绘、非十字绣。",
+    "source": "hermes-explore",
+    "image": "styles/3581-peking-knot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3539",
+    "slug": "kyoseishi",
+    "name_en": "Kyoseishi",
+    "name_zh": "强揉纸",
+    "description_en": "Kyoseishi: Japanese washi crumpled and kneaded until it takes a leather-like wrinkled skin, dye pooling in crushed-fiber folds. Not smooth watercolor paper, not origami, not uncrumpled print.",
+    "description_zh": "强揉纸：和纸反复揉搓至皮革般皱肤，染料淤积于碎纤维褶；非平整水彩纸、非折纸、非未揉印面。",
+    "source": "hermes-explore",
+    "image": "styles/3582-kyoseishi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3540",
+    "slug": "gel-transfer",
+    "name_en": "Gel Transfer",
+    "name_zh": "凝胶转印",
+    "description_en": "Acrylic gel-medium image transfer: cloudy gel skin, incomplete release, ghosted ink, torn backing bits on gessoed paper. Not Polaroid peel, not emulsion lift, not solvent photocopy transfer, not a clean digital print.",
+    "description_zh": "凝胶转印：丙烯凝胶媒介转印，乳浊胶膜、不完全脱落、残影油墨与撕底纸屑；非宝丽来剥离、非乳剂揭膜、非溶剂复印转印、非干净数码印。",
+    "source": "hermes-explore",
+    "image": "styles/3583-gel-transfer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
