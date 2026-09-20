@@ -9972,6 +9972,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3598, PNG count 3598. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 712 (exactly 5, h3556–h3560)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3556 | Foliate Initial         | 叶饰花字         | styles/3599-foliate-initial.png         |
+| h3557 | Youghal Lace            | 约尔蕾丝         | styles/3600-youghal-lace.png            |
+| h3558 | Nibutani Ita            | 二风谷板雕       | styles/3601-nibutani-ita.png            |
+| h3559 | Shamsa                  | 沙姆萨纹         | styles/3602-shamsa.png                  |
+| h3560 | Capitalis Quadrata      | 方资本体         | styles/3603-capitalis-quadrata.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3603, PNG count 3603. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

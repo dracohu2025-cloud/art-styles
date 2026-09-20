@@ -46772,5 +46772,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3556",
+    "slug": "foliate-initial",
+    "name_en": "Foliate Initial",
+    "name_zh": "叶饰花字",
+    "description_en": "Medieval foliate initial: letter-body of acanthus, ivy and flowering vines in egg tempera and shell gold on vellum, burnished gold ground, white vine-stem tendrils. Not zoomorphic beast-letters, not inhabited narrative bowls, not carpet-page knotwork.",
+    "description_zh": "中世纪叶饰花字：字母由莨苕、常春藤与开花藤蔓构成，蛋彩与贝壳金、烫金底、白藤卷须；非兽形花字、非栖居叙事字腹、非地毯页结纹。",
+    "source": "hermes-explore",
+    "image": "styles/3599-foliate-initial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3557",
+    "slug": "youghal-lace",
+    "name_en": "Youghal Lace",
+    "name_zh": "约尔蕾丝",
+    "description_en": "Irish Youghal needle lace: ivory linen cloth-stitch petals, raised cordonnet, picot brides, shamrock and wild-rose sprigs. Not Carrickmacross net appliqué, not Limerick run-and-tambour, not Venetian gros point heavy scrolls.",
+    "description_zh": "爱尔兰约尔针蕾丝：象牙亚麻布纹针花瓣、凸起绳边、皮科桥、三叶草与野玫瑰枝；非卡里克马克罗斯网贴、非利默里克跑针、非威尼斯粗针大涡卷。",
+    "source": "hermes-explore",
+    "image": "styles/3600-youghal-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3558",
+    "slug": "nibutani-ita",
+    "name_en": "Nibutani Ita",
+    "name_zh": "二风谷板雕",
+    "description_en": "Ainu Nibutani ita: shallow chip-carved wooden tray, moreu spirals, ramram scale bands, notokam thorns, matte wood grain. Not urushi lacquer, not Māori whakairo, not Kamakura-bori.",
+    "description_zh": "阿伊努二风谷板雕：浅浮雕木盘，莫雷涡卷、鳞纹带、棘刺纹、哑光木纹；非漆绘、非毛利瓦凯罗、非镰仓雕。",
+    "source": "hermes-explore",
+    "image": "styles/3601-nibutani-ita.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3559",
+    "slug": "shamsa",
+    "name_en": "Shamsa",
+    "name_zh": "沙姆萨纹",
+    "description_en": "Islamic shamsa sunburst medallion: concentric gilt rays, lapis, malachite, vermilion, white arabesque, polylobed roundel on polished paper. Not a full carpet page, not a rectangular sarlawh headpiece, not a tughra cipher.",
+    "description_zh": "伊斯兰沙姆萨日光纹：同心金芒、青金、孔雀石、朱红、白卷草、多叶圆光；非整页地毯纹、非长方形卷首彩饰、非图格拉花押。",
+    "source": "hermes-explore",
+    "image": "styles/3602-shamsa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3560",
+    "slug": "capitalis-quadrata",
+    "name_en": "Capitalis Quadrata",
+    "name_zh": "方资本体",
+    "description_en": "Roman capitalis quadrata: even-width Trajanic square capitals, monumental serifs, V for U, triangular interpuncts, red rubric and black on marble or papyrus. Not rustic capitals, not uncial, not Carolingian minuscule.",
+    "description_zh": "罗马方资本体：等宽图拉真方资本、纪念碑衬线、V代U、三角隔点、朱红与墨色于大理石或纸草；非乡村大写、非安色尔、非加洛林小写。",
+    "source": "hermes-explore",
+    "image": "styles/3603-capitalis-quadrata.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
