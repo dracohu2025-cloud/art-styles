@@ -9762,6 +9762,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3523, PNG count 3523. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 697 (exactly 5, h3481–h3485)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh    | image                            |
+|-------|-----------------|------------|----------------------------------|
+| h3481 | Harmonograph    | 谐和图仪   | styles/3524-harmonograph.png     |
+| h3482 | Flashe          | 乙烯胶画   | styles/3525-flashe.png           |
+| h3483 | Vector Monitor  | 矢量扫描   | styles/3526-vector-monitor.png   |
+| h3484 | Rheoscopic      | 流显成像   | styles/3527-rheoscopic.png       |
+| h3485 | Blue Noise      | 蓝噪声     | styles/3528-blue-noise.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3528, PNG count 3528. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

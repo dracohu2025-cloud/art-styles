@@ -45797,5 +45797,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3481",
+    "slug": "harmonograph",
+    "name_en": "Harmonograph",
+    "name_zh": "谐和图仪",
+    "description_en": "Harmonograph: overlapping damped pendulum traces — hypotrochoids and phase-shifted ellipses in fine ink — build the figure; not a Spirograph toy, not a CAD plot, not a mandala.",
+    "description_zh": "谐和图仪：衰减摆锤叠绘的内旋轮线与相位椭圆细墨线构成形体；非儿童万花尺、非CAD线稿、非曼陀罗填色。",
+    "source": "hermes-explore",
+    "image": "styles/3524-harmonograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3482",
+    "slug": "flashe",
+    "name_en": "Flashe",
+    "name_zh": "乙烯胶画",
+    "description_en": "Flashe: ultra-matte vinyl-acrylic with a dry velours skin, opaque even fields and almost no sheen; not glossy acrylic, not gouache wash, not posterized vector flats.",
+    "description_zh": "乙烯胶画：超哑光乙烯丙烯，丝绒般均匀色块、几乎无反光；非亮光丙烯、非水粉湿画、非海报矢量平涂。",
+    "source": "hermes-explore",
+    "image": "styles/3525-flashe.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3483",
+    "slug": "vector-monitor",
+    "name_en": "Vector Monitor",
+    "name_zh": "矢量扫描",
+    "description_en": "Vector Monitor: CRT vector-beam phosphor-green strokes on black, vertex bloom and persistence trails, no filled polygons; not neon tubing, not vacuum-fluorescent digits, not raster scanlines.",
+    "description_zh": "矢量扫描：阴极射线矢量束青绿荧光描线、顶点晕光与余辉，无填充多边形；非霓虹灯管、非真空荧光数码、非光栅扫描线。",
+    "source": "hermes-explore",
+    "image": "styles/3526-vector-monitor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3484",
+    "slug": "rheoscopic",
+    "name_en": "Rheoscopic",
+    "name_zh": "流显成像",
+    "description_en": "Rheoscopic: pearl-flake suspension in viscous fluid, shear-aligned streamlines and laminar vortices wrapping the figure; not ferrofluid spikes, not oil-on-water swirl, not cymatics.",
+    "description_zh": "流显成像：黏液中的珍珠微片随剪切对齐，层流涡旋与流线包裹形体；非磁性流体尖刺、非油水旋纹、非声波驻波。",
+    "source": "hermes-explore",
+    "image": "styles/3527-rheoscopic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3485",
+    "slug": "blue-noise",
+    "name_en": "Blue Noise",
+    "name_zh": "蓝噪声",
+    "description_en": "Blue Noise: high-frequency stochastic FM screening — tone from spatially uniform print-dot density with no low-frequency clumps; not Bayer ordered dither, not Floyd-Steinberg worms, not film grain.",
+    "description_zh": "蓝噪声：高频随机调频加网，明暗仅由空间均匀网点密度构成、无低频团块；非拜耳有序抖动、非弗洛伊德-斯坦伯格虫纹、非胶片颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3528-blue-noise.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
