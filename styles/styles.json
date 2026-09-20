@@ -46187,5 +46187,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3511",
+    "slug": "full-form-rubbing",
+    "name_en": "Full-form Rubbing",
+    "name_zh": "全形拓",
+    "description_en": "Full-form rubbing (quanxing ta): xuan paper wrapped over a three-dimensional bronze, pad-rubbed with dense ink so relief reads as pale paper against a sooty ink field. Not stele rubbing, not woodcut, not a photograph of bronze, not charcoal.",
+    "description_zh": "全形拓：宣纸裹三维青铜器、墨垫擦出浅色凸纹与煤烟灰墨地；非碑拓、非木刻、非青铜照片、非木炭素描。",
+    "source": "hermes-explore",
+    "image": "styles/3554-full-form-rubbing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3512",
+    "slug": "eddy-cun",
+    "name_en": "Eddy Cun",
+    "name_zh": "弹涡皴",
+    "description_en": "Eddy cun: Chinese landscape texture of coiled whirlpool strokes and spring-coil dots modelling rock and drapery. Not axe-cut cun, not sesame cun, not hemp-fiber pima cun, not boneless wash, not Japanese haboku splash.",
+    "description_zh": "弹涡皴：以涡旋皴擦与弹簧点塑造石面与衣褶的山水皴法；非斧劈皴、非芝麻皴、非披麻皴、非没骨晕染、非日式破墨泼洒。",
+    "source": "hermes-explore",
+    "image": "styles/3555-eddy-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3513",
+    "slug": "miaojin",
+    "name_en": "Miaojin",
+    "name_zh": "描金",
+    "description_en": "Miaojin: hair-thin gold contour and stipple painted on jet lacquer. Flat gold drawing, not raised paste gilding, not kirikane cut-leaf, not chinkin incised gold, not oil gilt.",
+    "description_zh": "描金：乌漆地上的发丝金线与金点平绘；非堆粉描金、非截金箔片、非沉金阴刻、非油金。",
+    "source": "hermes-explore",
+    "image": "styles/3556-miaojin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3514",
+    "slug": "firoozeh-koobi",
+    "name_en": "Firoozeh Koobi",
+    "name_zh": "松石镶嵌",
+    "description_en": "Firoozeh koobi: crushed turquoise tesserae hammered into copper or silver channels, oxide-dark metal grounds. Not cloisonné enamel, not glass mosaic, not pietra dura painting, not beadwork.",
+    "description_zh": "松石镶嵌：碎绿松石捶入铜银槽、氧化暗金属地；非掐丝珐琅、非玻璃马赛克、非硬石镶画、非珠绣。",
+    "source": "hermes-explore",
+    "image": "styles/3557-firoozeh-koobi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3515",
+    "slug": "rutevev",
+    "name_en": "Rutevev",
+    "name_zh": "格纹绘织",
+    "description_en": "Rutevev: Norwegian weft-faced wool tapestry of stepped rectangles, diamond lattices, and checked rute blocks in madder, woad, cream, and charcoal. Not pictorial billedvev oil-realism, not kilim as subject, not cross-stitch, not pixel art.",
+    "description_zh": "格纹绘织：挪威纬面羊毛挂毯，阶梯方格、菱格与方格色块，茜红、菘蓝、本色与炭黑；非写实绘织油画感、非作为题材的基里姆、非十字绣、非像素画。",
+    "source": "hermes-explore",
+    "image": "styles/3558-rutevev.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

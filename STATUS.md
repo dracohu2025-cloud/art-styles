@@ -9846,6 +9846,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3553, PNG count 3553. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 703 (exactly 5, h3511–h3515)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3511 | Full-form Rubbing       | 全形拓           | styles/3554-full-form-rubbing.png       |
+| h3512 | Eddy Cun                | 弹涡皴           | styles/3555-eddy-cun.png                |
+| h3513 | Miaojin                 | 描金             | styles/3556-miaojin.png                 |
+| h3514 | Firoozeh Koobi          | 松石镶嵌         | styles/3557-firoozeh-koobi.png          |
+| h3515 | Rutevev                 | 格纹绘织         | styles/3558-rutevev.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3558, PNG count 3558. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
