@@ -9482,6 +9482,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3423, PNG count 3423. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 677 (exactly 5, h3381–h3385)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh       | image                               |
+|-------|--------------------|---------------|-------------------------------------|
+| h3381 | Ortone             | 奥顿叠印      | styles/3424-ortone.png              |
+| h3382 | Soret Plate        | 索雷特波带    | styles/3425-soret-plate.png         |
+| h3383 | Trucolor           | 特鲁彩        | styles/3426-trucolor.png            |
+| h3384 | Silicate Painting  | 硅酸盐壁画    | styles/3427-silicate-painting.png   |
+| h3385 | Warnerke Tissue    | 瓦纳克剥离纸  | styles/3428-warnerke-tissue.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3428, PNG count 3428. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

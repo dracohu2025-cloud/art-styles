@@ -44497,5 +44497,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3381",
+    "slug": "ortone",
+    "name_en": "Ortone",
+    "name_zh": "奥顿叠印",
+    "description_en": "Ortone: silver-gelatin print sandwiched with a registered positive so highlights bloom with milky inner glow and shadows stay velvety; not HDR bloom, not a milk-glass opalotype, not simple fogged film.",
+    "description_zh": "奥顿叠印：银盐相与套准正片夹层，高光乳晕内发光、暗部丝绒感；非HDR光晕、非奶玻乳白相、非简单雾化胶片。",
+    "source": "hermes-explore",
+    "image": "styles/3424-ortone.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3382",
+    "slug": "soret-plate",
+    "name_en": "Soret Plate",
+    "name_zh": "索雷特波带",
+    "description_en": "Soret Plate: zone-plate diffraction instead of a glass lens — concentric interference rings on highlights, soft radial halos, mild spectral fringe; not lens bokeh, not anamorphic flare, not a rainbow filter overlay.",
+    "description_zh": "索雷特波带：以波带片衍射成像而非玻璃镜头，高光同心干涉环、径向柔晕、轻微色散；非镜头焦外、非变形宽银幕炫光、非彩虹滤镜叠层。",
+    "source": "hermes-explore",
+    "image": "styles/3425-soret-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3383",
+    "slug": "trucolor",
+    "name_en": "Trucolor",
+    "name_zh": "特鲁彩",
+    "description_en": "Trucolor: 1940s Republic two-color motion-picture dyes — orange-red and cyan-green only, thick dye, mild misregister, no true yellow or pure blue; not three-strip Technicolor, not two-strip Technicolor, not modern teal-orange grade.",
+    "description_zh": "特鲁彩：1940年代共和公司双色电影染料，仅橙红与青绿色，染料偏厚、轻微套准偏移，无真黄与纯蓝；非三色特艺彩、非双条特艺彩、非现代青橙调色。",
+    "source": "hermes-explore",
+    "image": "styles/3426-trucolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3384",
+    "slug": "silicate-painting",
+    "name_en": "Silicate Painting",
+    "name_zh": "硅酸盐壁画",
+    "description_en": "Silicate Painting: potassium-silicate mineral mural — pigments locked in a matte stone-like film on plaster, crystalline bloom, earth oxides; not buon fresco, not acrylic mural, not Keimfarben brand texture as a logo look.",
+    "description_zh": "硅酸盐壁画：钾水玻璃矿物颜料锁进哑光石膜，墙面结晶粉霜、氧化物色；非真湿壁画、非丙烯墙绘、非品牌矿彩标贴效果。",
+    "source": "hermes-explore",
+    "image": "styles/3427-silicate-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3385",
+    "slug": "warnerke-tissue",
+    "name_en": "Warnerke Tissue",
+    "name_zh": "瓦纳克剥离纸",
+    "description_en": "Warnerke Tissue: 1870s stripping paper — thin collodion or gelatin tissue peeling from a paper support, translucent wrinkle, orange-brown stain; not torn-poster collage, not a transfer print, not ordinary albumen fade.",
+    "description_zh": "瓦纳克剥离纸：1870年代剥离相纸，薄火棉胶或明胶膜从纸基揭起，半透明皱纹、橙褐渍；非撕海报拼贴、非转印、非普通蛋白相褪色。",
+    "source": "hermes-explore",
+    "image": "styles/3428-warnerke-tissue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
