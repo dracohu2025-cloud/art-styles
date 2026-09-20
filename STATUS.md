@@ -9790,6 +9790,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3533, PNG count 3533. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 699 (exactly 5, h3491–h3495)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh    | image                            |
+|-------|-----------------|------------|----------------------------------|
+| h3491 | Spirograph      | 螺线规     | styles/3534-spirograph.png       |
+| h3492 | Newton's Rings  | 牛顿环     | styles/3535-newton-rings.png     |
+| h3493 | Orizome         | 折染       | styles/3536-orizome.png          |
+| h3494 | Ronchi Ruling   | 朗奇条纹   | styles/3537-ronchi-ruling.png    |
+| h3495 | Mattoir         | 点轮刻     | styles/3538-mattoir.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3538, PNG count 3538. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

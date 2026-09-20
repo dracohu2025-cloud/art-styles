@@ -45927,5 +45927,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3491",
+    "slug": "spirograph",
+    "name_en": "Spirograph",
+    "name_zh": "螺线规",
+    "description_en": "Spirograph: hypotrochoid/epitrochoid gear-and-ring pen roses — nested colored fineliner tracks, gear-hole centers, pen skips on cream paper. Not Lissajous, not harmonograph, not CAD plots.",
+    "description_zh": "螺线规：内旋/外旋轮线齿环笔玫瑰，彩色针管重叠轨迹、齿孔圆心与跳笔落在米色纸上；非利萨如、非谐和图仪、非CAD曲线。",
+    "source": "hermes-explore",
+    "image": "styles/3534-spirograph.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3492",
+    "slug": "newton-rings",
+    "name_en": "Newton's Rings",
+    "name_zh": "牛顿环",
+    "description_en": "Newton's Rings: concentric thin-film interference from an air wedge between glass — packed rainbow fringes, dark/bright center. Not oil-slick chaos, not Lippmann holography, not crossed-polars crystals.",
+    "description_zh": "牛顿环：玻璃气隙薄膜干涉的同心彩虹条纹，明暗圆心；非油膜乱彩、非李普曼全息、非正交偏光晶体。",
+    "source": "hermes-explore",
+    "image": "styles/3535-newton-rings.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3493",
+    "slug": "orizome",
+    "name_en": "Orizome",
+    "name_zh": "折染",
+    "description_en": "Orizome: accordion-folded washi dipped in dye then opened — crease-grid kaleidoscope, capillary wicks, indigo/carmine/turmeric blots. Not shibori cloth, not batik wax, not suminagashi.",
+    "description_zh": "折染：手风琴折叠和纸浸染再展开，折痕网格万花、毛细洇开、靛蓝胭脂姜黄渍；非绞缬布、非蜡染、非墨流。",
+    "source": "hermes-explore",
+    "image": "styles/3536-orizome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3494",
+    "slug": "ronchi-ruling",
+    "name_en": "Ronchi Ruling",
+    "name_zh": "朗奇条纹",
+    "description_en": "Ronchi Ruling: equal-width high-contrast optical grating stripes, optical-shop test bands, slight crossing moiré. Not barcode, not halftone dots, not CRT scanlines.",
+    "description_zh": "朗奇条纹：等宽高反差光栅测试条，光学车间朗奇带与交叉莫尔；非条码、非网目点、非CRT扫描线。",
+    "source": "hermes-explore",
+    "image": "styles/3537-ronchi-ruling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3495",
+    "slug": "mattoir",
+    "name_en": "Mattoir",
+    "name_zh": "点轮刻",
+    "description_en": "Mattoir: crayon-manner intaglio — roulette/mattoir rosette punches, chalky stipple grain, warm bistre on laid paper. Not mezzotint rocker, not aquatint resin, not pen stipple.",
+    "description_zh": "点轮刻：蜡笔法凹版，点轮/玫瑰冲点、粉质颗粒、热褐墨落在罗纹纸上；非美柔汀摇刀、非飞尘树脂、非钢笔点绘。",
+    "source": "hermes-explore",
+    "image": "styles/3538-mattoir.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
