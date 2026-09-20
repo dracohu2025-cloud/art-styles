@@ -44627,5 +44627,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3391",
+    "slug": "tozan",
+    "name_en": "Tozan",
+    "name_zh": "唐栈",
+    "description_en": "Tozan: fine indigo-and-white warp-striped Japanese cotton — hand-loomed even stripes, matte cloth tooth, no kasuri blur; not ikat, not meisen print, not brocade.",
+    "description_zh": "唐栈：细密蓝白经向条纹棉，手织均匀条、哑光布牙、无絣晕；非絣织、非铭仙印、非织金锦。",
+    "source": "hermes-explore",
+    "image": "styles/3434-tozan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3392",
+    "slug": "fire-gilding",
+    "name_en": "Fire Gilding",
+    "name_zh": "火镀金",
+    "description_en": "Fire gilding: mercury-amalgam gold on metal — porous 24k skin, burnished ridges vs dull recesses, faint amalgam bloom; not gold leaf, not gold paint, not gilt gesso.",
+    "description_zh": "火镀金：汞齐金覆金属，多孔24K金皮、抛光高脊对哑光凹处、微汞霜；非金箔、非金漆、非石膏贴金。",
+    "source": "hermes-explore",
+    "image": "styles/3435-fire-gilding.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3393",
+    "slug": "polychromide",
+    "name_en": "Polychromide",
+    "name_zh": "多色溴印",
+    "description_en": "Polychromide: 1920s multi-layer color bromide print — dusty stacked primaries, faint channel fringing, chemical grain on bromide paper; not Kodachrome, not hand-tint, not offset litho.",
+    "description_zh": "多色溴印：1920年代多层彩色溴素相，灰蒙叠色、轻微套色错位、溴纸药膜颗粒；非柯达彩正、非手工上色、非胶印。",
+    "source": "hermes-explore",
+    "image": "styles/3436-polychromide.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3394",
+    "slug": "punch-engraving",
+    "name_en": "Punch Engraving",
+    "name_zh": "冲点雕刻",
+    "description_en": "Punch engraving: opus mallei punched-dot copper plate — ring-punches and matting punches build tone, warm black on cream laid paper; not mezzotint rocker, not roulette stipple, not etching line.",
+    "description_zh": "冲点雕刻：锤点铜版，环冲与麻点冲积调，暖黑印于米色罗纹纸；非美柔汀摇刀、非滚轮点刻、非蚀刻线。",
+    "source": "hermes-explore",
+    "image": "styles/3437-punch-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3395",
+    "slug": "encrusted-enamel",
+    "name_en": "Encrusted Enamel",
+    "name_zh": "堆釉珐琅",
+    "description_en": "Encrusted enamel: vitreous enamel heaped in jewel-like relief on metal — pooled glassy mounds, fire-scale edges, specular kiln gloss; not cloisonné wire, not champlevé pits, not painted Limoges.",
+    "description_zh": "堆釉珐琅：珐琅厚堆成珠宝浮雕，玻璃质熔丘、火垢边、窑烧高光；非掐丝、非錾坑填釉、非利摩日画珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3438-encrusted-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

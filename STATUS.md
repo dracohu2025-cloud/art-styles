@@ -9510,6 +9510,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3433, PNG count 3433. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 679 (exactly 5, h3391–h3395)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh     | image                                |
+|-------|-------------------|-------------|--------------------------------------|
+| h3391 | Tozan             | 唐栈        | styles/3434-tozan.png                |
+| h3392 | Fire Gilding      | 火镀金      | styles/3435-fire-gilding.png         |
+| h3393 | Polychromide      | 多色溴印    | styles/3436-polychromide.png         |
+| h3394 | Punch Engraving   | 冲点雕刻    | styles/3437-punch-engraving.png      |
+| h3395 | Encrusted Enamel  | 堆釉珐琅    | styles/3438-encrusted-enamel.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3438, PNG count 3438. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
