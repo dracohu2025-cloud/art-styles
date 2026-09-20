@@ -45667,5 +45667,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3471",
+    "slug": "gradient-mesh",
+    "name_en": "Gradient Mesh",
+    "name_zh": "渐变网格",
+    "description_en": "Gradient Mesh: vector illustration built from a lattice of mesh points and spline patches with ultra-smooth node-to-node blends; not bitmap airbrush, not cel shading, not a simple linear gradient.",
+    "description_zh": "渐变网格：以网格节点与样条色块铺成的矢量插画，节点间过渡极平滑；非位图喷绘、非赛璐珞着色、非简单线性渐变。",
+    "source": "hermes-explore",
+    "image": "styles/3514-gradient-mesh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3472",
+    "slug": "chromadepth",
+    "name_en": "Chromadepth",
+    "name_zh": "色深立体",
+    "description_en": "Chromadepth: spectral depth cueing where warm reds sit near and cool blues recede; not anaglyph glasses, not infrared false color, not a rainbow LUT.",
+    "description_zh": "色深立体：暖红近、冷蓝远的光谱纵深编码；非红青分色眼镜、非红外伪彩、非彩虹查找表。",
+    "source": "hermes-explore",
+    "image": "styles/3515-chromadepth.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3473",
+    "slug": "cast-drawing",
+    "name_en": "Cast Drawing",
+    "name_zh": "石膏素描",
+    "description_en": "Cast Drawing: academic atelier charcoal on toned paper — vine and compressed charcoal, stump blends, strict value planes; not graphite sketch, not ink contour, not a plaster statue as the subject.",
+    "description_zh": "石膏素描：学院炭笔调纸画法，藤炭与压缩炭、纸笔揉擦、严格明暗体面；非石墨速写、非墨线轮廓、非以石膏像为题材。",
+    "source": "hermes-explore",
+    "image": "styles/3516-cast-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3474",
+    "slug": "lomography",
+    "name_en": "Lomography",
+    "name_zh": "乐摸摄影",
+    "description_en": "Lomography: analog toy-camera look with vignette, light leaks, color shifts, cheap-lens distortion and grain; not Holga branding, not Polaroid borders, not cross-processing alone.",
+    "description_zh": "乐摸摄影：玩具相机胶片感，暗角、漏光、偏色、廉价镜头畸变与颗粒；非霍尔加品牌、非拍立得白框、非单独交叉冲洗。",
+    "source": "hermes-explore",
+    "image": "styles/3517-lomography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3475",
+    "slug": "stippling",
+    "name_en": "Stippling",
+    "name_zh": "钢笔点绘",
+    "description_en": "Stippling: form and value built only from dense ink dots, no hatch, no wash; not stipple engraving, not pointillist color dots, not Ben-Day print screens.",
+    "description_zh": "钢笔点绘：明暗全由墨点疏密构成，无排线、无水墨渲染；非点刻铜版、非点彩色点、非本戴印刷网点。",
+    "source": "hermes-explore",
+    "image": "styles/3518-stippling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

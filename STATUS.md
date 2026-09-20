@@ -9734,6 +9734,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3513, PNG count 3513. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 695 (exactly 5, h3471–h3475)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                          |
+|-------|----------------|------------|--------------------------------|
+| h3471 | Gradient Mesh  | 渐变网格   | styles/3514-gradient-mesh.png  |
+| h3472 | Chromadepth    | 色深立体   | styles/3515-chromadepth.png    |
+| h3473 | Cast Drawing   | 石膏素描   | styles/3516-cast-drawing.png   |
+| h3474 | Lomography     | 乐摸摄影   | styles/3517-lomography.png     |
+| h3475 | Stippling      | 钢笔点绘   | styles/3518-stippling.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3518, PNG count 3518. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
