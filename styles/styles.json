@@ -45017,5 +45017,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3421",
+    "slug": "tri-x",
+    "name_en": "Tri-X",
+    "name_zh": "特莱克斯",
+    "description_en": "Tri-X: Kodak Tri-X 400 black-and-white negative — chunky silver grain, high acutance, wide latitude, punchy midtones, cool-neutral B&W; not Portra color, not platinum smoothness, not digital noise.",
+    "description_zh": "特莱克斯：柯达Tri-X 400黑白负片，粗银盐颗粒、高锐度、宽宽容度、中灰有力、冷中性黑白；非波特拉彩色、非铂金平滑、非数字噪点。",
+    "source": "hermes-explore",
+    "image": "styles/3464-tri-x.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3422",
+    "slug": "neuland",
+    "name_en": "Neuland",
+    "name_zh": "新地体",
+    "description_en": "Neuland: Rudolf Koch 1923 carved display type as image language — wedge-cut strokes, irregular hand-gouged edges, heavy black masses, mustard-cream poster palette; not Futura geometry, not Clarendon slabs, not Fraktur.",
+    "description_zh": "新地体：科赫1923年雕凿展示字体作画面语言，楔形笔画、手凿不规则边、厚重黑块、芥末奶油海报色；非未来体几何、非克拉伦登衬线、非尖角哥特。",
+    "source": "hermes-explore",
+    "image": "styles/3465-neuland.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3423",
+    "slug": "lalique",
+    "name_en": "Lalique",
+    "name_zh": "拉利克玻璃",
+    "description_en": "Lalique: molded satiné crystal — milky opalescent aqua-to-amber glow, low-relief botanicals, fire-polished clear against velvety frost; not stained-glass leading, not brilliant-cut facets, not copper-foil Tiffany.",
+    "description_zh": "拉利克玻璃：模压缎面水晶，乳光青绿至琥珀内辉、浅浮雕植物、火抛光透明对丝绒磨砂；非铅条彩绘玻璃、非灿烂切工、非铜箔蒂芙尼。",
+    "source": "hermes-explore",
+    "image": "styles/3466-lalique.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3424",
+    "slug": "herend",
+    "name_en": "Herend",
+    "name_zh": "赫伦瓷",
+    "description_en": "Herend: Hungarian hard-paste porcelain painting — brilliant white ground, rust-and-gilt fishnet/scale overglaze, tiny insects and botanicals, factory-fine miniature enamel; not famille rose, not qinghua blue-and-white, not celadon.",
+    "description_zh": "赫伦瓷：匈牙利硬质瓷绘，亮白瓷地、铁锈与金鱼鳞网釉上彩、细密草虫花卉、厂造微型珐琅；非粉彩、非青花、非青瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3467-herend.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3425",
+    "slug": "chelsea-porcelain",
+    "name_en": "Chelsea Porcelain",
+    "name_zh": "切尔西软瓷",
+    "description_en": "Chelsea Porcelain: English gold-anchor soft-paste — creamy warm body, milky pooling glaze, botanical-specimen overglaze, rococo gilt; not Saint-Cloud white, not bone china, not Kakiemon sparse enamel.",
+    "description_zh": "切尔西软瓷：英国金锚期软质瓷，暖奶油胎、乳浊积釉、标本式釉上植物、洛可可描金；非圣克卢白瓷、非骨瓷、非柿右卫门疏彩。",
+    "source": "hermes-explore",
+    "image": "styles/3468-chelsea-porcelain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

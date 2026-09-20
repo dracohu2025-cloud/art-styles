@@ -9594,6 +9594,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3463, PNG count 3463. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 685 (exactly 5, h3421–h3425)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h3421 | Tri-X              | 特莱克斯        | styles/3464-tri-x.png                 |
+| h3422 | Neuland            | 新地体          | styles/3465-neuland.png               |
+| h3423 | Lalique            | 拉利克玻璃      | styles/3466-lalique.png               |
+| h3424 | Herend             | 赫伦瓷          | styles/3467-herend.png                |
+| h3425 | Chelsea Porcelain  | 切尔西软瓷      | styles/3468-chelsea-porcelain.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3468, PNG count 3468. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
