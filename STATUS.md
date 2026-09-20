@@ -9958,6 +9958,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3593, PNG count 3593. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 711 (exactly 5, h3551–h3555)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3551 | Zoomorphic Initial      | 兽形花字         | styles/3594-zoomorphic-initial.png      |
+| h3552 | Luxeuil Script          | 吕克瑟伊书体     | styles/3595-luxeuil-script.png          |
+| h3553 | Soof Embroidery         | 苏夫绣           | styles/3596-soof-embroidery.png         |
+| h3554 | Sambalpuri              | 桑巴尔普里絣     | styles/3597-sambalpuri.png              |
+| h3555 | Rose Point              | 玫瑰点蕾丝       | styles/3598-rose-point.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3598, PNG count 3598. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

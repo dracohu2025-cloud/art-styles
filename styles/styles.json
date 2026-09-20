@@ -46707,5 +46707,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3551",
+    "slug": "zoomorphic-initial",
+    "name_en": "Zoomorphic Initial",
+    "name_zh": "兽形花字",
+    "description_en": "Insular/Romanesque zoomorphic initial: letter strokes built from interlocked beasts, birds, and serpents in mineral pigment on gold-leaf vellum. Not a puzzle initial of jigsaw color cells, not an inhabited initial with people inside the bowls, not Chinese bird-worm seal script.",
+    "description_zh": "岛屿/罗马式兽形花字：字母笔画由交缠走兽、鸟与蛇构成，矿物颜料与金箔皮纸；非拼图色块谜合首字母、非字母腔内栖居人物、非鸟虫篆。",
+    "source": "hermes-explore",
+    "image": "styles/3594-zoomorphic-initial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3552",
+    "slug": "luxeuil-script",
+    "name_en": "Luxeuil Script",
+    "name_zh": "吕克瑟伊书体",
+    "description_en": "Merovingian Luxeuil minuscule: wedge terminals, looping g and t, oak-gall ink on stained vellum, fish-and-bird line fillers. Not Carolingian minuscule, not Beneventan broken minims, not Insular knotwork carpet pages.",
+    "description_zh": "墨洛温吕克瑟伊小写：楔形收笔、盘曲的g与t、橡瘿墨与染色皮纸、鱼鸟填行；非加洛林小写、非贝内文托折笔、非岛屿结饰地毯页。",
+    "source": "hermes-explore",
+    "image": "styles/3595-luxeuil-script.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3553",
+    "slug": "soof-embroidery",
+    "name_en": "Soof Embroidery",
+    "name_zh": "苏夫绣",
+    "description_en": "Kutch soof (suf) counted surface satin: chevrons, diamonds, stepped triangles and mirrored trees in dense silk on khadi, stitched from the reverse. Not shisha mirror work, not Lambani coin-and-mirror costume, not Rabari.",
+    "description_zh": "库奇苏夫绣：反面起针的计数缎纹，人字、菱形、阶梯三角与镜像树纹密铺土布；非镜片绣、非兰巴尼钱币镜饰、非拉巴里绣。",
+    "source": "hermes-explore",
+    "image": "styles/3596-soof-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3554",
+    "slug": "sambalpuri",
+    "name_en": "Sambalpuri",
+    "name_zh": "桑巴尔普里絣",
+    "description_en": "Odisha Sambalpuri bandha ikat: tied-resist warp and weft with feathered edges on fish, conch, rudraksha, and passapalli checkers in maroon, black, ivory, turmeric. Not Pochampally Telangana geometry, not Patola Gujarat tight double-ikat.",
+    "description_zh": "奥里萨桑巴尔普里絣：经纬扎染羽化边缘，鱼、螺、念珠与帕萨帕利棋格，褐红黑象牙姜黄；非波昌帕利几何、非帕托拉紧致双絣。",
+    "source": "hermes-explore",
+    "image": "styles/3597-sambalpuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3555",
+    "slug": "rose-point",
+    "name_en": "Rose Point",
+    "name_zh": "玫瑰点蕾丝",
+    "description_en": "Venetian rose-point needle lace: raised cordonnet petals stacked into tiny roses, picot brides, ivory linen thread. Not gros point de Venise heavy scrolling, not point de neige snow dots, not point de gaze hexagonal gauze.",
+    "description_zh": "威尼斯玫瑰点针蕾丝：凸起绳边花瓣叠成小玫瑰、皮科桥、象牙亚麻线；非威尼斯粗针大涡卷、非雪点蕾丝、非纱地六角网。",
+    "source": "hermes-explore",
+    "image": "styles/3598-rose-point.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
