@@ -9818,6 +9818,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3543, PNG count 3543. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 701 (exactly 5, h3501–h3505)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3501 | Mashrabiya              | 马什拉比亚       | styles/3544-mashrabiya.png              |
+| h3502 | Silhouette Animation    | 剪影动画         | styles/3545-silhouette-animation.png    |
+| h3503 | Verre Floué             | 雾化玻璃         | styles/3546-verre-floue.png             |
+| h3504 | Unryu Collage           | 云龙纸拼贴       | styles/3547-unryu-collage.png           |
+| h3505 | Toleware                | 托尔彩绘         | styles/3548-toleware.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3548, PNG count 3548. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

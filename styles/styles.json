@@ -46057,5 +46057,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3501",
+    "slug": "mashrabiya",
+    "name_en": "Mashrabiya",
+    "name_zh": "马什拉比亚",
+    "description_en": "Mashrabiya: turned-wood lattice of spindles, stars and octagons; pierced screens fracturing sunlight into honeyed geometry. Not mashrabiya-as-furniture catalog, not generic arabesque tile, not jali stone screen.",
+    "description_zh": "马什拉比亚：车木棂格、星形与八边形、镂空木屏把日光切成蜜色几何；非窗格家具图录、非通用阿拉伯纹砖、非贾利石屏。",
+    "source": "hermes-explore",
+    "image": "styles/3544-mashrabiya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3502",
+    "slug": "silhouette-animation",
+    "name_en": "Silhouette Animation",
+    "name_zh": "剪影动画",
+    "description_en": "Silhouette animation: hinged black paper-cut figures on backlight, colored gel planes, scissor-cut profiles with no interior modeling. Not ink silhouette portrait, not shadow-puppet wayang, not live-action contre-jour.",
+    "description_zh": "剪影动画：铰接黑纸剪影、背光与彩胶层、剪刀轮廓无内部塑形；非墨绘侧影肖像、非瓦扬皮影、非实拍逆光剪影。",
+    "source": "hermes-explore",
+    "image": "styles/3545-silhouette-animation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3503",
+    "slug": "verre-floue",
+    "name_en": "Verre Floué",
+    "name_zh": "雾化玻璃",
+    "description_en": "Verre floué: acid-frosted / sandblasted glass picture plane — milky translucency, grinding grain, light trapped in the pane. Not condensation-on-window photo, not Vaseline-on-lens soft focus, not etched stained glass.",
+    "description_zh": "雾化玻璃：酸蚀/喷砂磨砂玻璃画平面，乳浊透光、研磨颗粒、光困在玻璃体内；非窗上凝水照片、非镜头涂脂柔焦、非蚀刻彩绘玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3546-verre-floue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3504",
+    "slug": "unryu-collage",
+    "name_en": "Unryu Collage",
+    "name_zh": "云龙纸拼贴",
+    "description_en": "Unryu collage: cloud-dragon washi with long kozo fibers swimming through torn layered sheets, deckle edges, ink soaking the fiber web. Not smooth watercolor paper, not chine-collé print transfer, not ordinary tissue collage.",
+    "description_zh": "云龙纸拼贴：长楮纤维游走的云龙和纸、撕裂叠层、毛边、墨渗入纤维网；非平滑水彩纸、非薄纸拼贴版画转印、非普通薄棉纸拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/3547-unryu-collage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3505",
+    "slug": "toleware",
+    "name_en": "Toleware",
+    "name_zh": "托尔彩绘",
+    "description_en": "Toleware: japanned tin painting — glossy black ground, one-stroke leaves, gold pinstriping, raised oil on metal. Not porcelain china painting, not reverse-glass eglomise, not folk wood rosemaling.",
+    "description_zh": "托尔彩绘：漆黑铁皮画，亮光黑地、一笔画叶、金线描边、油彩微凸于金属上；非瓷上彩、非玻璃背面贴金、非木器玫瑰彩绘。",
+    "source": "hermes-explore",
+    "image": "styles/3548-toleware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
