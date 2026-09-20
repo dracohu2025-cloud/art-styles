@@ -46902,5 +46902,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3566",
+    "slug": "vyaz",
+    "name_en": "Vyaz",
+    "name_zh": "维亚兹连写",
+    "description_en": "Slavic Vyaz (вязь): compressed stacked ligature mesh, knotted continuous letter-ribbons, ornamental Cyrillic book-hand fusion. Not typesetting, not Celtic knotwork, not Kufic.",
+    "description_zh": "斯拉夫维亚兹连写：压缩叠字、连笔韧带网、装饰西里尔书体融合；非排印、非凯尔特结、非库法体。",
+    "source": "hermes-explore",
+    "image": "styles/3609-vyaz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3567",
+    "slug": "wriggle-work",
+    "name_en": "Wriggle Work",
+    "name_zh": "扭凿雕",
+    "description_en": "Silversmith wriggle-work: wriggled graver walking in tight zigzag furrows, chevron sparkle on metal. Not crosshatch drawing, not engine-turning, not textile herringbone.",
+    "description_zh": "银匠扭凿雕：扭摆刻刀走出细密锯齿沟、金属人字闪光；非素描交叉线、非机械雕花、非织物人字纹。",
+    "source": "hermes-explore",
+    "image": "styles/3610-wriggle-work.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3568",
+    "slug": "anglage",
+    "name_en": "Anglage",
+    "name_zh": "倒棱精修",
+    "description_en": "Haute-horology anglage: inner angles beveled and mirror-polished, sharp inward corners, black-polish facets. Not a wristwatch product shot, not CNC mill texture.",
+    "description_zh": "高级制表倒棱精修：内角倒棱并镜面抛光、锐利内拐、黑抛棱面；非腕表产品照、非数控铣纹。",
+    "source": "hermes-explore",
+    "image": "styles/3611-anglage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3569",
+    "slug": "synclastic-raising",
+    "name_en": "Synclastic Raising",
+    "name_zh": "同向曲锻",
+    "description_en": "Synclastic raising: sheet metal hammered so both axes curve the same way into continuous convex dome curvature, planishing facets. Not anticlastic saddle curves, not metal spinning.",
+    "description_zh": "同向曲锻：钣金两轴同向弯成连续凸穹、锤光棱面；非异向马鞍曲、非旋压。",
+    "source": "hermes-explore",
+    "image": "styles/3612-synclastic-raising.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3570",
+    "slug": "coptic-uncial",
+    "name_en": "Coptic Uncial",
+    "name_zh": "科普特安色尔",
+    "description_en": "Coptic uncial book-hand: round upright thick-and-thin Sahidic majuscules in brown-black ink on parchment. Not Latin uncial, not Coptic tapestry, not hieroglyphs.",
+    "description_zh": "科普特安色尔书体：圆阔竖立、粗细对比的萨希德语大写，褐黑墨于羊皮；非拉丁安色尔、非科普特织锦、非象形字。",
+    "source": "hermes-explore",
+    "image": "styles/3613-coptic-uncial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
