@@ -46967,5 +46967,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3571",
+    "slug": "goniochromism",
+    "name_en": "Goniochromism",
+    "name_zh": "随角异色",
+    "description_en": "Angle-dependent structural color: interference flakes that flip cyan–magenta–gold across curvature. Not pearlescent wash, not holographic foil stamp, not soap-bubble overlay.",
+    "description_zh": "随角异色结构色：曲面上青–品红–金翻转的干涉微片；非珠光罩染、非全息烫箔、非肥皂泡贴图。",
+    "source": "hermes-explore",
+    "image": "styles/3614-goniochromism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3572",
+    "slug": "gestetner",
+    "name_en": "Gestetner",
+    "name_zh": "盖斯纳油印",
+    "description_en": "Gestetner stencil duplicator: wax-stencil bridges, roller soak into fibrous paper, limited blue-black plus dull red, slight misregister. Not mimeograph purple, not silkscreen, not clean offset.",
+    "description_zh": "盖斯纳蜡纸油印：网桥残痕、纤维纸吸墨、蓝黑加钝红、轻微套准偏移；非油印紫、非丝网、非干净胶印。",
+    "source": "hermes-explore",
+    "image": "styles/3615-gestetner.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3573",
+    "slug": "backrun-bloom",
+    "name_en": "Backrun Bloom",
+    "name_zh": "回流花斑",
+    "description_en": "Watercolor cauliflower backruns: wet-into-wet blooms with pale centers and darker scalloped rings. Not granulating wash, not wet-on-dry edges, not gouache.",
+    "description_zh": "水彩回流花斑：湿碰湿形成浅心深边的花椰菜环；非颗粒沉淀、非干边、非水粉。",
+    "source": "hermes-explore",
+    "image": "styles/3616-backrun-bloom.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3574",
+    "slug": "aperture-grille",
+    "name_en": "Aperture Grille",
+    "name_zh": "孔径栅格",
+    "description_en": "Aperture-grille CRT: vertical RGB phosphor columns and fine grille wires, full-bleed. Not shadow-mask dots, not LCD subpixels, not a photographed TV bezel.",
+    "description_zh": "孔径栅格显像：满幅竖直RGB荧光条与细栅丝；非荫罩圆点、非液晶亚像素、非带边框的电视机照片。",
+    "source": "hermes-explore",
+    "image": "styles/3617-aperture-grille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3575",
+    "slug": "oscilloscope-draw",
+    "name_en": "Oscilloscope Draw",
+    "name_zh": "示波器描绘",
+    "description_en": "Analog vector oscilloscope drawing: green phosphor traces, persistence bloom, Lissajous thickness on black. Not raster CRT, not neon signage, not ASCII.",
+    "description_zh": "模拟矢量示波器描绘：黑底绿磷光描线、余辉晕与利萨如粗细变化；非光栅CRT、非霓虹招牌、非ASCII。",
+    "source": "hermes-explore",
+    "image": "styles/3618-oscilloscope-draw.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
