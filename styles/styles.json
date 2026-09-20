@@ -46252,5 +46252,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3516",
+    "slug": "opus-mixtum",
+    "name_en": "Opus Mixtum",
+    "name_zh": "混合砌工",
+    "description_en": "Opus mixtum: Roman mixed wall facing of brick bands, tufa, opus incertum rubble and reticulatum diamond net with lime mortar joints. Not fresco illusion, not mosaic tesserae as the system, not a ruin photograph as subject.",
+    "description_zh": "混合砌工：罗马砖带、凝灰岩、不规则砌石与网状砌面交替，石灰砂浆缝；非湿壁画错觉、非以马赛克嵌片为体系、非以废墟照片当题材。",
+    "source": "hermes-explore",
+    "image": "styles/3559-opus-mixtum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3517",
+    "slug": "go-motion",
+    "name_en": "Go-motion",
+    "name_zh": "动态定格",
+    "description_en": "Go-motion: stop-motion puppetry with programmed motion-blur on moving parts, foam-latex tactility and cinematic grain. Not smooth CGI, not 2D animation, not static clay stills.",
+    "description_zh": "动态定格：定格木偶在运动部件上做程序运动模糊，泡沫乳胶质感与胶片颗粒；非光滑三维、非二维动画、非静态黏土静帧。",
+    "source": "hermes-explore",
+    "image": "styles/3560-go-motion.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3518",
+    "slug": "schufftan-process",
+    "name_en": "Schüfftan Process",
+    "name_zh": "许夫坦合成",
+    "description_en": "Schüfftan process: 1920s in-camera half-silvered mirror composite of a live figure with miniature architecture, orthochromatic silver-gelatin contrast. Not greenscreen, not digital matte painting, not full-miniature tilt-shift.",
+    "description_zh": "许夫坦合成：1920年代半镀银镜面把真人与微缩建筑合于一镜，正色银盐反差；非绿幕、非数字绘景、非全微缩移轴。",
+    "source": "hermes-explore",
+    "image": "styles/3561-schufftan-process.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3519",
+    "slug": "lambani",
+    "name_en": "Lambani",
+    "name_zh": "兰巴尼绣",
+    "description_en": "Lambani: Banjara embroidery of shisha mirrors, cowries, coins, chain stitch and herringbone in saturated red, mango and peacock on dark cloth. Not printed pattern, not fashion photography, not generic illustration.",
+    "description_zh": "兰巴尼绣：班贾拉镜片、贝壳、钱币、链绣与人字绣，暗底上朱红、芒果与孔雀色；非印花图案、非时装摄影、非普通插画。",
+    "source": "hermes-explore",
+    "image": "styles/3562-lambani.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3520",
+    "slug": "codex-style",
+    "name_en": "Codex-style",
+    "name_zh": "抄本陶绘",
+    "description_en": "Codex-style: Maya ceramic painting on cream slip with calligraphic iron-black line and sparse red and Maya-blue accents, vessel composition unrolled to a wide frame. Not Palenque mural polychrome, not stone relief, not glyph-as-subject souvenir.",
+    "description_zh": "抄本陶绘：玛雅陶器乳白化妆土、铁黑书法线与少量红、玛雅蓝，器表展开为宽幅；非帕伦克壁画重彩、非石刻浮雕、非以铭文当题材的旅游品。",
+    "source": "hermes-explore",
+    "image": "styles/3563-codex-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

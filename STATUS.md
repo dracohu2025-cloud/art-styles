@@ -9860,6 +9860,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3558, PNG count 3558. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 704 (exactly 5, h3516–h3520)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3516 | Opus Mixtum             | 混合砌工         | styles/3559-opus-mixtum.png             |
+| h3517 | Go-motion               | 动态定格         | styles/3560-go-motion.png               |
+| h3518 | Schüfftan Process       | 许夫坦合成       | styles/3561-schufftan-process.png       |
+| h3519 | Lambani                 | 兰巴尼绣         | styles/3562-lambani.png                 |
+| h3520 | Codex-style             | 抄本陶绘         | styles/3563-codex-style.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3563, PNG count 3563. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
