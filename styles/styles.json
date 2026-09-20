@@ -46837,5 +46837,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3561",
+    "slug": "insular-majuscule",
+    "name_en": "Insular Majuscule",
+    "name_zh": "海岛大写体",
+    "description_en": "Insular majuscule: half-uncial-derived rounded capitals, wedge terminals, red-dot punctuation, dotted contours, orpiment-verdigris-minium on vellum. Not uncial, not Carolingian minuscule, not capitalis quadrata.",
+    "description_zh": "海岛大写体：半安色尔衍生圆资本、楔形收笔、红点标点、点状轮廓、雌黄-铜绿-铅丹绘于犊皮纸；非安色尔、非加洛林小写、非方资本体。",
+    "source": "hermes-explore",
+    "image": "styles/3604-insular-majuscule.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3562",
+    "slug": "rustic-capitals",
+    "name_en": "Rustic Capitals",
+    "name_zh": "乡体大写",
+    "description_en": "Roman capitalis rustica: tall condensed reed-pen capitals, thick-thin shade, informal serifs, Pompeian red and carbon black on plaster. Not square capitals, not uncial, not Trajanic monumental letters.",
+    "description_zh": "罗马乡体大写：高瘦芦管笔资本、粗细对比、随意衬线、庞贝红与炭黑绘于灰泥；非方资本、非安色尔、非图拉真碑铭体。",
+    "source": "hermes-explore",
+    "image": "styles/3605-rustic-capitals.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3563",
+    "slug": "hieratic",
+    "name_en": "Hieratic",
+    "name_zh": "僧侣体",
+    "description_en": "Egyptian hieratic: rapid reed-brush cursive on papyrus, carbon ink, abbreviated ligatured signs, ochre and red rubric rules. Not monumental hieroglyphs, not demotic, not Coptic uncial.",
+    "description_zh": "埃及僧侣体：芦管笔疾书纸草、炭墨、简省连写符号、赭与朱红栏线；非纪念碑象形、非世俗体、非科普特安色尔。",
+    "source": "hermes-explore",
+    "image": "styles/3606-hieratic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3564",
+    "slug": "egyptian-blue",
+    "name_en": "Egyptian Blue",
+    "name_zh": "埃及蓝",
+    "description_en": "Egyptian blue frit: grainy calcium-copper-silicate crystals, matte luminous turquoise-to-deep-blue mural, gypsum and ochre. Not Maya blue, not lapis ultramarine, not smalt.",
+    "description_zh": "埃及蓝熔块：粒状硅酸铜钙晶体、哑光青绿至深蓝壁画、石膏与赭石；非玛雅蓝、非青金石群青、非碎钴玻蓝。",
+    "source": "hermes-explore",
+    "image": "styles/3607-egyptian-blue.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3565",
+    "slug": "craquele-glass",
+    "name_en": "Craquelé Glass",
+    "name_zh": "开片玻璃",
+    "description_en": "Craquelé glass (vetro a ghiaccio): thermal-shock crackle network, trapped air, ice-shard refraction, frosted inner fractures. Not paint craquelure, not manière craquelée, not ceramic crackle glaze.",
+    "description_zh": "开片玻璃（冰裂纹玻璃）：热震裂纹网、夹气、冰屑折射、内霜裂；非油漆开裂、非裂纹蚀刻版画、非陶瓷开片釉。",
+    "source": "hermes-explore",
+    "image": "styles/3608-craquele-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

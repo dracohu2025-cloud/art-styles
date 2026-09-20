@@ -9986,6 +9986,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3603, PNG count 3603. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 713 (exactly 5, h3561–h3565)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3561 | Insular Majuscule       | 海岛大写体       | styles/3604-insular-majuscule.png       |
+| h3562 | Rustic Capitals         | 乡体大写         | styles/3605-rustic-capitals.png         |
+| h3563 | Hieratic                | 僧侣体           | styles/3606-hieratic.png                |
+| h3564 | Egyptian Blue           | 埃及蓝           | styles/3607-egyptian-blue.png           |
+| h3565 | Craquelé Glass          | 开片玻璃         | styles/3608-craquele-glass.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3608, PNG count 3608. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
