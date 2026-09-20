@@ -44692,5 +44692,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3396",
+    "slug": "three-strip-technicolor",
+    "name_en": "Three-strip Technicolor",
+    "name_zh": "三条特艺彩",
+    "description_en": "Three-strip Technicolor: dye-imbibition from separate RGB matrices — hyper-saturated primaries, slight channel fringe, velvet blacks; not two-strip orange-cyan, not digital grade, not hand-tint.",
+    "description_zh": "三条特艺彩：红绿蓝分色基质染料吸印，高饱和原色、轻微套色错边、丝绒黑；非双条橙青、非数字调色、非手工上色。",
+    "source": "hermes-explore",
+    "image": "styles/3439-three-strip-technicolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3397",
+    "slug": "soga-batik",
+    "name_en": "Soga Batik",
+    "name_zh": "索加蜡染",
+    "description_en": "Soga batik: Central Javanese wax-resist in soga plant browns — cream ground, remukan crackle, canting isen fillers; not bright pesisir batik, not cap-stamp geometry, not generic rainbow wax print.",
+    "description_zh": "索加蜡染：中爪哇植物褐染料防染，米色地、蜡裂、康丁填纹；非北岸鲜彩蜡染、非铜戳几何、非通用彩虹蜡印。",
+    "source": "hermes-explore",
+    "image": "styles/3440-soga-batik.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3398",
+    "slug": "cadels",
+    "name_en": "Cadels",
+    "name_zh": "花结大写",
+    "description_en": "Cadels: late-medieval cadel capitals — dense strapwork knot letters, iron-gall black with vermilion, hairline pen-trails on parchment; not uncial, not white-vine, not Insular carpet-page.",
+    "description_zh": "花结大写：晚期中世纪花结装饰大写，皮带结字、铁胆黑加朱红、羊皮纸发丝笔锋；非安色尔、非白藤纹、非岛风地毯页。",
+    "source": "hermes-explore",
+    "image": "styles/3441-cadels.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3399",
+    "slug": "strewn-border",
+    "name_en": "Strewn Border",
+    "name_zh": "散花边饰",
+    "description_en": "Strewn border: Ghent–Bruges scattered-border illumination — trompe-l'oeil flowers and insects with cast shadows on vellum, gold dots; not carpet-page interlace, not white-vine, not historiated initial.",
+    "description_zh": "散花边饰：根特–布鲁日散点边栏，花朵昆虫投影于犊皮纸、金点；非地毯页缠绕、非白藤纹、非情节字首。",
+    "source": "hermes-explore",
+    "image": "styles/3442-strewn-border.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3400",
+    "slug": "fat-face",
+    "name_en": "Fat Face",
+    "name_zh": "粗衬线体",
+    "description_en": "Fat Face: Regency ultra-bold Didone display type as letterpress poster — inflated verticals, hairline serifs, oil-black bite on cream stock; not Clarendon, not book Didone, not modern sans.",
+    "description_zh": "粗衬线体：摄政期超粗迪多海报活字，膨胀竖画、发丝衬线、油墨压入米色纸；非克拉伦登、非书籍迪多、非现代无衬线。",
+    "source": "hermes-explore",
+    "image": "styles/3443-fat-face.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
