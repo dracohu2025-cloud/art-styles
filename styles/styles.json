@@ -46447,5 +46447,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3531",
+    "slug": "gol-o-morgh",
+    "name_en": "Gol-o-morgh",
+    "name_zh": "花鸟细密",
+    "description_en": "Gol-o-morgh: Persian bird-and-flower painting in opaque watercolor and shell gold on ivory paper, jewel-like blossoms and songbirds with fine outlines. Not Mughal court portrait, not Chinese gongbi, not European still-life oil.",
+    "description_zh": "花鸟细密：波斯花鸟细密画，象牙纸上不透明水彩与贝壳金，宝石色花卉与鸣禽、细线勾勒；非莫卧儿宫廷肖像、非中国工笔、非欧洲静物油画。",
+    "source": "hermes-explore",
+    "image": "styles/3574-gol-o-morgh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3532",
+    "slug": "honzome",
+    "name_en": "Honzome",
+    "name_zh": "本染",
+    "description_en": "Honzome: Japanese true vat dyeing that soaks plant color through the cloth, soft dye bloom and fiber tooth, indigo, madder, and khaki reserves. Not katazome stencil print, not digital textile, not ukiyo-e woodblock.",
+    "description_zh": "本染：日本真染，植物染料吃透纤维，边缘晕染与布纹齿感，靛蓝、茜红与柿褐留白；非型染模印、非数码面料、非浮世绘木版。",
+    "source": "hermes-explore",
+    "image": "styles/3575-honzome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3533",
+    "slug": "marmotinto",
+    "name_en": "Marmotinto",
+    "name_zh": "散沙画",
+    "description_en": "Marmotinto: Georgian sand picture of sprinkled colored marble dust and mineral grains on a glued ground, sugar-like particles with no brushstroke. Not pointillism, not bead mosaic, not a digital grain filter.",
+    "description_zh": "散沙画：乔治时期桌饰沙画，彩色大理石粉与矿物砂洒在胶地上，砂糖般颗粒而无笔触；非点彩、非珠粒镶嵌、非数码噪点滤镜。",
+    "source": "hermes-explore",
+    "image": "styles/3576-marmotinto.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3534",
+    "slug": "inhabited-initial",
+    "name_en": "Inhabited Initial",
+    "name_zh": "栖居花字",
+    "description_en": "Inhabited initial: medieval manuscript letter whose bowls and stems are dwelling-places for figures, beasts, and biting foliage in burnished gold, bole, lapis, and malachite on vellum. Not a historiated boxed narrative, not a logo, not tattoo flash.",
+    "description_zh": "栖居花字：中世纪手稿花字，字腔与字干里住着人物、走兽与咬叶纹，抛光金箔、红地、青金与孔雀石画在羊皮上；非叙事花字框景、非标志、非纹身稿。",
+    "source": "hermes-explore",
+    "image": "styles/3577-inhabited-initial.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3535",
+    "slug": "sarlawh",
+    "name_en": "Sarlawh",
+    "name_zh": "卷首彩饰",
+    "description_en": "Sarlawh: Persian–Mughal illuminated headpiece, a rectangular panel of palmette arabesque on lapis with burnished gold, cloud-bands, and ruled jadval borders. Not a plain portrait with a thin frame, not Ottoman tezhip, not tile mosaic.",
+    "description_zh": "卷首彩饰：波斯—莫卧儿手稿卷首彩饰，青金地上棕叶缠枝、抛光金、云带与金红蓝栏线；非薄边框肖像、非奥斯曼贴兹希普、非瓷砖马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/3578-sarlawh.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

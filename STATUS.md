@@ -9902,6 +9902,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3573, PNG count 3573. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 707 (exactly 5, h3531–h3535)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3531 | Gol-o-morgh             | 花鸟细密         | styles/3574-gol-o-morgh.png             |
+| h3532 | Honzome                 | 本染             | styles/3575-honzome.png                 |
+| h3533 | Marmotinto              | 散沙画           | styles/3576-marmotinto.png              |
+| h3534 | Inhabited Initial       | 栖居花字         | styles/3577-inhabited-initial.png       |
+| h3535 | Sarlawh                 | 卷首彩饰         | styles/3578-sarlawh.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3578, PNG count 3578. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
