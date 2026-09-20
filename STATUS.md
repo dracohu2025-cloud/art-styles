@@ -9692,6 +9692,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3498, PNG count 3498. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 692 (exactly 5, h3456–h3460)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh         | image                                 |
+|-------|---------------------|-----------------|---------------------------------------|
+| h3456 | Verito              | 韦里托柔焦      | styles/3499-verito.png                |
+| h3457 | Dagor               | 达戈对称        | styles/3500-dagor.png                 |
+| h3458 | Rainbow Hologram    | 彩虹全息        | styles/3501-rainbow-hologram.png      |
+| h3459 | Venetian Gros Point | 威尼斯粗点花边  | styles/3502-venetian-gros-point.png   |
+| h3460 | Tambour Beading     | 绷鼓珠绣        | styles/3503-tambour-beading.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3503, PNG count 3503. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

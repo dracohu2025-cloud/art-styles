@@ -45472,5 +45472,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3456",
+    "slug": "verito",
+    "name_en": "Verito",
+    "name_zh": "韦里托柔焦",
+    "description_en": "Verito: Wollensak pictorialist soft-focus — creamy spherical-aberration glow, sharp facial core with milky halated highlights, 1910s–20s large-format drawing; not Thambar, not Imagon, not Gaussian blur, not digital beauty filter.",
+    "description_zh": "韦里托柔焦：沃伦萨克画意柔焦，球面像差乳光、面部核心仍锐、高光晕化，1910–20年代大画幅；非坦巴、非伊马贡、非高斯模糊、非数码美颜。",
+    "source": "hermes-explore",
+    "image": "styles/3499-verito.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3457",
+    "slug": "dagor",
+    "name_en": "Dagor",
+    "name_zh": "达戈对称",
+    "description_en": "Dagor: Goerz double-anastigmat rendering — round three-dimensional modeling, snappy microcontrast, circular highlights, airy corner falloff, 1900s–30s large-format pop; not Petzval swirl, not Helios, not clinical modern zoom.",
+    "description_zh": "达戈对称：戈尔茨双消像散，圆润立体塑形、微反差利落、圆形高光、边角柔落，1900–30年代大画幅纵深；非匹兹伐旋涡、非赫利俄斯、非现代冷锐变焦。",
+    "source": "hermes-explore",
+    "image": "styles/3500-dagor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3458",
+    "slug": "rainbow-hologram",
+    "name_en": "Rainbow Hologram",
+    "name_zh": "彩虹全息",
+    "description_en": "Rainbow Hologram: Benton white-light hologram — laser-speckle grain, interference fringes, spectral rainbow shifting across a volumetric reconstruction; not iridescent paint, not CD rainbow overlay, not prism flare.",
+    "description_zh": "彩虹全息：本顿白光全息，激光散斑、干涉条纹、光谱彩虹随形体游移的体积再现；非彩虹漆、非光盘炫彩叠层、非棱镜眩光。",
+    "source": "hermes-explore",
+    "image": "styles/3501-rainbow-hologram.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3459",
+    "slug": "venetian-gros-point",
+    "name_en": "Venetian Gros Point",
+    "name_zh": "威尼斯粗点花边",
+    "description_en": "Venetian Gros Point: raised needle lace — padded cordonnet outlines, dense baroque floral fills, picots and brides, sculptural ivory linen-thread relief; not Chantilly flat tulle, not crochet, not a lace garment photo.",
+    "description_zh": "威尼斯粗点花边：凸起针绣花边，加垫轮廓线、巴洛克密花填芯、齿状与桥线、牙白色亚麻线浮雕；非尚蒂伊薄纱、非钩针、非蕾丝成衣照片。",
+    "source": "hermes-explore",
+    "image": "styles/3502-venetian-gros-point.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3460",
+    "slug": "tambour-beading",
+    "name_en": "Tambour Beading",
+    "name_zh": "绷鼓珠绣",
+    "description_en": "Tambour Beading: Lunéville hook chain-stitch on tulle with couched seed beads and sequins as the drawing medium; glittering couture surface, not a fashion lookbook, not product photography of a beaded dress.",
+    "description_zh": "绷鼓珠绣：吕内维尔钩针在薄纱上链式锁缝，钉缀米珠与亮片作为造型媒介，高定时装表面；非时装大片、非珠绣成衣产品照。",
+    "source": "hermes-explore",
+    "image": "styles/3503-tambour-beading.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
