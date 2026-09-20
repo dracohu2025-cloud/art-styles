@@ -44757,5 +44757,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3401",
+    "slug": "kyo-nuri",
+    "name_en": "Kyo-nuri",
+    "name_zh": "京涂",
+    "description_en": "Kyo-nuri: Kyoto lacquer as mirror-black roiro with vermilion accents and hair-thin gold hira-maki-e — wet polished depth, not Wajima chinkin, not Tsugaru kawari-nuri, not Negoro wear.",
+    "description_zh": "京涂：京都漆艺，镜面黑蝋色、朱红点缀、发丝平莳绘金线，湿润抛光深度；非轮岛沉金、非津轻变涂、非根来磨损。",
+    "source": "hermes-explore",
+    "image": "styles/3444-kyo-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3402",
+    "slug": "fujicolor",
+    "name_en": "Fujicolor",
+    "name_zh": "富士彩负",
+    "description_en": "Fujicolor: C-41 color-negative print science — warm honey skin, cyan-green shadows, magenta reds, fine grain and creamy highlight roll-off; not Fujichrome slide, not Kodacolor, not Ektar.",
+    "description_zh": "富士彩负：C-41负片相纸色科，蜜金肤色、青绿阴影、品红偏红、细颗粒与奶油高光；非富士反转、非柯达彩负、非埃克塔。",
+    "source": "hermes-explore",
+    "image": "styles/3445-fujicolor.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3403",
+    "slug": "aemilia-ars",
+    "name_en": "Aemilia Ars",
+    "name_zh": "艾米利亚针绣",
+    "description_en": "Aemilia Ars: Bologna needle-lace revival — ivory linen, punto avorio fills, geometric reticella grounds and raised cordonnet on dark cloth; not Venetian rose point, not Burano, not Duchesse bobbin.",
+    "description_zh": "艾米利亚针绣：博洛尼亚针绣复兴，象牙亚麻、象牙针填、几何网格地与凸起轮廓线；非威尼斯玫瑰针、非布拉诺、非公爵夫人梭结。",
+    "source": "hermes-explore",
+    "image": "styles/3446-aemilia-ars.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3404",
+    "slug": "tokyo-zome",
+    "name_en": "Tokyo-zome",
+    "name_zh": "东京染",
+    "description_en": "Tokyo-zome: Edo/Tokyo dyeing — fine komon-scale repeats, crisp stencil edges, asagi blue, greige and ink with a small beni accent on chirimen; not Kyo-zome pictorial yuzen, not Oshima mud-dye, not bingata.",
+    "description_zh": "东京染：江户/东京染色，细小小纹反复、型染利落边缘、浅葱与灰米色加一处红点；非京染友禅绘画、非大岛泥染、非红型。",
+    "source": "hermes-explore",
+    "image": "styles/3447-tokyo-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3405",
+    "slug": "rep-weave",
+    "name_en": "Rep Weave",
+    "name_zh": "棱纹织",
+    "description_en": "Rep weave: warp-faced repp with packed thick weft ribs and color-and-weave bands — dry horizontal rib across the whole field; not satin, not gobelin weft-face tapestry, not ikat.",
+    "description_zh": "棱纹织：经面棱纹，粗纬打紧成横向罗纹与色织条带，满幅干爽棱纹；非缎纹、非戈布兰纬面挂毯、非絣织。",
+    "source": "hermes-explore",
+    "image": "styles/3448-rep-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

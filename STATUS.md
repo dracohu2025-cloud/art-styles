@@ -9538,6 +9538,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3443, PNG count 3443. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 681 (exactly 5, h3401–h3405)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en     | name_zh         | image                          |
+|-------|-------------|-----------------|--------------------------------|
+| h3401 | Kyo-nuri    | 京涂            | styles/3444-kyo-nuri.png       |
+| h3402 | Fujicolor   | 富士彩负        | styles/3445-fujicolor.png      |
+| h3403 | Aemilia Ars | 艾米利亚针绣    | styles/3446-aemilia-ars.png    |
+| h3404 | Tokyo-zome  | 东京染          | styles/3447-tokyo-zome.png     |
+| h3405 | Rep Weave   | 棱纹织          | styles/3448-rep-weave.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3448, PNG count 3448. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
