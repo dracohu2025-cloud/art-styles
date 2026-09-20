@@ -9748,6 +9748,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3518, PNG count 3518. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 696 (exactly 5, h3476–h3480)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh           | image                                  |
+|-------|-----------------------|-------------------|----------------------------------------|
+| h3476 | Cavalier Perspective  | 骑兵透视          | styles/3519-cavalier-perspective.png   |
+| h3477 | Crayon Resist         | 蜡笔防染          | styles/3520-crayon-resist.png          |
+| h3478 | Gum Arabic Wash       | 阿拉伯树胶罩染    | styles/3521-gum-arabic-wash.png        |
+| h3479 | Isoline               | 等高线描          | styles/3522-isoline.png                |
+| h3480 | Vacuum Fluorescent    | 真空荧光          | styles/3523-vacuum-fluorescent.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3523, PNG count 3523. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

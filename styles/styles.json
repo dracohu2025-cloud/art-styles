@@ -45732,5 +45732,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3476",
+    "slug": "cavalier-perspective",
+    "name_en": "Cavalier Perspective",
+    "name_zh": "骑兵透视",
+    "description_en": "Cavalier Perspective: oblique projection with a true, unforeshortened front plane and a 45-degree receding axis at full scale; parallels stay parallel. Not isometric 30-degree, not 1-point linear perspective, not a 3D camera render.",
+    "description_zh": "骑兵透视：正面不缩短、后退轴45度且等长的斜投影，平行线保持平行；非30度等轴测、非一点线性透视、非三维相机渲染。",
+    "source": "hermes-explore",
+    "image": "styles/3519-cavalier-perspective.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3477",
+    "slug": "crayon-resist",
+    "name_en": "Crayon Resist",
+    "name_zh": "蜡笔防染",
+    "description_en": "Crayon Resist: waxy crayon drawn first so watercolor or ink wash beads off the wax, leaving broken crayon tracks, skipped wash and paper tooth. Not batik on cloth, not oil pastel, not watercolor alone.",
+    "description_zh": "蜡笔防染：先画蜡笔再覆水彩或墨水，颜料在蜡上聚拒，留下断续蜡痕、跳洗与纸纹；非布面蜡染、非油性粉彩、非单纯水彩。",
+    "source": "hermes-explore",
+    "image": "styles/3520-crayon-resist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3478",
+    "slug": "gum-arabic-wash",
+    "name_en": "Gum Arabic Wash",
+    "name_zh": "阿拉伯树胶罩染",
+    "description_en": "Gum Arabic Wash: transparent watercolor bound with visible gum arabic — granulation, hard watermarks, layered glazes and a dried gum sheen. Not opaque gouache, not sumi-e ink wash, not gum bichromate photography.",
+    "description_zh": "阿拉伯树胶罩染：以可见树胶为媒介的透明水彩，颗粒沉淀、硬水印边、层层罩染与干胶光泽；非不透明水粉、非水墨、非树胶重铬酸盐摄影。",
+    "source": "hermes-explore",
+    "image": "styles/3521-gum-arabic-wash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3479",
+    "slug": "isoline",
+    "name_en": "Isoline",
+    "name_zh": "等高线描",
+    "description_en": "Isoline: form built only from nested equal-interval contour lines, like a topographic heightfield wrapping the figure; density encodes volume. Not contour hatching, not 3D wireframe, not a map as the subject.",
+    "description_zh": "等高线描：形体仅由等间距闭合等高线构成，如高程场包裹人物，疏密编码体积；非轮廓排线、非三维线框、非以地图为题材。",
+    "source": "hermes-explore",
+    "image": "styles/3522-isoline.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3480",
+    "slug": "vacuum-fluorescent",
+    "name_en": "Vacuum Fluorescent",
+    "name_zh": "真空荧光",
+    "description_en": "Vacuum Fluorescent: teal-cyan phosphor glow on dark vacuum-tube glass, segmented filaments and glass-envelope bloom. Not neon tubing, not nixie orange, not OLED.",
+    "description_zh": "真空荧光：暗色真空管玻璃上的青绿荧光粉发光，分段灯丝与玻壳晕光；非霓虹灯管、非辉光管橙红、非OLED。",
+    "source": "hermes-explore",
+    "image": "styles/3523-vacuum-fluorescent.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
