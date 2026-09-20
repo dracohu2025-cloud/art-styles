@@ -46382,5 +46382,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3526",
+    "slug": "aoban-e",
+    "name_en": "Aoban-e",
+    "name_zh": "青版绘",
+    "description_en": "Aoban-e: 1820s ukiyo-e printed in imported Prussian blue (bero-ai) from a keyblock plus one or two blue blocks, bokashi skies and woodgrain in the blue fields. Not nishiki-e polychrome, not cyanotype, not a digital blue grade.",
+    "description_zh": "青版绘：十九世纪二十年代用进口普鲁士蓝（ベロ蓝）印的浮世绘，主版加一两块蓝版，天空晕染、蓝地可见木纹；非锦绘全彩、非蓝晒、非数码偏蓝。",
+    "source": "hermes-explore",
+    "image": "styles/3569-aoban-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3527",
+    "slug": "sciography",
+    "name_en": "Sciography",
+    "name_zh": "投影阴影法",
+    "description_en": "Sciography: Beaux-Arts constructed shade-and-shadow, 45-degree conventional light, umbra and penumbra plotted with ruling pen and ink wash on vellum. Not cinematic chiaroscuro, not noir photography, not freehand charcoal.",
+    "description_zh": "投影阴影法：学院派按惯例四十五度光源推算投影，用鸭嘴笔与墨渲染画出本影半影；非电影明暗法、非黑色电影摄影、非自由炭笔。",
+    "source": "hermes-explore",
+    "image": "styles/3570-sciography.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3528",
+    "slug": "bartolozzi-stipple",
+    "name_en": "Bartolozzi Stipple",
+    "name_zh": "巴托洛齐点刻",
+    "description_en": "Bartolozzi stipple: late-18th-century crayon-manner color stipple engraving, flesh in red-chalk dots from a copper plate on cream laid paper. Not mezzotint, not photogravure, not modern halftone.",
+    "description_zh": "巴托洛齐点刻：十八世纪末粉笔法彩色点刻铜版，肌肤以红粉笔点积成，印于奶油色布纹纸；非美柔汀、非照相凹版、非现代网目。",
+    "source": "hermes-explore",
+    "image": "styles/3571-bartolozzi-stipple.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3529",
+    "slug": "harinuki",
+    "name_en": "Harinuki",
+    "name_zh": "张贯",
+    "description_en": "Harinuki: Japanese lacquered papier-mâché, washi and cloth laminated over a form then coated in translucent urushi so fiber shows under black-and-red gloss. Not ceramic-as-object, not carved wood, not plastic, not oil paint.",
+    "description_zh": "张贯：和纸与布裱成胎再罩半透明漆，纤维在黑赤漆光下隐现；非陶瓷物象、非木雕、非塑料、非油画。",
+    "source": "hermes-explore",
+    "image": "styles/3572-harinuki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3530",
+    "slug": "lime-secco",
+    "name_en": "Lime-secco",
+    "name_zh": "石灰干壁画",
+    "description_en": "Lime-secco: mineral pigments bound on dry lime plaster, matte wall tooth and hairline craquelure, lime white and earth colors. Not buon fresco on wet intonaco, not acrylic mural, not oil on canvas.",
+    "description_zh": "石灰干壁画：矿物颜料画在已干石灰底上，墙面哑光齿痕与细裂，石灰白与土色；非湿壁真壁画、非丙烯墙绘、非布面油画。",
+    "source": "hermes-explore",
+    "image": "styles/3573-lime-secco.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

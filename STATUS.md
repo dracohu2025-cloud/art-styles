@@ -9888,6 +9888,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3568, PNG count 3568. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 706 (exactly 5, h3526–h3530)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3526 | Aoban-e                 | 青版绘           | styles/3569-aoban-e.png                 |
+| h3527 | Sciography              | 投影阴影法       | styles/3570-sciography.png              |
+| h3528 | Bartolozzi Stipple      | 巴托洛齐点刻     | styles/3571-bartolozzi-stipple.png      |
+| h3529 | Harinuki                | 张贯             | styles/3572-harinuki.png                |
+| h3530 | Lime-secco              | 石灰干壁画       | styles/3573-lime-secco.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3573, PNG count 3573. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
