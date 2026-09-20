@@ -46122,5 +46122,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3506",
+    "slug": "sesame-cun",
+    "name_en": "Sesame Cun",
+    "name_zh": "芝麻皴",
+    "description_en": "Sesame cun: dry oval ink dots like sesame seeds building rock, cloth and air on hemp paper; stippled texture over wash, almost no heavy contour. Not Mi-dot moss blobs, not raindrop cun, not Western pointillism oil.",
+    "description_zh": "芝麻皴：如芝麻的干笔椭圆墨点堆出山石、衣褶与空气，麻纸淡墨烘染、几乎无粗轮廓；非米点大苔点、非雨点皴、非西方油画点彩。",
+    "source": "hermes-explore",
+    "image": "styles/3549-sesame-cun.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3507",
+    "slug": "nagashi-zome",
+    "name_en": "Nagashi-zome",
+    "name_zh": "流染",
+    "description_en": "Nagashi-zome: poured flowing dye on cloth — rivering color fronts, wet-on-wet bleed, salt-edge blooms, weave showing through translucent dye. Not shibori tie-resist, not batik wax crackle, not watercolor on paper.",
+    "description_zh": "流染：染料倾注于布面，色锋如河、湿叠渗化、盐边开花、织纹透过半透明色；非绞缬防染、非蜡染裂纹、非纸上水彩。",
+    "source": "hermes-explore",
+    "image": "styles/3550-nagashi-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3508",
+    "slug": "carolingian-miniature",
+    "name_en": "Carolingian Miniature",
+    "name_zh": "加洛林细密",
+    "description_en": "Carolingian miniature: vellum, burnished gold grounds, pen-and-wash figures in Reims/Tours illumination, mineral color, manuscript ornament. Not Insular carpet-page, not Gothic Book of Hours, not Byzantine icon.",
+    "description_zh": "加洛林细密：羊皮纸、打磨金地、兰斯/图尔派墨线淡彩人物、矿物颜料与写本纹饰；非岛屿风地毯页、非哥特时祷书、非拜占庭圣像。",
+    "source": "hermes-explore",
+    "image": "styles/3551-carolingian-miniature.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3509",
+    "slug": "peinture-a-lessence",
+    "name_en": "Peinture à l'essence",
+    "name_zh": "精油薄绘",
+    "description_en": "Peinture à l'essence: oil drained with solvent until matte and pastel-dry, thin scumbles on canvas tooth, no glossy varnish. Not oil impasto, not pastel stick, not gouache wash, not wet alla prima.",
+    "description_zh": "精油薄绘：用溶剂抽走油分的哑光薄油画，画布齿纹上的干擦层、无亮光罩光；非厚涂油画、非粉彩棒、非水粉湿画、非一次完成湿油。",
+    "source": "hermes-explore",
+    "image": "styles/3552-peinture-a-lessence.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3510",
+    "slug": "en-resille",
+    "name_en": "En Résille",
+    "name_zh": "网纹珐琅",
+    "description_en": "En résille: gold-foil mesh fused under translucent enamel on glass — jewel cells, light through enamel, gold net. Not plique-à-jour, not cloisonné, not stained-glass leading, not mosaic tesserae.",
+    "description_zh": "网纹珐琅：金箔网熔于半透明珐琅下、贴在玻璃上，宝石格、光透釉、金网；非镂空珐琅、非掐丝珐琅、非彩绘玻璃铅条、非马赛克块。",
+    "source": "hermes-explore",
+    "image": "styles/3553-en-resille.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

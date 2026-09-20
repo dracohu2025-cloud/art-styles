@@ -9832,6 +9832,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3548, PNG count 3548. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 702 (exactly 5, h3506–h3510)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3506 | Sesame Cun              | 芝麻皴           | styles/3549-sesame-cun.png              |
+| h3507 | Nagashi-zome            | 流染             | styles/3550-nagashi-zome.png            |
+| h3508 | Carolingian Miniature   | 加洛林细密       | styles/3551-carolingian-miniature.png   |
+| h3509 | Peinture à l'essence    | 精油薄绘         | styles/3552-peinture-a-lessence.png     |
+| h3510 | En Résille              | 网纹珐琅         | styles/3553-en-resille.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3553, PNG count 3553. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
