@@ -45342,5 +45342,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3446",
+    "slug": "schrotel",
+    "name_en": "Schrotel",
+    "name_zh": "霰粒蚀刻",
+    "description_en": "Schrotel: German Renaissance Schrotblatt dotted intaglio — punched and roulette shot-grain, irregular speckled blacks, worn plate tone on cream laid paper; not mezzotint rocker, not regular stipple engraving, not woodcut.",
+    "description_zh": "霰粒蚀刻：德国文艺复兴霰粒铜版，冲点与滚轮霰纹、不规则斑点暗部、旧版调印于乳色布纹纸；非美柔汀摇刀、非规则点刻、非木刻。",
+    "source": "hermes-explore",
+    "image": "styles/3489-schrotel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3447",
+    "slug": "garamond",
+    "name_en": "Garamond",
+    "name_zh": "加拉蒙体",
+    "description_en": "Garamond: Claude Garamond old-style French Renaissance serif as pictorial language — organic axis, modest contrast, bracketed wedge serifs, letterpress bite on ivory rag; not Didot hairline Modern, not Trajan caps, not Caslon.",
+    "description_zh": "加拉蒙体：加拉蒙旧式法国文艺复兴衬线作为画面语言，有机字轴、克制粗细、括号楔形衬线、凸版咬痕于象牙棉纸；非迪多发丝现代体、非图拉真碑铭、非卡斯隆。",
+    "source": "hermes-explore",
+    "image": "styles/3490-garamond.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3448",
+    "slug": "holga",
+    "name_en": "Holga",
+    "name_zh": "霍尔加",
+    "description_en": "Holga: Holga 120 toy-camera color negative — heavy circular vignette, amber-cyan light leaks, plastic-lens softness and mild barrel distortion; not Lensbaby sweet-spot, not Imagon glow, not Holga-as-object.",
+    "description_zh": "霍尔加：霍尔加120玩具相机彩色负片，重圆形暗角、琥珀青光漏、塑料镜头柔化与轻微桶形畸变；非镜头婴儿甜区、非伊玛贡光晕、非相机实物。",
+    "source": "hermes-explore",
+    "image": "styles/3491-holga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3449",
+    "slug": "trioplan",
+    "name_en": "Trioplan",
+    "name_zh": "三片泡状散景",
+    "description_en": "Trioplan: Meyer Optik Görlitz Trioplan soap-bubble bokeh — outlined circular highlight rings with bright rims and darker centers, vintage triplet glow; not Petzval swirl, not catadioptric doughnuts, not Lensbaby, not physical soap bubbles.",
+    "description_zh": "三片泡状散景：梅耶三片式镜头肥皂泡散景，亮边暗心的空心光圈、德东三片组光晕；非佩兹伐旋焦、非折反射甜甜圈、非镜头婴儿、非真实肥皂泡。",
+    "source": "hermes-explore",
+    "image": "styles/3492-trioplan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3450",
+    "slug": "super-8",
+    "name_en": "Super 8",
+    "name_zh": "超八毫米",
+    "description_en": "Super 8: Kodak Super 8 small-gauge cine still — coarse cine grain, slight unsharpness, warm vintage saturation, home-movie color science, full-bleed frame; not 16mm, not Cinestill remjet halo, not VHS, not film-rebate sprockets.",
+    "description_zh": "超八毫米：柯达超8小画幅电影静帧，粗颗粒、微糊、暖旧饱和、家庭电影色彩、满幅bleed；非16毫米、非电影胶片光晕、非录像带、非齿孔片边。",
+    "source": "hermes-explore",
+    "image": "styles/3493-super-8.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

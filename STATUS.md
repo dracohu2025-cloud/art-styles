@@ -9664,6 +9664,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3488, PNG count 3488. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 690 (exactly 5, h3446–h3450)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en    | name_zh         | image                       |
+|-------|------------|-----------------|-----------------------------|
+| h3446 | Schrotel   | 霰粒蚀刻        | styles/3489-schrotel.png    |
+| h3447 | Garamond   | 加拉蒙体        | styles/3490-garamond.png    |
+| h3448 | Holga      | 霍尔加          | styles/3491-holga.png       |
+| h3449 | Trioplan   | 三片泡状散景    | styles/3492-trioplan.png    |
+| h3450 | Super 8    | 超八毫米        | styles/3493-super-8.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3493, PNG count 3493. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
