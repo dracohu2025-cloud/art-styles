@@ -45992,5 +45992,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3496",
+    "slug": "cinemascope",
+    "name_en": "CinemaScope",
+    "name_zh": "西尼玛斯科普",
+    "description_en": "CinemaScope: anamorphic widescreen optics — oval bokeh, long horizontal flares, mild squeeze at the edges, 1950s color-film grain. Not anamorphic-flare graphic, not letterbox bars, not spherical 35mm.",
+    "description_zh": "西尼玛斯科普：变形宽银幕光学，椭圆焦外、横向长光斑、边缘微挤压、五十年代彩色胶片颗粒；非变形光斑贴图、非黑边构图、非球面三十五毫米。",
+    "source": "hermes-explore",
+    "image": "styles/3539-cinemascope.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3497",
+    "slug": "five-point-perspective",
+    "name_en": "Five-Point Perspective",
+    "name_zh": "五点透视",
+    "description_en": "Five-point perspective: four compass vanishing points plus a central fifth, spherical construction grid wrapping the room. Not two-point, not isometric, not unconstructed fisheye.",
+    "description_zh": "五点透视：四向灭点加中央第五点，球面建构网格环绕空间；非两点透视、非等轴测、非无建构鱼眼快照。",
+    "source": "hermes-explore",
+    "image": "styles/3540-five-point-perspective.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3498",
+    "slug": "tulle-embroidery",
+    "name_en": "Tulle Embroidery",
+    "name_zh": "薄纱绣",
+    "description_en": "Tulle embroidery: needlework on hexagonal net — satin stitch, corded outline, needle-run fill, mesh showing through. Not fashion tulle dress, not needle lace without net, not bobbin lace.",
+    "description_zh": "薄纱绣：六角网眼上的刺绣，缎纹针、绳绣轮廓、走针填色、网底透出；非薄纱时装、非无网针绣花边、非梭结花边。",
+    "source": "hermes-explore",
+    "image": "styles/3541-tulle-embroidery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3499",
+    "slug": "cooke-triplet",
+    "name_en": "Cooke Triplet",
+    "name_zh": "库克三片",
+    "description_en": "Cooke Triplet: uncoated three-element lens — spherical highlight glow, corner falloff, creamy non-swirl bokeh. Not Petzval swirl, not Tessar bite, not modern coated aspheric.",
+    "description_zh": "库克三片：无镀膜三片组镜头，高光球差辉光、边角衰减、奶油非漩涡焦外；非佩兹瓦尔旋焦、非天塞锐利、非现代镀膜非球面。",
+    "source": "hermes-explore",
+    "image": "styles/3542-cooke-triplet.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3500",
+    "slug": "cabinet-projection",
+    "name_en": "Cabinet Projection",
+    "name_zh": "柜式斜投影",
+    "description_en": "Cabinet projection: orthogonal front face, receding axis at 45° with half-scale depth. Not cavalier (full-depth oblique), not isometric, not dimetric.",
+    "description_zh": "柜式斜投影：正面正交、进深轴45度且深度减半；非骑兵透视全深斜轴、非等轴测、非二等轴测。",
+    "source": "hermes-explore",
+    "image": "styles/3543-cabinet-projection.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

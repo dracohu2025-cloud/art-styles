@@ -9804,6 +9804,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3538, PNG count 3538. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 700 (exactly 5, h3496–h3500)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3496 | CinemaScope             | 西尼玛斯科普     | styles/3539-cinemascope.png             |
+| h3497 | Five-Point Perspective  | 五点透视         | styles/3540-five-point-perspective.png  |
+| h3498 | Tulle Embroidery        | 薄纱绣           | styles/3541-tulle-embroidery.png        |
+| h3499 | Cooke Triplet           | 库克三片         | styles/3542-cooke-triplet.png           |
+| h3500 | Cabinet Projection      | 柜式斜投影       | styles/3543-cabinet-projection.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3543, PNG count 3543. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
