@@ -9720,6 +9720,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3508, PNG count 3508. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 694 (exactly 5, h3466–h3470)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh    | image                          |
+|-------|----------------|------------|--------------------------------|
+| h3466 | Linenfold      | 亚麻褶板   | styles/3509-linenfold.png      |
+| h3467 | Cymatics       | 声波图形   | styles/3510-cymatics.png       |
+| h3468 | Isometric      | 等轴测     | styles/3511-isometric.png      |
+| h3469 | Rag Rolling    | 布卷肌理   | styles/3512-rag-rolling.png    |
+| h3470 | Thermochromism | 热致变色   | styles/3513-thermochromism.png |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3513, PNG count 3513. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

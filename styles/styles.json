@@ -45602,5 +45602,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3466",
+    "slug": "linenfold",
+    "name_en": "Linenfold",
+    "name_zh": "亚麻褶板",
+    "description_en": "Late Gothic linenfold: oak panelling carved into parallel S-curve gouge-folds that mimic stacked linen, ogival folded ends, ridge-and-hollow rhythm, dry timber grain and tool marks; not painted drapery, not fabric photography.",
+    "description_zh": "晚期哥特亚麻褶板：橡木板被凿成平行S形褶沟，模仿叠放亚麻，尖拱褶端、脊谷节奏、干燥木纹与刀痕；非绘制衣褶、非织物摄影。",
+    "source": "hermes-explore",
+    "image": "styles/3509-linenfold.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3467",
+    "slug": "cymatics",
+    "name_en": "Cymatics",
+    "name_zh": "声波图形",
+    "description_en": "Cymatics: standing-wave figures in fine powder on a vibrating plate, nodal lines and Faraday ripples that resolve the image; not liquid pour, not decorative concentric circles.",
+    "description_zh": "声波图形：振动板上细粉形成驻波图形，节线与法拉第波纹构成画面；非流体倾倒、非装饰性同心圆。",
+    "source": "hermes-explore",
+    "image": "styles/3510-cymatics.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3468",
+    "slug": "isometric",
+    "name_en": "Isometric",
+    "name_zh": "等轴测",
+    "description_en": "True isometric projection: 120-degree axes, no vanishing points, equal scale on x/y/z, technical line weights and flat tints; not two-point perspective, not curvilinear, not photoreal 3D.",
+    "description_zh": "真等轴测：120度轴向、无灭点、三轴等比，技术线宽与平涂；非两点透视、非曲线透视、非写实三维渲染。",
+    "source": "hermes-explore",
+    "image": "styles/3511-isometric.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3469",
+    "slug": "rag-rolling",
+    "name_en": "Rag Rolling",
+    "name_zh": "布卷肌理",
+    "description_en": "Rag rolling: bunched-cloth rolled through translucent glaze over a mid-tone ground, mottled broken color covering figure and field; not spongeware, not watercolor wash, not marbling.",
+    "description_zh": "布卷肌理：揉布滚过半透明罩色，斑驳破碎色层覆盖人物与背景；非海绵印陶、非水彩晕染、非大理石纹。",
+    "source": "hermes-explore",
+    "image": "styles/3512-rag-rolling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3470",
+    "slug": "thermochromism",
+    "name_en": "Thermochromism",
+    "name_zh": "热致变色",
+    "description_en": "Thermochromism: heat-front blooms in leuco dye and liquid-crystal coatings, cool regions muted, warm zones vivid or iridescent; not infrared false color, not neon glow, not a plain gradient map.",
+    "description_zh": "热致变色：隐色染料与液晶涂层随热锋绽开，冷区晦暗、暖区鲜亮或虹彩；非红外伪彩、非霓虹发光、非简单渐变映射。",
+    "source": "hermes-explore",
+    "image": "styles/3513-thermochromism.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
