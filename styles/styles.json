@@ -44952,5 +44952,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3416",
+    "slug": "naruko-nuri",
+    "name_en": "Naruko-nuri",
+    "name_zh": "鸣子涂",
+    "description_en": "Naruko-nuri: Miyagi Naruko kijiro urushi — transparent amber-to-cinnabar lacquer over figured wood grain, wet high gloss and tawny pooling; not Wajima chinkin, not pictorial maki-e, not matte raw wood.",
+    "description_zh": "鸣子涂：宫城鸣子木地吕漆，琥珀至朱红透明漆罩木纹，湿润高光与蜜色积漆；非轮岛沉金、非绘画性莳绘、非哑光素木。",
+    "source": "hermes-explore",
+    "image": "styles/3459-naruko-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3417",
+    "slug": "yaeyama-jofu",
+    "name_en": "Yaeyama-jofu",
+    "name_zh": "八重山上布",
+    "description_en": "Yaeyama-jofu: Yaeyama ramie jofu — ice-white to pale indigo choma ground, skinny kasuri flecks and starch-stiff plant-fiber weave; not silk satin, not bingata stencil, not cotton batik.",
+    "description_zh": "八重山上布：八重山苎麻上布，冰白至浅靛蕉麻地，细絣点与浆挺植物纤维织纹；非缎面丝绸、非红型漏印、非棉布蜡染。",
+    "source": "hermes-explore",
+    "image": "styles/3460-yaeyama-jofu.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3418",
+    "slug": "portra",
+    "name_en": "Portra",
+    "name_zh": "波特拉",
+    "description_en": "Portra: Kodak Portra color-negative film — pastel accurate skin, soft contrast, fine tight grain, muted olive greens and creamy midtones; not Velvia saturation, not Kodachrome dye-bead, not digital HDR.",
+    "description_zh": "波特拉：柯达波特拉彩色负片，柔准肤色、低反差细颗粒、闷橄榄绿与奶色中间调；非威维亚高饱和、非柯达铬染料珠、非数码HDR。",
+    "source": "hermes-explore",
+    "image": "styles/3461-portra.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3419",
+    "slug": "clarendon",
+    "name_en": "Clarendon",
+    "name_zh": "克拉伦登体",
+    "description_en": "Clarendon: nineteenth-century slab-serif wood type — heavy bracketed slabs, letterpress bite, crimson-mustard-iron inks on cream stock; not Didone hairline contrast, not Fat Face ultra-bold, not grotesque sans.",
+    "description_zh": "克拉伦登体：十九世纪埃及体木活字，粗括号衬线、凸版咬痕、绯红芥末铁黑印于乳色纸；非迪多细对比、非超粗Fat Face、非无衬线 Grotesque。",
+    "source": "hermes-explore",
+    "image": "styles/3462-clarendon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3420",
+    "slug": "azo-paper",
+    "name_en": "Azo Paper",
+    "name_zh": "阿佐相纸",
+    "description_en": "Azo Paper: Kodak Azo chloride developing-out contact print — velvety warm-to-olive blacks, contact-print sharpness, baryta tooth, no enlargement grain; not purple printing-out paper, not glossy gelatin-silver enlargement, not platinum.",
+    "description_zh": "阿佐相纸：柯达Azo氯化银显影接触印相，丝绒暖黑至橄榄黑、接触印锐度、钡地纸纹、无放大颗粒；非紫调晒出纸、非光面明胶银放大、非铂钯。",
+    "source": "hermes-explore",
+    "image": "styles/3463-azo-paper.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

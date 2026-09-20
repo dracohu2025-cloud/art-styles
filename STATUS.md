@@ -9580,6 +9580,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3458, PNG count 3458. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 684 (exactly 5, h3416–h3420)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en      | name_zh         | image                           |
+|-------|--------------|-----------------|---------------------------------|
+| h3416 | Naruko-nuri  | 鸣子涂          | styles/3459-naruko-nuri.png     |
+| h3417 | Yaeyama-jofu | 八重山上布      | styles/3460-yaeyama-jofu.png    |
+| h3418 | Portra       | 波特拉          | styles/3461-portra.png          |
+| h3419 | Clarendon    | 克拉伦登体      | styles/3462-clarendon.png       |
+| h3420 | Azo Paper    | 阿佐相纸        | styles/3463-azo-paper.png       |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3463, PNG count 3463. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
