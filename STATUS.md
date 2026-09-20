@@ -9608,6 +9608,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3468, PNG count 3468. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 686 (exactly 5, h3426–h3430)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en               | name_zh         | image                                    |
+|-------|-----------------------|-----------------|------------------------------------------|
+| h3426 | Rembrandt Lighting    | 伦勃朗光        | styles/3469-rembrandt-lighting.png       |
+| h3427 | Grease Pencil         | 油蜡笔          | styles/3470-grease-pencil.png            |
+| h3428 | Cinestill             | 电影胶片光晕    | styles/3471-cinestill.png                |
+| h3429 | Didot                 | 迪多体          | styles/3472-didot.png                    |
+| h3430 | Anisotropic Specular  | 各向异性高光    | styles/3473-anisotropic-specular.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3473, PNG count 3473. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

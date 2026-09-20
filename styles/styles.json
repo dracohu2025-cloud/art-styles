@@ -45082,5 +45082,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3426",
+    "slug": "rembrandt-lighting",
+    "name_en": "Rembrandt Lighting",
+    "name_zh": "伦勃朗光",
+    "description_en": "Rembrandt Lighting: 45-degree key with a small illuminated triangle on the shadowed cheek, deep negative fill, warm falloff on a dark ground; not butterfly/Paramount, not split lighting, not high-key beauty.",
+    "description_zh": "伦勃朗光：四十五度主光在暗面脸颊留下三角亮斑、强负补光、暖色衰减与深地；非蝶形/派拉蒙光、非分割光、非高调美容光。",
+    "source": "hermes-explore",
+    "image": "styles/3469-rembrandt-lighting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3427",
+    "slug": "grease-pencil",
+    "name_en": "Grease Pencil",
+    "name_zh": "油蜡笔",
+    "description_en": "Grease Pencil: waxy lithographic crayon on toothed paper — creamy opaque strokes, slight smear, layered colored wax, visible tooth; not colored-pencil hatch, not oil-pastel impasto, not charcoal dust.",
+    "description_zh": "油蜡笔：齿面纸上的油性蜡笔/石版蜡笔，乳浊厚描、微抹、分层彩蜡、纸齿可见；非彩色铅笔排线、非油画棒厚堆、非炭粉。",
+    "source": "hermes-explore",
+    "image": "styles/3470-grease-pencil.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3428",
+    "slug": "cinestill",
+    "name_en": "Cinestill",
+    "name_zh": "电影胶片光晕",
+    "description_en": "Cinestill: remjet-removed tungsten cinema still-film — teal-orange night palette, fine grain, red-orange halation around practicals; not Portra, not Velvia, not Kodachrome, not bleach-bypass.",
+    "description_zh": "电影胶片光晕：去碳背钨丝电影静照胶片，青橙夜色、细颗粒、实光源红橙光晕；非波特拉、非Velvia、非柯达克罗姆、非漂白跳过。",
+    "source": "hermes-explore",
+    "image": "styles/3471-cinestill.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3429",
+    "slug": "didot",
+    "name_en": "Didot",
+    "name_zh": "迪多体",
+    "description_en": "Didot: neoclassical high-contrast type aesthetic — hairline-to-bold stroke, vertical stress, ball terminals, ivory paper fashion-plate; not Clarendon slabs, not Neuland display, not copperplate script.",
+    "description_zh": "迪多体：新古典高反差字体美学，发丝细线对极粗竖应力、球状字脚、象牙纸时装铜版感；非克拉伦登衬线、非新地粗显、非铜版手写体。",
+    "source": "hermes-explore",
+    "image": "styles/3472-didot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3430",
+    "slug": "anisotropic-specular",
+    "name_en": "Anisotropic Specular",
+    "name_zh": "各向异性高光",
+    "description_en": "Anisotropic Specular: directional stretched highlights following tangent flow on hair, satin, and brushed metal; not isotropic Phong blobs, not cel bands, not chrome mirror spheres.",
+    "description_zh": "各向异性高光：沿切线流向拉长的高光，见于发丝、缎面与拉丝金属；非各向同性冯氏光斑、非赛璐珞色带、非镜面铬球。",
+    "source": "hermes-explore",
+    "image": "styles/3473-anisotropic-specular.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
