@@ -9552,6 +9552,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3448, PNG count 3448. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 682 (exactly 5, h3406–h3410)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h3406 | Johana-nuri        | 城端涂          | styles/3449-johana-nuri.png           |
+| h3407 | Böttger Stoneware  | 伯特格尔炻器    | styles/3450-bottger-stoneware.png     |
+| h3408 | Copper Foil Glass  | 铜箔镶嵌玻璃    | styles/3451-copper-foil-glass.png     |
+| h3409 | Italian Type       | 反差意大利体    | styles/3452-italian-type.png          |
+| h3410 | Saint-Cloud        | 圣克卢软瓷      | styles/3453-saint-cloud.png           |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3453, PNG count 3453. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

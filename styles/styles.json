@@ -44822,5 +44822,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3406",
+    "slug": "johana-nuri",
+    "name_en": "Johana-nuri",
+    "name_zh": "城端涂",
+    "description_en": "Johana-nuri: Toyama lacquer with deep black and cinnabar urushi, mirror gloss, and fine gold powder linework over wood — regional finish, not Kyo-nuri, not Wajima-nuri, not Kamakura-bori carving.",
+    "description_zh": "城端涂：富山漆艺，黑漆与朱红层层罩光，镜面光泽，细金粉线饰透出木地；地方涂装，非京涂、非轮岛涂、非镰仓彫。",
+    "source": "hermes-explore",
+    "image": "styles/3449-johana-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3407",
+    "slug": "bottger-stoneware",
+    "name_en": "Böttger Stoneware",
+    "name_zh": "伯特格尔炻器",
+    "description_en": "Böttger stoneware: early Meissen iron-red unglazed body, hard-polished cold sheen and thrown facets — dense red ceramic, not jasperware, not Yixing zisha, not wet glaze.",
+    "description_zh": "伯特格尔炻器：迈森早期铁红无釉坯，硬抛光冷泽与旋削棱面，致密红陶；非碧玉瓷、非宜兴紫砂、非湿釉。",
+    "source": "hermes-explore",
+    "image": "styles/3450-bottger-stoneware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3408",
+    "slug": "copper-foil-glass",
+    "name_en": "Copper Foil Glass",
+    "name_zh": "铜箔镶嵌玻璃",
+    "description_en": "Copper-foil glass: Tiffany method of wrapping small cut pieces in thin copper foil and soldering — fine silver-black lines and opalescent glow, not medieval lead came, not grisaille paint, not pâte de verre.",
+    "description_zh": "铜箔镶嵌玻璃：蒂芙尼法，薄铜箔包裹小块切割玻璃再焊接，细银黑线与乳光透色；非中世纪铅条、非灰色玻璃画、非玻璃粉铸。",
+    "source": "hermes-explore",
+    "image": "styles/3451-copper-foil-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3409",
+    "slug": "italian-type",
+    "name_en": "Italian Type",
+    "name_zh": "反差意大利体",
+    "description_en": "Italian type: 19th-century reverse-contrast display (French Antique) with thick horizontals and hairline verticals — wood-type poster anatomy, not Didone, not Fat Face, not Clarendon.",
+    "description_zh": "反差意大利体：十九世纪反向对比展示体（法式古董体），横画极粗、竖画发丝，木活字海报结构；非迪多体、非粗衬线体、非克拉伦登。",
+    "source": "hermes-explore",
+    "image": "styles/3452-italian-type.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3410",
+    "slug": "saint-cloud",
+    "name_en": "Saint-Cloud",
+    "name_zh": "圣克卢软瓷",
+    "description_en": "Saint-Cloud: early French soft-paste porcelain, milky white glaze and underglaze cobalt lambrequin/Berainesque lace — creamy pâte tendre, not Jingdezhen hard-paste, not Sèvres pink ground, not Delft tin-glaze.",
+    "description_zh": "圣克卢软瓷：法国早期软质瓷，乳白釉与釉下钴蓝华盖纹、贝兰式花边，乳浊软瓷光泽；非景德镇硬质青花、非塞夫尔粉底、非代尔夫特色锡釉。",
+    "source": "hermes-explore",
+    "image": "styles/3453-saint-cloud.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
