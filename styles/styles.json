@@ -45862,5 +45862,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3486",
+    "slug": "rheinberg-illumination",
+    "name_en": "Rheinberg Illumination",
+    "name_zh": "莱因伯格照明",
+    "description_en": "Rheinberg Illumination: optical-microscope contrast from complementary annular vs central color stops — the figure reads as a luminous specimen against a saturated opposing field, with filter-edge fringes. Not neon tubing, not stained glass, not fluorescence.",
+    "description_zh": "莱因伯格照明：显微互补色环带与中心光阑形成衬度，人物如发光标本置于饱和补色场中，滤光边缘色散；非霓虹灯管、非彩绘玻璃、非荧光显微。",
+    "source": "hermes-explore",
+    "image": "styles/3529-rheinberg-illumination.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3487",
+    "slug": "swelling-line",
+    "name_en": "Swelling Line",
+    "name_zh": "胀缩线刻",
+    "description_en": "Swelling Line: copperplate burin engraving whose contours thicken at mid-stroke and taper to hairline points; volume from line weight on cream laid paper. Not crosshatch tone, not stipple engraving, not etching bite, not woodcut.",
+    "description_zh": "胀缩线刻：铜版雕刀线中段加粗、两端收成发丝尖，以线宽编码体积，奶油色手抄纸；非交叉排线调子、非点刻铜版、非腐蚀咬口、非木刻。",
+    "source": "hermes-explore",
+    "image": "styles/3530-swelling-line.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3488",
+    "slug": "lissajous",
+    "name_en": "Lissajous",
+    "name_zh": "利萨如图",
+    "description_en": "Lissajous: form built from overlapping parametric harmonic curves — perpendicular sines, integer frequency ratios, phase-shifted loops. Not a damped-pendulum harmonograph, not a Spirograph toy, not a CAD wireframe.",
+    "description_zh": "利萨如图：形体由正交正弦的参数谐波曲线叠成，整数频率比与相位环；非衰减摆锤谐和图仪、非儿童万花尺、非CAD线框。",
+    "source": "hermes-explore",
+    "image": "styles/3531-lissajous.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3489",
+    "slug": "crossed-polars",
+    "name_en": "Crossed Polars",
+    "name_zh": "正交偏光",
+    "description_en": "Crossed Polars: birefringent Michel-Lévy interference as if a thin-section between crossed polarizers — first-order reds, second-order blues/greens, extinction blacks. Not stained glass, not a rainbow gradient, not iridescent foil.",
+    "description_zh": "正交偏光：如薄片置于正交偏光镜间的双折射干涉（米歇尔-列维色序），一级红、二级蓝绿与消光黑；非彩绘玻璃、非彩虹渐变、非幻彩箔。",
+    "source": "hermes-explore",
+    "image": "styles/3532-crossed-polars.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3490",
+    "slug": "dot-matrix",
+    "name_en": "Dot Matrix",
+    "name_zh": "点阵针打",
+    "description_en": "Dot Matrix: 9/24-pin impact printer — discrete ribbon dots on tractor-feed paper, pin grid, print-head banding, sprocket margins. Not pixel art, not Bayer ordered dither, not photographic halftone, not ASCII.",
+    "description_zh": "点阵针打：9/24针击打式打印，色带圆点落在链式纸上，可见针栅、打印头条带与齿孔边；非像素画、非拜耳有序抖动、非照相网目、非ASCII。",
+    "source": "hermes-explore",
+    "image": "styles/3533-dot-matrix.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

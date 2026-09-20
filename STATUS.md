@@ -9776,6 +9776,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3528, PNG count 3528. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 698 (exactly 5, h3486–h3490)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                  | name_zh          | image                                      |
+|-------|--------------------------|------------------|--------------------------------------------|
+| h3486 | Rheinberg Illumination   | 莱因伯格照明     | styles/3529-rheinberg-illumination.png     |
+| h3487 | Swelling Line            | 胀缩线刻         | styles/3530-swelling-line.png              |
+| h3488 | Lissajous                | 利萨如图         | styles/3531-lissajous.png                  |
+| h3489 | Crossed Polars           | 正交偏光         | styles/3532-crossed-polars.png             |
+| h3490 | Dot Matrix               | 点阵针打         | styles/3533-dot-matrix.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3533, PNG count 3533. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
