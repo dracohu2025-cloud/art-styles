@@ -46577,5 +46577,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3541",
+    "slug": "punto-tagliato",
+    "name_en": "Punto Tagliato",
+    "name_zh": "剪破绣",
+    "description_en": "Italian Renaissance cutwork: geometric voids cut from linen, buttonhole-stitched rims, woven bars and picots. White-on-white textile, not Richelieu leafy cutwork, not reticella net lace, not machine broderie anglaise.",
+    "description_zh": "剪破绣：意大利文艺复兴剪洞绣，亚麻几何镂空、锁边针迹、编织连桥与珠圈；非黎塞留卷叶雕绣、非网眼蕾丝、非机制雕孔绣。",
+    "source": "hermes-explore",
+    "image": "styles/3584-punto-tagliato.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3542",
+    "slug": "china-painting",
+    "name_en": "China Painting",
+    "name_zh": "瓷上彩绘",
+    "description_en": "Overglaze mineral painting on glazed white porcelain: kiln-fused washes, raised enamel, burnished gold tracing. Not underglaze blue-and-white, not petit-feu souvenir ware as a genre label, not oil on canvas.",
+    "description_zh": "瓷上彩绘：白釉瓷板上的釉上矿物彩，窑融薄涂、堆釉点与烫金线；非釉下青花、非低温釉上彩作为品类标签、非布面油画。",
+    "source": "hermes-explore",
+    "image": "styles/3585-china-painting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3543",
+    "slug": "cycloid-engraving",
+    "name_en": "Cycloid Engraving",
+    "name_zh": "摆线机刻",
+    "description_en": "Rose-engine guilloché: intersecting cycloidal line fields on metal, portrait from line density alone. Not straight ruling-machine engraving, not stipple, not mezzotint rocker, not photographic halftone.",
+    "description_zh": "摆线机刻：玫瑰引擎几何车床的摆线网纹，仅以线密度成形；非直线机刻、非点刻、非美柔汀摇点、非照相网目。",
+    "source": "hermes-explore",
+    "image": "styles/3586-cycloid-engraving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3544",
+    "slug": "gum-tempera",
+    "name_en": "Gum Tempera",
+    "name_zh": "树胶蛋彩",
+    "description_en": "Gum-arabic opaque tempera: matte velvety body color, binder tide-lines, chalky dry edges. Not egg-tempera hatch, not gouache wash, not gum bichromate photography, not watercolor glaze.",
+    "description_zh": "树胶蛋彩：阿拉伯树胶不透明蛋彩，哑光绒面、胶结潮边与粉质干边；非蛋彩细笔排线、非水粉湿画、非树胶重铬酸盐摄影、非水彩罩染。",
+    "source": "hermes-explore",
+    "image": "styles/3587-gum-tempera.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3545",
+    "slug": "ryukyu-lacquer",
+    "name_en": "Ryukyu Lacquer",
+    "name_zh": "琉球漆绘",
+    "description_en": "Okinawan urushi: vermilion-black lacquer, inlaid shell, gold-foil scatter, raised colored-lacquer relief, high polish. Not Honshu maki-e as the primary system, not tixi carved layers, not Chinese carved lacquer.",
+    "description_zh": "琉球漆绘：朱红与黑漆、嵌贝、金箔散点与堆彩浮起、高抛光；非本州莳绘为主法、非剔犀层刻、非中式雕漆。",
+    "source": "hermes-explore",
+    "image": "styles/3588-ryukyu-lacquer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

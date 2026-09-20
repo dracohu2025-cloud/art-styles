@@ -9930,6 +9930,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3583, PNG count 3583. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 709 (exactly 5, h3541–h3545)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3541 | Punto Tagliato          | 剪破绣           | styles/3584-punto-tagliato.png          |
+| h3542 | China Painting          | 瓷上彩绘         | styles/3585-china-painting.png          |
+| h3543 | Cycloid Engraving       | 摆线机刻         | styles/3586-cycloid-engraving.png       |
+| h3544 | Gum Tempera             | 树胶蛋彩         | styles/3587-gum-tempera.png             |
+| h3545 | Ryukyu Lacquer          | 琉球漆绘         | styles/3588-ryukyu-lacquer.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3588, PNG count 3588. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
