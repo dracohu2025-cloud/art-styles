@@ -9706,6 +9706,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3503, PNG count 3503. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 693 (exactly 5, h3461–h3465)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                  | name_zh         | image                                    |
+|-------|--------------------------|-----------------|------------------------------------------|
+| h3461 | Zoom Burst               | 变焦放射        | styles/3504-zoom-burst.png               |
+| h3462 | Counterchange            | 阴阳换色        | styles/3505-counterchange.png            |
+| h3463 | Cased Crystal            | 套料水晶        | styles/3506-cased-crystal.png            |
+| h3464 | Curvilinear Perspective  | 曲线透视        | styles/3507-curvilinear-perspective.png  |
+| h3465 | Brenizer                 | 布伦尼泽法      | styles/3508-brenizer.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3508, PNG count 3508. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

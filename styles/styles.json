@@ -45537,5 +45537,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3461",
+    "slug": "zoom-burst",
+    "name_en": "Zoom Burst",
+    "name_zh": "变焦放射",
+    "description_en": "Zoom Burst: in-camera zoom during a long exposure so a sharp core sits in a starburst of radial light streaks and chromatic smear; analog night-light rays, not a digital radial-blur filter, not illustration.",
+    "description_zh": "变焦放射：曝光中途变焦，主体核保持可读，四周爆出放射状光轨与色散拖尾；夜灯模拟射线，非数字径向模糊滤镜、非插画。",
+    "source": "hermes-explore",
+    "image": "styles/3504-zoom-burst.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3462",
+    "slug": "counterchange",
+    "name_en": "Counterchange",
+    "name_zh": "阴阳换色",
+    "description_en": "Counterchange: heraldic partition that inverts tinctures across the divide—light-on-dark interlocking with dark-on-light like a coat-of-arms field; graphic figure/ground swap, not a yin-yang logo, not fashion color-block.",
+    "description_zh": "阴阳换色：纹章式分割，分界两侧色调对调，浅底深形与深底浅形咬合如盾徽场地；图形正负形互换，非太极标志、非时装撞色。",
+    "source": "hermes-explore",
+    "image": "styles/3505-counterchange.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3463",
+    "slug": "cased-crystal",
+    "name_en": "Cased Crystal",
+    "name_zh": "套料水晶",
+    "description_en": "Cased Crystal: Bohemian overlay glass (Überfang)—ruby, cobalt or emerald skin fused over clear crystal then cut-to-clear in mitres and printies so inner colorless fire flashes through the colored case; not a vase catalog, not jewelry advertising.",
+    "description_zh": "套料水晶：波希米亚套色 overlay（Überfang），红、钴或祖母绿皮层熔覆无色水晶，再切透棱面与圆凹，内层白火从色壳闪出；非花瓶图录、非珠宝广告。",
+    "source": "hermes-explore",
+    "image": "styles/3506-cased-crystal.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3464",
+    "slug": "curvilinear-perspective",
+    "name_en": "Curvilinear Perspective",
+    "name_zh": "曲线透视",
+    "description_en": "Curvilinear Perspective: five-point or barrel projection where orthogonals bow, floor and ceiling arc, and architecture wraps around the figure; drafted bowed space, not a cheap fisheye selfie, not a game screenshot.",
+    "description_zh": "曲线透视：五点或桶形投影，正交线弯曲，地面与天花成弧，建筑环绕人物；绘制的弯折空间，非廉价鱼眼自拍、非游戏截图。",
+    "source": "hermes-explore",
+    "image": "styles/3507-curvilinear-perspective.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3465",
+    "slug": "brenizer",
+    "name_en": "Brenizer",
+    "name_zh": "布伦尼泽法",
+    "description_en": "Brenizer: bokeh-panorama stitch of many telephoto shallow-DOF frames into one wide environmental portrait—paper-thin focus plane with enormous circular bokeh that should be impossible at this field of view; not tilt-shift miniature, not simple background blur.",
+    "description_zh": "布伦尼泽法：多张长焦浅景深画幅拼接成宽幅环境肖像，对焦面薄如纸，圆形散景巨大到该视角本不该存在；非移轴微缩、非简单背景虚化。",
+    "source": "hermes-explore",
+    "image": "styles/3508-brenizer.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
