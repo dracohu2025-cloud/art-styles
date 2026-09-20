@@ -9678,6 +9678,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3493, PNG count 3493. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 691 (exactly 5, h3451–h3455)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en        | name_zh         | image                              |
+|-------|----------------|-----------------|------------------------------------|
+| h3451 | Thambar        | 坦巴柔焦        | styles/3494-thambar.png            |
+| h3452 | Gobelins       | 戈布兰织毯      | styles/3495-gobelins.png           |
+| h3453 | Sukashi        | 透雕            | styles/3496-sukashi.png            |
+| h3454 | Darkfield      | 暗场照明        | styles/3497-darkfield.png          |
+| h3455 | Split Diopter  | 分光屈光度      | styles/3498-split-diopter.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3498, PNG count 3498. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

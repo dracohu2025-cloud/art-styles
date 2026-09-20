@@ -45407,5 +45407,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3451",
+    "slug": "thambar",
+    "name_en": "Thambar",
+    "name_zh": "坦巴柔焦",
+    "description_en": "Thambar: Leica Thambar 90mm pictorialist glow — spherical-aberration highlight bloom, creamy center haze with a faintly sharper outer ring, uncoated 1930s flare; not Imagon disk diffusion, not Lensbaby sweet-spot, not Trioplan soap-bubble bokeh, not Petzval swirl.",
+    "description_zh": "坦巴柔焦：徕卡Thambar 90mm画意光晕，球面像差高光绽放、中心乳雾与略锐外环、1930年代无镀膜眩光；非伊玛贡碟片柔化、非镜头婴儿甜区、非三片肥皂泡散景、非佩兹伐旋焦。",
+    "source": "hermes-explore",
+    "image": "styles/3494-thambar.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3452",
+    "slug": "gobelins",
+    "name_en": "Gobelins",
+    "name_zh": "戈布兰织毯",
+    "description_en": "Gobelins: Manufacture des Gobelins pictorial tapestry — visible weft ribs, wool-and-silk hatch modeling, slit-woven joins, muted historical dyes; not embroidery, not needlepoint, not cross-stitch, not a hanging tapestry-as-object.",
+    "description_zh": "戈布兰织毯：巴黎戈布兰工坊织锦画，纬向凸肋、毛丝混纺排线塑形、开缝拼接、历史染料偏灰；非刺绣、非针绣点画、非十字绣、非挂毯实物。",
+    "source": "hermes-explore",
+    "image": "styles/3495-gobelins.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3453",
+    "slug": "sukashi",
+    "name_en": "Sukashi",
+    "name_zh": "透雕",
+    "description_en": "Sukashi: Japanese pierced-metal openwork — figure drawn in remaining iron/shakudo ribs, light through sharp cut voids, tsuba-like positive/negative silhouette; not stained-glass leading, not kirigami paper cut, not stencil screenprint, not wire sculpture-as-object.",
+    "description_zh": "透雕：日本金属镂空，以残留铁/赤铜筋勾形、锐切口透光、刀镡式正负剪影；非彩绘玻璃铅条、非剪纸、非镂版丝网、非铁丝雕塑实物。",
+    "source": "hermes-explore",
+    "image": "styles/3496-sukashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3454",
+    "slug": "darkfield",
+    "name_en": "Darkfield",
+    "name_zh": "暗场照明",
+    "description_en": "Darkfield: optical darkfield illumination — true black void, figure visible only where edges and translucent surfaces scatter light, sparkling rim contour; not neon signage, not chroma-key void, not Rembrandt lighting, not fluorescence.",
+    "description_zh": "暗场照明：光学暗场，纯黑底、仅边缘与半透明面散射可见、轮廓星点闪光；非霓虹招牌、非抠像虚空、非伦勃朗布光、非荧光显影。",
+    "source": "hermes-explore",
+    "image": "styles/3497-darkfield.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3455",
+    "slug": "split-diopter",
+    "name_en": "Split Diopter",
+    "name_zh": "分光屈光度",
+    "description_en": "Split Diopter: cinematic half-lens split so near and far lateral planes are simultaneously tack-sharp with a faint glass seam; 1970s–80s color science; not tilt-shift miniature, not deep-focus everywhere, not diptych, not double exposure.",
+    "description_zh": "分光屈光度：电影半片屈光，近远左右平面同时锐利、中间隐约玻璃接缝，1970–80年代色彩；非移轴微缩、非全景深、非双联画、非双重曝光。",
+    "source": "hermes-explore",
+    "image": "styles/3498-split-diopter.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
