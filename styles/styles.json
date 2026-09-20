@@ -45277,5 +45277,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3441",
+    "slug": "fomapan",
+    "name_en": "Fomapan",
+    "name_zh": "福马全色负片",
+    "description_en": "Fomapan: Czech Foma black-and-white negative — chunky irregular silver-halide grain, long creamy midtones, cool-neutral greyscale, modest acutance; not Ilford HP5, not Kodak Tri-X, not T-Max tabular grain.",
+    "description_zh": "福马全色负片：捷克福马黑白负片，不规则卤化银粗粒、绵长中间调、冷中性灰阶、克制锐度；非伊尔福HP5、非柯达特莱克斯、非T-Max平板颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3484-fomapan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3442",
+    "slug": "depression-glass",
+    "name_en": "Depression Glass",
+    "name_zh": "机制压花玻璃",
+    "description_en": "Depression Glass: 1920s–30s American machine-pressed tinted glass — pink, uranium-green and amber, molded floral/geometric motifs, mold seams, thick-thin refraction; not cut crystal, not carnival iridescence, not stained leadlight.",
+    "description_zh": "机制压花玻璃：二十世纪二三十年代美国机制彩色压铸玻璃，粉红、铀绿与琥珀，模压花卉几何纹、合模线、厚薄折射；非切割水晶、非嘉年华虹彩、非镶铅彩窗。",
+    "source": "hermes-explore",
+    "image": "styles/3485-depression-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3443",
+    "slug": "sheffield-plate",
+    "name_en": "Sheffield Plate",
+    "name_zh": "谢菲尔德贴银",
+    "description_en": "Sheffield Plate: 18th-century fused silver-on-copper — bright rolled silver skin, warm copper blush at worn rims and cut edges, handmade hollow-ware seams; not electroplate, not solid sterling, not ormolu.",
+    "description_zh": "谢菲尔德贴银：十八世纪银铜熔贴，滚压银皮、磨损口沿与切口透出暖铜、手作空心器接缝；非电镀、非纯银实心、非鎏金铜。",
+    "source": "hermes-explore",
+    "image": "styles/3486-sheffield-plate.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3444",
+    "slug": "peignot",
+    "name_en": "Peignot",
+    "name_zh": "佩尼奥体",
+    "description_en": "Peignot: A.M. Cassandre 1937 typeface — high-waisted capitals, small-cap “lowercase,” vertical stress, chic thin-thick modern-roman strokes as drawing language; not Futura, not Didot, not Trajan, not Broadway.",
+    "description_zh": "佩尼奥体：卡桑德雷一九三七年字体，高腰大写、小大写作小写、垂直字势、摩登罗马粗细笔画作为造型语言；非未来体、非迪多体、非图拉真碑铭、非百老汇体。",
+    "source": "hermes-explore",
+    "image": "styles/3487-peignot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3445",
+    "slug": "tombak",
+    "name_en": "Tombak",
+    "name_zh": "通巴克",
+    "description_en": "Tombak: Ottoman high-zinc brass with warm mercury-gilded gold wash — reddish-gold fire, chased punchwork catching gilt, Islamic metalwork sheen; not ormolu, not European fire-gilding, not Sheffield plate.",
+    "description_zh": "通巴克：奥斯曼高锌黄铜再覆暖金汞齐，偏红金火色、錾刻点纹吃金、伊斯兰金属光泽；非鎏金铜、非欧洲火镀金、非谢菲尔德贴银。",
+    "source": "hermes-explore",
+    "image": "styles/3488-tombak.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

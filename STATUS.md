@@ -9650,6 +9650,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3483, PNG count 3483. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 689 (exactly 5, h3441–h3445)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en           | name_zh         | image                                |
+|-------|-------------------|-----------------|--------------------------------------|
+| h3441 | Fomapan           | 福马全色负片    | styles/3484-fomapan.png              |
+| h3442 | Depression Glass  | 机制压花玻璃    | styles/3485-depression-glass.png     |
+| h3443 | Sheffield Plate   | 谢菲尔德贴银    | styles/3486-sheffield-plate.png      |
+| h3444 | Peignot           | 佩尼奥体        | styles/3487-peignot.png              |
+| h3445 | Tombak            | 通巴克          | styles/3488-tombak.png               |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3488, PNG count 3488. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
