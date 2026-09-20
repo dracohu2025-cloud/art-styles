@@ -44887,5 +44887,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3411",
+    "slug": "karasu-nuri",
+    "name_en": "Karasu-nuri",
+    "name_zh": "鸦涂",
+    "description_en": "Karasu-nuri: crow-feather urushi — jet black lacquer with a faint blue-violet iridescent bloom and wet-looking depth, like polished crow wing, not ordinary enamel, not matte acrylic, not pictorial maki-e.",
+    "description_zh": "鸦涂：乌鸦羽色漆，漆黑底上带蓝紫虹彩与湿润深光，如鸦翼抛光；非普通磁漆、非哑光丙烯、非绘画性莳绘。",
+    "source": "hermes-explore",
+    "image": "styles/3454-karasu-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3412",
+    "slug": "mushiro-zome",
+    "name_en": "Mushiro-zome",
+    "name_zh": "筵染",
+    "description_en": "Mushiro-zome: straw-mat resist dyeing — cloth dyed through a woven mushiro so the mat weave reserves pale bands and checks, fuzzy impressed edges, plant dye in the interstices; not shibori rings, not batik crackle, not katazome stencil.",
+    "description_zh": "筵染：以草筵作防染，织纹留出浅色条格，边缘带筵印绒边，空隙吃植物染；非絞染圆环、非蜡染裂纹、非型染漏印。",
+    "source": "hermes-explore",
+    "image": "styles/3455-mushiro-zome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3413",
+    "slug": "kokechi",
+    "name_en": "Kokechi",
+    "name_zh": "纐缬",
+    "description_en": "Kokechi: Nara-period bound-resist (纐缬) — cloth tufted and tied before the dye bath, pale reserved circles and clouded dots where bindings held; irregular ancient spots, not neat kanoko shibori, not wax batik, not clamp itajime.",
+    "description_zh": "纐缬：奈良束缬，入染前扎束布料，绑处留浅色圆环与晕点，古拙不规则；非整齐鹿子絞、非蜡染冰纹、非板缔几何。",
+    "source": "hermes-explore",
+    "image": "styles/3456-kokechi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3414",
+    "slug": "noribiki",
+    "name_en": "Noribiki",
+    "name_zh": "糊引",
+    "description_en": "Noribiki: yuzen rice-paste line drawing — itome paste ridges piped with a tsutsu tube, dye flooded only between paste dams, slight paste crackle on cloth; not ink outlines, not embroidery, not batik tjanting wax.",
+    "description_zh": "糊引：友禅筒描防染糊线，糊埂拦出色块，染料只灌入糊坝之间，布面微裂糊痕；非墨线、非刺绣、非蜡刀画蜡。",
+    "source": "hermes-explore",
+    "image": "styles/3457-noribiki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3415",
+    "slug": "brilliant-cut-glass",
+    "name_en": "Brilliant Cut Glass",
+    "name_zh": "灿烂切工玻璃",
+    "description_en": "Brilliant Cut Glass: American Brilliant Period lead crystal — dense hobstar, strawberry-diamond, fan and prism cuts, high refractive sparkle; not Edo-kiriko color overlay, not pictorial wheel engraving, not smooth blown glass.",
+    "description_zh": "灿烂切工玻璃：美国灿烂时期铅晶，密铺星切、草莓菱、扇切与棱面，高折射率闪光；非江户切子套色、非车刻图画、非光面吹制玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3458-brilliant-cut-glass.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

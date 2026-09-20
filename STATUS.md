@@ -9566,6 +9566,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3453, PNG count 3453. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 683 (exactly 5, h3411–h3415)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en             | name_zh         | image                                  |
+|-------|---------------------|-----------------|----------------------------------------|
+| h3411 | Karasu-nuri         | 鸦涂            | styles/3454-karasu-nuri.png            |
+| h3412 | Mushiro-zome        | 筵染            | styles/3455-mushiro-zome.png           |
+| h3413 | Kokechi             | 纐缬            | styles/3456-kokechi.png                |
+| h3414 | Noribiki            | 糊引            | styles/3457-noribiki.png               |
+| h3415 | Brilliant Cut Glass | 灿烂切工玻璃    | styles/3458-brilliant-cut-glass.png    |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3458, PNG count 3458. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
