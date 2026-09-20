@@ -9874,6 +9874,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3563, PNG count 3563. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 705 (exactly 5, h3521–h3525)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3521 | Nurisashi               | 漆挿摺           | styles/3564-nurisashi.png               |
+| h3522 | Zarnishan               | 扎尼尚           | styles/3565-zarnishan.png               |
+| h3523 | Whakairo                | 毛利木雕         | styles/3566-whakairo.png                |
+| h3524 | Nuibaku                 | 缝箔             | styles/3567-nuibaku.png                 |
+| h3525 | Jikimaki                | 直莳             | styles/3568-jikimaki.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3568, PNG count 3568. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

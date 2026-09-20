@@ -46317,5 +46317,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3521",
+    "slug": "nurisashi",
+    "name_en": "Nurisashi",
+    "name_zh": "漆挿摺",
+    "description_en": "Nurisashi: Edo woodblock with selected passages overprinted in glossy urushi lacquer that sits like glass on matte mineral pigment, baren grain and keyblock line intact. Not full lacquerware, not oil glaze, not digital shine.",
+    "description_zh": "漆挿摺：江户木版在矿物颜料上局部套印亮漆，漆如玻璃覆于哑光色块，马连木纹与主版线仍在；非整器漆器、非油画罩光、非数字高光。",
+    "source": "hermes-explore",
+    "image": "styles/3564-nurisashi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3522",
+    "slug": "zarnishan",
+    "name_en": "Zarnishan",
+    "name_zh": "扎尼尚",
+    "description_en": "Zarnishan: Bidri overlay inlay of gold ground flush with blackened zinc-copper, scrolling vines and stars forming the figure. Not raised koftgari, not niello recess, not gold-leaf painting.",
+    "description_zh": "扎尼尚：比德里黑锌铜上金丝嵌平磨齐，卷草与星纹构成形象；非凸起嵌金、非乌银凹填、非贴金绘画。",
+    "source": "hermes-explore",
+    "image": "styles/3565-zarnishan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3523",
+    "slug": "whakairo",
+    "name_en": "Whakairo",
+    "name_zh": "毛利木雕",
+    "description_en": "Whakairo: Māori wood-carving relief in totara with pakati notching, haehae grooves and koru spirals, ochre in the recesses. Not tattoo close-up, not a copied ancestral tiki, not 3D plastic.",
+    "description_zh": "毛利木雕：托塔拉木浮雕，犬牙刻、平行槽与科鲁螺旋，凹处赤赭；非纹身近摄、非复制祖灵蒂基、非三维塑料。",
+    "source": "hermes-explore",
+    "image": "styles/3566-whakairo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3524",
+    "slug": "nuibaku",
+    "name_en": "Nuibaku",
+    "name_zh": "缝箔",
+    "description_en": "Nuibaku: Noh-costume technique combining raised silk embroidery with impressed gold and silver foil squares on dark silk. Not printed brocade, not fashion photography, not a digital gold filter.",
+    "description_zh": "缝箔：能装技法，丝绣凸针与压贴金银箔方块同布于暗绸；非印花织锦、非时装摄影、非数字金滤镜。",
+    "source": "hermes-explore",
+    "image": "styles/3567-nuibaku.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3525",
+    "slug": "jikimaki",
+    "name_en": "Jikimaki",
+    "name_zh": "直莳",
+    "description_en": "Jikimaki: maki-e gold powder sprinkled onto wet black lacquer with no underdrawing, the portrait coalescing from dense and sparse metal dust, some togidashi-polished. Not kirikane cut leaf, not oil gilt, not glitter photography.",
+    "description_zh": "直莳：无底稿把金粉洒入湿黑漆，形象由疏密金属粉凝成，局部研出磨平；非截金箔片、非油贴金、非亮片摄影。",
+    "source": "hermes-explore",
+    "image": "styles/3568-jikimaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
