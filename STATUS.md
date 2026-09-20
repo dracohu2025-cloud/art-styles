@@ -9622,6 +9622,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3473, PNG count 3473. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 687 (exactly 5, h3431–h3435)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en            | name_zh         | image                                 |
+|-------|--------------------|-----------------|---------------------------------------|
+| h3431 | Lensbaby           | 甜区柔焦        | styles/3474-lensbaby.png              |
+| h3432 | Trajan             | 图拉真体        | styles/3475-trajan.png                |
+| h3433 | Chatoyancy         | 猫眼效应        | styles/3476-chatoyancy.png            |
+| h3434 | Perlage            | 珍珠纹          | styles/3477-perlage.png               |
+| h3435 | Foundational Hand  | 基础手写体      | styles/3478-foundational-hand.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3478, PNG count 3478. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

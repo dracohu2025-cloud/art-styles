@@ -45147,5 +45147,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3431",
+    "slug": "lensbaby",
+    "name_en": "Lensbaby",
+    "name_zh": "甜区柔焦",
+    "description_en": "Lensbaby: Composer-style selective-focus optic — circular sharp sweet-spot, rapid magnetic falloff, analog edge smear and mild fringing; not Petzval swirl, not Gaussian blur, not tilt-shift miniature.",
+    "description_zh": "甜区柔焦：Composer式选择性对焦镜头，圆形锐利甜区、磁力般急速虚化、模拟边缘拉伸与轻微色差；非佩兹伐旋焦、非高斯模糊、非移轴微缩。",
+    "source": "hermes-explore",
+    "image": "styles/3474-lensbaby.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3432",
+    "slug": "trajan",
+    "name_en": "Trajan",
+    "name_zh": "图拉真体",
+    "description_en": "Trajan: Roman inscriptional-capital pictorial language — V-cut lapidary serifs, monumental stroke contrast, raking light on creamy marble relief; not Didot hairline Modern, not Clarendon slabs, not Neuland wedges.",
+    "description_zh": "图拉真体：罗马碑铭大写作为画面语言，V形凿刻衬线、纪念碑式笔画对比、侧光照亮乳色大理石浮雕；非迪多发丝现代体、非克拉伦登埃及体、非新地楔形粗体。",
+    "source": "hermes-explore",
+    "image": "styles/3475-trajan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3433",
+    "slug": "chatoyancy",
+    "name_en": "Chatoyancy",
+    "name_zh": "猫眼效应",
+    "description_en": "Chatoyancy: cat's-eye optical band — a single sliding luminous stripe across parallel fibrous structure, silky honey-to-green sheen; not rainbow iridescence, not labradorescence flashes, not ordinary specular gloss.",
+    "description_zh": "猫眼效应：沿平行纤维结构滑动的一条光带，丝质蜜金至绿褐晕光；非彩虹虹彩、非拉长石晕彩闪斑、非普通镜面高光。",
+    "source": "hermes-explore",
+    "image": "styles/3476-chatoyancy.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3434",
+    "slug": "perlage",
+    "name_en": "Perlage",
+    "name_zh": "珍珠纹",
+    "description_en": "Perlage: haute-horlogerie circular graining — overlapping pearled circles of fine radial scratches on rhodium plates; not guilloché waves, not Côtes de Genève stripes, not engine-turned rosettes.",
+    "description_zh": "珍珠纹：高级制表圆形研磨，铑板上重叠的细放射刮痕珍珠圆；非引擎波纹、非日内瓦条纹、非机械车花玫瑰。",
+    "source": "hermes-explore",
+    "image": "styles/3477-perlage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3435",
+    "slug": "foundational-hand",
+    "name_en": "Foundational Hand",
+    "name_zh": "基础手写体",
+    "description_en": "Foundational Hand: Edward Johnston broad-edge pen construction — 30-degree nib, even Roman-minuscule rhythm, oak-gall ink on vellum; not pointed-pen Copperplate, not Trajan caps, not Blackletter.",
+    "description_zh": "基础手写体：约翰斯顿宽刃笔法，三十度笔锋、均匀罗马小写节奏、橡瘿墨于羊皮纸；非尖笔铜版手写、非图拉真碑铭大写、非哥特黑字母。",
+    "source": "hermes-explore",
+    "image": "styles/3478-foundational-hand.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
