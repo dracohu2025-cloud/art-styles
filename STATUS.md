@@ -9636,6 +9636,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3478, PNG count 3478. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 688 (exactly 5, h3436–h3440)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en         | name_zh         | image                              |
+|-------|-----------------|-----------------|------------------------------------|
+| h3436 | Imagon          | 伊玛贡柔焦      | styles/3479-imagon.png             |
+| h3437 | Slit-Scan       | 狭缝扫描        | styles/3480-slit-scan.png          |
+| h3438 | Roundhand       | 英式圆体        | styles/3481-roundhand.png          |
+| h3439 | Silk Aquatint   | 绢网飞尘        | styles/3482-silk-aquatint.png      |
+| h3440 | Adularescence   | 冰长石晕彩      | styles/3483-adularescence.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3483, PNG count 3483. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

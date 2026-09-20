@@ -45212,5 +45212,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3436",
+    "slug": "imagon",
+    "name_en": "Imagon",
+    "name_zh": "伊玛贡柔焦",
+    "description_en": "Imagon: Rodenstock sieve-disk pictorialist lens — controlled spherical aberration, doughnut bokeh, glowing highlight bloom; not Lensbaby tilt sweet-spot, not gaussian blur, not modern beauty-filter skin.",
+    "description_zh": "伊玛贡柔焦：罗敦司得筛孔光圈画意镜头，可控球差、甜甜圈散景、高光晕绽；非镜头婴儿移轴甜区、非高斯模糊、非现代美颜磨皮。",
+    "source": "hermes-explore",
+    "image": "styles/3479-imagon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3437",
+    "slug": "slit-scan",
+    "name_en": "Slit-Scan",
+    "name_zh": "狭缝扫描",
+    "description_en": "Slit-Scan: analog time sliced through a moving slit — temporal ribbons, stargate elongation, optical streak; not ordinary motion blur, not panning ICM, not datamosh.",
+    "description_zh": "狭缝扫描：胶片经移动狭缝切开时间，时序条带、星门拉长、光学拖曳；非普通动态模糊、非追随摇摄、非数据马赛克故障。",
+    "source": "hermes-explore",
+    "image": "styles/3480-slit-scan.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3438",
+    "slug": "roundhand",
+    "name_en": "Roundhand",
+    "name_zh": "英式圆体",
+    "description_en": "Roundhand: English pointed-pen script — shaded downstrokes, hairline upstrokes, oval minuscules, ~55-degree slant on laid paper; not broad-edge Foundational Hand, not Trajan caps, not Spencerian oval drills.",
+    "description_zh": "英式圆体：尖笔圆手写，加重下笔、发丝上提、椭圆小写、约五十五度斜势于布纹纸；非宽刃基础手写、非图拉真碑铭大写、非斯宾塞椭圆练习。",
+    "source": "hermes-explore",
+    "image": "styles/3481-roundhand.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3439",
+    "slug": "silk-aquatint",
+    "name_en": "Silk Aquatint",
+    "name_zh": "绢网飞尘",
+    "description_en": "Silk Aquatint: intaglio grain from silk mesh pressed into ground, then bitten — velvety continuous tone, greasy blacks to pearly greys, plate tone; not mezzotint rocker, not photogravure, not screen-print overlay.",
+    "description_zh": "绢网飞尘：丝绢压入防腐地再腐蚀的凹版颗粒，丝绒连续调、油黑至珍珠灰、版调残留；非美柔汀摇刀、非照相凹版、非丝网叠印网屏。",
+    "source": "hermes-explore",
+    "image": "styles/3482-silk-aquatint.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3440",
+    "slug": "adularescence",
+    "name_en": "Adularescence",
+    "name_zh": "冰长石晕彩",
+    "description_en": "Adularescence: moonstone schiller — billowy blue-white glow that glides under a milky translucent volume; not chrome, not thin-film rainbow, not cat's-eye chatoyancy, not labradorite flash.",
+    "description_zh": "冰长石晕彩：月光石内晕，乳浊体积下浮动的蓝白辉光；非镀铬金属、非薄膜彩虹干涉、非猫眼效应条带、非拉长石光谱闪。",
+    "source": "hermes-explore",
+    "image": "styles/3483-adularescence.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
