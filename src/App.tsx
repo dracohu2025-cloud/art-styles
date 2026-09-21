@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
-import catalog from "../styles/styles.json";
+import { asset, loadCatalog, type StyleEntry } from "./catalog";
+import StyleGrid from "./StyleGrid";
 import "./App.css";
 
 const REPO_URL = "https://github.com/dracohu2025-cloud/art-styles";
@@ -15,28 +16,6 @@ function GitHubMark() {
   );
 }
 
-export type StyleEntry = {
-  id: string;
-  slug: string;
-  name_en: string;
-  name_zh: string;
-  description_en: string;
-  description_zh: string;
-  source: "creative" | "style-diverge" | string;
-  image: string;
-  width: number;
-  height: number;
-  aspect: string;
-};
-
-// styles.json is append-only; reverse so the gallery shows newest first.
-const styles = [...(catalog as StyleEntry[])].reverse();
-
-function asset(path: string) {
-  const base = import.meta.env.BASE_URL;
-  return `${base}${path.replace(/^\//, "")}`;
-}
-
 function useEscape(onClose: () => void, enabled: boolean) {
   useEffect(() => {
     if (!enabled) return;
@@ -49,11 +28,36 @@ function useEscape(onClose: () => void, enabled: boolean) {
 }
 
 export default function App() {
+  const [styles, setStyles] = useState<StyleEntry[] | null>(null);
+  const [catalogError, setCatalogError] = useState<string | null>(null);
   const [q, setQ] = useState("");
   const [open, setOpen] = useState<number | null>(null);
   useEscape(() => setOpen(null), open !== null);
 
+  useEffect(() => {
+    let cancelled = false;
+    loadCatalog()
+      .then((entries) => {
+        if (!cancelled) setStyles(entries);
+      })
+      .catch((err: unknown) => {
+        if (!cancelled) {
+          setCatalogError(err instanceof Error ? err.message : "load failed");
+        }
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const indexById = useMemo(() => {
+    const map = new Map<string, number>();
+    styles?.forEach((s, i) => map.set(s.id, i));
+    return map;
+  }, [styles]);
+
   const visible = useMemo(() => {
+    if (!styles) return [];
     const needle = q.trim().toLowerCase();
     return styles.filter((s) => {
       if (!needle) return true;
@@ -62,10 +66,10 @@ export default function App() {
         .toLowerCase()
         .includes(needle);
     });
-  }, [q]);
+  }, [q, styles]);
 
   useEffect(() => {
-    if (open === null) return;
+    if (open === null || !styles) return;
     const onKey = (e: KeyboardEvent) => {
       if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
       const ids = visible.map((s) => s.id);
@@ -76,22 +80,24 @@ export default function App() {
         e.key === "ArrowRight"
           ? ids[(pos + 1) % ids.length]
           : ids[(pos + ids.length - 1) % ids.length];
-      setOpen(styles.findIndex((s) => s.id === next));
+      setOpen(indexById.get(next) ?? null);
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [open, visible]);
+  }, [open, visible, styles, indexById]);
 
-  const active = open === null ? null : styles[open];
+  const active = open === null || !styles ? null : styles[open];
 
   const step = (dir: -1 | 1) => {
-    if (open === null) return;
+    if (open === null || !styles) return;
     const ids = visible.map((s) => s.id);
     const pos = ids.indexOf(styles[open].id);
     if (pos < 0) return;
     const next = ids[(pos + dir + ids.length) % ids.length];
-    setOpen(styles.findIndex((s) => s.id === next));
+    setOpen(indexById.get(next) ?? null);
   };
+
+  const countLabel = styles ? `${styles.length} stills` : "… stills";
 
   return (
     <div className="shell">
@@ -119,7 +125,7 @@ export default function App() {
           </p>
         </div>
         <div className="meta">
-          {styles.length} stills · 1672×941 · native 16:9
+          {countLabel} · 1672×941 · native 16:9
         </div>
       </header>
 
@@ -133,41 +139,19 @@ export default function App() {
             aria-label="Search styles"
           />
           <span className="count">
-            {visible.length} / {styles.length}
+            {visible.length} / {styles?.length ?? "…"}
           </span>
         </label>
       </div>
 
-      {visible.length === 0 ? (
+      {catalogError ? (
+        <p className="empty">Could not load catalog. 无法载入图鉴。</p>
+      ) : styles === null ? (
+        <p className="empty">Loading catalog… 正在载入图鉴。</p>
+      ) : visible.length === 0 ? (
         <p className="empty">No styles match. 没有匹配的画风。</p>
       ) : (
-        <div className="grid">
-          {visible.map((s) => {
-            const idx = styles.findIndex((x) => x.id === s.id);
-            return (
-              <button
-                key={s.id}
-                className="card"
-                type="button"
-                onClick={() => setOpen(idx)}
-              >
-                <figure>
-                  <div className="thumb">
-                    <img
-                      src={asset(s.image)}
-                      alt={`${s.name_en} / ${s.name_zh}`}
-                      loading="lazy"
-                    />
-                  </div>
-                  <figcaption>
-                    <h2>{s.name_en}</h2>
-                    <p className="zh">{s.name_zh}</p>
-                  </figcaption>
-                </figure>
-              </button>
-            );
-          })}
-        </div>
+        <StyleGrid visible={visible} indexById={indexById} onOpen={setOpen} />
       )}
 
       {active && open !== null && (
@@ -179,7 +163,12 @@ export default function App() {
           onClick={() => setOpen(null)}
         >
           <figure className="lb-frame" onClick={(e) => e.stopPropagation()}>
-            <img src={asset(active.image)} alt={active.name_en} />
+            <img
+              src={asset(active.image)}
+              alt={active.name_en}
+              width={active.width}
+              height={active.height}
+            />
           </figure>
           <div className="lb-copy" onClick={(e) => e.stopPropagation()}>
             <span className="kicker">
