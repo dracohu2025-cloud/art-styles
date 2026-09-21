@@ -47812,5 +47812,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3636",
+    "slug": "murakami-nuri",
+    "name_en": "Murakami-nuri",
+    "name_zh": "村上堆朱",
+    "description_en": "Murakami-nuri: Niigata carved layered urushi — vermillion, cinnabar and black strata built up then V-cut to reveal concentric color rings; glossy lacquer facets, knife-cut scroll grounds. Not generic tsuishu bowls, not painted wood, not dry lacquer sculpture.",
+    "description_zh": "村上堆朱：新潟多层堆漆后深雕——朱红、黑漆层理如年轮，高光漆面与刀口卷草地；非普通堆朱器、非木绘、非夹纻塑。",
+    "source": "hermes-explore",
+    "image": "styles/3679-murakami-nuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3637",
+    "slug": "opus-vittatum",
+    "name_en": "Opus Vittatum",
+    "name_zh": "条带砌",
+    "description_en": "Opus vittatum: Roman banded masonry of tufa/limestone blocks alternating with thin brick courses and lime mortar. Not opus reticulatum diamonds, not rusticated bosses, not brick-only English bond.",
+    "description_zh": "条带砌：罗马凝灰岩/石灰石块与薄砖带交替、石灰砂浆；非网状砌菱格、非粗面凸石、非纯砖英式砌。",
+    "source": "hermes-explore",
+    "image": "styles/3680-opus-vittatum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3638",
+    "slug": "tea-dust",
+    "name_en": "Tea Dust",
+    "name_zh": "茶叶末",
+    "description_en": "Tea-dust glaze (chaye-mo): Qing imperial satin olive-khaki crystalline speckle like powdered tea sintered into the surface. Not celadon, not tenmoku oil-spot, not tea-dust as a still-life subject.",
+    "description_zh": "茶叶末釉：清宫御釉，茶褐橄榄细晶砂如末茶烧结于器面；非青瓷、非油滴天目、非静物茶叶。",
+    "source": "hermes-explore",
+    "image": "styles/3681-tea-dust.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3639",
+    "slug": "ice-crackle",
+    "name_en": "Ice Crackle",
+    "name_zh": "冰裂纹",
+    "description_en": "Ice crackle (binglie): Ge/Guan milky grey-white glaze with large angular ice-shard crackle, iron-stained dark lines and finer gold-thread secondary fractures. Not fish-roe crackle, not guan crackle as a bowl photo, not raku crazing.",
+    "description_zh": "冰裂纹：哥窑/官窑乳白釉上大块棱角冰片开裂，铁染深纹与金丝细纹；非鱼子纹、非官窑开片器皿照、非乐烧缩釉。",
+    "source": "hermes-explore",
+    "image": "styles/3682-ice-crackle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3640",
+    "slug": "edo-sarasa",
+    "name_en": "Edo Sarasa",
+    "name_zh": "江户更纱",
+    "description_en": "Edo sarasa: Japanese Edo-period calico — block-printed and resist-dyed cotton with Indian-inspired palmettes, madder, indigo and mustard on cream, slight misregister. Not toile de Jouy, not yuzen paste-resist, not palampore as an object.",
+    "description_zh": "江户更纱：江户期木版与防染棉布，印度风棕叶纹，茜红靛蓝芥黄铺于米色地、套色微偏；非茹伊印花、非友禅糊防、非帕兰波尔实物。",
+    "source": "hermes-explore",
+    "image": "styles/3683-edo-sarasa.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
