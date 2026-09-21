@@ -47617,5 +47617,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3621",
+    "slug": "huckaback",
+    "name_en": "Huckaback",
+    "name_zh": "蜂巢织",
+    "description_en": "Huckaback: huck linen weave — small staggered warp-and-weft floats on a plain-weave ground, pebbly absorbent cloth. Not waffle weave, not honeycomb knit, not basketweave.",
+    "description_zh": "蜂巢织：胡克麻织——平纹地上错落的经纬浮线，呈卵石般吸水布面；非华夫格、非蜂巢针织、非方平织。",
+    "source": "hermes-explore",
+    "image": "styles/3664-huckaback.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3622",
+    "slug": "itame-hada",
+    "name_en": "Itame Hada",
+    "name_zh": "板目肌",
+    "description_en": "Itame hada: Japanese sword-steel board-grain jihada — flowing folded tamahagane layers like timber grain, nie sparkle in the metal. Not mokume-gane jewelry, not masame, not wood.",
+    "description_zh": "板目肌：日本刀钢的板目地肌——折叠玉钢如木材纹理层叠，沸粒在金属中闪烁；非木目金首饰、非柾目、非真实木材。",
+    "source": "hermes-explore",
+    "image": "styles/3665-itame-hada.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3623",
+    "slug": "tula-steel",
+    "name_en": "Tula Steel",
+    "name_zh": "图拉钢",
+    "description_en": "Tula steel: 18th–19th c. Russian blued steel with gold damascene and niello — deep blue-black ground, hairline gold inlay, matte niello recesses. Not Toledo damascene, not Zlatoust, not cloisonné.",
+    "description_zh": "图拉钢：十八至十九世纪俄国发蓝钢上金错与乌银——深蓝黑地、细金线镶嵌、哑光乌银凹处；非托莱多错金、非兹拉托乌斯特、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3666-tula-steel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3624",
+    "slug": "nikko-bori",
+    "name_en": "Nikko-bori",
+    "name_zh": "日光雕",
+    "description_en": "Nikko-bori: Nikko Toshogu-style shrine wood carving — deep undercut polychrome relief, chisel facets, lacquer-tinted recesses. Not Kamakura-bori, not Inami carving, not stone.",
+    "description_zh": "日光雕：日光东照宫式社寺木雕——深底挖多彩高浮雕、凿痕棱面、漆色积于凹处；非镰仓雕、非井波雕、非石刻。",
+    "source": "hermes-explore",
+    "image": "styles/3667-nikko-bori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3625",
+    "slug": "summer-winter-weave",
+    "name_en": "Summer and Winter",
+    "name_zh": "夏冬织",
+    "description_en": "Summer and winter: complementary weft unit weave — two-tie structure, pattern-weft floats on tabby ground, reversible light/dark blocks. Not overshot, not crackle, not boundweave.",
+    "description_zh": "夏冬织：互补纬线组织——双结单元、纹纬浮于平纹地、正反明暗色块可逆；非过纬、非裂纹织、非束缚织。",
+    "source": "hermes-explore",
+    "image": "styles/3668-summer-winter-weave.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

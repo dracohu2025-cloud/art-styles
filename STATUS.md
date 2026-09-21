@@ -10154,6 +10154,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3663, PNG count 3663. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 725 (exactly 5, h3621–h3625)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3621 | Huckaback               | 蜂巢织           | styles/3664-huckaback.png               |
+| h3622 | Itame Hada              | 板目肌           | styles/3665-itame-hada.png              |
+| h3623 | Tula Steel              | 图拉钢           | styles/3666-tula-steel.png              |
+| h3624 | Nikko-bori              | 日光雕           | styles/3667-nikko-bori.png              |
+| h3625 | Summer and Winter       | 夏冬织           | styles/3668-summer-winter-weave.png     |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3668, PNG count 3668. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
