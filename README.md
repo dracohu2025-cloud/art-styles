@@ -91,7 +91,26 @@ npm run build
 npm run preview
 ```
 
-Vite `base` is `/art-styles/` for GitHub Pages project site.
+`npm run build` / `npm run dev` first generate WebP grid thumbs, then start Vite. Vite `base` is `/art-styles/` for GitHub Pages project site.
+
+## Thumbnails
+
+The live grid must not load the native 1672×941 PNGs. Thumbs are **generated**, not committed:
+
+```bash
+npm run thumbs           # skip up-to-date thumbs
+npm run thumbs -- --force
+```
+
+| | |
+|---|---|
+| Source | `public/styles/*.png` (top-level only) |
+| Output | `public/styles/thumbs/<basename>.webp` (gitignored) |
+| Size | 400px wide, WebP quality 70 |
+| Grid | `styles/thumbs/<file>.webp` |
+| Lightbox | original `styles/<file>.png` |
+
+Regenerate after adding or replacing stills. GitHub Actions runs `npm run thumbs` as part of `npm run build`. The gallery window-virtualizes the grid (`@tanstack/react-virtual`) so only near-viewport cards mount.
 
 ## Catalog
 
@@ -99,6 +118,7 @@ Vite `base` is `/art-styles/` for GitHub Pages project site.
 |---|---|
 | `styles/styles.json` | `id`, `slug`, `name_en`, `name_zh`, descriptions, `source`, `image` |
 | `public/styles/<file>.png` | Native 16:9 stills, unmodified imports |
+| `public/styles/thumbs/<file>.webp` | Generated 400px grid thumbs (`npm run thumbs`) |
 
 Sources imported (REJECT files and `strips/` skipped):
 
@@ -108,4 +128,4 @@ Sources imported (REJECT files and `strips/` skipped):
 
 ## Stack
 
-Vite + React + TypeScript. Deployed from `main` via GitHub Actions → Pages.
+Vite + React + TypeScript. Window-virtualized gallery (`@tanstack/react-virtual`). Deployed from `main` via GitHub Actions → Pages.

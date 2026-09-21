@@ -157,10 +157,18 @@
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 520px), 1fr));
-  gap: 22px;
   margin-top: 20px;
+}
+
+.grid-inner {
+  position: relative;
+}
+
+.grid-row {
+  display: grid;
+  gap: 22px;
+  padding-bottom: 22px;
+  box-sizing: border-box;
 }
 
 .card {
