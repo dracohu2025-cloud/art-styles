@@ -48267,5 +48267,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3671",
+    "slug": "tonder-lace",
+    "name_en": "Tønder Lace",
+    "name_zh": "滕讷花边",
+    "description_en": "Tønder lace: Danish point-ground bobbin lace in fine linen, square réseau, gimp-outlined cloth-work sprigs and picot footside. Not Chantilly silk, not Honiton tape, not torchon.",
+    "description_zh": "滕讷花边：丹麦点地梭结蕾丝，细亚麻方网、加厚轮廓布绣花枝与齿边；非尚蒂伊黑丝、非霍尼顿带绣、非托尚粗菱网。",
+    "source": "hermes-explore",
+    "image": "styles/3714-tonder-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3672",
+    "slug": "fuse-nori",
+    "name_en": "Fuse-nori",
+    "name_zh": "伏糊",
+    "description_en": "Fuse-nori: covering rice-paste resist in tegaki yūzen, large reserved fields, crisp paste edges, flooded silk dyes. Not itome-nori hairlines alone, not katazome stencil, not batik crackle.",
+    "description_zh": "伏糊：手描友禅的覆盖防染糊，大面积留白、锐利糊边与丝绸浸染；非单用糸目糊、非型染、非蜡缬裂纹。",
+    "source": "hermes-explore",
+    "image": "styles/3715-fuse-nori.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3673",
+    "slug": "inaul",
+    "name_en": "Inaul",
+    "name_zh": "伊瑙织",
+    "description_en": "Inaul: Maguindanao handloom cotton-silk with iridescent warp stripes and langkit geometry. Not songket gold brocade, not t'nalak abaca ikat, not printed malong.",
+    "description_zh": "伊瑙织：棉兰老棉丝手织，虹彩经向条纹与兰吉特几何边饰；非宋吉金线织锦、非特纳拉克蕉麻絣、非印花马龙。",
+    "source": "hermes-explore",
+    "image": "styles/3716-inaul.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3674",
+    "slug": "spitzenbild",
+    "name_en": "Spitzenbild",
+    "name_zh": "花边剪纸",
+    "description_en": "Spitzenbild: German white paper-lace cutting, knife-cut filigree as the whole image. Not black Scherenschnitte silhouette, not polychrome wycinanki, not canivet holy-card punch.",
+    "description_zh": "花边剪纸：德语区白纸镂花，以刀刻细密花边构成全图；非黑影剪纸、非波兰彩纸剪花、非圣纸针凿。",
+    "source": "hermes-explore",
+    "image": "styles/3717-spitzenbild.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3675",
+    "slug": "siyah-mashq",
+    "name_en": "Siyah Mashq",
+    "name_zh": "黑练书法",
+    "description_en": "Siyah mashq: Persian black-practice calligraphy, dense overlapping nastaʿlīq from a reed qalam. Not a tughra monogram, not gold hilye illumination, not Chinese ink wash.",
+    "description_zh": "黑练书法：波斯黑墨叠字习书，芦笔纳斯塔利克密叠满纸；非图格拉花押、非金字希利耶、非水墨写意。",
+    "source": "hermes-explore",
+    "image": "styles/3718-siyah-mashq.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

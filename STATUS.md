@@ -10294,6 +10294,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3713, PNG count 3713. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 735 (exactly 5, h3671–h3675)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3671 | Tønder Lace             | 滕讷花边         | styles/3714-tonder-lace.png             |
+| h3672 | Fuse-nori               | 伏糊             | styles/3715-fuse-nori.png               |
+| h3673 | Inaul                   | 伊瑙织           | styles/3716-inaul.png                   |
+| h3674 | Spitzenbild             | 花边剪纸         | styles/3717-spitzenbild.png             |
+| h3675 | Siyah Mashq             | 黑练书法         | styles/3718-siyah-mashq.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3718, PNG count 3718. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
