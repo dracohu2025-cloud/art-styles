@@ -10042,6 +10042,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3623, PNG count 3623. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 717 (exactly 5, h3581–h3585)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3581 | Mise en couleur         | 表层富金         | styles/3624-mise-en-couleur.png         |
+| h3582 | NTSC Artifact Color     | NTSC伪彩         | styles/3625-ntsc-artifact-color.png     |
+| h3583 | Cholesteric LCD         | 胆甾相液晶       | styles/3626-cholesteric-lcd.png         |
+| h3584 | Minitel                 | 迷你泰尔         | styles/3627-minitel.png                 |
+| h3585 | Electrophoretic         | 电泳显示         | styles/3628-electrophoretic.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3628, PNG count 3628. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

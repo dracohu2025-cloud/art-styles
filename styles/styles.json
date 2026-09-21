@@ -47097,5 +47097,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3581",
+    "slug": "mise-en-couleur",
+    "name_en": "Mise en couleur",
+    "name_zh": "表层富金",
+    "description_en": "Mise en couleur depletion gilding: tumbaga surfaces pickled so gold blooms on highs while rose-copper stays in recesses. Not fire gilding, not foil stamp, not chrome.",
+    "description_zh": "表层富金：酸洗通巴加合金，高处富集金、凹处留玫瑰铜；非汞鎏、非烫金、非镀铬。",
+    "source": "hermes-explore",
+    "image": "styles/3624-mise-en-couleur.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3582",
+    "slug": "ntsc-artifact-color",
+    "name_en": "NTSC Artifact Color",
+    "name_zh": "NTSC伪彩",
+    "description_en": "NTSC composite artifact color: high-frequency luma decoded as rainbow chroma, checker fringing, smeared 240-line CRT. Not RGB pixel art, not JPEG glitch, not VHS snow.",
+    "description_zh": "NTSC伪彩：高频亮度被解成彩虹色度、棋盘色边与240线CRT拖影；非RGB像素、非JPEG故障、非录像带雪花。",
+    "source": "hermes-explore",
+    "image": "styles/3625-ntsc-artifact-color.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3583",
+    "slug": "cholesteric-lcd",
+    "name_en": "Cholesteric LCD",
+    "name_zh": "胆甾相液晶",
+    "description_en": "Cholesteric LCD Bragg reflection: helical pitch yields green-gold-crimson iridescence and dark focal-conic texture, no backlight. Not holographic foil, not car-paint goniochromism.",
+    "description_zh": "胆甾相液晶：螺旋螺距布拉格反射出绿金绯红虹彩与暗焦锥织构，无背光；非全息烫箔、非车漆随角异色。",
+    "source": "hermes-explore",
+    "image": "styles/3626-cholesteric-lcd.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3584",
+    "slug": "minitel",
+    "name_en": "Minitel",
+    "name_zh": "迷你泰尔",
+    "description_en": "French Minitel videotex mosaic: coarse 40-column alpha-mosaic cells, 8-color CRT palette, phosphor bloom. Not PETSCII, not teletext, not ANSI art.",
+    "description_zh": "迷你泰尔：法式视频文字马赛克，40列粗格、八色CRT与荧光晕；非PETSCII、非图文电视、非ANSI字符画。",
+    "source": "hermes-explore",
+    "image": "styles/3627-minitel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3585",
+    "slug": "electrophoretic",
+    "name_en": "Electrophoretic",
+    "name_zh": "电泳显示",
+    "description_en": "Electrophoretic e-paper: matte carbon-black microcapsules on paper-white, faint gray ghosting, no backlight. Not newspaper halftone, not lithograph, not charcoal.",
+    "description_zh": "电泳显示：纸白底上的哑光碳黑微囊，淡灰残影，无背光；非报纸网目、非石版、非炭笔。",
+    "source": "hermes-explore",
+    "image": "styles/3628-electrophoretic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
