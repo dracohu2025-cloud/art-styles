@@ -10140,6 +10140,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3658, PNG count 3658. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 724 (exactly 5, h3616–h3620)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3616 | Kurrent                 | 德文草书         | styles/3659-kurrent.png                 |
+| h3617 | Filigree Enamel         | 花丝珐琅         | styles/3660-filigree-enamel.png         |
+| h3618 | Flushwork               | 燧石齐砌         | styles/3661-flushwork.png               |
+| h3619 | Gnathian                | 格纳西亚陶绘     | styles/3662-gnathian.png                |
+| h3620 | Bojagi                  | 褓布拼缝         | styles/3663-bojagi.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3663, PNG count 3663. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -47552,5 +47552,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3616",
+    "slug": "kurrent",
+    "name_en": "Kurrent",
+    "name_zh": "德文草书",
+    "description_en": "Kurrent: historical German cursive (Kurrentschrift) as the drawing language — dense angular loops, long-s, iron-gall brown-black on laid paper. Not Copperplate, not Fraktur, not print.",
+    "description_zh": "德文草书：以库伦特体（Kurrentschrift）作画面语言，密排折角连笔、长s、五倍子褐黑墨写在罗纹纸上；非圆体英文、非尖角哥特、非印刷体。",
+    "source": "hermes-explore",
+    "image": "styles/3659-kurrent.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3617",
+    "slug": "filigree-enamel",
+    "name_en": "Filigree Enamel",
+    "name_zh": "花丝珐琅",
+    "description_en": "Filigree Enamel: open silver filigree cells filled with translucent vitreous enamel; light through puddles, wire skeleton visible. Not cloisonné strips, not champlevé, not paillon.",
+    "description_zh": "花丝珐琅：银花丝镂空格填透明珐琅，透光色淀与金属骨架可见；非掐丝景泰蓝、非錾胎、非箔片珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3660-filigree-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3618",
+    "slug": "flushwork",
+    "name_en": "Flushwork",
+    "name_zh": "燧石齐砌",
+    "description_en": "Flushwork: East Anglian knapped black flint set flush with pale limestone ashlar in one plane, traceried dark/light masonry. Not pebble mosaic, not opus quadratum, not flint rubble.",
+    "description_zh": "燧石齐砌：东盎格利亚式剥裂黑燧石与浅石灰岩齐平面嵌砌，深浅砌纹如窗花；非卵石镶嵌、非方石砌、非乱石墙。",
+    "source": "hermes-explore",
+    "image": "styles/3661-flushwork.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3619",
+    "slug": "gnathian",
+    "name_en": "Gnathian",
+    "name_zh": "格纳西亚陶绘",
+    "description_en": "Gnathian: Apulian black-gloss ware with added yellow, white, and purple-red overpaint, vine scrolls on jet gloss. Not red-figure, not black-figure, not white-ground.",
+    "description_zh": "格纳西亚陶绘：阿普利亚黑釉陶上加绘黄、白与紫红，藤蔓落在亮黑釉面；非红绘、非黑绘、非白底油瓶。",
+    "source": "hermes-explore",
+    "image": "styles/3662-gnathian.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3620",
+    "slug": "bojagi",
+    "name_en": "Bojagi",
+    "name_zh": "褓布拼缝",
+    "description_en": "Bojagi: Korean wrapping-cloth patchwork — translucent ramie/silk rectangles, tiny flat seams, overlapping color fields. Not lofted quilting, not crazy quilt, not stained glass.",
+    "description_zh": "褓布拼缝：韩国包袱布式薄苎麻/丝绸方片以细平缝拼合，透叠色块；非蓬松绗缝、非狂拼被、非彩色玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3663-bojagi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
