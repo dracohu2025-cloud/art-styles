@@ -10210,6 +10210,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3683, PNG count 3683. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 729 (exactly 5, h3641–h3645)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3641 | Galleting               | 石屑嵌缝         | styles/3684-galleting.png               |
+| h3642 | Mathematical Tiles      | 数学贴砖         | styles/3685-mathematical-tiles.png      |
+| h3643 | Physiotype              | 植物压印         | styles/3686-physiotype.png              |
+| h3644 | Punched Gold Ground     | 打点金地         | styles/3687-punched-gold-ground.png     |
+| h3645 | Monk's Belt             | 僧带织           | styles/3688-monks-belt.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3688, PNG count 3688. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -47877,5 +47877,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3641",
+    "slug": "galleting",
+    "name_en": "Galleting",
+    "name_zh": "石屑嵌缝",
+    "description_en": "Galleting: vernacular masonry with small pebbles and flint chips pressed into thick lime mortar joints between larger stones, a studded gravel-flecked joint. Not knapped-flint flushwork, not pebble-dash render, not terrazzo.",
+    "description_zh": "石屑嵌缝：在厚石灰砂浆缝中嵌入小卵石与燧石屑，形成砂砾密布的砌缝；非燧石齐砌、非卵石拉毛、非水磨石。",
+    "source": "hermes-explore",
+    "image": "styles/3684-galleting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3642",
+    "slug": "mathematical-tiles",
+    "name_en": "Mathematical Tiles",
+    "name_zh": "数学贴砖",
+    "description_en": "Mathematical tiles: 18th-century English glazed hanging tiles with a lip, laid to imitate Flemish-bond brick on timber, ceramic sheen and slightly too-regular fake brick. Not true brickwork, not Delft tile, not mathematical-as-object.",
+    "description_zh": "数学贴砖：十八世纪英国带唇釉面挂瓦，仿佛兰德砌砖挂于木骨，瓷光略齐的假砖纹；非真砌砖、非代尔夫特砖、非砖块实物。",
+    "source": "hermes-explore",
+    "image": "styles/3685-mathematical-tiles.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3643",
+    "slug": "physiotype",
+    "name_en": "Physiotype",
+    "name_zh": "植物压印",
+    "description_en": "Physiotype: 19th-century nature printing — plants pressed into a soft lead or gutta-percha plate, inked and printed with ultra-sharp vein relief and plate tone. Not cyanotype, not herbarium collage, not gyotaku.",
+    "description_zh": "植物压印：十九世纪自然印法，将植株压入软铅或杜仲胶版再上墨印刷，叶脉浮凸极清、带版调；非蓝晒、非标本拼贴、非鱼拓。",
+    "source": "hermes-explore",
+    "image": "styles/3686-physiotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3644",
+    "slug": "punched-gold-ground",
+    "name_en": "Punched Gold Ground",
+    "name_zh": "打点金地",
+    "description_en": "Punched gold ground: medieval panel gilding — gold leaf on red bole tooled with punches into dots, stars, circles and quatrefoils on burnished gold. Not plain gold leaf, not mosaic, not cloisonné.",
+    "description_zh": "打点金地：中世纪木板贴金，红胶地上金箔再用冲子打出点、星、圈与四叶纹的灼亮金地；非素金箔、非马赛克、非掐丝珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3687-punched-gold-ground.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3645",
+    "slug": "monks-belt",
+    "name_en": "Monk's Belt",
+    "name_zh": "僧带织",
+    "description_en": "Monk's belt: traditional overshot weave with a supplementary weft of rectangular color-block bands — nested bars in indigo, madder and cream on a warp-faced ground. Not tapestry, not bargello, not embroidery.",
+    "description_zh": "僧带织：传统过纬浮织，以附加纬织出靛蓝、茜红与米色的矩形色块带，经面地组织清晰；非挂毯、非火焰绣、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/3688-monks-belt.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
