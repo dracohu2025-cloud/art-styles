@@ -47227,5 +47227,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3591",
+    "slug": "bouquet-marbling",
+    "name_en": "Bouquet Marbling",
+    "name_zh": "花束水拓",
+    "description_en": "Bouquet marbling: stylus-raked U-shaped plumes stacked like flower sprays on sized paper, oxblood-indigo-ochre veins. Not nonpareil straight comb, not stormont spots, not Spanish-wave stretch.",
+    "description_zh": "花束水拓：在浆上用针耙出层叠U形花束羽纹，褐红靛蓝赭黄脉络；非直梳无双纹、非斯托蒙特斑点、非西班牙波纹拉伸。",
+    "source": "hermes-explore",
+    "image": "styles/3634-bouquet-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3592",
+    "slug": "kassena-mural",
+    "name_en": "Kassena Mural",
+    "name_zh": "卡塞纳壁画",
+    "description_en": "Kassena mural: lime-white adobe, soot-black and laterite geometry, incised outlines, checker and chevron glyphs of Tiébélé painted houses. Not Ndebele bright enamel, not zellige tile, not Litema sgraffito.",
+    "description_zh": "卡塞纳壁画：石灰白土墙、煤黑与红土几何、刻线轮廓与棋盘人字纹，蒂埃贝莱彩屋画法；非恩德贝勒亮釉、非泽利格瓷砖、非利特玛刮刻。",
+    "source": "hermes-explore",
+    "image": "styles/3635-kassena-mural.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3593",
+    "slug": "duchesse-lace",
+    "name_en": "Duchesse Lace",
+    "name_zh": "公爵夫人蕾丝",
+    "description_en": "Duchesse lace: Belgian bobbin-lace tapes of raised roses and leaves joined by brides, ivory linen-silk on dark ground. Not Point de Gaze needle mesh, not Honiton sprigs, not Chantilly silk net.",
+    "description_zh": "公爵夫人蕾丝：比利时梭结带状蕾丝，浮雕玫瑰叶以连接线拼合，象牙麻丝铺于深地；非针绣薄纱、非霍尼顿散花、非尚蒂伊网底。",
+    "source": "hermes-explore",
+    "image": "styles/3636-duchesse-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3594",
+    "slug": "opus-latericium",
+    "name_en": "Opus Latericium",
+    "name_zh": "罗马砖砌",
+    "description_en": "Opus latericium: Roman brick-faced concrete, triangular lateres in even courses with lime joints, caementicium core. Not opus reticulatum net, not opus incertum rubble, not opus quadratum ashlar.",
+    "description_zh": "罗马砖砌：三角砖整齐顺砌贴面、灰缝与混凝土芯；非网状菱砖、非乱石砌、非大方石干砌。",
+    "source": "hermes-explore",
+    "image": "styles/3637-opus-latericium.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3595",
+    "slug": "hansan-mosi",
+    "name_en": "Hansan Mosi",
+    "name_zh": "韩山苎麻",
+    "description_en": "Hansan mosi: fine Korean ramie tabby, cool open summer weave, ramie slubs and sheer celadon-ivory sheen. Not ramie jofu, not hemp asa, not silk tabby.",
+    "description_zh": "韩山苎麻：韩国细苎麻平纹，凉爽透空夏布、苎麻节与青白光泽；非苎麻上布、非大麻布、非丝平纹。",
+    "source": "hermes-explore",
+    "image": "styles/3638-hansan-mosi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

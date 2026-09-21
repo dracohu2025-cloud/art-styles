@@ -10070,6 +10070,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3633, PNG count 3633. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 719 (exactly 5, h3591–h3595)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3591 | Bouquet Marbling        | 花束水拓         | styles/3634-bouquet-marbling.png        |
+| h3592 | Kassena Mural           | 卡塞纳壁画       | styles/3635-kassena-mural.png           |
+| h3593 | Duchesse Lace           | 公爵夫人蕾丝     | styles/3636-duchesse-lace.png           |
+| h3594 | Opus Latericium         | 罗马砖砌         | styles/3637-opus-latericium.png         |
+| h3595 | Hansan Mosi             | 韩山苎麻         | styles/3638-hansan-mosi.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3638, PNG count 3638. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
