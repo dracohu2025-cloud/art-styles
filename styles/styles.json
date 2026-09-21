@@ -47682,5 +47682,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3626",
+    "slug": "oystering",
+    "name_en": "Oystering",
+    "name_zh": "牡蛎贴皮",
+    "description_en": "Oystering: oyster-cut veneer — concentric end-grain slices of walnut, olive, yew laid like shells, book-matched rings, French-polish sheen. Not parquetry cubes, not boulle, not yosegi.",
+    "description_zh": "牡蛎贴皮：蚝切木皮——核桃、橄榄、紫杉端纹同心切片如蚝壳铺排、对纹年轮、法式抛光；非方格细木、非布勒、非寄木。",
+    "source": "hermes-explore",
+    "image": "styles/3669-oystering.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3627",
+    "slug": "limerick-lace",
+    "name_en": "Limerick Lace",
+    "name_zh": "利默里克花边",
+    "description_en": "Limerick lace: tambour chain and needle-run fillings on machine bobbinet — hexagonal net ground, picot scallops, white-on-white. Not Honiton, not Carrickmacross, not Chantilly.",
+    "description_zh": "利默里克花边：机织网地上绷圈链绣与针走填花——六角棉网、皮科特荷叶边、白上白；非霍尼顿、非卡里克麦克罗斯、非尚蒂伊。",
+    "source": "hermes-explore",
+    "image": "styles/3670-limerick-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3628",
+    "slug": "ruby-flash",
+    "name_en": "Ruby Flash",
+    "name_zh": "套红切玻",
+    "description_en": "Ruby flash: cranberry flashed overlay wheel-cut through to clear crystal — mitre cuts, copper-wheel engraving in the flash. Not plain cranberry glass, not stained glass, not enamel.",
+    "description_zh": "套红切玻：宝石红套色层轮刻透至净晶——斜棱切、套层上铜轮雕；非素红玻、非彩绘玻璃、非珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3671-ruby-flash.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3629",
+    "slug": "rustication",
+    "name_en": "Rustication",
+    "name_zh": "粗面砌",
+    "description_en": "Rustication: rock-faced masonry with deep-drafted margins and heavy shadow joints — Mannerist palazzo wall, limestone bosses. Not smooth ashlar, not opus quadratum, not brick.",
+    "description_zh": "粗面砌：毛面石块加深凿边缝与重阴影接缝——样式主义宫墙、石灰岩凸块；非光面方石、非罗马方石砌、非砖砌。",
+    "source": "hermes-explore",
+    "image": "styles/3672-rustication.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3630",
+    "slug": "rosepath",
+    "name_en": "Rosepath",
+    "name_zh": "玫瑰径织",
+    "description_en": "Rosepath (rosengang): bound-path weave of small repeating rose-diamond units, complementary weft faces, Nordic coverlet wool. Not overshot, not monk's belt, not krokbragd.",
+    "description_zh": "玫瑰径织：束缚路径组织——小重复玫瑰菱纹、互补纬面、北欧床罩羊毛；非过纬、非僧带织、非克罗克布拉格。",
+    "source": "hermes-explore",
+    "image": "styles/3673-rosepath.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

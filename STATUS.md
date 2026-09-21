@@ -10168,6 +10168,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3668, PNG count 3668. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 726 (exactly 5, h3626–h3630)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3626 | Oystering               | 牡蛎贴皮         | styles/3669-oystering.png               |
+| h3627 | Limerick Lace           | 利默里克花边     | styles/3670-limerick-lace.png           |
+| h3628 | Ruby Flash              | 套红切玻         | styles/3671-ruby-flash.png              |
+| h3629 | Rustication             | 粗面砌           | styles/3672-rustication.png             |
+| h3630 | Rosepath                | 玫瑰径织         | styles/3673-rosepath.png                |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3673, PNG count 3673. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
