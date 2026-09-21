@@ -10182,6 +10182,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3673, PNG count 3673. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 727 (exactly 5, h3631–h3635)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3631 | Tape Lace               | 带状花边         | styles/3674-tape-lace.png               |
+| h3632 | Lustre Resist           | 抗蚀虹彩         | styles/3675-lustre-resist.png           |
+| h3633 | Marezzo                 | 马雷佐仿石       | styles/3676-marezzo.png                 |
+| h3634 | Cavo-rilievo            | 凹浮雕           | styles/3677-cavo-rilievo.png            |
+| h3635 | Engine-turned Pottery   | 车花陶器         | styles/3678-engine-turned-pottery.png   |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3678, PNG count 3678. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

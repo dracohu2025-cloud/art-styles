@@ -47747,5 +47747,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3631",
+    "slug": "tape-lace",
+    "name_en": "Tape Lace",
+    "name_zh": "带状花边",
+    "description_en": "Tape lace (dentelle à ruban): flattened woven tapes form the drawing, joined by needle brides, fillings and picots — ecru linen paths, airy openwork. Not bobbin lace, not crochet, not satin embroidery.",
+    "description_zh": "带状花边：扁织带构成线描，针绣连接线、填充与皮科结——本色亚麻带径、通透漏空；非梭结花边、非钩针、非缎绣。",
+    "source": "hermes-explore",
+    "image": "styles/3674-tape-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3632",
+    "slug": "lustre-resist",
+    "name_en": "Lustre Resist",
+    "name_zh": "抗蚀虹彩",
+    "description_en": "Lustre resist: Staffordshire silver/gold lustre with resist-reserved cream earthenware — mottled pink-silver iridescence, white clay showing through. Not plain lustreware, not majolica, not gold leaf.",
+    "description_zh": "抗蚀虹彩：斯塔福德银金虹彩配合抗蚀留白陶地——粉银斑驳虹光、化妆土显露；非素虹彩陶、非马略卡、非金箔。",
+    "source": "hermes-explore",
+    "image": "styles/3675-lustre-resist.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3633",
+    "slug": "marezzo",
+    "name_en": "Marezzo",
+    "name_zh": "马雷佐仿石",
+    "description_en": "Marezzo: 19th-c. imitation marble of gypsum, alum and pigment — satin polish, alabaster translucency, fine grey-rose and verde veins. Not quarried marble, not scagliola chips, not terrazzo.",
+    "description_zh": "马雷佐仿石：十九世纪石膏明矾颜料仿大理石——缎面抛光、雪花石膏透光、灰玫瑰与青绿细脉；非真石、非嵌片仿石、非水磨石。",
+    "source": "hermes-explore",
+    "image": "styles/3676-marezzo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3634",
+    "slug": "cavo-rilievo",
+    "name_en": "Cavo-rilievo",
+    "name_zh": "凹浮雕",
+    "description_en": "Cavo-rilievo (sunk relief): figure cut into the stone plane with incised contour and interior modeling below the surface — raking light on sandstone. Not raised bas-relief, not intaglio print, not outline drawing.",
+    "description_zh": "凹浮雕：形象切入石面，外轮廓阴刻、内部起伏低于原平面——砂岩侧光；非凸起浅浮雕、非凹版画、非线描。",
+    "source": "hermes-explore",
+    "image": "styles/3677-cavo-rilievo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3635",
+    "slug": "engine-turned-pottery",
+    "name_en": "Engine-turned Pottery",
+    "name_zh": "车花陶器",
+    "description_en": "Engine-turned pottery: leather-hard clay cut on a rose-engine lathe — concentric chevrons, barleycorn and basket grounds on creamware. Not metal guilloché, not engraved glass, not transfer print.",
+    "description_zh": "车花陶器：半干坯上玫瑰引擎车床切削——同心人字、麦粒与篮纹地、奶油陶；非金属引擎纹、非玻璃雕刻、非贴花转印。",
+    "source": "hermes-explore",
+    "image": "styles/3678-engine-turned-pottery.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
