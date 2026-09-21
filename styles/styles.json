@@ -48332,5 +48332,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3676",
+    "slug": "funzome",
+    "name_en": "Funzome",
+    "name_zh": "粉染",
+    "description_en": "Funzome: Japanese powdered-dye on paste-resisted cloth — dry mineral pigments dusted into the fiber as granulated veils. Not liquid vat dyeing, not shibori puckers, not maki-e gold sprinkle.",
+    "description_zh": "粉染：日本粉状颜料拍入防染糊布的颗粒色晕；非液体浸染、非絞缬皱褶、非莳绘金粉。",
+    "source": "hermes-explore",
+    "image": "styles/3719-funzome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3677",
+    "slug": "sungkit",
+    "name_en": "Sungkit",
+    "name_zh": "松吉特",
+    "description_en": "Sungkit: Iban/Malay supplementary-weft wrapping — counted silk coils around warps into hooked diamonds. Not ikat blur, not songket gold float, not satin-stitch embroidery.",
+    "description_zh": "松吉特：伊班/马来补纬缠绕，经纱上计数缠丝成钩菱纹；非絣织晕纹、非宋葛金浮纬、非缎绣。",
+    "source": "hermes-explore",
+    "image": "styles/3720-sungkit.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3678",
+    "slug": "lusona",
+    "name_en": "Lusona",
+    "name_zh": "卢索纳",
+    "description_en": "Lusona: Chokwe sona sand drawing — a continuous white finger-line tracing Eulerian paths around a dotted grid on dark earth. Not rangoli color powder, not kolam rice flour, not Celtic knotwork.",
+    "description_zh": "卢索纳：乔奎索纳沙画，深色沙地上绕点网格一笔白线走欧拉回路；非蓝戈利彩粉、非科拉姆米画、非凯尔特结。",
+    "source": "hermes-explore",
+    "image": "styles/3721-lusona.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3679",
+    "slug": "kuba-cut-pile",
+    "name_en": "Kuba Cut-pile",
+    "name_zh": "库巴割绒",
+    "description_en": "Kuba cut-pile: Kasai raffia velvet — embroidered then sheared pile islands of diamonds and chevrons on a flat raffia ground. Not kente strip weave, not bogolan mudcloth, not European voided velvet.",
+    "description_zh": "库巴割绒：开赛拉菲亚割绒，刺绣后再剪绒成菱纹与折线岛；非肯特条织、非博戈兰泥染、非欧洲镂空天鹅绒。",
+    "source": "hermes-explore",
+    "image": "styles/3722-kuba-cut-pile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3680",
+    "slug": "becquetage",
+    "name_en": "Becquetage",
+    "name_zh": "啄刻",
+    "description_en": "Becquetage: French reproductive engraving tone from thousands of tiny burin pecks and flicks. Not mezzotint rocker burr, not stipple-roulette dots, not aquatint resin grain.",
+    "description_zh": "啄刻：法国复制铜版以雕刀细啄积调；非美柔汀摇点刀、非滚点针、非飞尘树脂颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3723-becquetage.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

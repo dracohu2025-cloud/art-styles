@@ -10308,6 +10308,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3718, PNG count 3718. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 736 (exactly 5, h3676–h3680)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3676 | Funzome                 | 粉染             | styles/3719-funzome.png                 |
+| h3677 | Sungkit                 | 松吉特           | styles/3720-sungkit.png                 |
+| h3678 | Lusona                  | 卢索纳           | styles/3721-lusona.png                  |
+| h3679 | Kuba Cut-pile           | 库巴割绒         | styles/3722-kuba-cut-pile.png           |
+| h3680 | Becquetage              | 啄刻             | styles/3723-becquetage.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3723, PNG count 3723. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
