@@ -10322,6 +10322,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3723, PNG count 3723. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 737 (exactly 5, h3681–h3685)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3681 | Brokatpapier            | 织锦烫金纸       | styles/3724-brokatpapier.png            |
+| h3682 | Blackletter             | 黑字母体         | styles/3725-blackletter.png             |
+| h3683 | Trewhiddle              | 特雷威德尔纹     | styles/3726-trewhiddle.png              |
+| h3684 | Palaz                   | 帕拉兹平织       | styles/3727-palaz.png                   |
+| h3685 | Point de Hongrie        | 火焰针绣         | styles/3728-point-de-hongrie.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3728, PNG count 3728. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

@@ -48397,5 +48397,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3681",
+    "slug": "brokatpapier",
+    "name_en": "Brokatpapier",
+    "name_zh": "织锦烫金纸",
+    "description_en": "Brokatpapier: German Baroque gilt brocade paper — powdered gold and bronze palmettes crushed into a colored ground. Not chiyogami woodblock, not marbled paper, not manuscript gold leaf.",
+    "description_zh": "织锦烫金纸：德国巴洛克金粉织锦纹纸，铜金棕榈纹压入色地；非千代纸木版、非大理石纹纸、非写本贴金。",
+    "source": "hermes-explore",
+    "image": "styles/3724-brokatpapier.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3682",
+    "slug": "blackletter",
+    "name_en": "Blackletter",
+    "name_zh": "黑字母体",
+    "description_en": "Blackletter: Gothic textura quadrata — broken minims, diamond terminals, iron-gall black on parchment with rubric flashes. Not Fraktur metal type, not copperplate, not Roman square capitals.",
+    "description_zh": "黑字母体：哥特纹理体，折笔竖画与菱形字脚、羊皮纸上的五倍子黑与朱笔；非弗拉克图铅字、非圆体英文、非罗马方资本字。",
+    "source": "hermes-explore",
+    "image": "styles/3725-blackletter.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3683",
+    "slug": "trewhiddle",
+    "name_en": "Trewhiddle",
+    "name_zh": "特雷威德尔纹",
+    "description_en": "Trewhiddle: 9th-century Anglo-Saxon niello in silver — speckled-bodied animals, foliate tails, beaded borders on a black niello ground. Not Urnes gripping-beasts, not Jellinge ribbons, not Celtic knotwork.",
+    "description_zh": "特雷威德尔纹：九世纪盎格鲁-撒克逊银上黑金镶嵌，斑身小兽与叶尾、连珠边；非乌尔内斯绞兽、非耶林带兽、非凯尔特结。",
+    "source": "hermes-explore",
+    "image": "styles/3726-trewhiddle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3684",
+    "slug": "palaz",
+    "name_en": "Palaz",
+    "name_zh": "帕拉兹平织",
+    "description_en": "Palaz: Anatolian weft-faced flatweave — slit-tapestry stepped diamonds and hooked bands in madder, indigo, ivory. Not pile carpet, not Navajo tapestry, not embroidered kilim.",
+    "description_zh": "帕拉兹平织：安纳托利亚纬面平织，开口挂毯阶梯菱与钩带，茜红靛蓝牙白；非栽绒毯、非纳瓦霍挂毯、非刺绣基里姆。",
+    "source": "hermes-explore",
+    "image": "styles/3727-palaz.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3685",
+    "slug": "point-de-hongrie",
+    "name_en": "Point de Hongrie",
+    "name_zh": "火焰针绣",
+    "description_en": "Point de Hongrie: Hungarian point / flame stitch — counted vertical canvas stitches in zigzag bargello mountains. Not houndstooth, not ikat warp blur, not tent-stitch sampler letters.",
+    "description_zh": "火焰针绣：匈牙利点针／火焰针，经计针竖线走折线巴尔杰洛山纹；非千鸟格、非絣织经晕、非斜针字母样绣。",
+    "source": "hermes-explore",
+    "image": "styles/3728-point-de-hongrie.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
