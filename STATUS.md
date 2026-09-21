@@ -10112,6 +10112,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3648, PNG count 3648. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 722 (exactly 5, h3606–h3610)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3606 | Temari                  | 手鞠             | styles/3649-temari.png                  |
+| h3607 | Gadrooning              | 瓜棱纹           | styles/3650-gadrooning.png              |
+| h3608 | Purple Parchment        | 紫羊皮纸         | styles/3651-purple-parchment.png        |
+| h3609 | Opus Quadratum          | 方石砌           | styles/3652-opus-quadratum.png          |
+| h3610 | Gesture Drawing         | 动态速写         | styles/3653-gesture-drawing.png         |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3653, PNG count 3653. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

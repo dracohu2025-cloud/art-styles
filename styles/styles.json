@@ -47422,5 +47422,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3606",
+    "slug": "temari",
+    "name_en": "Temari",
+    "name_zh": "手鞠",
+    "description_en": "Temari: Japanese wound-thread geometric craft — silk wrapped in interlocking kiku-mari stars and diamond lattices with satin sheen. Not knitting, not cloth embroidery, not kimekomi.",
+    "description_zh": "手鞠：日本缠线几何工艺，丝线绕成菊鞠星纹与菱格，缎面光泽；非编织、非布面刺绣、非木目込。",
+    "source": "hermes-explore",
+    "image": "styles/3649-temari.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3607",
+    "slug": "gadrooning",
+    "name_en": "Gadrooning",
+    "name_zh": "瓜棱纹",
+    "description_en": "Gadrooning: convex radiating lobes and reeded ribs from silversmith and furniture ornament. Not concave fluting, not wrythen twist, not melon-lobed glass.",
+    "description_zh": "瓜棱纹：金银器与家具上的凸起辐射瓜瓣与棱脊；非凹槽纹、非扭棱玻璃、非瓜棱吹制。",
+    "source": "hermes-explore",
+    "image": "styles/3650-gadrooning.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3608",
+    "slug": "purple-parchment",
+    "name_en": "Purple Parchment",
+    "name_zh": "紫羊皮纸",
+    "description_en": "Purple Parchment: imperial purple-dyed vellum with burnished gold and silver chrysography. Not cream parchment, not gold-ground panel, not mosaic.",
+    "description_zh": "紫羊皮纸：帝王紫染羊皮纸上的金银泥书绘；非本色羊皮、非金地木板、非马赛克。",
+    "source": "hermes-explore",
+    "image": "styles/3651-purple-parchment.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3609",
+    "slug": "opus-quadratum",
+    "name_en": "Opus Quadratum",
+    "name_zh": "方石砌",
+    "description_en": "Opus Quadratum: Roman squared ashlar — large regularly coursed tufa and travertine blocks with drafted margins. Not latericium brick, not reticulatum net, not incertum rubble.",
+    "description_zh": "方石砌：罗马规整方石墙，凝灰与洞石成层砌筑、边框修整；非砖砌、非网纹砌、非乱石砌。",
+    "source": "hermes-explore",
+    "image": "styles/3652-opus-quadratum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3610",
+    "slug": "gesture-drawing",
+    "name_en": "Gesture Drawing",
+    "name_zh": "动态速写",
+    "description_en": "Gesture Drawing: fast charcoal and conté strokes capturing weight, torque, and motion with searching pentimenti. Not blind contour, not finished academic drawing, not mass-drawing tonal blocks.",
+    "description_zh": "动态速写：炭笔与康泰粉笔快速捕捉重量、扭转与动势，叠笔修改；非盲轮廓、非完成学院素描、非团块明暗。",
+    "source": "hermes-explore",
+    "image": "styles/3653-gesture-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
