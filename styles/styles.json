@@ -47032,5 +47032,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3576",
+    "slug": "horinuri",
+    "name_en": "Horinuri",
+    "name_zh": "彫塗",
+    "description_en": "Carved-and-filled urushi: incised grooves packed with contrasting lacquer then polished flush. Not maki-e sprinkle, not chinkin gold-in-cut, not tsuishu layered carve.",
+    "description_zh": "彫塗：在漆面刻槽再填入对比色漆并磨平；非莳绘洒金、非沉金、非堆朱层雕。",
+    "source": "hermes-explore",
+    "image": "styles/3619-horinuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3577",
+    "slug": "chladni-figure",
+    "name_en": "Chladni Figure",
+    "name_zh": "克拉尼尘纹",
+    "description_en": "Chladni figures: powder heaping on nodal lines of a vibrating plate, empty antinodes. Not liquid cymatics, not stipple engraving, not mezzotint grain.",
+    "description_zh": "克拉尼尘纹：振动板上粉末沿节线堆积、腹点清空；非液体声波图、非点刻铜版、非美柔汀颗粒。",
+    "source": "hermes-explore",
+    "image": "styles/3620-chladni-figure.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3578",
+    "slug": "diaphanotype",
+    "name_en": "Diaphanotype",
+    "name_zh": "透光布基正片",
+    "description_en": "Diaphanotype: translucent 19th-century photographic positive on cloth or thin paper, viewed by transmitted light. Not albumen, not ambrotype glass, not opalotype.",
+    "description_zh": "透光布基正片：十九世纪透光布或薄纸正像；非蛋白印相、非安布罗玻璃、非乳白玻璃相。",
+    "source": "hermes-explore",
+    "image": "styles/3621-diaphanotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3579",
+    "slug": "mouchete",
+    "name_en": "Moucheté",
+    "name_zh": "斑点釉饰",
+    "description_en": "Moucheté speckled enamel/glaze: irregular fired flecks fused into a cream ground. Not pointillism, not stipple engraving, not airbrush spray.",
+    "description_zh": "斑点釉饰：不规则色点熔入奶油色釉地；非点彩、非点刻铜版、非喷笔。",
+    "source": "hermes-explore",
+    "image": "styles/3622-mouchete.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3580",
+    "slug": "kegaki",
+    "name_en": "Kegaki",
+    "name_zh": "毛描",
+    "description_en": "Kegaki hairline brush contours: tapered weasel-hair sumi outlines holding flat mineral washes. Not kebori metal engraving, not tsukegaki ceramic outline, not western crosshatch.",
+    "description_zh": "毛描：鼬毫般收尖的墨线勾勒，内填平涂岩彩；非毛彫金属刻、非付描陶绘、非西式交叉线。",
+    "source": "hermes-explore",
+    "image": "styles/3623-kegaki.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

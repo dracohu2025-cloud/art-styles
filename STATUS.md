@@ -10028,6 +10028,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3618, PNG count 3618. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 716 (exactly 5, h3576–h3580)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3576 | Horinuri                | 彫塗             | styles/3619-horinuri.png                |
+| h3577 | Chladni Figure          | 克拉尼尘纹       | styles/3620-chladni-figure.png          |
+| h3578 | Diaphanotype            | 透光布基正片     | styles/3621-diaphanotype.png            |
+| h3579 | Moucheté                | 斑点釉饰         | styles/3622-mouchete.png                |
+| h3580 | Kegaki                  | 毛描             | styles/3623-kegaki.png                  |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3623, PNG count 3623. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
