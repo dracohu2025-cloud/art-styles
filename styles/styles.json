@@ -47292,5 +47292,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3596",
+    "slug": "maltese-lace",
+    "name_en": "Maltese Lace",
+    "name_zh": "马耳他蕾丝",
+    "description_en": "Maltese lace: silk bobbin lace with eight-pointed Maltese crosses, wheat-ear tallies, cloth-stitch and picot mesh. Not Chantilly, not Duchesse, not Honiton.",
+    "description_zh": "马耳他蕾丝：丝线梭结蕾丝，八角马耳他十字、麦穗结、布纹针与齿边网地；非尚蒂伊、非公爵夫人蕾丝、非霍尼顿。",
+    "source": "hermes-explore",
+    "image": "styles/3639-maltese-lace.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3597",
+    "slug": "qionglai",
+    "name_en": "Qionglai",
+    "name_zh": "邛崃窑",
+    "description_en": "Qionglai ware: Tang Sichuan stoneware with splashed copper-green and iron-brown ash glaze on a coarse gray-buff body. Not Longquan celadon, not Changsha, not Jun.",
+    "description_zh": "邛崃窑：唐四川粗砂灰胎，铜绿与铁褐灰釉泼洒流淌；非龙泉青瓷、非长沙窑、非钧窑。",
+    "source": "hermes-explore",
+    "image": "styles/3640-qionglai.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3598",
+    "slug": "electrofax",
+    "name_en": "Electrofax",
+    "name_zh": "氧化锌电摄影",
+    "description_en": "Electrofax: zinc-oxide coated paper electrophotography with dusty powder toner, electrostatic edge fringing, mottled brown-gray copy grain. Not xerography, not diazotype.",
+    "description_zh": "氧化锌电摄影：氧化锌涂层纸静电成像，粉状碳粉、静电边缘毛刺与褐灰斑驳复印颗粒；非静电复印、非重氮蓝图。",
+    "source": "hermes-explore",
+    "image": "styles/3641-electrofax.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3599",
+    "slug": "pebble-mosaic",
+    "name_en": "Pebble Mosaic",
+    "name_zh": "卵石镶嵌",
+    "description_en": "Pebble mosaic: Hellenistic floor mosaic of river-worn pebbles packed in lime mortar, contour stones outlining form. Not opus tessellatum, not vermiculatum tesserae.",
+    "description_zh": "卵石镶嵌：希腊化时期河卵石嵌于石灰砂浆，轮廓石勾形；非方石马赛克、非微粒虫纹镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/3642-pebble-mosaic.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3600",
+    "slug": "lombardic-capitals",
+    "name_en": "Lombardic Capitals",
+    "name_zh": "伦巴第大写",
+    "description_en": "Lombardic capitals: round medieval display versals with split stems, bulbous terminals, and red-blue-gold filled counters. Not rustic capitals, not capitalis quadrata, not Carolingian minuscule.",
+    "description_zh": "伦巴第大写：中世纪圆形装饰大写，分叉字干、球状字脚与红蓝金填心；非 Rustic 大写、非方资本体、非加洛林小写。",
+    "source": "hermes-explore",
+    "image": "styles/3643-lombardic-capitals.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

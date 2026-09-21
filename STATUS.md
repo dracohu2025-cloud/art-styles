@@ -10084,6 +10084,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3638, PNG count 3638. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 720 (exactly 5, h3596–h3600)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3596 | Maltese Lace            | 马耳他蕾丝       | styles/3639-maltese-lace.png            |
+| h3597 | Qionglai                | 邛崃窑           | styles/3640-qionglai.png                |
+| h3598 | Electrofax              | 氧化锌电摄影     | styles/3641-electrofax.png              |
+| h3599 | Pebble Mosaic           | 卵石镶嵌         | styles/3642-pebble-mosaic.png           |
+| h3600 | Lombardic Capitals      | 伦巴第大写       | styles/3643-lombardic-capitals.png      |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3643, PNG count 3643. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
