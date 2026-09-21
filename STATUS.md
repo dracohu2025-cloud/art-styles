@@ -10056,6 +10056,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3628, PNG count 3628. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 718 (exactly 5, h3586–h3590)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3586 | Sbruffo                 | 喷粉玻璃         | styles/3629-sbruffo.png                 |
+| h3587 | Morikin                 | 盛金             | styles/3630-morikin.png                 |
+| h3588 | Ivorotype               | 象牙相纸         | styles/3631-ivorotype.png               |
+| h3589 | Kanga                   | 汉画             | styles/3632-kanga.png                   |
+| h3590 | Honzo-e                 | 本草绘           | styles/3633-honzo-e.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3633, PNG count 3633. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

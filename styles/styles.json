@@ -47162,5 +47162,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3586",
+    "slug": "sbruffo",
+    "name_en": "Sbruffo",
+    "name_zh": "喷粉玻璃",
+    "description_en": "Murano sbruffo: colored glass powders dusted on a molten gather, fused cloudy veils under fire polish. Not millefiori canes, not filigrana threads, not sommerso overlay.",
+    "description_zh": "喷粉玻璃：热料上洒色粉熔成云雾薄层，火抛光；非千花棒、非玻璃丝绵、非浸泡套色。",
+    "source": "hermes-explore",
+    "image": "styles/3629-sbruffo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3587",
+    "slug": "morikin",
+    "name_en": "Morikin",
+    "name_zh": "盛金",
+    "description_en": "Morikin piled gold: thick gold paste in sculptural relief on a dark glaze, raking-light mounds. Not flat kindei mud, not kirikane cut leaf, not fire-gilding.",
+    "description_zh": "盛金：暗釉上堆起厚金膏，侧光可见丘垄；非平涂金泥、非切金箔、非火镀金。",
+    "source": "hermes-explore",
+    "image": "styles/3630-morikin.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3588",
+    "slug": "ivorotype",
+    "name_en": "Ivorotype",
+    "name_zh": "象牙相纸",
+    "description_en": "Ivorotype: continuous-tone photograph on creamy artificial ivory, milky translucent highlights and faint varnish sheen. Not albumen paper, not daguerreotype metal, not opalotype glass.",
+    "description_zh": "象牙相纸：乳白仿象牙片上的连续调照片，半透明高光与薄漆泽；非蛋白纸、非达盖尔金属、非乳白玻璃正片。",
+    "source": "hermes-explore",
+    "image": "styles/3631-ivorotype.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3589",
+    "slug": "kanga",
+    "name_en": "Kanga",
+    "name_zh": "汉画",
+    "description_en": "Kanga: Japanese painting in the Chinese academic manner — ink structure, axe-cut cun, pale mineral tints. Not Rimpa gold ground, not Yamato-e fill, not Nanga wet literati splash.",
+    "description_zh": "汉画：日本的中国院体笔法，墨骨斧劈皴与淡石色；非琳派金地、非大和绘填彩、非南画湿笔泼写。",
+    "source": "hermes-explore",
+    "image": "styles/3632-kanga.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3590",
+    "slug": "honzo-e",
+    "name_en": "Honzo-e",
+    "name_zh": "本草绘",
+    "description_en": "Honzo-e: Edo honzogaku botanical painting — precise outline, mineral-plant pigments, specimen clarity on washi. Not Rimpa flattening, not gongbi court flowers, not nishiki-e.",
+    "description_zh": "本草绘：江户本草学画法，细线与矿物植物色、和纸上的标本清晰度；非琳派平面、非工笔院体花鸟、非锦绘。",
+    "source": "hermes-explore",
+    "image": "styles/3633-honzo-e.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
