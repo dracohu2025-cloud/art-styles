@@ -10238,6 +10238,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3693, PNG count 3693. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 731 (exactly 5, h3651–h3655)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3651 | French Shell Marbling   | 法国贝壳水拓     | styles/3694-french-shell-marbling.png   |
+| h3652 | Wild Goat Style         | 野山羊陶绘       | styles/3695-wild-goat-style.png         |
+| h3653 | Cartoon Modern          | 卡通现代         | styles/3696-cartoon-modern.png          |
+| h3654 | Alabastro               | 雪花石膏玻璃     | styles/3697-alabastro.png               |
+| h3655 | Cartapesta              | 纸塑彩绘         | styles/3698-cartapesta.png              |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3698, PNG count 3698. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

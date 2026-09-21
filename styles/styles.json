@@ -48007,5 +48007,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3651",
+    "slug": "french-shell-marbling",
+    "name_en": "French Shell Marbling",
+    "name_zh": "法国贝壳水拓",
+    "description_en": "French shell (coquille) marbling: concentric comma-loops of ochre, indigo, oxblood and ivory combed on sized paper. Not nonpareil, not ebru floral, not suminagashi.",
+    "description_zh": "法国贝壳水拓：在胶液纸上梳出赭、靛、牛血与象牙色的同心逗号涡纹；非细直梳纹、非土耳其花形水拓、非墨流。",
+    "source": "hermes-explore",
+    "image": "styles/3694-french-shell-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3652",
+    "slug": "wild-goat-style",
+    "name_en": "Wild Goat Style",
+    "name_zh": "野山羊陶绘",
+    "description_en": "East Greek Wild Goat Style vase painting: creamy slip, dark silhouette, palmettes, rays and grazing goats in Orientalizing registers. Not Attic black-figure, not red-figure, not Geometric.",
+    "description_zh": "东希腊野山羊陶绘：奶油色化妆土、深色剪影、棕叶纹、射线纹与食草山羊的东方化饰带；非阿提卡黑绘、非红绘、非几何陶绘。",
+    "source": "hermes-explore",
+    "image": "styles/3695-wild-goat-style.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3653",
+    "slug": "cartoon-modern",
+    "name_en": "Cartoon Modern",
+    "name_zh": "卡通现代",
+    "description_en": "1950s Cartoon Modern graphic illustration: biased flattened shapes, limited poster palette, bold color fields and playful geometry. Not 1990s cel, not ligne claire, not superflat.",
+    "description_zh": "一九五〇年代卡通现代图形插画：偏置扁平形、有限海报色、大色块与俏皮几何；非九十年代赛璐珞、非清晰线条、非超扁平。",
+    "source": "hermes-explore",
+    "image": "styles/3696-cartoon-modern.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3654",
+    "slug": "alabastro",
+    "name_en": "Alabastro",
+    "name_zh": "雪花石膏玻璃",
+    "description_en": "Murano alabastro glass: opaque milky swirls of white, blush and smoke fused in the gather, alabaster striations. Not opaline, not agate glass, not cameo glass.",
+    "description_zh": "穆拉诺雪花石膏玻璃：熔料中乳白、腮红与烟色不透明旋纹，如雪花石膏纹理；非乳浊玻璃、非玛瑙玻璃、非浮雕套色玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3697-alabastro.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3655",
+    "slug": "cartapesta",
+    "name_en": "Cartapesta",
+    "name_zh": "纸塑彩绘",
+    "description_en": "Italian cartapesta: laminated paper pulp, gesso, tempera and water-gilding with compressed fiber wrinkles. Not ceramic, not wood carving, not oil on canvas.",
+    "description_zh": "意大利纸塑彩绘：层压纸浆、石膏底、蛋彩与水贴金，可见纸纤维压皱；非陶瓷、非木雕、非布面油画。",
+    "source": "hermes-explore",
+    "image": "styles/3698-cartapesta.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
