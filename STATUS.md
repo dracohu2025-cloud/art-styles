@@ -10280,6 +10280,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3708, PNG count 3708. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 734 (exactly 5, h3666–h3670)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3666 | Mothara                 | 方格绞染         | styles/3709-mothara.png                 |
+| h3667 | Haikatsugi              | 灰被天目         | styles/3710-haikatsugi.png              |
+| h3668 | Picoté Marbling         | 细点水拓         | styles/3711-picote-marbling.png         |
+| h3669 | Rock Crystal Cutting    | 水晶刻磨         | styles/3712-rock-crystal-cutting.png    |
+| h3670 | Bucks Point             | 白金汉点地       | styles/3713-bucks-point.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3713, PNG count 3713. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

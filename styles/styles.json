@@ -48202,5 +48202,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3666",
+    "slug": "mothara",
+    "name_en": "Mothara",
+    "name_zh": "方格绞染",
+    "description_en": "Mothara: Rajasthani checkered bandhani from two-direction tying, a grid of tiny resist squares and dotted intersections. Not leheriya diagonals, not ajrakh blockprint.",
+    "description_zh": "莫特拉扎染：拉贾斯坦双向打结的方格绞染，细密防染方格与交叉白点；非勒赫里亚斜纹、非阿吉拉赫木版。",
+    "source": "hermes-explore",
+    "image": "styles/3709-mothara.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3667",
+    "slug": "haikatsugi",
+    "name_en": "Haikatsugi",
+    "name_zh": "灰被天目",
+    "description_en": "Haikatsugi: ash-covered tenmoku, an opaque milky ash-feldspar veil over dark iron glaze with kiln-run drips. Not yuteki oil-spot, not yohen stars.",
+    "description_zh": "灰被天目：乳白灰釉帷幕覆于铁黑釉上，窑流与橘皮熔痕；非油滴、非曜变星斑。",
+    "source": "hermes-explore",
+    "image": "styles/3710-haikatsugi.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3668",
+    "slug": "picote-marbling",
+    "name_en": "Picoté Marbling",
+    "name_zh": "细点水拓",
+    "description_en": "Picoté marbling: fine atomized pigment dots floating on size, a speckled field without combing. Not stormont veins, not nonpareil, not French curl.",
+    "description_zh": "皮科特水拓：色料细点喷洒于水拓胶液，满铺斑点而不梳纹；非斯托蒙特脉络、非无双梳纹、非法式卷曲。",
+    "source": "hermes-explore",
+    "image": "styles/3711-picote-marbling.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3669",
+    "slug": "rock-crystal-cutting",
+    "name_en": "Rock Crystal Cutting",
+    "name_zh": "水晶刻磨",
+    "description_en": "Rock crystal cutting: late-19th-century deep mitre-cut and fire-polished glass imitating natural rock crystal, hobstar and strawberry-diamond. Not cameo overlay, not copper-wheel engraving.",
+    "description_zh": "水晶刻磨：十九世纪末深斜切并火抛光的无色玻璃，仿天然水晶，霍星与草莓菱纹；非浮雕套色、非铜轮阴刻。",
+    "source": "hermes-explore",
+    "image": "styles/3712-rock-crystal-cutting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3670",
+    "slug": "bucks-point",
+    "name_en": "Bucks Point",
+    "name_zh": "白金汉点地",
+    "description_en": "Bucks Point: Buckinghamshire point-ground bobbin lace, hexagonal réseau with gimp-outlined sprigs in fine linen. Not Chantilly silk, not Honiton clothwork, not torchon.",
+    "description_zh": "白金汉点地花边：白金汉郡六角点地梭结蕾丝，细亚麻线与加厚轮廓花枝；非尚蒂伊黑丝、非霍尼顿布绣、非托尚粗地。",
+    "source": "hermes-explore",
+    "image": "styles/3713-bucks-point.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
