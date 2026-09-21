@@ -10126,6 +10126,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3653, PNG count 3653. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 723 (exactly 5, h3611–h3615)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3611 | Senneh Knot             | 塞内结           | styles/3654-senneh-knot.png             |
+| h3612 | Inkle Weaving           | 窄带编织         | styles/3655-inkle-weaving.png           |
+| h3613 | Paillon                 | 箔片珐琅         | styles/3656-paillon.png                 |
+| h3614 | Screenless Litho        | 无网平印         | styles/3657-screenless-litho.png        |
+| h3615 | Overglaze Enamel        | 釉上彩           | styles/3658-overglaze-enamel.png        |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3658, PNG count 3658. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match

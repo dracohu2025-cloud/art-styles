@@ -47487,5 +47487,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3611",
+    "slug": "senneh-knot",
+    "name_en": "Senneh Knot",
+    "name_zh": "塞内结",
+    "description_en": "Senneh Knot: Persian asymmetric pile knot — fine wool-and-silk knot heads, directional pile sheen, floral-geometric medallion weaving. Not Ghiordes/Turkish knot, not kilim slit-tapestry, not embroidery.",
+    "description_zh": "塞内结：波斯不对称绒结，细羊毛与丝线结头、绒向闪光、花卉几何团花；非土耳其结、非基里姆缝织、非刺绣。",
+    "source": "hermes-explore",
+    "image": "styles/3654-senneh-knot.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3612",
+    "slug": "inkle-weaving",
+    "name_en": "Inkle Weaving",
+    "name_zh": "窄带编织",
+    "description_en": "Inkle Weaving: warp-faced band weaving on an inkle loom — packed warp floats, pick-up diamonds and chevrons, weft hidden except at selvedge. Not tablet weaving, not drawloom brocade, not knitting.",
+    "description_zh": "窄带编织：inkle织机经面窄带，经浮紧密、提花菱纹与人字、纬线仅在边缘可见；非卡片织带、非花楼织锦、非针织。",
+    "source": "hermes-explore",
+    "image": "styles/3655-inkle-weaving.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3613",
+    "slug": "paillon",
+    "name_en": "Paillon",
+    "name_zh": "箔片珐琅",
+    "description_en": "Paillon: stamped gold and silver foil flakes fired under transparent enamel flux so metal flashes through glass. Not cloisonné wire, not champlevé pits, not loose gold-leaf icons.",
+    "description_zh": "箔片珐琅：冲压金银箔片埋入透明釉下烧成，金属在玻璃中闪光；非掐丝、非錾胎凹槽、非散贴金箔圣像。",
+    "source": "hermes-explore",
+    "image": "styles/3656-paillon.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3614",
+    "slug": "screenless-litho",
+    "name_en": "Screenless Litho",
+    "name_zh": "无网平印",
+    "description_en": "Screenless Litho: continuous-tone photolithography without a halftone screen — tusche washes, litho crayon grain, velvety unscreened ink film. Not offset dots, not mezzotint, not photocopy.",
+    "description_zh": "无网平印：无半色调网的连续调照相平印，油墨洗与蜡笔颗粒、丝绒般无网点墨膜；非胶印网点、非美柔汀、非复印。",
+    "source": "hermes-explore",
+    "image": "styles/3657-screenless-litho.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3615",
+    "slug": "overglaze-enamel",
+    "name_en": "Overglaze Enamel",
+    "name_zh": "釉上彩",
+    "description_en": "Overglaze Enamel: low-fire enamel colors sitting on an already-glazed porcelain skin — raised glossy puddles, gold outlines, fired shine. Not underglaze cobalt, not oil paint, not acrylic.",
+    "description_zh": "釉上彩：低温珐琅彩画在已釉白瓷上，微凸光泽色淀与金线、烧成亮面；非釉下青花、非油画、非丙烯。",
+    "source": "hermes-explore",
+    "image": "styles/3658-overglaze-enamel.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
