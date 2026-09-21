@@ -47357,5 +47357,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3601",
+    "slug": "humanist-minuscule",
+    "name_en": "Humanist Minuscule",
+    "name_zh": "人文主义小写",
+    "description_en": "Humanist minuscule: Italian Renaissance littera antica bookhand with even round minims, short ascenders, two-storey a, and walnut-gall ink on ruled vellum. Not Carolingian minuscule, not gothic textura, not chancery italic.",
+    "description_zh": "人文主义小写：意大利文艺复兴 littera antica 书体，均匀圆润竖笔、短上下延、双层 a 与核桃五倍子墨写于划线羊皮；非加洛林小写、非哥特纹理体、非文书斜体。",
+    "source": "hermes-explore",
+    "image": "styles/3644-humanist-minuscule.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3602",
+    "slug": "secretary-hand",
+    "name_en": "Secretary Hand",
+    "name_zh": "书记手书",
+    "description_en": "Secretary hand: Tudor–Stuart English documentary script with looped h, Greek e, secretary s/r, contractions, and iron-gall ink on laid paper. Not roundhand, not Spencerian, not humanist minuscule.",
+    "description_zh": "书记手书：都铎–斯图亚特英格兰文书体，环状 h、希腊式 e、书记体 s/r、大量缩写与铁胆墨咬入布纹纸；非圆手、非斯宾塞体、非人文主义小写。",
+    "source": "hermes-explore",
+    "image": "styles/3645-secretary-hand.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3603",
+    "slug": "opus-africanum",
+    "name_en": "Opus Africanum",
+    "name_zh": "非洲砌",
+    "description_en": "Opus africanum: Punic/Roman chainage masonry of vertical stone orthostats framing rubble or mudbrick infill panels. Not opus latericium brickwork, not opus reticulatum, not pebble mosaic.",
+    "description_zh": "非洲砌：布匿/罗马框砌，直立石柱墩夹填碎石或土坯墙芯；非罗马砖砌、非网纹砌、非卵石镶嵌。",
+    "source": "hermes-explore",
+    "image": "styles/3646-opus-africanum.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3604",
+    "slug": "jiseung",
+    "name_en": "Jiseung",
+    "name_zh": "纸绳编",
+    "description_en": "Jiseung: Korean hanji paper-cord craft — twisted, coiled, and woven paper fiber with visible spiral joins and tea-dyed browns. Not rattan wicker, not maedeup knotting, not bojagi patchwork.",
+    "description_zh": "纸绳编：韩国韩纸绳工艺，搓捻、盘绕与编织纸纤维，可见螺旋接缝与柿染棕调；非藤编、非结绳、非褓拼布。",
+    "source": "hermes-explore",
+    "image": "styles/3647-jiseung.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3605",
+    "slug": "ronghua",
+    "name_en": "Ronghua",
+    "name_zh": "绒花",
+    "description_en": "Ronghua: Chinese silk velvet-flower craft — dyed filaments wound on copper wire and clipped into dense cut-pile blooms. Not silk embroidery stitches, not tsumami-zaiku, not paper flowers.",
+    "description_zh": "绒花：中国蚕丝绒花，染色丝缕缠铜丝后剪成密绒花朵；非刺绣针脚、非つまみ細工、非纸花。",
+    "source": "hermes-explore",
+    "image": "styles/3648-ronghua.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

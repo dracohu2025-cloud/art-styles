@@ -10098,6 +10098,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3643, PNG count 3643. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 721 (exactly 5, h3601–h3605)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3601 | Humanist Minuscule      | 人文主义小写     | styles/3644-humanist-minuscule.png      |
+| h3602 | Secretary Hand          | 书记手书         | styles/3645-secretary-hand.png          |
+| h3603 | Opus Africanum          | 非洲砌           | styles/3646-opus-africanum.png          |
+| h3604 | Jiseung                 | 纸绳编           | styles/3647-jiseung.png                 |
+| h3605 | Ronghua                 | 绒花             | styles/3648-ronghua.png                 |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3648, PNG count 3648. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
