@@ -48072,5 +48072,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3656",
+    "slug": "ibarazuri",
+    "name_en": "Ibarazuri",
+    "name_zh": "荆棘摺",
+    "description_en": "Japanese ibarazuri woodblock: inked thorny twigs pressed for scratchy botanical striations and bristly fiber ticks on washi. Not nishiki-e polish, not standard woodcut hatching, not drypoint burr.",
+    "description_zh": "日本荆棘摺：以带刺枝条着墨压印，呈刮擦植物纹理与纤维刺点；非锦绘工整、非普通木刻排线、非干刻毛刺。",
+    "source": "hermes-explore",
+    "image": "styles/3699-ibarazuri.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3657",
+    "slug": "konyakuzome",
+    "name_en": "Konyakuzome",
+    "name_zh": "蒟蒻染",
+    "description_en": "Japanese konyakuzome: konjac-jelly resist on cloth, soft gelatinous edges and cloudy dye bleed into the weave. Not wax batik crackle, not katazome stencil bite, not yuzen rice-paste line.",
+    "description_zh": "日本蒟蒻染：蒟蒻糊防染，边缘如冻胶、染料渗入织纹；非蜡染裂纹、非型染锐边、非友禅米糊细线。",
+    "source": "hermes-explore",
+    "image": "styles/3700-konyakuzome.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3658",
+    "slug": "vetro-a-penne",
+    "name_en": "Vetro a Penne",
+    "name_zh": "羽纹玻璃",
+    "description_en": "Murano vetro a penne: combed cane stripes feathered like quills inside clear crystal. Not filigrana mesh, not zanfirico twists, not reticello grid.",
+    "description_zh": "穆拉诺羽纹玻璃：色棒梳拉成羽状条纹嵌于透明水晶；非玻璃丝网格、非螺旋玻璃丝、非网格玻璃。",
+    "source": "hermes-explore",
+    "image": "styles/3701-vetro-a-penne.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3659",
+    "slug": "vetro-inciso",
+    "name_en": "Vetro Inciso",
+    "name_zh": "刻纹玻璃",
+    "description_en": "Murano vetro inciso: dense parallel wheel-cut grooves on blown glass, satin incision vs polish. Not cameo glass, not battuto hammered facets, not pictorial crystal engraving.",
+    "description_zh": "穆拉诺刻纹玻璃：吹制玻璃上密排轮刻细槽，霜面刻线与抛光对照；非浮雕套色、非锤纹切面、非绘画性水晶雕刻。",
+    "source": "hermes-explore",
+    "image": "styles/3702-vetro-inciso.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3660",
+    "slug": "egermann-stain",
+    "name_en": "Egermann Stain",
+    "name_zh": "埃格曼套色",
+    "description_en": "Bohemian Egermann stain: transparent ruby and amber fired color films on clear glass. Not lithyalin marbleized opaque glass, not flashed casing, not opaque painted enamel.",
+    "description_zh": "波希米亚埃格曼套色：透明宝石红与琥珀黄烧制色膜覆于净玻璃；非石纹不透明玻璃、非套色罩层、非不透明画珐琅。",
+    "source": "hermes-explore",
+    "image": "styles/3703-egermann-stain.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

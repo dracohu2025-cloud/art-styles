@@ -10252,6 +10252,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3698, PNG count 3698. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 732 (exactly 5, h3656–h3660)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3656 | Ibarazuri               | 荆棘摺           | styles/3699-ibarazuri.png               |
+| h3657 | Konyakuzome             | 蒟蒻染           | styles/3700-konyakuzome.png             |
+| h3658 | Vetro a Penne           | 羽纹玻璃         | styles/3701-vetro-a-penne.png           |
+| h3659 | Vetro Inciso            | 刻纹玻璃         | styles/3702-vetro-inciso.png            |
+| h3660 | Egermann Stain          | 埃格曼套色       | styles/3703-egermann-stain.png          |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3703, PNG count 3703. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
