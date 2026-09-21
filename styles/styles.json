@@ -48137,5 +48137,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3661",
+    "slug": "qamariya",
+    "name_en": "Qamariya",
+    "name_zh": "卡马里亚彩窗",
+    "description_en": "Yemeni qamariya: jewel-tone glass chips set in thick white gypsum tracery. Not leaded came, not Tiffany copper foil, not zellige tile.",
+    "description_zh": "也门卡马里亚彩窗：厚白石膏花格嵌宝石色玻璃片；非铅条镶嵌、非蒂芙尼铜箔、非泽利格瓷砖。",
+    "source": "hermes-explore",
+    "image": "styles/3704-qamariya.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3662",
+    "slug": "webb-cameo",
+    "name_en": "Webb Cameo",
+    "name_zh": "韦伯浮雕套色",
+    "description_en": "Victorian Thomas Webb English cameo glass: opaque white overlay acid- and wheel-carved on transparent colored casing. Not Roman cameo glass, not jasperware, not lithophane.",
+    "description_zh": "维多利亚韦伯浮雕套色玻璃：不透明白套层经酸蚀与铜轮雕刻覆于透明色地；非罗马浮雕玻璃、非碧玉瓷、非透光瓷。",
+    "source": "hermes-explore",
+    "image": "styles/3705-webb-cameo.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3663",
+    "slug": "silver-lustre",
+    "name_en": "Silver Lustre",
+    "name_zh": "银光釉",
+    "description_en": "English platinum silver lustreware: thin metallic silver-pewter glaze with resist drawing on ceramic. Not mercury glass, not copper lustre, not chrome paint.",
+    "description_zh": "英国铂银光釉陶：薄层金属银白镴釉配合防染描绘；非水银玻璃、非铜光釉、非铬漆。",
+    "source": "hermes-explore",
+    "image": "styles/3706-silver-lustre.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3664",
+    "slug": "transfer-drawing",
+    "name_en": "Transfer Drawing",
+    "name_zh": "转印素描",
+    "description_en": "Solvent-transfer drawing: reversed ink and broken halftone burnished from printed matter onto paper. Not photocopy, not lithograph, not cut-paper collage.",
+    "description_zh": "溶剂转印素描：印刷图像经溶剂与摩擦以反向油墨、破碎网点转移到纸面；非复印、非石版、非剪贴拼贴。",
+    "source": "hermes-explore",
+    "image": "styles/3707-transfer-drawing.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3665",
+    "slug": "tynecastle",
+    "name_en": "Tynecastle",
+    "name_zh": "泰恩浮雕布",
+    "description_en": "Tynecastle canvas: 19th-century embossed sized linen wallcovering stained to imitate tooled leather. Not lincrusta, not anaglypta, not actual leather tooling.",
+    "description_zh": "泰恩卡斯尔浮雕布：十九世纪上胶亚麻压花墙布，染色仿锤揲皮革；非林克拉斯塔、非浮雕壁纸、非真皮压花。",
+    "source": "hermes-explore",
+    "image": "styles/3708-tynecastle.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]
