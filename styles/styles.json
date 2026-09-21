@@ -47942,5 +47942,70 @@
     "width": 1672,
     "height": 941,
     "aspect": "16:9"
+  },
+  {
+    "id": "h3646",
+    "slug": "vermiculation",
+    "name_en": "Vermiculation",
+    "name_zh": "虫蚀粗面",
+    "description_en": "Rusticated stone carved with dense worm-track grooves; raking light on ridge and furrow.",
+    "description_zh": "密布虫道凹槽的粗面石雕，侧光勾出脊沟。",
+    "source": "hermes-explore",
+    "image": "styles/3689-vermiculation.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3647",
+    "slug": "pargetting",
+    "name_en": "Pargetting",
+    "name_zh": "灰塑浮雕",
+    "description_en": "English ornamental lime plaster in modeled strapwork and punched relief.",
+    "description_zh": "英格兰灰泥塑饰：带状卷草与模压浮雕。",
+    "source": "hermes-explore",
+    "image": "styles/3690-pargetting.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3648",
+    "slug": "whieldon-ware",
+    "name_en": "Whieldon Ware",
+    "name_zh": "威尔顿陶",
+    "description_en": "Staffordshire clouded lead glaze; tortoiseshell mottling of green, brown, and yellow.",
+    "description_zh": "斯塔福德云纹铅釉，绿棕黄龟甲斑驳。",
+    "source": "hermes-explore",
+    "image": "styles/3691-whieldon-ware.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3649",
+    "slug": "katagami",
+    "name_en": "Katagami",
+    "name_zh": "型纸",
+    "description_en": "Persimmon-tanned mulberry stencil with knife-cut voids and silk-thread reinforcement.",
+    "description_zh": "柿涩和纸型纸，刀刻镂空与丝线加固。",
+    "source": "hermes-explore",
+    "image": "styles/3692-katagami.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
+  },
+  {
+    "id": "h3650",
+    "slug": "cuenca-tile",
+    "name_en": "Cuenca Tile",
+    "name_zh": "盆地彩砖",
+    "description_en": "Iberian cuenca tile: raised ridges holding pooled tin glazes in basins.",
+    "description_zh": "伊比利亚盆地砖：凸棱围出积釉色池。",
+    "source": "hermes-explore",
+    "image": "styles/3693-cuenca-tile.png",
+    "width": 1672,
+    "height": 941,
+    "aspect": "16:9"
   }
 ]

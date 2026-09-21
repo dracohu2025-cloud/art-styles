@@ -10224,6 +10224,20 @@ Shipped 5 new technique keywords (`source: hermes-explore`):
 
 Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3688, PNG count 3688. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
 
+## Hermes-explore batch 730 (exactly 5, h3646–h3650)
+
+Shipped 5 new technique keywords (`source: hermes-explore`):
+
+| id    | name_en                 | name_zh          | image                                   |
+|-------|-------------------------|------------------|-----------------------------------------|
+| h3646 | Vermiculation           | 虫蚀粗面         | styles/3689-vermiculation.png           |
+| h3647 | Pargetting              | 灰塑浮雕         | styles/3690-pargetting.png              |
+| h3648 | Whieldon Ware           | 威尔顿陶         | styles/3691-whieldon-ware.png           |
+| h3649 | Katagami                | 型纸             | styles/3692-katagami.png                |
+| h3650 | Cuenca Tile             | 盆地彩砖         | styles/3693-cuenca-tile.png             |
+
+Native 1672×941 PNGs via gpt-image-2-medium. Catalog 3693, PNG count 3693. No REJECT names. UI left flat (no filters/tabs). Five female OC. Halt after this batch.
+
 ## Verified
 
 - Catalog length and PNG count match
